@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_3_1",
+      "dlg": "卡戎，不擅长等待。只等100秒。"
+    },
+    {
+      "id": "announcer_cheer_3_2",
+      "dlg": "迟到的话卡戎就和梅菲先走了。"
+    },
+    {
+      "id": "announcer_specialcheer_3_1",
+      "dlg": "有变得痛痛的乘客。不能哭。"
+    },
+    {
+      "id": "announcer_specialcheer_3_2",
+      "dlg": "为什么他们变成了梅菲的食物？卡戎很伤心。"
+    },
+    {
+      "id": "announcer_enemy_break_3_1",
+      "dlg": "敌人都摇摇晃晃的。是不是，好机会？"
+    },
+    {
+      "id": "announcer_ally_break_3_1",
+      "dlg": "卡戎说过要系好安全带的。"
+    },
+    {
+      "id": "announcer_killenemy_3_1",
+      "dlg": "梅菲饿了。太好了。对吧梅菲？"
+    },
+    {
+      "id": "announcer_ally_dead_3_1",
+      "dlg": "一位乘客不说话了。之后要“滴答滴答”了。"
+    },
+    {
+      "id": "announcer_enemy_adv_3_1",
+      "dlg": "坏人赢了。卡戎，要先走了。"
+    },
+    {
+      "id": "announcer_ally_adv_3_1",
+      "dlg": "呀嚯。赢了。这边。"
+    },
+    {
+      "id": "announcer_danger_3_1",
+      "dlg": "……危在旦夕？卡戎还记得这个。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_3_1",
+      "dlg": "地板在晃动。卡戎也摇摇晃晃。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_3_1",
+      "dlg": "真神秘。不知道会出现什么。"
+    },
+    {
+      "id": "announcer_advatk_physical_3_1",
+      "dlg": "乘客给他们“嘭”了一下。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_3_1",
+      "dlg": "这样做一点意义都没有。笨蛋。"
+    },
+    {
+      "id": "announcer_advatk_attr_3_1",
+      "dlg": "有句话说，知道哪里出错了才是开始。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_3_1",
+      "dlg": "你知道刚才为什么会变成这样吗？……这句在戏剧里看过。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_3_1",
+      "dlg": "敌人们看起来心情很好。卡戎，很沮丧。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_3_1",
+      "dlg": "快看他们。好像要咕噜咕噜地吐出来了。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_3_1",
+      "dlg": "乘客们的身上，发生了什么好事吗？"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_3_1",
+      "dlg": "……呕吐袋在座位的底下。请不要吐在梅菲上。"
+    },
+    {
+      "id": "announcer_enemy_destroy_3_1",
+      "dlg": "喀嚓。部位被破坏了。继续这样也可以哦。"
+    },
+    {
+      "id": "announcer_enemy_destroy_3_2",
+      "dlg": "乘客们，把它弄坏了。不用赔钱所以没关系，继续吧。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_3_1",
+      "dlg": "卡戎，转来转去。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_3_2",
+      "dlg": "呜，看着很疼。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_3_1",
+      "dlg": "大成功。卡戎，很高兴。一起唱歌吗？"
+    },
+    {
+      "id": "announcer_round_givebigdmg_3_2",
+      "dlg": "哇啊！卡戎也吓了一跳。"
+    },
+    {
+      "id": "announcer_multikillenemy_3_1",
+      "dlg": "“一石二鼠”，对吗？卡戎，给你摸摸头。"
+    },
+    {
+      "id": "announcer_equip_3_1",
+      "dlg": "卡戎出现了。大家都很高兴。"
+    }
+  ]
+}

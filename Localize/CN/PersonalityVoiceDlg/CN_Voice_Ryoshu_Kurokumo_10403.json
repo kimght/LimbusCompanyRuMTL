@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10403_1",
+      "desc": "获得时",
+      "dlg": "If it gets in my way… not even the shadows are safe from my blade."
+    },
+    {
+      "id": "lobby_morning_10403_1",
+      "desc": "早间问候",
+      "dlg": "I’m sharpening my sword. Nothing more meaningful to start the day with."
+    },
+    {
+      "id": "lobby_noon_10403_1",
+      "desc": "午间问候",
+      "dlg": "I’m cleaning my sword. Nothing more appropriate to pass the noon with."
+    },
+    {
+      "id": "lobby_night_10403_1",
+      "desc": "晚间问候",
+      "dlg": "I’m polishing my sword. Nothing more worthy to end the day with."
+    },
+    {
+      "id": "smalltalk_10403_1",
+      "desc": "对话 1",
+      "dlg": "I like to act alone. Others only hinder me. Ah, there is one exception."
+    },
+    {
+      "id": "smalltalk_10403_2",
+      "desc": "对话 2",
+      "dlg": "It’s best not to speak needless words. Some might take it as an invitation to fight."
+    },
+    {
+      "id": "smalltalk_10403_3",
+      "desc": "对话 3",
+      "dlg": "Rodya is the only one I can get along with. She’s someone I can cross swords with, you dig?"
+    },
+    {
+      "id": "smalltalk_10403_4",
+      "desc": "同步后对话 1",
+      "dlg": "Too many people are on this bus. A quarter of what we have now would suffice. What do you think?"
+    },
+    {
+      "id": "smalltalk_10403_5",
+      "desc": "同步后对话 2",
+      "dlg": "If it’s to pursue a higher artistic caliber… I’m willing to accept this favor."
+    },
+    {
+      "id": "neglect_10403_1",
+      "desc": "闲置",
+      "dlg": "Hey, did you seriously vanish without a word? Some bold clock you are."
+    },
+    {
+      "id": "gacksung_10403_1",
+      "desc": "进行同步",
+      "dlg": "I’ll show you the ultimate swordsmanship."
+    },
+    {
+      "id": "formation_10403_1",
+      "desc": "人格出战",
+      "dlg": "My sword’s ready."
+    },
+    {
+      "id": "battleentry_10403_1",
+      "desc": "进入战斗",
+      "dlg": "Wanna see what I can express with a sharp blade?"
+    },
+    {
+      "id": "battle_select_10403_1",
+      "desc": "战斗中选中人格",
+      "dlg": "You’re not picking a fight, are you?"
+    },
+    {
+      "id": "battle_endcommand_10403_1",
+      "desc": "进行攻击",
+      "dlg": "Just don’t get in the way."
+    },
+    {
+      "id": "battle_enemy_break_10403_1",
+      "desc": "敌方混乱",
+      "dlg": "Was the edge dull?"
+    },
+    {
+      "id": "battle_break_10403_1",
+      "desc": "友方混乱",
+      "dlg": "Tch!"
+    },
+    {
+      "id": "battle_kill_10403_1",
+      "desc": "击杀敌方",
+      "dlg": "Was sharpened pretty nicely."
+    },
+    {
+      "id": "battle_allydead_10403_1",
+      "desc": "友方死亡",
+      "dlg": "One less source of noise for a while."
+    },
+    {
+      "id": "choice_success_p_10403_1",
+      "desc": "检定成功",
+      "dlg": "Came to an agreement."
+    },
+    {
+      "id": "choice_fail_n_10403_1",
+      "desc": "检定失败",
+      "dlg": "It was too bothersome."
+    },
+    {
+      "id": "battle_clear_10403_1",
+      "desc": "战斗胜利",
+      "dlg": "Behold, idiots. This is how you use a sword."
+    },
+    {
+      "id": "battle_clear_ex_10403_1",
+      "desc": "附加挑战胜利",
+      "dlg": "I believe I’ve seen a satisfying amount of blood."
+    },
+    {
+      "id": "battle_defeat_10403_1",
+      "desc": "战斗失败",
+      "dlg": "I’d have dealt with this in seconds if I did it myself."
+    }
+  ]
+}

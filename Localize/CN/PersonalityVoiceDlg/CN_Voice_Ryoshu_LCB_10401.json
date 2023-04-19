@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": "get_10401_1",
+      "desc": "获得时",
+      "dlg": "It’s Ryōshū. Shūre’s nice to meet ya. …Pft."
+    },
+    {
+      "id": "lobby_morning_10401_1",
+      "desc": "早间问候",
+      "dlg": "What are you meandering about for so early? Looking for batteries?"
+    },
+    {
+      "id": "lobby_noon_10401_1",
+      "desc": "午间问候",
+      "dlg": "Yep, nothing like a cig after lunch to drive off the dullness."
+    },
+    {
+      "id": "lobby_night_10401_1",
+      "desc": "晚间问候",
+      "dlg": "The audience here is dull. A real work of art should open their eyes."
+    },
+    {
+      "id": "smalltalk_10401_1",
+      "desc": "对话 1",
+      "dlg": "It’s been a while since I saw art worth appraising. All I see these days are cheap imitations. Hmph."
+    },
+    {
+      "id": "smalltalk_10401_2",
+      "desc": "对话 2",
+      "dlg": "If you wanna hang out with me, the least you can do is carry a lighter around, clock."
+    },
+    {
+      "id": "smalltalk_10401_3",
+      "desc": "对话 3",
+      "dlg": "Don’t bother me if you aren’t trying to tell me what time it is."
+    },
+    {
+      "id": "neglect_10401_1",
+      "desc": "闲置",
+      "dlg": "You talk to me first and then walk away… Where’d you learn that custom?"
+    },
+    {
+      "id": "formation_10401_1",
+      "desc": "人格出战",
+      "dlg": "Lemme show ‘em what art is."
+    },
+    {
+      "id": "battleentry_10401_1",
+      "desc": "进入战斗",
+      "dlg": "I hope I’ll get to see some real art."
+    },
+    {
+      "id": "battle_select_10401_1",
+      "desc": "战斗中选中人格",
+      "dlg": "Brought a light?"
+    },
+    {
+      "id": "battle_endcommand_10401_1",
+      "desc": "进行攻击",
+      "dlg": "I’ll show you proper art."
+    },
+    {
+      "id": "battle_enemy_break_10401_1",
+      "desc": "敌方混乱",
+      "dlg": "Easy. It’s not done yet."
+    },
+    {
+      "id": "battle_break_10401_1",
+      "desc": "友方混乱",
+      "dlg": "Tch!"
+    },
+    {
+      "id": "battle_kill_10401_1",
+      "desc": "击杀敌方",
+      "dlg": "Could’ve been more beautiful."
+    },
+    {
+      "id": "battle_allydead_10401_1",
+      "desc": "友方死亡",
+      "dlg": "Not what I like to see."
+    },
+    {
+      "id": "choice_success_p_10401_2",
+      "desc": "检定成功",
+      "dlg": "Got a fine piece of work out of it."
+    },
+    {
+      "id": "choice_fail_n_10401_1",
+      "desc": "检定失败",
+      "dlg": "I did as I was told."
+    },
+    {
+      "id": "battle_clear_10401_1",
+      "desc": "战斗胜利",
+      "dlg": "Didn’t even break a sweat. It’ll take more than this to excite me."
+    },
+    {
+      "id": "battle_clear_ex_10401_1",
+      "desc": "附加挑战胜利",
+      "dlg": "You’re not a true artist if this is enough to rouse you."
+    },
+    {
+      "id": "battle_defeat_10401_1",
+      "desc": "战斗失败",
+      "dlg": "AFTERWARD.\nArtistic failure trounces excitement resoundingly, while all roads drag on."
+    }
+  ]
+}

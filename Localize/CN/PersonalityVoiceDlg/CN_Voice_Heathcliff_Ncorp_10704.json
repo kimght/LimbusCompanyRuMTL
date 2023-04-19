@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10704_1",
+      "desc": "获得时",
+      "dlg": "Right, I—I am… Wait, you’re not the superior… What?"
+    },
+    {
+      "id": "lobby_morning_10704_1",
+      "desc": "早间问候",
+      "dlg": "I’m busy at this time of day. Don’t talk to me. Oh… Where’d I put my book?"
+    },
+    {
+      "id": "lobby_noon_10704_1",
+      "desc": "午间问候",
+      "dlg": "Heretics shall be pur— Gah. What’d I just say? Bugger… This keeps happening after meals."
+    },
+    {
+      "id": "lobby_night_10704_1",
+      "desc": "晚间问候",
+      "dlg": "Wonder if I can get to sleep on time tonight… You should sleep while you can."
+    },
+    {
+      "id": "smalltalk_10704_1",
+      "desc": "对话 1",
+      "dlg": "Enough gabbing at me. I need this passage to stick in my head, and you aren’t helping."
+    },
+    {
+      "id": "smalltalk_10704_2",
+      "desc": "对话 2",
+      "dlg": "Hope I can get a proper meal someday. I’m sick of opening those cans of mushy stuff…"
+    },
+    {
+      "id": "smalltalk_10704_3",
+      "desc": "对话 3",
+      "dlg": "Heret—! Ah, bloody… Won’t you take off that minging mask? I almost killed you!"
+    },
+    {
+      "id": "smalltalk_10704_4",
+      "desc": "同步后对话 1",
+      "dlg": "My eyes look all sunken…? Yeah, I didn’t get my sleep. They made me recite the book all night for being five minutes late to the last gathering."
+    },
+    {
+      "id": "smalltalk_10704_5",
+      "desc": "同步后对话 2",
+      "dlg": "I am… a hammer… He who shall be gripped… to pound the filth away…"
+    },
+    {
+      "id": "neglect_10704_1",
+      "desc": "闲置",
+      "dlg": "…No one around? Guess a… short break can’t hurt."
+    },
+    {
+      "id": "gacksung_10704_1",
+      "desc": "进行同步",
+      "dlg": "Me…? No, don’t think I deserve to get all this… Not like I can refuse if you mean it."
+    },
+    {
+      "id": "formation_10704_1",
+      "desc": "人格出战",
+      "dlg": "Aye! Oh… Right."
+    },
+    {
+      "id": "battleentry_10704_1",
+      "desc": "进入战斗",
+      "dlg": "Haaa… It’s time."
+    },
+    {
+      "id": "battle_select_10704_1",
+      "desc": "战斗中选中人格",
+      "dlg": "What is it now…"
+    },
+    {
+      "id": "battle_endcommand_10704_1",
+      "desc": "进行攻击",
+      "dlg": "“Puri…fy.” Was that how it goes?"
+    },
+    {
+      "id": "battle_enemy_break_10704_1",
+      "desc": "敌方混乱",
+      "dlg": "Eliminate the heretic…"
+    },
+    {
+      "id": "battle_break_10704_1",
+      "desc": "友方混乱",
+      "dlg": "…Gah! Where am…"
+    },
+    {
+      "id": "battle_kill_10704_1",
+      "desc": "击杀敌方",
+      "dlg": "…Another one goes."
+    },
+    {
+      "id": "battle_dead_10704_1",
+      "desc": "死亡",
+      "dlg": "Dammit… Catherine…"
+    },
+    {
+      "id": "choice_success_p_10704_2",
+      "desc": "检定成功",
+      "dlg": "I did as I was told."
+    },
+    {
+      "id": "choice_fail_n_10704_1",
+      "desc": "检定失败",
+      "dlg": "I did as I was told, yet…"
+    },
+    {
+      "id": "battle_clear_10704_1",
+      "desc": "战斗胜利",
+      "dlg": "Are we… heading back now?"
+    },
+    {
+      "id": "battle_clear_ex_10704_1",
+      "desc": "附加挑战胜利",
+      "dlg": "If I keep up… I’ll be able to go back one day, right?"
+    },
+    {
+      "id": "battle_defeat_10704_1",
+      "desc": "战斗失败",
+      "dlg": "No, it can’t! I—If I head back like this… Nrgh!"
+    }
+  ]
+}

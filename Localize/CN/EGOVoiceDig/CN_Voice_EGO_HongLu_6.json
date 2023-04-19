@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20601_1",
+      "desc": "激活E.G.O",
+      "dlg": "让我们一起步入这幻境中的世界。"
+    },
+    {
+      "id": "battle_awaken_20602_1",
+      "desc": "激活E.G.O",
+      "dlg": "我会好好把握这愉悦的力度。"
+    },
+    {
+      "id": "battle_erosion_20602_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "脚踝对脚踝，咔哧……咔嚓……"
+    }
+  ]
+}

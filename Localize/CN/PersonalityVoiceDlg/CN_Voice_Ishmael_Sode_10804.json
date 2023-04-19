@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": "get_10804_1",
+      "desc": "获得时",
+      "dlg": "Ishmael speaking. Is there anything I can help you with?"
+    },
+    {
+      "id": "lobby_morning_10804_1",
+      "desc": "早间问候",
+      "dlg": "Ah, I was… doing my morning routine. I need to warm up my body for what’s to come."
+    },
+    {
+      "id": "lobby_noon_10804_1",
+      "desc": "午间问候",
+      "dlg": "I make sure to have a balanced diet at all times. True professionals are not picky eaters."
+    },
+    {
+      "id": "lobby_night_10804_1",
+      "desc": "晚间问候",
+      "dlg": "Did you have an untroubled day, Manager? It looks like I can finally rest."
+    },
+    {
+      "id": "smalltalk_10804_1",
+      "desc": "对话 1",
+      "dlg": "I know better than anyone about efficient mission planning and reconnaissance."
+    },
+    {
+      "id": "smalltalk_10804_2",
+      "desc": "对话 2",
+      "dlg": "One of the key qualities a manager must possess is the ability to utilize the ace members of their team."
+    },
+    {
+      "id": "smalltalk_10804_3",
+      "desc": "对话 3",
+      "dlg": "When carrying out missions, there’s nothing worse than charging in without a thought—like a certain someone. You need to anticipate every variable."
+    },
+    {
+      "id": "smalltalk_10804_4",
+      "desc": "同步后对话 1",
+      "dlg": "I know—I know I can be obsessive about preplanning at times.\nIn my defense, however, you should be well aware that even a small mistake can lead to discordance and consequently a total wipeout."
+    },
+    {
+      "id": "smalltalk_10804_5",
+      "desc": "同步后对话 2",
+      "dlg": "Occasionally… your capabilities reassure me, Manager. But at the same time, it leaves me with this empty feeling.\nThinking about my old teammates—they couldn’t even be given a proper burial…"
+    },
+    {
+      "id": "neglect_10804_1",
+      "desc": "闲置",
+      "dlg": "Sigh… Have you gone off to clean up after the others again?"
+    },
+    {
+      "id": "formation_10804_1",
+      "desc": "人格出战",
+      "dlg": "Mission confirmed, now on stand-by."
+    },
+    {
+      "id": "battleentry_10804_1",
+      "desc": "进入战斗",
+      "dlg": "Preparations are complete. Awaiting orders."
+    },
+    {
+      "id": "battle_select_10804_1",
+      "desc": "战斗中选中人格",
+      "dlg": "…Wilco."
+    },
+    {
+      "id": "battle_endcommand_10804_1",
+      "desc": "进行攻击",
+      "dlg": "Engaging the target."
+    },
+    {
+      "id": "battle_enemy_break_10804_1",
+      "desc": "敌方混乱",
+      "dlg": "Target incapacitated."
+    },
+    {
+      "id": "battle_break_10804_1",
+      "desc": "友方混乱",
+      "dlg": "Ah!"
+    },
+    {
+      "id": "battle_kill_10804_1",
+      "desc": "击杀敌方",
+      "dlg": "Target neutralization confirmed."
+    },
+    {
+      "id": "battle_allydead_10804_1",
+      "desc": "友方死亡",
+      "dlg": "…Medic, don’t we have a medical team?"
+    },
+    {
+      "id": "choice_success_p_10804_1",
+      "desc": "检定成功",
+      "dlg": "Ahem, reporting in that we’re all clear."
+    },
+    {
+      "id": "choice_fail_n_10804_1",
+      "desc": "检定失败",
+      "dlg": "Mission status… failure."
+    },
+    {
+      "id": "battle_clear_10804_1",
+      "desc": "战斗胜利",
+      "dlg": "Mission complete. Returning to base per procedure. Out."
+    },
+    {
+      "id": "battle_clear_ex_10804_1",
+      "desc": "附加挑战胜利",
+      "dlg": "This could earn me a medal… Ah, disregard this transmission! Mission complete. I-Ishmael, out!"
+    },
+    {
+      "id": "battle_defeat_10804_1",
+      "desc": "战斗失败",
+      "dlg": "My methodology was flawless. If you’re looking for a reason we failed, kindly search elsewhere."
+    }
+  ]
+}

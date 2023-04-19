@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11003_1",
+      "desc": "获得时",
+      "dlg": "I’ll protect you with all I can, Manager! Oh, um… Don’t go too far ahead…"
+    },
+    {
+      "id": "lobby_morning_11003_1",
+      "desc": "早间问候",
+      "dlg": "Have you had a good night’s sleep? Sorry? Oh, you’re wondering why I’m up so early? That’s just what the Zwei are like."
+    },
+    {
+      "id": "lobby_noon_11003_1",
+      "desc": "午间问候",
+      "dlg": "It’s lunchtime. I usually have food that’s easy to carry around. I guess I’ve grown a habit from my training days."
+    },
+    {
+      "id": "lobby_night_11003_1",
+      "desc": "晚间问候",
+      "dlg": "I should stay wide awake at night. You never know when an ambush might happen."
+    },
+    {
+      "id": "smalltalk_11003_1",
+      "desc": "对话 1",
+      "dlg": "Even if I can’t land a devastating blow… I can take one for you."
+    },
+    {
+      "id": "smalltalk_11003_2",
+      "desc": "对话 2",
+      "dlg": "Wagh, you startled me…! Sorry, I just don’t really like being snuck up on."
+    },
+    {
+      "id": "smalltalk_11003_3",
+      "desc": "对话 3",
+      "dlg": "When I first started joint training with Don Quixote, it was rather troubling… But now, I’ve gotten quite used to her antics."
+    },
+    {
+      "id": "smalltalk_11003_4",
+      "desc": "同步后对话 1",
+      "dlg": "In the past… I’d lost many precious people because I didn’t know what to do. That experience taught me desperation. It’s what drives me to do my best now."
+    },
+    {
+      "id": "smalltalk_11003_5",
+      "desc": "同步后对话 2",
+      "dlg": "I’d rather be a broken shield than a runaway. …I don’t want to suffer losing anyone else."
+    },
+    {
+      "id": "neglect_11003_1",
+      "desc": "闲置",
+      "dlg": "Manager…? Please let me know in advance if you plan to go somewhere… I’m worried sick."
+    },
+    {
+      "id": "gacksung_11003_1",
+      "desc": "进行同步",
+      "dlg": "I’ll work even harder! I’ll be sure to not let you down."
+    },
+    {
+      "id": "formation_11003_1",
+      "desc": "人格出战",
+      "dlg": "To be an unyielding shield."
+    },
+    {
+      "id": "battleentry_11003_1",
+      "desc": "进入战斗",
+      "dlg": "I’ll protect you with all my strength!"
+    },
+    {
+      "id": "battle_select_11003_1",
+      "desc": "战斗中选中人格",
+      "dlg": "I’ll try my best to keep the others safe!"
+    },
+    {
+      "id": "battle_endcommand_11003_1",
+      "desc": "进行攻击",
+      "dlg": "This way!"
+    },
+    {
+      "id": "battle_enemy_break_11003_1",
+      "desc": "敌方混乱",
+      "dlg": "Now’s our chance!"
+    },
+    {
+      "id": "battle_break_11003_1",
+      "desc": "友方混乱",
+      "dlg": "Ah!"
+    },
+    {
+      "id": "battle_kill_11003_1",
+      "desc": "击杀敌方",
+      "dlg": "I did it!"
+    },
+    {
+      "id": "battle_allydead_11003_1",
+      "desc": "友方死亡",
+      "dlg": "I couldn’t protect you…"
+    },
+    {
+      "id": "choice_success_p_11003_1",
+      "desc": "检定成功",
+      "dlg": "Thank you for having faith in me!"
+    },
+    {
+      "id": "choice_fail_n_11003_1",
+      "desc": "检定失败",
+      "dlg": "I couldn’t keep harm away…"
+    },
+    {
+      "id": "battle_clear_11003_1",
+      "desc": "战斗胜利",
+      "dlg": "I think I’m on the way to becoming a proper guardian."
+    },
+    {
+      "id": "battle_clear_ex_11003_1",
+      "desc": "附加挑战胜利",
+      "dlg": "I gave it my all, and I’m glad my effort paid off."
+    },
+    {
+      "id": "battle_defeat_11003_1",
+      "desc": "战斗失败",
+      "dlg": "I couldn’t protect the others. I thought things would be different this time…"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_21001_1",
+      "desc": "激活E.G.O",
+      "dlg": "如若我能用双手折下……"
+    },
+    {
+      "id": "battle_awaken_21002_1",
+      "desc": "激活E.G.O",
+      "dlg": "我要碾碎你……"
+    },
+    {
+      "id": "battle_erosion_21002_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "你，一样，也会成为活祭。"
+    }
+  ]
+}
