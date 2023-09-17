@@ -18,7 +18,7 @@
     },
     {
       "id": "lost_and_found",
-      "content": "Бюро\nнаходок"
+      "content": "Бюро находок"
     },
     {
       "id": "railway_line",
@@ -138,7 +138,7 @@
     },
     {
       "id": "railway_dungeon_current_station",
-      "content": "Станция: {0}"
+      "content": "Станция:\n{0}"
     },
     {
       "id": "railway_dungeon_route_map",
