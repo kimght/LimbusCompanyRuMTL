@@ -31,7 +31,17 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Следить за обновлениями:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/limbus_company_ru>Limbus Company RUS (VK)</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Поддержать проект:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/projmoon?w=app6471849_-132567568>VK Donations</link>\"}]}"
     },
     {
-      "id": 2911,
+      "id": 2915,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-09-09T18:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Перевод Ж/д преломления и сюжета ивента \"Адская куря\" (v0.1.4)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Был завершён перевод сюжетной части ивента ''Адская куря''.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Теперь доступны:</b>\\n - Эпизоды ивента ''Адская куря'',\\n - Перевод Пути 2 Ж/д преломления,\\n - Исправлены ошибки и опечатки, замеченные игроками.\"}]}"
+    },
+    {
+      "id": 2914,
       "version": 0,
       "type": 0,
       "startDate": "2023-09-09T18:00:00.000Z",
@@ -41,7 +51,7 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Представляем вам начало перевода мелких частей сюжета.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Теперь доступны:</b>\\n - Мини-эпизоды ивента ''Заметки Данте'',\\n - Исправлены ошибки и опечатки, замеченные игроками,\\n - Добавлены диалоги в проверки событий (ещё не переведены).\"}]}"
     },
     {
-      "id": 2911,
+      "id": 2913,
       "version": 0,
       "type": 0,
       "startDate": "2023-09-07T18:00:00.000Z",
