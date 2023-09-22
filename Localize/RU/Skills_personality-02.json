@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "Патрулирование",
-          "desc": "[DefeatDuel] Получает 2 Повышение уровня защиты",
+          "desc": "[DefeatDuel] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Получает 2 Повышение уровня защиты на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -21,13 +21,13 @@
         {
           "level": 2,
           "name": "Патрулирование",
-          "desc": "[DefeatDuel] Получает 3 Повышение уровня защиты",
+          "desc": "[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 Повышение уровня защиты на следующий ход"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "Патрулирование",
-          "desc": "[WhenUse] Получает +2 Провокация на этот слот на следующий ход\n[DefeatDuel] Получает 3 Повышение уровня защиты",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на этот слот на следующий ход\n[DefeatDuel] Получает 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 Повышение уровня защиты на следующий ход"
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 2 Повышение уровня защиты союзнику с самым низким процентом ОЗ (3 раза за ход)",
+          "desc": "[WhenUse] Даёт 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 3 Повышение уровня защиты союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ Повышение уровня защиты, Сила столкновения +1",
+          "desc": "[WhenUse] Даёт 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "Охрана клиента",
-          "desc": "[WhenUse] Даёт 4 Повышение уровня защиты союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ Повышение уровня защиты, Сила столкновения +2",
+          "desc": "[WhenUse] Даёт 4 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ (3 раза за ход)\nПри 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>, сила столкновения +2",
           "coinlist": [
             {
               "coindescs": [
@@ -145,13 +145,13 @@
         {
           "level": 3,
           "name": "Закон и порядок",
-          "desc": "Сила монет +1 при 5+ Повышение уровня защиты\n[WinDuel] Восстанавливает 2 ОЗ",
+          "desc": "сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 2 ОЗ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Даёт 1 Спешка и 2 Повышение уровня защиты союзнику с самым низким процентом ОЗ на следующий ход"
+                  "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
                 }
               ]
             }
@@ -160,16 +160,16 @@
         {
           "level": 4,
           "name": "Закон и порядок",
-          "desc": "Сила монет +1 при 5+ Повышение уровня защиты\n[WinDuel] Восстанавливает 4 ОЗ",
+          "desc": "сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 4 ОЗ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Даёт 1 Спешка и 2 Повышение уровня защиты союзнику с самым низким процентом ОЗ на следующий ход"
+                  "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
                 },
                 {
-                  "desc": "Если союзник — корректировщик ассоциации Цвай, даёт дополнительные 1 Спешка, 1 Повышение уровня защиты"
+                  "desc": "Если союзник — корректировщик ассоциации Цвай, даёт дополнительные 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение уровня защиты"
                 }
               ]
             }
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "[WhenUse] Получает +3 Провокация на этот слот на следующий ход",
+          "desc": "[WhenUse] Получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на этот слот на следующий ход",
           "coinlist": [
             {}
           ]

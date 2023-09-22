@@ -966,7 +966,7 @@
     },
     {
       "id": "active_skill_acquired",
-      "content": "Добавляется умение"
+      "content": "Добавляется навык"
     },
     {
       "id": "active_skill_reinforcement",
@@ -1459,6 +1459,26 @@
     {
       "id": "user_level_limit_increase_notice",
       "content": "※ Максимальный уровень Менеджера может быть повышен в следующих обновлениях."
+    },
+    {
+      "id": "level_up",
+      "content": "Повышение уровня"
+    },
+    {
+      "id": "summary",
+      "content": "Вкратце"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "Навык части"
+    },
+    {
+      "id": "awaken",
+      "content": "Пробуждение"
+    },
+    {
+      "id": "erosion",
+      "content": "Коррозия"
     }
   ]
 }

@@ -1,0 +1,185 @@
+{
+  "dataList": [
+    {
+      "id": 1090701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Озари незнание своё",
+          "desc": "Получает щит, равный (Откровение x 3% максимальных ОЗ), если этот навык был сброшен",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Озари незнание своё",
+          "desc": "Получает щит, равный (Откровение x 4% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] Если у грешницы 2+ Откровение, сила монет +(Откровение - 1)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Озари незнание своё",
+          "desc": "Получает щит, равный (Откровение x 5% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] Если у грешницы 2 и более <sprite name=\"KnowledgeExplored\"><color=#a16a3b><u><link=\"KnowledgeExplored\">Откровений</link></u></color>, сила монет +(Откровение - 1)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает границу выносливости грешницы на 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тяжесть знаний",
+          "desc": "Получает щит, равный (Откровение x 5% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Тяжесть знаний",
+          "desc": "Получает щит, равный (Откровение x 8% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Тяжесть знаний",
+          "desc": "Получает щит, равный (Откровение x 10% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила столкновения +2 против целей с 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопаний</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Болезненное просвещение",
+          "desc": "Получает щит, равный (Откровение x 15% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> 2 навыка низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает счётчкик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Болезненное просвещение",
+          "desc": "Получает щит, равный (Откровение x 20% максимальных ОЗ), если этот навык был сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color></link></u></color> 2 навыка низшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 против целей с 7+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает счётчкик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчкик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090704,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Погружённость в познания",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Погружённость в познания",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#a16a3b><u><link=\"Discard\">Сбрасывает</link></u></color> навык высшего ранга во всех слотах навыков грешницы\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

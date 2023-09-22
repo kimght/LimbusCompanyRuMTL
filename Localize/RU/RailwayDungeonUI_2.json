@@ -194,7 +194,15 @@
     },
     {
       "id": "railway_dungeon_2_pass_station",
-      "content": "Следующая остановка"
+      "content": "Следующая станция"
+    },
+    {
+      "id": "railway_dungeon_2_next_station",
+      "content": "Следующая станция"
+    },
+    {
+      "id": "railway_dungeon_2_final_station",
+      "content": "Последняя остановка"
     }
   ]
 }

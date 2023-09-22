@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "Свернуться",
-          "desc": "Если этот навык находится на ячейке, голова получает 50 ОЗ Щита за каждый <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзаряд</color></link></u>.\nЕсли голова сломана, вместо этого получает 25 ОЗ Щита за каждый <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзаряд.</color></link></u>\nПри потере того кол-ва ОЗ Щита, на которые был потрачен 1 Подзаряд, тратит ещё один дополнительный Подзаряд",
+          "desc": "Если этот навык находится на ячейке, голова получает 50 ОЗ Щита за каждый Подзаряд.\nЕсли голова сломана, вместо этого получает 25 ОЗ Щита за каждый Подзаряд.\nПри потере того кол-ва ОЗ Щита, на которые был потрачен 1 Подзаряд, тратит ещё один дополнительный Подзаряд",
           "coinlist": [
             {}
           ]
@@ -515,8 +515,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Запутывающий оберег",
-          "desc": "[WhenUse] Наносит 3 Запутывающий оберег проклятия",
+          "name": "Приклеенный оберег",
+          "desc": "[WhenUse] Наносит 3 Приклеенный оберег проклятия",
           "coinlist": [
             {
               "coindescs": [
@@ -535,7 +535,7 @@
         {
           "level": 1,
           "name": "Накапливающееся проклятие",
-          "desc": "[WhenUse] Наносит столько Запутывающий оберег проклятия, сколько <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Запутывающий оберег</color></link></u> у цели",
+          "desc": "[WhenUse] Наносит столько Приклеенный оберег проклятия, сколько <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Приклеенный оберег</color></link></u> у цели",
           "coinlist": [
             {},
             {
@@ -562,7 +562,7 @@
         {
           "level": 1,
           "name": "Чтобы никто не плакал",
-          "desc": "[EndBattle] Убирает все Прикреплённый оберег проклятия\n[WhenUse] При 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Прикреплённый оберег проклятия</color></link></u> сила монет -1",
+          "desc": "[EndBattle] Убирает все Переклеенный оберег проклятия\n[WhenUse] При 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Переклеенный оберег проклятия</color></link></u> сила монет -1",
           "coinlist": [
             {
               "coindescs": [
@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "Передача оберега",
-          "desc": "[WhenUse] Убирает все <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Запутывающие обереги проклятия</color></link></u> с цели.\nПолучает Прикреплённый оберег проклятия, равные кол-ву убранных Запутывающий оберег проклятия\n[StartBattle] Все части получают 3 Защищённости",
+          "desc": "[WhenUse] Убирает все <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Запутывающие обереги проклятия</color></link></u> с цели.\nПолучает Переклеенный оберег проклятия, равные кол-ву убранных Приклеенный оберег проклятия\n[StartBattle] Все части получают 3 Защищённости",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "Растущее проклятие",
-          "desc": "[WhenUse] Наносит Запутывающие обереги в кол-ве <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Запутывающий оберег</color></link></u> у цели",
+          "desc": "[WhenUse] Наносит Запутывающие обереги в кол-ве <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Приклеенный оберег</color></link></u> у цели",
           "coinlist": [
             {
               "coindescs": [
@@ -2150,7 +2150,7 @@
         {
           "level": 1,
           "name": "Чтобы никто не плакал",
-          "desc": "[EndBattle] Убирает все Прикреплённый оберег проклятия\n[WhenUse] При 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Прикреплённый оберег проклятия</color></link></u> сила монет -1",
+          "desc": "[EndBattle] Убирает все Переклеенный оберег проклятия\n[WhenUse] При 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Переклеенный оберег проклятия</color></link></u> сила монет -1",
           "coinlist": [
             {
               "coindescs": [

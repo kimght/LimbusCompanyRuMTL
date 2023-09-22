@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "Подождите!",
-          "desc": "Получает +3 счётчика Тремор, если это умение было сброшено",
+          "desc": "Получает +3 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, если этот навык был сброшен",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Понижает свои границы выносливости на число, равное счётчикам Тремор на себе (До 10) "
+                  "desc": "[OnSucceedAttackHead] Понижает свои границы выносливости на число, равное счётчикам <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе (До 10) "
                 }
               ]
             }
@@ -20,12 +20,12 @@
         {
           "level": 2,
           "name": "Подождите!",
-          "desc": "Получает +4 счётчика Тремор, если это умение было сброшено\n[WhenUse] Получает +2 счётчика Тремор\nПри 6+ счётчиках Тремор, получает конечную силу +1",
+          "desc": "Получает +4 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, если этот навык был сброшен\n[WhenUse] Получает +2 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\nПри 6+ счётчиках <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает конечную силу +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свои границы выносливости на число, равное счётчикам Тремор на себе (До 10) "
+                  "desc": "[OnSucceedAttack] Понижает свои границы выносливости на число, равное счётчикам <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе (До 10) "
                 }
               ]
             }
@@ -34,12 +34,12 @@
         {
           "level": 4,
           "name": "Подождите!",
-          "desc": "Получает +4 счётчика Тремор, если это умение было сброшено\n[WhenUse] Получает +2 счётчика Тремор\nПри 6+ счётчиках Тремор, получает конечную силу +2",
+          "desc": "Получает +4 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, если этот навык был сброшен\n[WhenUse] Получает +2 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\nПри 6+ счётчиках <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, получает конечную силу +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Понижает свои границы выносливости на число, равное счётчикам Тремор на себе (До 10) "
+                  "desc": "[OnSucceedAttack] Понижает свои границы выносливости на число, равное счётчикам <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на себе (До 10) "
                 }
               ]
             }
@@ -53,7 +53,7 @@
         {
           "level": 1,
           "name": "На кусочки",
-          "desc": "[WhenUse] Сбрасывает умение низшего ранга во всех слотах умений грешницы",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы",
           "coinlist": [
             {
               "coindescs": [
@@ -72,7 +72,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 6+ счётчиках Тремор, провоцирует Тремор. Снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] При 6+ счётчиках <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, провоцирует Тремор. Снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -81,7 +81,7 @@
         {
           "level": 2,
           "name": "На кусочки",
-          "desc": "Получает 1 Повышение уровня атаки, если это умение сброшено\n[WhenUse] Сбрасывает умение низшего ранга во всех слотах умений грешницы",
+          "desc": "Получает 1 Повышение уровня атаки, если этот навык сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы",
           "coinlist": [
             {
               "coindescs": [
@@ -100,7 +100,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 6+ счётчиках Тремор, провоцирует Тремор. Снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] При 6+ счётчиках <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, провоцирует Тремор. Снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -109,26 +109,26 @@
         {
           "level": 4,
           "name": "На кусочки",
-          "desc": "Получает 1 Повышение уровня атаки, если это умение сброшено\n[WhenUse] Сбрасывает умение низшего ранга во всех слотах умений грешницы",
+          "desc": "Получает 1 Повышение уровня атаки, если этот навык сброшен\n[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 6+ счётчиках Тремор, провоцирует Тремор. Снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] При 6+ счётчиках <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, провоцирует Тремор. Снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -142,36 +142,36 @@
         {
           "level": 3,
           "name": "Смелое решение",
-          "desc": "[WhenUse] Сбрасывает умения от высшего ранга к низшему из всех слотов умений грешницы\nТратит 10 счётчиков Тремор, чтобы получить силу монет +1",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> умения от высшего ранга к низшему из всех слотов умений грешницы\nТратит 10 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы получить силу монет +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если был потрачен счётчик Тремор, наносит +3 счётчика Тремор"
+                  "desc": "[OnSucceedAttack] Если был потрачен счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит +3 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -180,36 +180,36 @@
         {
           "level": 4,
           "name": "Смелое решение",
-          "desc": "[WhenUse] Сбрасывает умения от высшего ранга к низшему из всех слотов умений грешницы\nТратит 10 счётчиков Тремор, чтобы получить силу монет +2",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> умения от высшего ранга к низшему из всех слотов умений грешницы\nТратит 10 счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы получить силу монет +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если был потрачен счётчик Тремор, наносит +3 счётчика Тремор"
+                  "desc": "[OnSucceedAttack] Если был потрачен счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, наносит +3 счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] провоцирует Тремор; После провоцирования снижает счётчик Тремор цели на 1"
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор; После провоцирования снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
                 }
               ]
             }
@@ -223,7 +223,7 @@
         {
           "level": 1,
           "name": "Средство от похмелья",
-          "desc": "[WhenUse] Сбрасывает умение низшего ранга во всех слотах умений грешницы",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы",
           "coinlist": [
             {}
           ]
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "Средство от похмелья",
-          "desc": "[WhenUse] Сбрасывает умение низшего ранга во всех слотах умений грешницы",
+          "desc": "[WhenUse] <sprite name=\"Discard\"><color=#9F6A3A><u><link=\"Discard\">Сбрасывает</link></u></color> навык низшего ранга во всех слотах навыков грешницы",
           "coinlist": [
             {}
           ]
