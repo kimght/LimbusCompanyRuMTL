@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит Шквал утопания"
+                  "desc": "[OnSucceedAttack] Если на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, провоцирует Шквал утопания"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если на грешнике 10+ счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, дополнительно наносит 30% от прошедшего урона"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит Шквал утопания"
+                  "desc": "[OnSucceedAttack] Если на цели 6+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, провоцирует Шквал утопания"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если на грешнике 10+ счётчиков <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, дополнительно наносит 40% от прошедшего урона"
