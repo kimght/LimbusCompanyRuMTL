@@ -182,7 +182,7 @@
     },
     {
       "id": "railway_dungeon_2_reward_condition_special_ticket",
-      "content": "※ Может быть получен после прохождения Пути 2 за <color=#005823>{1}</color> и более кругов и менее, чем<color=#005823>{0}</color> ходов до окончания \n<color=#32434f>Сезона 2: Воспоминание</color>"
+      "content": "※ Может быть получен после прохождения Пути 2 за <color=#005823>{1}</color> и более кругов и менее, чем<color=#005823>{0}</color>\nходов до окончания <color=#32434f>Сезона 2: Воспоминание</color>"
     },
     {
       "id": "railway_dungeon_2_special_reward_title",

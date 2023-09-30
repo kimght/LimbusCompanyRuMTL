@@ -3,13 +3,13 @@
     {
       "id": 1001,
       "panicName": "Побуждение",
-      "lowMoraleDescription": "Начало хода: Получает 2 Спешка и 2 Уязвимость.",
+      "lowMoraleDescription": "Начало хода: Получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 Уязвимость.",
       "panicDescription": "Начало хода: Теряет 10 ОЗ."
     },
     {
       "id": 1002,
       "panicName": "Всплеск",
-      "lowMoraleDescription": "Начало хода: Получает 2 Повышение силы атаки и 2 Уязвимость.",
+      "lowMoraleDescription": "Начало хода: Получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 2 Уязвимость.",
       "panicDescription": "Начало хода: Случайный союзник теряет 20 СД."
     },
     {
@@ -22,12 +22,12 @@
       "id": 1004,
       "panicName": "Обескураженность",
       "lowMoraleDescription": "Начало хода: Получает 2 Понижение силы атаки.",
-      "panicDescription": "Начало хода: Получает 4 Понижение силы атаки."
+      "panicDescription": "Начало хода: Получает 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color>."
     },
     {
       "id": 1005,
       "panicName": "Обозлённость",
-      "lowMoraleDescription": "Начало хода: Получает 2 Повышение урона и 2 Уязвимость.",
+      "lowMoraleDescription": "Начало хода: Получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> и 2 Уязвимость.",
       "panicDescription": "Начало хода: Получает 5 Повышение урона и 5 Уязвимость."
     },
     {
@@ -46,7 +46,7 @@
       "id": 1008,
       "panicName": "Безрассудство",
       "lowMoraleDescription": "Когда впервые падает духом, выбирает цель случайно.",
-      "panicDescription": "Выбирает цель случайно; Сила столкновения +1, и получает 2 Повышение урона."
+      "panicDescription": "Выбирает цель случайно; Сила столкновения +1, и получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>."
     },
     {
       "id": 1009,
@@ -63,7 +63,7 @@
     {
       "id": 1011,
       "panicName": "Нестабильность",
-      "lowMoraleDescription": "Начало хода: Получает 2 Повышение силы атаки и 3 Связывание.",
+      "lowMoraleDescription": "Начало хода: Получает 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 3 Связывание.",
       "panicDescription": "Начало хода: Оглушается."
     },
     {

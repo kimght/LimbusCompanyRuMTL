@@ -80,7 +80,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 1 Связывание на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
@@ -98,7 +98,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит 1 Связывание на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
@@ -116,7 +116,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 Связывание на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 Тремор"
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 }
               ]
             }
