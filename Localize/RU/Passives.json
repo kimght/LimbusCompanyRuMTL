@@ -618,7 +618,7 @@
     {
       "id": 1060521,
       "name": "Высококачественная ампула",
-      "desc": "В начале след. хода даёт 2 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулы Корп. K</link></u></color> союзнику с наименьшими ОЗ."
+      "desc": "В начале следующего хода даёт 2 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулы Корп. K</link></u></color> союзнику с наименьшими ОЗ."
     },
     {
       "id": 1100601,
