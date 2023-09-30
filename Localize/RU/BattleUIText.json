@@ -378,7 +378,7 @@
     },
     {
       "id": "skillinfo_coinabilitytitle",
-      "content": "<size=38>Эффект умения</size>"
+      "content": "<size=38>Эффект навыка</size>"
     },
     {
       "id": "dungeon_save_desc",

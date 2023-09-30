@@ -164,7 +164,7 @@
         {
           "level": 4,
           "name": "Защитник",
-          "desc": "[WhenUse] Даёт всем союзникам 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> и 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\nСила монет +1 за 6 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> (До 3)\n+50% урона при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>",
+          "desc": "[WhenUse] Даёт всем союзникам 2 <sprite name=\"Endurance\"><color=#f8c200><u><link=\"Endurance\">Повышения силы защиты</link></u></color> и 3 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color>\nСила монет +1 за каждые 6 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышений уровня защиты</link></u></color> (До 3)\n+50% урона при 10+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>",
           "coinlist": [
             {},
             {},

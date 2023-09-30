@@ -145,7 +145,7 @@
         {
           "level": 3,
           "name": "Закон и порядок",
-          "desc": "сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 2 ОЗ",
+          "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 2 ОЗ",
           "coinlist": [
             {},
             {
@@ -160,7 +160,7 @@
         {
           "level": 4,
           "name": "Закон и порядок",
-          "desc": "сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 4 ОЗ",
+          "desc": "Сила монет +1 при 5+ <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышениях уровня защиты</link></u></color>\n[WinDuel] Восстанавливает 4 ОЗ",
           "coinlist": [
             {},
             {

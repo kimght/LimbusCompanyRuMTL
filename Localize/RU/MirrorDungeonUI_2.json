@@ -98,7 +98,7 @@
     },
     {
       "id": "dungeon_shop_upgrade_personality",
-      "content": "Изменение умения для {0}"
+      "content": "Изменение навыка для {0}"
     },
     {
       "id": "dungeon_shop_upgrade_personality_0_title",

@@ -178,7 +178,7 @@
     {
      "id": 854907,
      "name": "Волшебная пыль",
-     "desc": "Когда Фея убита, все идентичности получают 5 Дыхание и 2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на следующий ход."
+     "desc": "Когда Фея убита, все идентичности получают 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и 2 счётчика <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на следующий ход."
     },
     {
      "id": 855001,

@@ -493,7 +493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 Связывание на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -1672,7 +1672,7 @@
         {
           "level": 1,
           "name": "Обожжённые крики",
-          "desc": "[WinDuel] Получает 1 Спешка и 1 Повышение силы атаки на следующий ход",
+          "desc": "[WinDuel] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 Повышение силы атаки на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1694,7 +1694,7 @@
         {
           "level": 1,
           "name": "Обожжённые крики",
-          "desc": "[WinDuel] Получает 1 Спешка и 1 Повышение силы атаки на следующий ход",
+          "desc": "[WinDuel] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 1 Повышение силы атаки на следующий ход",
           "coinlist": [
             {
               "coindescs": [
