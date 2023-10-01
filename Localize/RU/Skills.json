@@ -9900,7 +9900,7 @@
         {
           "level": 1,
           "name": "Инъекция ампулы",
-          "desc": "[WhenUse] 1 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулу Корп. K</link></u></color> на следующий ход",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулу Корп. K</link></u></color> на следующий ход",
           "coinlist": [
             {}
           ]
@@ -9908,7 +9908,7 @@
         {
           "level": 4,
           "name": "Инъекция ампулы",
-          "desc": "[WhenUse] 1 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулу Корп. K</link></u></color> на следующий ход\n[WhenUse] Получает +5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на этот слот на следующий ход",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"KCorpSerum\"><color=#a16a3b><u><link=\"KCorpSerum\">Ампулу Корп. K</link></u></color> на следующий ход\n[WhenUse] Получает +5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на этот слот на следующий ход",
           "coinlist": [
             {}
           ]

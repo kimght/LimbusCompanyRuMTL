@@ -728,12 +728,12 @@
     {
       "id": 1060601,
       "name": "Мастерство зачистки",
-      "desc": "При 5+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>в начале боевой фазы получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход"
+      "desc": "При 5+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> в начале боевой фазы получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход"
     },
     {
       "id": 1060621,
       "name": "Тренировочное руководство по зачистке",
-      "desc": "При 5+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>в начале боевой фазы союзник с наименьшей скоростью получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
+      "desc": "При 5+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> в начале боевой фазы союзник с наименьшей скоростью получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> на следующий ход."
     },
     {
       "id": 1070601,
