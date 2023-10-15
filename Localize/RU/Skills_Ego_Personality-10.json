@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает двум союзникам с наименьшим процентом ОЗ 10% от максимальных ОЗ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "[BeforeAttack] Количество целей +1 при менее 50% ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает двум союзникам с наименьшим процентом ОЗ 12% от максимальных ОЗ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "[BeforeAttack] Количество целей +2 при менее 50% ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает двум союзникам с наименьшим процентом ОЗ 15% от максимальных ОЗ."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает 30% от нанесённого урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ\n[BeforeAttack] Количество целей +1 при менее 50% ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает 50% от нанесённого урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Фонарь",
+          "abName": "Фонарь фей",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ\n[BeforeAttack] Количество целей +2 при менее 50% ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижений уровня защиты</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает 50% от нанесённого урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

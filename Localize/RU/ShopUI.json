@@ -58,7 +58,7 @@
     },
     {
       "id": "mainui_shop_not_free",
-      "content": "Платные"
+      "content": "<size=14>Платное</size>"
     },
     {
       "id": "mainui_shop_purchase_per_today_fulled",
@@ -82,7 +82,7 @@
     },
     {
       "id": "mainui_shop_limit_purchase_periodic",
-      "content": "Остался {0}\nна прилавке"
+      "content": "<size=35>Остался {0}\nна прилавке</size>"
     },
     {
       "id": "mainui_shop_acquire_at_mailbox",
@@ -198,7 +198,7 @@
     },
     {
       "id": "remain_days_with_number",
-      "content": "Осталось дней: {0}"
+      "content": "Осталось \nдней: {0}"
     },
     {
       "id": "enkephalin_module",
