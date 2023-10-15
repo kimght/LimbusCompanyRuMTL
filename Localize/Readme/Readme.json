@@ -31,17 +31,27 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Следить за обновлениями:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/limbus_company_ru>Limbus Company RUS (VK)</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Поддержать проект:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/projmoon?w=app6471849_-132567568>VK Donations</link>\"}]}"
     },
     {
-      "id": 2915,
+      "id": 2918,
       "version": 0,
       "type": 0,
-      "startDate": "2023-09-22T18:00:00.000Z",
+      "startDate": "2023-10-15T18:00:00.000Z",
+      "endDate": "2023-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Патч-обновление (v0.1.7)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Долгожданный патч.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Теперь доступны:</b>\\n - Перевод двух новых ЭГО,\\n - Перенос багфиксов ProjectMoon в навыке Дьечи Роди и пассивке Хон Лу из Корп. K,\\n - Исправлены ошибки и опечатки, замеченные игроками.\"}]}"
+    },
+    {
+      "id": 2917,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-09-30T18:00:00.000Z",
       "endDate": "2023-12-31T23:00:00.000Z",
       "sprNameList": [],
       "title_KR": "Патч (v0.1.6)",
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>С (для Вас уже прошедшим) Днём переводчика.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Теперь доступны:</b>\\n - Падежи в эффектах навыков и ЭГО грешников,\\n - Исправлены ошибки и опечатки, замеченные игроками.\"}]}"
     },
     {
-      "id": 2915,
+      "id": 2916,
       "version": 0,
       "type": 0,
       "startDate": "2023-09-22T18:00:00.000Z",
