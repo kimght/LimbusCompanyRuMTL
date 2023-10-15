@@ -16,7 +16,7 @@ namespace LimbusLocalizeRUS
         public static string GamePath;
         public const string GUID = "Com.BrightNKnightey.LocalizeLimbusCompanyRUS";
         public const string NAME = "LimbusCompanyBusRUS";
-        public const string VERSION = "0.1.5";
+        public const string VERSION = "0.1.7";
         public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode";
         public const string LCBRLink = "https://github.com/Crescent-Corporation/LimbusCompanyBusRUS";
         public static Action<string, Action> LogFatalError { get; set; }

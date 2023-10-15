@@ -1,15 +1,13 @@
-﻿using HarmonyLib;
-using Il2Cpp;
-using Il2CppAddressable;
-using Il2CppSimpleJSON;
-using Il2CppStorySystem;
+﻿using Addressable;
+using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
-using Il2CppTMPro;
-using Il2CppUtilityUI;
+using SimpleJSON;
+using StorySystem;
 using System;
 using System.IO;
+using TMPro;
 using UnityEngine;
-using static MelonLoader.MelonLogger;
+using UtilityUI;
 
 namespace LimbusLocalizeRUS
 {
@@ -78,8 +76,8 @@ namespace LimbusLocalizeRUS
         public static TMP_FontAsset GetCyrillicFonts(int idx)
         {
             int Count = tmpcyrillicfonts.Count - 1;
-            if(Count < idx)
-                idx=Count;
+            if (Count < idx)
+                idx = Count;
             return tmpcyrillicfonts[idx];
         }
         public static bool IsCyrillicFont(TMP_FontAsset fontAsset)
@@ -132,10 +130,10 @@ namespace LimbusLocalizeRUS
             }
             return true;
         }
-        public static Dictionary<TMP_Text,Material>  premat = new Dictionary<TMP_Text, Material>();
+        public static Dictionary<TMP_Text, Material> premat = new Dictionary<TMP_Text, Material>();
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.fontMaterial), MethodType.Setter)]
         [HarmonyPrefix]
-        private static void set_fontMaterial(TMP_Text __instance, ref Material value)
+        static void set_fontMaterial(TMP_Text __instance, ref Material value)
         {
             if (IsCyrillicFont(__instance.m_fontAsset))
             {
@@ -149,18 +147,25 @@ namespace LimbusLocalizeRUS
                     }
                     value = CloneMat;
                     Material pre = premat[__instance];
-                    CloneMat.shader = Shader.Find("TextMeshPro/Distance Field");
-                    CloneMat.SetColor("_UnderlayColor", pre.GetColor("_UnderlayColor"));
-                    CloneMat.SetFloat("_UnderlayOffsetX", pre.GetFloat("_UnderlayOffsetX"));
-                    CloneMat.SetFloat("_UnderlayOffsetY", pre.GetFloat("_UnderlayOffsetY"));
-                    CloneMat.SetFloat("_UnderlayDilate", pre.GetFloat("_UnderlayDilate"));
-                    CloneMat.SetFloat("_UnderlaySoftness", pre.GetFloat("_UnderlaySoftness"));
+                    Color f1 = Color.black;
 
+                    CloneMat.shader = Shader.Find("TextMeshPro/Distance Field");
+                    CloneMat.SetColor("_UnderlayColor", f1);
+                    CloneMat.SetFloat("_UnderlayOffsetX", 5);
+                    CloneMat.SetFloat("_UnderlayOffsetY", -5);
+                    CloneMat.SetFloat("_UnderlayDilate", 3);
+                    CloneMat.SetFloat("_UnderlaySoftness", 0);
                     CloneMat.EnableKeyword("UNDERLAY_ON");
+
+                    __instance.m_fontAsset.material.shader = Shader.Find("TextMeshPro/Distance Field");
+                    __instance.m_fontAsset.material.SetColor("_UnderlayColor", f1);
+                    __instance.m_fontAsset.material.SetFloat("_UnderlayOffsetX", 0);
+                    __instance.m_fontAsset.material.SetFloat("_UnderlayOffsetY", (float)-0.5);
+                    __instance.m_fontAsset.material.EnableKeyword("UNDERLAY_ON");
                 }
             }
         }
-                public static Material CloneMat;
+        public static Material CloneMat;
         [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.UpdateTMP))]
         [HarmonyPrefix]
         private static bool UpdateTMP(TextMeshProLanguageSetter __instance, LOCALIZE_LANGUAGE lang)
@@ -195,13 +200,13 @@ namespace LimbusLocalizeRUS
             }
             return false;
         }
-        //[HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
-        //[HarmonyPrefix]
-        //private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
-        //{
-        //    __instance._materialSetter_abText.underlayColor = Color.clear;
-        //    __instance._materialSetter_skillText.underlayColor = Color.clear;
-        //}
+        [HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
+        [HarmonyPrefix]
+        private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
+        {
+            __instance._materialSetter_abText.underlayColor = Color.clear;
+            __instance._materialSetter_skillText.underlayColor = Color.clear;
+        }
 
         //[HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
         //[HarmonyPrefix]
@@ -283,7 +288,9 @@ namespace LimbusLocalizeRUS
             tm._userTicket_EGOBg.Init(romoteLocalizeFileList.UserTicketEGOBg);
             tm._panicInfo.Init(romoteLocalizeFileList.PanicInfo);
             tm._mentalConditionList.Init(romoteLocalizeFileList.mentalCondition);
-            //tm._dungeonStartBuffs.Init(romoteLocalizeFileList.DungeonStartBuffs);
+            tm._dungeonStartBuffs.Init(romoteLocalizeFileList.DungeonStartBuffs);
+            tm._railwayDungeonBuffText.Init(romoteLocalizeFileList.RailwayDungeonBuff);
+            tm._buffAbilityList.Init(romoteLocalizeFileList.buffAbilities);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
