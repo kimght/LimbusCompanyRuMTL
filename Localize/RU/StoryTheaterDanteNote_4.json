@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "Mepis",
+      "content": "Мефистофель"
+    },
+    {
+      "id": "Backdoor",
+      "content": "Задняя дверь"
+    },
+    {
+      "id": "MirrorDungeon",
+      "content": "Зеркальные подземелья"
+    },
+    {
+      "id": "ResourceDungeon",
+      "content": "Подземелья светодобычи"
+    },
+    {
+      "id": "MirrorSubway",
+      "content": "Железная дорога преломления"
+    },
+    {
+      "id": "Line1",
+      "content": "1-й Путь Железной дороги преломления"
+    },
+    {
+      "id": "Line2",
+      "content": "2-й Путь Железной дороги преломления"
+    },
+    {
+      "id": "DieciAsso",
+      "content": "Ассоциация Дьечи"
+    },
+    {
+      "id": "NestK",
+      "content": "Корп. K"
+    }
+  ]
+}

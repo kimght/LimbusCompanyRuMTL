@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "Обнажить меч",
-          "desc": "Сила монет +3 при 5+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "desc": "Сила монет +1 при 5+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {
               "coindescs": [

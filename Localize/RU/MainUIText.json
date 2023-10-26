@@ -1479,6 +1479,46 @@
     {
       "id": "erosion",
       "content": "Коррозия"
+    },
+    {
+      "id": "formation_panel_detail",
+      "content": "Вкратце"
+    },
+    {
+      "id": "ego_cost",
+      "content": "Ресурсы\nдля ЭГО"
+    },
+    {
+      "id": "enable_count_for_battle",
+      "content": "Лимит участников"
+    },
+    {
+      "id": "select_for_formation",
+      "content": "Выбрать участников"
+    },
+    {
+      "id": "edit_for_formation",
+      "content": "Изменить\nгрешника"
+    },
+    {
+      "id": "full_participated",
+      "content": "Максимальное кол-во участников"
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "Отменить выбор"
+    },
+    {
+      "id": "clear_reward",
+      "content": "Забрать награду"
+    },
+    {
+      "id": "event_information",
+      "content": "Детали ивента"
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※ Невозможно купить на данный момент."
     }
   ]
 }

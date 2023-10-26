@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": 2050511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[BeforeAttack] Снимает с себя 1 случайный снимаемый негативный эффект",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2;\nДополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (А-резонанс Гнева /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[BeforeAttack] Снимает с себя 1 случайный снимаемый негативный эффект",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; Дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (А-резонанс Гнева /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор\nЕсли после провоцирования <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(А-резонанс Гнева.))% последней поднятой границы выносливости уроном Гнева"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[BeforeAttack] Снимает с себя 2 случайных снимаемых негативных эффекта",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; Дополнительно повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (А-резонанс Гнева /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор\nЕсли после провоцирования <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(А-резонанс Гнева.))% последней поднятой границы выносливости уроном Гнева"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Если на грешнике есть негативные эффекты, количество целей +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор.\nПри провоцировании тремора дополнительно повышает границы выносливости на 30% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                },
+                {
+                  "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 Повышение силы Дробящей атаки на следующий ход."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Если на грешнике есть негативные эффекты, количество целей +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор\nПри провоцировании тремора дополнительно повышает границы выносливости на 40% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провоцирования <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (6 + 2x(А-резонанс Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                },
+                {
+                  "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 Повышение силы Дробящей атаки на следующий ход."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сожаление",
+          "abName": "Брошенный убийца",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Если на грешнике есть негативные эффекты, количество целей +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Провоцирует Тремор\nПри провоцировании тремора дополнительно повышает границы выносливости на 50% <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели.\nЕсли после провоцирования <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цель не имеет границ выносливости,\nНаносит (12 + 3x(А-резонанс Гнева.))% последней поднятой границы выносливости уроном Гнева\nПонижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
+                },
+                {
+                  "desc": "[EndSkill] Получает 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> и 1 Повышение силы Дробящей атаки на следующий ход."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
