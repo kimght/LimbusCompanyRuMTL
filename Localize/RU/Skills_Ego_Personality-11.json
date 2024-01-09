@@ -1,0 +1,146 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[EndSkill] Даёт 1 \"Повышение урона\" греха с наибольшим резонансом 2-м союзникам с наименьшей СД"
+                },
+                {
+                  "desc": "[EndSkill] Восстанавливает 20 СД 2-м союзникм с наименьшей СД"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[EndSkill] Даёт 1 \"Повышение урона\" греха с наибольшим резонансом 3-м союзникам с наименьшей СД"
+                },
+                {
+                  "desc": "[EndSkill] Восстанавливает 20 СД 3-м союзникм с наименьшей СД"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[EndSkill] Даёт 1 \"Повышение урона\" греха с наибольшим резонансом 4-м союзникам с наименьшей СД"
+                },
+                {
+                  "desc": "[EndSkill] Восстанавливает 20 СД 4-м союзникм с наименьшей СД"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 1 \"Уязвимость\" к греху с наибольшим резонансом"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 \"Уязвимости\" к греху с наибольшим резонансом"
+                },
+                {
+                  "desc": "[EndSkillTail] Получает 1 \"Повышение урона\" греха с наибольшим резонансом"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Праздник",
+          "abName": "Сан-дольф",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Теряет 10% от максимальных ОЗ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Цели теряют 10 СД"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 \"Уязвимости\" к греху с наибольшим резонансом"
+                },
+                {
+                  "desc": "[EndSkillTail] Получает 1 \"Повышение урона\" греха с наибольшим резонансом"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

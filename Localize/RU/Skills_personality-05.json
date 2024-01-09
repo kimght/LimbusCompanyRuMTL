@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "id": 1050701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мы помним",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Мы помним",
+          "desc": "[DefeatDuel] Получает 1 Повышение урона Завистью на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Мы помним",
+          "desc": "[DefeatDuel] Получает 1 Повышение урона Завистью на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 Повышение силы Зависти грешникам, чьи навыки находятся на приборной панели по бокам.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 Повышение силы Зависти грешникам, чьи навыки находятся на приборной панели по бокам.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Цепи верности",
+          "desc": "[StartBattle] Даёт 1 Повышение силы Зависти грешникам, чьи навыки находятся на приборной панели по бокам.\nЕсли навык сбоку имеет грех Зависти, также даёт 1 Повышение урона Завистью.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Запись",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели Метка возмездия, наносит 1 Ослабление положительной монеты на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели Метка возмездия, наносит 1 Уязвимость к Зависти на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Запись",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше\nСила монет +1 при резонансе Зависти, равном 6 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели Метка возмездия, наносит 1 Ослабление положительной монеты на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели Метка возмездия, наносит 2 <sprite name=\"VioletTakeDamageUp\"><color=#e30000><u><link=\"VioletTakeDamageUp\">Уязвимости к Зависти</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Многократное воздаяние",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Многократное воздаяние",
+          "desc": "Сила монет +1 при резонансе Зависти, равном 4 и больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

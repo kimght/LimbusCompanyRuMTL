@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "Combustion",
+      "name": "Огонь"
+    },
+    {
+      "id": "Laceration",
+      "name": "Кровотечение"
+    },
+    {
+      "id": "Vibration",
+      "name": "Тремор"
+    },
+    {
+      "id": "Burst",
+      "name": "Разрыв"
+    },
+    {
+      "id": "Sinking",
+      "name": "Утопание"
+    },
+    {
+      "id": "Breath",
+      "name": "Дыхание"
+    },
+    {
+      "id": "Charge",
+      "name": "Заряд"
+    },
+    {
+      "id": "Random",
+      "name": "Случайный"
+    }
+  ]
+}

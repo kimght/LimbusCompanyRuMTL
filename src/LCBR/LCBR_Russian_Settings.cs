@@ -1,9 +1,8 @@
 ﻿using HarmonyLib;
-using Il2Cpp;
-using Il2CppLocalSave;
-using Il2CppMainUI;
-using Il2CppTMPro;
-using MelonLoader;
+using LocalSave;
+using MainUI;
+using BepInEx.Configuration;
+using TMPro;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
@@ -12,7 +11,7 @@ namespace LimbusLocalizeRUS
 {
     public static class LCBR_Russian_Settings
     {
-        public static MelonPreferences_Entry<bool> IsUseRussian = LCB_LCBRMod.LCBR_Settings.CreateEntry("IsUseRussian", true, null, "Use true, false is optional");
+        public static ConfigEntry<bool> IsUseRussian = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "IsUseRussian", true, "Use true, false is optional");
         static bool _isuserussian;
         static Toggle Russian_Settings;
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.InitLanguage))]
@@ -60,10 +59,7 @@ namespace LimbusLocalizeRUS
         }
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.ApplySetting))]
         [HarmonyPostfix]
-        private static void ApplySetting()
-        {
-            IsUseRussian.Value = _isuserussian;
-        }
+        private static void ApplySetting() => IsUseRussian.Value = _isuserussian;
         private static void OnClickLanguageToggleEx(this SettingsPanelGame __instance, int tgIdx)
         {
             if (tgIdx == 3)

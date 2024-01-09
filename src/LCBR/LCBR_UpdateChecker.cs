@@ -1,6 +1,6 @@
-﻿using Il2CppSimpleJSON;
+﻿using SimpleJSON;
+using BepInEx.Configuration;
 using Il2CppSystem.Threading;
-using Semver;
 using System;
 using System.IO;
 using System.Net.Http;
@@ -12,11 +12,15 @@ namespace LimbusLocalizeRUS
 {
     public static class LCBR_UpdateChecker
     {
-        public static void StartCheckUpdates()
+        public static ConfigEntry<bool> AutoUpdate = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutoUpdate", false, "");
+        public static void StartAutoUpdate()
         {
-            LCB_LCBRMod.LogWarning("Mod update check");
-            Action ModUpdate = CheckModUpdate;
-            new Thread(ModUpdate).Start();
+            if (AutoUpdate.Value)
+            {
+                LCB_LCBRMod.LogWarning("Check Mod Update");
+                Action ModUpdate = CheckModUpdate;
+                new Thread(ModUpdate).Start();
+            }
         }
         static void CheckModUpdate()
         {
@@ -26,15 +30,15 @@ namespace LimbusLocalizeRUS
             while (!www.isDone)
                 Thread.Sleep(100);
             if (www.result != UnityWebRequest.Result.Success)
-                LCB_LCBRMod.LogWarning("Не удаётся полключиться к GitHub!" + www.error);
+                LCB_LCBRMod.LogWarning("Can't access GitHub!!!" + www.error);
             else
             {
                 JSONArray releases = JSONNode.Parse(www.downloadHandler.text).AsArray;
                 string latestReleaseTag = releases[0]["tag_name"].Value;
                 string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
-                if (SemVersion.Parse(LCB_LCBRMod.VERSION) < SemVersion.Parse(latestReleaseTag.Remove(0, 1)))
+                if (Version.Parse(LCB_LCBRMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = (latest2ReleaseTag == "v" + LCB_LCBRMod.VERSION ? "LimbusLocalizeRus_OTA_" : "LimbusLocalizeRus_") + latestReleaseTag;
+                    string updatelog = (latest2ReleaseTag == "v" + LCB_LCBRMod.VERSION ? "" : "") + latestReleaseTag;
                     Updatelog += updatelog + ".7z ";
                     string download = "" + latestReleaseTag + "/" + updatelog + ".7z";
                     var dirs = download.Split('/');
@@ -43,19 +47,16 @@ namespace LimbusLocalizeRUS
                         DownloadFileAsync(download, filename).GetAwaiter().GetResult();
                     UpdateCall = UpdateDel;
                 }
-                LCB_LCBRMod.LogWarning("Check Cyrillic font asset update");
+                LCB_LCBRMod.LogWarning("Check Cyrillic Font Asset Update");
                 Action FontAssetUpdate = CheckCyrillicFontAssetUpdate;
                 new Thread(FontAssetUpdate).Start();
             }
-            LCB_LCBRMod.LogWarning("Check readme update");
-            Action ReadmeUpdate = CheckReadmeUpdate;
-            new Thread(ReadmeUpdate).Start();
         }
         static void CheckCyrillicFontAssetUpdate()
         {
             UnityWebRequest www = UnityWebRequest.Get("");
             string FilePath = LCB_LCBRMod.ModPath + "/tmpcyrillicfonts";
-            var LastWriteTime = File.Exists(FilePath) ? int.Parse(new FileInfo(FilePath).LastWriteTime.ToString("ddmmyy")) : 0;
+            var LastWriteTime = File.Exists(FilePath) ? int.Parse(TimeZoneInfo.ConvertTime(new FileInfo(FilePath).LastWriteTime, TimeZoneInfo.FindSystemTimeZoneById("Moscow Standard Time")).ToString("ddMMyy")) : 0;
             www.SendWebRequest();
             while (!www.isDone)
                 Thread.Sleep(100);
@@ -63,7 +64,8 @@ namespace LimbusLocalizeRUS
             int latestReleaseTag = int.Parse(latest["tag_name"].Value);
             if (LastWriteTime < latestReleaseTag)
             {
-                string updatelog = "tmpcyrillicfont_" + latestReleaseTag;
+                string updatelog = "tmpcyrillicfonts_" + latestReleaseTag;
+
                 Updatelog += updatelog + ".7z ";
                 string download = "" + latestReleaseTag + "/" + updatelog + ".7z";
                 var dirs = download.Split('/');
@@ -80,7 +82,7 @@ namespace LimbusLocalizeRUS
         }
         static async Task DownloadFileAsync(string url, string filePath)
         {
-            LCB_LCBRMod.LogWarning("Download " + url + " to " + filePath);
+            LCB_LCBRMod.LogWarning("Download " + url + " To " + filePath);
             using HttpClient client = new();
             using HttpResponseMessage response = await client.GetAsync(url);
             using HttpContent content = response.Content;

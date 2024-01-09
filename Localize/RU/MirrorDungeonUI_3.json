@@ -1,0 +1,296 @@
+{
+  "dataList": [
+    {
+      "id": "dungeon_shop_ego_gift_upgrade",
+      "content": "Улучшить Дар"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_composite",
+      "content": "Соединить Дары"
+    },
+    {
+      "id": "dungeon_shop_ego_gift_sell",
+      "content": "Продать Дар"
+    },
+    {
+      "id": "dungeon_shop_refresh",
+      "content": "Обновить"
+    },
+    {
+      "id": "mirror_dungeon_selected_ego_gift",
+      "content": "Выбранный ЭГО Дар"
+    },
+    {
+      "id": "ego_gift_upgrade_ui_title",
+      "content": "Улучшение ЭГО Дара"
+    },
+    {
+      "id": "ego_gift_upgrade_confirm_format",
+      "content": "Желаете улучшить ЭГО дар за <color=#F8C200>{0}</color> стоимости?"
+    },
+    {
+      "id": "ego_gift_upgrade_not_enough_cost_format",
+      "content": "Не хватает <color=#990000>{0}</color> стоимости для улучшения Дара."
+    },
+    {
+      "id": "ego_gift_combine_ui_title",
+      "content": "Соединение ЭГО Даров"
+    },
+    {
+      "id": "combine",
+      "content": "Соединить"
+    },
+    {
+      "id": "selected_gift",
+      "content": "Выбранный ЭГО Дар"
+    },
+    {
+      "id": "expectation",
+      "content": "Предположение:"
+    },
+    {
+      "id": "ego_gift_combine_ui_main_text",
+      "content": "Желаете соединить выбранные ЭГО Дары?"
+    },
+    {
+      "id": "mirror_dungeon3_normal_reward_info",
+      "content": "<cspace=-2px>Обычный</cspace>"
+    },
+    {
+      "id": "mirror_dungeon3_hard_reward_info",
+      "content": "<cspace=-2px>Сложный</cspace>"
+    },
+    {
+      "id": "mirror_dungeon3_current_explore",
+      "content": "Экспедиция:"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_formation",
+      "content": "Грешники"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_button_start_buff",
+      "content": "Стартовые усиления"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_hard_hint_before_release",
+      "content": "Пройдите Песнь IV\nдля открытия подземелья"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary_detail",
+      "content": "Вкратце/Инфо"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_summary",
+      "content": "Вкратце"
+    },
+    {
+      "id": "mirror_dungeon3_start_buff_detail",
+      "content": "Инфо"
+    },
+    {
+      "id": "ego_gift_sell_ui_title",
+      "content": "Продажа ЭГО Даров"
+    },
+    {
+      "id": "sell",
+      "content": "Продать"
+    },
+    {
+      "id": "guided_sell_ego_gift",
+      "content": "Пожалуйста, выберите ЭГО Дар для продажи."
+    },
+    {
+      "id": "ego_gift_sell_confirm_format",
+      "content": "Желаете продать [{0}] за {1} стоимости?"
+    },
+    {
+      "id": "mirror_dungeon_3_start_buff_name",
+      "content": "Стартовые усиления - Звёздный путеводитель"
+    },
+    {
+      "id": "mirror_dungeon_3_purchase_start_buff",
+      "content": "Высечь звезду"
+    },
+    {
+      "id": "mirror_dungeon_give_up_getting_ego_gift_with_enemy_buff",
+      "content": "Если вы откажетесь от ЭГО Дара, в случайном порядке будет выбрано усиление."
+    },
+    {
+      "id": "mirror_dungeon_shop_could_not_refresh",
+      "content": "Обновление невозможно"
+    },
+    {
+      "id": "mirror_dungeon_shop_change_formation_count",
+      "content": "Участники"
+    },
+    {
+      "id": "mirror_dungeon_exploring",
+      "content": "! Проходит экспедиция !"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_before",
+      "content": "Ожидание начала"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_3_normal",
+      "content": "Обычное: <cspace=-2px>{0}-й этаж</cspace>"
+    },
+    {
+      "id": "normal_difficulty_simple",
+      "content": "Обычное"
+    },
+    {
+      "id": "hard_difficulty_simple",
+      "content": "Сложное"
+    },
+    {
+      "id": "starchip_ui_difficulty_ratio_format",
+      "content": "※ Сложность: {0} [x{1}]"
+    },
+    {
+      "id": "number_of_cleared_floors",
+      "content": "Пройденные этажи"
+    },
+    {
+      "id": "number_of_cleared_nodes",
+      "content": "Пройденные этапы"
+    },
+    {
+      "id": "number_of_starlight_nodes",
+      "content": "Этапы света звёзд"
+    },
+    {
+      "id": "number_of_battles",
+      "content": "Число битв"
+    },
+    {
+      "id": "number_of_acquired_ego_gift",
+      "content": "Получено ЭГО Даров"
+    },
+    {
+      "id": "choose_starting_ego_gift",
+      "content": "Начальный ЭГО Дар"
+    },
+    {
+      "id": "rest_gauge",
+      "content": "Бонус отдыха"
+    },
+    {
+      "id": "starlight_reward",
+      "content": "Звёздный свет"
+    },
+    {
+      "id": "battlepass_progress_reward",
+      "content": "Награда в уровнях Пасса"
+    },
+    {
+      "id": "side_title_unable_ego_gift_upgrade",
+      "content": "Улучшение невозможно"
+    },
+    {
+      "id": "side_content_not_have_any_ego_gift",
+      "content": "На руках нет ЭГО Даров."
+    },
+    {
+      "id": "side_content_ego_gift_is_not_upgradeable",
+      "content": "Этот ЭГО Дар невозможно улучшить."
+    },
+    {
+      "id": "side_content_ego_gift_is_maximum_upgraded",
+      "content": "Этот ЭГО Дар максимально улучшен."
+    },
+    {
+      "id": "side_title_unable_ego_gift_combine",
+      "content": "Соединение невозможно"
+    },
+    {
+      "id": "side_content_need_more_ego_gift",
+      "content": "Для соединения необходимо не менее 2-х ЭГО Даров."
+    },
+    {
+      "id": "side_content_need_lower_tier_ego_gift",
+      "content": "Вы можете выбрать ЭГО Дары лишь 3 уровня и ниже."
+    },
+    {
+      "id": "side_title_unable_ego_gift_sell",
+      "content": "Продажа невозможна"
+    },
+    {
+      "id": "side_content_ego_gift_is_not_for_sale",
+      "content": "Вы не можете продать этот ЭГО Дар."
+    },
+    {
+      "id": "mirror_dungeon_already_participated",
+      "content": "В команде"
+    },
+    {
+      "id": "mirror_dungeon_acquire_ego_gift_desc",
+      "content": "Получение ЭГО Дара"
+    },
+    {
+      "id": "mirror_dungeon_acquire_enemy_buff",
+      "content": "Получение испытания"
+    },
+    {
+      "id": "mirror_dungeon3_entrance_hard_hint_after_release",
+      "content": "<Для открытия>\nПройдите 4-54\nПройдите зеркало Озера\nна обычной сложности"
+    },
+    {
+      "id": "mirror_dungeon_reload_select_ego_gift_category",
+      "content": "Обновить (Единожды)"
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect",
+      "content": "Желание звёзд"
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect_desc_selected",
+      "content": "Вы можете активировать выбранный эффект для этой экспедиции в Зеркальное подземелье, потратив {0} света звёзд.\nЭффект будет автоматически выбираться каждую новую экспедицию, пока вы не отключите его или не закончится свет звёзд."
+    },
+    {
+      "id": "mirror_dungeon_select_chip_effect_desc_not_selected",
+      "content": "Вы можете активировать различные эффекты для этой экспедиции в Зеркальное подземелье, потратив свет звёзд."
+    },
+    {
+      "id": "mirror_dungeon_atart_buff_activation",
+      "content": "Выбрать"
+    },
+    {
+      "id": "mirror_dungeon_atart_buff_diactivation",
+      "content": "Снять выбор"
+    },
+    {
+      "id": "mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon",
+      "content": "Вы не можете изменить стартовые усиления во время экспедиции."
+    },
+    {
+      "id": "mirrordungeon_edit_start_buff_activation",
+      "content": "Быстрое изменение"
+    },
+    {
+      "id": "mirror_dungeon_progress_text_3_hard",
+      "content": "Сложное: <cspace=-2px>{0}-й этаж</cspace>"
+    },
+    {
+      "id": "mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running",
+      "content": "Вы не можете изменить стартовые усиления во время экспедиции."
+    },
+    {
+      "id": "add_enemy_level",
+      "content": "Увеличить уровень противников"
+    },
+    {
+      "id": "mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off",
+      "content": "Вы не можете выбрать дополнительное усиление, пока основное усиление отключено."
+    },
+    {
+      "id": "mirrordungeon_purchase_buffs_when_parent_buff_off",
+      "content": "Пока вы не выгравируете основное усиление, вы не можете выгравировать дополнительные усиления."
+    },
+    {
+      "id": "side_content_already_owned_tier_ego_gift",
+      "content": "Вы больше не можетее получить ЭГО Дары этого уровня при соединении Даров на остановках."
+    }
+  ]
+}

@@ -8,6 +8,7 @@ using System.IO;
 using TMPro;
 using UnityEngine;
 using UtilityUI;
+using static Il2CppSystem.DateTimeParse;
 
 namespace LimbusLocalizeRUS
 {
@@ -15,11 +16,15 @@ namespace LimbusLocalizeRUS
     {
         public static List<TMP_FontAsset> tmpcyrillicfonts = new();
         public static List<string> tmpcyrillicfontsnames = new();
-        #region Handwriting
+        public static List<Material> tmpcyrillicmats = new();
+        public static List<string> tmpcyrillicmatsnames = new();
+        #region Шрифты эбаны
         public static bool AddCyrillicFont(string path)
         {
             if (File.Exists(path))
             {
+                bool result1 = false;
+                bool result2 = false;
                 bool __result = false;
                 var AllAssets = AssetBundle.LoadFromFile(path).LoadAllAssets();
 
@@ -33,8 +38,21 @@ namespace LimbusLocalizeRUS
                         TryCastFontAsset.hideFlags |= HideFlags.HideAndDontSave;
                         tmpcyrillicfonts.Add(TryCastFontAsset);
                         tmpcyrillicfontsnames.Add(TryCastFontAsset.name);
-                        __result = true;
+                        result1 = true;
                     }
+                    var TryCastMaterial = Asset.TryCast<Material>();
+                    if (TryCastMaterial)
+                    {
+
+                        UnityEngine.Object.DontDestroyOnLoad(TryCastMaterial);
+                        TryCastMaterial.hideFlags |= HideFlags.HideAndDontSave;
+                        tmpcyrillicmats.Add(TryCastMaterial);
+                        tmpcyrillicmatsnames.Add(TryCastMaterial.name);
+                        result2 = true;
+                    }
+
+                    if (result1 = result2)
+                        __result = true;
                 }
 
                 return __result;
@@ -80,9 +98,20 @@ namespace LimbusLocalizeRUS
                 idx = Count;
             return tmpcyrillicfonts[idx];
         }
+        public static Material GetCyrillicMats(int idx)
+        {
+            int Count = tmpcyrillicmats.Count - 1;
+            if (Count < idx)
+                idx = Count;
+            return tmpcyrillicmats[idx];
+        }
         public static bool IsCyrillicFont(TMP_FontAsset fontAsset)
         {
             return tmpcyrillicfontsnames.Contains(fontAsset.name);
+        }
+        public static bool IsCyrillicMat(Material matAsset)
+        {
+            return tmpcyrillicmatsnames.Contains(matAsset.name);
         }
         public static Texture2D duplicateTexture(Texture2D source)
         {
@@ -125,15 +154,26 @@ namespace LimbusLocalizeRUS
                         }
                     }
                 }
+                if (__instance.fontMaterial.name.Contains("Mikodacs SDF Burning") || __instance.fontMaterial.name.Contains("KOTRA_BOLD SDF Burnning_ver_2"))
+                {
+                    if (__instance.fontMaterial.IsKeywordEnabled("GLOW_ON"))
+                    {
 
+                        if (!prematGlow.ContainsKey(__instance))
+                        {
+                            prematGlow[__instance] = __instance.fontMaterial;
+                        }
+                    }
+                }
                 value = font;
             }
             return true;
         }
         public static Dictionary<TMP_Text, Material> premat = new Dictionary<TMP_Text, Material>();
+        public static Dictionary<TMP_Text, Material> prematGlow = new Dictionary<TMP_Text, Material>();
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.fontMaterial), MethodType.Setter)]
         [HarmonyPrefix]
-        static void set_fontMaterial(TMP_Text __instance, ref Material value)
+        static void set_fontMaterialUnderlay(TMP_Text __instance, ref Material value)
         {
             if (IsCyrillicFont(__instance.m_fontAsset))
             {
@@ -166,6 +206,36 @@ namespace LimbusLocalizeRUS
             }
         }
         public static Material CloneMat;
+        static void set_fontMaterialGlow(TMP_Text __instance, ref Material value)
+        {
+            if (IsCyrillicFont(__instance.m_fontAsset))
+            {
+                if (prematGlow.ContainsKey(__instance))
+                {
+                    if (CloneMatGlow == null)
+                    {
+                        CloneMatGlow = UnityEngine.Object.Instantiate(__instance.m_fontAsset.material);
+                    }
+                    value = CloneMatGlow;
+                    Material pre = premat[__instance];
+
+                    CloneMatGlow.shader = Shader.Find("TextMeshPro/Distance Field");
+                    CloneMatGlow.SetFloat("_GlowOffset", 0);
+                    CloneMatGlow.SetFloat("_GlowInner", 0.05f);
+                    CloneMatGlow.SetFloat("_GlowOuter", 1);
+                    CloneMatGlow.SetFloat("_GlowPower", 0.5f);
+                    CloneMatGlow.EnableKeyword("GLOW_ON");
+
+                    __instance.m_fontAsset.material.shader = Shader.Find("TextMeshPro/Distance Field");
+                    __instance.m_fontAsset.material.SetFloat("_GlowOffset", 0);
+                    __instance.m_fontAsset.material.SetFloat("_GlowInner", 0.05f);
+                    __instance.m_fontAsset.material.SetFloat("_GlowOuter", 1);
+                    __instance.m_fontAsset.material.SetFloat("_GlowPower", 0.5f);
+                    __instance.m_fontAsset.material.EnableKeyword("GLOW_ON");
+                }
+            }
+        }
+        public static Material CloneMatGlow;
         [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.UpdateTMP))]
         [HarmonyPrefix]
         private static bool UpdateTMP(TextMeshProLanguageSetter __instance, LOCALIZE_LANGUAGE lang)
@@ -186,6 +256,7 @@ namespace LimbusLocalizeRUS
 
             __instance._text.font = fontAsset;
             __instance._text.fontMaterial = fontMaterial;
+
             if (__instance._matSetter != null)
             {
                 __instance._matSetter.defaultMat = fontMaterial;
@@ -291,6 +362,9 @@ namespace LimbusLocalizeRUS
             tm._dungeonStartBuffs.Init(romoteLocalizeFileList.DungeonStartBuffs);
             tm._railwayDungeonBuffText.Init(romoteLocalizeFileList.RailwayDungeonBuff);
             tm._buffAbilityList.Init(romoteLocalizeFileList.buffAbilities);
+            tm._egoGiftCategory.Init(romoteLocalizeFileList.EgoGiftCategory);
+            tm._mirrorDungeonEgoGiftLockedDescList.Init(romoteLocalizeFileList.MirrorDungeonEgoGiftLockedDesc);
+            tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -324,9 +398,9 @@ namespace LimbusLocalizeRUS
             }
             return false;
         }
-        [HarmonyPatch(typeof(StoryData), nameof(StoryData.GetScenario))]
+        [HarmonyPatch(typeof(StoryDataParser), nameof(StoryDataParser.GetScenario))]
         [HarmonyPrefix]
-        private static bool GetScenario(StoryData __instance, string scenarioID, ref LOCALIZE_LANGUAGE lang, ref Scenario __result)
+        private static bool GetScenario(StoryDataParser __instance, string scenarioID, ref LOCALIZE_LANGUAGE lang, ref Scenario __result)
         {
             TextAsset textAsset = SingletonBehavior<AddressableManager>.Instance.LoadAssetSync<TextAsset>("Assets/Resources_moved/Story/Effect", scenarioID, null, null).Item1;
             if (!textAsset)
@@ -414,7 +488,7 @@ namespace LimbusLocalizeRUS
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
             LoadLocal(LOCALIZE_LANGUAGE.EN);
-            __instance.tmp_loginAccount.text = "Localize LCB v" + LCB_LCBRMod.VERSION;
+            __instance.tmp_loginAccount.text = "<cspace=-2px>Русификатор\nLimbus Company</cspace> v" + LCB_LCBRMod.VERSION;
         }
         private static void Init<T>(this JsonDataList<T> jsonDataList, List<string> jsonFilePathList) where T : LocalizeTextData, new()
         {

@@ -1,0 +1,221 @@
+{
+  "dataList": [
+    {
+      "id": 1070701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Слежка за добычей",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Слежка за добычей",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Слежка за добычей",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 4\n[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фиксгарпун",
+          "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит Кровотечение, равное 1/4 от счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 10-и)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Фиксгарпун",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Получает 1 Дыхание за 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 10-и)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит Кровотечение, равное 1/4 от счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 10-и)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Фиксгарпун",
+          "desc": "[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Получает 1 Дыхание за 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 10-и)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит Кровотечение, равное 1/3 от счётчика <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели (До 10-и)"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Разрубить узел",
+          "desc": "Итоговая сила +1 при резонансе Зависти, равном 3 и более\nСила монет +1 при резонансе Зависти, равном 4 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 50% ОЗ"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 50% ОЗ"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +30% критического урона"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разрубить узел",
+          "desc": "Итоговая сила +1 при резонансе Зависти, равном 3 и более\nСила монет +1 при резонансе Зависти, равном 4 и более\nДополнительная сила монет +1 при резонансе Зависти, равном 6 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 75% ОЗ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 50% ОЗ"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 75% ОЗ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение при менее 50% ОЗ"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% критического урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1070704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Реванш",
+          "desc": "[WhenUse] Этот слот получает 2 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[StartBattle] Получает Повышение уровня защиты, равное количеству <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 10-и)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Реванш",
+          "desc": "[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[StartBattle] Получает Повышение уровня защиты, равное количеству <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на себе (До 10-и)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

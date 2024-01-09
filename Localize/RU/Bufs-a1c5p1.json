@@ -1,0 +1,11 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePaBa",
+      "name": "Компульсия",
+      "desc": "Начинает битву с -25 СД. При менее, чем 0 СД в начале хода, получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>.",
+      "summary": "При менее, чем 0 СД, получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color>",
+      "undefined": "-"
+    }
+  ]
+}

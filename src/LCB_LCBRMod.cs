@@ -1,6 +1,8 @@
 ﻿using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Unity.IL2CPP;
+using LimbusCompanyBusRUS;
+using StorySystem;
 using System;
 using System.IO;
 using System.Reflection;
@@ -16,8 +18,8 @@ namespace LimbusLocalizeRUS
         public static string GamePath;
         public const string GUID = "Com.BrightNKnightey.LocalizeLimbusCompanyRUS";
         public const string NAME = "LimbusCompanyBusRUS";
-        public const string VERSION = "0.1.7";
-        public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode";
+        public const string VERSION = "0.2.0";
+        public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode, Disaer";
         public const string LCBRLink = "https://github.com/Crescent-Corporation/LimbusCompanyBusRUS";
         public static Action<string, Action> LogFatalError { get; set; }
         public static Action<string> LogError { get; set; }
@@ -43,6 +45,11 @@ namespace LimbusLocalizeRUS
                     harmony.PatchAll(typeof(LCBR_ReadmeManager));
                     harmony.PatchAll(typeof(LCBR_LoadingManager));
                     harmony.PatchAll(typeof(LCBR_SpriteUI));
+                    harmony.PatchAll(typeof(LCBR_TextUI));
+                    harmony.PatchAll(typeof(LCBR_CreditsUI));
+                    harmony.PatchAll(typeof(LCBR_EventUI));
+                    harmony.PatchAll(typeof(LCBR_SeasonUI));
+                    //harmony.PatchAll(typeof(LCBR_TemporaryTextures));
                 }
                 harmony.PatchAll(typeof(LCBR_Manager));
                 harmony.PatchAll(typeof(LCBR_Russian_Settings));

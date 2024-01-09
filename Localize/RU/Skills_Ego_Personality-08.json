@@ -1,0 +1,140 @@
+{
+  "dataList": [
+    {
+      "id": 2080511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[EndSkill] Восстанавливает 15 СД 4-м союзникам с наименьшей СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Даёт 1 Дыхание случайному союзнику"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[EndSkill] Восстанавливает 20 CД 4-м союзникам с наименьшей СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 4"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Даёт 1 Дыхание случайному союзнику"
+                },
+                {
+                  "desc": "[EndSkillHead] Даёт 1 Повышение силы Пронзающей атаки и 1 Повышение урона 4-ём союзникам с наибольшей СД"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[EndSkill] Восстанавливает 25 СД 4-м союзникам с наименьшей СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 6"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику"
+                },
+                {
+                  "desc": "[EndSkill] Даёт 2 <sprite name=\"PenetrateResultUp\"><color=#f8c200><u><link=\"PenetrateResultUp\">Повышения силы Пронзающей атаки</link></u></color> и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> 4-ём союзникам с наибольшей СД"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[CantIdentify]\nСлучайные цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание и повышает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Уязвимости к Гордыне</link></u></color> на этот и следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[CantIdentify]\nСлучайные цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Восстанавливает 3% от максимальных ОЗ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание и повышает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Уязвимости к Гордыне</link></u></color> на этот и следующий ход"
+                },
+                {
+                  "desc": "[EndSkillTail] Даёт 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> 4-ём союзникам с наименьшей СД на этот и следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ослепление",
+          "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
+          "desc": "[CantIdentify]\nСлучайные цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает 3% от максимальных ОЗ"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание и повышает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"IndigoTakeDamageUp\"><color=#e30000><u><link=\"IndigoTakeDamageUp\">Уязвимости к Гордыне</link></u></color> на этот и следующий ход"
+                },
+                {
+                  "desc": "[EndSkill] Даёт 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> 4-ём союзникам с наименьшей СД на этот и следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

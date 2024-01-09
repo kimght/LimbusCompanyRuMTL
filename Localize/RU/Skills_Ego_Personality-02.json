@@ -1,0 +1,125 @@
+{
+  "dataList": [
+    {
+      "id": 2020511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[BeforeAttack] Количество целей +1 при абсолюте Похоти, равном 4 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[BeforeAttack] Количество целей +1 при абсолюте Похоти, равном 4 и более\nДополнительно +1 цель при абсолюте Похоти, равном 6 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[CantIdentify]\nСлучайная цель",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при абсолюте Похоти, равном 4 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей +1 при абсолюте Похоти, равном 4 и более\nДополнительно +1 цель при абсолюте Похоти, равном 6 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Меняет 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 Понижение уровня защиты (До 10-и)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

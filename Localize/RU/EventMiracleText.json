@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": "miracle_stagebutton_not_clear_cp4",
+      "content": "Пройди {0}-ую Песнь!"
+    },
+    {
+      "id": "miracle_stagebutton_normal",
+      "content": "Часовая башка! Давай быстрее!"
+    },
+    {
+      "id": "miracle_stagebutton_end_event",
+      "content": "Вы поздно! Ивент-то уже закончился!"
+    },
+    {
+      "id": "miracle_storybutton_before_start",
+      "content": "Откройте, пройдя 5.5-1"
+    },
+    {
+      "id": "miracle_storybutton_normal",
+      "content": "<cspace=-1px>Сие — записи нашего приключения!</cspace>"
+    },
+    {
+      "id": "miracle_exchange_scrap",
+      "content": "Обмен наград"
+    },
+    {
+      "id": "miracle_scrap_guide_title",
+      "content": "Огромный мешок декораций"
+    },
+    {
+      "id": "miracle_scrap_guide_desc",
+      "content": "Во время прохождения этапов ивента и основной истории\nесть некоторый шанс получить <color=#008d0d>[Огромный мешок декораций]</color>.\n\n<color=#008d0d>[Огромный мешок декораций]</color> равноценнен 20 <color=#008d0d>[Мешкам декораций]</color>."
+    },
+    {
+      "id": "miracle_rewardpage_desc",
+      "content": "Во время прохождения этапов ивента и основной истории, а также её подземелий вы получите <color=#008d0d>[Мешки декораций]</color>.\n\nВ зависимости от количества полученных <color=#008d0d>[Мешков декораций]</color>, вы можете получить награды в <color=#008d0d>[Обмене наград]</color>."
+    },
+    {
+      "id": "miracle_scrap_counter_label",
+      "content": "Собрано мешков декораций:"
+    }
+  ]
+}
