@@ -150,7 +150,7 @@
     },
     {
       "id": "immunity_information",
-      "content": "Сопротивления"
+      "content": "<size=26>Сопротивления</size>"
     },
     {
       "id": "awaken_ego_skill",
@@ -226,7 +226,7 @@
     },
     {
       "id": "dungeon_encounter_start",
-      "content": "Начать"
+      "content": "Начнём"
     },
     {
       "id": "dungeon_encounter_battle",
@@ -406,7 +406,7 @@
     },
     {
       "id": "dungeon_encounter_type_start",
-      "content": "Начать"
+      "content": "Начнём"
     },
     {
       "id": "dungeon_encounter_type_battle",
@@ -498,7 +498,7 @@
     },
     {
       "id": "destroyable",
-      "content": "Можно разрушить"
+      "content": "Можно повредить"
     },
     {
       "id": "resumption",
@@ -510,7 +510,7 @@
     },
     {
       "id": "show_skillTool",
-      "content": "Показать окошки умений"
+      "content": "Показать окна навыков"
     },
     {
       "id": "auto_coinToss",
@@ -573,8 +573,36 @@
       "content": "Детали"
     },
     {
+      "id": "ab_part_destroyable",
+      "content": "Можно повредить"
+    },
+    {
+      "id": "ab_part_destroyable_and_can_vanish",
+      "content": "Можно повредить и <color=#ffffff>отсечь</color>"
+    },
+    {
       "id": "ab_guidebook_view",
-      "content": "Просмотреть записи"
+      "content": "Просмотреть\nзаписи"
+    },
+    {
+      "id": "show_BattleAblityUI",
+      "content": "Детально показывать информацию в фазе битвы"
+    },
+    {
+      "id": "Ahab_NotTarget_Onece",
+      "content": "На самом деле, моя цель…"
+    },
+    {
+      "id": "Ahab_NotTarget_Twice",
+      "content": "…Не всегда нужно смотреть лишь вперёд…"
+    },
+    {
+      "id": "Ahab_NotTarget_Thrice",
+      "content": "Порой, чтобы жить дальше…\n…Стоит оглянуться вокруг и взглянуть на то,\nчто всегда было рядом…"
+    },
+    {
+      "id": "show_BattleUnitAblityUI",
+      "content": "Показывать активные эффекты в фазе Битвы"
     }
   ]
 }

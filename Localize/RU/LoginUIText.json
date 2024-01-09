@@ -163,6 +163,14 @@
     {
       "id": "serverstate_verify_ban_reason_cheat",
       "content": "Запись о подозрительной активности на аккаунте.\n(Читерство)"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "В данный момент происходит проверка функций."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Запрос обработан.\nПожалуйста, перезапустите игру для синхронизации."
     }
   ]
 }

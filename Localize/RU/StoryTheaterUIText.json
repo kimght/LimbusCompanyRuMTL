@@ -38,7 +38,7 @@
     },
     {
       "id": "ENTER",
-      "content": "Начать"
+      "content": "Начнём"
     },
     {
       "id": "CLOSE",
@@ -62,7 +62,7 @@
     },
     {
       "id": "OPEN_CONDITION",
-      "content": "Для разблокировки: "
+      "content": "Для открытия: "
     },
     {
       "id": "DEEP_ANALYSIS",
@@ -158,15 +158,15 @@
     },
     {
       "id": "MainStoryOpenCondition_101",
-      "content": "Пройти 1-1"
+      "content": "Пройдите 1-1"
     },
     {
       "id": "MainStoryOpenCondition_102",
-      "content": "Пройти 2-1"
+      "content": "Пройдите 2-1"
     },
     {
       "id": "MainStoryOpenCondition_103",
-      "content": "Пройти 3-1"
+      "content": "Пройдите 3-1"
     },
     {
       "id": "PersonalityStory_OpenCodition",
@@ -215,6 +215,10 @@
     {
       "id": "OtherStoryOpenCondition_9104",
       "content": "Пройдите 4.5-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_105",
+      "content": "Пройдите 5-1"
     }
   ]
 }

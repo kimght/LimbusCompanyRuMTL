@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Вид с высоты вороньего полёта",
+          "name": "Вид с высоты полёта ворона",
           "abName": "И Сан",
           "desc": "",
           "coinlist": [
@@ -23,7 +23,7 @@
         },
         {
           "level": 3,
-          "name": "Вид с высоты вороньего полёта",
+          "name": "Вид с высоты полёта ворона",
           "abName": "И Сан",
           "desc": "",
           "coinlist": [
@@ -41,7 +41,7 @@
         },
         {
           "level": 4,
-          "name": "Вид с высоты вороньего полёта",
+          "name": "Вид с высоты полёта ворона",
           "abName": "И Сан",
           "desc": "",
           "coinlist": [
@@ -309,7 +309,7 @@
         {
           "level": 1,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "",
           "coinlist": [
             {
@@ -327,7 +327,7 @@
         {
           "level": 3,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "",
           "coinlist": [
             {
@@ -345,7 +345,7 @@
         {
           "level": 4,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "",
           "coinlist": [
             {
@@ -371,7 +371,7 @@
         {
           "level": 1,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -389,7 +389,7 @@
         {
           "level": 3,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -407,7 +407,7 @@
         {
           "level": 4,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -631,13 +631,13 @@
         {
           "level": 1,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
@@ -649,13 +649,13 @@
         {
           "level": 3,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 25 урона по СД"
@@ -670,13 +670,13 @@
         {
           "level": 4,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный флаг",
+          "abName": "Обезглавленный ихтис",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 25 урона по СД"
@@ -699,7 +699,7 @@
         {
           "level": 1,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -717,7 +717,7 @@
         {
           "level": 3,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -738,7 +738,7 @@
         {
           "level": 4,
           "name": "Водяной мешок",
-          "abName": "Обезглавленный ихтис",
+          "abName": "Обезглавленный\nихтис",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -1006,7 +1006,7 @@
         {
           "level": 1,
           "name": "Шарики за ролики",
-          "abName": "Хочешь, накостыляю? Очень?",
+          "abName": "Хочешь, накостыляю?\nОчень?",
           "desc": "[EndSkill] Получает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>",
           "coinlist": [
             {
@@ -1021,7 +1021,7 @@
         {
           "level": 3,
           "name": "Шарики за ролики",
-          "abName": "Хочешь, накостыляю? Очень?",
+          "abName": "Хочешь, накостыляю?\nОчень?",
           "desc": "[EndSkill] Получает 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color>\n[EndSkill] Получает 2 <sprite name=\"Operation\"><color=#a16a3b><u><link=\"Operation\">Операции</link></u></color> на следующий ход",
           "coinlist": [
             {
@@ -1041,7 +1041,7 @@
         {
           "level": 1,
           "name": "Шарики за ролики",
-          "abName": "Хочешь, накостыляю? Очень?",
+          "abName": "Хочешь, накостыляю?\nОчень?",
           "desc": "[EndSkill] Получает 2 <sprite name=\"Operation\"><color=#a16a3b><u><link=\"Operation\">Операции</link></u></color> на следующий ход",
           "coinlist": [
             {
@@ -1056,7 +1056,7 @@
         {
           "level": 3,
           "name": "Шарики за ролики",
-          "abName": "Хочешь, накостыляю? Очень?",
+          "abName": "Хочешь, накостыляю?\nОчень?",
           "desc": "[EndSkill] Получает 2 <sprite name=\"Operation\"><color=#a16a3b><u><link=\"Operation\">Операции</link></u></color> на следующий ход",
           "coinlist": [
             {
@@ -1079,13 +1079,13 @@
         {
           "level": 1,
           "name": "Исполнение",
-          "abName": "Советник небесного душеприказчика",
+          "abName": "Советник небесного пристава",
           "desc": "[EndSkill] Восстанавливает 2 союзникам с наименьшими ОЗ на 15% от максимальных ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -1094,13 +1094,13 @@
         {
           "level": 3,
           "name": "Исполнение",
-          "abName": "Советник небесного душеприказчика",
+          "abName": "Советник небесного пристава",
           "desc": "[EndSkill] Восстанавливает 2 союзникам с наименьшими ОЗ на 30% от максимальных ОЗ; Получает 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -1114,13 +1114,13 @@
         {
           "level": 1,
           "name": "Исполнение",
-          "abName": "Советник небесного душеприказчика",
+          "abName": "Советник небесного пристава",
           "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Наносит 1 Уязвимость на союзника с наименьшими ОЗ на следующий ход; Получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -1129,13 +1129,13 @@
         {
           "level": 3,
           "name": "Исполнение",
-          "abName": "Советник небесного душеприказчика",
+          "abName": "Советник небесного пристава",
           "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Наносит 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color> на союзника с наименьшими ОЗ на следующий ход; Получает 3 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -1391,7 +1391,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "Тратит 5 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядов</link></u></color> для получения +3 силы навыка",
           "coinlist": [
             {
@@ -1406,7 +1406,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[WhenUse] Получает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за резонанс Зависти.\nТратит 5 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядов</link></u></color> для получения +3 силы навыка",
           "coinlist": [
             {
@@ -1421,7 +1421,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[WhenUse] Получает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за резонанс Зависти.\nТратит 5 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Зарядов</link></u></color> для получения +3 силы навыка (До 12)",
           "coinlist": [
             {
@@ -1441,7 +1441,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify]\nСлучайная цель\nТратит весь Заряд для получения +6 силы навыка",
           "coinlist": [
             {
@@ -1456,7 +1456,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify]\nСлучайная цель\n[WhenUse] Получает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за резонанс Зависти\nТратит весь Заряд для получения +10 силы навыка",
           "coinlist": [
             {
@@ -1471,7 +1471,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify] Случайная цель\n[WhenUse] Получает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за резонанс Зависти\nТратит весь Заряд для получения +15 силы навыка",
           "coinlist": [
             {
@@ -1539,7 +1539,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -1942,7 +1942,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
@@ -1960,7 +1960,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
@@ -1978,7 +1978,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 5"
@@ -2001,7 +2001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 4"
@@ -2019,7 +2019,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 6"
@@ -2037,7 +2037,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 10 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 8"
@@ -2530,7 +2530,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -2551,7 +2551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
@@ -2712,7 +2712,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2727,7 +2727,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2745,7 +2745,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2768,7 +2768,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2783,7 +2783,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2801,7 +2801,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2824,7 +2824,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2842,7 +2842,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2863,7 +2863,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "",
           "coinlist": [
             {
@@ -2889,7 +2889,7 @@
         {
           "level": 1,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -2907,7 +2907,7 @@
         {
           "level": 3,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -2928,7 +2928,7 @@
         {
           "level": 4,
           "name": "Телефонный столб",
-          "abName": "Уличный сторожевой пёс",
+          "abName": "Сторожевой пёс улиц",
           "desc": "[CantIdentify]\nСлучайная цель",
           "coinlist": [
             {
@@ -3318,7 +3318,7 @@
                   "desc": "[OnSucceedAttack] Наносит Тремор в зависимости от счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 5-и случайным противникам"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1 5-и случайным противникам"
                 }
               ]
             }
@@ -3342,7 +3342,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 5-и случайным противникам"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2 5-и случайным противникам"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2 5-и случайным противникам"
                 }
               ]
             }
@@ -3366,7 +3366,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 5-и случайным противникам"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 3 5-и случайным противникам"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем снижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 3 5-и случайным противникам"
                 }
               ]
             }
@@ -3392,7 +3392,7 @@
                   "desc": "[OnSucceedAttack] Наносит Тремор в зависимости от счётчика <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2 5-и случайным целям"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3; если это оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2 5-и случайным целям"
                 }
               ]
             }
@@ -3416,7 +3416,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 5-и случайным целям"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 3 5-и случайным целям"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 3 5-и случайным целям"
                 }
               ]
             }
@@ -3440,7 +3440,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 5-и случайным целям"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4 5-и случайным целям"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 4 5-и случайным целям"
                 }
               ]
             }
@@ -3507,7 +3507,7 @@
                   "desc": "[OnSucceedAttack] Цель теряет 7 СД"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
                 }
               ]
             }
@@ -3528,7 +3528,7 @@
                   "desc": "[OnSucceedAttack] Цель теряет 15 СД"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 3-м случайным целям"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>, затем понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2; если провоцирование оглушило цель, наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 3-м случайным целям"
                 }
               ]
             }
@@ -3551,7 +3551,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -3572,7 +3572,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор; повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>; повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
                 }
               ]
             }
@@ -3593,7 +3593,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор; повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>; повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
                 }
               ]
             }
@@ -3616,7 +3616,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -3640,7 +3640,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор; повышает счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>; повышает счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                 }
               ]
             }
@@ -3664,7 +3664,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Провоцирует Тремор; повышает счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                  "desc": "[CriticalOnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>; повышает счётчики <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> и <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
                 }
               ]
             }

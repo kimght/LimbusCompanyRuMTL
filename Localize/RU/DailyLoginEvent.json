@@ -19,6 +19,10 @@
     {
       "id": "daily_login_halloween_desc",
       "content": "▶ Получите 「Билет децизвлечения」, пробив лист 7 раз."
+    },
+    {
+      "id": "daily_login_seventh_anniversary_desc",
+      "content": "Войдите во время проведения ивента\nи получите билет Децизвлечения"
     }
   ]
 }

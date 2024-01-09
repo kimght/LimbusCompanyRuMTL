@@ -34,7 +34,7 @@
     },
     {
       "id": "battlepass_remain_time",
-      "content": "Осталось {0} дней {1} часов"
+      "content": "Осталось\n{0} дней {1} часов"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
@@ -54,7 +54,7 @@
     },
     {
       "id": "battlepass_level_up_ask",
-      "content": "Желаете ли использовать [Платное Безумство] для повышения уровня?"
+      "content": "Желаете ли купить уровни Пасса за [Платное Безумство]?"
     },
     {
       "id": "battlepass_level_upgrade",
@@ -94,7 +94,7 @@
     },
     {
       "id": "ask_to_use_paid_lunacy_to_level_up_pass",
-      "content": "Желаете использовать {0} платного Безумства для повышения уровня?"
+      "content": "Желаете потратить {0} платного Безумства для повышения уровня?"
     },
     {
       "id": "battlepass_purchase_level_up",
@@ -106,11 +106,11 @@
     },
     {
       "id": "only_paid_lunacy_for_battlepass_levelup",
-      "content": "※ Уровни Баттл Пасс повышаются\nтолько платным Безумством."
+      "content": "※ Уровни Баттл Пасс повышаются\nза 300 платного Безумства."
     },
     {
       "id": "buy_battlepass_word",
-      "content": "<size=50>Пробить</size>"
+      "content": "<cspace=-2px>Пробить</cspace>"
     },
     {
       "id": "battlepass_level_ex_reward",
@@ -135,6 +135,70 @@
     {
       "id": "battlepass_reward_opened_at",
       "content": "Обновление на {0}"
+    },
+    {
+      "id": "battlepass_package_purchase",
+      "content": "Пак для Лимбус Пасса"
+    },
+    {
+      "id": "battlepass_package_desc_level",
+      "content": "Содержит различные награды, включая 「Специальный баннер из пака для Лимбус Пасса」"
+    },
+    {
+      "id": "battlepass_package_desc_banner",
+      "content": "+ Активация [Лимбус Пасса]"
+    },
+    {
+      "id": "battlepass_package_ask_purchase",
+      "content": "Потратить {0} платного Безумства на покупку этого пака?"
+    },
+    {
+      "id": "battlepass_package_warning",
+      "content": "※ Этот предмет используется сразу после покупки; возврат может быть невозможен."
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward",
+      "content": "Получите следующие награды за максимальный уровень Пасса при покупке"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
+      "content": "<style=\"highlightConverted\">{1}</style> [Сезон {0}] Именные ящики эгосколков"
+    },
+    {
+      "id": "battlepass_select_product_popup_title",
+      "content": "Выберите Пасс/пак для Пасса"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
+      "content": "※ Покупка уровня Пасса стоит {0} платного Безумства."
+    },
+    {
+      "id": "battle_pass_package_button_desc",
+      "content": "Различные награды\nВключая специальный баннер"
+    },
+    {
+      "id": "battle_pass_select_popup_package_desc",
+      "content": "Различные награды\nВключая специальный баннер"
+    },
+    {
+      "id": "battle_pass_select_popup_limbus_desc",
+      "content": "◆ Разблокирует награды за Лимбус Пасс\n◆ Увеличивает награды за максимальный Лимбус Пасс"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc",
+      "content": "◆ Сразу при покупке получайте 10 уровней Пасса.\n◆ Включая награды."
+    },
+    {
+      "id": "battle_pass_limbus_purchase_popup_desc",
+      "content": "◆ Получайте дополнительные награды за Лимбус Пасс.\n◆ Получайте 3 [Сезон 3] Именных ящика эгосколков вместо 1 после получения максимального уровня Лимбус Пасса."
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus",
+      "content": "Различные награды\nВключая специальный баннер\n+ [Лимбус Пасс]"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc_in_box",
+      "content": "- Специальный баннер пака для Лимбус Пасса\n- Билеты скачка уровня IV"
     }
   ]
 }

@@ -14,11 +14,23 @@
     },
     {
       "id": "mirrordungeon_name_2_0",
-      "content": "Обычное Зеркало зеркал"
+      "content": "Обычное зеркало зеркал"
     },
     {
       "id": "mirrordungeon_name_2_1",
-      "content": "Усложнённое Зеркало зеркал"
+      "content": "Усложнённое зеркало зеркал"
+    },
+    {
+      "id": "mirrordungeon_name_3",
+      "content": "Зеркало Озера"
+    },
+    {
+      "id": "mirrordungeon_name_3_0",
+      "content": "Обычное зеркало Озера"
+    },
+    {
+      "id": "mirrordungeon_name_3_1",
+      "content": "Усложнённое зеркало Озера"
     }
   ]
 }

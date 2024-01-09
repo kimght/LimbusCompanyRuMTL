@@ -50,7 +50,7 @@
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
-      "content": "<size=28>Противники</size>"
+      "content": "<size=26>Противники</size>"
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
@@ -62,11 +62,11 @@
     },
     {
       "id": "mainui_stageinfo_resistinfo",
-      "content": "Сопротивления"
+      "content": "<size=26>Сопротивления</size>"
     },
     {
       "id": "mainui_stageinfo_enterbutton",
-      "content": "Начать"
+      "content": "Начнём"
     },
     {
       "id": "mainui_stageinfo_dungeonclear",
@@ -218,11 +218,11 @@
     },
     {
       "id": "mainui_proress",
-      "content": "Продолжить"
+      "content": "Продолжим"
     },
     {
       "id": "mainui_stop",
-      "content": "Прекратить"
+      "content": "С меня хватит"
     },
     {
       "id": "mainui_next",
@@ -238,7 +238,7 @@
     },
     {
       "id": "mainui_acquired_reward",
-      "content": "Полученные награды"
+      "content": "Награда"
     },
     {
       "id": "mainui_dungeon_finished",
@@ -486,7 +486,7 @@
     },
     {
       "id": "mainui_organization",
-      "content": "КОМАНДЫ"
+      "content": "Команда"
     },
     {
       "id": "story_ui_log_popup",
@@ -682,7 +682,7 @@
     },
     {
       "id": "Get_Reward",
-      "content": "Получено наград"
+      "content": "Награда"
     },
     {
       "id": "mainui_user_exp",
@@ -1130,11 +1130,11 @@
     },
     {
       "id": "clear_specific_stage",
-      "content": "Пройти {0}"
+      "content": "Пройдите {0}"
     },
     {
       "id": "clear_main_chapter_stage",
-      "content": "Пройти {0} главу"
+      "content": "Пройдите {0} главу"
     },
     {
       "id": "ingredients",
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "be_in_use",
-      "content": "<size=50>Пробит</size>"
+      "content": "<cspace=-1px>Пробит</cspace>"
     },
     {
       "id": "season_information",
@@ -1310,7 +1310,7 @@
     },
     {
       "id": "new_season_former_piece_to_thread_desc",
-      "content": "Не перенесённые эгосколки конвертируются в Звенья."
+      "content": "Неперенесённые эгосколки конвертируются в Звенья."
     },
     {
       "id": "new_season_former_box_to_current_box_desc",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "new_season_former_box_to_thread_box",
-      "content": "Не перенесённые ящики с эгосколками конвертируются в ящики со Звеньями."
+      "content": "Неперенесённые ящики с эгосколками конвертируются в ящики со Звеньями."
     },
     {
       "id": "new_pass_appeared",
@@ -1355,6 +1355,14 @@
     {
       "id": "notice_of_pity_point_expiration",
       "content": "{1} Исанов [Идеальностей] из баннера извлечения \"{0}\" конвертированы в Звенья."
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "Обменять 200 Исанов [Идеальностей] на эту идентичность?"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "У вас уже есть данная идентичность. Обменять 200 Исанов [Идеальностей] на 50 эгосколков этого грешника?"
     },
     {
       "id": "open_date_description_month_day_time_zone",
@@ -1402,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "Фиксированный"
+      "content": "<size=40><cspace=-2px>Фиксированный</cspace></size>"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "Необходим фиксированный участник"
+      "content": "<size=40><cspace=-2px>Необходим <nobr>фиксированный</nobr> участник</cspace></size>"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1462,7 +1470,7 @@
     },
     {
       "id": "level_up",
-      "content": "Повышение уровня"
+      "content": "<size=28><cspace=1><align=center>Повышение\nуровня</align=center></cspace></size>"
     },
     {
       "id": "summary",
@@ -1486,7 +1494,7 @@
     },
     {
       "id": "ego_cost",
-      "content": "Ресурсы\nдля ЭГО"
+      "content": "Ресурсы для ЭГО"
     },
     {
       "id": "enable_count_for_battle",
@@ -1494,7 +1502,7 @@
     },
     {
       "id": "select_for_formation",
-      "content": "Выбрать участников"
+      "content": "Выбрать грешника"
     },
     {
       "id": "edit_for_formation",
@@ -1506,11 +1514,11 @@
     },
     {
       "id": "select_for_delete_participation",
-      "content": "Отменить выбор"
+      "content": "Отозвать\nгрешника"
     },
     {
       "id": "clear_reward",
-      "content": "Забрать награду"
+      "content": "Награда"
     },
     {
       "id": "event_information",
@@ -1519,6 +1527,70 @@
     {
       "id": "notice_not_on_sales_period",
       "content": "※ Невозможно купить на данный момент."
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "Горячие клавиши для ПК"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "Подсказки к горячим клавишам"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "ЗАМЕЧЕНА НЕУСТОЙЧИВОСТЬ ЗАДНЕЙ ДВЕРИ"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "Приобретение комментатора для боя"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※ У Вас недостаточно платного Безумства."
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "Недостаточно платного Безумства"
+    },
+    {
+      "id": "mainui_original",
+      "content": "Назад"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "Для разблокировки пройдите {0}-{1}"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "Активные эффекты уровня"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "Эффект выбора"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "Эффекты ЭГО Дара 「{0}」"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "Назад"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "Нельзя выбрать"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "Инфо"
+    },
+    {
+      "id": "only_hyphen",
+      "content": "-"
+    },
+    {
+      "id": "first_time",
+      "content": "Впервые"
     }
   ]
 }

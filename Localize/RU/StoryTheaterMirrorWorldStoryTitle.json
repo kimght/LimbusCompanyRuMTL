@@ -46,7 +46,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10603",
-      "content": "Босс синдиката Динь-дон: История Хон Лу"
+      "content": "Босс синдиката \"Бом-боб\": История Хон Лу"
     },
     {
       "id": "MirrorWorld_Story_Title_P10702",
@@ -162,7 +162,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10104",
-      "content": "Расцветшее ЭГО, Линдера: История И Сана"
+      "content": "Раскрывшееся ЭГО, Линдера: История И Сана"
     },
     {
       "id": "MirrorWorld_Story_Title_P10805",
@@ -243,6 +243,42 @@
     {
       "id": "MirrorWorld_Story_Title_P10607",
       "content": "Корректировщик офиса Крюка: История Хон Лу"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10106",
+      "content": "Агент зачистки 3-го уровня Корп. W: История И Сана"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11207",
+      "content": "Старший помощник пиратов Двух крюков: История Грегора"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10406",
+      "content": "Ассистентка LCCB: История Рёшу"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10306",
+      "content": "Младшая сестра Среднего пальца: История Дон Кихот"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10507",
+      "content": "Младший брат Среднего пальца: История Мерсо"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10707",
+      "content": "Гарпунщик \"Пекода\": История Хитклиффа"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10107",
+      "content": "Старший помощник \"Пекода\": История И Сана"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11008",
+      "content": "Cinq South Section 4 Director: История Синклера"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11106",
+      "content": "Cinq South Section 4: История Отис"
     }
   ]
 }

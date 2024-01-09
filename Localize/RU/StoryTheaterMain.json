@@ -12,8 +12,8 @@
     },
     {
       "id": "CHAPTER_102",
-      "title": "The Unloving",
-      "desc": "Trespassers took the Golden Bough.\nSighing, the Guide offered another chance.\nDetermined to succeed this time,\nwe marched into a world\nof pleasure and ice."
+      "title": "Неспособная любить",
+      "desc": "Золотая ветвь оказалась в чужих руках.\nНо Гид, сердце скрепя, второй шанс дал нам тогда.\nИ с жаждой получить её в наших сердцах,\nмы достигли края блаженства и льда."
     },
     {
       "id": "CHAPTER_103",
@@ -27,17 +27,32 @@
     },
     {
       "id": "STORY_10111",
-      "title": "Филиал 4 района",
+      "title": "Филиал 4-го района",
       "desc": ""
     },
     {
       "id": "STORY_10219",
-      "title": "Филиал 10 района",
+      "title": "Филиал 10-го района",
       "desc": ""
     },
     {
       "id": "STORY_10322",
-      "title": "Филиал 11 района",
+      "title": "Филиал 11-го района",
+      "desc": ""
+    },
+    {
+      "id": "STORY_10454",
+      "title": "\"Я\" в памяти",
+      "desc": ""
+    },
+    {
+      "id": "CHAPTER_105",
+      "title": "The Evil Defining",
+      "desc": "Amidst the conflict that knew no end,\nWe set sail on the Great Lake.\nInto its ineffable Waves,\nInto the flames of a certain wrath."
+    },
+    {
+      "id": "STORY_10539",
+      "title": "В кромешной тьме",
       "desc": ""
     }
   ]

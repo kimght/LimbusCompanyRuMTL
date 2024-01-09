@@ -10,7 +10,7 @@
     },
     {
       "id": "enter_thread_dungeon",
-      "content": "Светодобыча цепей"
+      "content": "Светодобыча звеньев"
     },
     {
       "id": "enter_count",
@@ -74,7 +74,7 @@
     },
     {
       "id": "require_clear_story_stage",
-      "content": "Пройти {0}-{1} основной истории"
+      "content": "Пройдите {0}-{1} основной истории"
     },
     {
       "id": "daily_bonus_count",
@@ -91,6 +91,10 @@
     {
       "id": "reward_dungeon_mining",
       "content": "Светодобыча"
+    },
+    {
+      "id": "thread_dungeon_stage_name_with_attribute",
+      "content": "Светодобыча звеньев ({0})"
     }
   ]
 }

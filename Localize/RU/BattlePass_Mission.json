@@ -51,6 +51,10 @@
     {
       "id": "THREADDENGEON_CLEAR",
       "content": "Пройти Светодобычу звеньев {0} раз"
+    },
+    {
+      "id": "PURCHASE_ENKEPHALIN_MODULE",
+      "content": "Собрать Энкефалиновый модуль {0} раз"
     }
   ]
 }

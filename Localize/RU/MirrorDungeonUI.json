@@ -91,11 +91,11 @@
     },
     {
       "id": "mirrordungeon_progress",
-      "content": "Продолжить экспедицию"
+      "content": "<size=42>Продолжить экспедицию</size>"
     },
     {
       "id": "mirrordungeon_stop",
-      "content": "Завершить экспедицию"
+      "content": "<size=42>Завершить экспедицию</size>"
     },
     {
       "id": "mirrordungeon_dungeon_name_simulation",

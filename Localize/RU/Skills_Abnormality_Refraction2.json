@@ -261,7 +261,7 @@
         {
           "level": 1,
           "name": "Электрический разряд",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color>\n[DefeatDuel] Теряет 2 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color>\nНаносит на 10% больше урона целям с <sprite name=\"Paralysis\"><color=#e30000><u><link=\"<sprite name=\"Paralysis\">Параличом</color></link></u>",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color>\n[DefeatDuel] Теряет 2 <sprite name=\"SelfCharge\"><color=#f8c200><u><link=\"SelfCharge\">Подзаряда</link></u></color>\nНаносит на 10% больше урона целям с <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Параличом</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "Высоковольтный электрический разряд",
-          "desc": "[WhenUse] При 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзарядах</link></u></color>х</color></link></u> наносит на 20% больше урона за каждый счётчик <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзаряда</color></link></u> более 5-ти\n[WhenUse] Сила столкновения +1 за каждый Подзаряд\n[WhenUse] Тратит весь Подзаряд",
+          "desc": "[WhenUse] При 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзарядах</link></u></color> наносит на 20% больше урона за каждый счётчик <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Подзаряда</color></link></u> более 5-ти\n[WhenUse] Сила столкновения +1 за каждый Подзаряд\n[WhenUse] Тратит весь Подзаряд",
           "coinlist": [
             {
               "coindescs": [
@@ -440,15 +440,15 @@
         {
           "level": 1,
           "name": "Возьму-ка это!",
-          "desc": "Если на цели нет <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, сила столкновения +8 \n[WhenUse] Если на цели нет <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит на 150% больше урона",
+          "desc": "Если на цели нет <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, сила столкновения +8 \n[WhenUse] Если на цели нет <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит на 150% больше урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит 0 урона.\nФея-джентльмен будет оглушён на следующем ходе."
+                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит 0 урона.\nФея-джентльмен будет оглушён на следующем ходе."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Убирает все <color=#a16a3b><u><link=\"TipsinessRail\">Опьянение</color></link></u>."
+                  "desc": "[OnSucceedAttack] Убирает все <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянение</color></link></u>."
                 }
               ]
             }
@@ -489,7 +489,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 провоцирует Тремор"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -503,7 +503,7 @@
         {
           "level": 1,
           "name": "Сладкое вино феи",
-          "desc": "Когда убито идентичностью, даёт 5 <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u> всем идентичностям на следующий ход",
+          "desc": "Когда убито идентичностью, даёт 5 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u> всем идентичностям на следующий ход",
           "coinlist": [
             {}
           ]
@@ -857,12 +857,12 @@
         {
           "level": 1,
           "name": "Возьму-ка это!",
-          "desc": "Если на цели нет <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, сила столкновения +8 \n[WhenUse] Если на цели нет <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит на 150% больше урона",
+          "desc": "Если на цели нет <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, сила столкновения +8 \n[WhenUse] Если на цели нет <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит на 150% больше урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит 0 урона.\nФея-джентльмен будет оглушён на следующем ходе."
+                  "desc": "[OnSucceedAttack] Если на цели 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u>, наносит 0 урона.\nФея-джентльмен будет оглушён на следующем ходе."
                 },
                 {
                   "desc": "[OnSucceedAttack] Убирает все <color=#a16a3b><u><link=\"TipsinessRail\">Опьянение</color></link></u>."
@@ -906,7 +906,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 провоцирует Тремор"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -920,7 +920,7 @@
         {
           "level": 1,
           "name": "Сладкое вино феи",
-          "desc": "Когда убито идентичностью, даёт 5 <sprite name=\"TipsinessRail\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u> всем идентичностям на следующий ход",
+          "desc": "Когда убито идентичностью, даёт 5 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Опьянения</color></link></u> всем идентичностям на следующий ход",
           "coinlist": [
             {}
           ]
@@ -1059,7 +1059,7 @@
         {
           "level": 1,
           "name": "Рассечение пространства",
-          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Тратит 2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1078,7 +1078,7 @@
         {
           "level": 1,
           "name": "Непрерывные рассечения пространства",
-          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Тратит 2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1104,7 +1104,7 @@
         {
           "level": 1,
           "name": "Побочный выброс",
-          "desc": "[DefeatDuel] Тратит 2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1181,7 +1181,7 @@
         {
           "level": 1,
           "name": "Побочное извержение",
-          "desc": "[WhenUse] Если на цели есть Пространственный разлом, наносит на 10% больше урона\n[DefeatDuel] Тратит 2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[WhenUse] Если на цели есть Пространственный разлом, наносит на 10% больше урона\n[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1257,7 +1257,7 @@
         {
           "level": 1,
           "name": "Остановленный момент",
-          "desc": "[DefeatDuel] Тратит 2 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1301,7 +1301,7 @@
         {
           "level": 1,
           "name": "Момент ускорения",
-          "desc": "Сила навыка +1 за каждое Одолженное время\n[DefeatDuel] Тратит 3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "Сила навыка +1 за каждое Одолженное время\n[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -1814,7 +1814,7 @@
                   "desc": "[OnSucceedAttack] Наносит +2 счётчика провоцирует Тремор"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Провоцирует Тремор"
+                  "desc": "[OnSucceedAttackHead] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -2053,7 +2053,7 @@
         {
           "level": 1,
           "name": "Взваленная зависть",
-          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Тратит 3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "[WhenUse] Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[DefeatDuel] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [

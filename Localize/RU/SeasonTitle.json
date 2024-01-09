@@ -2,19 +2,27 @@
   "dataList": [
     {
       "id": "season_title_1",
-      "content": "ОРИЕНТИР"
+      "content": "<cspace=-1px>ОРИЕНТИР</cspace>"
     },
     {
       "id": "season_title_1_EVENT",
-      "content": "ОРИЕНТИР [ИВЕНТ]"
+      "content": "<cspace=-2px>ОРИЕНТИР [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_title_2",
-      "content": "ВОСПОМИНАНИЕ"
+      "content": "<cspace=-2px>ВОСПОМИНАНИЕ</cspace>"
     },
     {
       "id": "season_title_2_EVENT",
-      "content": "ВОСПОМИНАНИЕ [ИВЕНТ]"
+      "content": "<cspace=-2px>ВОСПОМИНАНИЕ [ИВЕНТ]</cspace>"
+    },
+    {
+      "id": "season_title_3",
+      "content": "<cspace=-1px>БОН ВОЯЖ</cspace>"
+    },
+    {
+      "id": "season_title_3_EVENT",
+      "content": "<cspace=-2px>БОН ВОЯЖ [ИВЕНТ]</cspace>"
     }
   ]
 }
