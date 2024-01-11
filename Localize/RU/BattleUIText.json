@@ -603,6 +603,42 @@
     {
       "id": "show_BattleUnitAblityUI",
       "content": "Показывать активные эффекты в фазе Битвы"
+    },
+    {
+      "id": "LobotomyStartTypo_Title_1",
+      "content": "Зелёный рассвет"
+    },
+    {
+      "id": "LobotomyStartTypo_Name_1",
+      "content": "Сомнение"
+    },
+    {
+      "id": "LobotomyStartTypo_Desc_1",
+      "content": "Однажды возник вопрос: откуда мы родом? Кто-то дал нам жизнь и бросил нас на произвол судьбы."
+    },
+    {
+      "id": "LobotomyStartTypo_KillCountTitle_1",
+      "content": "Статус усмирения"
+    },
+    {
+      "id": "LobotomyClearTypo_Title_1",
+      "content": "Зелёный рассвет"
+    },
+    {
+      "id": "LobotomyClearTypo_Name_1",
+      "content": "Сомнение"
+    },
+    {
+      "id": "LobotomyClearTypo_Desc_1",
+      "content": "Жизнь есть страдание."
+    },
+    {
+      "id": "LobotomyEndTypo_Title",
+      "content": "Время усмирения вышло"
+    },
+    {
+      "id": "LobotomyEndTypo_Desc",
+      "content": "Оставшиеся испытания Зелёного рассвета: {0}"
     }
   ]
 }

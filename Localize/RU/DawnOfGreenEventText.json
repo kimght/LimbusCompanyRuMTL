@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": "dawn_of_green_reward_button",
+      "content": "Список заданий"
+    },
+    {
+      "id": "dawn_of_green_story_theater_button",
+      "content": "В Театр"
+    },
+    {
+      "id": "dawn_of_green_normal_stage",
+      "content": "Обычное"
+    },
+    {
+      "id": "dawn_of_green_hard_stage",
+      "content": "Сложное"
+    },
+    {
+      "id": "dawn_of_green_hard_stage_unlock_condition",
+      "content": "Откроется после прохождения Обычного испытания"
+    },
+    {
+      "id": "reward_Noraml",
+      "content": "Обычная"
+    },
+    {
+      "id": "reward_Hard",
+      "content": "Сложная"
+    },
+    {
+      "id": "EVENT_NEWYEAR_2024_NORMAL",
+      "content": "Обычное"
+    },
+    {
+      "id": "EVENT_NEWYEAR_2024_HARD",
+      "content": "Сложное"
+    },
+    {
+      "id": "missionConditionTitle_10001",
+      "content": "Усмирите испытания Зелёного рассвета за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_10002",
+      "content": "Усмирите испытания Зелёного рассвета, Сомнение - γ, за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_10003",
+      "content": "Усмирите испытания Зелёного рассвета, Сомнение - δ, за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_10004",
+      "content": "Завершите усмирение испытания без потерь"
+    },
+    {
+      "id": "missionConditionTitle_10005",
+      "content": "Завершите усмирение испытания, не опуская силу духа грешников до -45"
+    },
+    {
+      "id": "missionConditionTitle_10006",
+      "content": "Усмирите 3 испытания Зелёного рассвета одним навыком"
+    },
+    {
+      "id": "missionConditionTitle_10007",
+      "content": "Позвольте капитану команды Контроля усмирить испытания Зелёного рассвета"
+    },
+    {
+      "id": "missionConditionTitle_10008",
+      "content": "Завершите усмирение с живым капитаном команды Контроля, потерпевшим менее 10-и вражеских атак"
+    },
+    {
+      "id": "missionConditionTitle_20001",
+      "content": "Усмирите испытания Зелёного рассвета за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_20002",
+      "content": "Усмирите испытания Зелёного рассвета, Сомнение - γ, за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_20003",
+      "content": "Усмирите испытания Зелёного рассвета, Сомнение - δ, за одну битву"
+    },
+    {
+      "id": "missionConditionTitle_20004",
+      "content": "Завершите усмирение испытания без потерь"
+    },
+    {
+      "id": "missionConditionTitle_20005",
+      "content": "Завершите усмирение испытания, не опуская силу духа грешников до -45"
+    },
+    {
+      "id": "missionConditionTitle_20006",
+      "content": "Усмирите 7 испытаний Зелёного рассвета одним навыком"
+    },
+    {
+      "id": "missionConditionTitle_20007",
+      "content": "Позвольте капитану команды Контроля усмирить испытания Зелёного рассвета"
+    },
+    {
+      "id": "missionConditionTitle_20008",
+      "content": "Завершите усмирение с живым капитаном команды Контроля, потерпевшим менее 5-и вражеских атак"
+    },
+    {
+      "id": "missionConditionTitle_30001",
+      "content": "Выполните все задания обычного и сложного испытаний"
+    },
+    {
+      "id": "dawnofgreen_rewardpage_desc",
+      "content": "Усмирение испытания Зелёного рассвета — Обычное или сложное. Усмирите Зелёный рассвет и выполните связанные с этим задания.\n\nВыполнение заданий позволит Вам получить различные награды."
+    },
+    {
+      "id": "mainui_battleresult_wa",
+      "content": "Испытание завершено"
+    }
+  ]
+}

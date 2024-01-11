@@ -439,6 +439,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1110701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Зажигание",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Чёрное пламя на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Зажигание",
+          "desc": "Сила монет +1 за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Чёрное пламя на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Зажигание",
+          "desc": "Сила монет +1 за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Чёрное пламя на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Запал магической пули",
+          "desc": "Сила монет +1 против целей с 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Запал магической пули",
+          "desc": "Сила монет +1 за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Запал магической пули",
+          "desc": "Сила монет +1 за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Огонь пропорционально <sprite name=\"DarkFlame\"><color=#e30000><u><link=\"DarkFlame\">Чёрному пламени</link></u></color> на цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Выстрел магической пулей",
+          "desc": "Повышает урон на 0.5% за каждую единицу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 15%)\n\n[BeforeAttack] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color>\n- Тратит (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> - 1) x 5 СД\n- Количество целей меняется на число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> на руках\n- Атака с шансом в 50% становится неуправляемой при 10 и менее СД\n\n[EndSkill] Если число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> равно 7-и, оно обнуляется. (Считается за трату последнего <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Патрона</link></u></color>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Чёрное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выстрел магической пулей",
+          "desc": "Повышает урон на 1% за каждую единицу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 30%)\n\n[BeforeAttack] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color>\n- Тратит (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> - 1) x 5 СД\n- Количество целей меняется на число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> на руках\n- Атака с шансом в 50% становится неуправляемой при 10 и менее СД\n\n[EndSkill] Если число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> равно 7-и, оно обнуляется. (Считается за трату последнего <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Патрона</link></u></color>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит Чёрное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цена Магической пули",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color> (Раз за ход)\n[EndSkillAll] Тратит СД пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Цена Магической пули",
+          "desc": "[WhenUse] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color> (Раз за ход)\n[WhenUse] Повышает итоговую силу на (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> x 2)\n[EndSkillAll] Тратит СД пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

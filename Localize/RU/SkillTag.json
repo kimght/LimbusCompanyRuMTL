@@ -155,6 +155,18 @@
     {
       "id": "CriticalEndSkill",
       "name": "[Конец критической атаки]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[Цель неизменна]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[В начале хода]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[Окончание навыка]"
     }
 
   ]
