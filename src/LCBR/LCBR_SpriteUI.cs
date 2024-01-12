@@ -177,6 +177,57 @@ namespace LimbusLocalizeRUS
         private static void FormationPersonalityUI_Init(FormationPersonalityUI __instance)
         {
             __instance.img_isParticipaged.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            __instance.img_support.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
+        }
+        #endregion
+
+        #region Support Formation UI
+        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIPanel), nameof(FormationSwitchablePersonalityUIPanel.SetDataOpen))]
+        [HarmonyPostfix]
+        private static void Support_Init (FormationSwitchablePersonalityUIPanel __instance)
+        {
+            // SELECTED
+            Transform slot_1 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot/[Image]ParticipateSlotUI");
+            if (slot_1 != null)
+                slot_1.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_2 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (1)/[Image]ParticipateSlotUI");
+            if (slot_2 != null)
+                slot_2.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_3 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (2)/[Image]ParticipateSlotUI");
+            if (slot_3 != null)
+                slot_3.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_4 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (3)/[Image]ParticipateSlotUI");
+            if (slot_4 != null)
+                slot_4.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_5 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (4)/[Image]ParticipateSlotUI");
+            if (slot_5 != null)
+                slot_5.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_6 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (5)/[Image]ParticipateSlotUI");
+            if (slot_6 != null)
+                slot_6.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_7 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (6)/[Image]ParticipateSlotUI");
+            if (slot_7 != null)
+                slot_7.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_8 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (7)/[Image]ParticipateSlotUI");
+            if (slot_8 != null)
+                slot_8.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_9 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (8)/[Image]ParticipateSlotUI");
+            if (slot_9 != null)
+                slot_9.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_10 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (9)/[Image]ParticipateSlotUI");
+            if (slot_10 != null)
+                slot_10.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_11 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (10)/[Image]ParticipateSlotUI");
+            if (slot_11 != null)
+                slot_11.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            Transform slot_12 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (11)/[Image]ParticipateSlotUI");
+            if (slot_12 != null)
+                slot_12.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+
+            // SUPPORT TAG
+            Transform support_tag = __instance.transform.Find("[Script]RightPanel/[Script]FormationEgoList/[Image]SupportTag");
+            if (support_tag != null)
+                support_tag.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
         }
         #endregion
 

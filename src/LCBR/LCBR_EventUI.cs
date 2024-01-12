@@ -36,8 +36,6 @@ namespace LimbusLocalizeRUS
         }
         #endregion
 
-
-
         #region Miracle in District 20
         [HarmonyPatch(typeof(MiracleEventUIPanel), nameof(MiracleEventUIPanel.Initialize))]
         [HarmonyPostfix]
@@ -69,19 +67,14 @@ namespace LimbusLocalizeRUS
             if (miracleStageMO != null)
                 miracleStageMO.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Miracle20_Stage_Mouseover"];
         }
-        [HarmonyPatch(typeof(MiracleMainEventBanner), nameof(MiracleMainEventBanner.Init))]
+        [HarmonyPatch(typeof(MiracleEventMultipleBanner), nameof(MiracleEventMultipleBanner.Init))]
         [HarmonyPostfix]
-        private static void MiracleMainBanner_Init(MiracleMainEventBanner __instance)
+        private static void MiracleBanners_Init(MiracleEventMultipleBanner __instance)
         {
-            Transform mainBanner = __instance.transform.Find("[Image]BannerImage (1)");
+            Transform mainBanner = __instance.transform.Find("[Button]MainBanner");
             if (mainBanner != null)
                 mainBanner.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Miracle20_EventBanner"];
-        }
-        [HarmonyPatch(typeof(MiracleSubEventBanner), nameof(MiracleSubEventBanner.Init))]
-        [HarmonyPostfix]
-        private static void MiracleSubBanner_Init(MiracleSubEventBanner __instance)
-        {
-            Transform subBanner = __instance.transform.Find("[Mask]BannerImage/[Image]BannerImage (1)");
+            Transform subBanner = __instance.transform.Find("[Button]RewardBanner");
             if (subBanner != null)
                 subBanner.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Miracle20_ExchangeBanner"];
         }
@@ -113,10 +106,57 @@ namespace LimbusLocalizeRUS
         }
         [HarmonyPatch(typeof(MiracleEventRewardButton), nameof(MiracleEventRewardButton.SetData))]
         [HarmonyPostfix]
-        private static void MiracleLock_Init (MiracleEventRewardButton __instance)
+        private static void MiracleLock_Init(MiracleEventRewardButton __instance)
         {
             __instance.img_lock.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Miracle20_Lock"];
             __instance.img_complete.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Miracle20_Get"];
+        }
+        #endregion
+
+        #region Valpurgis Nacht 2
+        [HarmonyPatch(typeof(DawnOfGreenEventRewardBanner), nameof(DawnOfGreenEventRewardBanner.Init))]
+        [HarmonyPostfix]
+        private static void RewardBanner_Init (DawnOfGreenEventRewardBanner __instance)
+        {
+            GameObject secondValpurgisMission = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]StageUIPresenter(Clone)/[Rect]Active/[Script]PartAndChapterSelectionUIPanel/[Rect]Active/[Rect]Left/[Script]StageLeftBanners/[Script]StageEventBanner_Multiple_DawnOfGreen(Clone)/[Button]SecondBanner");
+            if (secondValpurgisMission != null)
+                secondValpurgisMission.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Mission_Banner"];
+        }
+        [HarmonyPatch(typeof(DawnOfGreenEventUIPanel), nameof(DawnOfGreenEventUIPanel.Initialize))]
+        [HarmonyPostfix]
+        private static void DawnOfGreen_Init(DawnOfGreenEventUIPanel __instance)
+        {
+            GameObject secondValpurgisDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]DawnOfGreen_MainEvent(Clone)/[Text]Date");
+            if (secondValpurgisDate != null)
+            {
+                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 25.01.2024(ЧТ) (МСК)";
+                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+            }
+        }
+        [HarmonyPatch(typeof(DawnOfGreenEventRewardUIPanel), nameof(DawnOfGreenEventRewardUIPanel.SetData))]
+        [HarmonyPostfix]
+        private static void RewardBackground_Init(DawnOfGreenEventRewardUIPanel __instance)
+        {
+            GameObject secondValpurgisBG = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/[Image]Background");
+            if (secondValpurgisBG != null)
+                secondValpurgisBG.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_BG"];
+            GameObject secondValpurgisDesc = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel");
+            if (secondValpurgisDesc != null)
+                secondValpurgisDesc.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Desc"];
+            GameObject secondValpurgisMissionDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel/[Text]EventPeriod");
+            if (secondValpurgisMissionDate != null)
+            {
+                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 1.02.2024(ЧТ) (МСК)";
+                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+            }
+        }
+        [HarmonyPatch(typeof(DawnOfGreenEventRewardButton), nameof(DawnOfGreenEventRewardButton.SetData))]
+        [HarmonyPostfix]
+        private static void RewardClear_Init(DawnOfGreenEventRewardButton __instance)
+        {
+            __instance._completeImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Clear"];
         }
         #endregion
     }

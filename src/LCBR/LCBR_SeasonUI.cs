@@ -28,11 +28,11 @@ namespace LimbusLocalizeRUS
         private static void VendingMachineUIPresenter_Init(VendingMachineUIPresenter __instance)
         {
             //VENDING MACHINE
-            GameObject shop_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (1)/BannerBase/Mask/Img_Banner");
+            GameObject shop_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (2)/BannerBase/Mask/Img_Banner");
             shop_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Shop"];
-            GameObject shop_s2 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (2)/BannerBase/Mask/Img_Banner");
+            GameObject shop_s2 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (3)/BannerBase/Mask/Img_Banner");
             shop_s2.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season2_Shop"];
-            GameObject shop_s1 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (3)/BannerBase/Mask/Img_Banner");
+            GameObject shop_s1 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (4)/BannerBase/Mask/Img_Banner");
             shop_s1.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season1_Shop"];
         }
         [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.SetupBaseData))]

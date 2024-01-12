@@ -454,6 +454,18 @@ namespace LimbusLocalizeRUS
                 max.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
                 max.GetComponentInChildren<TextMeshProUGUI>(true).text = "<size=50><cspace=-3px>МАКС</cspace></size>";
             }
+            Transform ordealName = __instance.transform.Find("[Rect]ActiveControl/[Rect]Pivot/[Rect]KillCountUI/[Text]TestTitle");
+            Transform killCount = __instance.transform.Find("[Rect]ActiveControl/[Rect]Pivot/[Rect]KillCountUI/[Text]StaticTitle");
+            if (ordealName != null)
+            {
+                ordealName.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+                ordealName.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
+            }
+            if (killCount !=null)
+            {
+                killCount.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[4];
+                killCount.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[4].material;
+            }
         }
         [HarmonyPatch(typeof(UpperSkillInfoUIStateSettingButton), nameof(UpperSkillInfoUIStateSettingButton.SetCurrentState))]
         [HarmonyPostfix]
@@ -637,6 +649,17 @@ namespace LimbusLocalizeRUS
                 ishmael.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }
         }
+        [HarmonyPatch(typeof(FormationUIPanel), nameof(FormationUIPanel.InitializeBase))]
+        [HarmonyPostfix]
+        private static void FixedAnnouncer_Init(FormationUIPanel __instance)
+        {
+            GameObject fixedAnnouncer = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]PersonalityFormationUIPanel(Clone)/[Rect]LeftObjects/[Script]FormationBattleAnnouncer/[Rect]Contents/[Rect]LeftSide/[Rect]FixedLabel/[Image]FixedLabel/[Text]Fixed");
+            if (fixedAnnouncer != null)
+            {
+                fixedAnnouncer.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[4];
+                fixedAnnouncer.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[4].material;
+            }
+        }
         #endregion
 
         #region SeasonTag
@@ -654,7 +677,7 @@ namespace LimbusLocalizeRUS
         private static void UnitInformationSeasonTagUI_Init(UnitInformationSeasonTagUI __instance)
         {
             string text = __instance.tmp_season.text.Replace("SEASON", "СЕЗОН");
-            __instance.tmp_season.text = text.Replace("WALPURGISNACHT", "<cspace=-1px>ВАЛЬПУРГИЕВА НОЧЬ</cspace>");
+            __instance.tmp_season.text = text.Replace("WALPURGISNACHT -", "<cspace=-4px>ВАЛЬПУРГИЕВА НОЧЬ -</cspace>");
             __instance.tmp_season.font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
             __instance.tmp_season.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
         }
@@ -697,7 +720,6 @@ namespace LimbusLocalizeRUS
                 battle_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
                 battle_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).m_fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
                 battle_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).m_currentMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-                battle_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).margin = new Vector4(-15, 2, 0, 0);
             }
 
             package.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
@@ -721,6 +743,21 @@ namespace LimbusLocalizeRUS
             __instance.limbusPassPopup.tmp_description.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             __instance.tmp_be_in_use.font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             __instance.tmp_be_in_use.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+        }
+        [HarmonyPatch(typeof(BattlePassPurchasedModal), nameof(BattlePassPurchasedModal.SetCurrentSeasonOpen))]
+        [HarmonyPostfix]
+        private static void Activation_Init(BattlePassPurchasedModal __instance)
+        {
+            Transform limbuspass_active = __instance.transform.Find("MainPanel/[Text]Activation");
+            if (limbuspass_active != null)
+            {
+                limbuspass_active.GetComponent<TextMeshProUGUI>().font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                limbuspass_active.GetComponent<TextMeshProUGUI>().m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                limbuspass_active.GetComponent<TextMeshProUGUI>().m_currentFontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                limbuspass_active.GetComponent<TextMeshProUGUI>().fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+                limbuspass_active.GetComponent<TextMeshProUGUI>().m_fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+                limbuspass_active.GetComponent<TextMeshProUGUI>().m_currentMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+            }
         }
         #endregion
 
