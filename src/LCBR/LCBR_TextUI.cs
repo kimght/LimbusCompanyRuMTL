@@ -507,6 +507,14 @@ namespace LimbusLocalizeRUS
                 __instance.tmp_content.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
             }
         }
+        [HarmonyPatch(typeof(UnitInformationController), nameof(UnitInformationController.OpenInit))]
+        [HarmonyPostfix]
+        private static void UnitInfo_Init(UnitInformationController __instance)
+        {
+            Transform skill = __instance.transform.Find("[Script]UnitInformationController_Renewal/[Script]TabContentManager/[Layout]UnitInfoTabList/[Button]UnitInfoTab (1)/[Text]UnitInfoTabName");
+            if (skill != null)
+                skill.GetComponentInChildren<TextMeshProUGUI>(true).text = "Атаки";
+        }
         #endregion
 
         #region Dungeon
