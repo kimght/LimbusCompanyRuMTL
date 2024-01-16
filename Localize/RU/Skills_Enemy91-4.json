@@ -37,7 +37,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв на следующий ход"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2 на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Режущему урону на следующий ход"
@@ -92,7 +92,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -150,7 +150,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв на следующий ход"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2 на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Пронзающему урону на следующий ход"
@@ -205,7 +205,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -263,7 +263,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв на следующий ход"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2 на следующий ход"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Дробящему урону на следующий ход"
@@ -318,7 +318,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -344,7 +344,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>",
+                    "name": "Щёлк",
                     "desc": "",
                     "coinlist": [
                         {
@@ -363,27 +363,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>",
+                    "name": "Щёлк-щёлк-щёлк",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         }
@@ -402,14 +402,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -423,7 +423,7 @@
                 {
                     "level": 1,
                     "name": "Вкусные крабовые кишочки!",
-                    "desc": "[CantIdentify] \nНаносит +15% урона за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[EndSkill] Теряет ОЗ в количестве 8% от макс. ОЗ",
+                    "desc": "[CantIdentify] \nНаносит +15% урона за каждые 5 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели\n[EndSkill] Теряет ОЗ в количестве 8% от максимальных ОЗ",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -499,21 +499,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счётчика Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                                 }
                             ]
                         }
@@ -532,14 +532,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +5 счётчиков Разрыв"
+                                    "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 5"
                                 }
                             ]
                         }
@@ -577,7 +577,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Тратит 1 Старая крабовая раковина"
+                                    "desc": "[OnSucceedAttack] Тратит 1 <sprite name=\"Bullet_Crab\"><color=#a16a3b><u><link=\"Bullet_Crab\">Старую крабовую раковину</link></u></color>"
                                 }
                             ]
                         }

@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Понижение уровня атаки на следующий ходn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Понижение уровня атаки на следующий ход"
                 }
               ]
             },
@@ -290,7 +290,7 @@
                   "desc": "[OnSucceedAttackHead] Увеличивает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Понижение уровня атаки на следующий ходn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Понижение уровня атаки на следующий ход"
                 }
               ]
             },
@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Ослабление положительной монеты на следующий ходn"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Ослабление положительной монеты на следующий ход"
                 }
               ]
             }
@@ -318,7 +318,7 @@
                   "desc": "[OnSucceedAttackHead] Увеличивает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Понижение уровня атаки на следующий ходn"
+                  "desc": "[OnSucceedAttack] Наносит 1 Понижение уровня атаки на следующий ход"
                 }
               ]
             },
@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Ослабление положительной монеты на следующий ходn"
+                  "desc": "[OnSucceedAttack] Наносит 1 Ослабление положительной монеты на следующий ход"
                 }
               ]
             }
