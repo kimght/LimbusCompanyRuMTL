@@ -569,93 +569,77 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void AnnouncerSelectionUI_Init(AnnouncerSelectionUI __instance)
         {
-            Transform dante = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot/[Image]SelectedTag/[Text]Selected");
-            Transform gregor = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot (1)/[Image]SelectedTag/[Text]Selected");
-            Transform charon = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot (2)/[Image]SelectedTag/[Text]Selected");
+            Transform dante = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot/[Image]SelectedTag/[Text]Selected");
             if (dante != null)
             {
                 dante.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
-                dante.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                dante.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }
+            Transform gregor = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot (1)/[Image]SelectedTag/[Text]Selected");
             if (gregor != null)
             {
                 gregor.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
-                gregor.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                gregor.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }
+            Transform charon = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot (2)/[Image]SelectedTag/[Text]Selected");
             if (charon != null)
             {
                 charon.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
-                charon.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                charon.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }
-            Transform sinclair = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform sinclair = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (sinclair != null)
             {
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбран");
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбран");
                 sinclair.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбран";
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                sinclair.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
             }
-            Transform rodya = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform rodya = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (rodya != null)
             {
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбрана");
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбрана");
                 rodya.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбрана";
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                rodya.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                rodya.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
             }
-            Transform yisang = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform yisang = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (yisang != null)
             {
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбран");
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбран");
                 yisang.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбран";
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                yisang.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
             }
-            Transform yuri = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform yuri = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (yuri != null)
             {
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбрана");
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбрана");
+
                 yuri.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбрана";
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                yuri.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                yuri.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
             }
-            Transform effiesod = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform effiesod = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (effiesod != null)
             {
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбраны";
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбраны");
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбраны");
                 effiesod.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбраны";
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбраны";
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                effiesod.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбраны";
             }
-            Transform ishmael = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            Transform ishmael = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
             if (ishmael != null)
             {
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("SELECTED", "Выбрана");
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("SELECTED", "Выбрана");
                 ishmael.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "Выбрана";
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+                ishmael.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
             }
+            Transform malkuth = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            if (malkuth != null)
+            {
+                malkuth.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
+                malkuth.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
+            }
+            Transform pierrejack = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            if (pierrejack != null)
+            {
+                pierrejack.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбраны";
+                pierrejack.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбраны";
+            }
+        }
+        [HarmonyPatch(typeof(FormationBattleAnnouncerSelectionScrollViewItem), nameof(FormationBattleAnnouncerSelectionScrollViewItem.SetData))]
+        [HarmonyPostfix]
+        private static void FormationBattleAnnouncerSelectionScrollViewItem_Init(FormationBattleAnnouncerSelectionScrollViewItem __instance)
+        {
+            __instance.cg_selectedTag.GetComponentInChildren<TextMeshProUGUI>().font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+            __instance.cg_selectedTag.GetComponentInChildren<TextMeshProUGUI>().fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
         }
         [HarmonyPatch(typeof(FormationUIPanel), nameof(FormationUIPanel.InitializeBase))]
         [HarmonyPostfix]

@@ -18,6 +18,7 @@ using UtilityUI;
 using TMPro;
 using Dungeon;
 using BattleUI.BattleUnit;
+using Dungeon.Mirror;
 
 namespace LimbusLocalizeRUS
 {
@@ -263,6 +264,12 @@ namespace LimbusLocalizeRUS
             Transform new_info = __instance.transform.Find("[Rect]FixedScalePivot/[Text]UnitName/[Image]Icon");
             if (new_info != null)
                 new_info.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_NewInfo"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonShopItemSlot), nameof(MirrorDungeonShopItemSlot.SetData))]
+        [HarmonyPostfix]
+        private static void MirrorDungeonShopItemSlot_Init(MirrorDungeonShopItemSlot __instance)
+        {
+            __instance._soldOutTitleObject.GetComponentInChildren<UnityEngine.UI.Image>().sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Mirror_SoldOut"];
         }
         #endregion
 
