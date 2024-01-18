@@ -145,7 +145,7 @@ namespace LimbusLocalizeRUS
             }
             return false;
         }
-        #region Анноунсы
+        #region Новости
         [HarmonyPatch(typeof(UserLocalNoticeRedDotModel), nameof(UserLocalNoticeRedDotModel.InitNoticeList))]
         [HarmonyPrefix]
         private static bool InitNoticeList(UserLocalNoticeRedDotModel __instance, List<int> severNoticeList)

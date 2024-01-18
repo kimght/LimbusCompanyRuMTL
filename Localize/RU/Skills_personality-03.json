@@ -439,7 +439,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> менее 2-х, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> равен 2-м и менее, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
                 }
               ]
             }
@@ -448,7 +448,7 @@
         {
           "level": 4,
           "name": "Светящаяся приманка",
-          "desc": "[WhenUse] Этот слот получает 4 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] 대상의 [Burst]이 6 이상이면 코인 위력 +1",
+          "desc": "[WhenUse] Этот слот получает 4 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 против целей с 6-ю и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -470,7 +470,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> менее 2-х, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
+                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> равен 2-м и менее, повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3"
                 }
               ]
             }
@@ -512,7 +512,7 @@
         {
           "level": 4,
           "name": "Вжух-вжух ням-ням-ням!",
-          "desc": "[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] 대상의 [Burst]이 6 이상이면 코인 위력 +1",
+          "desc": "[WhenUse] Этот слот получает 5 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Сила монет +1 против целей с 6-ю и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>",
           "coinlist": [
             {
               "coindescs": [

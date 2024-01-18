@@ -519,7 +519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -540,7 +540,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -561,7 +561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "Выстрел магической пулей",
-          "desc": "Повышает урон на 1% за каждую единицу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 30%)\n\n[BeforeAttack] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color>\n- Тратит (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> - 1) x 5 СД\n- Количество целей меняется на число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> на руках\n- Атака с шансом в 50% становится неуправляемой при 10 и менее СД\n\n[EndSkill] Если число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> равно 7-и, оно обнуляется. (Считается за трату последнего <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Патрона</link></u></color>)",
+          "desc": "<style=\"highlight\">Повышает урон на 1% за каждую единицу <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 30%)</style>\n\n[BeforeAttack] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color>\n- Тратит (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> - 1) x 5 СД\n- Количество целей меняется на число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> на руках\n- Атака с шансом в 50% становится неуправляемой при 10 и менее СД\n\n[EndSkill] Если число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> равно 7-и, оно обнуляется. (Считается за трату последнего <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Патрона</link></u></color>)",
           "coinlist": [
             {
               "coindescs": [

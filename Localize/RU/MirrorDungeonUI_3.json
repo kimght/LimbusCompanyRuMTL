@@ -230,7 +230,7 @@
     },
     {
       "id": "mirror_dungeon_acquire_enemy_buff",
-      "content": "Получение испытания"
+      "content": "Принятие испытаний"
     },
     {
       "id": "mirror_dungeon3_entrance_hard_hint_after_release",
@@ -238,7 +238,7 @@
     },
     {
       "id": "mirror_dungeon_reload_select_ego_gift_category",
-      "content": "Обновить (Единожды)"
+      "content": "Разовое обновление"
     },
     {
       "id": "mirror_dungeon_select_chip_effect",
@@ -278,7 +278,7 @@
     },
     {
       "id": "add_enemy_level",
-      "content": "Увеличить уровень противников"
+      "content": "Увеличение уровня противников"
     },
     {
       "id": "mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off",

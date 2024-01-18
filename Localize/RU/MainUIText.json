@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "<size=40><cspace=-2px>Фиксированный</cspace></size>"
+      "content": "<voffset=-0.25em><cspace=-1px>Неизменный</cspace></voffset>"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "<size=40><cspace=-2px>Необходим <nobr>фиксированный</nobr> участник</cspace></size>"
+      "content": "<size=56><cspace=-1px>Необходимо выбрать</cspace></size>"
     },
     {
       "id": "formation_must_participate_specific_character",

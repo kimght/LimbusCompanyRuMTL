@@ -15,8 +15,22 @@ using static UI.Utility.InfoModels;
 using static UI.Utility.TMProStringMatcher;
 using BattleUI.EvilStock;
 using UnityEngine.Playables;
+using static Interop;
+using static UnitinfoUnitStatusContent;
+using Microsoft.VisualBasic;
+using static Il2CppMono.Globalization.Unicode.SimpleCollator;
+using BattleUI.Announcer;
+using System.Runtime.InteropServices;
+using UI;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using StorySystem;
 using BattleUI.Typo;
+using static Dungeon.Map.MapSpawnManager;
+using static BattleUI.Abnormality.AbnormalityPartSkills;
+using BattleUI.Operation;
 using Dungeon.Map.UI;
+using BattleUI.BattleUnit;
 
 namespace LimbusLocalizeRUS
 {
@@ -92,21 +106,25 @@ namespace LimbusLocalizeRUS
             if (district4 != null)
             {
                 district4.GetComponentInChildren<TextMeshProUGUI>(true).text = "4-й район";
+                district4.GetComponentInChildren<TextMeshProUGUI>(true).color = Color.red;
                 district4.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             }
             if (district10 != null)
             {
                 district10.GetComponentInChildren<TextMeshProUGUI>(true).text = "10-й район";
+                district10.GetComponentInChildren<TextMeshProUGUI>(true).color = Color.red;
                 district10.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             }
-            if ( district11 != null)
+            if (district11 != null)
             {
                 district11.GetComponentInChildren<TextMeshProUGUI>(true).text = "11-й район";
+                district11.GetComponentInChildren<TextMeshProUGUI>(true).color = Color.red;
                 district11.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             }
-            if ( district21 != null)
+            if (district21 != null)
             {
                 district21.GetComponentInChildren<TextMeshProUGUI>(true).text = "21-й район";
+                district21.GetComponentInChildren<TextMeshProUGUI>(true).color = Color.red;
                 district21.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             }
         }
@@ -138,102 +156,35 @@ namespace LimbusLocalizeRUS
         private static void SettingsSound_Init(SettingsPopup __instance)
         {
             Transform bgm = __instance.transform.Find("PanelGroup/PopupBase/Container/[Rect]Contents/Viewport/Content/[Script]SettingsSound/SettingsSoundBGM/[Text]Label");
-            if ( bgm != null )
+            if (bgm != null)
                 bgm.GetComponentInChildren<TextMeshProUGUI>(true).text = "Фоновая музыка";
         }
         #endregion
 
         #region Luxcavation
-        [HarmonyPatch (typeof(RewardDungeonUIPanel), nameof(RewardDungeonUIPanel.Initialize))]
+        [HarmonyPatch(typeof(ExpDungeonItem), nameof(ExpDungeonItem.SetData))]
         [HarmonyPostfix]
-        private static void RewardDungeonUI_Init (RewardDungeonUIPanel __instance)
+        private static void ExpDungeonItem_Init(ExpDungeonItem __instance)
         {
-            Transform canto1 = __instance.transform.Find("[Rect]Panels/[Script]ExpDungeonPanel/[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject/[Rect]Selectable/[Text]StageLabel");
-            Transform canto2 = __instance.transform.Find("[Rect]Panels/[Script]ExpDungeonPanel/[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (1)/[Rect]Selectable/[Text]StageLabel");
-            Transform canto3 = __instance.transform.Find("[Rect]Panels/[Script]ExpDungeonPanel/[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (2)/[Rect]Selectable/[Text]StageLabel");
-            Transform canto4 = __instance.transform.Find("[Rect]Panels/[Script]ExpDungeonPanel/[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (3)/[Rect]Selectable/[Text]StageLabel");
-            Transform canto5 = __instance.transform.Find("[Rect]Panels/[Script]ExpDungeonPanel/[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (4)/[Rect]Selectable/[Text]StageLabel");
-            if ( canto1 != null)
-            {
-                canto1.GetComponentInChildren<TextMeshProUGUI>(true).text = "Этап";
-                canto1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                canto1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-
-                canto2.GetComponentInChildren<TextMeshProUGUI>(true).text = "Этап";
-                canto2.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                canto2.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-
-                canto3.GetComponentInChildren<TextMeshProUGUI>(true).text = "Этап";
-                canto3.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                canto3.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-
-                canto4.GetComponentInChildren<TextMeshProUGUI>(true).text = "Этап";
-                canto4.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                canto4.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-
-                canto5.GetComponentInChildren<TextMeshProUGUI>(true).text = "Этап";
-                canto5.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                canto5.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
-            }
-        }
-        [HarmonyPatch(typeof(ExpDungeonUIPanel), nameof(ExpDungeonUIPanel.SetItemData))]
-        [HarmonyPostfix]
-        private static void ExpLevel_Init(ExpDungeonUIPanel __instance)
-        {
-            Transform level_1 = __instance.transform.Find("[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject/[Rect]Selectable/[Rect]MiddleText/[Text]RecommendedLevel");
-            Transform level_2 = __instance.transform.Find("[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (1)/[Rect]Selectable/[Rect]MiddleText/[Text]RecommendedLevel");
-            Transform level_3 = __instance.transform.Find("[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (2)/[Rect]Selectable/[Rect]MiddleText/[Text]RecommendedLevel");
-            Transform level_4 = __instance.transform.Find("[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (3)/[Rect]Selectable/[Rect]MiddleText/[Text]RecommendedLevel");
-            Transform level_5 = __instance.transform.Find("[Rect]ViewPort/[Layout]Items/DailyDungeonItemObject (4)/[Rect]Selectable/[Rect]MiddleText/[Text]RecommendedLevel");
-            if (level_1 != null)
-            {
-                level_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ур.8";
-                level_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                level_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                level_2.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ур.18";
-                level_2.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                level_2.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                level_3.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ур.28";
-                level_3.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                level_3.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                level_4.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ур.33";
-                level_4.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                level_4.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                level_5.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ур.38";
-                level_5.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                level_5.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
-        }
-        [HarmonyPatch(typeof(ThreadDungeonCheckPopup), nameof(ThreadDungeonCheckPopup.SetClickAction))]
-        [HarmonyPostfix]
-        private static void ThreadLevel_Init(ThreadDungeonCheckPopup __instance)
-        {
-            GameObject thread_1 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]RewardDungeonUIPanel(Clone)/[Script]CheckPopup/PanelGroup/PopupBase/Container/[Rect]ButtonsLayoutGroup_231116/ThreadDungeonselectStageButton_231116/AutoBackgroundSizeText/[Text]Level");
-            GameObject thread_2 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]RewardDungeonUIPanel(Clone)/[Script]CheckPopup/PanelGroup/PopupBase/Container/[Rect]ButtonsLayoutGroup_231116/ThreadDungeonselectStageButton_231116 (1)/AutoBackgroundSizeText/[Text]Level");
-            GameObject thread_3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]RewardDungeonUIPanel(Clone)/[Script]CheckPopup/PanelGroup/PopupBase/Container/[Rect]ButtonsLayoutGroup_231116/ThreadDungeonselectStageButton_231116 (2)/AutoBackgroundSizeText/[Text]Level");
-            if (thread_1 != null)
-            {
-                thread_1.GetComponent<TextMeshProUGUI>().text = thread_1.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_1.GetComponentInChildren<TextMeshProUGUI>(true).m_text = thread_1.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                thread_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                thread_2.GetComponent<TextMeshProUGUI>().text = thread_2.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_2.GetComponentInChildren<TextMeshProUGUI>(true).m_text = thread_2.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_2.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                thread_2.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-
-                thread_3.GetComponent<TextMeshProUGUI>().text = thread_3.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_3.GetComponentInChildren<TextMeshProUGUI>(true).m_text = thread_3.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("Lv", "Ур.");
-                thread_3.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                thread_3.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
+            __instance.tmp_title.fontStyle = FontStyles.Normal | FontStyles.SmallCaps;
+            __instance.tmp_level.text = __instance.tmp_level.text.Replace("Lv", "Ур.");
+            __instance.tmp_level.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            __instance.tmp_level.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+            Transform label = __instance.tmp_level.transform.parent.parent.Find("[Text]StageLabel");
+            label.GetComponentInChildren<TextMeshProUGUI>().text = "ЭТАП";
+            label.GetComponentInChildren<TextMeshProUGUI>().font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            label.GetComponentInChildren<TextMeshProUGUI>().fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
         }
 
+        [HarmonyPatch(typeof(ThreadDungeonSelectStageButton), nameof(ThreadDungeonSelectStageButton.SetData))]
+        [HarmonyPostfix]
+        private static void ThreadDungeonSelectStageButton_Init(ThreadDungeonSelectStageButton __instance)
+        {
+            __instance.tmp_level.text = __instance.tmp_level.text.Replace("Lv", "Ур.");
+            __instance.tmp_level.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            __instance.tmp_level.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+            __instance.tmp_level.fontSize = 60;
+        }
         #endregion
 
         #region Mirror Dungeons
@@ -242,28 +193,28 @@ namespace LimbusLocalizeRUS
         private static void MirrorDungeonDoors_Init(MirrorDungeonEntranceScrollUIPanel __instance)
         {
             Transform dungeon = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single/[Rect]Selectable/[Tmpro]DungeonLabel");
-            if ( dungeon != null )
+            if (dungeon != null)
             {
                 dungeon.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>Подземелье</cspace>";
                 dungeon.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 dungeon.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
             Transform dungeon_hard = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single (1)/[Rect]Selectable/[Tmpro]DungeonLabel");
-            if ( dungeon_hard != null )
+            if (dungeon_hard != null)
             {
                 dungeon_hard.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>Подземелье</cspace>";
                 dungeon_hard.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 dungeon_hard.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
             Transform mirror = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single/[Rect]Selectable/[Button]Stage Frame/Text (TMP)");
-            if ( mirror != null )
+            if (mirror != null)
             {
                 mirror.GetComponentInChildren<TextMeshProUGUI>(true).text = "Обычное";
                 mirror.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 mirror.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
             Transform mirror_hard = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single (1)/[Rect]Selectable/[Button]Stage Frame/Text (TMP)");
-            if ( mirror_hard != null )
+            if (mirror_hard != null)
             {
                 mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).text = "Сложное";
                 mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
@@ -350,24 +301,37 @@ namespace LimbusLocalizeRUS
                 guard.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
             }
         }
-        [HarmonyPatch(typeof(FormationUIPanel), nameof(FormationUIPanel.InitializeBase))]
+        [HarmonyPatch(typeof(PersonalityDetailButton), nameof(PersonalityDetailButton.SetUIMode))]
         [HarmonyPostfix]
-        private static void FormationSecondChance_Init(FormationUIPanel __instance)
+        private static void FormationSecondChance_Init(PersonalityDetailButton __instance)
         {
-
-            Transform skill = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/PersonalityDetail/[Button]Main/[Rect]Select/[Button]Skill/[Text]Skill");
-            Transform skill_hover = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/PersonalityDetail/[Button]Main/[Rect]Select/[Button]Skill/[Text]Skill/[Text]Skill_Highlight");
-            if (skill != null)
-            {
-                skill.GetComponentInChildren<TextMeshProUGUI>(true).text = "Атаки";
-                skill_hover.GetComponentInChildren<TextMeshProUGUI>(true).text = "Атаки";
-            }
+            __instance._egoText._text.font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance._egoText._text.m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance._egoText._text.m_currentFontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance._egoText._text.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
+            __instance.tmp_egoHighlight.font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance.tmp_egoHighlight.m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance.tmp_egoHighlight.m_currentFontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
+            __instance.tmp_egoHighlight.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
+            __instance._skillText._text.fontStyle = FontStyles.Normal | FontStyles.SmallCaps;
+            __instance.tmp_skillHighlight.fontStyle = FontStyles.Normal | FontStyles.SmallCaps;
+            __instance._skillText._text.text = "Атаки";
+            __instance.tmp_skillHighlight.text = "Атаки";
         }
         [HarmonyPatch(typeof(FormationUIDeckToggle), nameof(FormationUIDeckToggle.SetText))]
         [HarmonyPostfix]
         private static void FormationUIDeckToggle_Init(FormationUIDeckToggle __instance)
         {
             __instance.tmp_title.text = __instance.tmp_title.text.Replace("#", "№");
+        }
+        [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.SetData))]
+        [HarmonyPostfix]
+        private static void FormationLabel_Init(FormationPersonalityUI __instance)
+        {
+            __instance._forceParticipation.tmp_label.font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+            __instance._forceParticipation.tmp_label.m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+            __instance._forceParticipation.tmp_label.m_currentFontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+            __instance._forceParticipation.tmp_label.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
         }
         #endregion
 
@@ -381,11 +345,7 @@ namespace LimbusLocalizeRUS
             if (max_level != null)
             {
                 max_level.GetComponentInChildren<TextMeshProUGUI>(true).text = "MAKC.";
-                //max_level.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                //max_level.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
                 max_thread.GetComponentInChildren<TextMeshProUGUI>(true).text = "MAKC.";
-                //max_thread.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-                //max_thread.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }
         }
         [HarmonyPatch(typeof(UnitInformationSkillSlot), nameof(UnitInformationSkillSlot.SetData))]
@@ -416,15 +376,6 @@ namespace LimbusLocalizeRUS
             {
                 __instance.tmp_tabName.text = "ЭГО";
             }
-        }
-        [HarmonyPatch(typeof(UnitInformationSkillTabContent), nameof(UnitInformationSkillTabContent.SetData))]
-        [HarmonyPostfix]
-        private static void ShopPrelook_Init(UnitInformationSkillTabContent __instance)
-        {
-            GameObject skill_unobtained = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[Script]UnitInformationController(Clone)/[Script]UnitInformationController_Renewal/[Script]TabContentManager/[Layout]UnitInfoTabList/[Button]UnitInfoTab/[Text]UnitInfoTabName");
-            skill_unobtained.GetComponent<TextMeshProUGUI>().text = "Атаки";
-            skill_unobtained.GetComponent<TextMeshProUGUI>().font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
-            skill_unobtained.GetComponent<TextMeshProUGUI>().fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
         }
         #endregion
 
@@ -461,7 +412,7 @@ namespace LimbusLocalizeRUS
                 ordealName.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
                 ordealName.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
             }
-            if (killCount !=null)
+            if (killCount != null)
             {
                 killCount.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[4];
                 killCount.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[4].material;
@@ -518,49 +469,13 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region Dungeon
-        [HarmonyPatch(typeof(NodeUI), nameof(NodeUI.Init))]
+        [HarmonyPatch(typeof(NodeUI), nameof(NodeUI.SetLineUIVisualActive))]
         [HarmonyPostfix]
         private static void Nodes_Init(NodeUI __instance)
         {
-            GameObject canto1_1 = GameObject.Find("[Script]MapCanvas/DungeonMapFloor_10401_0(Clone)/Nodes/NodeUI_10101/IconFrame/StartTypo");
-            if (canto1_1 != null)
-            {
-                canto1_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "НАЧАЛО";
-                canto1_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                canto1_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
-
-            GameObject canto2_1 = GameObject.Find("[Script]MapCanvas/DungeonMapFloor_10401_0(Clone)/Nodes/NodeUI_10201/IconFrame/StartTypo");
-            if (canto2_1 != null)
-            {
-                canto2_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "НАЧАЛО";
-                canto2_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                canto2_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
-
-            GameObject canto3_1 = GameObject.Find("[Script]MapCanvas/DungeonMapFloor_10401_0(Clone)/Nodes/NodeUI_10301/IconFrame/StartTypo");
-            if (canto3_1 != null)
-            {
-                canto3_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "НАЧАЛО";
-                canto3_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                canto3_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
-
-            GameObject canto4_1 = GameObject.Find("[Script]MapCanvas/DungeonMapFloor_10401_0(Clone)/Nodes/NodeUI_10401/IconFrame/StartTypo");
-            if (canto4_1 != null)
-            {
-                canto4_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "НАЧАЛО";
-                canto4_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                canto4_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
-
-            GameObject canto5_1 = GameObject.Find("[Script]MapCanvas/DungeonMapFloor_10401_0(Clone)/Nodes/NodeUI_10501/IconFrame/StartTypo");
-            if (canto5_1 != null)
-            {
-                canto5_1.GetComponentInChildren<TextMeshProUGUI>(true).text = "НАЧАЛО";
-                canto5_1.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                canto5_1.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
-            }
+            __instance._startTypo.GetComponentInChildren<TextMeshProUGUI>().text = "НАЧАЛО";
+            __instance._startTypo.GetComponentInChildren<TextMeshProUGUI>().font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
+            __instance._startTypo.GetComponentInChildren<TextMeshProUGUI>().fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
         }
         #endregion
 
@@ -686,7 +601,7 @@ namespace LimbusLocalizeRUS
             Transform battle_pass_bought = __instance.transform.Find("[Rect]Right/[Rect]Ticket/[Image]LimTicketImage_YesIHave/[LocalizeText]Useing");
             Transform package = __instance.transform.Find("[Rect]Right/[Rect]Package/[Text]Title");
 
-            if(limbus_pass != null)
+            if (limbus_pass != null)
             {
                 limbus_pass.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>ЛИМБУС ПАСС</cspace>";
                 limbus_pass.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
@@ -699,7 +614,6 @@ namespace LimbusLocalizeRUS
                 battle_pass.GetComponentInChildren<TextMeshProUGUI>(true).m_fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
                 battle_pass.GetComponentInChildren<TextMeshProUGUI>(true).m_currentMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
-
             if (limbus_pass_bought != null)
             {
                 limbus_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>ЛИМБУС ПАСС</cspace>";
@@ -763,9 +677,6 @@ namespace LimbusLocalizeRUS
             {
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).name = "ЭПИЗОД";
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).text = "ЭПИЗОД";
-                episode.GetComponentInChildren<TextMeshProUGUI>(true).m_text = "ЭПИЗОД";
-                episode.GetComponentInChildren<TextMeshProUGUI>(true).text.Replace("EPISODE", "ЭПИЗОД");
-                episode.GetComponentInChildren<TextMeshProUGUI>(true).m_text.Replace("EPISODE", "ЭПИЗОД");
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
             }

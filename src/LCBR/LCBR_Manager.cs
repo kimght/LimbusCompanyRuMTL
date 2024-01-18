@@ -76,7 +76,7 @@ namespace LimbusLocalizeRUS
         public static Dictionary<string, string> Localizes = new();
         public static Action FatalErrorAction;
         public static string FatalErrorlog;
-        #region Предупреждение о... бессмысленном блокинге????
+        #region Запрет предупреждений
         [HarmonyPatch(typeof(Logger), nameof(Logger.Log), new Type[]
         {
             typeof(LogType),
@@ -113,7 +113,7 @@ namespace LimbusLocalizeRUS
             return true;
         }
         #endregion
-        #region КАК Я ПОНИМАЮ (нет)
+        #region Исправление некоторых ошибок
         [HarmonyPatch(typeof(GachaEffectEventSystem), nameof(GachaEffectEventSystem.LinkToCrackPosition))]
         [HarmonyPrefix]
         private static bool LinkToCrackPosition(GachaEffectEventSystem __instance, GachaCrackController[] crackList)

@@ -11,7 +11,7 @@ namespace LimbusLocalizeRUS
 {
     public static class LCBR_Russian_Settings
     {
-        public static ConfigEntry<bool> IsUseRussian = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "IsUseRussian", true, "Use true, false is optional");
+        public static ConfigEntry<bool> IsUseRussian = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "IsUseRussian", true, "По умолчанию true, false опционально");
         static bool _isuserussian;
         static Toggle Russian_Settings;
         [HarmonyPatch(typeof(SettingsPanelGame), nameof(SettingsPanelGame.InitLanguage))]
@@ -26,7 +26,7 @@ namespace LimbusLocalizeRUS
                 var rutmp = _languageToggle.GetComponentInChildren<TextMeshProUGUI>(true);
                 rutmp.font = LCB_Cyrillic_Font.GetCyrillicFonts(4);
                 rutmp.fontMaterial = LCB_Cyrillic_Font.GetCyrillicFonts(4).material;
-                rutmp.text = "<size=40>Русский</size>";
+                rutmp.text = "<size=44><cspace=-4px>Русский</cspace></size>";
                 Russian_Settings = _languageToggle;
                 parent.localPosition = new Vector3(parent.localPosition.x - 306f, parent.localPosition.y, parent.localPosition.z);
                 while (__instance._languageToggles.Count > 3)
