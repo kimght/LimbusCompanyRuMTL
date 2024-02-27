@@ -5,6 +5,7 @@ using SimpleJSON;
 using StorySystem;
 using System;
 using System.IO;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 using UtilityUI;
@@ -154,17 +155,6 @@ namespace LimbusLocalizeRUS
                         }
                     }
                 }
-                if (__instance.fontMaterial.name.Contains("Mikodacs SDF Burning") || __instance.fontMaterial.name.Contains("KOTRA_BOLD SDF Burnning_ver_2"))
-                {
-                    if (__instance.fontMaterial.IsKeywordEnabled("GLOW_ON"))
-                    {
-
-                        if (!prematGlow.ContainsKey(__instance))
-                        {
-                            prematGlow[__instance] = __instance.fontMaterial;
-                        }
-                    }
-                }
                 value = font;
             }
             return true;
@@ -256,28 +246,31 @@ namespace LimbusLocalizeRUS
 
             __instance._text.font = fontAsset;
             __instance._text.fontMaterial = fontMaterial;
-
-            if (__instance._matSetter != null)
+            if (__instance._matSetter)
             {
                 __instance._matSetter.defaultMat = fontMaterial;
                 __instance._matSetter.ResetMaterial();
-                return false;
-            }
-            __instance.gameObject.TryGetComponent(out TextMeshProMaterialSetter textMeshProMaterialSetter);
-            if (textMeshProMaterialSetter != null)
-            {
-                textMeshProMaterialSetter.defaultMat = fontMaterial;
-                textMeshProMaterialSetter.ResetMaterial();
             }
             return false;
         }
-        [HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
+        [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.Awake))]
         [HarmonyPrefix]
-        private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
+        private static void Awake(TextMeshProLanguageSetter __instance)
         {
-            __instance._materialSetter_abText.underlayColor = Color.clear;
-            __instance._materialSetter_skillText.underlayColor = Color.clear;
+            if (!__instance._text)
+                if (__instance.TryGetComponent<TextMeshProUGUI>(out var textMeshProUGUI))
+                    __instance._text = textMeshProUGUI;
+            if (!__instance._matSetter)
+                if (__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
+                    __instance._matSetter = textMeshProMaterialSetter;
         }
+        //[HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
+        //[HarmonyPrefix]
+        //private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
+        //{
+        //    __instance._materialSetter_abText.underlayColor = Color.clear;
+        //    __instance._materialSetter_skillText.underlayColor = Color.clear;
+        //}
 
         //[HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
         //[HarmonyPrefix]
@@ -298,9 +291,9 @@ namespace LimbusLocalizeRUS
         //            underlayColor.g *= num;
         //            underlayColor.b *= num;
         //        }
-        //        underlayColor = __instance.underlayHdrColorOn ? __instance.underlayHdrColor : underlayColor;
-        //        if (underlayColor.r > 0f || underlayColor.g > 0f || underlayColor.b > 0f)
-        //            __instance._text.color = underlayColor;
+        //        underlayColor = __instance.underlayHdrColorOn ? __instance.underlayColor : __instance.underlayColor;
+        //            if (underlayColor.r > 0f || underlayColor.g > 0f || underlayColor.b > 0f)
+        //                __instance._text.color = underlayColor;
         //    }
         //    return false;
         //}
@@ -366,6 +359,7 @@ namespace LimbusLocalizeRUS
             tm._mirrorDungeonEgoGiftLockedDescList.Init(romoteLocalizeFileList.MirrorDungeonEgoGiftLockedDesc);
             tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
             tm._iapStickerText.Init(romoteLocalizeFileList.IAPSticker);
+            tm._battleSpeechBubbleText.Init(romoteLocalizeFileList.BattleSpeechBubble);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -412,7 +406,7 @@ namespace LimbusLocalizeRUS
             }
             if (!LCBR_Manager.Localizes.TryGetValue(scenarioID, out string text))
             {
-                LCB_LCBRMod.LogError("Story error! We can't find the RU story file, so we'll use EN story");
+                LCB_LCBRMod.LogError("Story error! We can't find the RU story file, so we'll use EN story instead");
                 text = AddressableManager.Instance.LoadAssetSync<TextAsset>("Assets/Resources_moved/Localize/en/StoryData", "EN_" + scenarioID, null, null).Item1.ToString();
             }
             string text2 = textAsset.ToString();
@@ -460,6 +454,7 @@ namespace LimbusLocalizeRUS
             TextDataManager.LocalizeFileList localizeFileList = JsonUtility.FromJson<TextDataManager.LocalizeFileList>(Resources.Load<TextAsset>("Localize/LocalizeFileList").ToString());
             tm._loginUIList.Init(localizeFileList.LoginUIFilePaths);
             tm._fileDownloadDesc.Init(localizeFileList.FileDownloadDesc);
+            tm._battleHint._dic.Clear();
             tm._battleHint.Init(localizeFileList.BattleHint);
             return false;
         }
@@ -468,14 +463,6 @@ namespace LimbusLocalizeRUS
         private static void LoadRemote(ref LOCALIZE_LANGUAGE lang)
         {
             lang = LOCALIZE_LANGUAGE.EN;
-        }
-        [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.Awake))]
-        [HarmonyPrefix]
-        private static void Awake(TextMeshProLanguageSetter __instance)
-        {
-            if (!__instance._text)
-                if (__instance.TryGetComponent<TextMeshProUGUI>(out var textMeshProUGUI))
-                    __instance._text = textMeshProUGUI;
         }
         [HarmonyPatch(typeof(StoryData), nameof(StoryData.Init))]
         [HarmonyPostfix]

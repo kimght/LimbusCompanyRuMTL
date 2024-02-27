@@ -2,39 +2,39 @@
   "dataList": [
     {
       "id": "CRIMSON",
-      "name": "Гнев"
+      "name": "<nobr>Гнев</nobr>"
     },
     {
       "id": "SCARLET",
-      "name": "Похоть"
+      "name": "<nobr>Похоть</nobr>"
     },
     {
       "id": "AMBER",
-      "name": "Леность"
+      "name": "<nobr>Леность</nobr>"
     },
     {
       "id": "SHAMROCK",
-      "name": "Чревоугодие"
+      "name": "<nobr>Чревоугодие</nobr>"
     },
     {
       "id": "AZURE",
-      "name": "Уныние"
+      "name": "<nobr>Уныние</nobr>"
     },
     {
       "id": "INDIGO",
-      "name": "Гордыня"
+      "name": "<nobr>Гордыня</nobr>"
     },
     {
       "id": "VIOLET",
-      "name": "Зависть"
+      "name": "<nobr>Зависть</nobr>"
     },
     {
       "id": "WHITE",
-      "name": "Безумие"
+      "name": "<nobr>Безумие</nobr>"
     },
     {
       "id": "BLACK",
-      "name": "Горечь"
+      "name": "<nobr>Горечь</nobr>"
     }
   ]
 }

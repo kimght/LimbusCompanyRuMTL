@@ -94,7 +94,7 @@
     },
     {
       "id": "mainui_shop_remain_days_minutes",
-      "content": "Осталось {0}дней {1}часов"
+      "content": "Осталось {0} дней {1} часов"
     },
     {
       "id": "shopui_use_enkephalin_box",
@@ -227,6 +227,14 @@
     {
       "id": "enkephalin_module_count_max_desc",
       "content": "Невозможно создать новые модули; для них нет места."
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "Паки №2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "До обновления\nСезона 4"
     }
   ]
 }

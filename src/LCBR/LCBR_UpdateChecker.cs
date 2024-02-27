@@ -24,13 +24,13 @@ namespace LimbusLocalizeRUS
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("");
+            UnityWebRequest www = UnityWebRequest.Get("https://github.com/Crescent-Corporation/LimbusLocalizeRUS/releases");
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
                 Thread.Sleep(100);
             if (www.result != UnityWebRequest.Result.Success)
-                LCB_LCBRMod.LogWarning("Can't access GitHub!!!" + www.error);
+                LCB_LCBRMod.LogWarning("Ошибка со связью с GitHub!" + www.error);
             else
             {
                 JSONArray releases = JSONNode.Parse(www.downloadHandler.text).AsArray;
@@ -38,9 +38,8 @@ namespace LimbusLocalizeRUS
                 string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
                 if (Version.Parse(LCB_LCBRMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = (latest2ReleaseTag == "v" + LCB_LCBRMod.VERSION ? "" : "") + latestReleaseTag;
-                    Updatelog += updatelog + ".7z ";
-                    string download = "" + latestReleaseTag + "/" + updatelog + ".7z";
+                    string updatelog = (latest2ReleaseTag == "v" + LCB_LCBRMod.VERSION ? "LimbusLocalizeRUS_BIE.7z" : "LimbusLocalizeRUS_BIE.zip") + latestReleaseTag;
+                    string download = "https://github.com/Crescent-Corporation/LimbusLocalizeRUS/releases/download/" + latestReleaseTag + "/" + updatelog;
                     var dirs = download.Split('/');
                     string filename = LCB_LCBRMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
@@ -54,7 +53,7 @@ namespace LimbusLocalizeRUS
         }
         static void CheckCyrillicFontAssetUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("");
+            UnityWebRequest www = UnityWebRequest.Get("https://drive.google.com/file/d/12JMuwx-93WTN-uO0xl3mGRhBzemUKYhJ/view?usp=drive_link");
             string FilePath = LCB_LCBRMod.ModPath + "/tmpcyrillicfonts";
             var LastWriteTime = File.Exists(FilePath) ? int.Parse(TimeZoneInfo.ConvertTime(new FileInfo(FilePath).LastWriteTime, TimeZoneInfo.FindSystemTimeZoneById("Moscow Standard Time")).ToString("ddMMyy")) : 0;
             www.SendWebRequest();
@@ -64,10 +63,7 @@ namespace LimbusLocalizeRUS
             int latestReleaseTag = int.Parse(latest["tag_name"].Value);
             if (LastWriteTime < latestReleaseTag)
             {
-                string updatelog = "tmpcyrillicfonts_" + latestReleaseTag;
-
-                Updatelog += updatelog + ".7z ";
-                string download = "" + latestReleaseTag + "/" + updatelog + ".7z";
+                string download = "https://drive.google.com/uc?export=download&id=12JMuwx-93WTN-uO0xl3mGRhBzemUKYhJ";
                 var dirs = download.Split('/');
                 string filename = LCB_LCBRMod.GamePath + "/" + dirs[^1];
                 if (!File.Exists(filename))
@@ -91,7 +87,7 @@ namespace LimbusLocalizeRUS
         }
         public static void CheckReadmeUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("");
+            UnityWebRequest www = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Crescent-Corporation/LimbusLocalizeRUS/blob/Localize/Readme/Readme.json");
             www.timeout = 1;
             www.SendWebRequest();
             string FilePath = LCB_LCBRMod.ModPath + "/Localize/Readme/Readme.json";
@@ -102,7 +98,7 @@ namespace LimbusLocalizeRUS
             }
             if (www.result == UnityWebRequest.Result.Success && LastWriteTime < DateTime.Parse(www.downloadHandler.text))
             {
-                UnityWebRequest www2 = UnityWebRequest.Get("");
+                UnityWebRequest www2 = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Crescent-Corporation/LimbusLocalizeRUS/blob/Localize/Readme/Readme.json");
                 www2.SendWebRequest();
                 while (!www2.isDone)
                 {

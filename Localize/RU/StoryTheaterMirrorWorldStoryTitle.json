@@ -90,7 +90,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P11102",
-      "content": "Головорез Родословной клинка: История Отис"
+      "content": "Сальсу Родословной клинка: История Отис"
     },
     {
       "id": "MirrorWorld_Story_Title_P11103",
@@ -154,7 +154,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10705",
-      "content": "ЭГО Лоботомии, Слепой дождь: История Хитклиффа"
+      "content": "ЭГО \"Лоботомии\", Слепой дождь: История Хитклиффа"
     },
     {
       "id": "MirrorWorld_Story_Title_P11205",
@@ -162,11 +162,11 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10104",
-      "content": "Раскрывшееся ЭГО, Линдера: История И Сана"
+      "content": "Расцветшее ЭГО, Линдера: История И Сана"
     },
     {
       "id": "MirrorWorld_Story_Title_P10805",
-      "content": "ЭГО Лоботомии, Брызги: История Измаил"
+      "content": "ЭГО \"Лоботомии\", Брызги: История Измаил"
     },
     {
       "id": "MirrorWorld_Story_Title_P10605",
@@ -174,7 +174,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P11006",
-      "content": "ЭГО Лоботомии, Алый Лист: История Синклера"
+      "content": "ЭГО \"Лоботомии\", Алый Лист: История Синклера"
     },
     {
       "id": "MirrorWorld_Story_Title_P10806",
@@ -274,11 +274,31 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P11008",
-      "content": "Cinq South Section 4 Director: История Синклера"
+      "content": "Директор 4-ой Южной секции ассоциации Сэнк: История Синклера"
     },
     {
       "id": "MirrorWorld_Story_Title_P11106",
-      "content": "Cinq South Section 4: История Отис"
+      "content": "4-ая Южная секция ассоциации Сэнк: История Отис"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11107",
+      "content": "ЭГО \"Лоботомии\", Магическая пуля: История Отис"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10307",
+      "content": "ЭГО \"Лоботомии\", Фонарь: История Дон Кихот"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10608",
+      "content": "4-ая Южная секция ассоциации Дьечи: История Хон Лу"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10108",
+      "content": "4-ая Южная секция ассоциации Дьечи: История И Сана"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10808",
+      "content": "Капитан \"Пекода\": История Измаил"
     }
   ]
 }

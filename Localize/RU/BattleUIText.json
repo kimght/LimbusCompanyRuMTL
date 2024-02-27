@@ -170,7 +170,7 @@
     },
     {
       "id": "slash",
-      "content": "Режущий"
+      "content": "Рубящий"
     },
     {
       "id": "penetrate",
@@ -343,6 +343,10 @@
     {
       "id": "skill_correction_value",
       "content": "Модификатор {0}: {1}"
+    },
+    {
+      "id": "correction_based_on_association",
+      "content": "Модификация фракции {0}: {1}(, )"
     },
     {
       "id": "action_choice_event_result_example_battle",
@@ -578,7 +582,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Можно повредить и <color=#ffffff>отсечь</color>"
+      "content": "Можно повредить и <voffset=0.5em><color=#ffffff>отсечь</color></voffset>"
     },
     {
       "id": "ab_guidebook_view",

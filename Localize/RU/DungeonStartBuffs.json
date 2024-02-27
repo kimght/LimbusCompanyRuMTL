@@ -78,7 +78,7 @@
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "+{0} к максималььной скорости"
+      "description": "+{0} к максимальной скорости"
     },
     {
       "id": "AttackDamageAdder",
@@ -326,7 +326,7 @@
     },
     {
       "id": "SlashAttackDamageMultiply",
-      "description": "Наносит +{0}% Режущего урона"
+      "description": "Наносит +{0}% Рубящего урона"
     },
     {
       "id": "PenetrateAttackDamageMultiply",
@@ -338,7 +338,7 @@
     },
     {
       "id": "SlashResistReducer",
-      "description": "Сопротивление Режущему урону -{0}"
+      "description": "Сопротивление Рубящему урону -{0}"
     },
     {
       "id": "PenetrateResistReducer",

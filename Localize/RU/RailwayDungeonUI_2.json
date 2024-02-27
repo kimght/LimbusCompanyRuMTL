@@ -18,7 +18,7 @@
     },
     {
       "id": "railway_dungeon_ask_to_select_buff_and_rotate",
-      "content": "Вернуться к <color=#0f7137>первой остановке</color>?\n<size=90%>Это увеличит количество кругов; \nтакже вы сможете взять 1 <color=#0f7137>Усиление союзников</color> & 1 <color=#990000>Усиление противников</color>.</size>"
+      "content": "Вернуться к <color=#0f7137>первой станции</color>?\n<size=90%>Это увеличит количество кругов; \nтакже вы сможете взять 1 <color=#0f7137>Усиление союзников</color> & 1 <color=#990000>Усиление противников</color>.</size>"
     },
     {
       "id": "railway_dungeon_current_rotation_count_title",
@@ -202,7 +202,7 @@
     },
     {
       "id": "railway_dungeon_2_final_station",
-      "content": "Конечная остановка"
+      "content": "Конечная станция"
     },
     {
       "id": "railway_dungeon_2_banner_reward_condition_7",

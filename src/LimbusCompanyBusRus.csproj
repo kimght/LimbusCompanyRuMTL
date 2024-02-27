@@ -7,7 +7,7 @@
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<AllowedReferenceRelatedFileExtensions>none</AllowedReferenceRelatedFileExtensions>
 		<DebugSymbols>true</DebugSymbols>
-		<RootNamespace>LimbusCompanyBusRUS</RootNamespace>
+		<RootNamespace>LimbusLocalizeRUS</RootNamespace>
 		<LangVersion>10.0</LangVersion>
 		<Configurations>ML_Cpp_net6_interop</Configurations>
 		<IsPublishable>True</IsPublishable>

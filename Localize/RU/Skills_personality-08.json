@@ -242,6 +242,217 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1080801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ко мне!",
+          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ко мне!",
+          "desc": "[WhenUse] Повышает <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 Защищённость после активации эффекта (Раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ко мне!",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт союзникам, окружающим грешницу на приборной панели 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color></style>\n[WhenUse] Повышает <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокацию</link></u></color> самого левого слота навыков союзника грешницы с наибольшими ОЗ на (наибольшее число резонанса) на следующий ход (Раз за ход)\n- Если наибольшее число абсолюта равно 4-м и выше, дополнительно даёт 1 Защищённость после активации эффекта (Раз за ход)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Охотимся до конца!",
+          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#a16a3b><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 10% за каждый навык в наибольшем резонансе.",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Охотимся до конца!",
+          "desc": "[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#a16a3b><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 15% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 1 Повышение урона.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 1 Повышение силы Гордыни",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Кровотечение"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Охотимся до конца!",
+          "desc": "[StartBattle] Даёт 3 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> союзникам, окружающим грешницу на приборной панели.\n[WhenUse] Повышает шанс активации <sprite name=\"CoverAttack\"><color=#a16a3b><u><link=\"CoverAttack\">Вспомогательной атаки</link></u></color> у союзника справа на приборной панели от грешницы с шансом в 20% за каждый навык в наибольшем резонансе.\n- Если в наибольшем абсолюте 4 и более греха, этот союзник получает 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color>.\n- Если абсолют Гордыни равен 4 и выше, даёт этому союзнику 2 <sprite name=\"IndigoResultUp\"><color=#f8c200><u><link=\"IndigoResultUp\">Повышения силы Гордыни</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Гарпун одержимости",
+          "desc": "Наносит +0.2% урона за каждый 1% потерянных ОЗ (До 20%)\n[EndSkill] Если цель оглушена или побеждена, восстанавливает (1 + (наибольший абсолют/2)) союзникам 10 СД, даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 4 (До 2-х раз. До 4-х союзников)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Гарпун одержимости",
+          "desc": "Наносит +0.3% урона за каждый 1% потерянных ОЗ (До 30%)\n +1 сила монет за каждые 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на цели. (До 2)\n[EndSkill] Если цель оглушена или побеждена, восстанавливает (1 + (наибольший абсолют/2)) союзникам 10 СД, даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает его счётчик на 4 (До 4-х раз. До 4-х союзников)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1080804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Отбрось страх",
+          "desc": "[WhenUse] Восстанавливает 3 СД союзникам, окружающим грешницу на приборной панели (До 2-х раз)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Отбрось страх",
+          "desc": "[WhenUse] Восстанавливает 5 СД союзникам, окружающим грешницу на приборной панели (До 2-х раз)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

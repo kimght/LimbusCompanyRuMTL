@@ -159,5 +159,58 @@ namespace LimbusLocalizeRUS
             __instance._completeImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Clear"];
         }
         #endregion
+
+        #region 1st Anniversary of LCB
+        [HarmonyPatch(typeof(Limbus1stAnniveAttendanceUIPopup), nameof(Limbus1stAnniveAttendanceUIPopup.SetData))]
+        [HarmonyPostfix]
+        private static void Limbus1stAnniversaryPeriod(Limbus1stAnniveAttendanceUIPopup __instance)
+        {
+            __instance.tmp_eventDate.text = "06:00 22.02.2024(ЧТ) - 04:00 21.03.2024(ЧТ) (МСК)";
+            __instance.tmp_eventDate.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            __instance.tmp_eventDate.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+        }
+        [HarmonyPatch(typeof(Limbus1stAnnivRewardSign), nameof(Limbus1stAnnivRewardSign.SetData))]
+        [HarmonyPostfix]
+        private static void Limbus1stAnniversaryTexts(Limbus1stAnnivRewardSign __instance)
+        {
+            __instance.tmp_rewardName.text = __instance.tmp_rewardName.text.Replace("Анжела Комментатор&\n1st Birthday", "<size=52><cspace=-2px>Получите комментатора\nАнжелу и билет 1-ой Годовщины!</cspace></size>");
+            Transform day = __instance.transform.Find("[Image]DailyPanel/[Text]DayText");
+            if (day != null)
+            {
+                string daytext = day.GetComponentInChildren<TextMeshProUGUI>(true).text;
+                if (daytext.Contains("Daily"))
+                    daytext = "Ежедневно";
+                else if (daytext.EndsWith("Days"))
+                    daytext = daytext.Replace(" Days", "-й день");
+            }
+        }
+        [HarmonyPatch(typeof(Limbus1stAnnivRewardButton), nameof(Limbus1stAnnivRewardButton.SetData))]
+        [HarmonyPostfix]
+        private static void Limbus1stAnniversaryComplete(Limbus1stAnnivRewardButton __instance)
+        {
+            Transform complete = __instance.transform.Find("[Image]Complete");
+            if (complete != null)
+            {
+                complete.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_1stLCBAnniversary_Complete"];
+            }
+        }
+        [HarmonyPatch(typeof(Limbus1stAnnivEventUIPopup), nameof(Limbus1stAnnivEventUIPopup.InitDateText))]
+        [HarmonyPostfix]
+        private static void Limbus1stAnniversaryPopUp(Limbus1stAnnivEventUIPopup __instance)
+        {
+            Color yellowish = new Color(1.0f, 0.506f, 0, 0.502f);
+            Color yellow = new Color(0.97f, 0.76f, 0, 1.0f);
+            __instance.tmp_eventTitle.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
+            __instance.tmp_eventTitle.color = yellow;
+            __instance.tmp_eventTitle.fontMaterial.SetColor("_GlowColor", yellowish);
+            __instance.tmp_eventTitle.fontMaterial.SetFloat("_GlowInner", 0.2f);
+            __instance.tmp_eventTitle.fontMaterial.SetFloat("_GlowOuter", 0.4f);
+            __instance.tmp_eventTitle.fontMaterial.SetFloat("_GlowPower", 3);
+            __instance.tmp_eventDate.text = "18:00 26.02.2024(ЧТ) - 04:00 21.03.2024(ЧТ) (МСК)";
+            __instance.tmp_eventDate.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            __instance.tmp_eventDate.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+
+        }
+        #endregion
     }
 }

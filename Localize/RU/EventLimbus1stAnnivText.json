@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "id": "limbus_1st_anniversary_attendance_desc",
+      "content": "Во время ивента вы получите билеты извлечения за каждый день захода в игру.\nНа 7-й и 14-й дни захода вы сможете получить особые подарки."
+    },
+    {
+      "id": "limbus_1st_anniversary_attendance_last_reward_desc",
+      "content": "Если вы уже имеете этого комментатора в своей коллекции, вместо него вы получите 50 ящиков звеньев."
+    },
+    {
+      "id": "limbus_1st_anniversary_welcome_title",
+      "content": "1-ая годовщина компании \"Лимбус\"!"
+    },
+    {
+      "id": "limbus_1st_anniversary_welcome_desc",
+      "content": "Заходите во время ивента и получите [Гарантированный билет децизвлечения 3★]!"
+    }
+  ]
+}

@@ -74,7 +74,7 @@
     },
     {
       "id": "mainui_sinners_battleannouncer",
-      "content": "КОММЕНТАТОР"
+      "content": "Комментатор"
     },
     {
       "id": "mainui_sinners_dante",
@@ -278,7 +278,7 @@
     },
     {
       "id": "mainui_untill",
-      "content": "Закончится"
+      "content": "До"
     },
     {
       "id": "mainui_free",
@@ -698,7 +698,7 @@
     },
     {
       "id": "mainui_notice_spend_free_lunacy_first",
-      "content": "※ Сначала тратится\nбесплатное Безумие."
+      "content": "※ Сначала тратится\nбесплатное Безумство."
     },
     {
       "id": "mainui_notice_require_lunacy",
@@ -886,7 +886,7 @@
     },
     {
       "id": "gacha_rate_info_intro1",
-      "content": "В связи с「Рекомендациями добровольного ограничения Корейской ассоциации игровой индустрии」, здесь расписаны точные данные шансов извлечения.\n\nИндивидуальные шансы округлены от пятой цифры после точки. Актуальная сумма применяется к 100%."
+      "content": "В связи с「Рекомендациями добровольного ограничения Корейской ассоциации игровой индустрии」, здесь расписаны точные данные шансов извлечения.\n\nИндивидуальные шансы округлены от пятой цифры после запятой. Актуальная сумма применяется к 100%."
     },
     {
       "id": "gacha_rate_info_intro2",
@@ -1546,7 +1546,7 @@
     },
     {
       "id": "label_require_paid_lunacy",
-      "content": "※ У Вас недостаточно платного Безумства."
+      "content": "※ Недостаточно платного Безумства."
     },
     {
       "id": "notice_require_paid_lunacy",
@@ -1623,6 +1623,66 @@
     {
       "id": "mainui_battleresult_ordeal_defeat",
       "content": "Усмирение провалено"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "Осталось на прилавке"
+    },
+    {
+      "id": "remains",
+      "content": "Осталось"
+    },
+    {
+      "id": "everyday",
+      "content": "Ежедневно"
+    },
+    {
+      "id": "for_n_days",
+      "content": "{0}-й день"
+    },
+    {
+      "id": "all_personalities",
+      "content": "Все идентичности"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "Выберите идентичность для скачка в усилении"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "Возможен скачок уровня идентичности и её Связи"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "Возможен скачок уровня Связи"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "Возможен скачок уровня идентичности"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "Выбор идентичности"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "Вы позволите идентичности [{0}] развиться таким образом:"
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "Вы не сможете соверщить скачок уровня Связи"
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "Вы не сможете соверщить скачок уровня этой идентичности."
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "Вы желаете потратить<color=#F8C200>{0}</color>?"
+    },
+    {
+      "id": "expiration_date",
+      "content": "Годен до"
     }
   ]
 }

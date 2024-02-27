@@ -108,7 +108,7 @@
     {
      "id": 854503,
      "name": "Преломлённые Кровотечение и Тремор",
-     "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</color></link></u> и <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</color></link></u> могут достигать только максимального количества, равного 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</color></link></u> могут достигать только максимального счётчика, равного 5."
+     "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</color></link></u> и <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</color></link></u> могут достигать только максимального количества, равного 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</color></link></u> и <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремор</color></link></u> могут достигать только максимального счётчика, равного 5."
     },
     {
      "id": 854504,

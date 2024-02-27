@@ -123,7 +123,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
@@ -141,7 +141,7 @@
         },
         {
           "level": 3,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[EndBattle] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого противника, побеждённого этим навыком",
           "coinlist": [
@@ -159,7 +159,7 @@
         },
         {
           "level": 4,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[EndBattle] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> за каждого противника, побеждённого этим навыком",
           "coinlist": [
@@ -182,7 +182,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
           "coinlist": [
@@ -197,7 +197,7 @@
         },
         {
           "level": 3,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
           "coinlist": [
@@ -212,7 +212,7 @@
         },
         {
           "level": 4,
-          "name": "Ослепление",
+          "name": "Ослепляющее безрассудство",
           "abName": "Мутный поток,\n<cspace=-1px>пожирающий сновидения</cspace>",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает 4 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>. Тратит 2 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для получения 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 10-и)\n[EndBattle] Получает 4 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> за каждого противника, побеждённого этим навыком",
           "coinlist": [

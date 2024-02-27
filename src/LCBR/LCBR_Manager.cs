@@ -138,14 +138,14 @@ namespace LimbusLocalizeRUS
         public static void CheckModActions()
         {
             if (LCBR_UpdateChecker.UpdateCall != null)
-                OpenGlobalPopup("Есть обновление" + LCBR_UpdateChecker.Updatelog + "Есть обновление!\nПожалуйста, выйдите из игры и обновите мод.\nThe mod has been updated!\nExit the game and download the update." + LCBR_UpdateChecker.Updatelog + "Распакуйте обновление пжаста", "Мод обновлён!\nThe mod has an update!", null, "OK", () =>
+                OpenGlobalPopup("Есть обновление" + LCBR_UpdateChecker.Updatelog + "Есть обновление!\nПожалуйста, выйдите из игры и обновите мод." + LCBR_UpdateChecker.Updatelog + "Распакуйте обновление пжаста", "Мод обновлён!", null, "OK", () =>
                 {
                     LCBR_UpdateChecker.UpdateCall.Invoke();
                     LCBR_UpdateChecker.UpdateCall = null;
                     LCBR_UpdateChecker.Updatelog = string.Empty;
                 });
             else if (FatalErrorAction != null)
-                OpenGlobalPopup(FatalErrorlog, "Произошла фатальная ошибка!\nThe fatal error has occured!", null, "Open LCBR URL", () =>
+                OpenGlobalPopup(FatalErrorlog, "Произошла фатальная ошибка!", null, "Перейти на Гитхаб", () =>
                 {
                     FatalErrorAction.Invoke();
                     FatalErrorAction = null;

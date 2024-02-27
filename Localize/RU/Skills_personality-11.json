@@ -451,7 +451,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Чёрное пламя на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Тёмное пламя на следующий ход"
                 }
               ]
             },
@@ -472,7 +472,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 Чёрное пламя на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Тёмное пламя на следующий ход"
                 }
               ]
             },
@@ -493,7 +493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Чёрное пламя на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 Тёмное пламя на следующий ход"
                 }
               ]
             },
@@ -519,7 +519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Тёмное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -540,7 +540,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Тёмное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -561,7 +561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Чёрное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
+                  "desc": "[OnSucceedAttack] Если на руках менее 4-х <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>, их число увеличивается на 1; после наносит Тёмное пламя пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>"
                 }
               ]
             },
@@ -587,7 +587,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит Чёрное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит Тёмное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -601,7 +601,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит Чёрное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит Тёмное пламя пропорционально <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическим пулям</link></u></color> на следующий ход"
                 }
               ]
             }

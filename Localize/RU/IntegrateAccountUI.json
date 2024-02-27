@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "receive_integrate_account_code",
-      "content": "Получить код слияния"
+      "content": "<cspace=1px>Получить код слияния</cspace>"
     },
     {
       "id": "receive_integrate_account_code_description",
@@ -14,7 +14,7 @@
     },
     {
       "id": "input_integrate_account_code",
-      "content": "Ввести код слияния"
+      "content": "<cspace=1px>Ввести код слияния</cspace>"
     },
     {
       "id": "input_code",

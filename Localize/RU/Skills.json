@@ -1528,7 +1528,7 @@
         {
           "level": 3,
           "name": "Взмах кистью",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Режущего урона</link></u></color>",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color>",
           "coinlist": [
             {},
             {},
@@ -1538,7 +1538,7 @@
         {
           "level": 4,
           "name": "Взмах кистью",
-          "desc": "[StartBattle] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Режущего урона</link></u></color>",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color>",
           "coinlist": [
             {},
             {
@@ -1619,7 +1619,7 @@
         {
           "level": 2,
           "name": "Верхний разрез",
-          "desc": "Сила навыка +2 против цели с <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимостью к Режущему урону</link></u></color>\n[WinDuel] Получает 1 Повышение силы атаки на следующий ход",
+          "desc": "Сила навыка +2 против цели с <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимостью к Рубящему урону</link></u></color>\n[WinDuel] Получает 1 Повышение силы атаки на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1638,12 +1638,12 @@
         {
           "level": 3,
           "name": "Взмах",
-          "desc": "[WinDuel] Этот навык наносит 2 дополнительных <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Режущему урону</link></u></color>",
+          "desc": "[WinDuel] Этот навык наносит 2 дополнительных <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Рубящему урону</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3<sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Режущему урону</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3<sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Рубящему урону</link></u></color> на следующий ход"
                 }
               ]
             },
@@ -1670,7 +1670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Режущему урону"
+                  "desc": "[OnSucceedAttack] Наносит 1 Уязвимость к Рубящему урону"
                 }
               ]
             }
@@ -2243,7 +2243,7 @@
         {
           "level": 1,
           "name": "Разрыв",
-          "desc": "[WhenUse] Получает 1 Защищённость от Режущего урона",
+          "desc": "[WhenUse] Получает 1 Защищённость от Рубящего урона",
           "coinlist": [
             {
               "coindescs": [
@@ -2257,7 +2257,7 @@
         {
           "level": 2,
           "name": "Разрыв",
-          "desc": "[WhenUse] Получает 2 <sprite name=\"SlashTakeDamageDown\"><color=#f8c200><u><link=\"SlashTakeDamageDown\">Защищённости от Режущего урона</link></u></color>",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"SlashTakeDamageDown\"><color=#f8c200><u><link=\"SlashTakeDamageDown\">Защищённости от Рубящего урона</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2271,7 +2271,7 @@
         {
           "level": 4,
           "name": "Разрыв",
-          "desc": "[WhenUse] Получает 2 <sprite name=\"SlashTakeDamageDown\"><color=#f8c200><u><link=\"SlashTakeDamageDown\">Защищённости от Режущего урона</link></u></color>\nПовышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"SlashTakeDamageDown\"><color=#f8c200><u><link=\"SlashTakeDamageDown\">Защищённости от Рубящего урона</link></u></color>\nПовышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -2340,7 +2340,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Режущему урону</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Рубящему урону</link></u></color>"
                 }
               ]
             }
@@ -2371,7 +2371,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Режущему урону</link></u></color>"
+                  "desc": "[OnSucceedAttack] Понижает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3, чтобы нанести 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Рубящему урону</link></u></color>"
                 }
               ]
             }
@@ -5643,7 +5643,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Получает 1 Повышение Режущего урона на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает 1 Повышение Рубящего урона на следующий ход"
                 }
               ]
             }
@@ -5658,7 +5658,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Режущего урона</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -5673,7 +5673,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Режущего урона</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает 2 <sprite name=\"SlashDamageUp\"><color=#f8c200><u><link=\"SlashDamageUp\">Повышения Рубящего урона</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -7413,7 +7413,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный Режущий урон на 15% от прошедшего урона"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Рубящий урон на 15% от прошедшего урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит Обнаружение слабости на следующий ход"
@@ -7438,7 +7438,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный Режущий урон на 15% от прошедшего урона"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Рубящий урон на 15% от прошедшего урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит Обнаружение слабости на следующий ход"
@@ -11253,7 +11253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Устранение цели",
+          "name": "Расчленение цели",
           "desc": "",
           "coinlist": [
             {
@@ -11275,7 +11275,7 @@
         },
         {
           "level": 2,
-          "name": "Устранение цели",
+          "name": "Расчленение цели",
           "desc": "Сила монет +1 против целей с 6+ <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Разрывами</color></link></u>\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3",
           "coinlist": [
             {
@@ -11297,7 +11297,7 @@
         },
         {
           "level": 4,
-          "name": "Устранение цели",
+          "name": "Расчленение цели",
           "desc": "Сила монет +1 за каждые 6 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на цели (До 2)\n[WinDuel] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 3",
           "coinlist": [
             {
@@ -11344,7 +11344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель оглушена или побеждена, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение силы Режущей атаки на следующий ход"
+                  "desc": "[EndSkill] Если цель оглушена или побеждена, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение силы Рубящей атаки на следующий ход"
                 }
               ]
             }
@@ -11372,7 +11372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель оглушена или побеждена, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение силы Режущей атаки на следующий ход"
+                  "desc": "[EndSkill] Если цель оглушена или побеждена, получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение силы Рубящей атаки на следующий ход"
                 }
               ]
             }

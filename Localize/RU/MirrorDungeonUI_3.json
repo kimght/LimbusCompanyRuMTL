@@ -291,6 +291,10 @@
     {
       "id": "side_content_already_owned_tier_ego_gift",
       "content": "Вы больше не можетее получить ЭГО Дары этого уровня при соединении Даров на остановках."
+    },
+    {
+      "id": "side_content_ego_gift_is_unable_combine",
+      "content": "Этот ЭГО Дар нельзя соединить."
     }
   ]
 }

@@ -22,7 +22,7 @@
     },
     {
       "id": "battlepass_freeandpaid",
-      "content": "Бесплатно {0} платно {1}"
+      "content": "Бесплатно {0}, платно {1}"
     },
     {
       "id": "battlepass_mission_tag_normal",
@@ -34,7 +34,7 @@
     },
     {
       "id": "battlepass_remain_time",
-      "content": "Осталось\n{0} дней {1} часов"
+      "content": "Днейчасов:{0} {1}"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
@@ -74,15 +74,15 @@
     },
     {
       "id": "remain_days_with_label",
-      "content": "Осталось дней: {0}"
+      "content": "Дней:{0}"
     },
     {
       "id": "remain_hours_with_label",
-      "content": "Осталось часов: {0}"
+      "content": "Часов:{0}"
     },
     {
       "id": "remain_minutes_with_label",
-      "content": "Осталось минут: {0}"
+      "content": "Минут:{0}"
     },
     {
       "id": "update_progress",
@@ -199,6 +199,10 @@
     {
       "id": "battle_pass_package_purchase_popup_desc_in_box",
       "content": "- Специальный баннер пака для Лимбус Пасса\n- Билеты скачка уровня IV"
+    },
+    {
+      "id": "until_season_4_finished",
+      "content": "~ До обновления с Сезоном 4"
     }
   ]
 }

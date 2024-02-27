@@ -15,6 +15,10 @@
     {
       "id": "event_bonus_description_ego",
       "content": "Ивентовое ЭГО\nувеличивает кол-во добычи для:\n[{0}]"
+    },
+    {
+      "id": "event_bonus_preview_personality",
+      "content": "Ивентовые идентичности в команде\nувеличивают кол-во добычи для:\n[{0}]"
     }
   ]
 }

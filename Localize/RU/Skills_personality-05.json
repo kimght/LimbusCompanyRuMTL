@@ -239,6 +239,287 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1050801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обнажение меча",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 1 Дыхание"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 1 Дыхание"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Обнажение меча",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт 1 Меч родины - Учение силы нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Обнажение меча",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Даёт 1 Меч родины - Учение силы нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Обнажение меча",
+          "desc": "<style=\"highlight\">Сила монет +1 при 5 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[StartBattle] Даёт 1 Меч родины - Учение силы нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)\n<style=\"highlight\">- Если в команде 6 и более членов Родословной клинка, вместо 1 даёт 2 <sprite name=\"BladeResultUpTier1\"><color=#f8c200><u><link=\"BladeResultUpTier1\">Меча родины - Учение силы</link></u></color></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Дыхание"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иглоукалывание",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 Повышение силы Рубящей атаки на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">[StartBattle] Даёт 1 Меч родины - Учение пронзания нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 Повышение силы Рубящей атаки на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +40%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Иглоукалывание",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Даёт 1 Меч родины - Учение пронзания нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)</color>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2\n[WinDuel] Получает 1 Повышение силы Рубящей атаки на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +40%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">Сила монет +1 при 7 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>\n[StartBattle] Даёт 1 Меч родины - Учение пронзания нескольким (наибольшего числа Абсолюта) союзникам из Родословной клинка в зависимости от их скорости (по возрастающей) (До 2-х раз)\n<style=\"highlight\">- Если в команде 6 и более членов Родословной клинка, вместо 1 даёт 2 <sprite name=\"BladeResultUpTier2\"><color=#f8c200><u><link=\"BladeResultUpTier2\">Меча родины - Учение пронзания</link></u></color></style></style>\n[WhenUse] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 3\n[WinDuel] Получает 1 Повышение силы Рубящей атаки на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Критический урон +60%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Уступаю свою плоть",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[DefeatDuel] После принятия атаки использует навык 「Дабы забрать их кости」\n[CriticalActivated] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +15%\n За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Уступаю свою плоть",
+          "desc": "[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[DefeatDuel] После принятия атаки использует навык「Дабы забрать их кости」\n[CriticalActivated] Повышает критический урон на 3% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 75%)\nКритический урон +30%\n За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Низвергнуть",
+          "desc": "[WhenUse] Получает 1 Повышение силы Рубящей атаки на следующий ход (Единожды)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Низвергнуть",
+          "desc": "[WhenUse] Получает 1 Повышение силы Рубящей атаки на следующий ход (Единожды)\n<style=\"highlight\">За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дабы забрать их кости",
+          "desc": "[BeforeAttack] Кол-во целей +1 при 10 и более <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WhenUse] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +20%\nЗа каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Дабы забрать их кости",
+          "desc": "<style=\"highlight\">[BeforeAttack] Кол-во целей +1 за каждые 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 2)</style>\n[WhenUse] Грешник не может быть оглушён при получении урона до окончания навыка\n[WhenUse] Повышает критический урон на 2% за каждую единицу потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (До 50%)\nКритический урон +<style=\"highlight\">30</style>%\n자신의 За каждый 1% потеряных ОЗ повышает урон на 0.5% (До 25%)\n<style=\"highlight\">При ударе 1-ой цели, урон +100% (В фокусированных столкновениях — 1-ой части)</style>",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

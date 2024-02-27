@@ -10,7 +10,7 @@
     },
     {
       "id": "miracle_stagebutton_end_event",
-      "content": "Вы поздно! Ивент-то уже закончился!"
+      "content": "<cspace=-1px>Поздняк метаться! Ивент уже закончился!</cspace>"
     },
     {
       "id": "miracle_storybutton_before_start",

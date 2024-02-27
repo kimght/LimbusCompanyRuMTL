@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_save_formation",
+      "content": "Сохранить команду"
+    },
+    {
+      "id": "railway_dungeon_init_saved_stage_data",
+      "content": "Сбросить"
+    },
+    {
+      "id": "railway_dungeon_init_saved_stage_data_desc",
+      "content": "Желаете сбросить прогресс станции\nк её началу?"
+    },
+    {
+      "id": "railway_dungeon_3_reward_condition_special_ticket",
+      "content": "※ Может быть получено за прохождение конечной станции Железной дороги преломления, Пути 3 с общим счётом ходов <color=#cd5e00>{0}</color> и ниже до окончания <color=#003c3e>Сезона 3: Бон Вояж</color>"
+    },
+    {
+      "id": "railway_dungeon_3_banner_reward_condition_1",
+      "content": "Может быть получено за прохождение конечной станции Железной дороги преломления, Пути 3"
+    },
+    {
+      "id": "railway_dungeon_3_banner_reward_condition_2",
+      "content": "Может быть получено за прохождение конечной станции Железной дороги преломления, Пути 3 с общим счётом ходов {0} и ниже до окончания Сезона 3: Бон Вояж"
+    },
+    {
+      "id": "railway_dungeon_before_enter_past_node_change_formation",
+      "content": "При сохранении изменений команды\nвесь прогресс после выбранной станции перемещения сбросится.\n\nЖелаете сохранить изменения?"
+    },
+    {
+      "id": "railway_dungeon_3_retry_popup_init",
+      "content": "Вернуться"
+    },
+    {
+      "id": "railway_dungeon_3_boss_accumulated_turn",
+      "content": "Всего ходов"
+    },
+    {
+      "id": "railway_dungeon_3_unit_recovered",
+      "content": "ОЗ и СД полностью восстановлены."
+    },
+    {
+      "id": "railway_dungeon_3_formation_saved",
+      "content": "Команда сохранена."
+    },
+    {
+      "id": "railway_dungeon_before_enter_past_node_battle",
+      "content": "При повторной остановке на станции\n весь пройденный прогресс после неё сбросится.\n\nЖелаете вновь сразиться на этой станции?"
+    }
+  ]
+}

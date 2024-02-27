@@ -4,7 +4,6 @@ using BattleUI;
 using BattleUI.Typo;
 using MainUI;
 using MainUI.VendingMachine;
-using Dungeon.Map.UI;
 using Login;
 using UI;
 using static UI.Utility.InfoModels;
@@ -12,13 +11,10 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using StorySystem;
-using System.Collections;
-using System.Collections.Generic;
-using UtilityUI;
-using TMPro;
-using Dungeon;
-using BattleUI.BattleUnit;
 using Dungeon.Mirror;
+using BattleUI.BattleUnit;
+using MainUI.Gacha;
+using Dungeon.Shop;
 
 namespace LimbusLocalizeRUS
 {
@@ -79,103 +75,50 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region Formation UI
-        [HarmonyPatch(typeof(FormationUIPanel), nameof(FormationUIPanel.Initialize))]
+        [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.SetData))]
         [HarmonyPostfix]
-        private static void SinnerSlot_Init(FormationUIPanel __instance)
+        private static void FormationPersonalityUI_Init(FormationPersonalityUI __instance)
         {
-            Transform slot_YiSang = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Yisang/[Image]ParticipateSlotUI");
-            Transform slot_Faust = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Faust/[Image]ParticipateSlotUI");
-            Transform slot_DonQuixote = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Donqui/[Image]ParticipateSlotUI");
-            Transform slot_Ryoshu = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Ryoshu/[Image]ParticipateSlotUI");
-            Transform slot_Meursault = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Meursault/[Image]ParticipateSlotUI");
-            Transform slot_HongLu = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Honglu/[Image]ParticipateSlotUI");
-            Transform slot_Heathcliff = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Heathcliff/[Image]ParticipateSlotUI");
-            Transform slot_Ishmael = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Ishmael/[Image]ParticipateSlotUI");
-            Transform slot_Rodya = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Rodion/[Image]ParticipateSlotUI");
-            Transform slot_Sinclair = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Sinclair/[Image]ParticipateSlotUI");
-            Transform slot_Outis = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Outis/[Image]ParticipateSlotUI");
-            Transform slot_Gregor = __instance.transform.Find("[Rect]MainPanel/[Rect]Contents/[Rect]Personalities/[Layout]Personalities/PersonalityFormationSlot_Gregor/[Image]ParticipateSlotUI");
-            if (slot_YiSang != null)
-            {
-                slot_YiSang.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Faust != null)
-            {
-                slot_Faust.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_DonQuixote != null)
-            {
-                slot_DonQuixote.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Ryoshu != null)
-            {
-                slot_Ryoshu.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Meursault != null)
-            {
-                slot_Meursault.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_HongLu != null)
-            {
-                slot_HongLu.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Heathcliff != null)
-            {
-                slot_Heathcliff.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Ishmael != null)
-            {
-                slot_Ishmael.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Rodya != null)
-            {
-                slot_Rodya.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Sinclair != null)
-            {
-                slot_Sinclair.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Outis != null)
-            {
-                slot_Outis.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
-            if (slot_Gregor != null)
-            {
-                slot_Gregor.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
+            __instance.img_isParticipaged.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            __instance.img_support.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
+            __instance._redDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
         }
-        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIPanel), nameof(FormationSwitchablePersonalityUIPanel.Initialize))]
+        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIScrollViewItem), nameof(FormationSwitchablePersonalityUIScrollViewItem.SetData))]
         [HarmonyPostfix]
-        private static void ParticipateSlot_Init(FormationSwitchablePersonalityUIPanel __instance)
+        private static void FormationSwitchablePersonalityUIScrollViewItem_Init(FormationSwitchablePersonalityUIScrollViewItem __instance)
         {
-            Transform slot = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot/[Image]ParticipateSlotUI");
-            Transform slot_1 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (1)/[Image]ParticipateSlotUI");
-            Transform slot_2 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (2)/[Image]ParticipateSlotUI");
-            Transform slot_3 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (3)/[Image]ParticipateSlotUI");
-            Transform slot_4 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (4)/[Image]ParticipateSlotUI");
-            Transform slot_5 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (5)/[Image]ParticipateSlotUI");
-            Transform slot_6 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (6)/[Image]ParticipateSlotUI");
-            Transform slot_7 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (7)/[Image]ParticipateSlotUI");
-            Transform slot_8 = __instance.transform.Find("[Script]FormationSwitchablePersonalityScrollView/Viewport/Content/[Layout]Items/PersonalitySwitchableSlot (8)/[Image]ParticipateSlotUI");
-            if (slot != null)
-            {
-                slot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_1.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_2.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_3.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_4.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_5.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_6.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_7.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-                slot_8.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            }
+            Transform img_isParticipaged = __instance._participatedObject.transform.parent.parent.parent.Find("[Image]ParticipateSlotUI");
+            img_isParticipaged.GetComponentInChildren<Image>().sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            __instance._newAcquiredRedDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+        }
+        [HarmonyPatch(typeof(FormationEgoSlot), nameof(FormationEgoSlot.SetData))]
+        [HarmonyPostfix]
+        private static void FormationEgoSlot_Init(FormationEgoSlot __instance)
+        {
+            __instance._redDot.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+        }
+        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIPanel), nameof(FormationSwitchablePersonalityUIPanel.SetDataOpen))]
+        [HarmonyPostfix]
+        private static void FormationSwitchablePersonalityUIPanel_Init(FormationSwitchablePersonalityUIPanel __instance)
+        {
+            Transform newPersonality = __instance.transform.Find("[Script]RightPanel/[Script]FormationEgoList/[Script]RedDot");
+            __instance._egoRedDot.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+            __instance._personalityRedDot.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+            if (newPersonality != null)
+                newPersonality.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+        }
+        [HarmonyPatch(typeof(FormationSwitchableEgoUIScrollViewItem), nameof(FormationSwitchableEgoUIScrollViewItem.SetData))]
+        [HarmonyPostfix]
+        private static void RedDotAgain_Init(FormationSwitchableEgoUIScrollViewItem __instance)
+        {
+            __instance._newAcquiredRedDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
         }
         #endregion
 
         #region Dungeon Formation UI
         [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.SetData))]
         [HarmonyPostfix]
-        private static void FormationPersonalityUI_Init(FormationPersonalityUI __instance)
+        private static void Support_Init(FormationPersonalityUI __instance)
         {
             __instance.img_isParticipaged.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
             __instance.img_support.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
@@ -187,44 +130,6 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void Support_Init (FormationSwitchablePersonalityUIPanel __instance)
         {
-            // SELECTED
-            Transform slot_1 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot/[Image]ParticipateSlotUI");
-            if (slot_1 != null)
-                slot_1.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_2 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (1)/[Image]ParticipateSlotUI");
-            if (slot_2 != null)
-                slot_2.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_3 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (2)/[Image]ParticipateSlotUI");
-            if (slot_3 != null)
-                slot_3.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_4 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (3)/[Image]ParticipateSlotUI");
-            if (slot_4 != null)
-                slot_4.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_5 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (4)/[Image]ParticipateSlotUI");
-            if (slot_5 != null)
-                slot_5.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_6 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (5)/[Image]ParticipateSlotUI");
-            if (slot_6 != null)
-                slot_6.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_7 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (6)/[Image]ParticipateSlotUI");
-            if (slot_7 != null)
-                slot_7.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_8 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (7)/[Image]ParticipateSlotUI");
-            if (slot_8 != null)
-                slot_8.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_9 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (8)/[Image]ParticipateSlotUI");
-            if (slot_9 != null)
-                slot_9.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_10 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (9)/[Image]ParticipateSlotUI");
-            if (slot_10 != null)
-                slot_10.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_11 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (10)/[Image]ParticipateSlotUI");
-            if (slot_11 != null)
-                slot_11.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            Transform slot_12 = __instance.transform.Find("[Script]SwitchableSupportList/Viewport/Content/[Layout]Items/PersonalitySwitchableSupporterSlot (11)/[Image]ParticipateSlotUI");
-            if (slot_12 != null)
-                slot_12.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-
             // SUPPORT TAG
             Transform support_tag = __instance.transform.Find("[Script]RightPanel/[Script]FormationEgoList/[Image]SupportTag");
             if (support_tag != null)
@@ -233,29 +138,11 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region Mirror Dungeon
-        [HarmonyPatch(typeof(MirrorDungeonEntranceScrollUIPanel), nameof(MirrorDungeonEntranceScrollUIPanel.SetDataOpen))]
+        [HarmonyPatch(typeof(EgoGiftCategorySetUIToggleButton), nameof(EgoGiftCategorySetUIToggleButton.SetData))]
         [HarmonyPostfix]
-        private static void Bonus_Init(MirrorDungeonEntranceScrollUIPanel __instance)
+        private static void EgoGiftCategorySetUIToggleButton_Init(EgoGiftCategorySetUIToggleButton __instance)
         {
-            Transform bonus_1 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (1)/[Image]Bonus");
-            Transform bonus_2 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (2)/[Image]Bonus");
-            Transform bonus_3 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (3)/[Image]Bonus");
-            Transform bonus_4 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (4)/[Image]Bonus");
-            Transform bonus_5 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (5)/[Image]Bonus");
-            Transform bonus_6 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (6)/[Image]Bonus");
-            Transform bonus_7 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (7)/[Image]Bonus");
-            Transform bonus_8 = __instance.transform.Find("MirrorDungeonSelectEgoGiftCategoryPanel/[Rect]View/[Rect]Grid/EgoGiftCategorySetUI (8)/[Image]Bonus");
-            if (bonus_1 != null)
-            {
-                bonus_1.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_2.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_3.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_4.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_5.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_6.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_7.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-                bonus_8.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
-            }
+            __instance.img_bonus.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_StarlightBonus"];
         }
         [HarmonyPatch(typeof(AbnormalityStatUI), nameof(AbnormalityStatUI.SetAbnormalityGuideUIActive))]
         [HarmonyPostfix]
@@ -345,23 +232,107 @@ namespace LimbusLocalizeRUS
         #region Auto Button
         [HarmonyPatch(typeof(StoryManager), nameof(StoryManager.Init))]
         [HarmonyPostfix]
-        private static void AutoButton_Init (StoryManager __instance)
+        private static void AutoButton_Init(StoryManager __instance)
         {
-            GameObject autoButton = GameObject.Find("StoryManager/[Rect]NonPostProcessCanvas/[Rect]Buttons/[Rect]MenuObject/[Button]Auto");
-            GameObject autoButton_between = GameObject.Find("[Rect]Story/[Canvas]Story/[Rect]NonPostProcessCanvas/[Rect]Buttons/[Rect]MenuObject/[Button]Auto");
-            if (autoButton != null)
+            Transform autoButton = __instance._nonPostProcessRectTransform.transform.Find("[Rect]Buttons/[Rect]MenuObject/[Button]Auto");
+            autoButton.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
+            autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[0] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
+            autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[1] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton_Enabled"];
+            autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[2] = LCBR_ReadmeManager.ReadmeSprites["LCBR_TextButton"];
+        }
+        #endregion
+
+        #region BattleEnding
+        [HarmonyPatch(typeof(ActBattleEndTypoUI), nameof(ActBattleEndTypoUI.Open))]
+        [HarmonyPostfix]
+        private static void ActBattleEndTypoUI_Init(ActBattleEndTypoUI __instance)
+        {
+            Transform Def = __instance._defeatGroup.transform.Find("[Image]Typo_Defeat");
+            Transform Win = __instance._victoryGroup.transform.Find("[Image]Typo_Victory");
+            Def.GetComponentInChildren<Image>().overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Defeat_Text"];
+            Win.GetComponentInChildren<Image>().overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Victory_Text"];
+        }
+        [HarmonyPatch(typeof(BattleResultUIPanel), nameof(BattleResultUIPanel.SetStatusUI))]
+        [HarmonyPostfix]
+        private static void BattleResultUIPanel_Init(BattleResultUIPanel __instance)
+        {
+            if (__instance.img_ResultMark.sprite.name == "MainUI_BattleResult_1_20")
             {
-                autoButton.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
-                autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[0] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
-                autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[1] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton_Enabled"];
-                autoButton.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[2] = LCBR_ReadmeManager.ReadmeSprites["LCBR_TextButton"];
+                __instance.img_ResultMark.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Defeat"];
             }
-            if (autoButton_between != null)
+            else
             {
-                autoButton_between.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
-                autoButton_between.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[0] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton"];
-                autoButton_between.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[1] = LCBR_ReadmeManager.ReadmeSprites["LCBR_AutoButton_Enabled"];
-                autoButton_between.GetComponentInChildren<StoryUIButton>(true)._buttonImageList[2] = LCBR_ReadmeManager.ReadmeSprites["LCBR_TextButton"];
+                __instance.img_ResultMark.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Victory"];
+            }
+            __instance.img_exclear.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_EX"];
+        }
+        #endregion
+
+        #region GachaResult
+        [HarmonyPatch(typeof(GachaCardUI), nameof(GachaCardUI.OnDisable))]
+        [HarmonyPostfix]
+        private static void GachaCardUI_SetData(GachaCardUI __instance)
+        {
+            __instance.img_newMark.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_NewGacha"];
+        }
+        #endregion
+
+        #region Overclock
+        [HarmonyPatch(typeof(ActTypoOverClockUI), nameof(ActTypoOverClockUI.SetDefaultForAnim))]
+        [HarmonyPostfix]
+        private static void ActTypoOverClockUI_Init(ActTypoOverClockUI __instance)
+        {
+            __instance.tmp_content.text = "РАЗГОН";
+            __instance.tmp_content.font = LCB_Cyrillic_Font.GetCyrillicFonts(3);
+            __instance.tmp_content.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
+        }
+        [HarmonyPatch(typeof(BattleSkillViewUIOverClock), nameof(BattleSkillViewUIOverClock.SetActiveOverClock))]
+        [HarmonyPostfix]
+        private static void BattleSkillViewUIOverClock_SetData(BattleSkillViewUIOverClock __instance)
+        {
+            __instance._image_OverClock.m_OverrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Overclock"];
+        }
+        #endregion
+
+        #region Critical
+        [HarmonyPatch(typeof(BattleUnitDamageTypoUISlot), nameof(BattleUnitDamageTypoUISlot.Update))]
+        [HarmonyPostfix]
+        private static void BattleUnitDamageTypoUISlot_Init(BattleUnitDamageTypoUISlot __instance)
+        {
+            if (__instance.img_resist.sprite.name.Contains("Amber"))
+            {
+                //Sloth
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritAmber"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Azure"))
+            {
+                //Gloom
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritAzure"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Crimson"))
+            {
+                //Wrath
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritCrimson"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Indigo"))
+            {
+                //Pride
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritIndigo"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Scarlet"))
+            {
+                //Lust
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritScarlet"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Shamrock"))
+            {
+                //Gluttony
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritShamrock"];
+            }
+            else if (__instance.img_resist.sprite.name.Contains("Violet"))
+            {
+                //Envy
+                __instance.img_Critical.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_CritViolet"];
             }
         }
         #endregion

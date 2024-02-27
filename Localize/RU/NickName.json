@@ -2030,8 +2030,125 @@
       "portraitSpritePath": "StoryLog_GnomeBlack",
       "scale": 0.8,
       "bottomYPos": 540
+    },
+    {
+      "name": "일등 항해사",
+      "krname": "Старший помощник",
+      "jpname": "1等航海士",
+      "enname": " First Mate",
+      "fileName": "YiSang",
+      "nickName": "\"Пекод\"",
+      "jpNickName": "ピークォド号",
+      "enNickName": "The Pequod",
+      "bottomYPos": 20,
+      "portraitSpritePath": "StoryLog_YiSang",
+      "nameTagColor": "#d4e1e8"
+    },
+    {
+      "name": "작살잡이",
+      "krname": "Гарпунщик",
+      "jpname": "銛使い",
+      "enname": "Harpooneer",
+      "fileName": "Heathcliff",
+      "nickName": "\"Пекод\"",
+      "jpNickName": "ピークォド号",
+      "enNickName": "The Pequod",
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Heathcliff",
+      "nameTagColor": "#4e3076"
+    },
 
-
+    {
+      "name": "흑운회조직원1",
+      "krname": "Член клана Курокумо 1",
+      "fileName": "Kuro_A",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_A"
+    },
+    {
+      "name": "흑운회조직원2",
+      "krname": "Член клана Курокумо 2",
+      "fileName": "Kuro_B",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_B"
+    },
+    {
+      "name": "검계조직원1",
+      "krname": "Член Родословной клинка 1",
+      "fileName": "Blade_A",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Blade_A"
+    },
+    {
+      "name": "앵두",
+      "krname": "Энду",
+      "fileName": "Blade_Cherry",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 1,
+      "bottomYPos": -20,
+      "portraitSpritePath": "StoryLog_Blade_Cherry"
+    },
+    {
+      "name": "김삿갓",
+      "krname": "Ким в бамбуковой шляпе",
+      "fileName": "normal_KSG",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 0.8,
+      "bottomYPos": 200,
+      "portraitSpritePath": "StoryLog_normal_KSG"
+    },
+    {
+      "name": "최종김삿갓",
+      "krname": "Ким в бамбуковой шляпе",
+      "fileName": "Angry_KSG",
+      "nameTagColor": "#202B4D",
+      "nameFontColor": "F8FCFF",
+      "scale": 0.8,
+      "bottomYPos": 70,
+      "portraitSpritePath": "StoryLog_Angry_KSG"
+    },
+    {
+      "name": "쥰",
+      "krname": "Джун",
+      "fileName": "Kuro_Jyun",
+      "nameTagColor": "#DEDEDE",
+      "nameFontColor": "#161616",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_Jyun"
+    },
+    {
+      "name": "시계쥰",
+      "krname": "Джун",
+      "fileName": "Kuro_Jyun_Clock",
+      "nameTagColor": "#DEDEDE",
+      "nameFontColor": "#161616",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Kuro_Jyun_Clock"
+    },
+    {
+      "name": "LCA특작팀",
+      "krname": "Спецназовец LCA",
+      "fileName": "LCA_SOT",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_LCA_SOT"
+    },
+    {
+      "name": "카이만",
+      "krname": "Кайман",
+      "fileName": "LCCA_Caiman",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_LCCA_Caiman"
     }
   ]
 }

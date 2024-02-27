@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "mainui_settings_game",
-      "content": "Геймплей"
+      "content": "<cspace=1px>Геймплей</cspace>"
     },
     {
       "id": "mainui_settings_graphic",
-      "content": "Графика"
+      "content": "<cspace=1px>Графика</cspace>"
     },
     {
       "id": "mainui_settings_sound",
-      "content": "Аудио"
+      "content": "<cspace=1px>Аудио</cspace>"
     },
     {
       "id": "mainui_settings_notice",
-      "content": "Уведомления"
+      "content": "<cspace=1px>Уведомления</cspace>"
     },
     {
       "id": "mainui_settings_etc",
-      "content": "Прочее"
+      "content": "<cspace=1px>Прочее</cspace>"
     },
     {
       "id": "mainui_settings_download",
@@ -162,15 +162,15 @@
     },
     {
       "id": "mainui_settings_faq_btn",
-      "content": "Пользовательское соглашение"
+      "content": "Часто задаваемые вопросы"
     },
     {
       "id": "connect_to_google_account",
-      "content": "Связать с Google"
+      "content": "<cspace=1px>Связать с Google</cspace>"
     },
     {
       "id": "connect_to_apple_account",
-      "content": "Связать с Apple"
+      "content": "<cspace=1px>Связать с Apple</cspace>"
     },
     {
       "id": "explain_sucession",
@@ -186,7 +186,7 @@
     },
     {
       "id": "explain_secession_status",
-      "content": "Аккаунт закрывается.\nВремени до полного удаления: {0}дней {1}часов {2}минут\nВы сможете восстановить аккаунт, войдя в него.\nВосстановить аккаунт?"
+      "content": "Аккаунт закрывается.\nВремени до полного удаления: {0} дней {1} часов {2} минут\nВы сможете восстановить аккаунт, войдя в него.\nВосстановить аккаунт?"
     },
     {
       "id": "recover",

@@ -79,7 +79,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 1 Уязвимость к Режущему урону"
+                  "desc": "[OnSucceedAttackHead] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 1 Уязвимость к Рубящему урону"
                 }
               ]
             },
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 1 Уязвимость к Режущему урону"
+                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 1 Уязвимость к Рубящему урону"
                 }
               ]
             },
@@ -126,7 +126,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Режущему урону</link></u></color>"
+                  "desc": "[OnSucceedAttack] При 10+ на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, наносит 2 <sprite name=\"SlashTakeDamageUp\"><color=#e30000><u><link=\"SlashTakeDamageUp\">Уязвимости к Рубящему урону</link></u></color>"
                 }
               ]
             },

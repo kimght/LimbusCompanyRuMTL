@@ -153,6 +153,10 @@
       "name": "[После победы в столкновении]"
     },
     {
+      "id": "CriticalActivated",
+      "name": "[Начало критической атаки]"
+    },
+    {
       "id": "CriticalEndSkill",
       "name": "[Конец критической атаки]"
     },
@@ -167,7 +171,14 @@
     {
       "id": "EndSkillAll",
       "name": "[Окончание навыка]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[При использовании]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[В начале битвы]</color>"
     }
-
   ]
 }
