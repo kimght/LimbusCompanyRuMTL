@@ -75,7 +75,7 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region Formation UI
-        [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.SetData))]
+        [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.Initialize))]
         [HarmonyPostfix]
         private static void FormationPersonalityUI_Init(FormationPersonalityUI __instance)
         {
@@ -83,13 +83,19 @@ namespace LimbusLocalizeRUS
             __instance.img_support.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
             __instance._redDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
         }
-        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIScrollViewItem), nameof(FormationSwitchablePersonalityUIScrollViewItem.SetData))]
+        [HarmonyPatch(typeof(FormationSwitchablePersonalityUIScrollViewItem), nameof(FormationSwitchablePersonalityUIScrollViewItem.Initialize))]
         [HarmonyPostfix]
         private static void FormationSwitchablePersonalityUIScrollViewItem_Init(FormationSwitchablePersonalityUIScrollViewItem __instance)
         {
             Transform img_isParticipaged = __instance._participatedObject.transform.parent.parent.parent.Find("[Image]ParticipateSlotUI");
-            img_isParticipaged.GetComponentInChildren<Image>().sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
+            img_isParticipaged.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
             __instance._newAcquiredRedDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+        }
+        [HarmonyPatch(typeof(FormationSwitchableSupporterPersonalityUIScrollViewItem), nameof(FormationSwitchableSupporterPersonalityUIScrollViewItem.SetData))]
+        [HarmonyPostfix]
+        private static void YobenBoben(FormationSwitchableSupporterPersonalityUIScrollViewItem __instance)
+        {
+            __instance._selectedFrame.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
         }
         [HarmonyPatch(typeof(FormationEgoSlot), nameof(FormationEgoSlot.SetData))]
         [HarmonyPostfix]
@@ -112,16 +118,6 @@ namespace LimbusLocalizeRUS
         private static void RedDotAgain_Init(FormationSwitchableEgoUIScrollViewItem __instance)
         {
             __instance._newAcquiredRedDot.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
-        }
-        #endregion
-
-        #region Dungeon Formation UI
-        [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.SetData))]
-        [HarmonyPostfix]
-        private static void Support_Init(FormationPersonalityUI __instance)
-        {
-            __instance.img_isParticipaged.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_InParty"];
-            __instance.img_support.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_SupportTag"];
         }
         #endregion
 
@@ -157,6 +153,12 @@ namespace LimbusLocalizeRUS
         private static void MirrorDungeonShopItemSlot_Init(MirrorDungeonShopItemSlot __instance)
         {
             __instance._soldOutTitleObject.GetComponentInChildren<UnityEngine.UI.Image>().sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Mirror_SoldOut"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonFloorRewardItem), nameof(MirrorDungeonFloorRewardItem.SetFloorStatus))]
+        [HarmonyPostfix]
+        private static void DungeonClearLogo(MirrorDungeonFloorRewardItem __instance)
+        {
+            __instance.img_clearLogo.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_DungeonClearLogo"];
         }
         #endregion
 
@@ -274,6 +276,15 @@ namespace LimbusLocalizeRUS
         private static void GachaCardUI_SetData(GachaCardUI __instance)
         {
             __instance.img_newMark.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_NewGacha"];
+        }
+        [HarmonyPatch(typeof(ElementsSummary), nameof(ElementsSummary.SetDefault))]
+        [HarmonyPostfix]
+        private static void ElementsSummary_Init(ElementsSummary __instance)
+        {
+            if (__instance._redDot != null)
+            {
+                __instance._redDot.GetComponentInChildren<Image>().overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_New"];
+            }
         }
         #endregion
 

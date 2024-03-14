@@ -23,17 +23,26 @@ namespace LimbusLocalizeRUS
             GameObject banner_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]LobbyUIPresenter(Clone)/[Rect]Active/[UIPanel]MainLobbyUIPanel/[Rect]Banner/[Rect]RightBanners/[Script]FirstBanner/[Mask]BannerImageMask/[Image]BannerImage");
             banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Banner"];
         }
-        [HarmonyPatch(typeof(VendingMachineUIPresenter), nameof(VendingMachineUIPresenter.Initialize))]
+        [HarmonyPatch(typeof(VendingMachineBannerSlot), nameof(VendingMachineBannerSlot.SetData))]
         [HarmonyPostfix]
-        private static void VendingMachineUIPresenter_Init(VendingMachineUIPresenter __instance)
+        private static void VendingMachineBannerSlot_Init(BannerSlot<VendingMachineStaticDataList> __instance)
         {
-            //VENDING MACHINE
-            GameObject shop_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (1)/BannerBase/Mask/Img_Banner");
-            shop_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Shop"];
-            GameObject shop_s2 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (2)/BannerBase/Mask/Img_Banner");
-            shop_s2.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season2_Shop"];
-            GameObject shop_s1 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/VendingMachineUIPresenter_CH5(Clone)/ActiveRect/VendingMachineUIPanel/VMBannerSystem/SubBannerScrollView/Viewport/Content/SubBannerButton (3)/BannerBase/Mask/Img_Banner");
-            shop_s1.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season1_Shop"];
+            if (__instance._id == 3)
+            {
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Shop"];
+            }
+            else if (__instance._id == 2)
+            {
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season2_Shop"];
+            }
+            else if (__instance._id == 1)
+            {
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season1_Shop"];
+            }
+            else if (__instance._id == 91)
+            {
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Valpurgis_Shop"];
+            }
         }
         [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.SetupBaseData))]
         [HarmonyPostfix]

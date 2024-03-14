@@ -6,11 +6,68 @@ using static UI.Utility.InfoModels;
 using UnityEngine;
 using UnityEngine.UI;
 using UI;
+using MainUI.Gacha;
 
 namespace LimbusLocalizeRUS
 {
     public static class LCBR_EventUI
     {
+        #region New Manager Banner
+        [HarmonyPatch(typeof(BannerSlot<GachaBannerSlot>), nameof(BannerSlot<GachaBannerSlot>.SetData))]
+        [HarmonyPostfix]
+        private static void GachaBannerSlot_SetData(BannerSlot<GachaBannerSlot> __instance)
+        {
+            if (__instance._name == "gacha_3_illust")
+            {
+                __instance._base._bannerImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_NewManagerGacha_Banner"];
+            }
+        }
+        [HarmonyPatch(typeof(GachaUIPanel), nameof(GachaUIPanel.SetGachaInfoPanel))]
+        [HarmonyPostfix]
+        private static void GachaUIPanel_SetData(GachaUIPanel __instance)
+        {
+            Sprite safe = __instance.img_displayCharacterCG.sprite;
+            if (__instance._lastSettingId == 3)
+            {
+                __instance.img_displayCharacterCG.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_NewManagerGacha"];
+                __instance._currentGachaTitleImage.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_NewManagerGacha_Typo"];
+            }
+            else
+            {
+                __instance.img_displayCharacterCG.overrideSprite = safe;
+            }
+        }
+        [HarmonyPatch(typeof(ChanceCounter), nameof(ChanceCounter.SetData))]
+        [HarmonyPostfix]
+        private static void ChanceCounter_SetData(ChanceCounter __instance)
+        {
+            __instance.tmp_number_of_times.text = getRaza(__instance.tmp_number.text);
+        }
+        public static string getRaza(string numStr)
+        {
+            if (!int.TryParse(numStr, out int num))
+            {
+                return "HAHAHA";
+            }
+
+            int lastDigit = num % 10;
+            int secondLastDigit = (num / 10) % 10;
+
+            if (lastDigit == 1 && secondLastDigit != 1)
+            {
+                return "Раз";
+            }
+            else if (lastDigit >= 2 && lastDigit <= 4 && secondLastDigit != 1)
+            {
+                return "Раза";
+            }
+            else
+            {
+                return "Раз";
+            }
+        }
+        #endregion
+
         #region 7th Anniversary
         [HarmonyPatch(typeof(SeventhAnniversaryEventPopup), nameof(SeventhAnniversaryEventPopup.InitEventStataicData))]
         [HarmonyPostfix]
@@ -210,6 +267,48 @@ namespace LimbusLocalizeRUS
             __instance.tmp_eventDate.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
             __instance.tmp_eventDate.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
 
+        }
+        #endregion
+
+        #region Yield My Flesh
+        [HarmonyPatch(typeof(YCGDEventUIPanel), nameof(YCGDEventUIPanel.Initialize))]
+        [HarmonyPostfix]
+        private static void YCGD_MainEvent(YCGDEventUIPanel __instance)
+        {
+            Transform loading = __instance.transform.Find("[Rect]OpenProduceObj/[Image]EventLogo");
+            if (loading != null)
+                loading.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_Logo"];
+            Transform logo = __instance.transform.Find("[Rect]UIObjs/[Image]TitleLogo");
+            if (logo != null)
+                logo.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_Logo"];
+            Transform date = __instance.transform.Find("[Rect]UIObjs/[Image]TitleLogo/[Rect]EventPeriod/tmp_period");
+            if (date != null)
+            {
+                date.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 22.02.2024(ЧТ) - 04:00 21.03.2024(ЧТ) (МСК)";
+                date.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+                date.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+            }
+        }
+        [HarmonyPatch(typeof(YCGDRewardUIPopup), nameof(YCGDRewardUIPopup.Initialize))]
+        [HarmonyPostfix]
+        private static void YCGD_RewardUI(YCGDRewardUIPopup __instance)
+        {
+            __instance.img_logo.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_Logo"];
+            __instance.tmp_eventDate.text = "06:00 22.02.2024(ЧТ) - 04:00 28.03.2024(ЧТ) (МСК)";
+            __instance.tmp_eventDate.font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+            __instance.tmp_eventDate.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+        }
+        [HarmonyPatch(typeof(YCGDMainEventBanner), nameof(YCGDMainEventBanner.Init))]
+        [HarmonyPostfix]
+        private static void YCGD_MainBanner(YCGDMainEventBanner __instance)
+        {
+            __instance._bannerImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_EventBanner"];
+        }
+        [HarmonyPatch(typeof(YCGDSubEventBanner), nameof(YCGDSubEventBanner.Init))]
+        [HarmonyPostfix]
+        private static void YCGD_SubBanner(YCGDSubEventBanner __instance)
+        {
+            __instance._bannerImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_ExchangeBanner"];
         }
         #endregion
     }
