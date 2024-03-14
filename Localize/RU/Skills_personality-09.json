@@ -180,6 +180,278 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 1090801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Удары огнём",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Удары огнём",
+          "desc": "Сила монет +1 против целей с 3 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Удары огнём",
+          "desc": "Сила монет +1 за каждые 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пламенная тегатана — Всполохи",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Пламенная тегатана — Всполохи",
+          "desc": "Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пламенная тегатана — Всполохи",
+          "desc": "Сила монет +1 за каждые 6 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> цели равен 6 и более, наносит 3 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> 2-ум противникам с наименьшим счётчиком <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Молниеносное пронзание",
+          "desc": "+30% урона против целей, чей Огонь и счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> равен 6 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит половину потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели уроном Гневом.(До 20) Понижает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Молниеносное пронзание",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>\n+30% урона против целей, чей Огонь и счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> равен 6 и более",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит потенциал <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на цели уроном Гневом.(До 30) Понижает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Контратака",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -235,6 +235,30 @@
     {
       "id": "mainui_shop_until_season_finished",
       "content": "До обновления\nСезона 4"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "Магазин"
+    },
+    {
+      "id": "mainui_shop_category_special",
+      "content": "Особые предложения"
+    },
+    {
+      "id": "mainui_shop_category_lunacy",
+      "content": "Безумство"
+    },
+    {
+      "id": "mainui_shop_category_package",
+      "content": "Паки"
+    },
+    {
+      "id": "mainui_shop_category_growth",
+      "content": "Развитие"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "Отмена подписки"
     }
   ]
 }

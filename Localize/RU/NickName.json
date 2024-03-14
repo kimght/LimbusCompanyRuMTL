@@ -315,25 +315,25 @@
     },
     {
       "name": "4구 불량배 1",
-      "krname": "1 хулиган из 4-го района",
-      "nickName": "1 хулиган из 4-го района"
+      "krname": "1 хулиган из 4-го Района",
+      "nickName": "1 хулиган из 4-го Района"
     },
     {
       "name": "4구 불량배 2",
-      "krname": "2 хулиган из 4-го района",
-      "nickName": "2 хулиган из 4-го района"
+      "krname": "2 хулиган из 4-го Района",
+      "nickName": "2 хулиган из 4-го Района"
     },
     {
       "name": "4구 불량배 3",
-      "krname": "3 хулиган из 4-го района",
-      "nickName": "3 хулиган из 4-го района"
+      "krname": "3 хулиган из 4-го Района",
+      "nickName": "3 хулиган из 4-го Района"
     },
     {
       "name": "석상머리",
       "krname": "Каменная голова",
       "jpname": "石像の頭",
       "fileName": "LobotomyFriend",
-      "nickName": "Выжившая из филиала \"Лоботомии\"?",
+      "nickName": "Выжившая из филиала «Лоботомии»?",
       "portraitSpritePath": "StoryLog_LobotomyFriend",
       "staringSide": "left"
     },
@@ -536,7 +536,7 @@
       "name": "전당포주인",
       "krname": "Ростовщик",
       "fileName": "PawnMan",
-      "nickName": "10-й район",
+      "nickName": "10-й Район",
       "staringSide": "left",
       "portraitSpritePath": "StoryLog_PawnMan"
     },
@@ -1689,7 +1689,7 @@
     {
       "name": "에이해브과거",
       "krname": "Ахав",
-      "nickName": "Капитан \"Пекода\"",
+      "nickName": "Капитан «Пекода»",
       "enname": "Ahab",
       "enNickName": "Captain of the Pequod",
       "jpname": "エイハブ",
@@ -1703,7 +1703,7 @@
     {
       "name": "핍과거",
       "krname": "Пип",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "enname": "Pip",
       "enNickName": "The Pequod",
       "jpname": "ピップ",
@@ -1717,7 +1717,7 @@
     {
       "name": "퀴케그",
       "krname": "Квикег",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "enname": "Queequeg",
       "enNickName": "Pequod Town",
       "jpname": "クィークェグ",
@@ -1732,7 +1732,7 @@
     {
       "name": "퀴케그과거",
       "krname": "Квикег",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "enname": "Queequeg",
       "enNickName": "The Pequod",
       "fileName": "Queequeg_Past",
@@ -1747,7 +1747,7 @@
     {
       "name": "스타벅",
       "krname": "Старбак",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "enname": "Starbuck",
       "enNickName": "Pequod Town",
       "jpname": "スターバック",
@@ -1762,7 +1762,7 @@
     {
       "name": "스타벅과거",
       "krname": "Старбак",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "fileName": "Starbuck_Past",
       "enname": "Starbuck",
       "enNickName": "The Pequod",
@@ -1777,7 +1777,7 @@
     {
       "name": "핍",
       "krname": "Пип",
-      "nickName": "\"Пекод Таун\"",
+      "nickName": "«Пекод Таун»",
       "fileName": "Pip",
       "enname": "Pip",
       "enNickName": "Pequod Town",
@@ -1791,7 +1791,7 @@
     {
       "name": "퀴케그가면",
       "krname": "???",
-      "nickName": "\"Пекод Таун\"",
+      "nickName": "«Пекод Таун»",
       "fileName": "Queequeg_Mask",
       "enname": "???",
       "enNickName": "Pequod Town",
@@ -1806,7 +1806,7 @@
     {
       "name": "스텁",
       "krname": "Стабб",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "fileName": "Stubb",
       "enname": "Stubb",
       "jpname": "スタッブ",
@@ -1820,7 +1820,7 @@
     },
     {
       "name": "피쿼드호주민1",
-      "krname": "1-ый матрос \"Пекода\"",
+      "krname": "1-ый матрос «Пекода»",
       "fileName": "PequodTown_People1",
       "nickName": "피쿼드타운",
       "jpNickName": "ピークォドタウン",
@@ -1832,7 +1832,7 @@
     },
     {
       "name": "피쿼드호주민2",
-      "krname": "2-ой матрос \"Пекода\"",
+      "krname": "2-ой матрос «Пекода»",
       "fileName": "PequodTown_People2",
       "nickName": "피쿼드타운",
       "jpNickName": "ピークォドタウン",
@@ -1848,7 +1848,7 @@
       "jpname": "イシュメール",
       "enname": "Ishmael",
       "fileName": "Ishmael_Past",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "jpNickName": "ピークォド号",
       "enNickName": "The Pequod",
       "nameTagColor": "#63a130",
@@ -1881,7 +1881,7 @@
     {
       "name": "퀴케그녹음",
       "krname": "Квикег",
-      "nickName": "\"Пекод Таун\"",
+      "nickName": "«Пекод Таун»",
       "enname": "Queequeg",
       "enNickName": "Pequod Town",
       "jpname": "クィークェグ",
@@ -1896,7 +1896,7 @@
     {
       "name": "스텁그림자",
       "krname": "Стабб",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "fileName": "Stubb_Shadow",
       "enname": "Stubb",
       "jpname": "スタッブ",
@@ -2037,7 +2037,7 @@
       "jpname": "1等航海士",
       "enname": " First Mate",
       "fileName": "YiSang",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "jpNickName": "ピークォド号",
       "enNickName": "The Pequod",
       "bottomYPos": 20,
@@ -2050,7 +2050,7 @@
       "jpname": "銛使い",
       "enname": "Harpooneer",
       "fileName": "Heathcliff",
-      "nickName": "\"Пекод\"",
+      "nickName": "«Пекод»",
       "jpNickName": "ピークォド号",
       "enNickName": "The Pequod",
       "bottomYPos": 10,
@@ -2060,7 +2060,7 @@
 
     {
       "name": "흑운회조직원1",
-      "krname": "Член клана Курокумо 1",
+      "krname": "Член клана «Курокумо» 1",
       "fileName": "Kuro_A",
       "scale": 1,
       "bottomYPos": 10,
@@ -2068,7 +2068,7 @@
     },
     {
       "name": "흑운회조직원2",
-      "krname": "Член клана Курокумо 2",
+      "krname": "Член клана «Курокумо» 2",
       "fileName": "Kuro_B",
       "scale": 1,
       "bottomYPos": 10,
@@ -2094,7 +2094,7 @@
     },
     {
       "name": "김삿갓",
-      "krname": "Ким в бамбуковой шляпе",
+      "krname": "Ким Бамбуковая Шляпа",
       "fileName": "normal_KSG",
       "nameTagColor": "#202B4D",
       "nameFontColor": "F8FCFF",
@@ -2104,7 +2104,7 @@
     },
     {
       "name": "최종김삿갓",
-      "krname": "Ким в бамбуковой шляпе",
+      "krname": "Ким Бамбуковая Шляпа",
       "fileName": "Angry_KSG",
       "nameTagColor": "#202B4D",
       "nameFontColor": "F8FCFF",
@@ -2114,7 +2114,7 @@
     },
     {
       "name": "쥰",
-      "krname": "Джун",
+      "krname": "Дзюн",
       "fileName": "Kuro_Jyun",
       "nameTagColor": "#DEDEDE",
       "nameFontColor": "#161616",
@@ -2124,7 +2124,7 @@
     },
     {
       "name": "시계쥰",
-      "krname": "Джун",
+      "krname": "Дзюн",
       "fileName": "Kuro_Jyun_Clock",
       "nameTagColor": "#DEDEDE",
       "nameFontColor": "#161616",
@@ -2149,6 +2149,265 @@
       "scale": 1,
       "bottomYPos": 10,
       "portraitSpritePath": "StoryLog_LCCA_Caiman"
+    },
+    {
+      "name": "히스클리프꾸밈",
+      "krname": "Хитклифф",
+      "fileName": "Heathcliff_Makeup",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Heathcliff_Makeup",
+      "jpname": "ヒースクリフ",
+      "enname": "Heathcliff",
+      "nickName": "Грешник №7",
+      "jpNickName": "囚人7番",
+      "enNickName": "Sinner #7",
+      "staringSide": "left",
+      "nameTagColor": "#4e3076"
+    },
+    {
+      "name": "히스클리프헝클어짐",
+      "krname": "Хитклифф",
+      "fileName": "Heathcliff_Makedown",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Heathcliff_Makedown",
+      "jpname": "ヒースクリフ",
+      "enname": "Heathcliff",
+      "nickName": "Грешник №7",
+      "jpNickName": "囚人7番",
+      "enNickName": "Sinner #7",
+      "staringSide": "left",
+      "nameTagColor": "#4e3076"
+    },
+    {
+      "name": "어린히스클리프",
+      "krname": "Хитклифф",
+      "fileName": "Heathcliff_Baby",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Heathcliff_Baby",
+      "jpNickName": "ワザリング・ハイツ",
+      "enNickName": "Wuthering Heights",
+      "nickName": "Грозовой перевал",
+      "staringSide": "left",
+      "nameTagColor": "#4e3076"
+    },
+    {
+      "name": "힌들리",
+      "krname": "Хиндли",
+      "fileName": "Hindley",
+      "jpname": "ヒンドリー",
+      "enname": "Hindley",
+      "jpNickName": "T社",
+      "enNickName": "T Corp",
+      "nickName": "Корп. T",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 30,
+      "portraitSpritePath": "StoryLog_Hindley"
+    },
+    {
+      "name": "어린힌들리",
+      "krname": "Хиндли",
+      "fileName": "Hindley_Baby",
+      "jpname": "ヒンドリー",
+      "enname": "Hindley",
+      "jpNickName": "ワザリング・ハイツ",
+      "enNickName": "Wuthering Heights",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "nickName": "Грозовой перевал",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Hindley_Baby"
+    },
+    {
+      "name": "린튼",
+      "krname": "Линтон",
+      "fileName": "Linton",
+      "jpname": "エドガー家",
+      "enname": "Linton",
+      "nickName": "Семья Эдгар",
+      "jpNickName": "エドガー家",
+      "enNickName": "Edgar Family",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Linton"
+    },
+    {
+      "name": "어린린튼",
+      "krname": "Линтон",
+      "fileName": "Linton_Baby",
+      "jpname": "エドガー家",
+      "enname": "Linton",
+      "jpNickName": "T社",
+      "enNickName": "Edgar Family",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Linton_Baby"
+    },
+    {
+      "name": "캐서린",
+      "krname": "Кэтрин",
+      "fileName": "Catherine",
+      "jpNickName": "ワザリング・ハイツ",
+      "enNickName": "Wuthering Heights",
+      "nickName": "Грозовой перевал",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Catherine"
+    },
+    {
+      "name": "어린캐서린",
+      "krname": "Кэтрин",
+      "fileName": "Catherine_Baby",
+      "jpNickName": "ワザリング・ハイツ",
+      "enNickName": "Wuthering Heights",
+      "nickName": "Грозовой перевал",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Catherine_Baby"
+    },
+    {
+      "name": "조세핀",
+      "krname": "Джозефина",
+      "fileName": "Josephine",
+      "nickName": "Служанка Грозового перевала",
+      "jpname": "ジョセフィーヌ",
+      "enname": "Josephine",
+      "jpNickName": "ワザリング・ハイツ バトラー",
+      "enNickName": "Wuthering Heights Butler",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 0.9,
+      "bottomYPos": -20,
+      "portraitSpritePath": "StoryLog_Josephine"
+    },
+    {
+      "name": "넬리",
+      "krname": "Нелли",
+      "fileName": "Nellie",
+      "nickName": "Главная служанка",
+      "jpname": "ネリー",
+      "enname": "Nelly",
+      "jpNickName": "チーフバトラー",
+      "enNickName": "Chief Butler",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 70,
+      "portraitSpritePath": "StoryLog_Nellie"
+    },
+    {
+      "name": "데드레빗츠1",
+      "krname": "Дэд Рэбитс №1",
+      "fileName": "Deadrabbits_1",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 85,
+      "portraitSpritePath": "StoryLog_Deadrabbits_1"
+    },
+    {
+      "name": "데드레빗츠2",
+      "krname": "Дэд Рэбитс №2",
+      "fileName": "Deadrabbits_2",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 85,
+      "portraitSpritePath": "StoryLog_Deadrabbits_2"
+    },
+    {
+      "name": "데드레빗츠보스",
+      "krname": "Босс Дэд Рэбитс",
+      "fileName": "Deadrabbits_Boss",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 0.9,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Deadrabbits_Boss"
+    },
+    {
+      "name": "린튼버틀러1",
+      "krname": "Слуга Линтонов №1",
+      "fileName": "LintonButler_1",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "staringSide": "right",
+      "portraitSpritePath": "StoryLog_LintonButler_1"
+    },
+    {
+      "name": "린튼버틀러2",
+      "krname": "Слуга Линтонов №2",
+      "fileName": "LintonButler_2",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_LintonButler_2"
+    },
+    {
+      "name": "T사갱단1",
+      "krname": "Член синдиката из Корп. T №1",
+      "fileName": "TCorpGang_1",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 120,
+      "portraitSpritePath": "StoryLog_TCorpGang_1"
+    },
+    {
+      "name": "T사갱단2",
+      "krname": "Член синдиката из Корп. T №2",
+      "fileName": "TCorpGang_2",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 150,
+      "portraitSpritePath": "StoryLog_TCorpGang_2"
+    },
+    {
+      "name": "T사시민",
+      "krname": "Житель Корп. T",
+      "fileName": "TCorpPeople",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 100,
+      "portraitSpritePath": "StoryLog_TCorpPeople"
+    },
+    {
+      "name": "외우피협회F",
+      "krname": "Ассоциация Эуфи F",
+      "fileName": "OufiF_1",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 1,
+      "bottomYPos": 100,
+      "portraitSpritePath": "StoryLog_OufiF_1"
+    },
+    {
+      "name": "외우피협회보스F",
+      "krname": "Директор ассоциации Эуфи F",
+      "fileName": "OufiBoss_F",
+      "nameTagColor": "#5e1410",
+      "nameFontColor": "#d0a94b",
+      "scale": 0.9,
+      "bottomYPos": 150,
+      "portraitSpritePath": "StoryLog_OufiBoss_F"
     }
   ]
 }

@@ -169,7 +169,7 @@
                   "desc": "Даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"DefenseUp\"><color=#f8c200><u><link=\"DefenseUp\">Повышения уровня защиты</link></u></color> союзнику с самым низким процентом ОЗ на следующий ход"
                 },
                 {
-                  "desc": "Если союзник — корректировщик ассоциации Цвай, даёт дополнительные 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение уровня защиты"
+                  "desc": "Если союзник — корректировщик ассоциации «Цвай», даёт дополнительные 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, 1 Повышение уровня защиты"
                 }
               ]
             }

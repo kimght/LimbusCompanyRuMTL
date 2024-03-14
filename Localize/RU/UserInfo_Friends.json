@@ -242,15 +242,15 @@
     },
     {
       "id": "TicketCustom_Popup_L",
-      "content": "Левая граница"
+      "content": "Билет"
     },
     {
       "id": "TicketCustom_Popup_R",
-      "content": "Правая граница"
+      "content": "Корешок"
     },
     {
       "id": "TicketCustom_Popup_EGOBG",
-      "content": "Фон"
+      "content": "фон"
     },
     {
       "id": "Using",

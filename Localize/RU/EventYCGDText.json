@@ -46,11 +46,11 @@
     },
     {
       "id": "ycgd_bonusUI_Title",
-      "content": "получены на руки"
+      "content": "к получению"
     },
     {
       "id": "ycgd_bonusUI_Title_contain_false",
-      "content": "в недостатке"
+      "content": "Нет"
     },
     {
       "id": "ycgd_bonusUI_Desc",
@@ -58,11 +58,11 @@
     },
     {
       "id": "ycgd_bonus_popup_title",
-      "content": "Ивентовый бонус у:"
+      "content": "Персонажи с ивентовым бонусом"
     },
     {
       "id": "ycgd_bonus_preview",
-      "content": "Ивентовый бонус у:"
+      "content": "Персонажи с ивентовым бонусом"
     }
   ]
 }

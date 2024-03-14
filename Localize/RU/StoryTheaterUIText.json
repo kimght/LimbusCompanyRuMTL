@@ -223,6 +223,10 @@
     {
       "id": "OtherStoryOpenCondition_9013",
       "content": "Пройдите 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Пройдите 5.5-24"
     }
   ]
 }

@@ -475,6 +475,254 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 1040701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тотальная война",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Тотальная война",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Тотальная война",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>\n<style=\"highlight\">Сила монет +1 против целей с 10 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 1 Огонь"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь <style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пламенная тегатана",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +20% урона против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Пламенная тегатана",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +30% урона против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пламенная тегатана",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>\n<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +50% урона против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Прорезание огнём",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +20% урона против целей с 10 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Прорезание огнём",
+          "desc": "Сила столкновения +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>\n<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Огонь"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] +40% урона против целей с 10 и более <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Блок",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Блок",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

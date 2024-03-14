@@ -5636,7 +5636,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Акупунктура",
+          "name": "Иглоукалывание",
           "desc": "",
           "coinlist": [
             {},
@@ -5651,7 +5651,7 @@
         },
         {
           "level": 2,
-          "name": "Акупунктура",
+          "name": "Иглоукалывание",
           "desc": "[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 1",
           "coinlist": [
             {},
@@ -5666,7 +5666,7 @@
         },
         {
           "level": 4,
-          "name": "Акупунктура",
+          "name": "Иглоукалывание",
           "desc": "[WinDuel] Повышает свой счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2",
           "coinlist": [
             {},

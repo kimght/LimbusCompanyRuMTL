@@ -299,6 +299,11 @@
       "id": 2030511,
       "name": "Рухнувший гурий",
       "desc": "При нанесении <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> получает 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышиает его счётчик на 2 (До 3-х раз за ход)."
+    },
+    {
+      "id": 2120511,
+      "name": "Венец из роз",
+      "desc": "В начале хода, наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> случайному противнику. (В фокусированной битве наносит на все части)\nПри достижении абсолюта, наносит 2 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> всем противникам."
     }
   ]
 }

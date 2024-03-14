@@ -90,11 +90,11 @@
     },
     {
       "id": "choice_result_success",
-      "content": "Проверка пройдена"
+      "content": "Успех проверки"
     },
     {
       "id": "choice_result_fail",
-      "content": "Проверка провалена"
+      "content": "Провал проверки"
     },
     {
       "id": "choice_result_skip",
