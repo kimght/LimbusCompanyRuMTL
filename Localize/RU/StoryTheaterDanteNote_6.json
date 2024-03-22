@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": "AbnormalityLevel",
+      "content": "Уровень риска"
+    },
+    {
+      "id": "LCA",
+      "content": "LCA"
+    },
+    {
+      "id": "Distortion",
+      "content": "Искажение"
+    },
+    {
+      "id": "Peccatula",
+      "content": "Грехи"
+    },
+    {
+      "id": "NestS",
+      "content": "Корп. S"
+    },
+    {
+      "id": "LCD",
+      "content": "LCD"
+    },
+    {
+      "id": "Monolith",
+      "content": "Монолит"
+    },
+    {
+      "id": "PeccatulaLv2",
+      "content": "2-ая форма Грехов"
+    },
+    {
+      "id": "Line3",
+      "content": "Ж/д преломления, Путь 3"
+    },
+    {
+      "id": "BattlePower",
+      "content": "Мощь в битве"
+    }
+  ]
+}

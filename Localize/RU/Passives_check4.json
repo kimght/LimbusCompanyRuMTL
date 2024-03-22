@@ -64,17 +64,17 @@
     {
       "id": 1040511,
       "name": "Пространственно-дьявольское лезвие",
-      "desc": "При убийстве противника получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (3 раза за ход)"
+      "desc": "При убийстве противника повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3 (3 раза за ход)"
     },
     {
       "id": 1040531,
       "name": "Пространственно-преломляющее лезвие — Тип: Клинок Mk7",
-      "desc": "Получает +3 счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, когда союзник с наименьшими максимальными ОЗ убивает противника (Раз за ход)"
+      "desc": "При убийстве противника союзник с наименьшими максимальными ОЗ овышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3 (Раз за ход)"
     },
     {
       "id": 1060611,
       "name": "Мастерство зачистки",
-      "desc": "При 5+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> в начале боевой фазы получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>. <style=\"highlight\">При 10+ счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>.</style>"
+      "desc": "При 5 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> в начале боевой фазы получает 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>. <style=\"highlight\">При 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, получает ещё 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>.</style>"
     }
   ]
 }

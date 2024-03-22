@@ -1,40 +1,17 @@
 ﻿using BattleUI;
-using BattleUI.BattleUnit.SkillInfoUI;
 using BattleUI.Information;
-using UnitInformation.Tab;
 using HarmonyLib;
 using MainUI;
 using MainUI.VendingMachine;
 using TMPro;
-using TMPro.SpriteAssetUtilities;
 using UnityEngine;
-using MainUI.Gacha;
-using BattleUI.UIRoot;
-using Login;
-using static UI.Utility.InfoModels;
-using static UI.Utility.TMProStringMatcher;
 using BattleUI.EvilStock;
-using UnityEngine.Playables;
-using static Interop;
-using static UnitinfoUnitStatusContent;
-using Microsoft.VisualBasic;
-using static Il2CppMono.Globalization.Unicode.SimpleCollator;
-using BattleUI.Announcer;
-using System.Runtime.InteropServices;
-using UI;
-using UnityEngine.UI;
-using UnityEngine.EventSystems;
-using StorySystem;
-using BattleUI.Typo;
-using static Dungeon.Map.MapSpawnManager;
-using static BattleUI.Abnormality.AbnormalityPartSkills;
-using BattleUI.Operation;
 using Dungeon.Map.UI;
 using BattleUI.BattleUnit;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using MainUI.BattleResult;
-using Il2CppSystem;
+using UtilityUI;
 
 namespace LimbusLocalizeRUS
 {
@@ -168,9 +145,98 @@ namespace LimbusLocalizeRUS
         private static void SubChapterScrollViewItem_Init(SubChapterScrollViewItem __instance)
         {
             __instance.tmp_pageForBebaskai.text = __instance.tmp_pageForBebaskai.text.Replace("MINI", "МИНИ");
-            __instance.tmp_pageForBebaskai.font = LCB_Cyrillic_Font.tmpcyrillicfonts[3];
-            __instance.tmp_pageForBebaskai.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[3].material;
+            __instance.tmp_pageForBebaskai.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance.tmp_pageForBebaskai.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
         }
+        [HarmonyPatch(typeof(SubChapterScrollViewItem), nameof(SubChapterScrollViewItem.SetDefault))]
+        [HarmonyPostfix]
+        private static void SubChapterScrollViewItem_Pages(SubChapterScrollViewItem __instance)
+        {
+            __instance.tmp_page.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance.tmp_page.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
+            __instance.tmp_page.GetComponentInChildren<TextMeshProLanguageSetter>().enabled = false;
+        }
+        [HarmonyPatch(typeof(SubChapterScrollViewItem), nameof(SubChapterScrollViewItem.SetSlotSelected))]
+        [HarmonyPostfix]
+        private static void SubChapterTimeline(SubChapterScrollViewItem __instance)
+        {
+            if (__instance.tmp_timeline.text.Contains('-'))
+            {
+                __instance.tmp_timeline.text = __instance.tmp_timeline.text.Replace('-', ' ');
+                string[] parts = __instance.tmp_timeline.text.Split(' ');
+                int year = int.Parse(parts[0]);
+                int month = int.Parse(parts[1]);
+                __instance.tmp_timeline.text = $"{year}/{month}";
+            }
+        }
+
+        private static string numberEnding(int number)
+        {
+            int lastDigit = number % 10;
+            int lastTwoDigits = number % 100;
+
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 19)
+            {
+                return "-ый";
+            }
+            else if (lastDigit == 2 || lastTwoDigits == 40)
+            {
+                return "-ой";
+            }
+            else if (lastDigit == 3)
+            {
+                return "-ий";
+            }
+            else if (lastDigit >= 6 && lastDigit <= 8)
+            {
+                return "-ой";
+            }
+            else
+            {
+                return "-ый";
+            }
+        }
+
+        [HarmonyPatch(typeof(StageStoryNodeSelectUI), nameof(StageStoryNodeSelectUI.SetStorySelect))]
+        [HarmonyPostfix]
+        private static void NodeSelectUI(StageStoryNodeSelectUI __instance)
+        {
+            Transform episode_right = __instance.transform.Find("[Rect]Banner/[Image]PageTitle/[Text]PageTitle");
+            if (episode_right.GetComponentInChildren<TextMeshProUGUI>(true).text.EndsWith("эпизод"))
+            {
+                string[] parts = episode_right.GetComponentInChildren<TextMeshProUGUI>(true).text.Split(' ');
+                int number = int.Parse(parts[0]);
+                string episode = parts[1];
+                string numEpi = numberEnding(number);
+                episode_right.GetComponentInChildren<TextMeshProUGUI>(true).text = $"{number}{numEpi} {episode}";
+            }
+            episode_right.GetComponentInChildren<TextMeshProUGUI>(true).fontSize = 48;
+        }
+
+        [HarmonyPatch(typeof(StageStoryTheaterSelectNode), nameof(StageStoryTheaterSelectNode.SetData))]
+        [HarmonyPostfix]
+        private static void NodeSelectUIBottom(StageStoryTheaterSelectNode __instance)
+        {
+            if (__instance._notSelectStoryNumber != null || __instance._selectStoryNumber != null)
+            {
+                string[] parts = __instance._selectStoryNumber.text.Split(' ');
+                int number = int.Parse(parts[0]);
+                string episode = parts[1];
+                string numEpi = numberEnding(number);
+                __instance._selectStoryNumber.text = $"{number}{numEpi}\n{episode}";
+
+                string[] unparts = __instance._notSelectStoryNumber.text.Split(' ');
+                int unnumber = int.Parse(parts[0]);
+                string unepisode = parts[1];
+                string unnumEpi = numberEnding(unnumber);
+                __instance._notSelectStoryNumber.text = $"{unnumber}{unnumEpi}\n{unepisode}";
+            }
+            __instance._selectStoryNumber.fontSize = 46;
+            __instance._notSelectStoryNumber.fontSize = 46;
+            __instance._selectStoryNumber.lineSpacing = -30;
+            __instance._notSelectStoryNumber.lineSpacing = -30;
+        }
+
         private static string getTimerD(int days)
         {
             int lastDigit = days % 10;
@@ -944,6 +1010,14 @@ namespace LimbusLocalizeRUS
             limbus_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>ЛИМБУС ПАСС</cspace>";
             List<Transform> transforms = new List<Transform> { limbus_pass, limbus_pass_bought, battle_pass, battle_pass_bought, package, package_popUp, until_pass, __instance.tmp_be_in_use.transform, __instance.limbusPassPopup.tmp_description.transform };
             BebasForPass(transforms);
+        }
+        [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.SetRemainText))]
+        [HarmonyPostfix]
+        private static void BattleSeason_Init(BattlePassUIPopup __instance)
+        {
+            Transform until_pass = __instance.transform.Find("[Rect]Right/[Text]UntilSeason");
+            until_pass.GetComponentInChildren<TextMeshProUGUI>(true).m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            until_pass.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
         }
         [HarmonyPatch(typeof(BattlePassPurchasedModal), nameof(BattlePassPurchasedModal.SetCurrentSeasonOpen))]
         [HarmonyPostfix]

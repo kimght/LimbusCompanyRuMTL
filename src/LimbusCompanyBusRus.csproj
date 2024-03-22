@@ -31,7 +31,8 @@
 	<!-- ~~~~~ NUGET ~~~~~ -->
 	<ItemGroup>
 		<PackageReference Include="HarmonyX" Version="2.5.2" IncludeAssets="compile" />
-		<PackageReference Include="Il2CppInterop.Runtime" Version="1.0.0" />
+		<PackageReference Include="Iced" Version="1.18.0" />
+		<PackageReference Include="Il2CppInterop.Runtime" Version="1.4.5" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="Assembly-CSharp">

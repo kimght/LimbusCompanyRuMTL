@@ -1683,6 +1683,38 @@
     {
       "id": "expiration_date",
       "content": "Годен до"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "Выберите аккаунт для отвязки"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "Текущий аккаунт"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "Привязанный аккаунт"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "После этого выбора, вы не сможете отвязывать аккаунты в течение {0} дней."
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "Для следующей отвязки подождите ещё {0} дней."
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "Аккаунт отвязан"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "Произошла отвязка аккаунта.\nВозвращаемся на главный экран."
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "Эффективный грех"
     }
   ]
 }

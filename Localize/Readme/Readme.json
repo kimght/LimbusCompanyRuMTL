@@ -31,10 +31,20 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Следить за обновлениями:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/limbus_company_ru>Limbus Company RUS (VK)</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Поддержать проект:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/projmoon?w=app6471849_-132567568>VK Donations</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Наши друзья:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://gll-fun.com/ru/>Great Limbus Library</link>\"}]}"
     },
     {
+      "id": 2916,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-03-22T00:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Продолжаем экскурсию по Кальву (v0.3.1)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>…Из Кромер хороший гид, и конкурсы интересные.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"№ 0.3.1\\nМы исправили множество ошибок, возникших в переводе из-за нетерпеливости Гида (на гвоздь его, собаку!!!), а также начали понемногу переводить диалоги и истории идентичностей.\\n\\n<b>Теперь доступны:</b>\\n - Исправлены Песнь III и ивент 「Уступаю плоть, дабы забрать их кости」,\\n - Диалоги и истории 3-х идентичностей И Сана,\\n - Небольшие переделки в интерфейсе,\\n - Исправлены некоторые ранние переводы\\n\\n<b><i><size=49>Удачи в поисках Золотой ветви!</b></i></size>\"}]}"
+    },
+    {
       "id": 2915,
       "version": 0,
       "type": 0,
-      "startDate": "2024-02-27T00:00:00.000Z",
+      "startDate": "2024-03-14T00:00:00.000Z",
       "endDate": "2024-12-31T23:00:00.000Z",
       "sprNameList": [],
       "title_KR": "Следующая остановка — посёлок Кальв (v0.3.0)",

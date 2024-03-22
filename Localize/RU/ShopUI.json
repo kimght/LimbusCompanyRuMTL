@@ -259,6 +259,34 @@
     {
       "id": "returnpolicy_info_title",
       "content": "Отмена подписки"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "Временные"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "Недельные"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "Месячные"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "Постоянные"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "Получите на почте"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[Уведомление о времени пака]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "До окончания возможности купить {0} остлось {1} дней."
     }
   ]
 }

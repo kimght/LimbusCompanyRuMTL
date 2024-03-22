@@ -46,7 +46,7 @@
     },
     {
       "id": "MirrorWorld_Story_Title_P10603",
-      "content": "Босс синдиката \"Бом-боб\": История Хон Лу"
+      "content": "Босс синдиката «Бом-боб»: История Хон Лу"
     },
     {
       "id": "MirrorWorld_Story_Title_P10702",
@@ -299,6 +299,34 @@
     {
       "id": "MirrorWorld_Story_Title_P10808",
       "content": "Капитан «Пекода»: История Измаил"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10508",
+      "content": "Наставник Родословной клинка: История Мерсо"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10208",
+      "content": "Сальсу Родословной клинка: История Фауст"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11208",
+      "content": "Вакасигира клана «Курокумо»: История Грегора"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10308",
+      "content": "Сальсу Родословной клинка: История Дон Кихот"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10908",
+      "content": "Директор 4-ой Южной секции ассоциации «Лю»: История Роди"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10407",
+      "content": "4-ая Южная секция ассоциации «Лю»: История Рёшу"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10708",
+      "content": "3-ья Южная секция ассоциации «Эуфи»: История Хитклиффа"
     }
   ]
 }

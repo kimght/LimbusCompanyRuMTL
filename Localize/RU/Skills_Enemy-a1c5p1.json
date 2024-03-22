@@ -32,7 +32,7 @@
                 {
                     "level": 1,
                     "name": "Цапнуть",
-                    "desc": "Если на цели 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопаний</link></u></color>, наносит на 20% больше урона.",
+                    "desc": "Если на цели 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>, наносит на 20% больше урона.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -556,7 +556,7 @@
                 {
                     "level": 1,
                     "name": "Завывающие волны",
-                    "desc": "Урон +20% за каждые 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопаний</link></u></color> на цели\nЕсли СД цели ниже 0, наносит на 10% больше урона",
+                    "desc": "Урон +20% за каждые 5 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на цели\nЕсли СД цели ниже 0, наносит на 10% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [

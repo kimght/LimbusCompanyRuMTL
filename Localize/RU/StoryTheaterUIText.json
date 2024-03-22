@@ -14,7 +14,7 @@
     },
     {
       "id": "EPISODE",
-      "content": "<size=46>{0} эпизод</size>"
+      "content": "{0} эпизод"
     },
     {
       "id": "PAGE",

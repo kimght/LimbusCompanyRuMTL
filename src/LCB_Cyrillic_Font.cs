@@ -5,11 +5,9 @@ using SimpleJSON;
 using StorySystem;
 using System;
 using System.IO;
-using System.Linq;
 using TMPro;
 using UnityEngine;
 using UtilityUI;
-using static Il2CppSystem.DateTimeParse;
 
 namespace LimbusLocalizeRUS
 {
@@ -436,7 +434,7 @@ namespace LimbusLocalizeRUS
         [HarmonyPrefix]
         private static bool GetTellerName(StoryData __instance, string name, LOCALIZE_LANGUAGE lang, ref string __result)
         {
-            if (__instance._modelAssetMap.TryGetValueEX(name, out var scenarioAssetData))
+            if (__instance._modelAssetMap._modelAssetMap.TryGetValueEX(name, out var scenarioAssetData))
                 __result = scenarioAssetData.krname ?? string.Empty;
             return false;
         }
@@ -444,7 +442,7 @@ namespace LimbusLocalizeRUS
         [HarmonyPrefix]
         private static bool GetTellerTitle(StoryData __instance, string name, LOCALIZE_LANGUAGE lang, ref string __result)
         {
-            if (__instance._modelAssetMap.TryGetValueEX(name, out var scenarioAssetData))
+            if (__instance._modelAssetMap._modelAssetMap.TryGetValueEX(name, out var scenarioAssetData))
                 __result = scenarioAssetData.nickName ?? string.Empty;
             return false;
         }
@@ -461,15 +459,13 @@ namespace LimbusLocalizeRUS
         [HarmonyPatch(typeof(TextDataManager), nameof(TextDataManager.LoadRemote))]
         [HarmonyPrefix]
         private static void LoadRemote(ref LOCALIZE_LANGUAGE lang)
-        {
-            lang = LOCALIZE_LANGUAGE.EN;
-        }
+           => lang = LOCALIZE_LANGUAGE.EN;
         [HarmonyPatch(typeof(StoryData), nameof(StoryData.Init))]
         [HarmonyPostfix]
         private static void StoryDataInit(StoryData __instance)
         {
             foreach (ScenarioAssetData scenarioAssetData in JsonUtility.FromJson<ScenarioAssetDataList>(LCBR_Manager.Localizes["NickName"]).assetData)
-                __instance._modelAssetMap[scenarioAssetData.name] = scenarioAssetData;
+                __instance._modelAssetMap._modelAssetMap[scenarioAssetData.name] = scenarioAssetData;
         }
         [HarmonyPatch(typeof(LoginSceneManager), nameof(LoginSceneManager.SetLoginInfo))]
         [HarmonyPostfix]
@@ -490,7 +486,6 @@ namespace LimbusLocalizeRUS
                 }
             }
         }
-
         private static void AbEventCharDlgRootInit(this AbEventCharDlgRoot root, List<string> jsonFilePathList)
         {
             root._personalityDict = new();
@@ -527,7 +522,6 @@ namespace LimbusLocalizeRUS
                 jsonDataList[text.Split('_')[^1]] = localizeTextData;
             }
         }
-
         #endregion
         public static bool TryGetValueEX<TKey, TValue>(this Dictionary<TKey, TValue> dic, TKey key, out TValue value)
         {

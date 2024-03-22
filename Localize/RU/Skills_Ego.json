@@ -1707,7 +1707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает границу выносливости на 40% нанесённого урона"
+                  "desc": "[OnSucceedAttackHead] Повышает границу выносливости на 40% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит резонанс Гнева <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>"
@@ -1728,7 +1728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Повышает границу выносливости на 40% нанесённого урона"
+                  "desc": "[OnSucceedAttackHead] Повышает границу выносливости на 40% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит резонанс Гнева <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color>"
@@ -1772,7 +1772,7 @@
                   "desc": "[OnSucceedAttack] Наносит двойной резонанс Гнева <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> всем противникам"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 60% нанесённого урона"
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 60% от нанесённого урона"
                 }
               ]
             }
@@ -1790,7 +1790,7 @@
                   "desc": "[EndSkill] Наносит двойной резонанс Гнева <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огнём</link></u></color> всем противникам"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 60% нанесённого урона"
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости на 60% от нанесённого урона"
                 }
               ]
             }
@@ -3875,7 +3875,7 @@
         {
           "level": 1,
           "name": "Слепой дождь",
-          "abName": "Блудный лис",
+          "abName": "Бродячий лис",
           "desc": "[BeforeAttack] Даёт 1 Повышение силы Лености, 1 Повышение урона Леностью, и 2 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> всем союзникам на этот и следующий ход",
           "coinlist": [
             {}
@@ -3884,7 +3884,7 @@
         {
           "level": 3,
           "name": "Слепой дождь",
-          "abName": "Блудный лис",
+          "abName": "Бродячий лис",
           "desc": "[BeforeAttack] Даёт 1 Повышение силы Лености, 2 <sprite name=\"AmberDamageUp\"><color=#f8c200><u><link=\"AmberDamageUp\">Повышения урона Леностью</link></u></color>, и 3 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Защищённости</link></u></color> всем союзникам на этот и следующий ход",
           "coinlist": [
             {
@@ -3904,7 +3904,7 @@
         {
           "level": 1,
           "name": "Слепой дождь",
-          "abName": "Блудный лис",
+          "abName": "Бродячий лис",
           "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Получает 1 Повышение силы Лености и 1 Повышение урона Леностью на этот и следующие 2 хода",
           "coinlist": [
             {
@@ -3919,7 +3919,7 @@
         {
           "level": 3,
           "name": "Слепой дождь",
-          "abName": "Блудный лис",
+          "abName": "Бродячий лис",
           "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Получает 2 <sprite name=\"AmberResultUp\"><color=#f8c200><u><link=\"AmberResultUp\">Повышения силы Лености</link></u></color> и 2 <sprite name=\"AmberDamageUp\"><color=#f8c200><u><link=\"AmberDamageUp\">Повышения урона Леностью</link></u></color> на этот и следующие 2 хода",
           "coinlist": [
             {
