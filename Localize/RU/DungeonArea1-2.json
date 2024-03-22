@@ -82,7 +82,7 @@
     },
     {
       "id": "dungeon_1_2_0211",
-      "content": "Помещения для\n<cspace-1px>проверки безопасности</cspase>"
+      "content": "Помещения для\n<cspace=-1px>проверки безопасности</cspase>"
     },
     {
       "id": "dungeon_1_2_0212",
