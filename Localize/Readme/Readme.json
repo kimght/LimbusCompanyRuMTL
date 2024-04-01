@@ -31,6 +31,16 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Следить за обновлениями:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/limbus_company_ru>Limbus Company RUS (VK)</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Поддержать проект:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/projmoon?w=app6471849_-132567568>VK Donations</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Наши друзья:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://gll-fun.com/ru/>Great Limbus Library</link>\"}]}"
     },
     {
+      "id": 2917,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-04-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "С сезоном кошмаров Хитклиффа (v0.3.2)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Муны начинают делать поломку фан-локализаций новой фичей.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"№ 0.3.2\\nИсправления старых ошибок, подготовка необходимых кусков интерфейса, навыков и пара историй персонажей.\\n\\n<b>Теперь доступны:</b>\\n - Переведены новые идентичности Хитклиффа, Отис и, Мерсо (навыки, пассивки и диалоги),\\n - Диалоги и истории поваров БуР,\\n - Небольшие переделки в интерфейсе,\\n - Исправлены некоторые ранние переводы\\n\\n<b><i><size=49>И с 1-ым апреля вас, дорогие читатели!</b></i></size>\"}]}"
+    },
+    {
       "id": 2916,
       "version": 0,
       "type": 0,

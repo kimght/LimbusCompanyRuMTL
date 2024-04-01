@@ -614,7 +614,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Цена Магической пули",
+          "name": "Цена магической пули",
           "desc": "[WhenUse] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color> (Раз за ход)\n[EndSkillAll] Тратит СД пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>",
           "coinlist": [
             {}
@@ -622,8 +622,196 @@
         },
         {
           "level": 4,
-          "name": "Цена Магической пули",
+          "name": "Цена магической пули",
           "desc": "[WhenUse] Получает 1 <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магическую пулю</link></u></color> (Раз за ход)\n[WhenUse] Повышает итоговую силу на (Число <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color> x 2)\n[EndSkillAll] Тратит СД пропорционально числу <sprite name=\"FreischutzShotCount\"><color=#a16a3b><u><link=\"FreischutzShotCount\">Магических пуль</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 1110801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Стук",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Стук",
+          "desc": "[WhenUse] Сила монет +1 против целей с 7 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Стук",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уборка пыли",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Уборка пыли",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Уборка пыли",
+          "desc": "[WhenUse] Сила монет +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Как пожелаете, миледи",
+          "desc": "[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> получают урон Унынием, равный половине потенциала <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> (До 20)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Как пожелаете, миледи",
+          "desc": "[WhenUse] Сила монет +1 против целей с 7 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WinDuel] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> получают урон Унынием, равный потенциалу <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> (До 30)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1110804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Как бесцеремонно…!",
+          "desc": "[OnSucceedEvade] Наносит 1 Утопание (До 3-х раз за ход)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Как бесцеремонно…!",
+          "desc": "[OnSucceedEvade] Наносит 1 Утопание (До 6-и раз за ход)",
           "coinlist": [
             {}
           ]

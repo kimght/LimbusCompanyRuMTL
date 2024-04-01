@@ -21,7 +21,7 @@ namespace LimbusLocalizeRUS
         {
             //MAIN MENU
             GameObject banner_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]LobbyUIPresenter(Clone)/[Rect]Active/[UIPanel]MainLobbyUIPanel/[Rect]Banner/[Rect]RightBanners/[Script]FirstBanner/[Mask]BannerImageMask/[Image]BannerImage");
-            banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Banner"];
+            // banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Banner"];
         }
         [HarmonyPatch(typeof(VendingMachineBannerSlot), nameof(VendingMachineBannerSlot.SetData))]
         [HarmonyPostfix]
@@ -50,7 +50,7 @@ namespace LimbusLocalizeRUS
         {
             __instance.seasonPeriod.font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
             __instance.seasonPeriod.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
-            __instance.seasonPeriod.text = "(МСК) 06:00 16.11.2023";
+            __instance.seasonPeriod.text = "(МСК) 06:00 28.03.2024 ~";
 
             //FLAGS
             __instance.seasonPeriod.m_isRebuildingLayout = false;

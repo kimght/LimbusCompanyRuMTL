@@ -643,6 +643,14 @@
     {
       "id": "LobotomyEndTypo_Desc",
       "content": "Оставшиеся испытания Зелёного рассвета: {0}"
+    },
+    {
+      "id": "abnormality_all_part",
+      "content": "Все части"
+    },
+    {
+      "id": "applying_buff_format",
+      "content": "Активируется {0}"
     }
   ]
 }

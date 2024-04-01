@@ -198,14 +198,13 @@ namespace LimbusLocalizeRUS
         private static void GacksungLevelUpCompletionPopup_Init(GacksungLevelUpCompletionPopup __instance)
         {
             //Update
-            Color yellowish = new Color(1.0f, 0.443f, 0, 0.175f);
+            Color yellowish = new Color(1.0f, 0.443f, 0, 0.275f);
             Color blueish = new Color(0.451f, 0.620f, 0.710f, 0.175f);
             Color tier_default = new Color(255, 255, 0, 145);
             Color pm_yellow = new Color(0.969f, 0.765f, 0, 1.0f);
             __instance.tmp_contentTitle.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
             __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
             __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.EnableKeyword("GLOW_ON");
-            __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetColor("_GlowColor", yellowish);
             __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowInner", 0.6f);
             __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowOuter", 0.4f);
             __instance.tmp_contentTitle.transform.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowPower", 3);
@@ -217,13 +216,16 @@ namespace LimbusLocalizeRUS
                 __instance.tmp_contentTitle.fontMaterial.SetColor("_GlowColor", yellowish);
             }
             else
+            {
+                __instance.tmp_contentTitle.color = Color.white;
                 __instance.tmp_contentTitle.fontMaterial.SetColor("_GlowColor", blueish);
+            }
         }
         [HarmonyPatch(typeof(PlayerLevelUpUIPopup), nameof(PlayerLevelUpUIPopup.OpenAndSetup))]
         [HarmonyPostfix]
         private static void NewManagerLevel_Init(PlayerLevelUpUIPopup __instance)
         {
-            Color yellowish = new Color(1.0f, 0.306f, 0, 0.175f);
+            Color yellowish = new Color(1.0f, 0.306f, 0, 0.275f);
             Color pm_yellow = new Color(0.969f, 0.765f, 0, 1.0f);
             __instance.tmp_user_level_up_notice.fontSharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
             __instance.tmp_user_level_up_notice.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
@@ -232,8 +234,23 @@ namespace LimbusLocalizeRUS
             __instance.tmp_user_level_up_notice.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.EnableKeyword("GLOW_ON");
             __instance.tmp_user_level_up_notice.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetColor("_GlowColor", yellowish);
             __instance.tmp_user_level_up_notice.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowInner", 0.6f);
-            __instance.tmp_user_level_up_notice.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowOuter", 0.4f);
             __instance.tmp_user_level_up_notice.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowPower", 3);
+        }
+        [HarmonyPatch(typeof(PersonalityLevelLimitReleaseUIPopup), nameof(PersonalityLevelLimitReleaseUIPopup.Initialize))]
+        [HarmonyPostfix]
+        private static void NewPersonalityLevels_Init(PersonalityLevelLimitReleaseUIPopup __instance)
+        {
+            Color yellowish = new Color(1.0f, 0.306f, 0, 0.275f);
+            Color pm_yellow = new Color(0.969f, 0.765f, 0, 1.0f);
+            __instance.tmp_mainTitle.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
+            __instance.tmp_mainTitle.fontSharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
+            __instance.tmp_mainTitle.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
+            __instance.tmp_mainTitle.color = pm_yellow;
+            __instance.tmp_mainTitle.characterSpacing = 2;
+            __instance.tmp_mainTitle.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.EnableKeyword("GLOW_ON");
+            __instance.tmp_mainTitle.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetColor("_GlowColor", yellowish);
+            __instance.tmp_mainTitle.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowInner", 0.6f);
+            __instance.tmp_mainTitle.GetComponentInChildren<TextMeshProUGUI>().fontMaterial.SetFloat("_GlowPower", 3);
         }
         [HarmonyPatch(typeof(UITextDataLoader), nameof(UITextDataLoader.SetText))]
         [HarmonyPostfix]

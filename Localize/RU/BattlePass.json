@@ -38,7 +38,7 @@
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
-      "content": "Когда вы купите Лимбус пасс,\nвы сможете насладиться следующим на время {0}."
+      "content": "Когда вы купите Лимбус Пасс,\nвы сможете насладиться следующим на время {0}."
     },
     {
       "id": "battlepass_limbus_pass_benefit_reward",
@@ -202,7 +202,63 @@
     },
     {
       "id": "until_season_4_finished",
-      "content": "~ До обновления с Сезоном 4"
+      "content": "~ До обновления с 4 Сезоном"
+    },
+    {
+      "id": "until_season_5_start",
+      "content": "До обновления с 5 Сезоном"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass_package",
+      "content": "Когда вы купите Лимбус Пасс,\nвы сможете насладиться следующим на время {0}."
+    },
+    {
+      "id": "battlepass_purchase_desc_pass",
+      "content": "Различные награды за Лимбус Пасс"
+    },
+    {
+      "id": "battlepass_purchase_desc_ex",
+      "content": "Получение <style=\"highlightConverted\">{1}</style> Именных ящиков эгосколков в награду после достижения максимального уровня Баттл Пасса вместо <style=\"highlightConverted\">{0}</style>"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass_level",
+      "content": "Немедленное получение 10 уровней Баттл Пасса"
+    },
+    {
+      "id": "battlepass_purchase_desc_level_ticket",
+      "content": "Билет скачка уровня IV"
+    },
+    {
+      "id": "battlepass_purchase_desc_special_banner",
+      "content": "Баннер из пака для Лимбус Пасса"
+    },
+    {
+      "id": "battlepass_purchase_desc_policy",
+      "content": "※ Лимбус Пасс будет активирован сразу после покупки; возможность вернуть деньги за него ограничена.\n\n※ Баттл Пасс будет длиться 「не менее 90 дней после начала Сезона」.\nТочная дата окончания Баттл Пасса будет указана после появления следующего 「Гайда по предстоящему Сезону」.\nИмейте в виду, что дата покупки Лимбус Пасса не влияет на длительность самого Баттл Пасса."
+    },
+    {
+      "id": "owned_count",
+      "content": "{0} на руках"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus_2",
+      "content": "◆ Сразу при покупке получите 10 уровней Пасса\n◆ Получите особый баннер\n◆ Получите Билет скачка уровня IV"
+    },
+    {
+      "id": "battle_pass_product_limbus_desc_summary",
+      "content": "◆ Разблокируйте награды Лимбус Пасса\n◆ Получайте больше наград после достижения макс. уровня Пасса"
+    },
+    {
+      "id": "battle_pass_product_package_with_limbus_desc_summary",
+      "content": "◆ Лимбус Пасс 4 Сезона\n◆ Сразу при покупке получите 10 уровней Пасса\nПолучите Билет скачка уровня IV\n◆ Получите особый баннер пака с Лимбус Пассом"
+    },
+    {
+      "id": "battle_pass_product_package_without_limbus_desc_summary",
+      "content": "◆ Сразу при покупке получите 10 уровней Пасса\nПолучите Билет скачка уровня IV\n◆ Получите особый баннер пака с Лимбус Пассом"
+    },
+    {
+      "id": "battle_pass_sale_10",
+      "content": "Скидка 10%"
     }
   ]
 }

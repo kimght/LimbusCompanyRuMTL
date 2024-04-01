@@ -2282,7 +2282,7 @@
       "name": "조세핀",
       "krname": "Джозефина",
       "fileName": "Josephine",
-      "nickName": "Служанка Грозового перевала",
+      "nickName": "Дворецкий Грозового перевала",
       "jpname": "ジョセフィーヌ",
       "enname": "Josephine",
       "jpNickName": "ワザリング・ハイツ バトラー",
@@ -2297,7 +2297,7 @@
       "name": "넬리",
       "krname": "Нелли",
       "fileName": "Nellie",
-      "nickName": "Главная служанка",
+      "nickName": "Экономка",
       "jpname": "ネリー",
       "enname": "Nelly",
       "jpNickName": "チーフバトラー",
@@ -2310,7 +2310,7 @@
     },
     {
       "name": "데드레빗츠1",
-      "krname": "Дэд Рэбитс №1",
+      "krname": "Член Дэд Рэбитс №1",
       "fileName": "Deadrabbits_1",
       "nameTagColor": "#5e1410",
       "nameFontColor": "#d0a94b",
@@ -2320,7 +2320,7 @@
     },
     {
       "name": "데드레빗츠2",
-      "krname": "Дэд Рэбитс №2",
+      "krname": "Член Дэд Рэбитс №2",
       "fileName": "Deadrabbits_2",
       "nameTagColor": "#5e1410",
       "nameFontColor": "#d0a94b",
@@ -2391,7 +2391,7 @@
     },
     {
       "name": "외우피협회F",
-      "krname": "Ассоциация Эуфи F",
+      "krname": "Корректировщица из ассоциации Эуфи",
       "fileName": "OufiF_1",
       "nameTagColor": "#5e1410",
       "nameFontColor": "#d0a94b",
@@ -2401,7 +2401,7 @@
     },
     {
       "name": "외우피협회보스F",
-      "krname": "Директор ассоциации Эуфи F",
+      "krname": "Директор ассоциации Эуфи",
       "fileName": "OufiBoss_F",
       "nameTagColor": "#5e1410",
       "nameFontColor": "#d0a94b",

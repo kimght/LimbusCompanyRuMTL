@@ -1715,6 +1715,14 @@
     {
       "id": "mainui_stageinfo_effectiveAttribute",
       "content": "Эффективный грех"
+    },
+    {
+      "id": "personality_level_limit_release_title",
+      "content": "Макс. уровень идентичностей увеличен"
+    },
+    {
+      "id": "personality_level_limit_release_desc",
+      "content": "Граница повышения уровня для идентичностей увеличена."
     }
   ]
 }

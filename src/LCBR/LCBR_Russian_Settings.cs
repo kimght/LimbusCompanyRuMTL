@@ -75,5 +75,27 @@ namespace LimbusLocalizeRUS
             else if (tgIdx == 2)
                 __instance._lang = LOCALIZE_LANGUAGE.JP;
         }
+        [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneOffset), MethodType.Getter)]
+        [HarmonyPrefix]
+        public static bool TimeZoneOffset(ref int __result)
+        {
+            if (IsUseRussian.Value)
+            {
+                __result = 3;
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPatch(typeof(DateUtil), nameof(DateUtil.TimeZoneString), MethodType.Getter)]
+        [HarmonyPrefix]
+        public static bool TimeZoneString(ref string __result)
+        {
+            if (IsUseRussian.Value)
+            {
+                __result = "MSK";
+                return false;
+            }
+            return true;
+        }
     }
 }

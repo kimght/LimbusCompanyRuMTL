@@ -286,7 +286,15 @@
     },
     {
       "id": "membership_remain_side_desc",
-      "content": "До окончания возможности купить {0} остлось {1} дней."
+      "content": "До окончания доступа к 「{0}」 остлось {1} дней."
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "Пак для Лимбус Пасса"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "Недостаточно платного Безумства."
     }
   ]
 }

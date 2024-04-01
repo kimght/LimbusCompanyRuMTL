@@ -1930,7 +1930,7 @@
     {
       "id": 9070,
       "name": "Чистое зеркало, спокойная гладь",
-      "desc": "Повышает множитель критического удаара союзников с 1.2 до 1.7.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику 10 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color>. (Раз на идентичность, за ход)",
+      "desc": "Повышает множитель критического удара союзников с 1.2 до 1.7.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику 10 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color>. (Раз на идентичность, за ход)",
       "simpleDesc": [
         {
           "abilityID": 9070,
@@ -1941,7 +1941,7 @@
     {
       "id": 19070,
       "name": "Чистое зеркало, спокойная гладь+",
-      "desc": "Повышает множитель критического удаара союзников <color=#f8c200>с 1.2 до 2</color>.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику <color=#f8c200>12 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color></color>. (Раз на идентичность, за ход)",
+      "desc": "Повышает множитель критического удара союзников <color=#f8c200>с 1.2 до 2</color>.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику <color=#f8c200>12 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color></color>. (Раз на идентичность, за ход)",
       "simpleDesc": [
         {
           "abilityID": 19070,
@@ -1952,7 +1952,7 @@
     {
       "id": 29070,
       "name": "Чистое зеркало, спокойная гладь++",
-      "desc": "Повышает множитель критического удаара союзников <color=#f8c200>с 1.2 до 2.5</color>.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику <color=#f8c200>15 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color></color>. (Раз на идентичность, за ход)",
+      "desc": "Повышает множитель критического удара союзников <color=#f8c200>с 1.2 до 2.5</color>.\n\nЕсли критический урон затратил счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>, даёт союзнику <color=#f8c200>15 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышений уровня атаки</link></u></color></color>. (Раз на идентичность, за ход)",
       "simpleDesc": [
         {
           "abilityID": 29070,

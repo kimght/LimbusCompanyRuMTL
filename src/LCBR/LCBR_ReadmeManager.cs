@@ -41,8 +41,10 @@ namespace LimbusLocalizeRUS
             NoticeUIInstance.btn_systemNotice._onClick.AddListener(systemNotice_onClick);
             NoticeUIInstance.btn_systemNotice.GetComponentInChildren<UITextDataLoader>(true).enabled = false;
             NoticeUIInstance.btn_systemNotice.GetComponentInChildren<TextMeshProUGUI>(true).text = "Новости\nобновлений";
+            NoticeUIInstance.btn_systemNotice.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -30;
             NoticeUIInstance.btn_eventNotice.GetComponentInChildren<UITextDataLoader>(true).enabled = false;
             NoticeUIInstance.btn_eventNotice.GetComponentInChildren<TextMeshProUGUI>(true).text = "Основные\nновости";
+            NoticeUIInstance.btn_eventNotice.GetComponentInChildren<TextMeshProUGUI>().lineSpacing = -30;
         }
         public static void Open()
         {

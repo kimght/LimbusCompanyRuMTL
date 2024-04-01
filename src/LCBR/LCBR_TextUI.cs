@@ -12,6 +12,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using MainUI.BattleResult;
 using UtilityUI;
+using BattleUI.UIRoot;
 
 namespace LimbusLocalizeRUS
 {
@@ -75,6 +76,13 @@ namespace LimbusLocalizeRUS
                 No.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 No.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
+        }
+        [HarmonyPatch(typeof(NoticeUIPopup), nameof(NoticeUIPopup.Initialize))]
+        [HarmonyPostfix]
+        private static void NoticeNews(NoticeUIPopup __instance)
+        {
+            __instance.btn_systemNotice.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -30;
+            __instance.btn_eventNotice.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -30;
         }
         [HarmonyPatch(typeof(StageUIPresenter), nameof(StageUIPresenter.Initialize))]
         [HarmonyPostfix]
@@ -770,22 +778,20 @@ namespace LimbusLocalizeRUS
         {
             __instance.tmp_tabName.text.Replace("Атака", "Атаки");
         }
-        [HarmonyPatch(typeof(BattleUIRoot), nameof(BattleUIRoot.SetUI_Produce))]
+        [HarmonyPatch(typeof(AbnormalityStatUI), nameof(AbnormalityStatUI.UpdateBottomUIScale))]
         [HarmonyPostfix]
-        private static void Description(BattleUIRoot __instance)
+        private static void AbnormalityStatUI_Init(AbnormalityStatUI __instance)
         {
-            Transform desc = __instance.transform.Find("[Canvas,Script]BattleUIController/SafeArea/[Script]AnnouncerUIController/[Rect]Omen/[Image]Bg/[Text]Description (1)");
-            if (desc != null)
-            {
-                __instance.BattleBasicUIController._announcerUIController._omenUI.tmp_desc.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
-                __instance.BattleBasicUIController._announcerUIController._omenUI.tmp_desc.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(1);
+            __instance.tmp_unitName.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance.tmp_unitName.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
+        }
 
-                desc.GetComponentInChildren<TextMeshProUGUI>(true).m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
-                desc.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(1);
-
-                //desc.GetComponentInChildren<TextMeshProMaterialSetter>(true)._fontMaterialInstance = LCB_Cyrillic_Font.GetCyrillicMats(1);
-                //desc.GetComponentInChildren<TextMeshProMaterialSetter>(true).defaultMat = LCB_Cyrillic_Font.GetCyrillicMats(1);
-            }
+        [HarmonyPatch(typeof(BattleChoiceSelectionOmenUI), nameof(BattleChoiceSelectionOmenUI.SetActiveOff))]
+        [HarmonyPostfix]
+        private static void BattleChoiceSelectionOmenUI_Init(BattleChoiceSelectionOmenUI __instance)
+        {
+            __instance.tmp_desc.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance.tmp_desc.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(3);
         }
         #endregion
 

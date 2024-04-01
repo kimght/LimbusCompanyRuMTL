@@ -23,6 +23,22 @@
     {
       "id": "season_title_3_EVENT",
       "content": "<cspace=-2px>БОН ВОЯЖ [ИВЕНТ]</cspace>"
+    },
+    {
+      "id": "season_filter_3",
+      "content": "Сезон 3"
+    },
+    {
+      "id": "season_title_4",
+      "content": "<cspace=-1px>ОЧИСТИТЬ КЭТИ</cspace>"
+    },
+    {
+      "id": "season_title_4_EVENT",
+      "content": "<cspace=-2px>ОЧИСТИТЬ КЭТИ [ИВЕНТ]</cspace>"
+    },
+    {
+      "id": "season_filter_4",
+      "content": "Сезон 4"
     }
   ]
 }
