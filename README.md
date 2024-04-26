@@ -9,7 +9,7 @@
 Русификатор для игры "Limbus Company"
    
 <b>Наши друзья</b><br/>
-[简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR)
+[简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [Español](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam)
    
 [![Всего загрузок](https://img.shields.io/github/downloads/Crescent-Corporation/LimbusCompanyBusRUS/total?label=%D0%92%D1%81%D0%B5%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA&color=%23707489)](../../releases)
 [![Группа](https://img.shields.io/badge/LimbusCompany-LimbusCompany-darkred?logo=VK&logoColor=white&label=%D0%9D%D0%B0%D1%88%D0%B0%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0&labelColor=%23870000&color=%23EFB901&link=https%3A%2F%2Fvk.com%2Flimbus_company_ru)](https://vk.com/limbus_company_ru)
