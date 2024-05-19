@@ -117,6 +117,115 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2050611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 4)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 12\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 <style=\"highlight\">5</style>)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여\n<style=\"highlight\">- 최대 질투 공명 수가 6 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(наибольший резонанс Зависти - 2) (До 2)\n[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит до 20 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +2% урона за единицу потраченного <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 40%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(наибольший резонанс Зависти - 2) (До <style=\"highlight\">3</style>)\n[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит до 20 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +<style=\"highlight\">2.5</style>% урона за единицу потраченного <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">50</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(наибольший резонанс Зависти - 2) (До 3)\n<style=\"highlight\">[BeforeAttack] 자신의 충전 횟수가 10 이상이면, 적중시 효과로 부여하는 효과가 2회 부여됨</style>\n[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит до 20 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +<style=\"highlight\">3</style>% урона за единицу потраченного <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

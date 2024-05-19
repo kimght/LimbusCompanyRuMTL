@@ -358,6 +358,7 @@ namespace LimbusLocalizeRUS
             tm._mirrorDungeonEnemyBuffDescList.Init(romoteLocalizeFileList.MirrorDungeonEnemyBuffDesc);
             tm._iapStickerText.Init(romoteLocalizeFileList.IAPSticker);
             tm._battleSpeechBubbleText.Init(romoteLocalizeFileList.BattleSpeechBubble);
+            tm._danteAbilityDataList.Init(romoteLocalizeFileList.DanteAbility);
 
             tm._abnormalityEventCharDlg.AbEventCharDlgRootInit(romoteLocalizeFileList.abnormalityCharDlgFilePath);
 
@@ -472,7 +473,9 @@ namespace LimbusLocalizeRUS
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
             LoadLocal(LOCALIZE_LANGUAGE.EN);
-            __instance.tmp_loginAccount.text = "<cspace=-2px>Русификатор\nLimbus Company</cspace> v" + LCB_LCBRMod.VERSION;
+            __instance.tmp_loginAccount.text = "Русификатор Limbus Company v" + LCB_LCBRMod.VERSION;
+            __instance.tmp_loginAccount.characterSpacing = -2;
+            __instance.tmp_loginAccount.lineSpacing = -20;
         }
         private static void Init<T>(this JsonDataList<T> jsonDataList, List<string> jsonFilePathList) where T : LocalizeTextData, new()
         {

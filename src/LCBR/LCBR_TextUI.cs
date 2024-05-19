@@ -13,6 +13,11 @@ using System.Text.RegularExpressions;
 using MainUI.BattleResult;
 using UtilityUI;
 using BattleUI.UIRoot;
+using BattleUI.Operation;
+using System;
+using Dungeon.UI;
+using Dungeon.UI.EgoGift;
+using BattleUI.BattleUnit.SkillInfoUI;
 
 namespace LimbusLocalizeRUS
 {
@@ -23,6 +28,7 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void Client_Init(LoginSceneManager __instance)
         {
+            __instance.btn_allCacheClear.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -60;
             __instance.tmp_loginAccount.font = LCB_Cyrillic_Font.tmpcyrillicfonts[4];
             __instance.tmp_loginAccount.fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[4].material;
         }
@@ -205,9 +211,29 @@ namespace LimbusLocalizeRUS
             }
         }
 
-        [HarmonyPatch(typeof(StageStoryNodeSelectUI), nameof(StageStoryNodeSelectUI.SetStorySelect))]
+        [HarmonyPatch(typeof(StageStoryNodeSelectUI), nameof(StageStoryNodeSelectUI.Init))]
         [HarmonyPostfix]
         private static void NodeSelectUI(StageStoryNodeSelectUI __instance)
+        {
+            Transform episode_right = __instance.transform.Find("[Rect]Banner/[Image]PageTitle/[Text]PageTitle");
+            episode_right.GetComponentInChildren<TextMeshProLanguageSetter>(true).enabled = false;
+            episode_right.GetComponentInChildren<TextMeshProUGUI>(true).fontSize = 48;
+
+            Transform episode_main = __instance.transform.Find("[Rect]Desc/[Image]Background/[Image]Panel/[Text]Episode");
+            episode_main.GetComponentInChildren<TextMeshProUGUI>(true).text = "ЭПИЗОД";
+            episode_main.GetComponentInChildren<TextMeshProUGUI>(true).m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(2);
+            episode_main.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(7);
+
+            Transform enter = __instance.transform.Find("[Rect]Desc/[Image]Background/[Image]Panel/[Button]EnterStory/[Text]Enter");
+            enter.GetComponentInChildren<TextMeshProLanguageSetter>(true).enabled = false;
+            enter.GetComponentInChildren<TextMeshProUGUI>(true).text = "Прочесть";
+            if (enter.GetComponentInChildren<TextMeshProUGUI>(true).color == Color.black)
+                enter.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.DisableKeyword("UNDERLAY_ON");
+        }
+
+        [HarmonyPatch(typeof(StageStoryNodeSelectUI), nameof(StageStoryNodeSelectUI.OpenNodeStorySelectUI))]
+        [HarmonyPostfix]
+        private static void NodeSelectUI_RightCorner(StageStoryNodeSelectUI __instance)
         {
             Transform episode_right = __instance.transform.Find("[Rect]Banner/[Image]PageTitle/[Text]PageTitle");
             if (episode_right.GetComponentInChildren<TextMeshProUGUI>(true).text.EndsWith("эпизод"))
@@ -218,31 +244,30 @@ namespace LimbusLocalizeRUS
                 string numEpi = numberEnding(number);
                 episode_right.GetComponentInChildren<TextMeshProUGUI>(true).text = $"{number}{numEpi} {episode}";
             }
-            episode_right.GetComponentInChildren<TextMeshProUGUI>(true).fontSize = 48;
         }
 
-        [HarmonyPatch(typeof(StageStoryTheaterSelectNode), nameof(StageStoryTheaterSelectNode.SetData))]
+        [HarmonyPatch(typeof(StorytheaterSelectNodeBase), nameof(StorytheaterSelectNodeBase.SetData))]
         [HarmonyPostfix]
-        private static void NodeSelectUIBottom(StageStoryTheaterSelectNode __instance)
+        private static void NodeSelectUIBottom(StorytheaterSelectNodeBase __instance)
         {
-            if (__instance._notSelectStoryNumber != null || __instance._selectStoryNumber != null)
+            if (__instance._unSelectStoryText != null || __instance._selectStoryText != null)
             {
-                string[] parts = __instance._selectStoryNumber.text.Split(' ');
+                string[] parts = __instance._selectStoryText.text.Split(' ');
                 int number = int.Parse(parts[0]);
                 string episode = parts[1];
                 string numEpi = numberEnding(number);
-                __instance._selectStoryNumber.text = $"{number}{numEpi}\n{episode}";
+                __instance._selectStoryText.text = $"{number}{numEpi}\n{episode}";
 
-                string[] unparts = __instance._notSelectStoryNumber.text.Split(' ');
+                string[] unparts = __instance._unSelectStoryText.text.Split(' ');
                 int unnumber = int.Parse(parts[0]);
                 string unepisode = parts[1];
                 string unnumEpi = numberEnding(unnumber);
-                __instance._notSelectStoryNumber.text = $"{unnumber}{unnumEpi}\n{unepisode}";
+                __instance._unSelectStoryText.text = $"{unnumber}{unnumEpi}\n{unepisode}";
             }
-            __instance._selectStoryNumber.fontSize = 46;
-            __instance._notSelectStoryNumber.fontSize = 46;
-            __instance._selectStoryNumber.lineSpacing = -30;
-            __instance._notSelectStoryNumber.lineSpacing = -30;
+            __instance._selectStoryText.fontSize = 46;
+            __instance._unSelectStoryText.fontSize = 46;
+            __instance._selectStoryText.lineSpacing = -30;
+            __instance._unSelectStoryText.lineSpacing = -30;
         }
 
         private static string getTimerD(int days)
@@ -367,6 +392,20 @@ namespace LimbusLocalizeRUS
         }
         #endregion
 
+        #region Friends
+        [HarmonyPatch(typeof(UserInfoUIPopup), nameof(UserInfoUIPopup.Open))]
+        [HarmonyPostfix]
+        private static void TicketInfoPopup(UserInfoUIPopup __instance)
+        {
+            Transform ego = __instance._userinfoTicketCustomPopup._egoBackgroundBtn.transform.Find("[Text]EGO");
+            Transform bg = __instance._userinfoTicketCustomPopup._egoBackgroundBtn.transform.Find("[Text]BG");
+            ego.GetComponentInChildren<TextMeshProUGUI>(true).text = "<size=40>Фон\nдля</size>";
+            ego.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -40;
+            bg.GetComponentInChildren<UITextDataLoader>(true).enabled = false;
+            bg.GetComponentInChildren<TextMeshProUGUI>(true).text = "<size=70>ЭГО</size>";
+        }
+        #endregion
+
         #region Settings
         [HarmonyPatch(typeof(SettingsPopup), nameof(SettingsPopup.Initialize))]
         [HarmonyPostfix]
@@ -454,17 +493,26 @@ namespace LimbusLocalizeRUS
             Transform mirror = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single/[Rect]Selectable/[Button]Stage Frame/Text (TMP)");
             if (mirror != null)
             {
-                mirror.GetComponentInChildren<TextMeshProUGUI>(true).text = "Обычное";
+                mirror.GetComponentInChildren<TextMeshProUGUI>(true).text = "Симуляция";
                 mirror.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 mirror.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
             Transform mirror_hard = __instance.transform.Find("[Script]EntranceItemsScrollView/[Rect]ViewPort/[Layout]Items/[Script]MirrorDungeonEntranceItemView_Single (1)/[Rect]Selectable/[Button]Stage Frame/Text (TMP)");
             if (mirror_hard != null)
             {
-                mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).text = "Сложное";
+                mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).text = "Ритурнель";
                 mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
                 mirror_hard.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
+        }
+
+        [HarmonyPatch(typeof(EgoGiftInventoryUI), nameof(EgoGiftInventoryUI.Init))]
+        [HarmonyPostfix]
+        private static void EgoGift(EgoGiftInventoryUI __instance)
+        {
+            __instance._detail.transform.Find("[Image]EgoGiftTag/[Text]EgoGiftTag").GetComponentInChildren<TextMeshProUGUI>(true).text = "ЭГО Дар";
+            __instance._detail.transform.Find("[Image]EgoGiftTag/[Text]EgoGiftTag").GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance._detail.transform.Find("[Image]EgoGiftTag/[Text]EgoGiftTag").GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.GetCyrillicFonts(0).material;
         }
         #endregion
 
@@ -666,6 +714,17 @@ namespace LimbusLocalizeRUS
             num_l.m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             num_l.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(3);
         }
+        [HarmonyPatch(typeof(PersonalityLevelUpExpUI), nameof(PersonalityLevelUpExpUI.Initialize))]
+        [HarmonyPostfix]
+        private static void LevelUpPopUpChange(PersonalityLevelUpExpUI __instance)
+        {
+            TextMeshProUGUI lvl = __instance.transform.FindChild("[TMPro]LevelLabel").GetComponentInChildren<TextMeshProUGUI>(true);
+            LevelLabel(lvl);
+            TextMeshProUGUI exp = __instance.transform.FindChild("[TMPro]EXP Label").GetComponentInChildren<TextMeshProUGUI>(true);
+            exp.text = "ОПЫТ";
+            exp.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(2);
+            exp.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(6);
+        }
         #endregion
 
         #region Sinner UI
@@ -784,6 +843,8 @@ namespace LimbusLocalizeRUS
         {
             __instance.tmp_unitName.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
             __instance.tmp_unitName.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
+            __instance.tmp_code.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
+            __instance.tmp_code.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicFonts(3).material;
         }
 
         [HarmonyPatch(typeof(BattleChoiceSelectionOmenUI), nameof(BattleChoiceSelectionOmenUI.SetActiveOff))]
@@ -792,6 +853,25 @@ namespace LimbusLocalizeRUS
         {
             __instance.tmp_desc.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
             __instance.tmp_desc.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(3);
+        }
+        
+        [HarmonyPatch(typeof(NewOperationController), nameof(NewOperationController.SetState))]
+        [HarmonyPostfix]
+        private static void AutoButtons(NewOperationController __instance)
+        {
+            Transform WinRate = __instance.transform.Find("[Rect]ActiveControl/[Rect]Pivot/[Rect]ActionableSlotList/[Layout]SinActionSlotsGrid/[Rect]AutoSelectButton/[Rect]Pivot/[Toggle]WinRate/Background/Text (TMP)");
+            WinRate.GetComponentInChildren<TextMeshProUGUI>(true).fontSize = 34;
+            WinRate.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -40;
+        }
+
+        [HarmonyPatch(typeof(SkillAndCoinUI), nameof(SkillAndCoinUI.SetSkillNameUI))]
+        [HarmonyPostfix]
+        private static void SkillName(SkillAndCoinUI __instance)
+        {
+            __instance.rect_skillName.GetComponentInChildren<TextMeshProUGUI>(true).lineSpacing = -40;
+            __instance.tmp_skillName.lineSpacing = -40;
+            if (__instance.tmp_skillName.text.StartsWith("Этика"))
+                __instance.tmp_skillName.text = __instance.tmp_skillName.text.Replace("Этика", "<size=80%><cspace=-2px>Этика");
         }
         #endregion
 
@@ -940,6 +1020,24 @@ namespace LimbusLocalizeRUS
                 angela_my_beloved.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
                 angela_my_beloved.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
             }
+            Transform nelly = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            if (nelly != null)
+            {
+                nelly.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбрана";
+                nelly.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбрана";
+            }
+            Transform heathcliff = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            if (heathcliff != null)
+            {
+                heathcliff.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
+                heathcliff.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
+            }
+            Transform samjo = __instance.transform.Find("[Scroll]AnnouncerScrollView/Scroll View/Viewport/Content/Layout/[Script]BattleAnnouncerSlot(Clone)/[Image]SelectedTag/[Text]Selected");
+            if (samjo != null)
+            {
+                samjo.GetComponentInChildren<TextMeshProUGUI>(true).text = "Выбран";
+                samjo.GetComponentInChildren<TextMeshProUGUI>(true).name = "Выбран";
+            }
         }
         [HarmonyPatch(typeof(FormationBattleAnnouncerSelectionScrollViewItem), nameof(FormationBattleAnnouncerSelectionScrollViewItem.SetData))]
         [HarmonyPostfix]
@@ -1014,6 +1112,7 @@ namespace LimbusLocalizeRUS
             Transform until_pass = __instance.transform.Find("[Rect]Right/[Text]UntilSeason");
             limbus_pass.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>ЛИМБУС ПАСС</cspace>";
             limbus_pass_bought.GetComponentInChildren<TextMeshProUGUI>(true).text = "<cspace=-2px>ЛИМБУС ПАСС</cspace>";
+            package.GetComponentInChildren<TextMeshProLanguageSetter>(true).enabled = false;
             List<Transform> transforms = new List<Transform> { limbus_pass, limbus_pass_bought, battle_pass, battle_pass_bought, package, package_popUp, until_pass, __instance.tmp_be_in_use.transform, __instance.limbusPassPopup.tmp_description.transform };
             BebasForPass(transforms);
         }
@@ -1137,6 +1236,71 @@ namespace LimbusLocalizeRUS
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).text = "ЭПИЗОД";
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
                 episode.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[1].material;
+            }
+        }
+
+        public static string SinnerStory(string sinnerName)
+        {
+            if (sinnerName == " И Сан")
+                return "И Сана";
+            else if (sinnerName == " Фауст")
+                return "Фауст";
+            else if (sinnerName == " Дон Кихот")
+                return "Дон Кихот";
+            else if (sinnerName == " Рёшу")
+                return "Рёшу";
+            else if (sinnerName == " Мерсо")
+                return "Мерсо";
+            else if (sinnerName == " Хон Лу")
+                return "Хон Лу";
+            else if (sinnerName == " Хитклифф")
+                return "Хитклиффа";
+            else if (sinnerName == " Измаил")
+                return "Измаил";
+            else if (sinnerName == " Родя")
+                return "Роди";
+            else if (sinnerName == " Синклер")
+                return "Синклера";
+            else if (sinnerName == " Отис")
+                return "Отис";
+            else if (sinnerName == " Грегор")
+                return "Грегора";
+            else
+                return "[ДАННЫЕ УДАЛЕНЫ]";
+
+        }
+
+        [HarmonyPatch(typeof(PersonalityStoryUI), nameof(PersonalityStoryUI.Open))]
+        [HarmonyPostfix]
+        private static void PersonalityStory(PersonalityStoryUI __instance)
+        {
+            __instance.PersonalityUI._personalityDetailObject.GetComponentInChildren<TextMeshProLanguageSetter>(true).enabled = false;
+        }
+        [HarmonyPatch(typeof(PersonalityStoryPersonalityStorySlot), nameof(PersonalityStoryPersonalityStorySlot.SetData))]
+        [HarmonyPostfix]
+        private static void StoryName(PersonalityStoryPersonalityStorySlot __instance)
+        {
+            
+            String story = __instance._storyTitleText.text;
+            if (__instance._storyTitleText.text.EndsWith("История"))
+            {
+                __instance._storyTitleText.text = __instance._storyTitleText.text.Replace("  ", " ");
+                string[] parts = story.Split(',');
+                string faction = parts[0];
+                string sinner = parts[1];
+                string storyword = "История";
+                if (faction.StartsWith("Та"))
+                {
+                    faction = "Та, кто держит";
+                    sinner = " Фауст";
+                }
+                else if (faction.StartsWith("Тот"))
+                {
+                    faction = "Тот, кому суждено держать";
+                    sinner = " Синклер";
+                }
+
+                __instance._storyTitleText.text = $"{faction}: {storyword} {SinnerStory(sinner)}";
             }
         }
         #endregion

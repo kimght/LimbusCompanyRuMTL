@@ -31,6 +31,18 @@
     {
       "id": "mirrordungeon_name_3_1",
       "content": "Усложнённое зеркало Озера"
+    },
+    {
+      "id": "mirrordungeon_name_4",
+      "content": "Грозовое зеркало"
+    },
+    {
+      "id": "mirrordungeon_name_4_0",
+      "content": "Симуляция грозового зеркала"
+    },
+    {
+      "id": "mirrordungeon_name_4_1",
+      "content": "Ритурнель грозового зеркала"
     }
   ]
 }

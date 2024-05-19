@@ -141,6 +141,106 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2030611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До 1)\n[BeforeAttack] При 20 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +30% урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До 2)\n[BeforeAttack] Повышает урон на (резонанс Зависти - 3) x 5% (До 15%)\n[BeforeAttack] При 20 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +35% урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До 3)\n[BeforeAttack] Повышает урон на (резонанс Зависти - 3) x 10% (До 30%)\n[BeforeAttack] При 20 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +40% урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До 1)\n[BeforeAttack] Повышает урон на (резонанс Зависти - 3) x 5% (До 15%)\n[BeforeAttack] При менее 20 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, восполняет счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до 20 через трату 1.5% от максимальных ОЗ за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[BeforeAttack] Тратит до 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для повышения урона на +2.5% за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До <style=\"highlight\">2</style>)\n[BeforeAttack] Повышает урон на (резонанс Зависти - 3) x <style=\"highlight\">8</style>% (До <style=\"highlight\">24</style>%)\n[BeforeAttack] При менее 20 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, восполняет счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до 20 через трату 1.5% от максимальных ОЗ за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[BeforeAttack] Тратит до 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для повышения урона на +<style=\"highlight\">3.5</style>% за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До  <style=\"highlight\">70</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Электрическое блеяние",
+          "abName": "Снящаяся электроовца",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(резонанс Зависти - 2) (До <style=\"highlight\">3</style>)\n[BeforeAttack] Повышает урон на (резонанс Зависти - 3) x <style=\"highlight\">12</style>% (До <style=\"highlight\">36</style>%)\n[BeforeAttack] При менее 20 на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, восполняет счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> до 20 через трату <style=\"highlight\">1</style>% от максимальных ОЗ за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\n[BeforeAttack] Тратит до 20 единиц счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> для повышения урона на +<style=\"highlight\">5</style>% за единицу <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До  <style=\"highlight\">100</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

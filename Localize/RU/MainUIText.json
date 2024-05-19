@@ -1723,6 +1723,18 @@
     {
       "id": "personality_level_limit_release_desc",
       "content": "Граница повышения уровня для идентичностей увеличена."
+    },
+    {
+      "id": "mainui_sinners_startSuppress",
+      "content": "Начнём усмирение!"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "Аномалия успешно усмирена"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "Не удалось усмирить аномалию"
     }
   ]
 }

@@ -9,6 +9,9 @@ using StorySystem;
 using BattleUI.BattleUnit;
 using MainUI.Gacha;
 using Dungeon.Shop;
+using Dungeon.UI.Event;
+using ChoiceEvent;
+using BattleUI.Information;
 
 namespace LimbusLocalizeRUS
 {
@@ -33,6 +36,11 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void LoginSceneManager_Init(LoginSceneManager __instance)
         {
+            Transform catchphrase = __instance.transform.Find("[Canvas]/[Image]Catchphrase");
+            if (catchphrase.GetComponentInChildren<Image>(true).sprite.name == "season_catchphrase")
+            {
+                catchphrase.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Catchphrase"];
+            }
             __instance.img_touchToStart.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Start"];
             Transform motto = __instance.transform.Find("[Canvas]/[Image]RedLine/[Image]Phrase");
             if (motto != null)
@@ -148,11 +156,49 @@ namespace LimbusLocalizeRUS
         {
             __instance._soldOutTitleObject.GetComponentInChildren<UnityEngine.UI.Image>().sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Mirror_SoldOut"];
         }
+        [HarmonyPatch(typeof(ChoiceEventController), nameof(ChoiceEventController.InitCallbacks))]
+        [HarmonyPostfix]
+        private static void ChoiceEventSkip(ChoiceEventController __instance)
+        {
+            __instance._backgroundUI.img_battleBG.transform.Find("[Image]ScenarioPanel/[Script]ScenarioField/[Rect]StorySkipButton/[Button]StorySkipButton/[Image]SkipIcon (1)").GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Skip_Choice"];
+            __instance._choiceSectionUI.btn_skip.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Skip_Choice"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonShopUIController), nameof(MirrorDungeonShopUIController.Initialize))]
+        [HarmonyPostfix]
+        private static void ShopSkipButton(MirrorDungeonShopUIController __instance)
+        {
+            __instance._backgroundUI.img_battleBG.transform.Find("[Image]ScenarioPanel/[Script]ScenarioField/[Rect]StorySkipButton/[Button]StorySkipButton/[Image]SkipIcon").GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Skip_Choice"];
+        }
+        [HarmonyPatch(typeof(UIButtonWithOverlayImg), nameof(UIButtonWithOverlayImg.SetDefault))]
+        [HarmonyPostfix]
+        private static void ChoiceEvent_EgoGiftButton(UIButtonWithOverlayImg __instance)
+        {
+            if (__instance.gameObject.name == "[Button]ViewEgoGift")
+                __instance.gameObject.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_EgoGift_MirrorButton"];
+        }
         [HarmonyPatch(typeof(MirrorDungeonFloorRewardItem), nameof(MirrorDungeonFloorRewardItem.SetFloorStatus))]
         [HarmonyPostfix]
         private static void DungeonClearLogo(MirrorDungeonFloorRewardItem __instance)
         {
             __instance.img_clearLogo.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_DungeonClearLogo"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonIconManagerInBattleScene), nameof(MirrorDungeonIconManagerInBattleScene.SetActiveMirrorDungeonEgoGiftButton))]
+        [HarmonyPostfix]
+        private static void MirrorGiftBox(MirrorDungeonIconManagerInBattleScene __instance)
+        {
+            __instance.btn_egoGiftPopup.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_EgoGift_MirrorButton"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonFinishedPanel), nameof(MirrorDungeonFinishedPanel.Initialize))]
+        [HarmonyPostfix]
+        private static void MirrorClear(MirrorDungeonFinishedPanel __instance)
+        {
+            __instance. _progressPanel._iconList.transform.Find("[Image]Logo").GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_DungeonClearLogo"];
+        }
+        [HarmonyPatch(typeof(MirrorDungeonRewardPopup_Season4), nameof(MirrorDungeonRewardPopup_Season4.SetDataOpenEvent))]
+        [HarmonyPostfix]
+        private static void LastClearPlease(MirrorDungeonRewardPopup_Season4 __instance)
+        {
+            __instance._progressUI.img_clearLogo.sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_DungeonClearLogo"];
         }
         #endregion
 
@@ -194,6 +240,20 @@ namespace LimbusLocalizeRUS
                 turn.GetComponentInChildren<Image>(true).m_Sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Turn"];
                 turn.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Turn"];
             }
+        }
+        [HarmonyPatch(typeof(UnitInformationAbnormalityNameTag), nameof(UnitInformationAbnormalityNameTag.SetNameTagPosition))]
+        [HarmonyPostfix]
+        private static void RisksNameTag(UnitInformationAbnormalityNameTag __instance)
+        {
+            if (__instance.img_abClassType.sprite.name.EndsWith("27") || __instance.img_abClassType.sprite.name.EndsWith("28") || __instance.img_abClassType.sprite.name.EndsWith("31"))
+                __instance.img_abClassType.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Risk_Unindentified"];
+        }
+        [HarmonyPatch(typeof(AbnormalityStatUI), nameof(AbnormalityStatUI.CheckAbUnlockInformation))]
+        [HarmonyPostfix]
+        private static void Risks(AbnormalityStatUI __instance)
+        {
+            if (__instance.img_level.sprite.name.EndsWith("27") || __instance.img_level.sprite.name.EndsWith("28") || __instance.img_level.sprite.name.EndsWith("31"))
+                __instance.img_level.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Risk_Unindentified"];
         }
         //[HarmonyPatch(typeof(BattleSkillViewUIOverClock), nameof(BattleSkillViewUIOverClock.SetActiveOverClock))]
         //[HarmonyPostfix]

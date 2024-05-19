@@ -16,9 +16,9 @@ namespace LimbusLocalizeRUS
         public static ConfigFile LCBR_Settings;
         public static string ModPath;
         public static string GamePath;
-        public const string GUID = "Com.BrightNKnightey.LocalizeLimbusCompanyRUS";
+        public const string GUID = "com.Knightey.LocalizeLimbusCompanyRUS";
         public const string NAME = "LimbusLocalizeRUS";
-        public const string VERSION = "0.3.2";
+        public const string VERSION = "0.3.4";
         public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode, Disaer";
         public const string LCBRLink = "https://github.com/Crescent-Corporation/LimbusLocalizeRUS";
         public static Action<string, Action> LogFatalError { get; set; }
@@ -46,12 +46,13 @@ namespace LimbusLocalizeRUS
                     harmony.PatchAll(typeof(LCB_Cyrillic_Font));
                     harmony.PatchAll(typeof(LCBR_ReadmeManager));
                     harmony.PatchAll(typeof(LCBR_LoadingManager));
+                    harmony.PatchAll(typeof(LCBR_TemporaryTextures));
                     harmony.PatchAll(typeof(LCBR_SpriteUI));
                     harmony.PatchAll(typeof(LCBR_TextUI));
+                    harmony.PatchAll(typeof(LCBR_StoryUI));
                     harmony.PatchAll(typeof(LCBR_CreditsUI));
                     harmony.PatchAll(typeof(LCBR_EventUI));
                     harmony.PatchAll(typeof(LCBR_SeasonUI));
-                    harmony.PatchAll(typeof(LCBR_TemporaryTextures));
                 }
                 harmony.PatchAll(typeof(LCBR_Manager));
                 harmony.PatchAll(typeof(LCBR_Russian_Settings));

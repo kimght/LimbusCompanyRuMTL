@@ -141,6 +141,160 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\n[EndSkill] В течение следующих 3-ёх ходов теряет по 10 СД за ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 9 СД за ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +100% при <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>\n[EndSkill] В течение следующих 3-ёх ходов теряет по 8 СД за ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Узы",
+          "abName": "Связанный король",
+          "desc": "[BeforeAttack] Кол-во целей +(Число грехов в наибольшем резонансе Гордыни или Лености - 2)\nУрон выносливости +50% при <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Амплитуда Тремора преобразуется</link></u></color> в [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

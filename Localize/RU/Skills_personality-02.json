@@ -637,6 +637,185 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": 1020901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Конфискация",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Конфискация",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Конфискация",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Приём незваных гостей",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Приём незваных гостей",
+          "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Приём незваных гостей",
+          "desc": "[WhenUse] Сила в поединке +1 против целей с 5 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>\n[WhenUse] Сила монет +1 против целей с 3 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Этика приёма гостей, 4-ая церемония: Печать на сердце",
+          "desc": "[WhenUse] Сила монет +2 против целей с 5 и более на счётчике <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> на 3"
+                }
+              ]
+            },
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эха особняка</link></u></color> на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color> цели с <sprite name=\"EchoOfMansion\"><color=#e30000><u><link=\"EchoOfMansion\">Эхом особняка</link></u></color> на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подготовка к охоте",
+          "desc": "[WhenUse] Сила монет +3 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Подготовка к охоте",
+          "desc": "[WhenUse] Сила монет +7 против целей с 10 и более <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Утопания</link></u></color>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

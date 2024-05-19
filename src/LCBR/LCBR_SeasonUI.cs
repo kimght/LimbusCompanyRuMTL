@@ -20,7 +20,7 @@ namespace LimbusLocalizeRUS
         private static void MainLobbyUIPanel_Init(MainLobbyUIPanel __instance)
         {
             //MAIN MENU
-            GameObject banner_s3 = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]LobbyUIPresenter(Clone)/[Rect]Active/[UIPanel]MainLobbyUIPanel/[Rect]Banner/[Rect]RightBanners/[Script]FirstBanner/[Mask]BannerImageMask/[Image]BannerImage");
+            GameObject banner = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]LobbyUIPresenter(Clone)/[Rect]Active/[UIPanel]MainLobbyUIPanel/[Rect]Banner/[Rect]RightBanners/[Script]FirstBanner/[Mask]BannerImageMask/[Image]BannerImage");
             // banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Banner"];
         }
         [HarmonyPatch(typeof(VendingMachineBannerSlot), nameof(VendingMachineBannerSlot.SetData))]
@@ -41,7 +41,7 @@ namespace LimbusLocalizeRUS
             }
             else if (__instance._id == 91)
             {
-                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Valpurgis_Shop"];
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Walpurgis_Shop"];
             }
         }
         [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.SetupBaseData))]

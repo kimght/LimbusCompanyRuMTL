@@ -2346,7 +2346,7 @@
         },
         {
           "abilityID": 90881,
-          "simpleDesc": "Конечная мощь +1, сила монеты +1, наносит 1 единицу потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
+          "simpleDesc": "Итоговая сила +1, сила монеты +1, наносит 1 единицу потенциала <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color>, повышает счётчик <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> на 1"
         }
       ]
     },

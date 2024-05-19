@@ -12,9 +12,7 @@ namespace LimbusLocalizeRUS
         static List<string> LoadingTexts = new();
         static string Angela;
         static readonly string Raw = "<bounce f=0.5>Загрузка...</bounce>";
-        public static ConfigEntry<bool> RandomAllLoadCG = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "RandomAllLoadCG", true, "Решает, будет ли использоваться случайная CG из уже пройденных Песен ( true | false )");
         public static ConfigEntry<bool> RandomLoadText = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "RandomLoadText", true, "Решает, будут ли появляться случайные фразы загрузки или же базовая версия ( true | false )");
-        public static int ArchiveCGId;
         static LCBR_LoadingManager() => InitLoadingTexts();
         public static void InitLoadingTexts()
         {
@@ -46,50 +44,9 @@ namespace LimbusLocalizeRUS
                 loadingText.text = Angela;
             else
                 loadingText.text = SelectOne(LoadingTexts);
-        }
-        [HarmonyPatch(typeof(LoadingCGDataList), nameof(LoadingCGDataList.GetDataByStageNode))]
-        [HarmonyPrefix]
-        private static void RandomAllLoadCG_GetDataByStageNode(LoadingCGDataList __instance, ref int id, ref int SubChapterId)
-        {
-            if (!RandomAllLoadCG.Value)
-                return;
-            if (ArchiveCGId != id)
-            {
-                ArchiveCGId = id;
-                __instance._loadingCGDataDic_Stage[1192] = AllLoadingCGData(__instance._loadingCGDataDic_Stage, id);
-            }
-            id = SubChapterId = 1192;
-        }
-        [HarmonyPatch(typeof(LoadingCGDataList), nameof(LoadingCGDataList.GetDataByDungeonNode))]
-        [HarmonyPrefix]
-        private static void RandomAllLoadCG_GetDataByDungeonNode(LoadingCGDataList __instance, ref int id, ref int SubChapterId)
-        {
-            if (!RandomAllLoadCG.Value)
-                return;
-            if (ArchiveCGId != id)
-            {
-                ArchiveCGId = id;
-                __instance._loadingCGDataDic_Dungeon[1192] = AllLoadingCGData(__instance._loadingCGDataDic_Dungeon, id);
-            }
-            id = SubChapterId = 1192;
-        }
-        private static Il2CppSystem.Collections.Generic.List<LoadingCGData> AllLoadingCGData(Il2CppSystem.Collections.Generic.Dictionary<int, Il2CppSystem.Collections.Generic.List<LoadingCGData>> dic, int id)
-        {
-            LoadingCGData allloadingCGData = new()
-            {
-                id = 1192
-            };
-            Il2CppSystem.Collections.Generic.List<LoadingCGData> allloadingCGDatas = new();
-            allloadingCGDatas.Add(allloadingCGData);
-
-            int idx = dic.FindEntry(id / 100) + 1;
-
-            for (int i = 0; i < idx; i++)
-                foreach (var items in dic._entries[i].value)
-                    if (items.id != 1192 && items.id <= id)
-                        foreach (var item in items.clearCGList)
-                            allloadingCGData.clearCGList.Add(item);
-            return allloadingCGDatas;
+            UserDataManager instance = Singleton<UserDataManager>.Instance;
+            if (instance._unlockCodeData.CheckUnlockStatus(106) && loadingText.text == LoadingTexts[20])
+                loadingText.text = loadingText.text.Replace("Кэти", "■■■■");
         }
     }
 }

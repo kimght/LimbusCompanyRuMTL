@@ -651,6 +651,18 @@
     {
       "id": "applying_buff_format",
       "content": "Активируется {0}"
+    },
+    {
+      "id": "level_number_UNDEF",
+      "content": "Не определён"
+    },
+    {
+      "id": "level_number_HYPHEN",
+      "content": "-"
+    },
+    {
+      "id": "received_the_golden_bough_undecided",
+      "content": "?"
     }
   ]
 }

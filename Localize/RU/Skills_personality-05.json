@@ -654,7 +654,7 @@
         {
           "level": 4,
           "name": "Выплёскивание",
-          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 3 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color></style>\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\n[WinDuel] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 3 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color></style>\n[WhenUse] Сила монет +1 против целей с 6 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывами</link></u></color>\n[WinDuel] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color>",
           "coinlist": [
             {},
             {},

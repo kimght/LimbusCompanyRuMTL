@@ -797,7 +797,7 @@
         {
           "level": 4,
           "name": "Перегрузка",
-          "desc": "Сила в столкновении +2 при 5 и более счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "Сила в поединке +2 при 5 и более счётчиках <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
           "coinlist": [
             {},
             {},
@@ -9160,7 +9160,7 @@
         {
           "level": 1,
           "name": "Шлёп по слякоти",
-          "desc": "[WhenUse] Конечная сила +2 при -15 СД и ниже",
+          "desc": "[WhenUse] Итоговая сила +2 при -15 СД и ниже",
           "coinlist": [
             {},
             {
@@ -9189,7 +9189,7 @@
         {
           "level": 2,
           "name": "Шлёп по слякоти",
-          "desc": "[WhenUse] Конечная сила +2 при -15 СД и ниже",
+          "desc": "[WhenUse] Итоговая сила +2 при -15 СД и ниже",
           "coinlist": [
             {},
             {
@@ -9221,7 +9221,7 @@
         {
           "level": 4,
           "name": "Шлёп по слякоти",
-          "desc": "[WhenUse] Конечная сила +3 при -15 СД и ниже\n[WhenUse] Конечная сила +2 при -25 СД и ниже",
+          "desc": "[WhenUse] Итоговая сила +3 при -15 СД и ниже\n[WhenUse] Итоговая сила +2 при -25 СД и ниже",
           "coinlist": [
             {},
             {
@@ -10386,7 +10386,7 @@
         {
           "level": 1,
           "name": "Тяжёлый удар",
-          "desc": "Конечная сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
+          "desc": "Итоговая сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -10400,7 +10400,7 @@
         {
           "level": 2,
           "name": "Тяжёлый удар",
-          "desc": "Конечная сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\nНаносит +25% урона при 7+ скорости",
+          "desc": "Итоговая сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\nНаносит +25% урона при 7+ скорости",
           "coinlist": [
             {
               "coindescs": [
@@ -10414,7 +10414,7 @@
         {
           "level": 4,
           "name": "Тяжёлый удар",
-          "desc": "Конечная сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\nНаносит +25% урона при 7+ скорости\n[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
+          "desc": "Итоговая сила +1 при 10 и более на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>\nНаносит +25% урона при 7+ скорости\n[WhenUse] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 2",
           "coinlist": [
             {
               "coindescs": [

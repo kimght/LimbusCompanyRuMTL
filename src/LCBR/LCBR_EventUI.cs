@@ -7,6 +7,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UI;
 using MainUI.Gacha;
+using BattleUI.Typo;
 
 namespace LimbusLocalizeRUS
 {
@@ -170,50 +171,50 @@ namespace LimbusLocalizeRUS
         }
         #endregion
 
-        #region Valpurgis Nacht 2
+        #region Walpurgis Nacht 2
         [HarmonyPatch(typeof(DawnOfGreenEventRewardBanner), nameof(DawnOfGreenEventRewardBanner.Init))]
         [HarmonyPostfix]
         private static void RewardBanner_Init (DawnOfGreenEventRewardBanner __instance)
         {
-            GameObject secondValpurgisMission = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]StageUIPresenter(Clone)/[Rect]Active/[Script]PartAndChapterSelectionUIPanel/[Rect]Active/[Rect]Left/[Script]StageLeftBanners/[Script]StageEventBanner_Multiple_DawnOfGreen(Clone)/[Button]SecondBanner");
-            if (secondValpurgisMission != null)
-                secondValpurgisMission.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Mission_Banner"];
+            GameObject secondWalpurgisMission = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]StageUIPresenter(Clone)/[Rect]Active/[Script]PartAndChapterSelectionUIPanel/[Rect]Active/[Rect]Left/[Script]StageLeftBanners/[Script]StageEventBanner_Multiple_DawnOfGreen(Clone)/[Button]SecondBanner");
+            if (secondWalpurgisMission != null)
+                secondWalpurgisMission.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN2_Mission_Banner"];
         }
         [HarmonyPatch(typeof(DawnOfGreenEventUIPanel), nameof(DawnOfGreenEventUIPanel.Initialize))]
         [HarmonyPostfix]
         private static void DawnOfGreen_Init(DawnOfGreenEventUIPanel __instance)
         {
-            GameObject secondValpurgisDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]DawnOfGreen_MainEvent(Clone)/[Text]Date");
-            if (secondValpurgisDate != null)
+            GameObject secondWalpurgisDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]DawnOfGreen_MainEvent(Clone)/[Text]Date");
+            if (secondWalpurgisDate != null)
             {
-                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 25.01.2024(ЧТ) (МСК)";
-                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
-                secondValpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+                secondWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 25.01.2024(ЧТ) (МСК)";
+                secondWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                secondWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
             }
         }
         [HarmonyPatch(typeof(DawnOfGreenEventRewardUIPanel), nameof(DawnOfGreenEventRewardUIPanel.SetData))]
         [HarmonyPostfix]
         private static void RewardBackground_Init(DawnOfGreenEventRewardUIPanel __instance)
         {
-            GameObject secondValpurgisBG = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/[Image]Background");
-            if (secondValpurgisBG != null)
-                secondValpurgisBG.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_BG"];
-            GameObject secondValpurgisDesc = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel");
-            if (secondValpurgisDesc != null)
-                secondValpurgisDesc.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Desc"];
-            GameObject secondValpurgisMissionDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel/[Text]EventPeriod");
-            if (secondValpurgisMissionDate != null)
+            GameObject secondWalpurgisBG = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/[Image]Background");
+            if (secondWalpurgisBG != null)
+                secondWalpurgisBG.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN2_BG"];
+            GameObject secondWalpurgisDesc = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel");
+            if (secondWalpurgisDesc != null)
+                secondWalpurgisDesc.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN2_Desc"];
+            GameObject secondWalpurgisMissionDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]DawnOfGreen_Reward(Clone)/EventDescriptionPanel/[Text]EventPeriod");
+            if (secondWalpurgisMissionDate != null)
             {
-                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 1.02.2024(ЧТ) (МСК)";
-                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
-                secondValpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
+                secondWalpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 11.01.2024(ЧТ) - 04:00 1.02.2024(ЧТ) (МСК)";
+                secondWalpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[2];
+                secondWalpurgisMissionDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[2].material;
             }
         }
         [HarmonyPatch(typeof(DawnOfGreenEventRewardButton), nameof(DawnOfGreenEventRewardButton.SetData))]
         [HarmonyPostfix]
         private static void RewardClear_Init(DawnOfGreenEventRewardButton __instance)
         {
-            __instance._completeImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_VN2_Clear"];
+            __instance._completeImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN2_Clear"];
         }
         #endregion
 
@@ -309,6 +310,71 @@ namespace LimbusLocalizeRUS
         private static void YCGD_SubBanner(YCGDSubEventBanner __instance)
         {
             __instance._bannerImage.sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_YCGD_ExchangeBanner"];
+        }
+        #endregion
+
+        #region Walpurgis Nacht 3
+        [HarmonyPatch(typeof(Walpu3SubEventBanner), nameof(Walpu3SubEventBanner.Init))]
+        [HarmonyPostfix]
+        private static void MissionButton(Walpu3SubEventBanner __instance)
+        {
+            __instance._bannerImage.overrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN3_Mission_Banner"];
+            //    GameObject thirdWalpurgisMission = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]StageUIPresenter(Clone)/[Rect]Active/[Script]PartAndChapterSelectionUIPanel/[Rect]Active/[Rect]Left/[Script]StageLeftBanners/[Script]StageEventBanner_Sub_Walpu3(Clone)/[Mask]BannerImage/[Image]BannerImage (1)");
+            //    if (thirdWalpurgisMission != null)
+            //        thirdWalpurgisMission.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN3_Mission_Banner"];
+        }
+        [HarmonyPatch(typeof(Walpu3EventUIPanel), nameof(Walpu3EventUIPanel.Initialize))]
+        [HarmonyPostfix]
+        private static void ThirdWalpurgisDate(Walpu3EventUIPanel __instance)
+        {
+            GameObject thirdWalpurgisDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PanelRoot/[UIPanel]Walpu3_MainEvent(Clone)/[Image]DateBox/[Text]Date");
+            if (thirdWalpurgisDate != null)
+            {
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 02.05.2024 (ЧТ) - 04:00 16.05.2024 (ЧТ) (МСК)";
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+                __instance._logoImage.GetComponentInChildren<Image>(true).overrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN3_Logo"];
+            }
+        }
+        [HarmonyPatch(typeof(Walpu3EventRewardPopup), nameof(Walpu3EventRewardPopup.Initialize))]
+        [HarmonyPostfix]
+        private static void ThirdWalpurgisReward(Walpu3EventUIPanel __instance)
+        { 
+            GameObject thirdWalpurgisDate = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]Walpu3_RewardEvent(Clone)/EventDescriptionPanel/[Text]EventPeriod");
+            if (thirdWalpurgisDate != null)
+            {
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).text = "06:00 02.05.2024 (ЧТ) - 04:00 24.05.2024 (ЧТ) (МСК)";
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).font = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
+                thirdWalpurgisDate.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial = LCB_Cyrillic_Font.tmpcyrillicfonts[0].material;
+            }
+            GameObject logoImage = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]Walpu3_RewardEvent(Clone)/EventDescriptionPanel/[Image]LocalizeLogo");
+            if (logoImage != null)
+                logoImage.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN3_Logo"];
+            GameObject namePopup = GameObject.Find("[Canvas]RatioMainUI/[Rect]PopupRoot/[UIPopup]Walpu3_RewardEvent(Clone)/[Image]PopupNameTag/[Text]PopupName");
+            if (namePopup != null)
+            {
+                namePopup.GetComponentInChildren<UITextDataLoader>(true).enabled = false;
+                namePopup.GetComponentInChildren<TextMeshProUGUI>(true).text = "Задания";
+            }
+        }
+        [HarmonyPatch(typeof(Walpu3EventRewardButton), nameof(Walpu3EventRewardButton.SetData))]
+        [HarmonyPostfix]
+        private static void ThirdWalpuClear_Init(Walpu3EventRewardButton __instance)
+        {
+            __instance.cg_check.transform.Find("[Image]Complete").GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WN3_Clear"];
+        }
+        [HarmonyPatch(typeof(ActTypoLORBattleResultUI), nameof(ActTypoLORBattleResultUI.Open))]
+        [HarmonyPostfix]
+        private static void LoR_Finisher(ActTypoLORBattleResultUI __instance)
+        {
+            __instance._stageResultText.font = LCB_Cyrillic_Font.GetCyrillicFonts(4);
+            __instance._stageResultText.fontMaterial = LCB_Cyrillic_Font.GetCyrillicFonts(4).material;
+            __instance._stageResultAlphaText.font = LCB_Cyrillic_Font.GetCyrillicFonts(4);
+            __instance._stageResultAlphaText.fontMaterial = LCB_Cyrillic_Font.GetCyrillicFonts(4).material;
+            if (__instance._isWin)
+                __instance._resultTypoImage.overrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WP3_Victory"];
+            else
+                __instance._resultTypoImage.overrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_WP3_Defeat"];
         }
         #endregion
     }

@@ -227,6 +227,34 @@
     {
       "id": "OtherStoryOpenCondition_9015",
       "content": "Пройдите 5.5-24"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "Пройдите 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "Пройдите 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "Пройдите 5.5-13"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Пройдите 5.5-24"
+    },
+    {
+      "id": "MainStoryOpenCondition_106",
+      "content": "Пройдите 6-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9016",
+      "content": "Пройдите6-48"
+    },
+    {
+      "id": "theStoryOf",
+      "content": ", История"
     }
   ]
 }

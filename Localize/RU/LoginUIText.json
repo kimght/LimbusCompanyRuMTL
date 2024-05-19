@@ -54,11 +54,11 @@
     },
     {
       "id": "switch_allcacheclear",
-      "content": "Удалить кэш"
+      "content": "Очистить кэш"
     },
     {
       "id": "switch_oldcacheclear",
-      "content": "Удалить старый кэш"
+      "content": "Очистить\nстарый кэш"
     },
     {
       "id": "networkingerror_content",
@@ -138,7 +138,7 @@
     },
     {
       "id": "ask_to_remove_all_cache",
-      "content": "Удалить весь кэш?"
+      "content": "Отчистить кэш?"
     },
     {
       "id": "networkingerror_update",
