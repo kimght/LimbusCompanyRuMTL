@@ -26,6 +26,7 @@ namespace LimbusLocalizeRUS
             InitReadmeButton();
             InitReadmeSprites();
             InitReadmeEventSprites();
+            InitReadmeStorySprites();
         }
         public static void UIInitialize()
         {
@@ -111,6 +112,23 @@ namespace LimbusLocalizeRUS
                 ReadmeEventSprites[fileNameWithoutExtension] = sprite;
             }
         }
+        public static void InitReadmeStorySprites()
+        {
+            ReadmeStorySprites = new Dictionary<string, Sprite>();
+
+            foreach (FileInfo fileInfo in new DirectoryInfo(LCB_LCBRMod.ModPath + "/Localize/Readme/Sprites/Story").GetFiles().Where(f => f.Extension == ".jpg" || f.Extension == ".png"))
+            {
+                Texture2D texture2D = new(2, 2);
+                ImageConversion.LoadImage(texture2D, File.ReadAllBytes(fileInfo.FullName));
+                Sprite sprite = Sprite.Create(texture2D, new Rect(0f, 0f, texture2D.width, texture2D.height), new Vector2(0.5f, 0.5f));
+                string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(fileInfo.FullName);
+                texture2D.name = fileNameWithoutExtension;
+                sprite.name = fileNameWithoutExtension;
+                UObject.DontDestroyOnLoad(sprite);
+                sprite.hideFlags |= HideFlags.HideAndDontSave;
+                ReadmeStorySprites[fileNameWithoutExtension] = sprite;
+            }
+        }
         public static void InitReadmeList()
         {
             ReadmeList.Clear();
@@ -123,6 +141,7 @@ namespace LimbusLocalizeRUS
         public static Dictionary<string, Sprite> ReadmeButton = new();
         public static Dictionary<string, Sprite> ReadmeSprites = new();
         public static Dictionary<string, Sprite> ReadmeEventSprites = new();
+        public static Dictionary<string, Sprite> ReadmeStorySprites = new();
         public static System.Collections.Generic.Dictionary<string, Action> ReadmeActions = new();
 
         public static void Close()

@@ -25,7 +25,7 @@ namespace LimbusLocalizeRUS
             Image facethe = title.Find("[Canvas]/[Image]RedLine/[Image]Phrase").transform.GetComponentInChildren<Image>();
             facethe.m_OverrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Motto"];
             Image donttouch = title.Find("[Canvas]/[Image]TouchToStart").GetComponentInChildren<Image>();
-            donttouch.m_OverrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Dont_Start"];
+            donttouch.m_OverrideSprite = LCBR_ReadmeManager.ReadmeStorySprites["LCBR_Dont_Start"];
             Transform goldenbough = title.Find("[Canvas]/[Text]GoldenBoughSynchronized");
             Transform goldenbough_glow = title.Find("[Canvas]/[Text]GoldenBoughSynchronized/[Text]Glow");
             List<Transform> goldens = new List<Transform> { goldenbough, goldenbough_glow };
