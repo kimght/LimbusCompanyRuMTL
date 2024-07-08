@@ -21,7 +21,7 @@ namespace LimbusLocalizeRUS
         {
             //MAIN MENU
             GameObject banner = GameObject.Find("[Canvas]RatioMainUI/[Rect]PresenterRoot/[UIPresenter]LobbyUIPresenter(Clone)/[Rect]Active/[UIPanel]MainLobbyUIPanel/[Rect]Banner/[Rect]RightBanners/[Script]FirstBanner/[Mask]BannerImageMask/[Image]BannerImage");
-            // banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Banner"];
+            // banner_s3.GetComponentInChildren<UnityEngine.UI.Image>(true).m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["Season3_Banner"];
         }
         [HarmonyPatch(typeof(VendingMachineBannerSlot), nameof(VendingMachineBannerSlot.SetData))]
         [HarmonyPostfix]
@@ -29,19 +29,19 @@ namespace LimbusLocalizeRUS
         {
             if (__instance._id == 3)
             {
-                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season3_Shop"];
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["Season3_Shop"];
             }
             else if (__instance._id == 2)
             {
-                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season2_Shop"];
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["Season2_Shop"];
             }
             else if (__instance._id == 1)
             {
-                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Season1_Shop"];
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["Season1_Shop"];
             }
             else if (__instance._id == 91)
             {
-                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["LCBR_Walpurgis_Shop"];
+                __instance._base._bannerImage.m_OverrideSprite = LCBR_ReadmeManager.ReadmeEventSprites["Walpurgis_Shop"];
             }
         }
         [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.SetupBaseData))]

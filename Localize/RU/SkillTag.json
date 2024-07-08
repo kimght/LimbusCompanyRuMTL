@@ -78,7 +78,7 @@
     },
     {
       "id": "StartBattle",
-      "name": "[В начале битвы]"
+      "name": "[В начале хода]"
     },
     {
       "id": "DefeatDuel",
@@ -178,7 +178,7 @@
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[В начале битвы]</color>"
+      "name": "<color=#93f13e>[В начале хода]</color>"
     }
   ]
 }

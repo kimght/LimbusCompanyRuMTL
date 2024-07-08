@@ -138,7 +138,7 @@
     },
     {
       "id": "ask_to_remove_all_cache",
-      "content": "Отчистить кэш?"
+      "content": "Очистить кэш?"
     },
     {
       "id": "networkingerror_update",

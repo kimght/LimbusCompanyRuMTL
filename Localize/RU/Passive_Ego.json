@@ -346,6 +346,24 @@
       "name": "Увлечённость",
       "desc": "Удваивает потенциал <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, наносимый самым левым навыком на приборной панели (Раз за ход)",
       "summary": "Удваивает потенциал <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> навыка"
+    },
+    {
+      "id": 2060611,
+      "name": "Чувство уныния",
+      "desc": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков наносит 1 [AttackDown] и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход. (До 3-ёх раз за ход, включая ЭГО навыки)",
+      "summary": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> наносит 1 [AttackDown] и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> на следующий ход (До 3-ёх раз за ход, включая ЭГО навыки)"
+    },
+    {
+      "id": 2100611,
+      "name": "Слёзная оболочка",
+      "desc": "Получает 1 [Protection] при получении щита в начале хода.\nПолучает 1 дополнительную [Protection] при наличии <sprite name=\"ShieldManagerCryingToad\"><color=#a16a3b><u><link=\"ShieldManagerCryingToad\">Слезинки</link></u></color> на себе",
+      "summary": "Получает 1 [Protection] при получении щита.\nПолучает 1 [Protection] при наличии <sprite name=\"ShieldManagerCryingToad\"><color=#a16a3b><u><link=\"ShieldManagerCryingToad\">Слезинки</link></u></color>"
+    },
+    {
+      "id": 2020611,
+      "name": "Бег времени",
+      "desc": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> с помощью навыков получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (До 4-ёх раз за ход, включая ЭГО навыки)",
+      "summary": "При <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провокации Тремора</link></u></color> получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход (До 4-ёх раз за ход, включая ЭГО навыки)"
     }
   ]
 }

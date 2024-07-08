@@ -38,7 +38,7 @@
     },
     {
       "id": "power",
-      "content": "Сила"
+      "content": "Потенциал"
     },
     {
       "id": "require",
@@ -70,15 +70,15 @@
     },
     {
       "id": "battle_log_use_ego",
-      "content": "{0} использует ЭГО \"{1}\"!!"
+      "content": "{0} использует ЭГО \"{1}\"!"
     },
     {
       "id": "battle_log_use_ego_corrosion",
-      "content": "ЭГО \"{0}\" {1} поддалось коррозии!!"
+      "content": "ЭГО \"{0}\" {1} поддалось коррозии!"
     },
     {
       "id": "battle_log_personality_corrosion",
-      "content": "Менталка {0} летит в тартарары!!"
+      "content": "Менталка {0} летит в тартарары!"
     },
     {
       "id": "battle_log_low_morale",
@@ -86,7 +86,7 @@
     },
     {
       "id": "battle_log_panic",
-      "content": "{0} паникует!!"
+      "content": "{0} срывается!"
     },
     {
       "id": "choice_result_success",
@@ -302,7 +302,7 @@
     },
     {
       "id": "enter_clear_requirement",
-      "content": "EX Задание"
+      "content": "Задание"
     },
     {
       "id": "choice_event_resume",
@@ -478,7 +478,7 @@
     },
     {
       "id": "stack",
-      "content": "счётчик"
+      "content": "число"
     },
     {
       "id": "slash_resistance",

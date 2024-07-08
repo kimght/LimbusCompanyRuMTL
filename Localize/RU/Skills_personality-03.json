@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "Доказательство верности",
-          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за каждый (Самый высокий Абсолют/3) (До 4)",
+          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за (наибольший абсолют/3) (До 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -96,7 +96,7 @@
         {
           "level": 2,
           "name": "Доказательство верности",
-          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за каждый (Самый высокий Абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
+          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за (наибольший абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
           "coinlist": [
             {
               "coindescs": [
@@ -145,7 +145,7 @@
         {
           "level": 3,
           "name": "Заслуженное возмездие",
-          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за каждый (Самый высокий Абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
+          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за (наибольший абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 3,
           "name": "Заслуженное возмездие",
-          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за каждый (Самый высокий Абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
+          "desc": "[StartBattle] Этот навык поднимает свой уровень атаки на 1 за (наибольший абсолют/3) (До 4)\nЕсли самым высоким Абсолютом оказалась Зависть, дополнительно повышает уровень атаки на 50% от полученного (Округляется в меньшую сторону)",
           "coinlist": [
             {
               "coindescs": [
@@ -658,7 +658,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющим этого эффекта)"
+                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющих этого эффекта)"
                 }
               ]
             }
@@ -679,7 +679,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющим этого эффекта)"
+                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющих этого эффекта)"
                 }
               ]
             }
@@ -700,7 +700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющим этого эффекта)\n<style=\"highlight\">Если союзник — член Родословной клинка, даёт 2 дополнительных <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>"
+                  "desc": "[CriticalOnSucceedAttack] Даёт 2 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> союзнику с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющих этого эффекта)\n<style=\"highlight\">Если союзник — член Родословной клинка, даёт 2 дополнительных <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color></style>"
                 }
               ]
             }
@@ -733,7 +733,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 2-х союзников с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющим этого эффекта) на 2"
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 2-х союзников с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющих этого эффекта) на 2"
                 },
                 {
                   "desc": "[EndSkill] Если цель побеждена, получает 1 Повышение Рубящего урона"
@@ -767,7 +767,7 @@
                   "desc": "Критический урон +30%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 2-х союзников с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющим этого эффекта) на 2.\n<style=\"highlight\">Если союзники — члены Родословной клинка, дополнительно повышает их счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2.</style>"
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> 2-х союзников с наименьшим потенциалом <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> (или не имеющих этого эффекта) на 2.\n<style=\"highlight\">Если союзники — члены Родословной клинка, дополнительно повышает их счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на 2.</style>"
                 },
                 {
                   "desc": "[EndSkill] Если цель побеждена, <style=\"highlight\">даёт себе и случайному союзнику 1 Повышение Рубящего урона</style>"
@@ -807,6 +807,231 @@
                 }
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "В готовности взимать",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "В готовности взимать",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "В готовности взимать",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2\n<style=\"highlight\">[WhenUse] Сила в поединке +1 за каждые 6 единиц <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели (До 2)</style>\n[WhenUse] Этот слот получает 3 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Этот слот получает 4 <sprite name=\"Aggro\"><color=#a16a3b><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Метод ускоренного разреза Корп. T",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Тратит до 3-х <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели\nПовышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на потраченный [Vibration] цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Метод ускоренного разреза Корп. T",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Тратит до 3-х <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели\nПовышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на потраченный [Vibration] цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если этот навык потратил [Vibration] цели, <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Метод ускоренного разреза Корп. T",
+          "desc": "[WhenUse] Повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3\n[WhenUse] Сила в поединке +1 <style=\"highlight\">за каждые 6 единиц <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Тратит до 3-х <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели\nПовышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на (потраченный [Vibration] цели <style=\"highlight\">x 2</style>)\n<style=\"highlight\">Наносит (потраченный [Vibration] цели - 1) <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color><style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если этот навык потратил [Vibration] цели <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Остановитесь сию же секунду!",
+          "desc": "[WhenUse] Сила в поединке +1 против целей с 6 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>\n[WhenUse] Сила монет +2 при трате 10 единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести 2 <sprite name=\"TimeSuspend\"><color=#e30000><u><link=\"TimeSuspend\">Временных моратория</link></u></color>\n- Если на Дон Кихот есть [TimeRentalTwoPersonality], не тратит [Vibration] цели"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если скорость цели ниже, чем у Дон Кихот, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationChainPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Остановитесь сию же секунду!",
+          "desc": "[WhenUse] Сила в поединке +1 <style=\"highlight\">за каждые 6 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели (До 2)</style>\n<style=\"highlight\">[WhenUse] Сила в поединке +1 против целей со <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связыванием</link></u></color></style>\n[WhenUse] Сила монет +2 при трате 10 единиц на своём счётчике <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, тратит 10 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>, чтобы нанести 2 <sprite name=\"TimeSuspend\"><color=#e30000><u><link=\"TimeSuspend\">Временных моратория</link></u></color>\n- Если на Дон Кихот есть [TimeRentalTwoPersonality], не тратит [Vibration] цели<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если скорость цели ниже, чем у Дон Кихот, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationChainPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Надобно растянуть время",
+          "desc": "[StartBattle] Если на Дон Кихот нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода получает 4 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит на атакующего 2 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (Дважды за ход)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Надобно растянуть время",
+          "desc": "[StartBattle] Если на Дон Кихот нет <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color>, в конце хода получает 4 <sprite name=\"TimeRentalTwoPersonality\"><color=#f8c200><u><link=\"TimeRentalTwoPersonality\">Одолженного времени</link></u></color> (Раз за ход)\n[WhenUse] Если принимает атаку противника, наносит на атакующего <style=\"highlight\">3</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> (До <style=\"highlight\">6-и</style> раз за ход)",
+          "coinlist": [
+            {}
           ]
         }
       ]

@@ -87,7 +87,7 @@
       "area": "",
       "chapter": "",
       "chapterNumber": "",
-      "chaptertitle": "2-ая Вальпургиева Ночь",
+      "chaptertitle": "2-ая Вальпургиева ночь",
       "timeline": "984/09"
     },
     {
@@ -96,8 +96,35 @@
       "area": "20-й Район",
       "chapter": "Антракт III-2",
       "chapterNumber": "5.5",
-      "chaptertitle": "Уступаю плоть, дабы забрать их кости",
+      "chaptertitle": "Уступаю плоть, дабы\nзабрать их кости",
       "timeline": "984/10"
+    },
+    {
+      "id": "chapter_t_106",
+      "company": "Корп. T",
+      "area": "20-й Район",
+      "chapter": "Песнь VI",
+      "chapterNumber": "06",
+      "chaptertitle": "The Heartbreaking",
+      "timeline": "984/11"
+    },
+    {
+      "id": "chapter_t_9108",
+      "company": "Корп. T",
+      "area": "20-й Район",
+      "chapter": "",
+      "chapterNumber": "",
+      "chaptertitle": "3-ья Вальпургиева ночь",
+      "timeline": "984/11"
+    },
+    {
+      "id": "chapter_t_9109",
+      "company": "Корп. T",
+      "area": "20-й Район",
+      "chapter": "Антракт IV",
+      "chapterNumber": "6.5",
+      "chaptertitle": "Время, убивающее время",
+      "timeline": "984/11"
     }
   ]
 }

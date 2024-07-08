@@ -204,7 +204,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на (резонанс Чревоугодия/3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 20% нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает 20% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
@@ -225,7 +225,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на (резонанс Чревоугодия/3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 30% нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает 30% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
@@ -246,10 +246,146 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> на (резонанс Чревоугодия/3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 50% нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает 50% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "Если на цели есть Тремор, урон +(сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "Если на цели есть Тремор, урон +(сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Если наибольший резонанс равен 4 и более, вместо этого урон +(5 + (сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели/2))% (До 35%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и <style=\"highlight\">повышает его счётчик на 2</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> в [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "Если на цели есть Тремор, урон +(<style=\"highlight\">5</style> + сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До <style=\"highlight\">30%</style>)\n- Если наибольший резонанс равен 4 и более, вместо этого урон +(<style=\"highlight\">7.5</style> + (сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели/<style=\"highlight\">1.5</style>))% (До <style=\"highlight\">40%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"highlight\">3</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> в [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли на цели есть Тремор, урон +(сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До 25%)\n- Если наибольший резонанс равен 4 и более, повышает границу урона до +35%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли на цели есть Тремор, урон +(сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До <style=\"highlight\">30%</style>)\n- Если наибольший резонанс равен 4 и более, <style=\"highlight\">вместо этого урон +(5 + сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на 3<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> в [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Гулкий плач",
+          "abName": "Плачущая жаба",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли на цели есть Тремор, урон +(<style=\"highlight\">5</style> + сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/2)% (До <style=\"highlight\">40%</style>)\n- Если наибольший резонанс равен 4 и более, вместо этого урон +(<style=\"highlight\">7.5</style> + сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>/<style=\"highlight\">1.5</style>)% (До <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> и повышает его счётчик на <style=\"highlight\">6</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">Преобразует амплитуду</link></u></color> в [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>. Понижает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на 1<style=\"highlight\"></style>"
                 }
               ]
             }

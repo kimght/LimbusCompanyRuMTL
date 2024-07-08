@@ -361,7 +361,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели равна 20 и более, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">амплитуда Тремора преобразуется</link></u></color> в [Vibration_Collapse]"
+                  "desc": "[OnSucceedAttack] Если сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели равна 20 и более, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationCollapse]"
                 }
               ]
             }
@@ -389,7 +389,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели равна 20 и более, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">амплитуда Тремора преобразуется</link></u></color> в [Vibration_Collapse]"
+                  "desc": "[OnSucceedAttack] Если сумма потенциала и счётчика <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на цели равна 20 и более, <sprite name=\"Switch_Vibration\"><color=#a16a3b><u><link=\"Switch_Vibration\">преобразует амплитуду Тремора</link></u></color> в [VibrationCollapse]"
                 }
               ]
             }

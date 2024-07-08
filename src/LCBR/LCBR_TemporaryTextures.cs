@@ -77,14 +77,14 @@ namespace LimbusLocalizeRUS
         private static void GetNewCardTimelineScriptBase_Init(GetNewCardTimelineScriptBase __instance)
         {
             Transform subtitle = __instance._subtitle.transform.Find("TextRect/TextLayout/[LocalizeText]Subtitle");
-            subtitle.GetComponentInChildren<TextMeshProUGUI>().m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
+            subtitle.GetComponentInChildren<TextMeshProUGUI>().m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
         }
         [HarmonyPatch(typeof(GachaUIPanel), nameof(GachaUIPanel.SetGachaInfoPanel))]
         [HarmonyPostfix]
         private static void Gacha_Init(GachaUIPanel __instance)
         {
             Transform yisang = __instance.transform.Find("[Rect]CurrentGachaPage/ReasonPointAnchor/ReasonPointIndicator/tmp_number_of_extract");
-            yisang.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
+            yisang.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(17);
             yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.EnableKeyword("UNDERLAY_ON");
             yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetColor("_UnderlayColor", ColorSchemes["charcoal"]);
             yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_UnderlayOffsetX", 5);
@@ -92,7 +92,7 @@ namespace LimbusLocalizeRUS
             yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_UnderlayDilate", 3);
             yisang.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_UnderlaySoftness", 0);
             Transform exchange = __instance.transform.Find("[Rect]CurrentGachaPage/ReasonPointAnchor/ReasonPointIndicator/tmp_exchange");
-            exchange.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
+            exchange.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(17);
             exchange.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.EnableKeyword("UNDERLAY_ON");
             exchange.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetColor("_UnderlayColor", ColorSchemes["charcoal"]);
             exchange.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_UnderlayOffsetX", 5);
@@ -153,9 +153,28 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region Enemy Info
-        [HarmonyPatch(typeof(UnitInformationNameTag), nameof(UnitInformationNameTag.UpdatePosByInit))]
+        [HarmonyPatch(typeof(UnitInformationEnemyNameTag), nameof(UnitInformationEnemyNameTag.SetData))]
         [HarmonyPostfix]
-        private static void UnitInformationNameTag_SetData(UnitInformationNameTag __instance)
+        private static void EnemyNameTag(UnitInformationEnemyNameTag __instance)
+        {
+            Color bronze = new Color(0.64f, 0.24f, 0.07f, 1.0f);
+            Color bloody_red = new Color(0.51f, 0.05f, 0.02f, 1.0f);
+            __instance.tmp_name.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(12);
+            __instance.tmp_name.fontMaterial.SetColor("_UnderlayColor", bloody_red);
+            __instance.tmp_name.fontMaterial.SetColor("_FaceColor", bronze);
+        }
+        [HarmonyPatch(typeof(UnitInfoPersonalityNameTag), nameof(UnitInfoPersonalityNameTag.SetData))]
+        [HarmonyPostfix]
+        private static void PersonalityNameTag(UnitInfoPersonalityNameTag __instance)
+        {
+            Color milky = new Color(0.92f, 0.79f, 0.64f, 1.0f);
+            __instance.tmp_name.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(12);
+            __instance.tmp_name.fontMaterial.SetColor("_UnderlayColor", ColorSchemes["charcoal"]);
+            __instance.tmp_name.fontMaterial.SetColor("_FaceColor", milky);
+        }
+        [HarmonyPatch(typeof(UnitInformationAbnormalityNameTag), nameof(UnitInformationAbnormalityNameTag.SetData))]
+        [HarmonyPostfix]
+        private static void AbnormalityNameTag(UnitInformationAbnormalityNameTag __instance)
         {
             Color bronze = new Color(0.64f, 0.24f, 0.07f, 1.0f);
             Color bloody_red = new Color(0.51f, 0.05f, 0.02f, 1.0f);
@@ -269,7 +288,7 @@ namespace LimbusLocalizeRUS
             else if (__instance.txt_tmpro.text.EndsWith("участников"))
             {
                 __instance.txt_tmpro.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
-                __instance.txt_tmpro.fontMaterial.SetColor("_GlowColor", Color.gray);
+                __instance.txt_tmpro.fontMaterial.SetColor("_GlowColor", ColorSchemes["charcoal"]);
                 __instance.txt_tmpro.color = Color.gray;
                 __instance.txt_tmpro.fontMaterial.SetFloat("_GlowInner", 0.4f);
                 __instance.txt_tmpro.fontMaterial.SetFloat("_GlowOuter", 0.4f);
@@ -292,7 +311,7 @@ namespace LimbusLocalizeRUS
             if (just_work.GetComponentInChildren<TextMeshProUGUI>(true).text.EndsWith("участников"))
             {
                 just_work.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
-                just_work.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetColor("_GlowColor", Color.gray);
+                just_work.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetColor("_GlowColor", ColorSchemes["charcoal"]);
                 just_work.GetComponentInChildren<TextMeshProUGUI>(true).color = Color.gray;
                 just_work.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_GlowInner", 0.4f);
                 just_work.GetComponentInChildren<TextMeshProUGUI>(true).fontMaterial.SetFloat("_GlowOuter", 0.4f);
@@ -379,32 +398,34 @@ namespace LimbusLocalizeRUS
             {"gloom", new Color(0.247f, 0.870f, 1.0f, 1.0f)},
             {"pride", new Color(0, 0.388f, 0.737f, 1.0f)},
             {"envy", new Color(0.760f, 0.266f, 1.0f, 1.0f)},
-            
+
+            {"whiteish", new Color(0.9f, 0.9f, 0.9f, 1.0f)},
             {"charcoal", new Color (0.016f, 0.016f, 0.016f, 0.91f)},
             {"crimson", new Color(0.666f, 0.001f, 0, 0.99f)},
             {"violet", new Color(0.577f, 0.0118f, 0.502f, 0.75f)}
         };
 
 
-
         [HarmonyPatch(typeof(MainLobbyUIPanel), nameof(MainLobbyUIPanel.ActiveDialog))]
         [HarmonyPostfix]
         private static void Lobby_Init(MainLobbyUIPanel __instance)
         {
-            __instance.tmpro_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
+            __instance.tmpro_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
             __instance.tmpro_dialog.m_sharedMaterial.SetFloat("_GlowPower", 3);
             __instance.tmpro_dialog.ForceMeshUpdate();
+            TextMeshProUGUI long_click = __instance._personalityAcquisitionAnimOwnerObj.GetComponentInChildren<TextMeshProUGUI>(true);
             Color glow = new Color(__instance.tmpro_dialog.color.r, __instance.tmpro_dialog.color.g, __instance.tmpro_dialog.color.b, 0.25f);
+            Color glow_longclick = new Color(long_click.color.r, long_click.color.g, long_click.color.b, 0.25f);
             __instance.tmpro_dialog.m_sharedMaterial.SetColor("_GlowColor", glow);
-            __instance._personalityAcquisitionAnimOwnerObj.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
-            __instance._personalityAcquisitionAnimOwnerObj.GetComponentInChildren<TextMeshProUGUI>(true).m_sharedMaterial.SetColor("_GlowColor", glow);
+            long_click.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
+            long_click.m_sharedMaterial.SetColor("_GlowColor", glow_longclick);
         }
         [HarmonyPatch(typeof(TierUpEffectUIPanel), nameof(TierUpEffectUIPanel.SetupAndOpen))]
         [HarmonyPostfix]
         private static void TierUp_Init(TierUpEffectUIPanel __instance)
         {
             Color glow = new Color(__instance._subtitle.tmp_punchLine.color.r, __instance._subtitle.tmp_punchLine.color.g, __instance._subtitle.tmp_punchLine.color.b, 0.25f);
-            __instance._subtitle.tmp_punchLine.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
+            __instance._subtitle.tmp_punchLine.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
             __instance._subtitle.tmp_punchLine.m_sharedMaterial.SetColor("_GlowColor", glow);
             __instance._subtitle.tmp_punchLine.m_sharedMaterial.SetFloat("_GlowPower", 3);
         }
@@ -413,7 +434,7 @@ namespace LimbusLocalizeRUS
         private static void PersonalityStoryPersonalityUI_Init(PersonalityStoryPersonalityUI __instance)
         {
             Color glow = new Color(__instance._voiceText.color.r, __instance._voiceText.color.g, __instance._voiceText.color.b, 0.25f);
-            __instance._voiceText.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
+            __instance._voiceText.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
             __instance._voiceText.fontMaterial.EnableKeyword("UNDELAY_ON");
             __instance._voiceText.fontMaterial.SetColor("_GlowColor", glow);
             __instance._voiceText.fontMaterial.SetFloat("_GlowPower", 3);
@@ -423,24 +444,24 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void EGO_Init(BattleDialogUI __instance)
         {
-            __instance.tmp_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
+            __instance.tmp_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
         }
         [HarmonyPatch(typeof(BattleResultUIPanel), nameof(BattleResultUIPanel.SetStatusUI))]
         [HarmonyPostfix]
         private static void BattleResult_Init(BattleResultUIPanel __instance)
         {
             Color glow = new Color(__instance.tmp_dialog.color.r, __instance.tmp_dialog.color.g, __instance.tmp_dialog.color.b, 0.5f);
-            __instance.tmp_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(14);
+            __instance.tmp_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
             __instance.tmp_dialog.fontMaterial.SetColor("_GlowColor", glow);
             __instance.tmp_dialog.fontMaterial.SetFloat("_GlowPower", 3);
 
-            Color yellowish = new Color(1.0f, 0.306f, 0, 0.502f);
-            Color reddish = new Color(0.686f, 0.003f, 0.003f, 0.502f);
+            Color yellowish = new Color(1.0f, 0.306f, 0, 0.251f);
+            Color reddish = new Color(0.686f, 0.003f, 0.003f, 0.251f);
             __instance.tmp_result.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(11);
             __instance.tmp_result.fontMaterial.EnableKeyword("GLOW_ON");
-            __instance.tmp_result.fontMaterial.SetFloat("_GlowInner", 0.6f);
-            __instance.tmp_result.fontMaterial.SetFloat("_GlowOuter", 0.6f);
-            __instance.tmp_result.fontMaterial.SetFloat("_GlowPower", 3);
+            __instance.tmp_result.fontMaterial.SetFloat("_GlowInner", 0.8f);
+            __instance.tmp_result.fontMaterial.SetFloat("_GlowOuter", 0.4f);
+            __instance.tmp_result.fontMaterial.SetFloat("_GlowPower", 0.8f);
             __instance.tmp_result.characterSpacing = 2;
             if (__instance.tmp_result.text.Contains("Победа"))
                 __instance.tmp_result.fontMaterial.SetColor("_GlowColor", yellowish);
@@ -456,7 +477,7 @@ namespace LimbusLocalizeRUS
             Color glow_punchline_ego = new Color(__instance.egoTimeline._subtitle.tmp_punchLine.color.r, __instance.egoTimeline._subtitle.tmp_punchLine.color.g, __instance.egoTimeline._subtitle.tmp_punchLine.color.b, 0.2f);
             foreach (var subtitle in subtitles)
             {
-                subtitle.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
+                subtitle.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
                 subtitle.fontMaterial.SetFloat("_GlowPower", 3);
                 subtitle.fontMaterial.SetFloat("_UnderlayDilate", 0.95f);
             }
@@ -472,12 +493,20 @@ namespace LimbusLocalizeRUS
             Color glow_punchline_ego = new Color(__instance.egoTimeline._punchline.tmp_punchLine.color.r, __instance.egoTimeline._punchline.tmp_punchLine.color.g, __instance.egoTimeline._punchline.tmp_punchLine.color.b, 0.2f);
             foreach (var punchline in punchlines)
             {
-                punchline.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
+                punchline.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
                 punchline.fontMaterial.SetFloat("_GlowPower", 3);
                 punchline.fontMaterial.SetFloat("_UnderlayDilate", 0.95f);
             }
             __instance.rank3Timeline._punchline.tmp_punchLine.fontMaterial.SetColor("_GlowColor", glow_punchline_r3);
             __instance.egoTimeline._punchline.tmp_punchLine.fontMaterial.SetColor("_GlowColor", glow_punchline_ego);
+        }
+        [HarmonyPatch(typeof(SalvageGachaCard), nameof(SalvageGachaCard.SetData))]
+        [HarmonyPostfix]
+        private static void AnnouncerText_Material(SalvageGachaCard __instance)
+        {
+            Color textColor = __instance.tmp_WA_Subtitle.color;
+            __instance.tmp_WA_Subtitle.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(16);
+            __instance.tmp_WA_Subtitle.fontMaterial.SetColor("_GlowColor", textColor);
         }
         #endregion
 
@@ -525,26 +554,29 @@ namespace LimbusLocalizeRUS
                         __instance._text.color = underlayColor;
                 }
 
-                Color textcolor = __instance._text.color;
-
-                if (__instance.underlayHdrColorOn == false)
+                if (__instance.Text.text.EndsWith("</color>"))
+                {
+                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
+                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
+                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
+                    __instance._text.color = __instance.faceColor;
+                    return false;
+                }
+                else if (__instance.underlayHdrColorOn == false)
                 {
                     __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
                     __instance._text.fontMaterial.SetColor("_GlowColor", underlayColor);
-                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.3f);
-                    __instance._text.color = Color.white;
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
+                    __instance._text.color = ColorSchemes["whiteish"];
                     return false;
-                }
-                else if(__instance._text.text.EndsWith("</color>"))
-                {
-                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
-                    __instance._text.fontMaterial.SetColor("_GlowColor", ColorSchemes["charcoal"]);
-                    __instance._text.color = textcolor;
                 }
                 else
                 {
+                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
                     __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
-                    __instance._text.fontMaterial.SetColor("_GlowColor", ColorSchemes["charcoal"]);
+                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
                     __instance._text.color = ColorSchemes["charcoal"];
                     return false;
                 }
@@ -566,6 +598,16 @@ namespace LimbusLocalizeRUS
             return false;
         }
 
+        //[HarmonyPatch(typeof(OutterGradiantEffectController), nameof(OutterGradiantEffectController.Init))]
+        //[HarmonyPostfix]
+        //public static void BattleDialogue_TMPLanguageSetter_Off(OutterGradiantEffectController __instance)
+        //{
+        //    __instance.GetComponentInChildren<TextMeshProLanguageSetter>(true).enabled = false;
+        //    Color textColor = __instance.GetComponentInChildren<TextMeshProMaterialSetter>().faceColor;
+        //    if (__instance._dialogText.text.EndsWith("</color>"))
+        //        __instance._dialogText.color = textColor;
+        //}
+
         [HarmonyPatch(typeof(BattleLyricsContoller), nameof(BattleLyricsContoller.Init))]
         [HarmonyPostfix]
         private static void BattleLyricsMat1(BattleLyricsContoller __instance)
@@ -584,9 +626,7 @@ namespace LimbusLocalizeRUS
             {
                 __instance.tmp.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
                 __instance.tmp.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(9);
-                __instance.tmp.color = ColorSchemes["charcoal"];
                 __instance.tmp.fontMaterial.EnableKeyword("GLOW_ON");
-                __instance.tmp.fontMaterial.SetColor("_GlowColor", ColorSchemes["crimson"]);
                 __instance.tmp.fontMaterial.SetFloat("_GlowInner", 0.15f);
                 __instance.tmp.fontMaterial.SetFloat("_GlowOuter", 0.5f);
                 __instance.tmp.fontMaterial.EnableKeyword("UNDERLAY_ON");
@@ -594,6 +634,14 @@ namespace LimbusLocalizeRUS
                 __instance.tmp.fontMaterial.SetFloat("_UnderlaySoftness", 0);
                 __instance.tmp.fontMaterial.SetFloat("_UnderlayOffsetX", 0);
                 __instance.tmp.fontMaterial.SetFloat("_UnderlayOffsetY", 0);
+                if (__instance._curText.StartsWith("<color=#242423>"))
+                {
+                    __instance.tmp.fontMaterial.SetColor("_GlowColor", ColorSchemes["crimson"]);
+                }
+                else if (__instance._curText.StartsWith("<color=#930380>"))
+                {
+                    __instance.tmp.fontMaterial.SetColor("_GlowColor", ColorSchemes["heathcliff"]);
+                }
             }
         }
         [HarmonyPatch(typeof(BattleLyricsContoller), nameof(BattleLyricsContoller.CompleteText))]
@@ -623,12 +671,10 @@ namespace LimbusLocalizeRUS
                 __instance.tmp.fontMaterial.EnableKeyword("UNDERLAY_ON");
                 if (__instance._curText.StartsWith("<color=#242423>"))
                 {
-                    __instance.tmp.color = ColorSchemes["charcoal"];
                     __instance.tmp.fontMaterial.SetColor("_GlowColor", ColorSchemes["crimson"]);
                 }
                 else if (__instance._curText.StartsWith("<color=#930380>"))
                 {
-                    __instance.tmp.color = ColorSchemes["violet"];
                     __instance.tmp.fontMaterial.SetColor("_GlowColor", ColorSchemes["heathcliff"]);
                 }
             }

@@ -125,7 +125,7 @@
           "level": 1,
           "name": "Электрическое блеяние",
           "abName": "Снящаяся электроовца",
-          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 3)",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] Повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> союзника с наименьшим счётчиком <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (кроме себя) на 8\n- Повышает число целей, получающих эффект, на (Максимальное число в резонансе Зависти - 2) (До 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
           "level": 3,
           "name": "Электрическое блеяние",
           "abName": "Снящаяся электроовца",
-          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 4)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] Повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> союзника с наименьшим счётчиком <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (кроме себя) на 8\n- Повышает число целей, получающих эффект, на (Максимальное число в резонансе Зависти - 2) (До 4)\n- При резонансе Зависти, равном 4 и более, даёт целям-союзникам 1 [VioletDamageUp]",
           "coinlist": [
             {
               "coindescs": [
@@ -155,7 +155,7 @@
           "level": 4,
           "name": "Электрическое блеяние",
           "abName": "Снящаяся электроовца",
-          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 12\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 <style=\"highlight\">5</style>)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여\n<style=\"highlight\">- 최대 질투 공명 수가 6 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여</style>",
+          "desc": "[BeforeAttack] Повышает свой счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 12\n[EndSkill] Повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> союзника с наименьшим счётчиком <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (кроме себя) на 8\n- Повышает число целей, получающих эффект, на (Максимальное число в резонансе Зависти - 2) (До <style=\"highlight\">5</style>)\n- При резонансе Зависти, равном 4 и более, даёт целям-союзникам 1 [VioletDamageUp]\n<style=\"highlight\">- При резонансе Зависти, равном 6 и более, даёт себе и целям-союзникам 1 дополнительное [VioletDamageUp]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "Электрическое блеяние",
           "abName": "Снящаяся электроовца",
-          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(наибольший резонанс Зависти - 2) (До 3)\n<style=\"highlight\">[BeforeAttack] 자신의 충전 횟수가 10 이상이면, 적중시 효과로 부여하는 효과가 2회 부여됨</style>\n[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит до 20 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +<style=\"highlight\">3</style>% урона за единицу потраченного <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Кол-во целей +(наибольший резонанс Зависти - 2) (До 3)\n<style=\"highlight\">[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> на 8\n[EndSkill] Повышает счётчик <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, удваивает эффекты, наносимые монетами.</style>\n[BeforeAttack] При 10 и более единиц на счётчике <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, тратит до 20 <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color>, чтобы получить +<style=\"highlight\">3</style>% урона за единицу потраченного <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> (До <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [

@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 1024,
+      "panicName": "Расколотое единство",
+      "lowMoraleDescription": "Получает 1 [Vulnerable]. При получении удара повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 1. (До 3-ёх раз)",
+      "panicDescription": "Gain 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>. При получении удара повышает свой счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2. (До 3-ёх раз)"
+    }
+  ]
+}

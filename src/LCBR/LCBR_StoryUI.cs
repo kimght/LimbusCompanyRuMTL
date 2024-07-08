@@ -11,11 +11,23 @@ using UnityEngine;
 using UnityEngine.UI;
 using MainUI;
 using UtilityUI;
+using BattleUI;
 
 namespace LimbusLocalizeRUS
 {
     internal class LCBR_StoryUI
     {
+        [HarmonyPatch(typeof(KillCountUI), nameof(KillCountUI.Init))]
+        [HarmonyPostfix]
+        private static void KillCount(KillCountUI __instance)
+        {
+            __instance._testTitleText.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
+            __instance._testTitleText.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(12);
+
+            __instance._testkillCountNameText.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(4);
+            __instance._testkillCountNameText.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(17);
+        }
+
         [HarmonyPatch(typeof(StoryInterEffect_Type1), nameof(StoryInterEffect_Type1.Initialize))]
         [HarmonyPostfix]
         private static void StoryInterEffect_Type1_Init(StoryInterEffect_Type1 __instance)
@@ -23,9 +35,9 @@ namespace LimbusLocalizeRUS
             //FAKE_TITLE
             Transform title = __instance._title.transform;
             Image facethe = title.Find("[Canvas]/[Image]RedLine/[Image]Phrase").transform.GetComponentInChildren<Image>();
-            facethe.m_OverrideSprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Motto"];
+            facethe.m_OverrideSprite = LCBR_ReadmeManager.ReadmeSprites["Motto"];
             Image donttouch = title.Find("[Canvas]/[Image]TouchToStart").GetComponentInChildren<Image>();
-            donttouch.m_OverrideSprite = LCBR_ReadmeManager.ReadmeStorySprites["LCBR_Dont_Start"];
+            donttouch.m_OverrideSprite = LCBR_ReadmeManager.ReadmeStorySprites["Don't_Start"];
             Transform goldenbough = title.Find("[Canvas]/[Text]GoldenBoughSynchronized");
             Transform goldenbough_glow = title.Find("[Canvas]/[Text]GoldenBoughSynchronized/[Text]Glow");
             List<Transform> goldens = new List<Transform> { goldenbough, goldenbough_glow };
@@ -33,9 +45,10 @@ namespace LimbusLocalizeRUS
             foreach (TextMeshProUGUI t in goldens_text)
             {
                 t.text = "РЕЗОНАНС С ЗОЛОТОЙ ВЕТВЬЮ";
-                t.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(3);
-                t.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(8);
+                t.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+                t.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(1);
             }
+            goldenbough_glow.GetComponentInChildren<TextMeshProUGUI>(true).alpha = 0.25f;
             LCBR_TemporaryTextures.getBurnTS(goldens);
             //FAKE_LOADING
             Transform loading = __instance._loading.transform;

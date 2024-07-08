@@ -31,7 +31,17 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Следить за обновлениями:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/limbus_company_ru>Limbus Company RUS (VK)</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Поддержать проект:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://vk.com/projmoon?w=app6471849_-132567568>VK Donations</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Наши друзья:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://gll-fun.com/ru/>Great Limbus Library</link>\"}]}"
     },
     {
-      "id": 2917,
+      "id": 2919,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-07-08T00:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Время убивать время (v0.3.5)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Потрошитель времени убил наше время.\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"№ 0.3.5\\nИсправлений перевода нет, но есть исправления в коде и перевод ивента, наслаждайтесь крутой анимацией в последние три дня.\\n\\n<b>Теперь доступны:</b>\\n - Переведены новые идентичности,\\n - Ивент 「Время, убивающее время」,\\n - Небольшие переделки в интерфейсе,\\n - Исправлены некоторые ранние переводы (совсем мало, простите orz),\\n - Переделка некоторых спрайтов (а ещё они все переименованы)\\n\\n<b><i><size=49>Будьте осторожны, когда переходите дорогу!</b></i></size>\"}]}"
+    },
+    {
+      "id": 2918,
       "version": 0,
       "type": 0,
       "startDate": "2024-05-19T00:00:00.000Z",

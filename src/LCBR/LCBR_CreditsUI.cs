@@ -20,7 +20,7 @@ namespace LimbusLocalizeRUS
             Transform skip_story = __instance.transform.Find("[Rect]CreditsAnimation/[Rect]SkipButton/[Button]Skip");
             if (skip_story != null)
             {
-                skip_story.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["LCBR_Skip"];
+                skip_story.GetComponentInChildren<Image>(true).sprite = LCBR_ReadmeManager.ReadmeSprites["Skip"];
             }
         }
     }

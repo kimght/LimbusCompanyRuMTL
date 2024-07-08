@@ -27,7 +27,7 @@ namespace LimbusLocalizeRUS
                 identity = identity.Replace("Младший брат", "Младшего брата").Replace("Младшая сестра", "Младшей сестры").Replace("Пуантилист", "Пуантилиста").Replace("студент", "студента").Replace("студентака", "студентки");
                 return identity;
             }
-            else if (identity.Contains("Босс") || identity.Contains("Шеф") || identity.Contains("Наставник"))
+            else if (identity.Contains("Босс") || identity.Contains("Шеф ") || identity.Contains("Наставник"))
             {
                 identity = identity.Replace("Босс", "босса").Replace("Шеф ", "шефа ").Replace("Наставник", "наставника");
                 return identity;
@@ -50,7 +50,7 @@ namespace LimbusLocalizeRUS
             }
             else if (identity.Contains('G'))
             {
-                identity = identity.Replace("Менеджер отдела", "менеджера отдела").Replace("Личный помощник", "личного помощника\n");
+                identity = identity.Replace("Командир дивизии", "командира дивизии").Replace("Помощник первого класса", "помощника первого класса");
                 return identity;
             }
             else if (identity.Contains("молот") || identity.Contains("держит") || identity.Contains("держать"))
@@ -89,12 +89,17 @@ namespace LimbusLocalizeRUS
                 identity = identity.Replace("Старший дворецкий", "старшего дворецкого").Replace("Лакей", "лакея").Replace("Наследник", "наследника").Replace("Служанка", "служанки").Replace("Экономка", "экономки");
                 return identity;
             }
+            else if (identity.StartsWith(" Расцветшее"))
+            {
+                identity = identity.Replace("Расцветшее", "человека, пробудившего Расцветшее");
+                return identity;
+            }
             return identity;
         }
         public static string Personality_MegaList_Gendered(string identity, string sinner)
         {
             if (sinner == "Фауст" || sinner == "Дон Кихот" || sinner == "Рёшу" || sinner == "Измаил" || sinner == "Роди" || sinner == "Отис")
-                identity = identity.Replace("корректировщика", "корректировщицы").Replace("представителя", "представительницы").Replace("носителя", "носительницы").Replace("Шеф-повар", "шеф-повара");
+                identity = identity.Replace("корректировщика", "корректировщицы").Replace("представителя", "представительницы").Replace("носителя", "носительницы");
             return identity;
         }
     }
