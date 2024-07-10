@@ -119,6 +119,13 @@ namespace LimbusLocalizeRUS
         {
             __instance._selectedFrame.sprite = LCBR_ReadmeManager.ReadmeSprites["InParty"];
         }
+        [HarmonyPatch(typeof(FormationPersonalityUI_Label), nameof(FormationPersonalityUI_Label.Reload))]
+        [HarmonyPostfix]
+        private static void Participation_Label(FormationPersonalityUI_Label __instance)
+        {
+            if (__instance.img_label.sprite.name == "New_MainUI_Formation_1_2")
+                __instance.img_label.overrideSprite = LCBR_ReadmeManager.ReadmeSprites["InParty"];
+        }
         [HarmonyPatch(typeof(FormationPersonalityUISettings_Label), nameof(FormationPersonalityUISettings_Label.Convert))]
         [HarmonyPostfix]
         private static void FormationPersonalityUISettings_Label_Init(FormationPersonalityUISettings_Label __instance)

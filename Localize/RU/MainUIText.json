@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "<voffset=-0.25em><cspace=-1px>Неизменный</cspace></voffset>"
+      "content": "<voffset=-0.25em><cspace=-1px>Ключевой</cspace></voffset>"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "<size=56><cspace=-1px>Необходимо выбрать</cspace></size>"
+      "content": "<voffset=-0.25em><size=56><cspace=-1px>Необходим</cspace></size></voffset>"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "formation_force_abstain",
-      "content": "Нельзя выбрать"
+      "content": "<voffset=-0.25em><cspace=-1px>Недоступен</cspace></voffset>"
     },
     {
       "id": "formation_view_detail",

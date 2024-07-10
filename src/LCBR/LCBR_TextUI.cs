@@ -679,7 +679,7 @@ namespace LimbusLocalizeRUS
             __instance._textInfo.txt_level.m_sharedMaterial.SetFloat("_UnderlayDilate", 1.5f);
 
             TextMeshProUGUI changed = __instance._additionalInfo._hideCanvasGroup.transform.Find("[Script]Changed/[Text]Label").GetComponentInChildren<TextMeshProUGUI>();
-            changed.text = "Замена";
+            changed.text = "<voffset=-0.25em><cspace=-1px>Замена</cspace></voffset>";
             changed.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
             changed.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
 
@@ -688,14 +688,46 @@ namespace LimbusLocalizeRUS
             abstain.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
             abstain.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
             abstain.fontSize = 44;
+            
         }
 
         [HarmonyPatch(typeof(FormationPersonalityUI_Label), nameof(FormationPersonalityUI_Label.Reload))]
         [HarmonyPostfix]
         private static void FormationLabel(FormationPersonalityUI_Label __instance)
         {
+            String sinner = __instance.tmp_text.transform.parent.parent.parent.parent.name.Substring(25);
             __instance.tmp_text.m_fontAsset = LCB_Cyrillic_Font.tmpcyrillicfonts[0];
             __instance.tmp_text.fontSharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(1);
+
+            if (__instance.tmp_text.text.Contains("Необходим"))
+            {
+                switch (sinner)
+                {
+                    case "Faust" or "Donqui" or "Ryoshu" or "Ishmael" or "Rodion" or "Outis":
+                        __instance.tmp_text.text = "<voffset=-0.25em><size=56><cspace=-1px>Необходима</cspace></size></voffset>";
+                        break;
+                }
+            }
+
+            if (__instance.tmp_text.text.Contains("Ключевой"))
+            {
+                switch (sinner)
+                {
+                    case "Faust" or "Donqui" or "Ryoshu" or "Ishmael" or "Rodion" or "Outis":
+                        __instance.tmp_text.text = "<voffset=-0.25em><cspace=-1px>Ключевая</cspace></voffset>";
+                        break;
+                }
+            }
+
+            if (__instance.tmp_text.text.Contains("Недоступен"))
+            {
+                switch (sinner)
+                {
+                    case "Faust" or "Donqui" or "Ryoshu" or "Ishmael" or "Rodion" or "Outis":
+                        __instance.tmp_text.text = "<voffset=-0.25em><cspace=-1px>Недоступна</cspace></voffset>";
+                        break;
+                }
+            }
         }
 
         [HarmonyPatch(typeof(FormationPersonalityUI), nameof(FormationPersonalityUI.Initialize))]
@@ -1160,16 +1192,7 @@ namespace LimbusLocalizeRUS
         #endregion
 
         #region SeasonTag
-        [HarmonyPatch(typeof(UnitInfoPersonalityNameTag), nameof(UnitInfoPersonalityNameTag.SetSeasonTagUI))]
-        [HarmonyPostfix]
-        private static void UnitInfoPersonalityNameTag_Init(UnitInfoPersonalityNameTag __instance)
-        {
-            string text = __instance._seasonTagUI.tmp_season.text.Replace("SEASON", "СЕЗОН");
-            __instance._seasonTagUI.tmp_season.text = text.Replace("WALPURGISNACHT", "<cspace=-1px>ВАЛЬПУРГИЕВА НОЧЬ</cspace>");
-            __instance._seasonTagUI.tmp_season.font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
-            __instance._seasonTagUI.tmp_season.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
-        }
-        [HarmonyPatch(typeof(UnitInformationSeasonTagUI), nameof(UnitInformationSeasonTagUI.SetSeasonData))]
+        [HarmonyPatch(typeof(UnitInformationSeasonTagUI), nameof(UnitInformationSeasonTagUI.SetSeasonDataWithTitle))]
         [HarmonyPostfix]
         private static void UnitInformationSeasonTagUI_Init(UnitInformationSeasonTagUI __instance)
         {
@@ -1186,6 +1209,25 @@ namespace LimbusLocalizeRUS
                     __instance.tmp_season.fontSize = 60f;
                     break;
                 }
+            }
+        }
+        [HarmonyPatch(typeof(UnitInformationSeasonTagUI), nameof(UnitInformationSeasonTagUI.SetSeasonData))]
+        [HarmonyPostfix]
+        private static void UnitInformationSeasonTagUI_SetSeasonData(UnitInformationSeasonTagUI __instance)
+        {
+            string text = __instance.tmp_season.text.Replace("SEASON", "СЕЗОН");
+            __instance.tmp_season.text = text.Replace("WALPURGISNACHT -", "<cspace=-4px>ВАЛЬПУРГИЕВА НОЧЬ -</cspace>");
+            __instance.tmp_season.text = __instance.tmp_season.text.Replace("I", "<cspace=-4px>I</cspace>");
+            __instance.tmp_season.font = LCB_Cyrillic_Font.tmpcyrillicfonts[1];
+            __instance.tmp_season.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(2);
+            float seasonSize = __instance.tmp_season.fontSize;
+            switch (seasonSize)
+            {
+                case 65f:
+                    {
+                        __instance.tmp_season.fontSize = 60f;
+                        break;
+                    }
             }
         }
         #endregion
