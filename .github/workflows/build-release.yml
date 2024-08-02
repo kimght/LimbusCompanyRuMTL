@@ -31,8 +31,7 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     - name: Build Mod DLL
-      working-directory: ./src
-      run: dotnet build LimbusCompanyBusRus.sln -c ML_Cpp_net6_interop --output ../Release
+      run: dotnet build ./src/LimbusCompanyBusRus.sln -c ML_Cpp_net6_interop
       
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
