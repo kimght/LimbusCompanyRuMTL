@@ -10,10 +10,6 @@ jobs:
 
   build:
 
-    # strategy:
-    #   matrix:
-    #     configuration: [Debug, Release]
-
     runs-on: windows-latest
 
     steps:
@@ -32,9 +28,17 @@ jobs:
 
     - name: Build Mod DLL
       run: dotnet build ./src/LimbusCompanyBusRus.sln -c ML_Cpp_net6_interop
+
+    - name: Prepare Release
+      run: |
+        New-Item -ItemType Directory -Path "Release/Mod/LimbusCompanyRuMTL" -Force
+        Copy-Item -Path Localize "Release/Mod/LimbusCompanyRuMTL" -Recurse
+        Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/Mod/LimbusCompanyRuMTL" 
       
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: build-result
-        path: Release
+        name: LimbusCompanyRuMTL_${{ github.ref }}
+        path: |
+          Release/Mod
+          
