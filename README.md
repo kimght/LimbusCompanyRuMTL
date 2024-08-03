@@ -1,19 +1,23 @@
 <div align="center">
-<a href="https://github.com/Crescent-Corporation/LimbusCompanyBusRUS">
-   <img src="https://github.com/Crescent-Corporation/LimbusCompanyBusRUS/blob/LC_branch_ORIGINAL/Localize/Readme/Readme_Crescent_Button.png"
+<a href="https://github.com/kimght/LimbusCompanyRuMTL">
+   <img src="https://github.com/kimght/LimbusCompanyRuMTL/blob/main/Localize/Readme/Readme_Crescent_Button.png"
       width="200"
       height="200"/>
 </a>
    
-# LimbusCompanyBusRUS
-Русификатор для игры "Limbus Company"
+# LimbusCompanyRuMTL
+Мод на правленный машинный русский перевод Limbus Company
    
 <b>Наши друзья</b><br/>
-[简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [Español](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam)
+
+[한국어](https://limbuscompany.kr) | [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Ручной русский перевод](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS)
+
+[Español](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam) | [日本語](https://limbuscompany.kr) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) 
+[繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/JoshSnappas/LocalizeLimbusCompanyTH) | [Indonesia](https://github.com/ArtefactX1/LocalizeLimbusID)
    
-[![Всего загрузок](https://img.shields.io/github/downloads/Crescent-Corporation/LimbusCompanyBusRUS/total?label=%D0%92%D1%81%D0%B5%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA&color=%23707489)](../../releases)
-[![Группа](https://img.shields.io/badge/LimbusCompany-LimbusCompany-darkred?logo=VK&logoColor=white&label=%D0%9D%D0%B0%D1%88%D0%B0%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0&labelColor=%23870000&color=%23EFB901&link=https%3A%2F%2Fvk.com%2Flimbus_company_ru)](https://vk.com/limbus_company_ru)
-[![Релиз](https://img.shields.io/github/v/release/Crescent-Corporation/LimbusCompanyBusRUS?label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&labelColor=%23707489&color=%23484f58)](../../releases/latest)
+[![Загрузки](https://img.shields.io/github/downloads/kimght/LimbusCompanyRuMTL/total?style=flat-square&label=%D0%92%D1%81%D0%B5%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA&color=%23707489)](../../releases)
+[![Тредик](https://img.shields.io/badge/%2Fpmg%2F-thread?style=flat-square&label=%D0%9B%D0%B8%D0%B3%D0%BC%D1%83%D1%81%20%D0%A2%D1%80%D0%B5%D0%B4%D0%B8%D0%BA&color=%23f99b06)](https://vk.com/limbus_company_ru)
+[![Последний релиз](https://img.shields.io/github/v/release/kimght/LimbusCompanyRuMTL?style=flat-square&label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&labelColor=%23707489&color=%23484f58)](../../releases/latest)
 </div>
 
 # Установка
@@ -31,5 +35,8 @@
     
 ## Я всё равно ничего не понял(-а), что мне делать? 
    - [Молитесь](https://Однажды-мы-сделаем-видео-гайд)
-# Примечания
-- Благодарим <b>abcdcode</b> за помощь с кодом для улучшения отображения шрифтов!
+
+# Благодарности
+- Команде [LLC](https://github.com/LocalizeLimbusCompany) за создание и поддержку проекта.
+- [Авторам ручного русского перевода](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS).
+- <b>abcdcode</b> за помощь с кодом для улучшения отображения шрифтов.
