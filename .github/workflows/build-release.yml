@@ -1,10 +1,10 @@
 name: Build Mod Release
 
 on:
-  release:
-    types:
-      - published
   workflow_dispatch:
+    inputs:
+      version:
+        description: 'Версия'   
 
 jobs:
 
@@ -36,9 +36,34 @@ jobs:
         Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/Mod/LimbusCompanyRuMTL" 
       
     - name: Upload build artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
-        name: LimbusCompanyRuMTL_${{ github.ref }}
+        name: build
         path: |
-          Release/Mod
+          Release/LimbusCompanyBusRUS_BIE.dll
+          Localize
+
+  release:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+        
+    needs: build
+
+    steps: 
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
           
+      - uses: actions/download-artifact@v4
+        with:
+          name: build
+          path: LimbusCompanyRuMTL
+      - run: zip -r LimbusCompanyRuMTL_v${{ github.event.inputs.version }}.zip LimbusCompanyRuMTL
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "LimbusCompanyRuMTL_v${{ github.event.inputs.version }}.zip"
+          bodyFile: "CHANGELOG.md"
+          tag: v${{ github.event.inputs.version }}
