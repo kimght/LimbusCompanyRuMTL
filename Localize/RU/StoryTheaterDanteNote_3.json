@@ -1,40 +1,40 @@
-{
-    "dataList": [
-        {
-            "id": "NestW",
-            "content": "Корп. W"
-        },
-        {
-            "id": "PersonalitySync",
-            "content": "Связь идентичностей"
-        },
-        {
-            "id": "AbnormalityInterpret",
-            "content": "Связка"
-        },
-        {
-            "id": "PersonalityUpgrade",
-            "content": "Прокачка идентичностей"
-        },
-        {
-            "id": "NestR",
-            "content": "Корп. R"
-        },
-        {
-          "id": "E.G.O",
-          "content": "ЭГО"
-        },
-        {
-          "id": "Singularity",
-          "content": "Сингулярности"
-        },
-        {
-          "id": "Goldenbranch",
-          "content": "Золотые ветви"
-        },
-        {
-          "id": "Abnormality",
-          "content": "Аномалии"
-        }
-    ]
+﻿{
+  "dataList": [
+    {
+      "id": "NestW",
+      "content": "Корп. W"
+    },
+    {
+      "id": "PersonalitySync",
+      "content": "Связь идентичностей"
+    },
+    {
+      "id": "AbnormalityInterpret",
+      "content": "Связка"
+    },
+    {
+      "id": "PersonalityUpgrade",
+      "content": "Прокачка идентичностей"
+    },
+    {
+      "id": "NestR",
+      "content": "Корп. R"
+    },
+    {
+      "id": "E.G.O",
+      "content": "ЭГО"
+    },
+    {
+      "id": "Singularity",
+      "content": "Сингулярности"
+    },
+    {
+      "id": "Goldenbranch",
+      "content": "Золотые ветви"
+    },
+    {
+      "id": "Abnormality",
+      "content": "Аномалии"
+    }
+  ]
 }

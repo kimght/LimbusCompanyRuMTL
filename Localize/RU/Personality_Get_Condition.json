@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": "10102_getCondition_normal",
@@ -528,7 +528,6 @@
       "id": "10507_getCondition_gacksung",
       "content": "Свяжите Младшего брата Среднего пальца Мерсо до 3-го уровня"
     },
-
     {
       "id": "10707_getCondition_normal",
       "content": "Заполучите The Гарпунщика «Пекода» Хитклиффа"

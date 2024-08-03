@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": 2020511,
@@ -121,7 +121,6 @@
         }
       ]
     },
-
     {
       "id": 2020611,
       "levelList": [
@@ -291,7 +290,7 @@
           "name": "Вечность",
           "abName": "Утка времени",
           "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2</style>)% (До <style=\"highlight\">16%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 4)\n<style=\"highlight\">- [BeforeAttack] Если грех резонанса — Леность, повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2</style>",
-         "coinlist": [
+          "coinlist": [
             {
               "coindescs": [
                 {

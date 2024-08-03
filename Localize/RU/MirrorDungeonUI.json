@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": "mirrordungeonui_level_up",
@@ -68,7 +68,6 @@
       "id": "mirrordungeon_entrance_quit_former_simulation",
       "content": "Вы уверены, что желаете выйти из текущей симуляции?"
     },
-
     {
       "id": "mirrordungeon_progress_rate_simulation",
       "content": "Прогресс симуляции {0}"

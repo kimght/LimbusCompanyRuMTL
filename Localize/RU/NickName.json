@@ -1,4 +1,4 @@
-{
+﻿{
   "assetData": [
     {
       "name": "이상",
@@ -5381,7 +5381,7 @@
       "headPosX": 0.0,
       "headPosY": 0.0,
       "bottomYPos": 5500.0,
-      "scale": 0.17000000178813935,
+      "scale": 0.17000000178813934,
       "portraitSpritePath": "StoryLog_HongLu",
       "nameTagColor": "#5bffde",
       "nameFontColor": "",
@@ -5601,7 +5601,7 @@
       "headPosX": 0.0,
       "headPosY": 0.0,
       "bottomYPos": 1600.0,
-      "scale": 0.44999998807907107,
+      "scale": 0.44999998807907104,
       "portraitSpritePath": "StoryLog_Heathcliff_Wolf",
       "nameTagColor": "#4e3076",
       "nameFontColor": "",
@@ -6202,7 +6202,7 @@
       "cropForLog": [],
       "psbHeadPosX": 0.0,
       "psbHeadPosY": 0.0,
-      "textSpeed": 0.30000001192092898
+      "textSpeed": 0.30000001192092896
     },
     {
       "name": "감속더미",
@@ -6224,7 +6224,7 @@
       "cropForLog": [],
       "psbHeadPosX": 0.0,
       "psbHeadPosY": 0.0,
-      "textSpeed": 0.30000001192092898
+      "textSpeed": 0.30000001192092896
     },
     {
       "name": "돈키T3",

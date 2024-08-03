@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": "mirrordungeon_product_list",
@@ -512,7 +512,7 @@
       "id": "mirrordungeon_hard_no_reward_desc",
       "content": "<color=#ff0000>Награда за прохождение усложнённого режима уже была получена.</color>"
     },
-	{
+    {
       "id": "mirror_dungeon_3_buffs_title_1",
       "content": "Начало путешествия"
     },
@@ -787,7 +787,7 @@
     {
       "id": "md3_buffs_summaryDesc_1103",
       "content": "Скидка на улучшение дара с Кровотечением"
-	},
+    },
     {
       "id": "md3_buffs_summaryDesc_1104",
       "content": "Скидка на улучшение дара с Тремором"

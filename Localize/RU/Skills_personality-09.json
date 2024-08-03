@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": 1090701,
@@ -181,7 +181,6 @@
         }
       ]
     },
-
     {
       "id": 1090801,
       "levelList": [
@@ -583,7 +582,6 @@
             },
             {
               "coindescs": [
-
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Binding] на следующий ход</style>"
                 },

@@ -1,4 +1,4 @@
-{
+﻿{
   "dataList": [
     {
       "id": 1120601,
@@ -673,7 +673,6 @@
         }
       ]
     },
-
     {
       "id": 1120901,
       "levelList": [
@@ -806,11 +805,11 @@
             },
             {
               "coindescs": [
-              {
-                "desc": "[OnSucceedAttack] Наносит 1 Утопание"
-              }
-            ]
-          },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Утопание"
+                }
+              ]
+            },
             {
               "coindescs": [
                 {
@@ -841,11 +840,11 @@
             },
             {
               "coindescs": [
-              {
-                "desc": "[OnSucceedAttack] Наносит 1 Утопание"
-              }
-            ]
-          },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 Утопание"
+                }
+              ]
+            },
             {
               "coindescs": [
                 {
