@@ -31,17 +31,16 @@ jobs:
 
     - name: Prepare Release
       run: |
-        New-Item -ItemType Directory -Path "Release/Mod/LimbusCompanyRuMTL" -Force
-        Copy-Item -Path Localize "Release/Mod/LimbusCompanyRuMTL" -Recurse
-        Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/Mod/LimbusCompanyRuMTL" 
+        New-Item -ItemType Directory -Path "Release/ModData" -Force
+        Copy-Item -Path Localize "Release/ModData" -Recurse
+        Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/ModData" 
       
     - name: Upload build artifacts
       uses: actions/upload-artifact@v4
       with:
         name: build
         path: |
-          Release/LimbusCompanyBusRUS_BIE.dll
-          Localize
+          Release/ModData
 
   release:
     runs-on: ubuntu-latest
