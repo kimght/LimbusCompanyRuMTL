@@ -1452,6 +1452,7 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         private static void BattleUnitView_Init(BattleUnitView __instance)
         {
+            // lol
             __instance._uiManager._dialogUI.GetComponentInChildren<BattleDialogUI>(true).tmp_dialog.name = "AHUET";
             // __instance._uiManager._dialogUI.GetComponentInChildren<BattleDialogUI>(true).tmp_dialog.text = "<size=26><cspace=-1px><color=#ebcaa2><nobr>А-ах...Ты...неужели...</nobr>\n<nobr>Ты — мой Синклер...?!</nobr></color></cspace></size>";
             __instance._uiManager._dialogUI.GetComponentInChildren<BattleDialogUI>(true).tmp_dialog.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(4);

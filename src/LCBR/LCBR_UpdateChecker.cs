@@ -24,7 +24,7 @@ namespace LimbusLocalizeRUS
         }
         static void CheckModUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://github.com/Crescent-Corporation/LimbusLocalizeRUS/releases");
+            UnityWebRequest www = UnityWebRequest.Get("https://api.github.com/repos/kimght/LimbusCompanyRuMTL/releases/latest");
             www.timeout = 4;
             www.SendWebRequest();
             while (!www.isDone)
@@ -33,22 +33,23 @@ namespace LimbusLocalizeRUS
                 LCB_LCBRMod.LogWarning("Ошибка со связью с GitHub!" + www.error);
             else
             {
-                JSONArray releases = JSONNode.Parse(www.downloadHandler.text).AsArray;
-                string latestReleaseTag = releases[0]["tag_name"].Value;
-                string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
+                var latest = JSONNode.Parse(www.downloadHandler.text).AsObject;
+                string latestReleaseTag = latest["tag_name"].Value;
+//                string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
                 if (Version.Parse(LCB_LCBRMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = (latest2ReleaseTag == "v" + LCB_LCBRMod.VERSION ? "LimbusLocalizeRUS_BIE.7z" : "LimbusLocalizeRUS_BIE.zip") + latestReleaseTag;
-                    string download = "https://github.com/Crescent-Corporation/LimbusLocalizeRUS/releases/download/" + latestReleaseTag + "/" + updatelog;
+                    string updatelog = "LimbusCompanyRuMTL_BIE_" + latestReleaseTag;
+                    string download = $"https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/{latestReleaseTag}/{updatelog}.zip";
                     var dirs = download.Split('/');
                     string filename = LCB_LCBRMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
                         DownloadFileAsync(download, filename).GetAwaiter().GetResult();
                     UpdateCall = UpdateDel;
                 }
-                LCB_LCBRMod.LogWarning("Check Cyrillic Font Asset Update");
-                Action FontAssetUpdate = CheckCyrillicFontAssetUpdate;
-                new Thread(FontAssetUpdate).Start();
+                // TODO: Add cyrillic font update checker
+                // LCB_LCBRMod.LogWarning("Check Cyrillic Font Asset Update");
+                // Action FontAssetUpdate = CheckCyrillicFontAssetUpdate;
+                // new Thread(FontAssetUpdate).Start();
             }
         }
         static void CheckCyrillicFontAssetUpdate()
@@ -76,6 +77,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.OpenGamePath();
             Application.Quit();
         }
+        // TODO: Fix
         static async Task DownloadFileAsync(string url, string filePath)
         {
             LCB_LCBRMod.LogWarning("Download " + url + " To " + filePath);
@@ -87,7 +89,7 @@ namespace LimbusLocalizeRUS
         }
         public static void CheckReadmeUpdate()
         {
-            UnityWebRequest www = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Crescent-Corporation/LimbusLocalizeRUS/blob/Localize/Readme/Readme.json");
+            UnityWebRequest www = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kimght/LimbusCompanyRuMTL/blob/Localize/Readme/Readme.json");
             www.timeout = 1;
             www.SendWebRequest();
             string FilePath = LCB_LCBRMod.ModPath + "/Localize/Readme/Readme.json";
@@ -98,7 +100,7 @@ namespace LimbusLocalizeRUS
             }
             if (www.result == UnityWebRequest.Result.Success && LastWriteTime < DateTime.Parse(www.downloadHandler.text))
             {
-                UnityWebRequest www2 = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Crescent-Corporation/LimbusLocalizeRUS/blob/Localize/Readme/Readme.json");
+                UnityWebRequest www2 = UnityWebRequest.Get("https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kimght/LimbusCompanyRuMTL/blob/Localize/Readme/Readme.json");
                 www2.SendWebRequest();
                 while (!www2.isDone)
                 {

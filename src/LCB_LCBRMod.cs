@@ -16,11 +16,11 @@ namespace LimbusLocalizeRUS
         public static ConfigFile LCBR_Settings;
         public static string ModPath;
         public static string GamePath;
-        public const string GUID = "com.Knightey.LocalizeLimbusCompanyRUS";
-        public const string NAME = "LimbusLocalizeRUS";
-        public const string VERSION = "0.3.5";
-        public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode, Disaer";
-        public const string LCBRLink = "https://github.com/Crescent-Corporation/LimbusLocalizeRUS";
+        public const string GUID = "com.kimght.LimbusCompanyRuMTL";
+        public const string NAME = "LimbusCompanyRuMTL";
+        public const string VERSION = "0.1.0";
+        public const string AUTHOR = "Base: Bright\nRUS version: Knightey, abcdcode, Disaer\nMTL version: Bamboo-hatted Kim";
+        public const string LCBRLink = "https://github.com/kimght/LimbusCompanyRuMTL";
         public static Action<string, Action> LogFatalError { get; set; }
         public static Action<string> LogInfo { get; set; }
         public static Action<string> LogError { get; set; }
