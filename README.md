@@ -74,7 +74,10 @@
 1. Скачай [файл с русскими шрифтами](https://mega.nz/folder/jfpXCITY#lIR8cGWquj53lsC-73r7gQ/file/CS5GnaTB)
 2. Перенеси файл `tmpcyrillicfont` в `<Папка Игры>/BepInEx/plugins/LimbusCompanyRuMTL`
 
+# [Помочь с переводом](https://github.com/kimght/LimbusStory)
+
 # Благодарности
 - Команде [LLC](https://github.com/LocalizeLimbusCompany) за создание и поддержку проекта.
+- Анонам из [/pmg/ треда](https://2ch.hk/gacha/catalog.html) за поддержку.
 - [Авторам ручного русского перевода](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS).
 - <b>abcdcode</b> за помощь с кодом для улучшения отображения шрифтов.
