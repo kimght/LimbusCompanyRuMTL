@@ -20,6 +20,24 @@
 [![Последний релиз](https://img.shields.io/github/v/release/kimght/LimbusCompanyRuMTL?style=flat-square&label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&labelColor=%23707489&color=%23484f58)](../../releases/latest)
 </div>
 
+# Статус перевода
+## Основная история
+- [x] Пролог
+- [x] Глава 1
+- [x] Глава 2
+- [x] Глава 3
+- [x] Глава 4
+- [x] Глава 5
+- [x] Глава 6
+
+## Интерваллы
+- [x] **Hell's Chicken** 3.5
+- [ ] **S.E.A.** 4.5
+- [ ] **Miracle in District 20** 5.5 (1)
+- [x] **Yield My Flesh to Claim Their Bones** 5.5 (2)
+- [x] **Timekilling Time** 6.5 (1)
+- [ ] **Murder in the W.A.R.P. Train** 6.5 (2)
+
 # Установка
 ## Windows
 ### Установи .NET SDK (6.0)
