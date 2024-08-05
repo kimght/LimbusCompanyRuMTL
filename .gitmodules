@@ -1,4 +1,4 @@
 [submodule "Localize/RU/StoryData"]
 	path = Localize/RU/StoryData
-	url = git@github.com-kimght:kimght/LimbusStory.git
+	url = https://github.com/kimght/LimbusStory.git
 	branch = release
