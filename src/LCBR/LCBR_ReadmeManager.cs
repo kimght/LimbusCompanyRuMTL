@@ -212,8 +212,8 @@ namespace LimbusLocalizeRUS
             UIButtonInstance.transform.SetSiblingIndex(1);
             var spriteSetting = new ButtonSprites()
             {
-                _enabled = ReadmeButton["Readme_Crescent_Button"],
-                _hover = ReadmeButton["Readme_Crescent_Button"]
+                _enabled = ReadmeButton["Readme_MTL_Button"],
+                _hover = ReadmeButton["Readme_MTL_Button"]
             };
             UIButtonInstance.spriteSetting = spriteSetting;
             var transform = __instance.button_notice.transform.parent;
