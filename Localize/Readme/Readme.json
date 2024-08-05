@@ -8,7 +8,17 @@
       "endDate": "2024-12-31T23:00:00.000Z",
       "sprNameList": [],
       "title_KR": "Кредиты",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы MTL:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusCompanyRuMTL>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы оригинального мода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы ручного русского перевода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/Crescent-Corporation/LimbusCompanyBusRUS>GitHub</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Также благодарим <i>abcdcode</i> за помощь с кодом!</b>\"}]}"
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы MTL:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/kimght/LimbusCompanyRuMTL>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы оригинального мода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Авторы ручного русского перевода:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/Crescent-Corporation/LimbusCompanyBusRUS>GitHub</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Особая благодарность анонам из /pmg/ треда:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://2ch.hk/gacha/catalog.html>Двач</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"<b>Также благодарим <i>abcdcode</i> за помощь с кодом!</b>\"}]}"
+    },
+    {
+      "id": 2912,
+      "version": 0,
+      "type": 0,
+      "startDate": "2023-08-31T00:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Полный перевод истории (v1.0.0)",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Полный перевод истории\\n</size>\"},{\"formatKey\":\"Text\",\"formatValue\":\"v1.0.0\\n\\n<b>Добавлено</b>\\n - История 5-ой главы;\\n - История 6-ой главы;\\n - Значительно улучшен перевод 4-ой главы.\"}]}"
     },
     {
       "id": 2911,
