@@ -38,8 +38,8 @@ namespace LimbusLocalizeRUS
 //                string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
                 if (Version.Parse(LCB_LCBRMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = "LimbusCompanyRuMTL_BIE_" + latestReleaseTag;
-                    string download = $"https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/{latestReleaseTag}/{updatelog}.zip";
+                    string updatelog = "LimbusCompanyRuMTL_" + latestReleaseTag;
+                    string download = $"https://github.com/kimght/LimbusCompanyRuMTL/releases/download/{latestReleaseTag}/{updatelog}.zip";
                     var dirs = download.Split('/');
                     string filename = LCB_LCBRMod.GamePath + "/" + dirs[^1];
                     if (!File.Exists(filename))
