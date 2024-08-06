@@ -1,5 +1,5 @@
 namespace LimbusLocalizeRUS {
-    internal static class ThisAssembly {
+    internal static class BuildInfo {
         public const string Version = "{{VERSION}}";
     }
 }
