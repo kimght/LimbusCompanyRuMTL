@@ -28,7 +28,7 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     - name: Build Mod DLL
-      run: dotnet build ./src/LimbusCompanyBusRus.sln -c ML_Cpp_net6_interop /p:Version=${{ github.event.inputs.version }}
+      run: ./build.ps1 ${{ github.event.inputs.version }}
 
     - name: Prepare Release
       run: |
