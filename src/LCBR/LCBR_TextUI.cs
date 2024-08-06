@@ -1395,8 +1395,8 @@ namespace LimbusLocalizeRUS
                 return "Мерсо";
             else if (sinnerName == " Хон Лу")
                 return "Хон Лу";
-            else if (sinnerName == " Хитклифф")
-                return "Хитклиффа";
+            else if (sinnerName == " Хитклиф")
+                return "Хитклифа";
             else if (sinnerName == " Измаил")
                 return "Измаил";
             else if (sinnerName == " Родя")
