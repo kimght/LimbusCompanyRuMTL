@@ -4,7 +4,7 @@
 		<PlatformTarget>x64</PlatformTarget>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
 		<AllowedReferenceRelatedFileExtensions>none</AllowedReferenceRelatedFileExtensions>
 		<DebugSymbols>true</DebugSymbols>
 		<RootNamespace>LimbusLocalizeRUS</RootNamespace>
@@ -14,8 +14,14 @@
 		<Platforms>x64</Platforms>
 		<TargetFramework>net6.0-windows</TargetFramework>
 		<RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+
 		<Version>$(Version)</Version>
-        <DefineConstants>MOD_VERSION=$(Version);$(DefineConstants)</DefineConstants>
+		<AssemblyVersion>$(Version)</AssemblyVersion>
+		<FileVersion>$(Version)</FileVersion>
+		<Authors>Base: Bright; MTL version: Bamboo-hatted Kim (kimght); RUS version: Knightey, abcdcode, Disaer</Authors>
+		<Copyright>Copyright © 2024</Copyright>
+		<Title>LimbusCompanyRuMTL</Title>
+		<Product>LimbusCompanyRuMTL</Product>
 	</PropertyGroup>
 
 	<!-- ~~~~~ CONFIGURATIONS ~~~~~ -->

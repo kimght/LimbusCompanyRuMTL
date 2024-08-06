@@ -18,11 +18,7 @@ namespace LimbusLocalizeRUS
         public static string GamePath;
         public const string GUID = "com.kimght.LimbusCompanyRuMTL";
         public const string NAME = "LimbusCompanyRuMTL";
-# if MOD_VERSION
-        public const string VERSION = MOD_VERSION;
-# else
-        public const string VERSION = "1.0.0";
-# endif
+        public const string VERSION = typeof(LCB_LCBRMod).Assembly.GetName().Version.ToString();
         public const string AUTHOR = "Base: Bright\nMTL version: Bamboo-hatted Kim (kimght)\nRUS version: Knightey, abcdcode, Disaer";
         public const string LCBRLink = "https://github.com/kimght/LimbusCompanyRuMTL";
         public static Action<string, Action> LogFatalError { get; set; }
