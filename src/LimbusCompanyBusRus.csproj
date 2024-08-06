@@ -14,11 +14,9 @@
 		<Platforms>x64</Platforms>
 		<TargetFramework>net6.0-windows</TargetFramework>
 		<RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
-	</PropertyGroup>
-
-	<PropertyGroup>
+		<Version>$(Version)</Version>
         <DefineConstants>MOD_VERSION=$(Version);$(DefineConstants)</DefineConstants>
-    </PropertyGroup>
+	</PropertyGroup>
 
 	<!-- ~~~~~ CONFIGURATIONS ~~~~~ -->
 	<!-- ML IL2CPP Interop net6 -->
