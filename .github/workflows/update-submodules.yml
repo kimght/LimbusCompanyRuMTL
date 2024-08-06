@@ -11,10 +11,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: recursive
+        submodules: true
         
     - name: Sync Submodules
-      run: git submodule update --remote
+      run: |
+        git pull --recurse-submodules
+        git submodule update --remote --recursive
       
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
