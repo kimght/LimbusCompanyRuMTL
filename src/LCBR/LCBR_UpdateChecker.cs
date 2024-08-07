@@ -44,7 +44,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...");
 
             var metadata = await GetMetadata(latestCommitSha);
-            if (metadata == null)
+            if (metadata == null || metadata.Files == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get localization metadata.");
                 return;
@@ -75,11 +75,13 @@ namespace LimbusLocalizeRUS
             var response = await HttpClient.SendAsync(request);
             if (!response.IsSuccessStatusCode)
             {
-                Console.WriteLine($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
+                LCB_LCBRMod.LogWarning($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
                 return null;
             }
 
             var content = await response.Content.ReadAsStringAsync();
+            LCB_LCBRMod.LogInfo($"Got metadata: {content}");
+            
             var commitInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(content);
             return commitInfo["sha"]?.ToString();
         }
