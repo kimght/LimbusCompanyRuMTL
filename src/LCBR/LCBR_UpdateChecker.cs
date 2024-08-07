@@ -5,14 +5,150 @@ using System;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Security.Cryptography;
+using System.Text.Json;
 using UnityEngine;
 using UnityEngine.Networking;
 
 namespace LimbusLocalizeRUS
 {
+    public class LCBR_LocalizationUpdater
+    {
+        private static readonly string RepoOwner = "kimght";
+        private static readonly string RepoName = "LimbusLocalizeRU";
+        private static readonly string BranchName = "release";
+        private static readonly string LocalDirectory = LCB_LCBRMod.ModPath + "/Localize";
+        private static readonly HttpClient HttpClient = new HttpClient();
+        
+        public static void UpdateLocalizationSync() {
+            UpdateLocalization().GetAwaiter().GetResult();
+        }
+
+        public static async Task UpdateLocalization()
+        {
+            LCB_LCBRMod.LogWarning("Checking for localization updates...");
+            await UpdateLocalizationFiles();
+        }
+
+        public static async Task UpdateLocalizationFiles()
+        {
+            string latestCommitSha = await GetLatestCommitSha();
+            if (latestCommitSha == null)
+            {
+                LCB_LCBRMod.LogWarning("Failed to get the latest commit SHA.");
+                return;
+            }
+
+            var metadata = await GetMetadata(latestCommitSha);
+            if (metadata == null)
+            {
+                LCB_LCBRMod.LogWarning("Failed to get localization metadata.");
+                return;
+            }
+
+            foreach (var file in metadata.Files)
+            {
+                string localFilePath = Path.Combine(LocalDirectory, file.Path);
+                var localFileMetadata = GetLocalFileMetadata(localFilePath);
+
+                if (localFileMetadata == null || localFileMetadata.Checksum != file.Checksum)
+                {
+                    LCB_LCBRMod.LogInfo($"Updating file: {file.Path}");
+                    string fileUrl = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{latestCommitSha}/{file.Path}";
+                    await DownloadFile(fileUrl, localFilePath);
+                }
+            }
+        }
+
+        private static async Task<string> GetLatestCommitSha()
+        {
+            string url = $"https://api.github.com/repos/{RepoOwner}/{RepoName}/commits/{BranchName}";
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            request.Headers.Add("User-Agent", "LocalizationFileUpdater");
+
+            var response = await HttpClient.SendAsync(request);
+            if (!response.IsSuccessStatusCode)
+            {
+                Console.WriteLine($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
+                return null;
+            }
+
+            var content = await response.Content.ReadAsStringAsync();
+            var commitInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(content);
+            return commitInfo["sha"]?.ToString();
+        }
+
+        private static async Task<Metadata> GetMetadata(string commitSha)
+        {
+            string url = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{commitSha}/metadata.json";
+            var response = await HttpClient.GetStringAsync(url);
+
+            return JsonSerializer.Deserialize<Metadata>(response);
+        }
+
+        private static FileMetadata GetLocalFileMetadata(string filePath)
+        {
+            if (!File.Exists(filePath))
+            {
+                return null;
+            }
+
+            return new FileMetadata
+            {
+                Size = new FileInfo(filePath).Length,
+                Checksum = GetFileChecksum(filePath)
+            };
+        }
+
+        private static string GetFileChecksum(string filePath)
+        {
+            using (var md5 = MD5.Create())
+            {
+                using (var stream = File.OpenRead(filePath))
+                {
+                    var hash = md5.ComputeHash(stream);
+                    return BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
+                }
+            }
+        }
+
+        private static async Task DownloadFile(string url, string destPath)
+        {
+            var response = await HttpClient.GetByteArrayAsync(url);
+
+            string directoryPath = Path.GetDirectoryName(destPath);
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+
+            await File.WriteAllBytesAsync(destPath, response);
+        }
+
+        public class Metadata
+        {
+            public string Version { get; set; }
+            public List<FileData> Files { get; set; }
+        }
+
+        public class FileData
+        {
+            public string Path { get; set; }
+            public string Checksum { get; set; }
+        }
+
+        public class FileMetadata
+        {
+            public long Size { get; set; }
+            public string Checksum { get; set; }
+        }
+    }
+
     public static class LCBR_UpdateChecker
     {
         public static ConfigEntry<bool> AutoUpdate = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutoUpdate", true, "Auto update (true/false)");
+
         public static void StartAutoUpdate()
         {
             if (AutoUpdate.Value)
