@@ -38,6 +38,8 @@
 - [x] **Timekilling Time** 6.5 (1)
 - [ ] **Murder on the WARP express** 6.5 (2)
 
+---
+
 # Установка
 ## Windows
 ### Установи .NET SDK (6.0)
@@ -54,8 +56,8 @@
 2. Перемести папку `LimbusCompanyRuMTL` из архива в `<Папка Игры>\BepInEx\plugins`
 
 ### Установи шрифт
-1. Скачай [файл с русскими шрифтами](https://mega.nz/folder/jfpXCITY#lIR8cGWquj53lsC-73r7gQ/file/CS5GnaTB)
-2. Перенеси файл `tmpcyrillicfont` в `<Папка Игры>\BepInEx\plugins\LimbusCompanyRuMTL`
+1. Скачай [файл с русскими шрифтами](https://github.com/kimght/LimbusCyrillicFont/releases/latest)
+2. Перенеси файл `tmpcyrillicfont` из архива в `<Папка Игры>\BepInEx\plugins\LimbusCompanyRuMTL`
 
 ## Proton (Linux, Steam Deck)
 ### Установи [protontricks](https://github.com/Matoking/protontricks)
@@ -89,8 +91,32 @@
 2. Перемести папку `LimbusCompanyRuMTL` из архива в `<Папка Игры>/BepInEx/plugins`
 
 ### Установи шрифт
-1. Скачай [файл с русскими шрифтами](https://mega.nz/folder/jfpXCITY#lIR8cGWquj53lsC-73r7gQ/file/CS5GnaTB)
-2. Перенеси файл `tmpcyrillicfont` в `<Папка Игры>/BepInEx/plugins/LimbusCompanyRuMTL`
+1. Скачай [файл с русскими шрифтами](https://github.com/kimght/LimbusCyrillicFont/releases/latest)
+2. Перенеси файл `tmpcyrillicfont` из архива в `<Папка Игры>\BepInEx\plugins\LimbusCompanyRuMTL`
+
+---
+
+# Обновления
+> *Надеюсь, когда-нибудь я сделаю автоматический установщик...*
+
+## Шрифт
+Чтобы обновить шрифт просто замени файл `tmpcyrillicfont` на новую версию.
+
+## Мод
+1. Скачай [последнюю версию мода](../../releases/latest), если у тебя выключены автоматические обновления. Если включены, то мод сам её скачает по пути `<Папка Игры>\BepInEx\updates`
+2. Удали в папке `<Папка Игры>\BepInEx\plugins\LimbusCompanyRuMTL` всё, кроме файла шрифта (на всякий случай)
+3. Перенеси все файлы из папки `LimbusCompanyRuMTL` в архиве в папку `<Папка Игры>\BepInEx\plugins\LimbusCompanyRuMTL`
+
+---
+
+# Настройка
+При первом запуске мода автоматически создастся файл настроек по пути `<Папка Игры>/BepInEx/configs/com.kimght.LimbusCompanyRuMTL.cfg`.
+В его можно открыть в любом текстовом редакторе и задать параметры:
+1. **Авто-обновления** [AutoUpdate]: если стоит `true`, то при наличии нового обновления при входе в игру будет просить его скачать. Чтобы это отключить поменяй значение на `false`.
+2. **Русский язык** [IsUseRussian]: `true` если выбран русский язык. В ручную редактировать не обязательно, можно просто использовать опцию в настройках игры.
+3. **Смишные загрузки** [RandomLoadText]: поменяй на `true` чтобы включить *смишные* тексты в загрузках.
+
+---
 
 # [Помочь с переводом](https://github.com/kimght/LimbusStory)
 
