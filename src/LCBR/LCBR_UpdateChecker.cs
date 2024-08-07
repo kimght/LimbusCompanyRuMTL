@@ -43,7 +43,7 @@ namespace LimbusLocalizeRUS
                     string download = $"https://github.com/kimght/LimbusCompanyRuMTL/releases/download/{latestReleaseTag}/{UpdateLog}.zip";
                     var dirs = download.Split('/');
                     CreateUpdatesDirectory();
-                    string filename = LCB_LCBRMod.GamePath + "/BepInEx/updates/" + dirs[^1];
+                    string filename = LCB_LCBRMod.GamePath + $"/BepInEx/updates/{UpdateLog}.zip";
                     if (!File.Exists(filename))
                         DownloadFileAsync(download, filename).GetAwaiter().GetResult();
                     UpdateCall = UpdateDel;
