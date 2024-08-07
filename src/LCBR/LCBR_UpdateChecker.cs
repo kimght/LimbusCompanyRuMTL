@@ -80,7 +80,6 @@ namespace LimbusLocalizeRUS
             }
 
             var content = await response.Content.ReadAsStringAsync();
-            LCB_LCBRMod.LogInfo($"Got metadata: {content}");
             
             var commitInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(content);
             return commitInfo["sha"]?.ToString();
@@ -90,6 +89,7 @@ namespace LimbusLocalizeRUS
         {
             string url = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{commitSha}/metadata.json";
             var response = await HttpClient.GetStringAsync(url);
+            LCB_LCBRMod.LogInfo($"Got metadata: {response}");
 
             return JsonSerializer.Deserialize<Metadata>(response);
         }
