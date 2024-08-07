@@ -45,7 +45,7 @@ namespace LimbusLocalizeRUS
             else
                 loadingText.text = SelectOne(LoadingTexts);
             UserDataManager instance = Singleton<UserDataManager>.Instance;
-            if (instance._unlockCodeData.CheckUnlockStatus(106) && loadingText.text == LoadingTexts[20])
+            if (instance._unlockCodeData.CheckUnlockStatus(106))
                 loadingText.text = loadingText.text.Replace("Кэти", "■■■■");
         }
     }
