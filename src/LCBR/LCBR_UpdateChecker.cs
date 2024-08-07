@@ -40,12 +40,16 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
+            LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...")
+
             var metadata = await GetMetadata(latestCommitSha);
             if (metadata == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get localization metadata.");
                 return;
             }
+
+            LCB_LCBRMod.LogInfo($"Found {metadata.Files.Count} files in metadata.");
 
             foreach (var file in metadata.Files)
             {
@@ -128,13 +132,17 @@ namespace LimbusLocalizeRUS
 
         public class Metadata
         {
+            [JsonPropertyName("version")]
             public string Version { get; set; }
+            [JsonPropertyName("files")]
             public List<FileData> Files { get; set; }
         }
 
         public class FileData
         {
+            [JsonPropertyName("path")]
             public string Path { get; set; }
+            [JsonPropertyName("checksum")]
             public string Checksum { get; set; }
         }
 
