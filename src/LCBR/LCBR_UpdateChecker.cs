@@ -13,7 +13,7 @@ using UnityEngine.Networking;
 
 namespace LimbusLocalizeRUS
 {
-    public class LCBR_LocalizationUpdater
+    public static class LCBR_LocalizationUpdater
     {
         private static readonly string RepoOwner = "kimght";
         private static readonly string RepoName = "LimbusLocalizeRU";

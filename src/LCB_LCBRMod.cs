@@ -28,7 +28,6 @@ namespace LimbusLocalizeRUS
         public static void OpenLCBRURL() => Application.OpenURL(LCBRLink);
         public static void OpenGamePath() => Application.OpenURL(GamePath);
         public static void OpenModUpdatesPath() => Application.OpenURL(GamePath + "/BepInEx/updates");
-        public static LCBR_LocalizationUpdater LocalizationUpdater;
 
         public override void Load()
         {
@@ -40,8 +39,7 @@ namespace LimbusLocalizeRUS
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
             
-            LocalizationUpdater = new LCBR_LocalizationUpdater();
-            LocalizationUpdater.UpdateLocalizationSync();
+            LCBR_LocalizationUpdater.UpdateLocalizationSync();
 
             LCBR_UpdateChecker.StartAutoUpdate();
             try
