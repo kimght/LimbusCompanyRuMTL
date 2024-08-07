@@ -12,7 +12,7 @@ namespace LimbusLocalizeRUS
 {
     public static class LCBR_UpdateChecker
     {
-        public static ConfigEntry<bool> AutoUpdate = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutoUpdate", false, "Auto update (true/false)");
+        public static ConfigEntry<bool> AutoUpdate = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutoUpdate", true, "Auto update (true/false)");
         public static void StartAutoUpdate()
         {
             if (AutoUpdate.Value)

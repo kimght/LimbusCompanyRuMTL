@@ -12,7 +12,7 @@ namespace LimbusLocalizeRUS
         static List<string> LoadingTexts = new();
         static string Angela;
         static readonly string Raw = "<bounce f=0.5>Загрузка...</bounce>";
-        public static ConfigEntry<bool> RandomLoadText = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "RandomLoadText", true, "Решает, будут ли появляться случайные фразы загрузки или же базовая версия ( true | false )");
+        public static ConfigEntry<bool> RandomLoadText = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "RandomLoadText", false, "Решает, будут ли появляться случайные фразы загрузки или же базовая версия ( true | false )");
         static LCBR_LoadingManager() => InitLoadingTexts();
         public static void InitLoadingTexts()
         {
