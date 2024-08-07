@@ -40,7 +40,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...")
+            LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...");
 
             var metadata = await GetMetadata(latestCommitSha);
             if (metadata == null)
