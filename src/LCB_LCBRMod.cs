@@ -27,6 +27,7 @@ namespace LimbusLocalizeRUS
         public static Action<string> LogWarning { get; set; }
         public static void OpenLCBRURL() => Application.OpenURL(LCBRLink);
         public static void OpenGamePath() => Application.OpenURL(GamePath);
+        public static void OpenModUpdatesPath() => Application.OpenURL(GamePath + "/BepInEx/updates");
         public override void Load()
         {
             LCBR_Settings = Config;

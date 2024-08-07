@@ -138,7 +138,7 @@ namespace LimbusLocalizeRUS
         public static void CheckModActions()
         {
             if (LCBR_UpdateChecker.UpdateCall != null)
-                OpenGlobalPopup("Есть обновление" + LCBR_UpdateChecker.Updatelog + "Есть обновление!\nПожалуйста, выйдите из игры и обновите мод." + LCBR_UpdateChecker.Updatelog + "Распакуйте обновление пжаста", "Мод обновлён!", null, "OK", () =>
+                OpenGlobalPopup("Доступно обновление:\n" + LCBR_UpdateChecker.Updatelog + "\n\nПожалуйста, выйдите из игры и обновите мод.", "Мод обновлён!", null, "OK", () =>
                 {
                     LCBR_UpdateChecker.UpdateCall.Invoke();
                     LCBR_UpdateChecker.UpdateCall = null;

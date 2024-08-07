@@ -38,10 +38,12 @@ namespace LimbusLocalizeRUS
 //                string latest2ReleaseTag = releases.m_List.Count > 1 ? releases[1]["tag_name"].Value : string.Empty;
                 if (Version.Parse(LCB_LCBRMod.VERSION) < Version.Parse(latestReleaseTag.Remove(0, 1)))
                 {
-                    string updatelog = "LimbusCompanyRuMTL_" + latestReleaseTag;
-                    string download = $"https://github.com/kimght/LimbusCompanyRuMTL/releases/download/{latestReleaseTag}/{updatelog}.zip";
+                    LCB_LCBRMod.LogWarning($"New version {latestReleaseTag} is available!");
+                    UpdateLog = "LimbusCompanyRuMTL_" + latestReleaseTag;
+                    string download = $"https://github.com/kimght/LimbusCompanyRuMTL/releases/download/{latestReleaseTag}/{UpdateLog}.zip";
                     var dirs = download.Split('/');
-                    string filename = LCB_LCBRMod.GamePath + "/" + dirs[^1];
+                    CreateUpdatesDirectory();
+                    string filename = LCB_LCBRMod.GamePath + "/BepInEx/updates/" + dirs[^1];
                     if (!File.Exists(filename))
                         DownloadFileAsync(download, filename).GetAwaiter().GetResult();
                     UpdateCall = UpdateDel;
@@ -52,6 +54,11 @@ namespace LimbusLocalizeRUS
                 // new Thread(FontAssetUpdate).Start();
             }
         }
+        static void CreateUpdatesDirectory() {
+            if (!Directory.Exists(LCB_LCBRMod.GamePath + "/BepInEx/updates"))
+                Directory.CreateDirectory(LCB_LCBRMod.GamePath + "/updates");
+        }
+
         static void CheckCyrillicFontAssetUpdate()
         {
             UnityWebRequest www = UnityWebRequest.Get("https://drive.google.com/file/d/12JMuwx-93WTN-uO0xl3mGRhBzemUKYhJ/view?usp=drive_link");
@@ -74,7 +81,7 @@ namespace LimbusLocalizeRUS
         }
         static void UpdateDel()
         {
-            LCB_LCBRMod.OpenGamePath();
+            LCB_LCBRMod.OpenModUpdatesPath();
             Application.Quit();
         }
         // TODO: Fix
@@ -110,7 +117,7 @@ namespace LimbusLocalizeRUS
                 LCBR_ReadmeManager.InitReadmeList();
             }
         }
-        public static string Updatelog;
+        public static string UpdateLog;
         public static Action UpdateCall;
     }
 }
