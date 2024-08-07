@@ -56,7 +56,7 @@ namespace LimbusLocalizeRUS
         }
         static void CreateUpdatesDirectory() {
             if (!Directory.Exists(LCB_LCBRMod.GamePath + "/BepInEx/updates"))
-                Directory.CreateDirectory(LCB_LCBRMod.GamePath + "/updates");
+                Directory.CreateDirectory(LCB_LCBRMod.GamePath + "/BepInEx/updates");
         }
 
         static void CheckCyrillicFontAssetUpdate()
