@@ -2,6 +2,9 @@ name: Build Mod DLL
 
 on:
   workflow_dispatch:
+    inputs:
+      version:
+        description: 'Версия'   
 
 jobs:
 
