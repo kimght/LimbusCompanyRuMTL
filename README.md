@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/kimght/LimbusCompanyRuMTL">
-   <img src="https://github.com/kimght/LimbusCompanyRuMTL/blob/main/Localize/Readme/Readme_MTL_Button.png"
+   <img src="https://github.com/kimght/LimbusCompanyRuMTL/blob/main/assets/logo.png"
       width="200"
       height="200"/>
 </a>
