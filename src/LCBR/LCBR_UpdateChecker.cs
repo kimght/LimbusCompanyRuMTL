@@ -54,7 +54,7 @@ namespace LimbusLocalizeRUS
 
                 if (localFileMetadata == null || localFileMetadata.Checksum != file.Checksum)
                 {
-                    LCB_LCBRMod.LogInfo($"Updating file: {file.Path}");
+                    LCB_LCBRMod.LogInfo($"Updating file: {file.Path} ({localFileMetadata.Checksum})");
                     string fileUrl = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{latestCommitSha}/{file.Path}";
                     DownloadFile(fileUrl, localFilePath);
                 }
