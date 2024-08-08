@@ -23,7 +23,8 @@ namespace LimbusLocalizeRUS
         private static readonly HttpClient HttpClient = new HttpClient();
         
         public static void UpdateLocalizationSync() {
-            UpdateLocalization().GetAwaiter().GetResult();
+            var task = Task.Run(async () => await MyAsyncFunction());
+            task.Wait();
         }
 
         public static async Task UpdateLocalization()
