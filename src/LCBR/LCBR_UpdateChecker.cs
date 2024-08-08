@@ -25,6 +25,7 @@ namespace LimbusLocalizeRUS
         {
             LCB_LCBRMod.LogWarning("Checking for localization updates...");
             UpdateLocalizationFiles();
+            LCB_LCBRMod.LogWarning("Localization is up-to-date.");
         }
 
         private static void UpdateLocalizationFiles()
@@ -47,14 +48,17 @@ namespace LimbusLocalizeRUS
 
             LCB_LCBRMod.LogInfo($"Found {metadata.Files.Count} files in metadata.");
 
+            int processed = 0;
             foreach (var file in metadata.Files)
             {
+                processed += 1;
+
                 string localFilePath = Path.Combine(LocalDirectory, file.Path);
                 var localFileMetadata = GetLocalFileMetadata(localFilePath);
 
                 if (localFileMetadata == null || localFileMetadata.Checksum != file.Checksum)
                 {
-                    LCB_LCBRMod.LogInfo($"Updating file: {file.Path} ({localFileMetadata.Checksum})");
+                    LCB_LCBRMod.LogInfo($"[{processed}/{metadata.Files.Count}] Updating file: {file.Path}");
                     string fileUrl = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{latestCommitSha}/{file.Path}";
                     DownloadFile(fileUrl, localFilePath);
                 }
@@ -104,8 +108,6 @@ namespace LimbusLocalizeRUS
             }
 
             var content = request.downloadHandler.text;
-            LCB_LCBRMod.LogInfo($"Got metadata: {content}");
-
             return JsonSerializer.Deserialize<Metadata>(content);
         }
 
