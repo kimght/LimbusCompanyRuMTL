@@ -42,6 +42,9 @@ namespace LimbusLocalizeRUS
             }
 
             LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...");
+            await Task.Delay(2000);
+
+            return;
 
             var metadata = await GetMetadata(latestCommitSha);
             if (metadata == null || metadata.Files == null)
@@ -89,7 +92,6 @@ namespace LimbusLocalizeRUS
         {
             string url = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{commitSha}/metadata.json";
             LCB_LCBRMod.LogInfo($"Downloading metadata from {url}");
-            await Task.Delay(2000);
 
             var request = new HttpRequestMessage(HttpMethod.Get, url);
             
@@ -103,7 +105,6 @@ namespace LimbusLocalizeRUS
             var content = await response.Content.ReadAsStringAsync();
 
             LCB_LCBRMod.LogInfo($"Got metadata: {content}");
-            await Task.Delay(2000);
 
             return JsonSerializer.Deserialize<Metadata>(content);
         }
