@@ -21,11 +21,15 @@ namespace LimbusLocalizeRUS
         private static readonly string BranchName = "release";
         private static readonly string LocalDirectory = LCB_LCBRMod.ModPath + "/Localize";
 
+        public static ConfigEntry<bool> UpdateLocalizationCfg = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "UpdateLocalization", true, "Auto update localization (true/false)");
+
         public static void UpdateLocalizationSync()
         {
-            LCB_LCBRMod.LogWarning("Checking for localization updates...");
-            UpdateLocalizationFiles();
-            LCB_LCBRMod.LogWarning("Localization is up-to-date.");
+            if (UpdateLocalizationCfg.Value) {
+                LCB_LCBRMod.LogWarning("Checking for localization updates...");
+                UpdateLocalizationFiles();
+                LCB_LCBRMod.LogWarning("Localization is up-to-date.");
+            }
         }
 
         private static void UpdateLocalizationFiles()
