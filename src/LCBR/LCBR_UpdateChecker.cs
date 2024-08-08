@@ -20,22 +20,16 @@ namespace LimbusLocalizeRUS
         private static readonly string RepoName = "LimbusLocalizeRU";
         private static readonly string BranchName = "release";
         private static readonly string LocalDirectory = LCB_LCBRMod.ModPath + "/Localize";
-        private static readonly HttpClient HttpClient = new HttpClient();
-        
-        public static void UpdateLocalizationSync() {
-            var task = Task.Run(async () => await UpdateLocalization());
-            task.Wait();
-        }
 
-        public static async Task UpdateLocalization()
+        public static void UpdateLocalizationSync()
         {
             LCB_LCBRMod.LogWarning("Checking for localization updates...");
-            await UpdateLocalizationFiles();
+            UpdateLocalizationFiles();
         }
 
-        public static async Task UpdateLocalizationFiles()
+        private static void UpdateLocalizationFiles()
         {
-            string latestCommitSha = await GetLatestCommitSha();
+            string latestCommitSha = GetLatestCommitSha();
             if (latestCommitSha == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get the latest commit SHA.");
@@ -43,9 +37,8 @@ namespace LimbusLocalizeRUS
             }
 
             LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...");
-            await Task.Delay(2000);
 
-            var metadata = await GetMetadata(latestCommitSha);
+            var metadata = GetMetadata(latestCommitSha);
             if (metadata == null || metadata.Files == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get localization metadata.");
@@ -63,49 +56,61 @@ namespace LimbusLocalizeRUS
                 {
                     LCB_LCBRMod.LogInfo($"Updating file: {file.Path}");
                     string fileUrl = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{latestCommitSha}/{file.Path}";
-                    await DownloadFile(fileUrl, localFilePath);
+                    DownloadFile(fileUrl, localFilePath);
                 }
             }
         }
 
-        private static async Task<string> GetLatestCommitSha()
+        private static string GetLatestCommitSha()
         {
             string url = $"https://api.github.com/repos/{RepoOwner}/{RepoName}/commits/{BranchName}";
-            var request = new HttpRequestMessage(HttpMethod.Get, url);
-            request.Headers.Add("User-Agent", "LocalizationFileUpdater");
-
-            var response = await HttpClient.SendAsync(request);
-            if (!response.IsSuccessStatusCode)
+            using (UnityWebRequest request = UnityWebRequest.Get(url))
             {
-                LCB_LCBRMod.LogWarning($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
-                return null;
-            }
+                request.SetRequestHeader("User-Agent", "LocalizationFileUpdater");
+                request.SendWebRequest();
 
-            var content = await response.Content.ReadAsStringAsync();
-            
-            var commitInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(content);
-            return commitInfo["sha"]?.ToString();
+                while (!request.isDone)
+                {
+                    Thread.Sleep(100);
+                }
+
+                if (request.result != UnityWebRequest.Result.Success)
+                {
+                    LCB_LCBRMod.LogWarning($"Failed to fetch latest commit SHA: {request.error}");
+                    return null;
+                }
+
+                var content = request.downloadHandler.text;
+                var commitInfo = JsonSerializer.Deserialize<Dictionary<string, object>>(content);
+                return commitInfo["sha"]?.ToString();
+            }
         }
 
-        private static async Task<Metadata> GetMetadata(string commitSha)
+        private static Metadata GetMetadata(string commitSha)
         {
             string url = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{commitSha}/metadata.json";
             LCB_LCBRMod.LogInfo($"Downloading metadata from {url}");
 
-            var request = new HttpRequestMessage(HttpMethod.Get, url);
-            
-            var response = await HttpClient.SendAsync(request);
-            if (!response.IsSuccessStatusCode)
+            using (UnityWebRequest request = UnityWebRequest.Get(url))
             {
-                LCB_LCBRMod.LogWarning($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
-                return null;
+                request.SendWebRequest();
+
+                while (!request.isDone)
+                {
+                    Thread.Sleep(100);
+                }
+
+                if (request.result != UnityWebRequest.Result.Success)
+                {
+                    LCB_LCBRMod.LogWarning($"Failed to fetch metadata: {request.error}");
+                    return null;
+                }
+
+                var content = request.downloadHandler.text;
+                LCB_LCBRMod.LogInfo($"Got metadata");
+
+                return JsonSerializer.Deserialize<Metadata>(content);
             }
-
-            var content = await response.Content.ReadAsStringAsync();
-
-            LCB_LCBRMod.LogInfo($"Got metadata: {content}");
-
-            return JsonSerializer.Deserialize<Metadata>(content);
         }
 
         private static FileMetadata GetLocalFileMetadata(string filePath)
@@ -134,17 +139,33 @@ namespace LimbusLocalizeRUS
             }
         }
 
-        private static async Task DownloadFile(string url, string destPath)
+        private static void DownloadFile(string url, string destPath)
         {
-            var response = await HttpClient.GetByteArrayAsync(url);
-
-            string directoryPath = Path.GetDirectoryName(destPath);
-            if (!Directory.Exists(directoryPath))
+            using (UnityWebRequest request = UnityWebRequest.Get(url))
             {
-                Directory.CreateDirectory(directoryPath);
-            }
+                request.SendWebRequest();
 
-            await File.WriteAllBytesAsync(destPath, response);
+                while (!request.isDone)
+                {
+                    Thread.Sleep(10);
+                }
+
+                if (request.result != UnityWebRequest.Result.Success)
+                {
+                    LCB_LCBRMod.LogWarning($"Failed to download file: {request.error}");
+                    return;
+                }
+
+                var response = request.downloadHandler.data;
+
+                string directoryPath = Path.GetDirectoryName(destPath);
+                if (!Directory.Exists(directoryPath))
+                {
+                    Directory.CreateDirectory(directoryPath);
+                }
+
+                File.WriteAllBytes(destPath, response);
+            }
         }
 
         public class Metadata
