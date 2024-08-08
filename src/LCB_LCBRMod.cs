@@ -39,7 +39,7 @@ namespace LimbusLocalizeRUS
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
             
-            LCBR_LocalizationUpdater.UpdateLocalizationSync();
+            // LCBR_LocalizationUpdater.UpdateLocalizationSync();
 
             LCBR_UpdateChecker.StartAutoUpdate();
             try
