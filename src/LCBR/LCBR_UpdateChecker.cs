@@ -88,10 +88,21 @@ namespace LimbusLocalizeRUS
         private static async Task<Metadata> GetMetadata(string commitSha)
         {
             string url = $"https://raw.githubusercontent.com/{RepoOwner}/{RepoName}/{commitSha}/metadata.json";
-            var response = await HttpClient.GetStringAsync(url);
-            LCB_LCBRMod.LogInfo($"Got metadata: {response}");
+            LCB_LCBRMod.LogInfo($"Downloading metadata from {url}");
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            
+            var response = await HttpClient.SendAsync(request);
+            if (!response.IsSuccessStatusCode)
+            {
+                LCB_LCBRMod.LogWarning($"Failed to fetch latest commit SHA: {response.ReasonPhrase}");
+                return null;
+            }
 
-            return JsonSerializer.Deserialize<Metadata>(response);
+            var content = await response.Content.ReadAsStringAsync();
+
+            LCB_LCBRMod.LogInfo($"Got metadata: {content}");
+
+            return JsonSerializer.Deserialize<Metadata>(content);
         }
 
         private static FileMetadata GetLocalFileMetadata(string filePath)
