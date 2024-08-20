@@ -46,7 +46,7 @@
 1. Скачай и запусти [установщик](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer)
 
 ### Установи BepInEx
-1. Скачай арахив с [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/692/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.692%2B851521c.zip)
+1. Скачай архив с [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/692/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.692%2B851521c.zip)
 2. Чтобы найти папку игры, зайди в библиотеку Steam и нажми ПКМ по Limbus Company в списке игр. В контекстом меню выбери `Управление -> Посмотреть локальные файлы`
 3. Перенеси все файлы из архива с 1 шага в эту папку
 4. Запусти игру. Если при запуске открывается консоль, значит все ок. После того, как BepInEx установится, закрой игру
