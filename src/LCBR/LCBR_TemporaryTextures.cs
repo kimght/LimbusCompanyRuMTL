@@ -405,21 +405,6 @@ namespace LimbusLocalizeRUS
             {"violet", new Color(0.577f, 0.0118f, 0.502f, 0.75f)}
         };
 
-
-        [HarmonyPatch(typeof(MainLobbyUIPanel), nameof(MainLobbyUIPanel.ActiveDialog))]
-        [HarmonyPostfix]
-        private static void Lobby_Init(MainLobbyUIPanel __instance)
-        {
-            __instance.tmpro_dialog.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
-            __instance.tmpro_dialog.m_sharedMaterial.SetFloat("_GlowPower", 3);
-            __instance.tmpro_dialog.ForceMeshUpdate();
-            TextMeshProUGUI long_click = __instance._personalityAcquisitionAnimOwnerObj.GetComponentInChildren<TextMeshProUGUI>(true);
-            Color glow = new Color(__instance.tmpro_dialog.color.r, __instance.tmpro_dialog.color.g, __instance.tmpro_dialog.color.b, 0.25f);
-            Color glow_longclick = new Color(long_click.color.r, long_click.color.g, long_click.color.b, 0.25f);
-            __instance.tmpro_dialog.m_sharedMaterial.SetColor("_GlowColor", glow);
-            long_click.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
-            long_click.m_sharedMaterial.SetColor("_GlowColor", glow_longclick);
-        }
         [HarmonyPatch(typeof(TierUpEffectUIPanel), nameof(TierUpEffectUIPanel.SetupAndOpen))]
         [HarmonyPostfix]
         private static void TierUp_Init(TierUpEffectUIPanel __instance)
