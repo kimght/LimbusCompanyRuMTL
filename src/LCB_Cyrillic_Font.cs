@@ -419,7 +419,7 @@ namespace LimbusLocalizeRUS
             for (int i = 0; i < jsonarray.Count; i++)
             {
                 var jSONNode = jsonarray[i];
-                if (jSONNode.Count < 1)
+                if (jSONNode.Count < 1 || (jSONNode.Count == 1 && jSONNode[0].IsNumber))
                 {
                     s++;
                     continue;
