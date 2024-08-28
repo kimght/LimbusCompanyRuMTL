@@ -121,6 +121,8 @@
 
 ---
 
+# [Помочь с переводом](https://github.com/kimght/LimbusStory)
+
 # Благодарности
 - Команде [LLC](https://github.com/LocalizeLimbusCompany) за создание и поддержку проекта.
 - Анонам из [/pmg/ треда](https://2ch.hk/gacha/catalog.html) за поддержку.
