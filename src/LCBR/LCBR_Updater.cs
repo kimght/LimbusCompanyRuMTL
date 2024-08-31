@@ -116,7 +116,7 @@ namespace LimbusLocalizeRUS
             string latestChecksum = checksumRequest.downloadHandler.text.Trim();
 
             string localChecksum = GetFileChecksum(CyrillicFontPath);
-            if (localChecksum == latestChecksum)
+            if (localChecksum != null && localChecksum == latestChecksum)
             {
                 LCB_LCBRMod.LogInfo("Font is already up-to-date.");
                 return;
@@ -131,6 +131,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
+            LCB_LCBRMod.LogInfo("Downloading font update... This could take several minutes.");
             string tempZipPath = Path.Combine(Path.GetTempPath(), $"tmpcyrillicfonts_{releaseTag}.zip");
             DownloadFile(fontUrl, tempZipPath);
 
@@ -174,6 +175,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
+            LCB_LCBRMod.LogInfo("Downloading mod update... This could take several minutes.");
             string tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
             DownloadFile(modUrl, tempZipPath);
 
@@ -226,7 +228,9 @@ namespace LimbusLocalizeRUS
 
             System.IO.Compression.ZipFile.ExtractToDirectory(zipFilePath, extractPath);
 
-            string extractedModBinaryPath = Path.Combine(extractPath, ModBinaryName);
+            string modPath = Path.Combine(extractPath, LCB_LCBRMod.NAME);
+            string extractedModBinaryPath = Path.Combine(modPath, ModBinaryName);
+            
             if (File.Exists(extractedModBinaryPath))
             {
                 File.Copy(extractedModBinaryPath, destinationPath, true);
@@ -284,20 +288,26 @@ namespace LimbusLocalizeRUS
 
         private static FileMetadata GetLocalFileMetadata(string filePath)
         {
-            if (!File.Exists(filePath))
-            {
+            string localChecksum = GetFileChecksum(filePath);
+
+            if (localChecksum == null) {
                 return null;
             }
 
             return new FileMetadata
             {
                 Size = new FileInfo(filePath).Length,
-                Checksum = GetFileChecksum(filePath)
+                Checksum = localChecksum,
             };
         }
 
         private static string GetFileChecksum(string filePath)
         {
+            if (!File.Exists(filePath))
+            {
+                return null;
+            }
+
             using (var md5 = MD5.Create())
             {
                 using (var stream = File.OpenRead(filePath))

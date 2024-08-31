@@ -73,7 +73,7 @@ namespace LimbusLocalizeRUS
         {
             ReadmeSprites = new();
 
-            foreach (FileInfo fileInfo in new DirectoryInfo(LCB_LCBRMod.ModPath + "/Localize/Readme/Sprites").GetFiles().Where(f => f.Extension == ".jpg" || f.Extension == ".png"))
+            foreach (FileInfo fileInfo in new DirectoryInfo(LCB_LCBRMod.ModPath + "/Localize/Readme").GetFiles().Where(f => f.Extension == ".jpg" || f.Extension == ".png"))
             {
                 Texture2D texture2D = new(2, 2);
                 ImageConversion.LoadImage(texture2D, File.ReadAllBytes(fileInfo.FullName));
