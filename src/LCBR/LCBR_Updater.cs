@@ -89,14 +89,14 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string releaseTag = latestRelease["tag_name"]?.ToString();
+            string releaseTag = latestRelease["tag_name"].ToString();
             if (string.IsNullOrEmpty(releaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
                 return;
             }
 
-            string checksumUrl = latestRelease["assets"]?.EnumerateArray()
+            string checksumUrl = latestRelease["assets"].EnumerateArray()
                 .FirstOrDefault(a => a.GetProperty("name").GetString() == "checksum.txt")
                 .GetProperty("browser_download_url").GetString();
 
@@ -122,7 +122,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string fontUrl = latestRelease["assets"]?.EnumerateArray()
+            string fontUrl = latestRelease["assets"].EnumerateArray()
                 .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("tmpcyrillicfonts_"))
                 .GetProperty("browser_download_url").GetString();
             
@@ -150,7 +150,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string latestReleaseTag = latestRelease["tag_name"]?.ToString();
+            string latestReleaseTag = latestRelease["tag_name"].ToString();
             if (string.IsNullOrEmpty(latestReleaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
@@ -166,7 +166,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string modUrl = latestRelease["assets"]?.EnumerateArray()
+            string modUrl = latestRelease["assets"].EnumerateArray()
                 .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("LimbusCompanyRuMTL_"))
                 .GetProperty("browser_download_url").GetString();
 
