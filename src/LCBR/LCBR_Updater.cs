@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -95,7 +96,10 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string checksumUrl = latestRelease["assets"]?.FirstOrDefault(a => a["name"]?.ToString() == "checksum.txt")?["browser_download_url"]?.ToString();
+            string checksumUrl = latestRelease["assets"]?.EnumerateArray()
+                .FirstOrDefault(a => a.GetProperty("name").GetString() == "checksum.txt")
+                .GetProperty("browser_download_url").GetString();
+
             if (string.IsNullOrEmpty(checksumUrl))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the checksum URL.");
@@ -118,7 +122,10 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string fontUrl = latestRelease["assets"]?.FirstOrDefault(a => a["name"]?.ToString().StartsWith("tmpcyrillicfonts_"))?["browser_download_url"]?.ToString();
+            string fontUrl = latestRelease["assets"]?.EnumerateArray()
+                .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("tmpcyrillicfonts_"))
+                .GetProperty("browser_download_url").GetString();
+            
             if (string.IsNullOrEmpty(fontUrl))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the font download URL.");
@@ -159,7 +166,10 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string modUrl = latestRelease["assets"]?.FirstOrDefault(a => a["name"]?.ToString().StartsWith("LimbusCompanyRuMTL_"))?["browser_download_url"]?.ToString();
+            string modUrl = latestRelease["assets"]?.EnumerateArray()
+                .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("LimbusCompanyRuMTL_"))
+                .GetProperty("browser_download_url").GetString();
+
             if (string.IsNullOrEmpty(modUrl))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the mod download URL.");
@@ -174,7 +184,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
 
-        private static Dictionary<string, object> GetLatestRelease(string repo)
+        private static Dictionary<string, JsonElement> GetLatestRelease(string repo)
         {
             var request = GetUrl($"https://api.github.com/repos/{repo}/releases/latest");
 
@@ -185,7 +195,10 @@ namespace LimbusLocalizeRUS
             }
 
             var content = request.downloadHandler.text;
-            return JsonSerializer.Deserialize<Dictionary<string, object>>(content);
+            using (JsonDocument doc = JsonDocument.Parse(content))
+            {
+                return doc.RootElement.EnumerateObject().ToDictionary(p => p.Name, p => p.Value);
+            }
         }
 
         private static void ExtractAndReplaceFont(string zipFilePath, string destinationPath)
