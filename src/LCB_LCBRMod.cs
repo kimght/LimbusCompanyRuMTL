@@ -50,7 +50,6 @@ namespace LimbusLocalizeRUS
                     harmony.PatchAll(typeof(LCB_Cyrillic_Font));
                     harmony.PatchAll(typeof(LCBR_ReadmeManager));
                     harmony.PatchAll(typeof(LCBR_LoadingManager));
-                    harmony.PatchAll(typeof(LCBR_TemporaryTextures));
                     harmony.PatchAll(typeof(LCBR_SpriteUI));
                 }
                 harmony.PatchAll(typeof(LCBR_Manager));
@@ -67,7 +66,7 @@ namespace LimbusLocalizeRUS
                 LogError(e.ToString());
             }
         }
-        
+
         public static void CopyLog()
         {
             File.Copy(GamePath + "/BepInEx/LogOutput.log", GamePath + "/Latest.log", true);

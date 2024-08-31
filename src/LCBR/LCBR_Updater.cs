@@ -1,7 +1,4 @@
-﻿using SimpleJSON;
-using BepInEx.Configuration;
-using Il2CppSystem.Threading;
-using System;
+﻿using System;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -11,6 +8,8 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using UnityEngine;
 using UnityEngine.Networking;
+using BepInEx.Configuration;
+using Il2CppSystem.Threading;
 
 namespace LimbusLocalizeRUS
 {
@@ -175,7 +174,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
 
-        private static JSONNode GetLatestRelease(string repo)
+        private static Dictionary<string, object> GetLatestRelease(string repo)
         {
             var request = GetUrl($"https://api.github.com/repos/{repo}/releases/latest");
 
@@ -186,7 +185,7 @@ namespace LimbusLocalizeRUS
             }
 
             var content = request.downloadHandler.text;
-            return JSON.Parse(content);
+            return JsonSerializer.Deserialize<Dictionary<string, object>>(content);
         }
 
         private static void ExtractAndReplaceFont(string zipFilePath, string destinationPath)

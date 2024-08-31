@@ -490,7 +490,10 @@ namespace LimbusLocalizeRUS
                         abEventKeyDictionaryContainer = new AbEventKeyDictionaryContainer();
                         root._personalityDict[t.PersonalityID] = abEventKeyDictionaryContainer;
                     }
-                    string[] array = t.Usage.Trim().Split(['(', ')']);;
+
+                    // TODO: C# 12.0+
+                    string[] array = t.Usage.Trim().Split(new char[] { '(', ')' });
+
                     for (int i = 1; i < array.Length; i += 2)
                     {
                         string[] array2 = array[i].Split(',');
