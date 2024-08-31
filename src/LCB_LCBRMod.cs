@@ -15,6 +15,7 @@ namespace LimbusLocalizeRUS
     {
         public static ConfigFile LCBR_Settings;
         public static string ModPath;
+        public static string RunningAssemblyPath;
         public static string GamePath;
         public const string GUID = "com.kimght.LimbusCompanyRuMTL";
         public const string NAME = "LimbusCompanyRuMTL";
@@ -36,6 +37,7 @@ namespace LimbusLocalizeRUS
             LogError = (string log) => { Log.LogError(log); Debug.LogError(log); };
             LogWarning = (string log) => { Log.LogWarning(log); Debug.LogWarning(log); };
             LogFatalError = (string log, Action action) => { LCBR_Manager.FatalErrorlog += log + "\n"; LogError(log); LCBR_Manager.FatalErrorAction = action; LCBR_Manager.CheckModActions(); };
+            RunningAssemblyPath = Assembly.GetExecutingAssembly().Location;
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
             

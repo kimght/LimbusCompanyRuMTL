@@ -44,7 +44,7 @@ namespace LimbusLocalizeRUS
         {
             var modDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath);
             var backupDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath + "/backups");
-            var runningMod = new FileInfo(Assembly.GetExecutingAssembly().Location);
+            var runningMod = new FileInfo(LCB_LCBRMod.RunningAssemblyPath);
 
             backupDirectory.Create();
 
@@ -199,7 +199,7 @@ namespace LimbusLocalizeRUS
             string tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
             DownloadFile(modUrl, tempZipPath);
 
-            ExtractModBinary(tempZipPath, Path.Combine(GamePath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
+            ExtractModBinary(tempZipPath, Path.Combine(LCB_LCBRMod.GamePath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
 
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
@@ -253,9 +253,9 @@ namespace LimbusLocalizeRUS
                 .FirstOrDefault(file => file.Name.StartsWith(ModBinaryName) &&
                                         file.Extension == ".dll");
 
-            if (extractedModBinaryPath != null)
+            if (extractedModBinary != null)
             {
-                extractedModBinaryPath.CopyTo(destinationPath, true);
+                extractedModBinary.CopyTo(destinationPath, true);
             }
 
             Directory.Delete(extractPath, true);
