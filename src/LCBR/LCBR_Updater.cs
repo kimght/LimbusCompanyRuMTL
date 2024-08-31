@@ -25,17 +25,37 @@ namespace LimbusLocalizeRUS
         private static readonly string LocalizationDirectory = LCB_LCBRMod.ModPath + "/Localize";
 
         private static readonly string ModBinaryRepo = "kimght/LimbusCompanyRuMTL";
-        private static readonly string ModBinaryName = "LimbusCompanyBusRUS_BIE.dll";
-        private static readonly string ModBinaryPath = LCB_LCBRMod.ModPath + "/" + ModBinaryName;
+        private static readonly string ModBinaryName = "LimbusCompanyBusRUS_BIE";
 
         public static ConfigEntry<bool> AutomaticUpdatesCfg = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutomaticUpdates", true, "Auto update mod (true/false)");
 
         public static void UpdateModSync()
         {
+            DisableOldVersions();
+
             if (AutomaticUpdatesCfg.Value) {
                 UpdateLocalizationFiles();
                 UpdateFontFiles();
                 UpdateModBinary();
+            }
+        }
+
+        public static void DisableOldVersions()
+        {
+            var modDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath);
+            var backupDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath + "/backups");
+            var runningMod = new FileInfo(Assembly.GetExecutingAssembly().Location);
+
+            backupDirectory.Create();
+
+            foreach (FileInfo fileInfo in modDirectory.GetFiles()
+                        .Where(file => file.Name.StartsWith(ModBinaryName) && file.Extension == ".dll"))
+            {
+                if (fileInfo.Name == runningMod.Name) {
+                    continue;
+                }
+
+                fileInfo.MoveTo(Path.Combine(backupDirectory.FullName, fileInfo.Name + ".bak"));
             }
         }
 
@@ -179,7 +199,7 @@ namespace LimbusLocalizeRUS
             string tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
             DownloadFile(modUrl, tempZipPath);
 
-            ExtractAndReplaceModBinary(tempZipPath, ModBinaryPath);
+            ExtractModBinary(tempZipPath, Path.Combine(GamePath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
 
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
@@ -218,7 +238,7 @@ namespace LimbusLocalizeRUS
             File.Delete(zipFilePath);
         }
 
-        private static void ExtractAndReplaceModBinary(string zipFilePath, string destinationPath)
+        private static void ExtractModBinary(string zipFilePath, string destinationPath)
         {
             string extractPath = Path.Combine(Path.GetTempPath(), "lcbr_modbinary_extracted");
             if (Directory.Exists(extractPath))
@@ -228,12 +248,14 @@ namespace LimbusLocalizeRUS
 
             System.IO.Compression.ZipFile.ExtractToDirectory(zipFilePath, extractPath);
 
-            string modPath = Path.Combine(extractPath, LCB_LCBRMod.NAME);
-            string extractedModBinaryPath = Path.Combine(modPath, ModBinaryName);
-            
-            if (File.Exists(extractedModBinaryPath))
+            DirectoryInfo modDirectory = new (Path.Combine(extractPath, LCB_LCBRMod.NAME));
+            var extractedModBinary = modDirectory.EnumerateFiles()
+                .FirstOrDefault(file => file.Name.StartsWith(ModBinaryName) &&
+                                        file.Extension == ".dll");
+
+            if (extractedModBinaryPath != null)
             {
-                File.Copy(extractedModBinaryPath, destinationPath, true);
+                extractedModBinaryPath.CopyTo(destinationPath, true);
             }
 
             Directory.Delete(extractPath, true);
