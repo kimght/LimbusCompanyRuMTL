@@ -199,7 +199,7 @@ namespace LimbusLocalizeRUS
             string tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
             DownloadFile(modUrl, tempZipPath);
 
-            ExtractModBinary(tempZipPath, Path.Combine(LCB_LCBRMod.GamePath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
+            ExtractModBinary(tempZipPath, Path.Combine(LCB_LCBRMod.ModPath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
 
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
