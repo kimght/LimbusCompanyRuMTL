@@ -460,7 +460,7 @@ namespace LimbusLocalizeRUS
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
             LoadLocal(LOCALIZE_LANGUAGE.EN);
-            __instance.tmp_loginAccount.text = "MTL Русификатор Limbus Company v" + LCB_LCBRMod.VERSION;
+            __instance.tmp_loginAccount.text = "RU MTL Limbus Company v" + LCB_LCBRMod.VERSION;
             __instance.tmp_loginAccount.characterSpacing = -2;
             __instance.tmp_loginAccount.lineSpacing = -20;
         }

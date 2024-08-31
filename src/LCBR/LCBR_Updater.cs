@@ -248,7 +248,7 @@ namespace LimbusLocalizeRUS
 
             System.IO.Compression.ZipFile.ExtractToDirectory(zipFilePath, extractPath);
 
-            DirectoryInfo modDirectory = new (Path.Combine(extractPath, LCB_LCBRMod.NAME));
+            var modDirectory = new DirectoryInfo(Path.Combine(extractPath, LCB_LCBRMod.NAME));
             var extractedModBinary = modDirectory.EnumerateFiles()
                 .FirstOrDefault(file => file.Name.StartsWith(ModBinaryName) &&
                                         file.Extension == ".dll");

@@ -34,7 +34,7 @@ jobs:
       run: |
         New-Item -ItemType Directory -Path "Release/ModData" -Force
         Copy-Item -Path Localize "Release/ModData" -Recurse
-        Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/ModData" 
+        Copy-Item -Path Release/LimbusCompanyBusRUS_BIE.dll "Release/ModData/LimbusCompanyBusRUS_BIE_${{ github.event.inputs.version }}.dll" 
       
     - name: Upload build artifacts
       uses: actions/upload-artifact@v4
