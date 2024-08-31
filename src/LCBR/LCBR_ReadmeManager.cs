@@ -32,10 +32,10 @@ namespace LimbusLocalizeRUS
                     {
                         LCB_LCBRMod.CopyLog();
                         LCB_LCBRMod.OpenGamePath();
-                        Application.OpenURL(LCB_LCBRMod.LCBRLink + "/issues?q=is:issue")
+                        Application.OpenURL(LCB_LCBRMod.LCBRLink + "/issues?q=is:issue");
                     }
                 }
-            }
+            };
         }
         public static void UIInitialize()
         {
