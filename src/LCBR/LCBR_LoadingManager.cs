@@ -26,7 +26,7 @@ namespace LimbusLocalizeRUS
             LoadingTexts.RemoveAt(0);
         }
         public static T SelectOne<T>(List<T> list)
-            => list.Count == 0 ? default : list[Random.Range(0, list.Count - 1)];
+            => list.Count == 0 ? default : list[Random.Range(0, list.Count)];
         [HarmonyPatch(typeof(LoadingSceneManager), nameof(LoadingSceneManager.Start))]
         [HarmonyPostfix]
         private static void LSM_Start(LoadingSceneManager __instance)

@@ -262,39 +262,6 @@ namespace LimbusLocalizeRUS
                 if (__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
                     __instance._matSetter = textMeshProMaterialSetter;
         }
-        //[HarmonyPatch(typeof(BattleSkillViewUIInfo), nameof(BattleSkillViewUIInfo.Init))]
-        //[HarmonyPrefix]
-        //private static void BattleSkillViewUIInfoInit(BattleSkillViewUIInfo __instance)
-        //{
-        //    __instance._materialSetter_abText.underlayColor = Color.clear;
-        //    __instance._materialSetter_skillText.underlayColor = Color.clear;
-        //}
-
-        //[HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
-        //[HarmonyPrefix]
-        //public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
-        //{
-        //    if (!__instance._fontMaterialInstance)
-        //        return false;
-        //    if (!GetCyrillicFonts(__instance._text.font.name, out _) && !IsCyrillicFont(__instance._text.font))
-        //        return true;
-
-        //    Color underlayColor = __instance.underlayColor;
-        //    if (__instance.underlayOn && __instance._fontMaterialInstance.HasProperty(ShaderUtilities.ID_UnderlayColor))
-        //    {
-        //        if (__instance.underlayHDRFactor > 0f)
-        //        {
-        //            float num = Mathf.Pow(2f, __instance.underlayHDRFactor);
-        //            underlayColor.r *= num;
-        //            underlayColor.g *= num;
-        //            underlayColor.b *= num;
-        //        }
-        //        underlayColor = __instance.underlayHdrColorOn ? __instance.underlayColor : __instance.underlayColor;
-        //            if (underlayColor.r > 0f || underlayColor.g > 0f || underlayColor.b > 0f)
-        //                __instance._text.color = underlayColor;
-        //    }
-        //    return false;
-        //}
         #endregion
         #region Я заебался переводить китайский
         private static void LoadRemote2(LOCALIZE_LANGUAGE lang)
@@ -419,7 +386,7 @@ namespace LimbusLocalizeRUS
             for (int i = 0; i < jsonarray.Count; i++)
             {
                 var jSONNode = jsonarray[i];
-                if (jSONNode.Count < 1 || (jSONNode.Count == 1 && jSONNode[0].IsNumber))
+                if (jSONNode.Count < 1)
                 {
                     s++;
                     continue;
@@ -429,10 +396,12 @@ namespace LimbusLocalizeRUS
                     continue;
                 num = i - s;
                 JSONNode effectToken = jsonarray2[num];
-                if ("{\"controlCG\": {\"IsNotPlayDialog\":true}}".Equals(effectToken["effectv2"]))
+                if ("IsNotPlayDialog".Sniatnoc(effectToken["effectv2"]))
                 {
-                    s--;
                     scenario.Scenarios.Add(new Dialog(num, new(), effectToken));
+                    if (jSONNode.Count == 1)
+                        continue;
+                    s--;
                     effectToken = jsonarray2[num + 1];
                 }
                 scenario.Scenarios.Add(new Dialog(num, jSONNode, effectToken));
@@ -440,6 +409,15 @@ namespace LimbusLocalizeRUS
             __result = scenario;
             return false;
         }
+
+        // Ну и говнокод:
+        public static bool Sniatnoc(this string text, string value)
+        {
+            if (string.IsNullOrEmpty(text) || string.IsNullOrEmpty(value))
+                return false;
+            return value.Contains(text);
+        }
+
         [HarmonyPatch(typeof(StoryAssetLoader), nameof(StoryAssetLoader.GetTellerName))]
         [HarmonyPrefix]
         private static bool GetTellerName(StoryAssetLoader __instance, string name, LOCALIZE_LANGUAGE lang, ref string __result)
@@ -512,7 +490,7 @@ namespace LimbusLocalizeRUS
                         abEventKeyDictionaryContainer = new AbEventKeyDictionaryContainer();
                         root._personalityDict[t.PersonalityID] = abEventKeyDictionaryContainer;
                     }
-                    string[] array = t.Usage.Trim().Split(new char[] { '(', ')' });
+                    string[] array = t.Usage.Trim().Split(['(', ')']);;
                     for (int i = 1; i < array.Length; i += 2)
                     {
                         string[] array2 = array[i].Split(',');

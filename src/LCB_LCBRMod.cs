@@ -39,9 +39,8 @@ namespace LimbusLocalizeRUS
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
             
-            LCBR_LocalizationUpdater.UpdateLocalizationSync();
+            LCBR_Updater.UpdateModSync();
 
-            LCBR_UpdateChecker.StartAutoUpdate();
             try
             {
                 HarmonyLib.Harmony harmony = new(NAME);
@@ -53,29 +52,14 @@ namespace LimbusLocalizeRUS
                     harmony.PatchAll(typeof(LCBR_LoadingManager));
                     harmony.PatchAll(typeof(LCBR_TemporaryTextures));
                     harmony.PatchAll(typeof(LCBR_SpriteUI));
-                    harmony.PatchAll(typeof(LCBR_TextUI));
-                    harmony.PatchAll(typeof(LCBR_StoryUI));
-                    harmony.PatchAll(typeof(LCBR_CreditsUI));
-                    harmony.PatchAll(typeof(LCBR_EventUI));
-                    harmony.PatchAll(typeof(LCBR_SeasonUI));
                 }
                 harmony.PatchAll(typeof(LCBR_Manager));
                 harmony.PatchAll(typeof(LCBR_Russian_Settings));
+
                 if (!LCB_Cyrillic_Font.AddCyrillicFont(ModPath + "/tmpcyrillicfonts"))
                     LogFatalError("You have forgotten to install Font Update Mod. Please, reread README on Github.", OpenLCBRURL);
+                
                 LogInfo(AUTHOR);
-                LogInfo("Fonts: ");
-                for (int i = 0; i < LCB_Cyrillic_Font.tmpcyrillicfonts.Count; i++)
-                {
-                    LogInfo(LCB_Cyrillic_Font.GetCyrillicFonts(i).name + " " + i);
-                }
-                LogInfo("-------------------------\n");
-                LogInfo("Materials: ");
-                for (int i = 0; i < LCB_Cyrillic_Font.tmpcyrillicmats.Count; i++)
-                {
-                    LogInfo(LCB_Cyrillic_Font.GetCyrillicMats(i).name + " " + i);
-                }
-                LogInfo("-------------------------\n");
             }
             catch (Exception e)
             {
@@ -83,6 +67,7 @@ namespace LimbusLocalizeRUS
                 LogError(e.ToString());
             }
         }
+        
         public static void CopyLog()
         {
             File.Copy(GamePath + "/BepInEx/LogOutput.log", GamePath + "/Latest.log", true);

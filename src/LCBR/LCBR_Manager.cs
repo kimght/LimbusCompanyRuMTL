@@ -125,20 +125,15 @@ namespace LimbusLocalizeRUS
         [HarmonyPostfix]
         public static void CheckModActions()
         {
-            if (LCBR_UpdateChecker.UpdateCall != null)
-                OpenGlobalPopup("Доступно обновление:\n" + LCBR_UpdateChecker.UpdateLog + "\n\nПожалуйста, выйдите из игры и обновите мод.", "Мод обновлён!", null, "OK", () =>
-                {
-                    LCBR_UpdateChecker.UpdateCall.Invoke();
-                    LCBR_UpdateChecker.UpdateCall = null;
-                    LCBR_UpdateChecker.UpdateLog = string.Empty;
-                });
-            else if (FatalErrorAction != null)
+            if (FatalErrorAction != null) {
                 OpenGlobalPopup(FatalErrorlog, "Произошла фатальная ошибка!", null, "Перейти на Гитхаб", () =>
-                {
-                    FatalErrorAction.Invoke();
-                    FatalErrorAction = null;
-                    FatalErrorlog = string.Empty;
-                });
+                    {
+                        FatalErrorAction.Invoke();
+                        FatalErrorAction = null;
+                        FatalErrorlog = string.Empty;
+                    }
+                );
+            }
         }
     }
 }
