@@ -89,16 +89,16 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string releaseTag = latestRelease["tag_name"].ToString();
+            string releaseTag = latestRelease.TagName;
             if (string.IsNullOrEmpty(releaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
                 return;
             }
 
-            string checksumUrl = latestRelease["assets"].EnumerateArray()
-                .FirstOrDefault(a => a.GetProperty("name").GetString() == "checksum.txt")
-                .GetProperty("browser_download_url").GetString();
+            string checksumUrl = latestRelease.Assets
+                .FirstOrDefault(a => a.Name == "checksum.txt")?.DownloadUrl;
+                
 
             if (string.IsNullOrEmpty(checksumUrl))
             {
@@ -122,9 +122,8 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string fontUrl = latestRelease["assets"].EnumerateArray()
-                .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("tmpcyrillicfonts_"))
-                .GetProperty("browser_download_url").GetString();
+            string fontUrl = latestRelease.Assets
+                .FirstOrDefault(a => a.Name.StartsWith("tmpcyrillicfonts_"))?.DownloadUrl;
             
             if (string.IsNullOrEmpty(fontUrl))
             {
@@ -150,7 +149,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string latestReleaseTag = latestRelease["tag_name"].ToString();
+            string latestReleaseTag = latestRelease.TagName;
             if (string.IsNullOrEmpty(latestReleaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
@@ -166,9 +165,8 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string modUrl = latestRelease["assets"].EnumerateArray()
-                .FirstOrDefault(a => a.GetProperty("name").GetString().StartsWith("LimbusCompanyRuMTL_"))
-                .GetProperty("browser_download_url").GetString();
+            string modUrl = latestRelease.Assets
+                .FirstOrDefault(a => a.Name.StartsWith("LimbusCompanyRuMTL_"))?.DownloadUrl;
 
             if (string.IsNullOrEmpty(modUrl))
             {
@@ -184,7 +182,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.LogWarning("Mod updated successfully.");
         }
 
-        private static Dictionary<string, JsonElement> GetLatestRelease(string repo)
+        private static GithubRelease GetLatestRelease(string repo)
         {
             var request = GetUrl($"https://api.github.com/repos/{repo}/releases/latest");
 
@@ -195,10 +193,7 @@ namespace LimbusLocalizeRUS
             }
 
             var content = request.downloadHandler.text;
-            using (JsonDocument doc = JsonDocument.Parse(content))
-            {
-                return doc.RootElement.EnumerateObject().ToDictionary(p => p.Name, p => p.Value);
-            }
+            return JsonSerializer.Deserialize<GithubRelease>(content);
         }
 
         private static void ExtractAndReplaceFont(string zipFilePath, string destinationPath)
@@ -354,6 +349,22 @@ namespace LimbusLocalizeRUS
         {
             public long Size { get; set; }
             public string Checksum { get; set; }
+        }
+
+        public class GithubRelease
+        {
+            [JsonPropertyName("tag_name")]
+            public string TagName { get; set; }
+            [JsonPropertyName("assets")]
+            public List<GithubReleaseAsset> Assets { get; set; }
+        }
+
+        public class GithubReleaseAsset
+        {
+            [JsonPropertyName("name")]
+            public string Name { get; set; }
+            [JsonPropertyName("browser_download_url")]
+            public string DownloadUrl { get; set; }
         }
     }
 }
