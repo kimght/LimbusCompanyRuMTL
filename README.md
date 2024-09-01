@@ -32,8 +32,8 @@
 
 ## Интерваллы
 - [x] **Hell's Chicken** 3.5
-- [ ] **S.E.A.** 4.5
-- [ ] **Miracle in District 20** 5.5 (1)
+- [x] **S.E.A.** 4.5
+- [x] **Miracle in District 20** 5.5 (1)
 - [x] **Yield My Flesh to Claim Their Bones** 5.5 (2)
 - [x] **Timekilling Time** 6.5 (1)
 - [x] **Murder on the WARP express** 6.5 (2)
