@@ -3,6 +3,8 @@ using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
 using SimpleJSON;
 using StorySystem;
+using MainUI;
+using UtilityUI;
 using System;
 using System.IO;
 using TMPro;
