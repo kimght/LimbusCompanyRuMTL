@@ -1,6 +1,6 @@
 ﻿using Addressable;
 using HarmonyLib;
-using Il2CppSystem.Collections.Generic;
+using System.Collections.Generic;
 using SimpleJSON;
 using StorySystem;
 using MainUI;
