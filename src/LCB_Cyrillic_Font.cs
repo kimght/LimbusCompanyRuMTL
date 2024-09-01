@@ -262,6 +262,59 @@ namespace LimbusLocalizeRUS
                 if (__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
                     __instance._matSetter = textMeshProMaterialSetter;
         }
+
+        [HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
+        [HarmonyPrefix]
+        public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
+        {
+            if (!__instance._text.font.name.StartsWith("Pretendard-Regular") && !__instance._text.font.name.StartsWith("Mikodacs") || !LCB_Cyrillic_Font.GetCyrillicFonts(__instance._text.font.name, out _) && !LCB_Cyrillic_Font.IsCyrillicFont(__instance._text.font))
+                return true;
+            Color underlay = __instance._text.fontMaterial.GetColor("_UnderlayColor");
+
+            if (__instance._text.font.name.StartsWith("Pretendard-Regular"))
+                __instance._text.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
+
+            Color underlayColor = __instance.underlayColor;
+
+            if (__instance._text.font.name.StartsWith("Pretendard-Regular"))
+            {
+                if (__instance.underlayOn && __instance._fontMaterialInstance.HasProperty(ShaderUtilities.ID_UnderlayColor))
+                {
+                    underlayColor = __instance.underlayHdrColorOn ? __instance.underlayHdrColor : underlayColor;
+                    if (underlayColor.r > 0f || underlayColor.g > 0f || underlayColor.b > 0f)
+                        __instance._text.color = underlayColor;
+                }
+
+                if (__instance.Text.text.EndsWith("</color>"))
+                {
+                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
+                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
+                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
+                    __instance._text.color = __instance.faceColor;
+                    return false;
+                }
+                else if (__instance.underlayHdrColorOn == false)
+                {
+                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
+                    __instance._text.fontMaterial.SetColor("_GlowColor", underlayColor);
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
+                    __instance._text.color = ColorSchemes["whiteish"];
+                    return false;
+                }
+                else
+                {
+                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
+                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
+                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
+                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
+                    __instance._text.color = ColorSchemes["charcoal"];
+                    return false;
+                }
+            }
+            return false;
+        }
+
         #endregion
         #region Я заебался переводить китайский
         private static void LoadRemote2(LOCALIZE_LANGUAGE lang)
@@ -448,12 +501,12 @@ namespace LimbusLocalizeRUS
         [HarmonyPrefix]
         private static void LoadRemote(ref LOCALIZE_LANGUAGE lang)
            => lang = LOCALIZE_LANGUAGE.EN;
-        [HarmonyPatch(typeof(StoryData), nameof(StoryData.Init))]
+        [HarmonyPatch(typeof(StoryAssetLoader), nameof(StoryAssetLoader.Init))]
         [HarmonyPostfix]
-        private static void StoryDataInit(StoryData __instance)
+        private static void StoryDataInit(StoryAssetLoader __instance)
         {
             foreach (ScenarioAssetData scenarioAssetData in JsonUtility.FromJson<ScenarioAssetDataList>(LCBR_Manager.Localizes["NickName"]).assetData)
-                __instance._modelAssetMap._modelAssetMap[scenarioAssetData.name] = scenarioAssetData;
+                __instance._modelAssetMap[scenarioAssetData.name] = scenarioAssetData;
         }
         [HarmonyPatch(typeof(LoginSceneManager), nameof(LoginSceneManager.SetLoginInfo))]
         [HarmonyPostfix]
