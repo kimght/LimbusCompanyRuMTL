@@ -16,31 +16,48 @@ namespace LimbusLocalizeRUS
 {
     public static class LCBR_Updater
     {
-        private static readonly string CyrillicFontRepo = "kimght/LimbusCyrillicFont";
-        private static readonly string CyrillicFontName = "tmpcyrillicfonts";
+        private const string CyrillicFontRepo = "kimght/LimbusCyrillicFont";
+        private const string CyrillicFontName = "tmpcyrillicfonts";
         private static readonly string CyrillicFontPath = LCB_LCBRMod.ModPath + "/" + CyrillicFontName;
 
-        private static readonly string LocalizationRepo = "kimght/LimbusLocalizeRU";
-        private static readonly string LocalizationBranchName = "release";
+        private const string LocalizationRepo = "kimght/LimbusLocalizeRU";
+        private const string LocalizationBranchName = "release";
         private static readonly string LocalizationDirectory = LCB_LCBRMod.ModPath + "/Localize";
 
-        private static readonly string ModBinaryRepo = "kimght/LimbusCompanyRuMTL";
-        private static readonly string ModBinaryName = "LimbusCompanyBusRUS_BIE";
+        private const string ModBinaryRepo = "kimght/LimbusCompanyRuMTL";
+        private const string ModBinaryName = "LimbusCompanyBusRUS_BIE";
 
-        public static ConfigEntry<bool> AutomaticUpdatesCfg = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutomaticUpdates", true, "Auto update mod (true/false)");
+        private static ConfigEntry<bool> _automaticUpdatesCfg = LCB_LCBRMod.LCBR_Settings.Bind("LCBR Settings", "AutomaticUpdates", true, "Auto update mod (true/false)");
 
         public static void UpdateModSync()
         {
             DisableOldVersions();
 
-            if (AutomaticUpdatesCfg.Value) {
+            if (!_automaticUpdatesCfg.Value)
+            {
+                return;
+            }
+            
+            try {
                 UpdateLocalizationFiles();
+            } catch (Exception e) {
+                LCB_LCBRMod.LogWarning($"Failed to update localization: {e.Message}");
+            }
+            
+            try {
                 UpdateFontFiles();
+            } catch (Exception e) {
+                LCB_LCBRMod.LogWarning($"Failed to update font: {e.Message}");
+            }
+            
+            try {
                 UpdateModBinary();
+            } catch (Exception e) {
+                LCB_LCBRMod.LogWarning($"Failed to update mod: {e.Message}");
             }
         }
 
-        public static void DisableOldVersions()
+        private static void DisableOldVersions()
         {
             var modDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath);
             var backupDirectory = new DirectoryInfo(LCB_LCBRMod.ModPath + "/backups");
@@ -48,7 +65,7 @@ namespace LimbusLocalizeRUS
 
             backupDirectory.Create();
 
-            foreach (FileInfo fileInfo in modDirectory.GetFiles()
+            foreach (var fileInfo in modDirectory.GetFiles()
                         .Where(file => file.Name.StartsWith(ModBinaryName) && file.Extension == ".dll"))
             {
                 if (fileInfo.Name == runningMod.Name) {
@@ -62,7 +79,7 @@ namespace LimbusLocalizeRUS
         private static void UpdateLocalizationFiles()
         {
             LCB_LCBRMod.LogWarning("Checking for localization updates...");
-            string latestCommitSha = GetLatestCommitSha(LocalizationRepo, LocalizationBranchName);
+            var latestCommitSha = GetLatestCommitSha(LocalizationRepo, LocalizationBranchName);
             if (latestCommitSha == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get the latest commit SHA.");
@@ -72,7 +89,7 @@ namespace LimbusLocalizeRUS
             LCB_LCBRMod.LogInfo($"Loading metadata from {latestCommitSha}...");
 
             var metadata = GetLocalizationMetadata(latestCommitSha);
-            if (metadata == null || metadata.Files == null)
+            if (metadata?.Files == null)
             {
                 LCB_LCBRMod.LogWarning("Failed to get localization metadata.");
                 return;
@@ -80,20 +97,22 @@ namespace LimbusLocalizeRUS
 
             LCB_LCBRMod.LogInfo($"Found {metadata.Files.Count} files in metadata.");
 
-            int processed = 0;
+            var processed = 0;
             foreach (var file in metadata.Files)
             {
                 processed += 1;
 
-                string localFilePath = Path.Combine(LocalizationDirectory, file.Path);
+                var localFilePath = Path.Combine(LocalizationDirectory, file.Path);
                 var localFileMetadata = GetLocalFileMetadata(localFilePath);
 
-                if (localFileMetadata == null || localFileMetadata.Checksum != file.Checksum)
+                if (localFileMetadata?.Checksum == file.Checksum)
                 {
-                    LCB_LCBRMod.LogInfo($"[{processed}/{metadata.Files.Count}] Updating file: {file.Path}");
-                    string fileUrl = $"https://raw.githubusercontent.com/{LocalizationRepo}/{latestCommitSha}/{file.Path}";
-                    DownloadFile(fileUrl, localFilePath);
+                    continue;
                 }
+                
+                LCB_LCBRMod.LogInfo($"[{processed}/{metadata.Files.Count}] Updating file: {file.Path}");
+                var fileUrl = $"https://raw.githubusercontent.com/{LocalizationRepo}/{latestCommitSha}/{file.Path}";
+                DownloadFile(fileUrl, localFilePath);
             }
 
             LCB_LCBRMod.LogWarning("Localization is up-to-date.");
@@ -109,14 +128,14 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string releaseTag = latestRelease.TagName;
+            var releaseTag = latestRelease.TagName;
             if (string.IsNullOrEmpty(releaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
                 return;
             }
 
-            string checksumUrl = latestRelease.Assets
+            var checksumUrl = latestRelease.Assets
                 .FirstOrDefault(a => a.Name == "checksum.txt")?.DownloadUrl;
                 
 
@@ -133,16 +152,16 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string latestChecksum = checksumRequest.downloadHandler.text.Trim();
+            var latestChecksum = checksumRequest.downloadHandler.text.Trim();
 
-            string localChecksum = GetFileChecksum(CyrillicFontPath);
+            var localChecksum = GetFileChecksum(CyrillicFontPath);
             if (localChecksum != null && localChecksum == latestChecksum)
             {
                 LCB_LCBRMod.LogInfo("Font is already up-to-date.");
                 return;
             }
 
-            string fontUrl = latestRelease.Assets
+            var fontUrl = latestRelease.Assets
                 .FirstOrDefault(a => a.Name.StartsWith("tmpcyrillicfonts_"))?.DownloadUrl;
             
             if (string.IsNullOrEmpty(fontUrl))
@@ -152,7 +171,7 @@ namespace LimbusLocalizeRUS
             }
 
             LCB_LCBRMod.LogInfo("Downloading font update... This could take several minutes.");
-            string tempZipPath = Path.Combine(Path.GetTempPath(), $"tmpcyrillicfonts_{releaseTag}.zip");
+            var tempZipPath = Path.Combine(Path.GetTempPath(), $"tmpcyrillicfonts_{releaseTag}.zip");
             DownloadFile(fontUrl, tempZipPath);
 
             ExtractAndReplaceFont(tempZipPath, CyrillicFontPath);
@@ -170,15 +189,15 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string latestReleaseTag = latestRelease.TagName;
+            var latestReleaseTag = latestRelease.TagName;
             if (string.IsNullOrEmpty(latestReleaseTag))
             {
                 LCB_LCBRMod.LogWarning("Failed to get the release tag.");
                 return;
             }
 
-            Version latestVersion = Version.Parse(latestReleaseTag.TrimStart('v'));
-            Version currentVersion = Version.Parse(LCB_LCBRMod.VERSION);
+            var latestVersion = Version.Parse(latestReleaseTag.TrimStart('v'));
+            var currentVersion = Version.Parse(LCB_LCBRMod.VERSION);
 
             if (currentVersion >= latestVersion)
             {
@@ -186,7 +205,7 @@ namespace LimbusLocalizeRUS
                 return;
             }
 
-            string modUrl = latestRelease.Assets
+            var modUrl = latestRelease.Assets
                 .FirstOrDefault(a => a.Name.StartsWith("LimbusCompanyRuMTL_"))?.DownloadUrl;
 
             if (string.IsNullOrEmpty(modUrl))
@@ -196,7 +215,7 @@ namespace LimbusLocalizeRUS
             }
 
             LCB_LCBRMod.LogInfo("Downloading mod update... This could take several minutes.");
-            string tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
+            var tempZipPath = Path.Combine(Path.GetTempPath(), $"LimbusCompanyRuMTL_{latestReleaseTag}.zip");
             DownloadFile(modUrl, tempZipPath);
 
             ExtractModBinary(tempZipPath, Path.Combine(LCB_LCBRMod.ModPath, $"{ModBinaryName}_{latestReleaseTag}.dll"));
@@ -220,7 +239,7 @@ namespace LimbusLocalizeRUS
 
         private static void ExtractAndReplaceFont(string zipFilePath, string destinationPath)
         {
-            string extractPath = Path.Combine(Path.GetTempPath(), "lcbr_tmpcyrillicfonts_extracted");
+            var extractPath = Path.Combine(Path.GetTempPath(), "lcbr_tmpcyrillicfonts_extracted");
             if (Directory.Exists(extractPath))
             {
                 Directory.Delete(extractPath, true);
@@ -228,7 +247,7 @@ namespace LimbusLocalizeRUS
 
             System.IO.Compression.ZipFile.ExtractToDirectory(zipFilePath, extractPath);
 
-            string extractedFontPath = Path.Combine(extractPath, CyrillicFontName);
+            var extractedFontPath = Path.Combine(extractPath, CyrillicFontName);
             if (File.Exists(extractedFontPath))
             {
                 File.Copy(extractedFontPath, destinationPath, true);
@@ -240,7 +259,7 @@ namespace LimbusLocalizeRUS
 
         private static void ExtractModBinary(string zipFilePath, string destinationPath)
         {
-            string extractPath = Path.Combine(Path.GetTempPath(), "lcbr_modbinary_extracted");
+            var extractPath = Path.Combine(Path.GetTempPath(), "lcbr_modbinary_extracted");
             if (Directory.Exists(extractPath))
             {
                 Directory.Delete(extractPath, true);
@@ -253,17 +272,13 @@ namespace LimbusLocalizeRUS
                 .FirstOrDefault(file => file.Name.StartsWith(ModBinaryName) &&
                                         file.Extension == ".dll");
 
-            if (extractedModBinary != null)
-            {
-                extractedModBinary.CopyTo(destinationPath, true);
-            }
-
+            extractedModBinary?.CopyTo(destinationPath, true);
             Directory.Delete(extractPath, true);
             File.Delete(zipFilePath);
         }
 
         private static UnityWebRequest GetUrl(string url) {
-            UnityWebRequest request = UnityWebRequest.Get(url);
+            var request = UnityWebRequest.Get(url);
             request.SetRequestHeader("User-Agent", "ModUpdater");
             request.SendWebRequest();
 
@@ -293,7 +308,7 @@ namespace LimbusLocalizeRUS
 
         private static Metadata GetLocalizationMetadata(string commitSha)
         {
-            string url = $"https://raw.githubusercontent.com/{LocalizationRepo}/{commitSha}/metadata.json";
+            var url = $"https://raw.githubusercontent.com/{LocalizationRepo}/{commitSha}/metadata.json";
             LCB_LCBRMod.LogInfo($"Downloading metadata from {url}");
             
             var request = GetUrl(url);
@@ -310,7 +325,7 @@ namespace LimbusLocalizeRUS
 
         private static FileMetadata GetLocalFileMetadata(string filePath)
         {
-            string localChecksum = GetFileChecksum(filePath);
+            var localChecksum = GetFileChecksum(filePath);
 
             if (localChecksum == null) {
                 return null;
@@ -330,14 +345,11 @@ namespace LimbusLocalizeRUS
                 return null;
             }
 
-            using (var md5 = MD5.Create())
-            {
-                using (var stream = File.OpenRead(filePath))
-                {
-                    var hash = md5.ComputeHash(stream);
-                    return BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
-                }
-            }
+
+            using var stream = File.OpenRead(filePath);
+            using var md5 = MD5.Create();
+            var hash = md5.ComputeHash(stream);
+            return BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
         }
 
         private static void DownloadFile(string url, string destPath)
@@ -352,7 +364,13 @@ namespace LimbusLocalizeRUS
 
             var response = request.downloadHandler.data;
 
-            string directoryPath = Path.GetDirectoryName(destPath);
+            var directoryPath = Path.GetDirectoryName(destPath);
+            if (directoryPath == null)
+            {
+                LCB_LCBRMod.LogWarning($"Failed to get directory path: {destPath}.");
+                return;
+            }
+            
             if (!Directory.Exists(directoryPath))
             {
                 Directory.CreateDirectory(directoryPath);
@@ -367,16 +385,17 @@ namespace LimbusLocalizeRUS
             public string Version { get; set; }
             [JsonPropertyName("files")]
             public List<FileData> Files { get; set; }
+            
+            public class FileData
+            {
+                [JsonPropertyName("path")]
+                public string Path { get; set; }
+                [JsonPropertyName("checksum")]
+                public string Checksum { get; set; }
+            }
         }
 
-        public class FileData
-        {
-            [JsonPropertyName("path")]
-            public string Path { get; set; }
-            [JsonPropertyName("checksum")]
-            public string Checksum { get; set; }
-        }
-
+        
         public class FileMetadata
         {
             public long Size { get; set; }
