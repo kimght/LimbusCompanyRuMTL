@@ -137,7 +137,6 @@ namespace LimbusLocalizeRUS
 
             var checksumUrl = latestRelease.Assets
                 .FirstOrDefault(a => a.Name == "checksum.txt")?.DownloadUrl;
-                
 
             if (string.IsNullOrEmpty(checksumUrl))
             {
@@ -354,6 +353,7 @@ namespace LimbusLocalizeRUS
 
         private static void DownloadFile(string url, string destPath)
         {
+            // TODO: Использовать DownloadHandlerFile или что-то по типу
             var request = GetUrl(url);
 
             if (request.result != UnityWebRequest.Result.Success)
@@ -394,7 +394,6 @@ namespace LimbusLocalizeRUS
                 public string Checksum { get; set; }
             }
         }
-
         
         public class FileMetadata
         {
