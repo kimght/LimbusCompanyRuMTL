@@ -263,6 +263,44 @@ namespace LimbusLocalizeRUS
                     __instance._matSetter = textMeshProMaterialSetter;
         }
 
+        [HarmonyPatch(typeof(ActReceivedGoldenBough), nameof(ActReceivedGoldenBough.Init))]
+        [HarmonyPostfix]
+        private static void GoldenBoughDone(ActReceivedGoldenBough __instance)
+        {
+            __instance.tmp_received_the_golden_bough.m_fontAsset = LCB_Cyrillic_Font.GetCyrillicFonts(0);
+            __instance.tmp_received_the_golden_bough.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(3);
+        }
+
+        public static Dictionary<string, Color> ColorSchemes = new Dictionary<string, Color>
+        {
+            {"yisang", new Color(0.831f, 0.882f, 0.909f, 1.0f)},
+            {"faust", new Color(1.0f, 0.694f, 0.705f, 1.0f)},
+            {"donquixote", new Color(1.0f, 0.937f, 0.137f, 1.0f)},
+            {"ryoshu", new Color(0.811f, 0, 0, 1.0f)},
+            {"meursault", new Color(0.352f, 0411f, 0.701f, 1.0f)},
+            {"honglu", new Color(0.356f, 1.0f, 0.870f, 1.0f)},
+            {"heathcliff", new Color(0.549f, 0.388f, 0.760f, 1.0f)},
+            {"ishmael", new Color(1.0f, 0.584f, 0, 1.0f)},
+            {"rodya", new Color(0.572f, 0.219f, 0.219f, 1.0f)},
+            {"sinclair",new Color(0.545f, 0.611f, 0.082f, 1.0f)},
+            {"outis", new Color(0.415f, 0.6f, 0.454f, 1.0f)},
+            {"gregor", new Color(0.631f, 0.349f, 0.117f, 1.0f)},
+
+            {"wrath", new Color(1.0f, 0.294f, 0.2f, 1.0f)},
+            {"lust", new Color(1.0f, 0.396f, 0.101f, 1.0f)},
+            {"sloth", new Color(1.0f, 0.729f, 0.341f, 1.0f)},
+            {"gluttony", new Color(0.796f, 0.913f, 0, 1.0f)},
+            {"gloom", new Color(0.247f, 0.870f, 1.0f, 1.0f)},
+            {"pride", new Color(0, 0.388f, 0.737f, 1.0f)},
+            {"envy", new Color(0.760f, 0.266f, 1.0f, 1.0f)},
+
+            {"whiteish", new Color(0.9f, 0.9f, 0.9f, 1.0f)},
+            {"charcoal", new Color (0.016f, 0.016f, 0.016f, 0.91f)},
+            {"crimson", new Color(0.666f, 0.001f, 0, 0.99f)},
+            {"violet", new Color(0.577f, 0.0118f, 0.502f, 0.75f)}
+        };
+
+
         [HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
         [HarmonyPrefix]
         public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
