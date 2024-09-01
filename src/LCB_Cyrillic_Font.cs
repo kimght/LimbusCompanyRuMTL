@@ -1,21 +1,14 @@
 ﻿using Addressable;
 using HarmonyLib;
-using System.Collections.Generic;
+using Il2CppSystem.Collections.Generic;
 using SimpleJSON;
 using StorySystem;
-using MainUI;
 using System;
 using System.IO;
 using TMPro;
 using UnityEngine;
 using UtilityUI;
-using BattleUI;
-using BattleUI.Information;
-using MainUI.VendingMachine;
-using MainUI.Gacha;
 using BattleUI.Typo;
-using BattleUI.BattleUnit;
-using MainUI.BattleResult;
 
 namespace LimbusLocalizeRUS
 {
@@ -279,7 +272,7 @@ namespace LimbusLocalizeRUS
             __instance.tmp_received_the_golden_bough.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(3);
         }
 
-        public static Dictionary<string, Color> ColorSchemes = new Dictionary<string, Color>
+        public static System.Collections.Generic.Dictionary<string, Color> ColorSchemes = new ()
         {
             {"yisang", new Color(0.831f, 0.882f, 0.909f, 1.0f)},
             {"faust", new Color(1.0f, 0.694f, 0.705f, 1.0f)},
