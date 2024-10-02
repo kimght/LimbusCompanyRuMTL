@@ -229,7 +229,6 @@ namespace LimbusLocalizeRUS
         [HarmonyPrefix]
         private static bool UpdateTMP(TextMeshProLanguageSetter __instance, LOCALIZE_LANGUAGE lang)
         {
-
             FontInformation fontInformation = __instance._fontInformation.Count > 0 ? __instance._fontInformation[0] : null;
             if (fontInformation == null)
                 return false;
