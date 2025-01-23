@@ -11,6 +11,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UObject = UnityEngine.Object;
+using NoticeListJson = JIDKMFJDLEG;
 
 namespace LimbusLocalizeRUS
 {
@@ -91,7 +92,7 @@ namespace LimbusLocalizeRUS
             ReadmeList.Clear();
             foreach (var notices in JSONNode.Parse(File.ReadAllText(LCB_LCBRMod.ModPath + "/Localize/Readme/Readme.json"))[0].AsArray.m_List)
             {
-                ReadmeList.Add(new Notice(JsonUtility.FromJson<KGPGBMLAEJC>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
+                ReadmeList.Add(new Notice(JsonUtility.FromJson<NoticeListJson>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
             }
         }
         
