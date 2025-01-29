@@ -40,7 +40,7 @@
 - [x] **Yield My Flesh to Claim Their Bones** 5.5 (2)
 - [x] **Timekilling Time** 6.5 (1)
 - [x] **Murder on the WARP express** 6.5 (2)
-
+- [x] **LCB Regular Check-Up** 7.5 (1)
 ---
 
 # Установка
