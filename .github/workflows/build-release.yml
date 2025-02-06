@@ -18,7 +18,8 @@ jobs:
       with:
         fetch-depth: 0
         submodules: recursive
-
+        lfs: true
+        
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
