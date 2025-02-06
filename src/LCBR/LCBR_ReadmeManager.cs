@@ -11,7 +11,6 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UObject = UnityEngine.Object;
-using NoticeListJson = JIDKMFJDLEG;
 
 namespace LimbusLocalizeRUS
 {
@@ -90,10 +89,27 @@ namespace LimbusLocalizeRUS
         public static void InitReadmeList()
         {
             ReadmeList.Clear();
+
             foreach (var notices in JSONNode.Parse(File.ReadAllText(LCB_LCBRMod.ModPath + "/Localize/Readme/Readme.json"))[0].AsArray.m_List)
             {
-                ReadmeList.Add(new Notice(JsonUtility.FromJson<NoticeListJson>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
+                ReadmeList.Add(ParseNotice(notices.ToString()));
             }
+        }
+
+        public static Notice ParseNotice(string jsonPayload)
+        {
+            var noticeType = typeof(NoticeSynchronousDataList)
+                .GetMethod("get_noticeFormats")!
+                .Invoke(SynchronousDataManager.Instance.NoticeSynchronousDataList, null)!
+                .GetType()
+                .GetGenericArguments()[0];
+
+            var deserializedObject = typeof(JsonUtility)
+                .GetMethod("FromJson", new[] { typeof(string) })!
+                .MakeGenericMethod(noticeType)
+                .Invoke(null, new[] { jsonPayload });
+
+            return Activator.CreateInstance(typeof(Notice), deserializedObject, LOCALIZE_LANGUAGE.KR) as Notice;
         }
         
         public static List<Notice> ReadmeList = new();
