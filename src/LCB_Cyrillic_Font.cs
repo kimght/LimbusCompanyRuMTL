@@ -304,9 +304,12 @@ namespace LimbusLocalizeRUS
         [HarmonyPrefix]
         public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
         {
+            if (!__instance._fontMaterialInstance) {
+                return false;
+            }
+            
             if (!__instance._text.font.name.StartsWith("Pretendard-Regular") && !__instance._text.font.name.StartsWith("Mikodacs") || !LCB_Cyrillic_Font.GetCyrillicFonts(__instance._text.font.name, out _) && !LCB_Cyrillic_Font.IsCyrillicFont(__instance._text.font))
                 return true;
-            Color underlay = __instance._text.fontMaterial.GetColor("_UnderlayColor");
 
             if (__instance._text.font.name.StartsWith("Pretendard-Regular"))
                 __instance._text.m_sharedMaterial = LCB_Cyrillic_Font.GetCyrillicMats(15);
