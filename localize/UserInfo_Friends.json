@@ -162,11 +162,11 @@
     },
     {
       "id": "Season_1",
-      "content": "1 сезон"
+      "content": "[font=bebas]Сезон 1"
     },
     {
       "id": "Season_2",
-      "content": "2 сезон"
+      "content": "[font=bebas]Сезон 2"
     },
     {
       "id": "Change",
@@ -262,7 +262,7 @@
     },
     {
       "id": "IntroduceSort_ABC",
-      "content": "В алфавитном порядке"
+      "content": "По алфавиту"
     },
       {
         "id": "IntroduceSort_Acquisition",

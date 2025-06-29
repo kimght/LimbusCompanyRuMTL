@@ -2,71 +2,71 @@
   "dataList": [
     {
       "id": "season_title_1",
-      "content": "[font=bebas]<cspace=-1px>ОРИЕНТИР</cspace>"
+      "content": "<cspace=-1px>ОРИЕНТИР</cspace>"
     },
     {
       "id": "season_title_1_EVENT",
-      "content": "[font=bebas]<cspace=-2px>ОРИЕНТИР [ИВЕНТ]</cspace>"
+      "content": "<cspace=-2px>ОРИЕНТИР [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_title_2",
-      "content": "[font=bebas]<cspace=-2px>ВОСПОМИНАНИЕ</cspace>"
+      "content": "<cspace=-2px>ВОСПОМИНАНИЕ</cspace>"
     },
     {
       "id": "season_title_2_EVENT",
-      "content": "[font=bebas]<cspace=-2px>ВОСПОМИНАНИЕ [ИВЕНТ]</cspace>"
+      "content": "<cspace=-2px>ВОСПОМИНАНИЕ [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_9101_walpurgisnacht",
-      "content": "[font=bebas]<cspace=-2px>Вальпургиева ночь</cspace>"
+      "content": "<cspace=-2px>Вальпургиева ночь</cspace>"
     },
     {
       "id": "season_title_3",
-      "content": "[font=bebas]<cspace=-1px>БОН ВОЯЖ</cspace>"
+      "content": "<cspace=-1px>БОН ВОЯЖ</cspace>"
     },
     {
       "id": "season_title_3_EVENT",
-      "content": "[font=bebas]<cspace=-2px>БОН ВОЯЖ [ИВЕНТ]</cspace>"
+      "content": "<cspace=-2px>БОН ВОЯЖ [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_filter_3",
-      "content": "[font=bebas]Сезон 3"
+      "content": "Сезон 3"
     },
     {
       "id": "season_title_4",
-      "content": "[font=bebas]<cspace=-1px>ОЧИСТИТЬ КЭТИ</cspace>"
+      "content": "<cspace=-1px>ОЧИСТИТЬ КЭТИ</cspace>"
     },
     {
       "id": "season_title_4_EVENT",
-      "content": "[font=bebas]<cspace=-2px>ОЧИСТИТЬ КЭТИ [ИВЕНТ]</cspace>"
+      "content": "<cspace=-2px>ОЧИСТИТЬ КЭТИ [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_filter_4",
-      "content": "[font=bebas]Сезон 4"
+      "content": "Сезон 4"
     },
     {
       "id": "season_title_5",
-      "content": "[font=bebas]ЗАБВЕНИЕ"
+      "content": "ЗАБВЕНИЕ"
     },
     {
       "id": "season_title_5_EVENT",
-      "content": "[font=bebas]<cspace=-1px>ЗАБВЕНИЕ [ИВЕНТ]</cspace>"
+      "content": "<cspace=-1px>ЗАБВЕНИЕ [ИВЕНТ]</cspace>"
     },
     {
       "id": "season_filter_5",
-      "content": "[font=bebas]Сезон 5"
+      "content": "Сезон 5"
     },
     {
       "id": "season_filter_6",
-      "content": "[font=bebas]Сезон 6"
+      "content": "Сезон 6"
     },
     {
       "id": "season_title_6",
-      "content": "[font=bebas]ЭЛЕГИЯ ЦВЕТАМ"
+      "content": "ЭЛЕГИЯ ЦВЕТАМ"
     },
     {
       "id": "season_title_6_EVENT",
-      "content": "[font=bebas]<cspace=-1px>ЭЛЕГИЯ ЦВЕТАМ [ИВЕНТ]</cspace>"
+      "content": "<cspace=-1px>ЭЛЕГИЯ ЦВЕТАМ [ИВЕНТ]</cspace>"
     }
   ]
 }

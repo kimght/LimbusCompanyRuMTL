@@ -78,7 +78,7 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_title_01",
-      "content": "Ресурсы ЭГО"
+      "content": "ЭГО ресурсы"
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_01",
@@ -686,231 +686,231 @@
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_title_01",
-      "content": "Category"
+      "content": "Категории"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_desc_01",
-      "content": "You may choose between Standard and Target Extractions."
+      "content": "Вы можете выбирать между Целевым и Стандартным извлечением."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_title_02",
-      "content": "Extraction"
+      "content": "Извлечение"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_01_desc_02",
-      "content": "You can spend Lunacy to extract Identities or ЭГО."
+      "content": "Вы можете тратить Безумство для извлечения Идентичностей или ЭГО для Грешников."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_title_01",
-      "content": "Target Period"
+      "content": "Период извлечения"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_desc_01",
-      "content": "You can see how long the limited Extraction banner will last."
+      "content": "Вы можете видеть дату окончания извлечений."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_title_02",
-      "content": "Featured Target"
+      "content": "Детали"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_02_desc_02",
-      "content": "View details on the featured Identity or ЭГО here."
+      "content": "Здесь можно посмотреть информацию об отмеченных в извлечении Идентичностях или ЭГО."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_title_01",
-      "content": "Extraction History"
+      "content": "История извлечений"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_desc_01",
-      "content": "You can view records of your previous Extractions here."
+      "content": "История ваших извлечений записывается здесь."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_title_02",
-      "content": "Rate Info"
+      "content": "Шанс получения"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_03_desc_02",
-      "content": "You can view the likelihood of the featured Identity or ЭГО being extracted."
+      "content": "Вы можете узнать вероятность получения указанных Идентичностей или ЭГО, которые можно извлечь."
     },
     {
       "id": "tutorial_mainui_11_extraction_page_04_title_01",
-      "content": "Egoshards"
+      "content": "Эгосколки"
     },
     {
       "id": "tutorial_mainui_11_extraction_page_04_desc_01",
-      "content": "When you get an Identity you already own, you’ll receive Egoshards based on its rarity."
+      "content": "Если вы получаете Идентичность или ЭГО, которые у вас уже есть, вместо этого вам даются Эгосколки."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine",
-      "content": "Dispenser"
+      "content": "Автомат"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_title_01",
-      "content": "Dispenser Catalogue"
+      "content": "Каталог автомата"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_01_desc_01",
-      "content": "You can exchange Egoshards for Identities or ЭГО you don’t yet own."
+      "content": "В Автомате вы можете обменивать Эгосколки на Идентичностей или ЭГО, которых вы сами выбраете."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_title_01",
-      "content": "Dispenser Types"
+      "content": "Категории"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_02_desc_01",
-      "content": "You can purchase permanently available Identities and ЭГО, as well as those from past seasons."
+      "content": "Вы можете купить Идентичности или ЭГО, которые доступны постоянно."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_title_01",
-      "content": "Choosing Items to Buy"
+      "content": "Выбор"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_03_desc_01",
-      "content": "To buy Identities or ЭГО from here, you will need Egoshards of the Sinner."
+      "content": "Чтобы купить какую-либо Идентичность или ЭГО, вам понадобится достаточное количество Эгосколков на соответствующего Грешника."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_title_01",
-      "content": "Thread Exchange"
+      "content": "Магазин звеньев"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_01",
-      "content": "Egoshards can also be exchanged for Thread."
+      "content": "Эгосколки могут быть обменяны и на Звенья тоже."
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_title_02",
-      "content": "Thread"
+      "content": "Звенья"
     },
     {
       "id": "tutorial_mainui_12_vendingmachine_page_04_desc_02",
-      "content": "Thread is used for the Uptying of Identities and Threadspinning of ЭГО."
+      "content": "Звенья используются для повышения уровня связи Идентичностей и ЭГО."
     },
     {
       "id": "tutorial_mainui_13_userinfo_manager",
-      "content": "Manager Info"
+      "content": "Информация о менеджере"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_01_title_01",
-      "content": "User Info"
+      "content": "Информация пользователя"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_01_desc_01",
-      "content": "You can check your user info, list of support characters, and the friend list here."
+      "content": "Здесь вы можете увидеть информацию о себе, изменить список своих Идентичностей поддержки, а также своих друзей."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_title_01",
-      "content": "User Info"
+      "content": "Информация пользователя"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_desc_01",
-      "content": "The User ID (UID) and account level are shown here."
+      "content": "Ваш ID пользованиетя (UID) и уровень менеджера."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_title_02",
-      "content": "Banner"
+      "content": "Плашки"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_02_desc_02",
-      "content": "You can configure your decorative banners."
+      "content": "Вы можете выбрать декоративные плашки."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_03_title_01",
-      "content": "Face of the Company"
+      "content": "Лицо вашей компании"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_03_desc_01",
-      "content": "You can choose artwork to display from the Sinners in your possession."
+      "content": "Вы можете выбрать иллюстрации имеющихся у вас Идентичностей или ЭГО для показа в вашем профиле."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_04_title_01",
-      "content": "Art List"
+      "content": "Список иллюстраций"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_04_desc_01",
-      "content": "You can check the artwork of the Identities and ЭГО you own."
+      "content": "Здесь вы можете просмотреть все открытые у вас иллюстрации."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_05_title_01",
-      "content": "Introduction"
+      "content": "Представление"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_05_desc_01",
-      "content": "Use a combination of given words and phrases to make your introduction."
+      "content": "Используйте комбинации из слов ваших Идентичностей или ЭГО для формирования вашей фразы."
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_06_title_01",
-      "content": "Making an Intro"
+      "content": "Создание фразы"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_06_desc_01",
-      "content": "Choose from a given list of phrases and words to make your introduction."
+      "content": "Выберите фразу и слово, чтобы скомбинировать их и создать ваш приветственный текст."
     },
     {
       "id": "tutorial_mainui_13_userinfo_company",
-      "content": "Company"
+      "content": "Компания"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_07_title_01",
-      "content": "Support Identities"
+      "content": "Идентичности поддержки"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_07_desc_01",
-      "content": "You can assign support Identities and ЭГО to assist others."
+      "content": "Вы можете выставить здесь своих Идентичностей, чтобы ваши друзья могли их использовать через поддержку."
     },
     {
       "id": "tutorial_mainui_13_userinfo_friend",
-      "content": "Friends"
+      "content": "Друзья"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_08_title_01",
-      "content": "Friends List"
+      "content": "Список друзей"
     },
     {
       "id": "tutorial_mainui_13_userinfo_page_08_desc_01",
-      "content": "You can check your friends’ IDs, banners, introductions, and log-in times; plus, add users as friends!"
+      "content": "Вы можете видеть UID ваших друзей, их билет, а также Идентичностей поддержки."
     },
     {
       "id": "tutorial_mainui_14_battlepass_title",
-      "content": "Battle Pass"
+      "content": "Боевой пропуск"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_01_title_01",
-      "content": "Battle Pass Rewards"
+      "content": "Награды Боевого пропуска"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_01_desc_01",
-      "content": "You can check and redeem level rewards for the free battle pass and the Limbus Pass."
+      "content": "Вы можете посмотреть и забрать награды за уровни обычного Боевого пропуска и также Лимбус пасса."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_title_01",
-      "content": "Pass Period and Name"
+      "content": "Период времени и название"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_desc_01",
-      "content": "You can check the title of the battle pass and its period."
+      "content": "Название текущего Боевого пропуска и его продолжительность находятся здесь."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_title_02",
-      "content": "Pass Level and Progress"
+      "content": "Текущий уровень и его прогресс"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_02_desc_02",
-      "content": "You can check your battle pass level and progress here."
+      "content": "Вы можете видеть свой уровень Боевого пропуска и его прогресс."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_03_title_01",
-      "content": "Battle Pass Missions"
+      "content": "Миссии Боевого пропуска"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_03_desc_01",
-      "content": "This shows the list of missions that reward you with battle pass progression upon completion. There are daily, weekly, and seasonal missions."
+      "content": "Это показывает список миссий, за прохождение которых даётся прогресс Боевого пропуска."
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_04_title_01",
-      "content": "Max Level Rewards"
+      "content": "Награды после максимального уровня"
     },
     {
       "id": "tutorial_mainui_14_battlepass_page_04_desc_01",
-      "content": "Once you’ve reached the maximum level for determined rewards on the battle pass, you will be given bonus rewards with each level up. Limbus Pass owners gain additional rewards."
+      "content": "После достижения максимального уровня Боевого пропуска наградами будут выступать Именные ящики эгосколков."
     },
     {
       "id": "tutorial_mainui_15_exp_dungeon_title",
@@ -2878,35 +2878,35 @@
     },
     {
       "id": "tutorial_mainui_01_selection_page_11_title_01",
-      "content": "Chain Battles"
+      "content": "Цепные битвы"
     },
     {
       "id": "tutorial_mainui_01_selection_page_11_desc_01",
-      "content": "In Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a backup unit will substitute in to fill their place.\n\nIn Chain Battles, you cannot lose until all units selected for the Encounter(both participating units and backup units) are defeated."
+      "content": "В них вы можете выбирать запасных Идентичностей, которые войдут в бой вместо умерших или отступивших."
     },
     {
       "id": "tutorial_mainui_01_selection_page_12_title_01",
-      "content": "Deploying Backup Units"
+      "content": "Выбор запасных Идентичностей"
     },
     {
       "id": "tutorial_mainui_01_selection_page_12_desc_01",
-      "content": "When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order.\n\nCertain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders to strategize prior to entering Chain Battles."
+      "content": "После смерти одного из Грешников его заменит другой по порядку их выбора.\n\nПосле входа запасных Идентичностей в битву, они имеют стартовую повышенную СД в зависимости от порядкового номера."
     },
     {
       "id": "tutorial_mainui_01_selection_page_13_title_01",
-      "content": "Substitute"
+      "content": "Вход в битву из запаса"
     },
     {
       "id": "tutorial_mainui_01_selection_page_13_desc_01",
-      "content": "In Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, the Backup unit next in the Deployment order will replace them.\nThis is called <Substitution>.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit is substituted in, its Combat Passive will activate instead of its Support Passive."
+      "content": "Смерть союзника не влияет на СД других Грешников в цепных битвах.\n\nПосле смерти одного из союзников или его отступления, в следующем ходе вместо него появится другой из запаса соответственно своему порядковому номеру.\nПосле такого входа в битву этот Грешник будет использовать свои обычные пассивные умения вместо умений поддержки.\n\nПосле своей смерти Грешники будут активировать свои пассивные умения поддержки."
     },
     {
       "id": "tutorial_mainui_01_selection_page_14_title_01",
-      "content": "Remaining Enemies Indicator"
+      "content": "Количество оставшихся противников"
     },
     {
       "id": "tutorial_mainui_01_selection_page_14_desc_01",
-      "content": "In Chain Battles, the indicator that shows the number of Waves shows total number of enemies and the number of defeated enemies instead.\n\nHowever, this indicator does not take into account the extra enemies that are summoned due to certain conditions."
+      "content": "В цепных битвах также показывается количество оставшихся противников, которые тоже приходят из запаса."
     },
     {
       "id": "TutoEvent5501_P1_T1",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "TutoRailway5_P17_D2",
-      "content": "Если вы это сделаете, битва начнется со статусами грешников и ЭГО ресурсами, возвращенными к тому моменту, и весь прогресс, достигнутый вами с этого этапа, будет сброшен."
+      "content": "Если вы это сделаете, битва начнется со статусами Грешников и ЭГО ресурсами, возвращенными к тому моменту, и весь прогресс, достигнутый вами с этого этапа, будет сброшен."
     },
     {
       "id": "TutoRailway5_P18_T1",

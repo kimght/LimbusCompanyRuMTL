@@ -16,6 +16,32 @@ repo = "LocalizeLimbusCompany/LocalizeLimbusCompany"
 branch = "main"
 path = "./EN"
 
+
+[[font_rules."Enemies*.json"]]
+font = "bebas"
+path = '$.dataList[*].name'
+
+[[font_rules."StageChapterText*.json"]]
+font = "bebas"
+path = '$.dataList[*].company'
+
+[[font_rules."StageChapterText*.json"]]
+font = "bebas"
+path = '$.dataList[*].area'
+
+[[font_rules."StageChapterText*.json"]]
+font = "bebas"
+path = '$.dataList[*].chapter'
+
+[[font_rules."SeasonTitle.json"]]
+font = "bebas"
+path = '$.dataList[*].content'
+
+[[font_rules."Ch8VideoEffectSettings.json"]]
+font = "mikodacs"
+path = '$.dataList[*].texts[*].texts[*].text'
+
+
 [priority]
 order = [
   "StoryData/*.json"

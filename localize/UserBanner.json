@@ -1,0 +1,279 @@
+﻿{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Праздничный билет 1-го Сезона",
+      "desc": "Из Бесплатного пропуска 1-го Сезона на 1 уровне"
+    },
+    {
+      "id": 2,
+      "name": "Билет завершения 1-го Сезона",
+      "desc": "Из Лимбус Пасса 1-го Сезона на 60 уровне"
+    },
+    {
+      "id": 3,
+      "name": "Доказательство посещаемости",
+      "desc": "Получался из наград за отметки в ивенте."
+    },
+    {
+      "id": 4,
+      "name": "Добрый менеджер",
+      "desc": "Получался из наград за отметки в ивенте."
+    },
+    {
+      "id": 5,
+      "name": "Билет 1-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1."
+    },
+    {
+      "id": 6,
+      "name": "Декорированный билет 1-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns."
+    },
+    {
+      "id": 7,
+      "name": "Украшенный билет 1-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns during the first two weeks of the event."
+    },
+    {
+      "id": 8,
+      "name": "Адская куря",
+      "desc": "Получался из прохождения ивента \"Адская куря\""
+    },
+    {
+      "id": 9,
+      "name": "Моей матушке…",
+      "desc": "Получался из прохождения ивента \"Адская куря\""
+    },
+    {
+      "id": 10,
+      "name": "Праздничный билет 2-го Сезона",
+      "desc": "Из Бесплатного пропуска 2-го Сезона на 1 уровне"
+    },
+    {
+      "id": 11,
+      "name": "Билет завершения 2-го Сезона",
+      "desc": "Из Лимбус Пасса 2-го Сезона на 60 уровне"
+    },
+    {
+      "id": 12,
+      "name": "МОРЕ",
+      "desc": "Получался из прохождения ивента \"МОРЕ\""
+    },
+    {
+      "id": 13,
+      "name": "Билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 3 or more Cycle Counts"
+    },
+    {
+      "id": 14,
+      "name": "Декорированный билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts"
+    },
+    {
+      "id": 15,
+      "name": "Украшенный билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts and under 200 Total Turns"
+    },
+    {
+      "id": 16,
+      "name": "Особый билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 3 or more Cycle Counts before Season 2: Reminiscence ends"
+    },
+    {
+      "id": 17,
+      "name": "Особый декорированный билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts before Season 2: Reminiscence ends"
+    },
+    {
+      "id": 18,
+      "name": "Особый украшенный билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts and 200 or less Total Turns before Season 2: Reminiscence ends"
+    },
+    {
+      "id": 19,
+      "name": "Выдающийся билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 2 with 5 or more Cycles and under 150 Total Turns before the end of Season 2: Reminiscence (Must be a record made after 2023.09.15 20:15(KST))"
+    },
+    {
+      "id": 20,
+      "name": "Праздничный билет 3-го Сезона",
+      "desc": "Из Бесплатного пропуска 3-го Сезона на 1 уровне"
+    },
+    {
+      "id": 21,
+      "name": "Билет завершения 3-го Сезона",
+      "desc": "Из Лимбус Пасса 3-го Сезона на 120 уровне"
+    },
+    {
+      "id": 22,
+      "name": "Особый билет Лимбус пасса 3-го Сезона",
+      "desc": "Из Пака для Лимбус Пасса 3-го Сезона"
+    },
+    {
+      "id": 23,
+      "name": "Чудо в 20-м Районе",
+      "desc": "Получался из прохождения ивента \"Чудо в 20-м Районе\""
+    },
+    {
+      "id": 24,
+      "name": "Чудо в 20-м Районе - Особый билет",
+      "desc": "Получался из прохождения ивента \"Чудо в 20-м Районе\""
+    },
+    {
+      "id": 25,
+      "name": "2024 - Зелёный рассвет",
+      "desc": "Получался из прохождения ивента \"Вторая Вальпургиева Ночь\""
+    },
+    {
+      "id": 26,
+      "name": "Билет 3-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing the Terminus of Refraction Railway Line 3"
+    },
+    {
+      "id": 27,
+      "name": "Особый билет 2-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing the Terminus of Line 3 with 100 Turns or less Total Turns before Season 3: Bon Voyage ends"
+    },
+    {
+      "id": 28,
+      "name": "Уступаю свою плоть, дабы забрать их кости",
+      "desc": "Получался из прохождения ивента \"Уступаю свою плоть, дабы забрать их кости\""
+    },
+    {
+      "id": 29,
+      "name": "Уступаю свою плоть, дабы забрать их кости - Особый билет",
+      "desc": "Получался из прохождения ивента \"Уступаю свою плоть, дабы забрать их кости\""
+    },
+    {
+      "id": 30,
+      "name": "1-ая годовщина Компании «Лимбус»",
+      "desc": "Получался из прохождения ивента \"1-ая годовщина Компании «Лимбус»\""
+    },
+    {
+      "id": 31,
+      "name": "Праздничный билет 4-го Сезона",
+      "desc": "Из Бесплатного пропуска 4-го Сезона на 1 уровне"
+    },
+    {
+      "id": 32,
+      "name": "Билет завершения 4-го Сезона",
+      "desc": "Из Лимбус Пасса 4-го Сезона на 120 уровне"
+    },
+    {
+      "id": 33,
+      "name": "Особый билет Лимбус пасса 4-го Сезона I",
+      "desc": "Из Пака для Лимбус Пасса 4-го Сезона"
+    },
+    {
+      "id": 34,
+      "name": "Особый билет Лимбус пасса 4-го Сезона II",
+      "desc": "Из Пака для Лимбус Пасса 4-го Сезона"
+    },
+    {
+      "id": 35,
+      "name": "Библиотека руин",
+      "desc": "Obtained from entering Library of Ruina special bonus coupon code"
+    },
+    {
+      "id": 36,
+      "name": "Офис Рассвета",
+      "desc": "Получался из прохождения ивента \"Третья Вальпургиева Ночь\""
+    },
+    {
+      "id": 37,
+      "name": "Время, убивающее время",
+      "desc": "Получался из прохождения ивента \"Время, убивающее время\""
+    },
+    {
+      "id": 38,
+      "name": "Время, убивающее время - Особый билет",
+      "desc": "Получался из прохождения ивента \"Время, убивающее время\""
+    },
+    {
+      "id": 39,
+      "name": "Билет 4-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Section #4 of Refraction Railway Line 4"
+    },
+    {
+      "id": 40,
+      "name": "Особый билет 4-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Section #4 of Line 4 with 100 Turns or fewer Total Turns before Season 4: Clear All Cathy ends"
+    },
+    {
+      "id": 41,
+      "name": "Убийство в ВАРП Экспрессе",
+      "desc": "Получался из прохождения ивента \"Убийство в ВАРП Экспрессе\""
+    },
+    {
+      "id": 42,
+      "name": "Убийство в ВАРП Экспрессе - Особый билет",
+      "desc": "Получался из прохождения ивента \"Убийство в ВАРП Экспрессе\""
+    },
+    {
+      "id": 43,
+      "name": "Фиолетовый Полдень",
+      "desc": "Получался из прохождения ивента \"Четвёртная Вальпургиева Ночь\""
+    },
+    {
+      "id": 48,
+      "name": "Офис Точки",
+      "desc": "Получался из прохождения ивента \"Пятая Вальпургиева Ночь\""
+    },
+    {
+      "id": 49,
+      "name": "Регулярный осмотр LCB",
+      "desc": "Получался из прохождения ивента \"Регулярный осмотр LCB\""
+    },
+    {
+      "id": 50,
+      "name": "Регулярный осмотр LCB - Особый билет",
+      "desc": "Получался из прохождения ивента \"Регулярный осмотр LCB\""
+    },
+    {
+      "id": 51,
+      "name": "Билет 5-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Refraction Railway Line 5"
+    },
+    {
+      "id": 52,
+      "name": "Особый билет 5-го пути Ж/Д Преломления",
+      "desc": "Obtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends."
+    },
+    {
+      "id": 53,
+      "name": "2-ая годовщина Компании «Лимбус»",
+      "desc": "Получался из прохождения ивента \"2-ая годовщина Компании «Лимбус»\""
+    },
+    {
+      "id": 54,
+      "name": "2-ая годовщина Компании «Лимбус» - Особый билет",
+      "desc": "Получался из прохождения ивента \"2-ая годовщина Компании «Лимбус»\""
+    },
+    {
+      "id": 55,
+      "name": "5-ый Сезон: Памятный билет Зеркала мечтаний",
+      "desc": "Obtained from the Mirror of the Dreaming Achievements Rewards\n\n※ This banner displays the number of times you've completed Floor 5 or higher in the 「Season 5 Mirror Dungeon - Mirror of the Dreaming」."
+    },
+    {
+      "id": 56,
+      "name": "5-ый Сезон: Особый памятный билет Зеркала мечтаний",
+      "desc": "Obtained from the Mirror of the Dreaming Achievements Rewards\n\n※ This banner displays the number of times you've completed Floor 5 or higher in the 「Season 5 Mirror Dungeon - Mirror of the Dreaming」."
+    },
+    {
+      "id": 57,
+      "name": "Ночная чистка",
+      "desc": "Получался из прохождения ивента \"Ночная чистка\""
+    },
+    {
+      "id": 58,
+      "name": "Ночная чистка - Особый билет",
+      "desc": "Получался из прохождения ивента \"Ночная чистка\""
+    },
+    {
+      "id": 59,
+      "name": "5-ый Сезон: Особый билет достижений Зеркала мечтаний",
+      "desc": "Obtained from the Mirror of the Dreaming by completing all Achievements\n\nObtaining this item will update the designs of the following with the Special Achievement Banner look: Season 5: Mirror of the Dreaming Commemorative Banner & Special Commemorative Banner\n\n※ This banner displays the number of times you've completed Floor 5 or higher in the 「Season 5 Mirror Dungeon - Mirror of the Dreaming」."
+    }
+  ]
+}

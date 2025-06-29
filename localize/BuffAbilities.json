@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": "AtkDamageMultiplier",
-      "desc": "Наносимый урон +{0}%",
-      "variation": "Наносимый урон +{1}% ({0})"
+      "desc": "Наносимый урон {0}%",
+      "variation": "Наносимый урон {1}% ({0})"
     },
     {
       "id": "AtkAndTakeAtkDamageMultiplier",

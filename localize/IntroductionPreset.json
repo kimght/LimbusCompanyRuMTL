@@ -1,4 +1,4 @@
-﻿{
+{
   "dataList": [
     {
       "id": "introduce_word_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "introduce_word_9",
-      "content": "Pit-a-pat"
+      "content": "Тук-тук"
     },
     {
       "id": "introduce_word_10",
@@ -150,15 +150,15 @@
     },
     {
       "id": "introduce_word_38",
-      "content": "Nagel und Hammer"
+      "content": "Гвоздь и молот"
     },
     {
       "id": "introduce_word_39",
-      "content": "Waste"
+      "content": "Трата"
     },
     {
       "id": "introduce_word_40",
-      "content": "Sinner"
+      "content": "Грешник"
     },
     {
       "id": "introduce_sentence_1",
@@ -166,7 +166,7 @@
     },
     {
       "id": "introduce_sentence_2",
-      "content": "Приветствую, Я {0}."
+      "content": "Приветствую, я {0}."
     },
     {
       "id": "introduce_sentence_3",
@@ -190,19 +190,19 @@
     },
     {
       "id": "introduce_sentence_8",
-      "content": "Лучше бы вам проигнорировать {0}, менеджер."
+      "content": "Лучше бы вам проигнорировать {0}(-а), менеджер."
     },
     {
       "id": "introduce_sentence_9",
-      "content": "Мы {0}, не герои на страже правосудия."
+      "content": "Мы {0}(-и/-ы), не герои на страже правосудия."
     },
     {
       "id": "introduce_sentence_10",
-      "content": "Жизнь полна {0}."
+      "content": "Жизнь полна {0}(-а/-и/-ы)."
     },
     {
       "id": "introduce_sentence_11",
-      "content": "Как обычно, разбираемся с {0}."
+      "content": "Как обычно, разбираемся с {0}(-и)."
     },
     {
       "id": "introduce_sentence_12",
@@ -210,19 +210,19 @@
     },
     {
       "id": "introduce_sentence_13",
-      "content": "Мне стоит забыть и сфокусироваться на {0}!"
+      "content": "Мне стоит забыть и сфокусироваться на {0}(-е)!"
     },
     {
       "id": "introduce_sentence_14",
-      "content": "Иди вперёд за {0}, если не побоишься."
+      "content": "Иди вперёд за {0}(-ом/-ой/-ами), если не побоишься."
     },
     {
       "id": "introduce_sentence_15",
-      "content": "Видели ли ваши очи сие {0}?"
+      "content": "Видели ли ваши очи сие(сий) {0}?"
     },
     {
       "id": "introduce_sentence_16",
-      "content": "Когда мне грустно, я развлекаю себя с помощью {0}."
+      "content": "Когда мне грустно, я развлекаю себя с помощью {0}(-а/-и/-го)."
     },
     {
       "id": "introduce_sentence_17",
@@ -234,11 +234,11 @@
     },
     {
       "id": "introduce_sentence_19",
-      "content": "Балдёжная парковка, балдёжная парковка у {0}."
+      "content": "Балдёжная парковка, балдёжная парковка у {0}(-а)."
     },
     {
       "id": "introduce_sentence_20",
-      "content": "Я здесь, дабы дарить свободу слабым и {0}!"
+      "content": "Я здесь, дабы дарить свободу слабым и {0}(-ам/-у)!"
     },
     {
       "id": "introduce_sentence_21",
@@ -258,27 +258,27 @@
     },
     {
       "id": "introduce_sentence_25",
-      "content": "Откуда вообще вы взяли {0}?"
+      "content": "Откуда вообще вы взяли {0}(-а)?"
     },
     {
       "id": "introduce_sentence_26",
-      "content": "О, время для {0}."
+      "content": "О, время для {0}(-а/-ы)."
     },
     {
       "id": "introduce_sentence_27",
-      "content": "Во мне горит желание стать таким же {0}, как ты!"
+      "content": "Во мне горит желание стать таким же {0}(-ом), как ты!"
     },
     {
       "id": "introduce_sentence_28",
-      "content": "Слишком поздно. Дочитали до {0}, а тебя всё не было."
+      "content": "Слишком поздно. Дочитали до {0}(-а), а тебя всё не было."
     },
     {
       "id": "introduce_sentence_29",
-      "content": "Я буду помнить о {0}."
+      "content": "Я буду помнить о {0}(-е)."
     },
     {
       "id": "introduce_sentence_30",
-      "content": "Мне так жаль. Чуть позже я обязательно куплю тебе {0}"
+      "content": "Мне так жаль. Чуть позже я обязательно куплю тебе {0}."
     },
     {
       "id": "introduce_sentence_31",
@@ -294,7 +294,7 @@
     },
     {
       "id": "introduce_sentence_34",
-      "content": "Гх… Вот это беспорядок из-за {0}, значит, да."
+      "content": "Гх… Вот это беспорядок из-за {0}(-а/-и/-ы), значит, да?"
     },
     {
       "id": "introduce_sentence_35",
@@ -322,19 +322,19 @@
     },
     {
       "id": "introduce_word_41",
-      "content": "Churning"
+      "content": "Кручение"
     },
     {
       "id": "introduce_word_42",
-      "content": "Succor"
+      "content": "Утешение"
     },
     {
       "id": "introduce_sentence_41",
-      "content": "Looking for the soup to warm up your {0}?"
+      "content": "Ищете суп, чтобы разогреть свой {0}?"
     },
     {
       "id": "introduce_sentence_42",
-      "content": "Salutations!!!!!! I implore thee to try this {0}!!!!"
+      "content": "Приветствую!!!!!! Умоляю тебя отведать сей {0}!!!!"
     },
     {
       "id": "introduce_word_43",
@@ -342,43 +342,1267 @@
     },
     {
       "id": "introduce_word_44",
-      "content": "Ingredient Trimming"
+      "content": "Резка ингредиентов"
     },
     {
       "id": "introduce_sentence_43",
-      "content": "{0}, rev up those fryers."
+      "content": "{0}, поджарь-ка его."
     },
     {
       "id": "introduce_word_45",
-      "content": "Judgement"
+      "content": "Суд"
     },
     {
       "id": "introduce_sentence_45",
-      "content": "Nay, {0}’s words cannot be trusted!"
+      "content": "Нет, словам {0}(-а/-и) нельзя доверять!"
     },
     {
       "id": "introduce_word_46",
-      "content": "Purification"
+      "content": "Очищение"
     },
     {
       "id": "introduce_sentence_46",
-      "content": "{0} should be okay, I hope…?"
+      "content": "{0} должно(-ен) быть достаточным, я надеюсь…?"
     },
     {
       "id": "introduce_word_47",
-      "content": "Memory"
+      "content": "Открытая аллея"
     },
     {
       "id": "introduce_sentence_47",
-      "content": "As a matter of fact, it is {0}."
+      "content": "В своей сути, это {0}."
     },
     {
       "id": "introduce_word_48",
-      "content": "World"
+      "content": "Мир"
     },
     {
       "id": "introduce_sentence_48",
-      "content": "To bound over to the next {0}…"
+      "content": "Дабы переместиться в другой(-ое) {0}…"
+    },
+    {
+      "id": "introduce_word_49",
+      "content": "Мастерская"
+    },
+    {
+      "id": "introduce_sentence_49",
+      "content": "…Да, {0} на проводе. Говорите."
+    },
+    {
+      "id": "introduce_word_50",
+      "content": "Полностью за"
+    },
+    {
+      "id": "introduce_sentence_50",
+      "content": "Хорошо… Я {0}~ Подойди, если сможешь!"
+    },
+    {
+      "id": "introduce_word_51",
+      "content": "Прямо сюда"
+    },
+    {
+      "id": "introduce_sentence_51",
+      "content": "Ну давай же… {0}!"
+    },
+    {
+      "id": "introduce_word_52",
+      "content": "Стадион"
+    },
+    {
+      "id": "introduce_sentence_52",
+      "content": "Наилучший(-ее) {0}, который(-ое) вы можете пожелать."
+    },
+    {
+      "id": "introduce_word_53",
+      "content": "Коллега"
+    },
+    {
+      "id": "introduce_sentence_53",
+      "content": "Теперь у меня не осталось {0}(-а/-ов)."
+    },
+    {
+      "id": "introduce_word_54",
+      "content": "Сливки"
+    },
+    {
+      "id": "introduce_sentence_54",
+      "content": "Без {0}(-а/-ы) чтоли? Тебе действительно не всё равно…"
+    },
+    {
+      "id": "introduce_word_55",
+      "content": "Разряд"
+    },
+    {
+      "id": "introduce_sentence_55",
+      "content": "Время {0}(-а)."
+    },
+    {
+      "id": "introduce_word_56",
+      "content": "Внимание"
+    },
+    {
+      "id": "introduce_sentence_56",
+      "content": "Мне не нужно… никакого бессмысленного {0}(-а/-я)!"
+    },
+    {
+      "id": "introduce_word_57",
+      "content": "Глаза"
+    },
+    {
+      "id": "introduce_sentence_57",
+      "content": "Твои {0}(-а/-и) будут во тьме."
+    },
+    {
+      "id": "introduce_word_58",
+      "content": "Зонт"
+    },
+    {
+      "id": "introduce_sentence_58",
+      "content": "Я боюсь, что дождь может пройти сквозь мой(мои) {0}."
+    },
+    {
+      "id": "introduce_word_59",
+      "content": "Аромат"
+    },
+    {
+      "id": "introduce_sentence_59",
+      "content": "Этот(-а/-и) {0} очень приятен(-на/-ны) мне."
+    },
+    {
+      "id": "introduce_word_60",
+      "content": "Вино фей"
+    },
+    {
+      "id": "introduce_sentence_60",
+      "content": "Мм… Стаканчик {0}(-и/-ы/-а)…"
+    },
+    {
+      "id": "introduce_word_61",
+      "content": "Развёртывание"
+    },
+    {
+      "id": "introduce_sentence_61",
+      "content": "Ах, наконец-то ты отдаёшь приказ о моём {0}(-е/-и)~"
+    },
+    {
+      "id": "introduce_word_62",
+      "content": "Талисман"
+    },
+    {
+      "id": "introduce_sentence_62",
+      "content": "Должен прикрепить {0}(-а)…"
+    },
+    {
+      "id": "introduce_word_63",
+      "content": "Паук"
+    },
+    {
+      "id": "introduce_sentence_63",
+      "content": "{0} сделает это…"
+    },
+    {
+      "id": "introduce_word_64",
+      "content": "Много глаз"
+    },
+    {
+      "id": "introduce_sentence_64",
+      "content": "{0} открыто."
+    },
+    {
+      "id": "introduce_word_65",
+      "content": "Говяжья лапша"
+    },
+    {
+      "id": "introduce_sentence_65",
+      "content": "Хочешь немножко {0}(-а/-и/-ы) по пути назад?"
+    },
+    {
+      "id": "introduce_word_66",
+      "content": "Команда Носорогов"
+    },
+    {
+      "id": "introduce_sentence_66",
+      "content": "{0}, устремляюсь вперёд."
+    },
+    {
+      "id": "introduce_word_67",
+      "content": "Скрытная миссия"
+    },
+    {
+      "id": "introduce_sentence_67",
+      "content": "Чшш, я посреди {0}(-а/-и/-ы)."
+    },
+    {
+      "id": "introduce_word_68",
+      "content": "Ребячество"
+    },
+    {
+      "id": "introduce_sentence_68",
+      "content": "Что же ты скажешь теперь, для тебя это всё ещё {0}?"
+    },
+    {
+      "id": "introduce_word_69",
+      "content": "Дёргаться"
+    },
+    {
+      "id": "introduce_sentence_69",
+      "content": "Сиди спокойно… Прекрати уже {0}!"
+    },
+    {
+      "id": "introduce_word_70",
+      "content": "Сварка"
+    },
+    {
+      "id": "introduce_sentence_70",
+      "content": "Отлично… Давайте приступим к {0}(-у/-е)…"
+    },
+    {
+      "id": "introduce_word_71",
+      "content": "Трансформация"
+    },
+    {
+      "id": "introduce_sentence_71",
+      "content": "Тадаа~ {0} завершён(-на)!"
+    },
+    {
+      "id": "introduce_word_72",
+      "content": "Расслабься"
+    },
+    {
+      "id": "introduce_sentence_72",
+      "content": "Давай, откройся пошире. {0} и залей себе этот напиток прямо в глотку, хехехе."
+    },
+    {
+      "id": "introduce_word_73",
+      "content": "Какой-то старик"
+    },
+    {
+      "id": "introduce_sentence_73",
+      "content": "{0}? Да ну…"
+    },
+    {
+      "id": "introduce_word_74",
+      "content": "Наблюдение"
+    },
+    {
+      "id": "introduce_sentence_74",
+      "content": "Я не какая-то цель для {0}(-а/-я)…"
+    },
+    {
+      "id": "introduce_word_75",
+      "content": "Тренировка"
+    },
+    {
+      "id": "introduce_sentence_75",
+      "content": "Абсурд. Не могу поверить, что меня притащили на {0}(-у)."
+    },
+    {
+      "id": "introduce_word_76",
+      "content": "Эти ВАРП Экспрессы"
+    },
+    {
+      "id": "introduce_sentence_76",
+      "content": "{0}(-и/-ы) обычно довольно тесные, ты так не думаешь?"
+    },
+    {
+      "id": "introduce_word_77",
+      "content": "Чёрный чай"
+    },
+    {
+      "id": "introduce_sentence_77",
+      "content": "Ваш заказ на {0}."
+    },
+    {
+      "id": "introduce_word_78",
+      "content": "Дело"
+    },
+    {
+      "id": "introduce_sentence_78",
+      "content": "Давайте уже разберёмся с этим(-ой) {0}(-ом/-ой), а?"
+    },
+    {
+      "id": "introduce_word_79",
+      "content": "Мы сами"
+    },
+    {
+      "id": "introduce_sentence_79",
+      "content": "Увы, похоже, что {0}(-и/-ы) должны вмешаться в это дело."
+    },
+    {
+      "id": "introduce_word_80",
+      "content": "Вода"
+    },
+    {
+      "id": "introduce_sentence_80",
+      "content": "{0}… Мне надо немного {0}…"
+    },
+    {
+      "id": "introduce_word_81",
+      "content": "Боль"
+    },
+    {
+      "id": "introduce_sentence_81",
+      "content": "Никакое знание не заработаешь без {0}(-а/-я/-и)… или чего-то там ещё, бла-бла-бла…"
+    },
+    {
+      "id": "introduce_word_82",
+      "content": "Лес"
+    },
+    {
+      "id": "introduce_sentence_82",
+      "content": "Тебе надо смотреть за своими шагами в {0}(-е)…!"
+    },
+    {
+      "id": "introduce_word_83",
+      "content": "Сансара"
+    },
+    {
+      "id": "introduce_sentence_83",
+      "content": "Колесо Сансары поворачивается лишь единожды для {0}(-а/-ы)."
+    },
+    {
+      "id": "introduce_word_84",
+      "content": "Команда контроля"
+    },
+    {
+      "id": "introduce_sentence_84",
+      "content": "Сейчас… Двигаюсь в отдел {0}(-а/-ы)."
+    },
+    {
+      "id": "introduce_word_85",
+      "content": "Офис Крюка"
+    },
+    {
+      "id": "introduce_sentence_85",
+      "content": "Хм… У меня такое чувство, что {0} долго не продлится."
+    },
+    {
+      "id": "introduce_word_86",
+      "content": "Насилие"
+    },
+    {
+      "id": "introduce_sentence_86",
+      "content": "Этой смирительной рубашки… явно недостаточно, чтобы удержать мой {0}."
+    },
+    {
+      "id": "introduce_word_87",
+      "content": "Труд"
+    },
+    {
+      "id": "introduce_sentence_87",
+      "content": "… Существование этого {0}(-а) ничем не отличается от моего."
+    },
+    {
+      "id": "introduce_word_88",
+      "content": "Гость"
+    },
+    {
+      "id": "introduce_sentence_88",
+      "content": "Теперь глянь сюда~ Мой будущий {0}~"
+    },
+    {
+      "id": "introduce_word_89",
+      "content": "Работа"
+    },
+    {
+      "id": "introduce_sentence_89",
+      "content": "Ради веселья я {0}."
+    },
+    {
+      "id": "introduce_word_90",
+      "content": "МО-РО-ЖЕ-НО-Е"
+    },
+    {
+      "id": "introduce_sentence_90",
+      "content": "Я! ХОЧУ! ПОЕСТЬ! {0}(-а/-и)!"
+    },
+    {
+      "id": "introduce_word_91",
+      "content": "Отмщение"
+    },
+    {
+      "id": "introduce_sentence_91",
+      "content": "Только твоей смертью этот(-о/-а) {0} может быть удовлетворён(-но/-на)."
+    },
+    {
+      "id": "introduce_word_92",
+      "content": "Правда"
+    },
+    {
+      "id": "introduce_sentence_92",
+      "content": "{0} прямо передо мной…"
+    },
+    {
+      "id": "introduce_word_93",
+      "content": "Нечистота"
+    },
+    {
+      "id": "introduce_sentence_93",
+      "content": "{0} лежит во мне… чтобы они могли возродиться во что-то значимое."
+    },
+    {
+      "id": "introduce_word_94",
+      "content": "Гибель"
+    },
+    {
+      "id": "introduce_sentence_94",
+      "content": "Твой(-оя) {0} предрешён(-на)… прямо тут!"
+    },
+    {
+      "id": "introduce_word_95",
+      "content": "Жемчужина"
+    },
+    {
+      "id": "introduce_sentence_95",
+      "content": "Не стоит даже превращать это в {0}!"
+    },
+    {
+      "id": "introduce_word_96",
+      "content": "Огни"
+    },
+    {
+      "id": "introduce_sentence_96",
+      "content": "Весь штат, направляемся туда, где мерцает(-ют) {0}."
+    },
+    {
+      "id": "introduce_word_97",
+      "content": "Волны"
+    },
+    {
+      "id": "introduce_sentence_97",
+      "content": "Лишь я двигаюсь в этих {0}(-ах)."
+    },
+    {
+      "id": "introduce_word_98",
+      "content": "Трос"
+    },
+    {
+      "id": "introduce_sentence_98",
+      "content": "{0}. Завяжите туго."
+    },
+    {
+      "id": "introduce_word_99",
+      "content": "Путешествие"
+    },
+    {
+      "id": "introduce_sentence_99",
+      "content": "…Как только этот(это) {0} закончится…"
+    },
+    {
+      "id": "introduce_word_100",
+      "content": "Исполнение"
+    },
+    {
+      "id": "introduce_sentence_100",
+      "content": "Всё должно быть {0}, как и написано."
+    },
+    {
+      "id": "introduce_word_101",
+      "content": "Клинок"
+    },
+    {
+      "id": "introduce_sentence_101",
+      "content": "Сосредоточься… на конце моего(-ей) {0}(-а/-ы/-и)…"
+    },
+    {
+      "id": "introduce_word_102",
+      "content": "Оппонент"
+    },
+    {
+      "id": "introduce_sentence_102",
+      "content": "Выступи вперёд, мой(моя) {0}!"
+    },
+    {
+      "id": "introduce_word_103",
+      "content": "Подарок"
+    },
+    {
+      "id": "introduce_sentence_103",
+      "content": "Ха, из тебя выйдет отличный(-ые/-ая) {0}!"
+    },
+    {
+      "id": "introduce_word_104",
+      "content": "Ярость"
+    },
+    {
+      "id": "introduce_sentence_104",
+      "content": "Я запихну твой(-оё) бесполезный(-ое) {0} в этот мешок… и швырну его тебе прямо в лицо."
+    },
+    {
+      "id": "introduce_word_105",
+      "content": "Контракт"
+    },
+    {
+      "id": "introduce_sentence_105",
+      "content": "Хорошо, я приму твой(-ё/-и) {0}."
+    },
+    {
+      "id": "introduce_word_106",
+      "content": "Журналирование"
+    },
+    {
+      "id": "introduce_sentence_106",
+      "content": "Вот и подошёл(-ло) к концу мой(-ё) дневной(-ое) {0}!"
+    },
+    {
+      "id": "introduce_word_107",
+      "content": "Ключ"
+    },
+    {
+      "id": "introduce_sentence_107",
+      "content": "Ищешь ли ты {0}?"
+    },
+    {
+      "id": "introduce_word_108",
+      "content": "Книги"
+    },
+    {
+      "id": "introduce_sentence_108",
+      "content": "Как я прочитал в своих {0}(-ах/-ях)…"
+    },
+    {
+      "id": "introduce_word_109",
+      "content": "Кит"
+    },
+    {
+      "id": "introduce_sentence_109",
+      "content": "И снова во всём виноват(-а/-ы) {0}! Во всём!"
+    },
+    {
+      "id": "introduce_word_110",
+      "content": "Камень"
+    },
+    {
+      "id": "introduce_sentence_110",
+      "content": "Желаю, чтобы этот(эти) {0}(-и) поразил(-и) тебя по-настоящему, да с желанием!"
+    },
+    {
+      "id": "introduce_word_111",
+      "content": "Непрошеный совет"
+    },
+    {
+      "id": "introduce_sentence_111",
+      "content": "Я не приму никакого {0}(-а)."
+    },
+    {
+      "id": "introduce_word_112",
+      "content": "Цветы"
+    },
+    {
+      "id": "introduce_sentence_112",
+      "content": "Позвольте {0}(-ам/-у) зацвести."
+    },
+    {
+      "id": "introduce_word_113",
+      "content": "Прогуляться"
+    },
+    {
+      "id": "introduce_sentence_113",
+      "content": "Не будешь ли возражать, если я немного {0}?"
+    },
+    {
+      "id": "introduce_word_114",
+      "content": "Спиртное"
+    },
+    {
+      "id": "introduce_sentence_114",
+      "content": "Фу ты, налей мне уже немного {0}(-а/-и/-го)…"
+    },
+    {
+      "id": "introduce_word_115",
+      "content": "Сопротивляться"
+    },
+    {
+      "id": "introduce_sentence_115",
+      "content": "Хватит уже {0}(-ть), просто прими это."
+    },
+    {
+      "id": "introduce_word_116",
+      "content": "Огонёк"
+    },
+    {
+      "id": "introduce_sentence_116",
+      "content": "Кхм. Что, нужно немного {0}(-а/-и/-ы)?"
+    },
+    {
+      "id": "introduce_word_117",
+      "content": "Терни"
+    },
+    {
+      "id": "introduce_sentence_117",
+      "content": "Не пытайтесь распутать эти(это) {0}."
+    },
+    {
+      "id": "introduce_word_118",
+      "content": "Препятствие"
+    },
+    {
+      "id": "introduce_sentence_118",
+      "content": "Теперь на один(одно) {0} меньше у нас на пути."
+    },
+    {
+      "id": "introduce_word_119",
+      "content": "Обед"
+    },
+    {
+      "id": "introduce_sentence_119",
+      "content": "Мне необходимо вернуться до следующего {0}(-а)."
+    },
+    {
+      "id": "introduce_word_120",
+      "content": "Время"
+    },
+    {
+      "id": "introduce_sentence_120",
+      "content": "Я заберу все излишки {0}(-а/-и), которые у них есть."
+    },
+    {
+      "id": "introduce_word_121",
+      "content": "Кошмар"
+    },
+    { 
+      "id": "introduce_sentence_121",
+      "content": "Ещё один чёртов {0}…"
+    },
+    {
+      "id": "introduce_word_122",
+      "content": "Охота"
+    },
+    {
+      "id": "introduce_sentence_122",
+      "content": "Готовимся к {0}(-у/-е/-ю) в соответствии с приказами нашего господина."
+    },
+    {
+      "id": "introduce_word_123",
+      "content": "Вторженец"
+    },
+    {
+      "id": "introduce_sentence_123",
+      "content": "Убирайся немедленно, {0}! Покинь это место…!"
+    },
+    {
+      "id": "introduce_word_124",
+      "content": "Поместье"
+    },
+    {
+      "id": "introduce_sentence_124",
+      "content": "Позвольте мне… показать вам это(этот) {0}…"
+    },
+    {
+      "id": "introduce_word_125",
+      "content": "Вспышка"
+    },
+    {
+      "id": "introduce_sentence_125",
+      "content": "Какого же цвета для тебя сеи {0}(-и/-ы)?!"
+    },
+    {
+      "id": "introduce_word_126",
+      "content": "Электричество"
+    },
+    {
+      "id": "introduce_sentence_126",
+      "content": "Этот(-и/-ы) {0} - всё, что у меня осталось… Я не могу…!"
+    },
+    {
+      "id": "introduce_word_127",
+      "content": "Авторитет"
+    },
+    {
+      "id": "introduce_sentence_127",
+      "content": "Как ты смеешь… бросать вызов моему {0}(-у)?!"
+    },
+    {
+      "id": "introduce_word_128",
+      "content": "Трон"
+    },
+    {
+      "id": "introduce_sentence_128",
+      "content": "Я обречён править в одиночестве на вершине этого уединённого {0}(-а)…"
+    },
+    {
+      "id": "introduce_word_129",
+      "content": "Глупый господин"
+    },
+    {
+      "id": "introduce_sentence_129",
+      "content": "Готов(-а), согласно приказам этого {0}(-а/-я/-ого)."
+    },
+    {
+      "id": "introduce_word_130",
+      "content": "Дворецкий"
+    },
+    {
+      "id": "introduce_sentence_130",
+      "content": "Ну конечно. Я компетентный {0}."
+    },
+    {
+      "id": "introduce_word_131",
+      "content": "Печаль"
+    },
+    {
+      "id": "introduce_sentence_131",
+      "content": "Тогда… Я выбираю подняться с этим(этой) {0}(-ом/-ю)."
+    },
+    {
+      "id": "introduce_word_132",
+      "content": "Лодыжка"
+    },
+    {
+      "id": "introduce_sentence_132",
+      "content": "Так что, как только я отрублю тебе {0}…!"
+    },
+    {
+      "id": "introduce_word_133",
+      "content": "Мясо"
+    },
+    {
+      "id": "introduce_sentence_133",
+      "content": "Напуганный {0}… не такой вкусный."
+    },
+    {
+      "id": "introduce_word_134",
+      "content": "Задача"
+    },
+    {
+      "id": "introduce_sentence_134",
+      "content": "Никто из нас не сомкнёт глаз, пока мы не разберёмся с этим(этой) {0}(-м/-ом/-ей)."
+    },
+    {
+      "id": "introduce_word_135",
+      "content": "Вдохновение"
+    },
+    {
+      "id": "introduce_sentence_135",
+      "content": "Разожжёшь ли ты во мне {0}(-у) вновнь?"
+    },
+    {
+      "id": "introduce_word_136",
+      "content": "Слеза"
+    },
+    {
+      "id": "introduce_sentence_136",
+      "content": "Если бы только я мог собрать всю печаль, все {0}(-и/-ы) воедино, и плакать вместо них…"
+    },
+    {
+      "id": "introduce_word_137",
+      "content": "Сердце"
+    },
+    {
+      "id": "introduce_sentence_137",
+      "content": "{0}, потрясённое(-ый) горем, взрывается… подобный этому."
+    },
+    {
+      "id": "introduce_word_138",
+      "content": "Вопрос"
+    },
+    {
+      "id": "introduce_sentence_138",
+      "content": "{0} сам себя раскрывает сквозь эти линзы~"
+    },
+    {
+      "id": "introduce_word_139",
+      "content": "Гайка"
+    },
+    {
+      "id": "introduce_sentence_139",
+      "content": "У {0}(-а/-и/-ы) не все дома, как я погляжу."
+    },
+    {
+      "id": "introduce_word_140",
+      "content": "Остановка"
+    },
+    {
+      "id": "introduce_sentence_140",
+      "content": "Сим образом, {0} перестаёт двигаться. Остановленный во времени. На целую вечность."
+    },
+    {
+      "id": "introduce_word_141",
+      "content": "Часы"
+    },
+    {
+      "id": "introduce_sentence_141",
+      "content": "Трудоустройство в Корпорацию Т означает, что вы удостоитесь этого(-ой/-их) {0}(-а/-ов)!"
+    },
+    {
+      "id": "introduce_word_142",
+      "content": "Цвет"
+    },
+    {
+      "id": "introduce_sentence_142",
+      "content": "Я бы хотел(-а) вырасти, ничего не зная о {0}(-е/-и/-ах)…"
+    },
+    {
+      "id": "introduce_word_143",
+      "content": "Кулак"
+    },
+    {
+      "id": "introduce_sentence_143",
+      "content": "Пусть мой(-я/-и) {0} будет(-ут) путём, сквозь который я обретаю знание."
+    },
+    {
+      "id": "introduce_word_144",
+      "content": "Убожество"
+    },
+    {
+      "id": "introduce_sentence_144",
+      "content": "Каждый взгляд должен быть прикован к этому(этой) {0}(-у/-е)."
+    },
+    {
+      "id": "introduce_word_145",
+      "content": "Зачистка"
+    },
+    {
+      "id": "introduce_sentence_145",
+      "content": "{0} кончился(-лась/-лись) вперёд расписания."
+    },
+    {
+      "id": "introduce_word_146",
+      "content": "Воспоминание"
+    },
+    {
+      "id": "introduce_sentence_146",
+      "content": "Пока эхо выстрелов и клубы дыма не похоронят каждый(-ое) мой(-ё) {0}…!"
+    },
+    {
+      "id": "introduce_word_147",
+      "content": "План"
+    },
+    {
+      "id": "introduce_sentence_147",
+      "content": "Несмотря на многочисленные недостатки этого {0}(-а), он будет доведен до совершенства."
+    },
+    {
+      "id": "introduce_word_148",
+      "content": "Протезированное тело"
+    },
+    {
+      "id": "introduce_sentence_148",
+      "content": "Мысли о наличии {0}(-а/-я) помогают притупить страх в бою."
+    },
+    {
+      "id": "introduce_word_149",
+      "content": "Скитание"
+    },
+    {
+      "id": "introduce_sentence_149",
+      "content": "Не отводи глаз, пусть ты будешь пойман в ловушку вечного {0}(-а/-я)."
+    },
+    {
+      "id": "introduce_word_150",
+      "content": "Дуллахан"
+    },
+    {
+      "id": "introduce_sentence_150",
+      "content": "Скачи навстречу своей гибели, {0}!"
+    },
+    {
+      "id": "introduce_word_151",
+      "content": "Инстинкты"
+    },
+    {
+      "id": "introduce_sentence_151",
+      "content": "Хмф. Это всего лишь ноша {0}(-а/-ов)."
+    },
+    {
+      "id": "introduce_word_152",
+      "content": "Соболезнования"
+    },
+    {
+      "id": "introduce_sentence_152",
+      "content": "Нет необходимости в показной, витиеватой прозе для выражения {0}(-а/-я/-ы)."
+    },
+    {
+      "id": "introduce_word_153",
+      "content": "Вера"
+    },
+    {
+      "id": "introduce_sentence_153",
+      "content": "Этот(эта/это) {0} - лишь напрасное стремление, разве не так…?"
+    },
+    {
+      "id": "introduce_word_154",
+      "content": "Сумка"
+    },
+    {
+      "id": "introduce_sentence_154",
+      "content": "Эх… По-моему это будет… просто очередная миссия {0}(-а/-я)…?"
+    },
+    {
+      "id": "introduce_word_155",
+      "content": "Уборка"
+    },
+    {
+      "id": "introduce_sentence_155",
+      "content": "Нет конца этой(этому) {0}(-е/-у)…"
+    },
+    {
+      "id": "introduce_word_156",
+      "content": "Цвай"
+    },
+    {
+      "id": "introduce_sentence_156",
+      "content": "Этот просчёт будет стоить {0}(-у/-е) своей чести…"
+    },
+    {
+      "id": "introduce_word_157",
+      "content": "Зрители"
+    },
+    {
+      "id": "introduce_sentence_157",
+      "content": "Может кто-то среди моих {0}(-ов/-ей) знает ответ…?"
+    },
+    {
+      "id": "introduce_word_158",
+      "content": "Безопасность"
+    },
+    {
+      "id": "introduce_sentence_158",
+      "content": "Я не думаю, что в желании {0}(-а/-и/-ы) для всех есть что-то плохое."
+    },
+    {
+      "id": "introduce_word_159",
+      "content": "Маска"
+    },
+    {
+      "id": "introduce_sentence_159",
+      "content": "Взгляд на мой(мои) {0}(-и) в ночи творит чудеса при усталости."
+    },
+    {
+      "id": "introduce_word_160",
+      "content": "Навык"
+    },
+    {
+      "id": "introduce_sentence_160",
+      "content": "Не волнуйтесь двигаясь вперёд, даже если у вас нет {0}(-а/-я)."
+    },
+    {
+      "id": "introduce_word_161",
+      "content": "Яблоко"
+    },
+    {
+      "id": "introduce_sentence_161",
+      "content": "Где же ты скрываешь {0}(-а)?!"
+    },
+    {
+      "id": "introduce_word_162",
+      "content": "Место"
+    },
+    {
+      "id": "introduce_sentence_162",
+      "content": "Вот что происходит, если ты не знаешь своего {0}(-а/-я)…"
+    },
+    {
+      "id": "introduce_word_163",
+      "content": "Жажда"
+    },
+    {
+      "id": "introduce_sentence_163",
+      "content": "Ты не ведаешь о нашей(-ем) {0}(-е)!"
+    },
+    {
+      "id": "introduce_word_164",
+      "content": "Кровь"
+    },
+    {
+      "id": "introduce_sentence_164",
+      "content": "Расцвети же из {0}(-а/-и/-ов)."
+    },
+    {
+      "id": "introduce_word_165",
+      "content": "Мишка"
+    },
+    {
+      "id": "introduce_sentence_165",
+      "content": "Ну же, маленький(-ая) {0}~ Танцуй для меня! Тадаа!"
+    },
+    {
+      "id": "introduce_word_166",
+      "content": "Проклятие"
+    },
+    {
+      "id": "introduce_sentence_166",
+      "content": "Почуствуй, каково это, когда кто-то накладывает {0} на тебя."
+    },
+    {
+      "id": "introduce_word_167",
+      "content": "Гемобатончик"
+    },
+    {
+      "id": "introduce_sentence_167",
+      "content": "Было время, когда я верил(-а) в величие {0}(-а/-ов)."
+    },
+    {
+      "id": "introduce_word_168",
+      "content": "Парад"
+    },
+    {
+      "id": "introduce_sentence_168",
+      "content": "Присоединишься ли ты к нам в этом… вечном {0}(-е/-и)?"
+    },
+    {
+      "id": "introduce_word_169",
+      "content": "Роковая пуля"
+    },
+    {
+      "id": "introduce_sentence_169",
+      "content": "Пусть этот(-а) проклятый(-ая) {0} пронзит их насквозь…!"
+    },
+    {
+      "id": "introduce_word_170",
+      "content": "Поручение"
+    },
+    {
+      "id": "introduce_sentence_170",
+      "content": "…Я больше не буду выполнять такие поручения с {0}(-ом/-ами) для тебя вновь."
+    },
+    {
+      "id": "introduce_word_171",
+      "content": "Равновесие"
+    },
+    {
+      "id": "introduce_sentence_171",
+      "content": "Я не терял {0}(-а/я)."
+    },
+    {
+      "id": "introduce_word_172",
+      "content": "Мечта"
+    },
+    {
+      "id": "introduce_sentence_172",
+      "content": "Это и было столь желанным(-ой) тобою {0}(-ой/-ом)?"
+    },
+    {
+      "id": "introduce_word_173",
+      "content": "Любопытство"
+    },
+    {
+      "id": "introduce_sentence_173",
+      "content": "{0} - это опасная штука, если ты не знал…"
+    },
+    {
+      "id": "introduce_word_174",
+      "content": "Монстр"
+    },
+    {
+      "id": "introduce_sentence_174",
+      "content": "В тени под твоей кроватью прячется(-утся)… {0}!!"
+    },
+    {
+      "id": "introduce_word_175",
+      "content": "Точка"
+    },
+    {
+      "id": "introduce_sentence_175",
+      "content": "{0}… прямо на твоей жизни."
+    },
+    {
+      "id": "introduce_word_176",
+      "content": "Прицеливание"
+    },
+    {
+      "id": "introduce_sentence_176",
+      "content": "Принято… Готов(-а) к {0}(-у/-ю)."
+    },
+    {
+      "id": "introduce_word_177",
+      "content": "Магическая пуля"
+    },
+    {
+      "id": "introduce_sentence_177",
+      "content": "Это действительно то, о чём вы говорили; {0}, что никогда не промахивается."
+    },
+    {
+      "id": "introduce_word_178",
+      "content": "Ловушка"
+    },
+    {
+      "id": "introduce_sentence_178",
+      "content": "Ах, не бойся, в этот раз тут нет поджидающего(-ей) тебя {0}(-а/-и)."
+    },
+    {
+      "id": "introduce_word_179",
+      "content": "Мерцание"
+    },
+    {
+      "id": "introduce_sentence_179",
+      "content": "Словно мотыльки, летящие на {0}."
+    },
+    {
+      "id": "introduce_word_180",
+      "content": "Горечь, раскаяние"
+    },
+    {
+      "id": "introduce_sentence_180",
+      "content": "{0}… всё это не имеет смысла."
+    },
+    {
+      "id": "introduce_word_181",
+      "content": "Семья"
+    },
+    {
+      "id": "introduce_sentence_181",
+      "content": "Ох, ты не хочешь связываться с нашим(-ей/-им) {0}(-ом/-ем) и просто уходишь?"
+    },
+    {
+      "id": "introduce_word_182",
+      "content": "Разборки"
+    },
+    {
+      "id": "introduce_sentence_182",
+      "content": "Я принимаю твой вызов на {0}!"
+    },
+    {
+      "id": "introduce_word_183",
+      "content": "Огни"
+    },
+    {
+      "id": "introduce_sentence_183",
+      "content": "Эй, будь осторожней с {0}(-ом/-ём)."
+    },
+    {
+      "id": "introduce_word_184",
+      "content": "Вздох"
+    },
+    {
+      "id": "introduce_sentence_184",
+      "content": "Можете ли вы вспомнить момент, когда {0} впервые смог(-ла/-ли) с лёгкостью вздохнуть?"
+    },
+    {
+      "id": "introduce_word_185",
+      "content": "Мастер своего дела"
+    },
+    {
+      "id": "introduce_sentence_185",
+      "content": "Ты должно быть ожидал найти {0}(-а/-я) среди посетителей сего ресторана, не так ли?"
+    },
+    {
+      "id": "introduce_word_186",
+      "content": "Офис огненного кулака"
+    },
+    {
+      "id": "introduce_sentence_186",
+      "content": "Они… все из {0}(-а)."
+    },
+    {
+      "id": "introduce_word_187",
+      "content": "Зайцы"
+    },
+    {
+      "id": "introduce_sentence_187",
+      "content": "Знал ли ты? {0} активен(-ны) в ночи."
+    },
+    {
+      "id": "introduce_word_188",
+      "content": "Мой господин"
+    },
+    {
+      "id": "introduce_sentence_188",
+      "content": "Сосредоточьтесь на ваших сегодняшних делах, {0}."
+    },
+    {
+      "id": "introduce_word_189",
+      "content": "Книга мести"
+    },
+    {
+      "id": "introduce_sentence_189",
+      "content": "Моя смерть не сотрёт {0} из книги мести…"
+    },
+    {
+      "id": "introduce_word_190",
+      "content": "Кости"
+    },
+    {
+      "id": "introduce_sentence_190",
+      "content": "Подвесить его(их) и сжечь! Опалите {0}(-у) до самого пепла!"
+    },
+    {
+      "id": "introduce_word_191",
+      "content": "Олень"
+    },
+    {
+      "id": "introduce_sentence_191",
+      "content": "Хаах… Они отправляют в первую очередь {0}, да?"
+    },
+    {
+      "id": "introduce_word_192",
+      "content": "Инструмент"
+    },
+    {
+      "id": "introduce_sentence_192",
+      "content": "Было бы очень тупо мстить всего-лишь {0}(-у), верно?"
+    },
+    {
+      "id": "introduce_word_193",
+      "content": "Зверь"
+    },
+    {
+      "id": "introduce_sentence_193",
+      "content": "Итого восемьдесят миссий… Ещё несколько, и мне больше не придётся быть {0}(-ом/-ем)."
+    },
+    {
+      "id": "introduce_word_194",
+      "content": "Учение"
+    },
+    {
+      "id": "introduce_sentence_194",
+      "content": "Тем не менее, нужно признать их нежелание стремиться к {0}(-у/-ю/-ам)."
+    },
+    {
+      "id": "introduce_word_195",
+      "content": "Желание"
+    },
+    {
+      "id": "introduce_sentence_195",
+      "content": "Хехехе! В {0}(-е/-и) сокрыто множество желаний, какое из них тебе хочется узреть воочию?!"
+    },
+    {
+      "id": "introduce_word_196",
+      "content": "Сомнение"
+    },
+    {
+      "id": "introduce_sentence_196",
+      "content": "Очистив разум свой от мыслей погреби веру. Молись во тьме с одержимостью, {0}."
+    },
+    {
+      "id": "introduce_word_197",
+      "content": "Кара"
+    },
+    {
+      "id": "introduce_sentence_197",
+      "content": "Прикрой же глаза свои и прими {0}(-а/-у) небес."
+    },
+    {
+      "id": "introduce_word_198",
+      "content": "Небеса"
+    },
+    {
+      "id": "introduce_sentence_198",
+      "content": "Этому осквернённому, отвратительному телу нет пути на {0}…"
+    },
+    {
+      "id": "introduce_word_199",
+      "content": "Весна"
+    },
+    {
+      "id": "introduce_sentence_199",
+      "content": "{0} пролетел(-а/-и/-о) довольно быстро…"
+    },
+    {
+      "id": "introduce_word_200",
+      "content": "Голова"
+    },
+    {
+      "id": "introduce_sentence_200",
+      "content": "То бездействие, которые вы проявили, будет стоить вашего(-ей/-их) {0}(-а/-ы/-ов)."
+    },
+    {
+      "id": "introduce_word_201",
+      "content": "Большой палец"
+    },
+    {
+      "id": "introduce_sentence_201",
+      "content": "В такие моменты я чувствую, что мне очень повезло быть частью {0}(-а/-и) на востоке."
     }
   ]
 }

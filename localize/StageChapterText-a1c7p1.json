@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": "chapter_p_107",
-      "company": "[font=bebas]Корп. P",
-      "area": "[font=bebas]16-й Район",
-      "chapter": "[font=bebas]Песнь VII",
+      "company": "Корп. P",
+      "area": "16-й Район",
+      "chapter": "Песнь VII",
       "chapterNumber": "07",
       "chaptertitle": "Конец мечтаний",
       "timeline": "984/12"

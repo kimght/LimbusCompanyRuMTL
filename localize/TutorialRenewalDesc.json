@@ -34,7 +34,7 @@
     },
     {
       "id": "tuto_00_01_02_02",
-      "content": "Посмотрите на <color=#f8c200>Приборную Панель<color=#ebcaa2>, потяните цепь с левой её части и соедините <color=#f8c200>Навыки<color=#ebcaa2>, чтобы говорить нам использовать их."
+      "content": "Посмотрите на <color=#f8c200>Приборную Панель<color=#ebcaa2>, потяните цепь с левой её части и соедините <color=#f8c200>Навыки<color=#ebcaa2>, чтобы указывать нам использовать их."
     },
     {
       "id": "tuto_00_01_02_03_title",
@@ -42,7 +42,7 @@
     },
     {
       "id": "tuto_00_01_02_04",
-      "content": "Используйте Приборную Панель для отдачи приказов Грешникам во время боёв.\n\nНачните Боевую Фазу, следуя этим шагам:\n1) Возьмите и тяните цепь с шестерни в левой части Приборной Панели.\n2) Проведите её сквозь Навыки, которые хотите использовать.\n3) Соединив все Навыки нажмите на шестерню в правой части, или сразу протяните цепь в неё, чтобы Боевая Фаза началась."
+      "content": "Используйте Приборную Панель для отдачи приказов Грешникам во время боёв.\n\nНачните <color=#f8c200>Боевую Фазу<color=#ebcaa2>, следуя этим шагам:\n1) Возьмите и тяните цепь с шестерни в левой части Приборной Панели.\n2) Проведите её сквозь Навыки, которые хотите использовать.\n3) Соединив все Навыки нажмите на шестерню в правой части, или сразу протяните цепь в неё, чтобы Боевая Фаза началась."
     },
     {
       "id": "tuto_00_02_01_01",
@@ -114,7 +114,7 @@
     },
     {
       "id": "tuto_00_02_03_04",
-      "content": "Так же можно видеть <color=#f8c200>текущее количество Монет<color=#ebcaa2> каждого Навыка.\n\nКоличество монет определяет следующее:\n<color=#f8c200>1) Сколько раз Навык должен оказаться слабее в Столкновении, чтобы проиграть в нём.\n2) Как много ударов Навык может нанести при атаке<color=#ebcaa2>."
+      "content": "Также можно видеть <color=#f8c200>текущее количество Монет<color=#ebcaa2> каждого Навыка.\n\nКоличество монет определяет следующее:\n<color=#f8c200>1) Сколько раз Навык должен оказаться слабее в Столкновении, чтобы проиграть в нём.\n2) Как много ударов Навык может нанести при атаке<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_02_03_05",
@@ -134,7 +134,7 @@
     },
     {
       "id": "tuto_00_02_03_07",
-      "content": "Как было видно на этом примере, <color=#f8c200>Столкновение<color=#ebcaa2> продолжалось, пока Измаил не оставила монет у противника.\nТот, у кого в итоге осталась <color=#f8c200>хотя бы одна целая монета<color=#ebcaa2>, всегда <color=#f8c200>побеждает в Столкновении<color=#ebcaa2>.\n\nЗапомните: победа в <color=#f8c200>Столкновениях<color=#ebcaa2> — один из фундаментальных аспектов победы в самой битве."
+      "content": "Как было видно на этом примере, <color=#f8c200>Столкновение<color=#ebcaa2> продолжалось, пока Измаил не оставила монет у навыка противника.\nТот, у кого в итоге осталась <color=#f8c200>хотя бы одна целая монета<color=#ebcaa2>, всегда <color=#f8c200>побеждает в Столкновении<color=#ebcaa2>.\n\nЗапомните: победа в <color=#f8c200>Столкновениях<color=#ebcaa2> — один из фундаментальных аспектов победы в самой битве."
     },
     {
       "id": "tuto_00_03_01_01",
@@ -142,7 +142,7 @@
     },
     {
       "id": "tuto_00_03_01_02",
-      "content": "<color=#f8c200>Силу духа<color=#ebcaa2> Грешников так же можно увидеть и на Приборной Панели около их портретов."
+      "content": "<color=#f8c200>Силу духа<color=#ebcaa2> Грешников также можно увидеть и на Приборной Панели около их портретов."
     },
     {
       "id": "tuto_00_03_01_03",
@@ -150,23 +150,23 @@
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "Значение <color=#f8c200>СД<color=#ebcaa2> каждого из участвующих зависит от различных факторов.\nОни могут восстанавливать СД из-за <color=#f8c200>положительных факторов (Победа в Столкновениях или убийство противников)<color=#ebcaa2>, но так же и терять её от <color=#f8c200>отрицательных.<color=#ebcaa2>"
+      "content": "Значение <color=#f8c200>СД<color=#ebcaa2> каждого из участвующих зависит от различных факторов.\nОни могут восстанавливать СД из-за <color=#f8c200>положительных факторов (Победа в Столкновениях или убийство противников)<color=#ebcaa2>, но также и терять её от <color=#f8c200>отрицательных<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_03_01_05",
-      "content": "<color=#f8c200>Чем выше знаение СД,<color=#ebcaa2> тем <color=#f8c200>больше шанс того, что монеты будут выпадать орлом<color=#ebcaa2>."
+      "content": "<color=#f8c200>Чем выше знаение СД<color=#ebcaa2>, тем <color=#f8c200>больше шанс того, что монеты будут выпадать орлом<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_03_02_01",
-      "content": "Все Грешники победили в своих Столкновениях во время прошлого хода, что повысило их Силу Духа.\nЭто поставило нас в более выгодное положение по сравнению с противниками. Пожалуйста, дайте следующую команду."
+      "content": "Все Грешники <color=#f8c200>победили в своих Столкновениях<color=#ebcaa2> во время прошлого хода, что <color=#f8c200>повысило их Силу Духа<color=#ebcaa2>.\nЭто поставило нас в более выгодное положение по сравнению с противниками.\nПожалуйста, дайте следующую команду."
     },
     {
       "id": "tuto_00_03_02_02",
-      "content": "Теперь обратите своё внимание на ОЗ (Очки Здоровья). Эта черта является <color=#f8c200>Границей Выносливости<color=#ebcaa2>."
+      "content": "Теперь обратите своё внимание на <color=#f8c200>ОЗ<color=#ebcaa2> (Очки Здоровья). Эта черта является <color=#f8c200>Границей Выносливости<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_03_02_03",
-      "content": "Когда значение ОЗ падает ниже неё, происходит <color=#f8c200>Оглушение<color=#ebcaa2>."
+      "content": "Когда значение <color=#f8c200>ОЗ<color=#ebcaa2> падает ниже неё, происходит <color=#f8c200>Оглушение<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_03_03_01",
@@ -198,7 +198,7 @@
     },
     {
       "id": "tuto_00_04_01_03",
-      "content": "Справа же находится <color=#f8c200>список всех Навыков<color=#ebcaa2> и<color=#f8c200> характеристика текущего уровня<color=#ebcaa2>."
+      "content": "Справа находится <color=#f8c200>список всех Навыков<color=#ebcaa2> и <color=#f8c200>характеристика текущего уровня<color=#ebcaa2>."
     },
     {
       "id": "tuto_00_04_01_04",
@@ -214,7 +214,7 @@
     },
     {
       "id": "tuto_00_04_01_07",
-      "content": "Урона каждого Навыков классифицируется по двум категориям: <color=#f8c200>3 типа атак<color=#ebcaa2> и <color=#f8c200>7 Грехов<color=#ebcaa2>.\nСопротивление цели к этим категориям может увеличить или уменьшить входящий урон.\n<color=#f8c200>Цифра сопротивления отображает фактический множитель входящего урона, и если она выше x1.0, это означает, что такой тип урона более эффективен и нанесёт больше урона.<color=#ebcaa2>"
+      "content": "Урон каждого из Навыков классифицируется по двум категориям: <color=#f8c200>3 типа атак<color=#ebcaa2> и <color=#f8c200>7 Грехов<color=#ebcaa2>.\nСопротивление цели к этим категориям может увеличить или уменьшить входящий урон.\n<color=#f8c200>Цифра сопротивления отображает фактический множитель входящего урона, и если он выше x1.0, то это означает, что такой тип урона более эффективен и нанесёт больше урона.<color=#ebcaa2>"
     },
     {
       "id": "tuto_00_04_01_08",
@@ -226,11 +226,11 @@
     },
     {
       "id": "tuto_00_04_02_02",
-      "content": "Начиная с союзников, <color=#f8c200>которые самыми первыми вошли в бой<color=#ebcaa2>, они получают по 1 Слоту Навыков с каждым прошедшим ходом. Это означает, что они получают дополнительную возможность атаковать."
+      "content": "Начиная с союзников, <color=#f8c200>которые были выбраны в команду первее остальных<color=#ebcaa2>, они получают по 1 Слоту Навыков с каждым прошедшим ходом. Это означает, что они получают дополнительную возможность атаковать."
     },
     {
       "id": "tuto_00_04_03_01",
-      "content": "Вы можете использовать эти кнопки, чтобы позволить Грешникам самим выбирать Навыки, которые они хотят использовать."
+      "content": "Вы можете использовать эти опции, чтобы позволять Грешникам самим выбирать Навыки, которые они хотят использовать."
     },
     {
       "id": "tuto_00_04_03_02",
@@ -254,11 +254,11 @@
     },
     {
       "id": "tuto_01_02_01_03",
-      "content": "<color=#f8c200>Соединение 3 и более находящихся рядом друг с другом Навыков<color=#ebcaa2> с одним типом Греха активирует <color=#f8c200>Абсолютный Резонанс<color=#ebcaa2>.\n\nПопробуйте активировать <color=#f8c200>Абсолютный Резонанс<color=#ebcaa2>, используя эти Навыки."
+      "content": "Соединение 3 и более <color=#f8c200>находящихся рядом друг с другом Навыков, которые имеют один и тот же Грех<color=#ebcaa2>, активирует <color=#f8c200>Абсолютный Резонанс<color=#ebcaa2>.\n\nПопробуйте активировать <color=#f8c200>Абсолютный Резонанс<color=#ebcaa2>, используя эти Навыки."
     },
     {
       "id": "tuto_01_02_01_04",
-      "content": "Активация <color=#f8c200>Резонанса<color=#ebcaa2> или <color=#f8c200>Абсолютного Резонанса<color=#ebcaa2> даёт незначительные усиления Навыкам, связанным Резонансом, например, небольшое увеличение их Силы."
+      "content": "Активация <color=#f8c200>Резонанса<color=#ebcaa2> или <color=#f8c200>Абсолютного Резонанса<color=#ebcaa2> даёт незначительные усиления Навыкам, связанным Резонансом. Например, небольшое увеличение их Силы."
     },
     {
       "id": "tuto_01_02_01_05_title",
@@ -266,7 +266,7 @@
     },
     {
       "id": "tuto_01_02_01_06",
-      "content": "Соединение нескольких Навыков с одним и тем же типом Греха во время хода активирует то, что называется <color=#f8c200>Резонансом<color=#ebcaa2>."
+      "content": "Соединение нескольких Навыков с одним и тем же типом <color=#f8c200>Греха<color=#ebcaa2> во время хода активирует то, что называется <color=#f8c200>Резонансом<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_02_02_01_title",
@@ -274,7 +274,7 @@
     },
     {
       "id": "tuto_01_02_02_02",
-      "content": "Соединение 3 и более Навыков с одним и тем же типом <color=#f8c200>Греха<color=#ebcaa2> во время хода активирует то, что называется <color=#f8c200>Абсолютным Резонансом<color=#ebcaa2>."
+      "content": "Соединение 3 и более <color=#f8c200>находящихся рядом друг с другом Навыков, которые имеют один и тот же Грех<color=#ebcaa2>, активирует <color=#f8c200>Абсолютный Резонанс<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_02_02_03_title",
@@ -286,7 +286,7 @@
     },
     {
       "id": "tuto_01_02_03_01",
-      "content": "У всех так же имеются свои уникальные <color=#f8c200>Пассивные умения<color=#ebcaa2>."
+      "content": "У всех также имеются свои уникальные <color=#f8c200>Пассивные умения<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_02_03_02",
@@ -298,7 +298,7 @@
     },
     {
       "id": "tuto_01_02_03_04",
-      "content": "И теперь нажмите на кнопку <color=#f8c200>\"Пассивки\"<color=#ebcaa2>, чтобы увидеть их список и условия активации."
+      "content": "Нажмите на кнопку <color=#f8c200>\"Пассивки\"<color=#ebcaa2>, чтобы увидеть их список и условия активации."
     },
     {
       "id": "tuto_01_02_03_05",
@@ -306,11 +306,11 @@
     },
     {
       "id": "tuto_01_02_03_06",
-      "content": "Теперь, пожалуйста, активируйте это <color=#f8c200>Пассивное умение Резонанса<color=#ebcaa2> достижением этого <color=#f8c200>Резонанса<color=#ebcaa2> с нужным Грехом.\n\nЭто пассивное умение требует Резонанса хотя бы 2 грехов <color=#004bd5>Гордыни<color=#ebcaa2>."
+      "content": "Теперь, пожалуйста, активируйте это <color=#f8c200>Пассивное умение Резонанса<color=#ebcaa2> достижением самого <color=#f8c200>Резонанса<color=#ebcaa2> с нужным Грехом.\n\nЭто пассивное умение требует Резонанса хотя бы 2 грехов <color=#004bd5>Гордыни<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_02_04_01",
-      "content": "Давайте посмотрим на иной вид пассивных умений.\n\nЭти иконки в левом верхнем углу так же показывают список доступных пассивных умений. Выберите иконку Мерсо, на которую я указываю."
+      "content": "Давайте рассмотрим иной вид пассивных умений.\n\nЭти иконки в левом верхнем углу также показывают список доступных пассивных умений. Выберите иконку Мерсо, на которую я указываю."
     },
     {
       "id": "tuto_01_02_04_02",
@@ -322,7 +322,7 @@
     },
     {
       "id": "tuto_01_02_04_04",
-      "content": "<color=#f8c200>Используйте Навыки<color=#ebcaa2>, чтобы <color=#f8c200>получать ЭГО Ресурсы соответствующих им Грехов<color=#ebcaa2>. Уже имеющиеся ЭГО ресурсы можно уведть здесь.\n\nС того момента, как мы набрали необходимое количество ЭГО Ресурса Лености в прошлом ходе, это пассивное умение было активировано."
+      "content": "<color=#f8c200>Используйте Навыки<color=#ebcaa2>, чтобы <color=#f8c200>получать ЭГО Ресурсы соответствующих им Грехов<color=#ebcaa2>. Уже имеющиеся ЭГО ресурсы можно уведть здесь.\n\nС того момента, как мы набрали необходимое количество ЭГО Ресурсов Лености в прошлом ходе, это пассивное умение было активировано."
     },
     {
       "id": "tuto_01_02_04_05",
@@ -334,31 +334,31 @@
     },
     {
       "id": "tuto_01_02_04_07_title",
-      "content": "Пассивные умения поддержки"
+      "content": "Пассивные умения Поддержки"
     },
     {
       "id": "tuto_01_02_04_08",
-      "content": "Грешники, чей <color=#f8c200>Уровень Связи<color=#ebcaa2> был поднят до требуемого, могут использовать их.\nПассивные умения Поддержки, как и обычные, имеют тип активации за <color=#f8c200>Резонанс<color=#ebcaa2> или <color=#f8c200>Получение необходимого количества ЭГО Ресурсов<color=#ebcaa2>."
+      "content": "Грешники, чей <color=#f8c200>Уровень Связи<color=#ebcaa2> был поднят до требуемого, могут использовать их.\nПассивные умения Поддержки, как и обычные, имеют тип активации за <color=#f8c200>Резонанс<color=#ebcaa2> или <color=#f8c200>Наличие необходимого количества ЭГО Ресурсов<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_03_01_01",
-      "content": "В дополнение к Атакующим Навыкам, все имеют так же и <color=#f8c200>Защитные<color=#ebcaa2>."
+      "content": "В дополнение к Атакующим Навыкам, все имеют также и <color=#f8c200>Защитные<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "Слегка нажмите на портрет Грешника, чтобы сменить его самый нижний Навык на Приборной Панели <color=#f8c200>Защитным<color=#ebcaa2>, либо отменить его."
+      "content": "Нажмите на портрет Грешника, чтобы заменить его самый нижний Навык на Приборной Панели <color=#f8c200>Защитным<color=#ebcaa2>, либо отменить его."
     },
     {
       "id": "tuto_01_03_01_03",
-      "content": "Для начала попробуйте нажать на портрет Мерсо, чтобы использовать поставить <color=#f8c200>Защитный Навык<color=#ebcaa2> вместо нижнего."
+      "content": "Для начала попробуйте нажать на портрет Мерсо, чтобы поставить <color=#f8c200>Защитный Навык<color=#ebcaa2> вместо нижнего."
     },
     {
       "id": "tuto_01_03_01_04",
-      "content": "Теперь выберите мой портрет, чтобы использовать Навык <color=#f8c200>Уворота<color=#ebcaa2>."
+      "content": "Теперь выберите мой портрет, чтобы поставить <color=#f8c200>Уворот<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_03_01_05",
-      "content": "И наконец, нажмите на портрет Хитклифа, чтобы использовать <color=#f8c200>Контратаку<color=#ebcaa2>."
+      "content": "И наконец, нажмите на портрет Хитклифа, чтобы поставить <color=#f8c200>Контратаку<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_03_01_06_title",
@@ -366,7 +366,7 @@
     },
     {
       "id": "tuto_01_03_01_07",
-      "content": "Используйте <color=#f8c200>Блок<color=#ebcaa2>, чтобы получить дополнительные ОЗ в виде <color=#f8c200>Щита<color=#ebcaa2> до конца хода, равные Итоговой силе этого Навыка.\nВесь урон по нему будет поглощён без снижения обычных ОЗ."
+      "content": "Используйте <color=#f8c200>Блок<color=#ebcaa2>, чтобы получить дополнительные ОЗ в виде <color=#f8c200>Щита<color=#ebcaa2> до конца хода,  <color=#f8c200>равные Итоговой силе<color=#ebcaa2> этого Навыка.\nВесь урон по нему будет поглощён без снижения обычных ОЗ."
     },
     {
       "id": "tuto_01_03_01_08_title",
@@ -374,7 +374,7 @@
     },
     {
       "id": "tuto_01_03_01_09",
-      "content": "При использовании <color=#f8c200>Уровота<color=#ebcaa2>, если его Итоговая сила больше или равна Итоговой силе атакующего его Навыка, наносящий удар не сможет попасть.\nТакие Навыки подбрасывают свою монету каждый раз, как это делает атакующий.\nОднако, если в моменте Итоговая сила такого Уворота окажется ниже, чем у атакующего, у него представится возможность нанести удар, а Уворот больше не сможет подбрасывать свою монету.\nЕсли уворот прошёл успешно, он всё ещё будет использоваться на протяжении хода против других атак от противников, чья Скорость равна или ниже, чем у атаковавшего до этого."
+      "content": "При использовании <color=#f8c200>Уровота<color=#ebcaa2>, если его Итоговая сила больше или равна Итоговой силе атакующего его Навыка, наносящий удар не сможет попасть.\nОднако, если в моменте Итоговая сила Уворота окажется ниже, чем у атакующего, у него представится возможность нанести удар, а Уворот больше не сможет подбрасывать свою монету.\nЕсли уворот прошёл успешно, он всё ещё будет использоваться на протяжении хода против других атак от противников, чья Скорость равна или ниже, чем у атаковавшего до этого."
     },
     {
       "id": "tuto_01_03_01_10_title",
@@ -382,7 +382,7 @@
     },
     {
       "id": "tuto_01_03_01_11",
-      "content": "<color=#f8c200>Контратака<color=#ebcaa2> позволяет противнику первому нанести удар, color=#f8c200>после чего наносит ему ответную Одностороннюю атаку<color=#ebcaa2>.\nНо тем не менее, если атака смогла оглушить того, кто использовал Контратаку, он не сможет ею ответить."
+      "content": "<color=#f8c200>Контратака<color=#ebcaa2> позволяет противнику первому нанести удар, <color=#f8c200>после чего происходит ответная Односторонняя атака<color=#ebcaa2>.\nНо тем не менее, если атака смогла оглушить того, кто использовал Контратаку, он не сможет ею ответить."
     },
     {
       "id": "tuto_01_03_01_12",
@@ -394,19 +394,19 @@
     },
     {
       "id": "tuto_01_03_02_01",
-      "content": "При определённых условиях <color=#f8c200>Защитные Навыки<color=#ebcaa2> могут быть более предпочительным решением, нежели Столкновение с противником. Однако несвоевременное использование этих навыков может подвергнуть Грешников большому риску."
+      "content": "При определённых условиях <color=#f8c200>Защитные Навыки<color=#ebcaa2> могут быть более предпочительным решением, нежели столкновение с противником. Однако их несвоевременное использование может подвергнуть Грешников большому риску."
     },
     {
       "id": "tuto_01_03_02_02",
-      "content": "Так же учтите, что Грешники не будут сами использовать эти Навыки, когда вы позволяете им самим принимать решение. Держите это в голове, когда используете \"Шанс успеха\" или \"Урон\" вместо отдачи команд вручную."
+      "content": "Также учтите, что Грешники не будут сами использовать эти Навыки, когда вы позволяете им самим принимать решения. Держите это в уме, когда используете \"Шанс успеха\" или \"Урон\" вместо отдачи команд вручную."
     },
     {
       "id": "tuto_01_04_01_01_title",
-      "content": "Adjusting Density of Information on Screen During Combat"
+      "content": "Регулирование количества информации в бою"
     },
     {
       "id": "tuto_01_04_01_02",
-      "content": "At the top right of the in-battle screen, there is a button that adjusts the amount of information displayed.\n\nThe three options set the display density to <color=#f8c200>minimum, medium, or maximum<color=#ebcaa2>, respectively."
+      "content": "Cправа сверху находится переключатель количества отображаемой информации.\n\nЭти три параметра устанавливаются на <color=#f8c200>минимальное, среднее и максимальное<color=#ebcaa2> количество соответственно."
     },
     {
       "id": "tuto_01_04_01_03_title",
@@ -414,7 +414,7 @@
     },
     {
       "id": "tuto_01_04_01_04",
-      "content": "The maximum information display configuration.\n\nThis is the default setting applied when first starting the game.\n\nMore information is shown compared to the other two settings.\n\nDetails on Keywords used in Skills are shown as well."
+      "content": "Эта настройка применена по умолчанию.\n\nЗдесь показано гараздо больше информации по сравнению с двумя другими опциями.\n\nПоказаны подробные сведения о ключевых словах навыка, а также о самом навыке."
     },
     {
       "id": "tuto_01_04_01_05_title",
@@ -422,7 +422,7 @@
     },
     {
       "id": "tuto_01_04_01_06",
-      "content": "The medium information display configuration.\n\nIn this setting, details on Keywords used in Skills will not be shown.\n\nOtherwise, it functions the same as the maximum setting."
+      "content": "В режиме среднего количества информации не будут отображены ключевые слова навыков."
     },
     {
       "id": "tuto_01_04_01_07_title",
@@ -430,367 +430,367 @@
     },
     {
       "id": "tuto_01_04_01_08",
-      "content": "The minimum information display configuration.\n\nIn this setting, information on effects and Keywords of Skills will not be displayed."
+      "content": "С опцией минимального количества информации будет показана лишь базовая информация о навыке."
     },
     {
       "id": "tuto_01_08_01_01",
-      "content": "Let's learn how to use <color=#f8c200><E.G.O><color=#ebcaa2>."
+      "content": "Настало время научиться использовать <color=#f8c200>ЭГО<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_08_01_02",
-      "content": "<color=#f8c200><E.G.O><color=#ebcaa2> are each Sinner's <color=#f8c200>unique Skills<color=#ebcaa2> that can be used <color=#f8c200>regardless of the Identity<color=#ebcaa2> they are wearing."
+      "content": "<color=#f8c200>ЭГО<color=#ebcaa2> является <color=#f8c200>особым Навыком<color=#ebcaa2> каждого Грешника, который можно использовать независимо от выбранной на него Идентичности."
     },
     {
       "id": "tuto_01_08_01_03",
-      "content": "Let's inspect Sinner Heathcliff's <color=#f8c200>E.G.O<color=#ebcaa2>.\n\nPress and hold Sinner Heathcliff's portrait at the bottom of the Dashboard."
+      "content": "Давайте изучим <color=#f8c200>ЭГО Хитклифа<color=#ebcaa2>.\n\nЗажмите его портрет для открытия соответствующей информации."
     },
     {
       "id": "tuto_01_08_01_04",
-      "content": "Every <color=#f8c200><E.G.O><color=#ebcaa2> currently equipped by Sinner Heathcliff are visible here."
+      "content": "Каждое экипированное для Грешника <color=#f8c200>ЭГО<color=#ebcaa2> отображено здесь."
     },
     {
       "id": "tuto_01_08_01_05",
-      "content": "Using <color=#f8c200><E.G.O><color=#ebcaa2> Skills consumes <color=#f8c200>E.G.O resources<color=#ebcaa2> and <color=#f8c200>SP<color=#ebcaa2>.\n\nThe amount of SP consumed by each <color=#f8c200><E.G.O><color=#ebcaa2> is listed at the top left corner of its information card.\n\nNow, select this <color=#f8c200><E.G.O><color=#ebcaa2>—'Bodysack'."
+      "content": "Использование ЭГО <color=#f8c200>тратит ЭГО ресурсы и Силу духа<color=#ebcaa2>, но взамен <color=#f8c200>имеет ощутимо большую силу<color=#ebcaa2>, нежели обычные навыки.\n\nЦена Силы духа отображена в верхней левой части <color=#f8c200>карты ЭГО<color=#ebcaa2>.\n\nТеперь попробуйте использовать это <color=#f8c200>базовое ЭГО<color=#ebcaa2> Хитклифа — \"Мешок для тел\"."
     },
     {
       "id": "tuto_01_08_01_06",
-      "content": "It seems we don't have enough E.G.O resources to use the <color=#f8c200><E.G.O><color=#ebcaa2> Skill.\n\nEach <color=#f8c200><E.G.O><color=#ebcaa2> Skill requires a certain amount of <color=#f8c200>E.G.O resources<color=#ebcaa2> to activate."
+      "content": "На момент начала битвы у нас нет <color=#f8c200>ЭГО ресурсов<color=#ebcaa2> для использования ЭГО навыков.\n\nКаждый <color=#f8c200>ЭГО навык<color=#ebcaa2> требует определённое количество различных <color=#f8c200>ЭГО ресурсов<color=#ebcaa2> для своей активации."
     },
     {
       "id": "tuto_01_08_01_07",
-      "content": "Here, you can view the number of <E.G.O resources> and their Affinities required to use this <color=#f8c200><E.G.O><color=#ebcaa2> Skill.\n\nIt seems that we do not have enough Orange <color=#ff6600><Lust><color=#ebcaa2> and Purple <color=#9500de><Envy><color=#ebcaa2> E.G.O resources."
+      "content": "Здесь вы можете заметить те ЭГО ресурсы, которые необходимы для конкретно этого ЭГО.\n\nКак мы видим, нам нужно по 2 ЭГО ресурса Грехов <color=#ff6600>Похоти<color=#ebcaa2> и <color=#9500de>Зависти<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_08_01_08",
-      "content": "View your current <color=#f8c200><E.G.O resource><color=#ebcaa2> reserves here.\n\nThe names of each Sin Affinity for <color=#f8c200><E.G.O resources><color=#ebcaa2> may still be unfamiliar to you, but you can check which is which by selecting each E.G.O's Sin Affinity resistances in the detailed info window."
+      "content": "Количество собранных в битве <color=#f8c200>ЭГО ресурсов<color=#ebcaa2> всегда находится справа.\n\nНазвания каждого из Грехов всё ещё могут быть вам незнакомы, поэтому вы всегда можете просмотреть их, нажав на соответствующую иконку."
     },
     {
       "id": "tuto_01_08_01_09",
-      "content": "Required <color=#f8c200><E.G.O resources><color=#ebcaa2> can be obtained by using Skills during battle. For example, an Envy-colored Skill will grant an Envy resource.\n\nAs luck would have it, the units currently on the field possess Skills with the Affinities we need. Put them to use."
+      "content": "Необходимые ЭГО ресурсы могут быть получены <color=#f8c200>путём использования на протяжении битвы навыков с соответствующим типом Грехов<color=#ebcaa2>, как мы и обсуждали это ранее в разговоре о пассивных умениях.Если брать для примера, то окрашенные в фиолетовый цвет навыки относятся к Греху <color=#9500de>Зависти<color=#ebcaa2>.\n\nК счастью, на данный момент в нашем распоряжении на приборной панели есть навыки с необходимыми типами Грехов."
     },
     {
       "id": "tuto_01_08_02_01",
-      "content": "Press the <color=#f8c200>Win Rate<color=#ebcaa2> button to order the Sinners to choose their own Skills based on Clash Win rate."
+      "content": "Нажмите <color=#f8c200>\"Шанс успеха\"<color=#ebcaa2> для быстрой оценки ситуации."
     },
     {
       "id": "tuto_01_08_02_02",
-      "content": "As you can see here, an enemy is about to launch a <color=#f8c200>powerful attack<color=#ebcaa2> against Sinner Heathcliff—and it's unlikely he will win this Clash."
+      "content": "Как можно заметить, противник собирается использовать сильную атаку против Хитклифа, которую он не сможет отразить."
     },
     {
       "id": "tuto_01_08_02_03",
-      "content": "When a unit is about to <color=#f8c200><Clash><color=#ebcaa2> with a difficult enemy Skill, you can use an <color=#f8c200><E.G.O><color=#ebcaa2> Skill to turn the situation around.\nTheir high Power makes them especially effective against strong enemy Skills."
+      "content": "Когда необходимо столкнуться с каким-либо сильным навыком противника и у вас не остаётся других вариантов, в дело может вступить <color=#f8c200>использование ЭГО навыка<color=#ebcaa2>, чтобы попробовать перевернуть ситуацию в нашу пользу."
     },
     {
       "id": "tuto_01_08_02_04",
-      "content": "If there are any usable <color=#f8c200><E.G.O><color=#ebcaa2> Skills for which you have enough resources, it will be indicated in the shape surrounding the Sinner, as shown here."
+      "content": "Если становится достаточно ЭГО ресурсов для активации каких-либо <color=#f8c200>ЭГО навыков<color=#ebcaa2>, они будут подсвечены около портретов Грешников."
     },
     {
       "id": "tuto_01_08_02_05",
-      "content": "Press and hold Sinner Heathcliff's portrait again to enter the <color=#f8c200><E.G.O><color=#ebcaa2> selection menu."
+      "content": "Снова зажмите портрет Хитклифа и перейдите к выбору ЭГО навыков."
     },
     {
       "id": "tuto_01_08_02_06",
-      "content": "You now have enough resources to use this <color=#f8c200><E.G.O><color=#ebcaa2> Skill.\n\nDouble-tap to select his <color=#f8c200>Bodysack<color=#ebcaa2> E.G.O Skill again and equip it in Heathcliff's Skill Slot."
+      "content": "Теперь у нас достаточно ЭГО ресурсов для активации того ЭГО навыка, который мы изучали ранее.\n\n<color=#f8c200>Дважды нажмите<color=#ebcaa2> на карту ЭГО навыка \"Мешок для тел\", чтобы выбрать его для использования."
     },
     {
       "id": "tuto_01_08_02_07",
-      "content": "Once selected, the <color=#f8c200><E.G.O><color=#ebcaa2> Skill will automatically be equipped in the bottom Skill Slot of the respective Sinner."
+      "content": "<color=#f8c200>ЭГО навык займёт нижний слот навыков<color=#ebcaa2> Грешника на приборной панели."
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "<color=#f8c200>Equipping a different <E.G.O> Skill<color=#ebcaa2> in the same Slot, or swapping it for a <color=#f8c200>Defense Skill<color=#ebcaa2>, will unequip the current <E.G.O> Skill and refund the E.G.O resources spent to equip it."
+      "content": "<color=#f8c200>Использование иного ЭГО<color=#ebcaa2> в том же слоте навыков <color=#f8c200>или переключение на Защитный навык<color=#ebcaa2> отменит уже выбранное ЭГО, а также вернёт использованные для него ЭГО ресурсы."
     },
     {
       "id": "tuto_01_08_02_09",
-      "content": "Now, let's return to the battle at hand."
+      "content": "А теперь давайте вернемся к предстоящему столкновению."
     },
     {
       "id": "tuto_01_08_02_10",
-      "content": "The <color=#f8c200>SP cost is consumed<color=#ebcaa2> the moment the <color=#f8c200><E.G.O><color=#ebcaa2> Skill begins its attack.\n\nBe warned: letting a Sinner's SP drop too low may cause them to <color=#f8c200>Panic<color=#ebcaa2> or become <color=#f8c200>Corroded<color=#ebcaa2> by their <color=#f8c200><E.G.O><color=#ebcaa2>."
+      "content": "<color=#f8c200>Трата указанного количества Силы духа<color=#ebcaa2> происходит непосредственно перед началом атаки.\n\nНо будьте начеку: если СД Грешника упадёт слишком низко, то он попадёт в состояние <color=#f8c200>Паники<color=#ebcaa2> или даже <color=#f8c200>Коррозии<color=#ebcaa2>, если у него есть экипированные ЭГО, отличные от базового."
     },
     {
       "id": "tuto_01_08_03_01",
-      "content": "Raising an <E.G.O> Skill's Threadspinning Tier unlocks its <color=#f8c200><E.G.O> Passive<color=#ebcaa2>.\nOnce the turn in which this unit used the <E.G.O> Skill ends and the battle moves to the <color=#f8c200>next turn<color=#ebcaa2>, the Skill's unique <color=#f8c200><E.G.O> Passive<color=#ebcaa2> will activate.\n\nYou can view detailed information about <E.G.O> Passives in each Sinner's detailed info menu."
+      "content": "Повышение уровня связи каждого ЭГО открывает их <color=#f8c200>Пассивные эффекты<color=#ebcaa2>.\nОни активируются в начале следующего хода после использования самого ЭГО.\n\nИнформацию о них можно увидеть в описании самого ЭГО, которое можно найти в детальной информации Грешника."
     },
     {
       "id": "tuto_01_09_01_01",
-      "content": "In this Encounter, we will learn about more advanced usage of <E.G.O>.\nSinner Ryōshū will begin with a higher SP value for demonstration purposes."
+      "content": "Для лучшей демонстрации, Рёшу уже имеет высокую СД."
     },
     {
       "id": "tuto_01_09_01_02",
-      "content": "Every E.G.O Skill, except for Base E.G.O Skills, can be <color=#f8c200><Overclocked><color=#ebcaa2>.\nPress and hold Sinner Ryōshū's portrait to bring up the list of her E.G.O."
+      "content": "Любое ЭГО кроме базовых может поддаться <color=#f8c200>Разгону<color=#ebcaa2>.\nЗажмите портрет Рёшу для перехода к списку экипированных ЭГО."
     },
     {
       "id": "tuto_01_09_01_03",
-      "content": "Let's first try using Ryōshū's newly acquired E.G.O Awakening Skill."
+      "content": "Давайте попробуем использовать то ЭГО для Рёшу."
     },
     {
       "id": "tuto_01_09_01_04",
-      "content": "You can <color=#f8c200>change the Sinner's Sin Resistances<color=#ebcaa2> by <color=#f8c200>using their E.G.O<color=#ebcaa2>.\nCheck the Sin Affinities of enemy Skills, and use an appropriate E.G.O to adjust your Resistances and gain an advantage."
+      "content": "<color=#f8c200>Сопротивления Грешника к определённым Грехам могут быть изменены<color=#ebcaa2> посредством использования ЭГО."
     },
     {
       "id": "tuto_01_09_01_05",
-      "content": "Let's use that E.G.O Skill again."
+      "content": "Давайте используем это ЭГО вновь."
     },
     {
       "id": "tuto_01_09_01_06",
-      "content": "E.G.O Skills have a chance to <color=#f8c200>Corrode<color=#ebcaa2> at lower <color=#f8c200>SP<color=#ebcaa2> values.\nBe warned: Corrosion causes the Sinner to use a Corrosion Skill, which attacks allies and enemies indiscriminately.\nYou can view the Corrosion chance here."
+      "content": "Грешник может поддаться <color=#f8c200>Коррозии ЭГО<color=#ebcaa2> при низком значении <color=#f8c200>СД<color=#ebcaa2>.\nВ этом состоянии он будет атаковать <color=#f8c200>навыком коррозии<color=#ebcaa2> соответствующего ЭГО и чаще всего не выполнять ваши приказы.\nШанс коррозии на текущий момент отображён здесь."
     },
     {
       "id": "tuto_01_09_01_07",
-      "content": "Reaching <color=#f8c200>-45 SP<color=#ebcaa2> will guarantee that the Sinner enters <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state.\nIn an <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state, the Sinner will indiscriminately attack both allies and enemies."
+      "content": "<color=#f8c200>При падении СД до -45<color=#ebcaa2> Грешник гарантированно будет поглощён <color=#f8c200>Коррозией ЭГО<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_09_01_08",
-      "content": "The Sinner will recover from the <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> state next turn, and their SP will reset to 0."
+      "content": "Грешник восстанавливается от этого в начале следующего хода и сбрасывает свою СД до 0."
     },
     {
       "id": "tuto_01_09_01_09",
-      "content": "Let's try the <color=#f8c200><E.G.O Overclock><color=#ebcaa2> this time. Press and hold Ryōshū's portrait."
+      "content": "Наконец перейдём к <color=#f8c200>Разгону ЭГО<color=#ebcaa2>.."
     },
     {
       "id": "tuto_01_09_01_10",
-      "content": "Press and hold the E.G.O Skill card to <color=#f8c200><E.G.O Overclock><color=#ebcaa2> it.\nUsing <E.G.O Overclock> <color=#f8c200>forces the Sinner to use the Corrosion Skill<color=#ebcaa2> of the <E.G.O>."
+      "content": "Зажмите карту соответствующего ЭГО, чтобы <color=#f8c200>Разогнать<color=#ebcaa2> его.\nИспользование Разгона ЭГО способствует тому, чтобы Грешник <color=#f8c200>намеренно использовал вариант Коррозии ЭГО<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_09_01_11",
-      "content": "If you have enough resources to use the Overclocked E.G.O Skill, it will activate as <color=#f8c200>Stable Overclock<color=#ebcaa2>. If not, it will activate as <color=#f8c200>Unstable Overclock<color=#ebcaa2>."
+      "content": "Если на активацию такого варианта у нас достаточно ЭГО ресурсов, то это будет <color=#f8c200>Стабильный разгон<color=#ebcaa2>. В ином случае произойдёт <color=#f8c200>Нестабильный разгон<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_09_01_12_title",
-      "content": "Stable Overclock"
+      "content": "Стабильный разгон"
     },
     {
       "id": "tuto_01_09_01_12",
-      "content": "Activating <color=#f8c200><Stable Overclock><color=#ebcaa2> consumes <color=#f8c200>1.5 times the resources (including SP)<color=#ebcaa2> compared to a non-Overclocked E.G.O, but it does <color=#f8c200>not target allies<color=#ebcaa2>.\nWarning: Even a Stable Overclock can <color=#f8c200>Corrode<color=#ebcaa2> your Sinners if their <color=#f8c200>SP value is low<color=#ebcaa2>."
+      "content": "Активация <color=#f8c200>Стабильного разгона<color=#ebcaa2> требует <color=#f8c200>в полтора раза больше ЭГО ресурсов и СД<color=#ebcaa2>, но <color=#f8c200>союзники больше не будут становиться целями<color=#ebcaa2>.\nОднако не забывайте, что Грешник всё ещё может поддаться Коррозии ЭГО при низкой СД."
     },
     {
       "id": "tuto_01_09_01_13_title",
-      "content": "Unstable Overclock"
+      "content": "Нестабильный разгон"
     },
     {
       "id": "tuto_01_09_01_13",
-      "content": "Activating <color=#f8c200><E.G.O Overclock><color=#ebcaa2> without enough resources will trigger <color=#f8c200><Unstable Overclock><color=#ebcaa2> instead.\nUnstable Overclock targets both allies and enemies <color=#f8c200>indiscriminately<color=#ebcaa2>, like E.G.O Corrosion, and any <color=#f8c200>insufficient E.G.O resources will go into the negatives<color=#ebcaa2>."
+      "content": "Активация <color=#f8c200>Разгона ЭГО<color=#ebcaa2> при отсутствии необходимых ЭГО ресурсов приведёт к <color=#f8c200>Нестабильному разгону<color=#ebcaa2>.\nВ этом варианте целями наравне с противниками могут стать другие Грешники, а <color=#f8c200>ЭГО ресурсы уйдут в минус<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_01_01",
-      "content": "Entities known as <color=#f8c200>Abnormalities<color=#ebcaa2> may be found in Dungeons."
+      "content": "В подземельях мы будем встречаться с сущностями, называемыми <color=#f8c200>Аномалиями<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_01_02",
-      "content": "A different kind of approach is needed in Encounters against Abnormalities."
+      "content": "При столкновении с ними необходим иной подход."
     },
     {
       "id": "tuto_01_11_abbattle_01_03",
-      "content": "Battles that employ this different approach are called <color=#f8c200>Focused Encounters<color=#ebcaa2>. Let's explore its mechanics."
+      "content": "Битвы, в которых используется этот подход, зовутся <color=#f8c200>Фокусированными<color=#ebcaa2>. Давайте изучим их принцип."
     },
     {
       "id": "tuto_01_11_abbattle_01_04",
-      "content": "All abnormalities have one or more <color=#f8c200>Parts<color=#ebcaa2>."
+      "content": "У каждой аномалии имеется хотя бы одна <color=#f8c200>Часть<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_01_05",
-      "content": "Each Part has their own set of Skill Slots and Speed values."
+      "content": "У каждой из Частей свои слоты навыков и своя скорость."
     },
     {
       "id": "tuto_01_11_abbattle_01_06_title",
-      "content": "Abnormality Parts"
+      "content": "Части аномалий"
     },
     {
       "id": "tuto_01_11_abbattle_01_06",
-      "content": "Abnormalities often have multiple Parts that can be targeted.\n\nEach Part uses Skills from its assigned Skill Slots, and its Speed values can change from turn to turn."
+      "content": "У аномалий могут быть несколько Частей, на которые можно нацелиться.\n\nКаждая часть имеет свои навыки и слоты, а также собственную минимальную и максимальную скорость."
     },
     {
       "id": "tuto_01_11_abbattle_01_07",
-      "content": "In Focused Encounters, you must select the Sinners' Skill icons and chain them <color=#f8c200>directly<color=#ebcaa2> to the Abnormalities' Skill Slots."
+      "content": "В Фокусированных битвах вам необходимо выбрать навык Грешника и <color=#f8c200>навести его<color=#ebcaa2> прямо на слот навыков противников."
     },
     {
       "id": "tuto_01_11_abbattle_01_08",
-      "content": "Select a Skill from the leftmost column of the Dashboard."
+      "content": "Выберите самый левый навык на приборной панели."
     },
     {
       "id": "tuto_01_11_abbattle_01_09",
-      "content": "Now, drag from the selected Skill to <color=#f8c200>this enemy Skill Slot to chain them<color=#ebcaa2>."
+      "content": "И теперь соедините его <color=#f8c200>прямо с этим слотом навыков аномалии<color=#ebcaa2>, чтобы столкнуть их."
     },
     {
       "id": "tuto_01_11_abbattle_01_10",
-      "content": "Remember: in Focused Encounters, you connect the Sinners' Skills directly to the enemies' Skill Slots."
+      "content": "Запомните: в фокусированных битвах вы напрямую соединяете навыки Грешников с навыками противников."
     },
     {
       "id": "tuto_01_11_abbattle_01_11",
-      "content": "Please press the gear on the left if you would like to zoom out and view the entire battlefield."
+      "content": "Нажмите на эту лупу слева, чтобы скорректировать вид поля боя."
     },
     {
       "id": "tuto_01_11_abbattle_01_12",
-      "content": "Pressing the gear on the left while zoomed in\nwill reset your field of view."
+      "content": "Нажатие на неё сбрасывает текущий\nвид на поле боя."
     },
     {
       "id": "tuto_01_11_abbattle_01_13",
-      "content": "Once you have <color=#f8c200>connected every available Skill to the enemies' Skill Slots<color=#ebcaa2>, the gear icon on the right—the button to enter the combat phase—will activate. Only then can you proceed to the Combat Phase."
+      "content": "Как только вы <color=#f8c200>соедините все имеющиеся на приборной панели навыки Грешников с навыками противников<color=#ebcaa2>, шестерня справа станет доступной для нажатия, чтобы начать боевую фазу."
     },
     {
       "id": "tuto_01_11_abbattle_01_14",
-      "content": "Now, <color=#f8c200>chain every Sinner's Skills to the enemy Slots<color=#ebcaa2>, then start the combat phase using the gear icon on the right."
+      "content": "<color=#f8c200>Соедините все навыки Грешников с навыками противников<color=#ebcaa2> и начните боевую фазу."
     },
     {
       "id": "tuto_01_11_abbattle_02_01",
-      "content": "<color=#f8c200>Speed<color=#ebcaa2> determines the order of actions taken in Focused Encounters."
+      "content": "<color=#f8c200>Скорость<color=#ebcaa2> также влияет на порядок действий."
     },
     {
       "id": "tuto_01_11_abbattle_02_02",
-      "content": "The Speed assigned to each unit for this turn can be viewed here, <color=#f8c200>next to their Skill Slots<color=#ebcaa2>."
+      "content": "Скорость каждого участника битвы видна <color=#f8c200>около слотов навыков<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_02_03",
-      "content": "Speed of allied units can be viewed here <color=#f8c200>on the Dashboard<color=#ebcaa2> as well."
+      "content": "Скорость Грешников видна и <color=#f8c200>на приборной панели<color=#ebcaa2> тоже."
     },
     {
       "id": "tuto_01_11_abbattle_02_04",
-      "content": "As you have just seen, Focused Encounters are conducted by chaining your units' Skills <color=#f8c200>directly<color=#ebcaa2> to enemy Skill Slots."
+      "content": "Как вы уже могли заметить, Фокусированные битвы проходят через через <color=#f8c200>прямое<color=#ebcaa2> соединение навыков для столкновения."
     },
     {
       "id": "tuto_01_11_abbattle_02_05",
-      "content": "Now, let's learn how to handle situations where several enemies are focusing on a single allied unit.\nHover over then select this unit's Slot here."
+      "content": "Теперь давайте узнаем, как справляться с ситуациями, когда несколько врагов сосредотачиваются на одном союзнике.\nНаведитесь на этот слот навыков и оцените ситуацию."
     },
     {
       "id": "tuto_01_11_abbattle_02_06",
-      "content": "<color=#f8c200>Allies with faster Speeds<color=#ebcaa2> can force enemies with slower Speeds to <color=#f8c200>redirect their attacks and <Clash> with them<color=#ebcaa2> instead by chaining their own Skill against the enemy's."
+      "content": "<color=#f8c200>Другие союзники с высокой скоростью<color=#ebcaa2> могут перенаправить на себя атаки противников, <color=#f8c200>чья скорость ниже<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_02_07",
-      "content": "Select a faster Sinner and chain their Skill against the enemy's."
+      "content": "Выберите Грешника с более высокой скоростью, чем у противника, а затем соедините их навыки."
     },
     {
       "id": "tuto_01_11_abbattle_02_08",
-      "content": "Select a faster Sinner and chain their Skill against the enemy's."
+      "content": "Выберите Грешника с более высокой скоростью, чем у противника, а затем соедините их навыки."
     },
     {
       "id": "tuto_01_11_abbattle_02_09",
-      "content": "As demonstrated here, allies with faster Speeds than the enemy can <color=#f8c200>strategically draw attacks targeting other allies to themselves<color=#ebcaa2> depending on the flow of battle."
+      "content": "Как было продемонстрировано, союзники с более высокой скоростью могут <color=#f8c200>перенаправлять атаки на себя<color=#ebcaa2>, если этого требует ситуация."
     },
     {
       "id": "tuto_01_11_abbattle_02_10_title",
-      "content": "When Ally's Speed > Enemy's Speed"
+      "content": "Скорость Грешника > Скорость противника"
     },
     {
       "id": "tuto_01_11_abbattle_02_10",
-      "content": "<color=#f8c200>If an allied unit's Speed is faster than the enemy unit's<color=#ebcaa2>, the allied unit can <color=#f8c200>redirect<color=#ebcaa2> the <color=#f8c200>targeting<color=#ebcaa2> of the enemy's Skill to themselves.\n\nOnce redirected, the allied unit and the enemy unit will <color=#f8c200>Clash<color=#ebcaa2>."
+      "content": "<color=#f8c200>Если скорость Грешника выше скорости противника<color=#ebcaa2>, он может <color=#f8c200>перехватить<color=#ebcaa2> атаки более медленных противников противников.\n\nПосле этого у них произойдёт <color=#f8c200>Столкновение<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_02_11",
-      "content": "Another thing to note regarding targeting and redirecting: an <color=#f8c200>allied unit targeted by an enemy Skill<color=#ebcaa2> can still <color=#f8c200>Clash<color=#ebcaa2> against that Skill, <color=#f8c200>regardless of their own Speed<color=#ebcaa2>."
+      "content": "Ещё одна вещь, на которую следует обратить внимание в отношении нацеливания и перенаправления: <color=#f8c200>союзник, на которго изначально была нацелена атака<color=#ebcaa2>, всё ещё может столкнуться с ней, если вновь перенаправить уже его навык."
     },
     {
       "id": "tuto_01_11_abbattle_02_12",
-      "content": "Chain your Skills against the enemy's."
+      "content": "Соедините навык Грешника с навыком противника вновь."
     },
     {
       "id": "tuto_01_11_abbattle_02_13",
-      "content": "Chain your Skills against the enemy's."
+      "content": "Соедините навык Грешника с навыком противника вновь."
     },
     {
       "id": "tuto_01_11_abbattle_02_14_title",
-      "content": "When targeted by enemy Skills"
+      "content": "Будучи изначальной целью атаки"
     },
     {
       "id": "tuto_01_11_abbattle_02_14",
-      "content": "Allies targeted by enemy Skills can Clash against Skills targeting themselves <color=#f8c200>regardless of Speed<color=#ebcaa2>."
+      "content": "Союзники, на которых изначально нацелены навыки противников, всё ещё могут столкнуться с ними <color=#f8c200>независимо от своей скорости<color=#ebcaa2>, если вновь перенаправить их навык."
     },
     {
       "id": "tuto_01_11_abbattle_02_15",
-      "content": "If an allied unit's Speed is equal to or slower than the enemy's, they cannot redirect the enemy Skill and may instead perform an <color=#05DBF2>Unopposed Attack<color=#ebcaa2>."
+      "content": "Если же скорость союзника равна или ниже скорости противника, то его атаки будут <color=#05DBF2>Односторонними<color=#ebcaa2>."
     },
     {
       "id": "tuto_01_11_abbattle_02_16_title",
-      "content": "When Ally's Speed ≤ Enemy's Speed"
+      "content": "Скорость Грешника ≤ Скорость противника"
     },
     {
       "id": "tuto_01_11_abbattle_02_16",
-      "content": "Allies with lower or equal Speed values cannot force enemies with faster Speed to target them.\nIn such cases, both units will perform an <color=#05DBF2>Unopposed Attack (marked by blue arrows)<color=#ebcaa2> instead of engaging in a Clash first. Faster unit will attack first.\n\n<color=#05DBF2>Unopposed Attacks<color=#ebcaa2> skip Clashes and strike directly."
+      "content": "Союзники с такой же скоростью или ниже не могут заставить противников намеренно столкнуться с ними.\nВ таких случаях будут происходить <color=#05DBF2>Односторонние атаки (Синяя стрелка)<color=#ebcaa2>.\n\n<color=#05DBF2>Односторонние атаки<color=#ebcaa2> не вызывают столкновение и сразу переходят к нанесению удара."
     },
     {
       "id": "tuto_01_11_abbattle_02_17",
-      "content": "While multiple Skills may target a single Slot, only the last Skill chained to it will Clash; the others will activate as <color=#05DBF2>Unopposed Attacks<color=#ebcaa2>.\nSometimes, it can be an effective strategy to forgo <color=#f8c200>Clashes<color=#ebcaa2> and have multiple units use <color=#05DBF2>Unopposed Attacks<color=#ebcaa2> against a single dangerous enemy, even if it leaves them exposed to attacks from others."
+      "content": "Когда несколько атак нацелены на один слот навыков, столкновение произойдёт только с той, которая была соединена с ним последней (Жёлтая стрелка), а все остальные будут считаться <color=#05DBF2>Односторонними атаками<color=#ebcaa2>.\nИногда такой подход может быть более эффективным, когда против одного опасного врага может использоваться много <color=#05DBF2>Односторонних атак<color=#ebcaa2> вместо прямого столкновения с его навыками."
     },
     {
       "id": "tuto_01_11_snow_white_01_01",
-      "content": "You have encountered a new Abnormality. Please view its Abnormality Guide."
+      "content": "Мы столкнулись с новой аномалией. Просмотрите информацию о ней."
     },
     {
       "id": "tuto_01_11_snow_white_01_02_title",
-      "content": "The Abnormality Guide"
+      "content": "Информация об аномалии"
     },
     {
       "id": "tuto_01_11_snow_white_01_02",
-      "content": "The Abnormality Guide lists information about the Abnormality.\n<color=#f8c200>The guide will gradually fill up as you battle the Abnormality.<color=#ebcaa2>\n\nRaise the <color=#f8c200>Observation Level<color=#ebcaa2> by repeatedly encountering and battling the Abnormality.\nHigher Observation Levels slightly increases the damage you deal against the Abnormality."
+      "content": "<color=#f8c200>Информация об аномалии будет постепенно дополняться на протяжении боя.<color=#ebcaa2>\n\nПоднимайне <color=#f8c200>Уровень изучения<color=#ebcaa2> через регулярные битвы с ней.\nБолее высокий уровень изучения немного увеличивает урон, который вы наносите аномалии."
     },
     {
       "id": "tuto_01_11_snow_white_01_03",
-      "content": "You may encounter Abnormalities with <color=#f8c200>multiple Parts<color=#ebcaa2> in the dungeons you explore.\nIn such cases, each Part may have different Resistances, Passives, and Skills."
+      "content": "В случае с этой аномалией она имеет <color=#f8c200>несколько Частей<color=#ebcaa2>.\nУ каждой части свои сопротивления, атаки и пассивные умения."
     },
     {
       "id": "tuto_01_11_snow_white_01_04",
-      "content": "This Abnormality's weak point is its <color=#f8c200>Fruit<color=#ebcaa2> Part.\nTarget the Fruit."
+      "content": "Слабой точкой является <color=#f8c200>Плод<color=#ebcaa2>.\nНацеливайтесь в первую очередь на него."
     },
     {
       "id": "tuto_01_11_snow_white_02_01",
-      "content": "You destroyed a Part of the Abnormality. Let us consult the Abnormality Guide to see if anything has been updated."
+      "content": "Нам удалось повредить часть аномалии. Давайте посмотрим, появились ли новые сведения в информации о ней."
     },
     {
       "id": "tuto_01_11_snow_white_02_02",
-      "content": "You destroyed the Fruit Part."
+      "content": "Мы повредили часть \"Плод\"."
     },
     {
       "id": "tuto_01_11_snow_white_02_03",
-      "content": "Physical Resistance values for <color=#f8c200>Destroyed<color=#ebcaa2> Parts become <color=#f8c200>Fatal<color=#ebcaa2>.\nPlease note that Parts marked as <color=#f8c200>Severable<color=#ebcaa2> cannot be attacked again once Destroyed, unless they regenerate."
+      "content": "Физические сопротивления <color=#f8c200>Повреждённой части<color=#ebcaa2> становятся <color=#f8c200>Фатальными<color=#ebcaa2>.\nТакже учтите, что части, которые можно <color=#f8c200>Отсечь<color=#ebcaa2>, больше не могут быть атакованы после их повреждения."
     },
     {
       "id": "tuto_01_11_snow_white_02_04",
-      "content": "Progressing through the Encounter will unlock the enemy's Passive information.\n<color=#f8c200>Reading the details and clues in the enemy's information window<color=#ebcaa2> is crucial to winning certain battles."
+      "content": "По мере изучения аномалии в бою вы будете узнавать информацию о её пассивных умениях.\n<color=#f8c200>Чтение деталей и подсказок в информации о противниках<color=#ebcaa2> очень важно для победы в битве."
     },
     {
       "id": "tuto_01_11_snow_white_02_05",
-      "content": "Continue suppressing this Abnormality."
+      "content": "Продолжим подавление аномалии."
     },
     {
       "id": "tuto_01_11_snow_white_03_01",
-      "content": "During Focused Encounters, you, the manager, may occasionally be tasked with making key decisions in <color=#f8c200><Choice Events><color=#ebcaa2>.\n<color=#f8c200>The tide of battle may drastically shift<color=#ebcaa2> depending on your choices, so choose wisely."
+      "content": "Во время фокусированных битв вам, Исполнительному Менеджеру, иногда может понадобиться принять ключевые решения в рамках <color=#f8c200>Событий выбора<color=#ebcaa2>.\n<color=#f8c200>Ход битвы может измениться<color=#ebcaa2> в зависимости от вашего выбора."
     },
     {
       "id": "tuto_01_11_snow_white_03_02_title",
-      "content": "Choice Events"
+      "content": "События выбора"
     },
     {
       "id": "tuto_01_11_snow_white_03_02",
-      "content": "These Choice Events function like Skill checks—they have a required Sin Affinity and a threshold to pass.\nEach Choice Event presents an Affinity advantage—select a Sinner with a matching Skill Affinity to increase your chances of success.\nPassing or failing the check will determine the outcome."
+      "content": "Эти события выбора работают как проверка на наличие навыков с определённым грехом и необходимость преодоления некоторой границы.\nКаждое такое событие требует выбрать Грешника с подходящим навыком, чтобы тот прошёл проверку.\nУспех или неудача определяет исход события."
     },
     {
       "id": "tuto_02_12_01_01_start",
-      "content": "Now, we will explore how an Identity's <color=#f8c200>Level<color=#ebcaa2> affects combat and Skills. Try chaining a Skill."
+      "content": "Изучим, как <color=#f8c200>Уровень<color=#ebcaa2> Идентичностей влияет на бой и навыки. Попробуйте соединить их."
     },
     {
       "id": "tuto_02_12_01_01",
-      "content": "Every Skill has these two values: <color=#f8c200>Offense Level<color=#ebcaa2> and <color=#f8c200>Defense Level<color=#ebcaa2>."
+      "content": "Каждый навык имеет эти два значения: <color=#f8c200>Уровень атаки<color=#ebcaa2> и <color=#f8c200>Уровень защиты<color=#ebcaa2>."
     },
     {
       "id": "tuto_02_12_01_02",
-      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> affects the following Skills: <color=#f8c200>Attack Skills<color=#ebcaa2> and <color=#f8c200>Counter Skills<color=#ebcaa2>."
+      "content": "<color=#f8c200>Уровень атаки<color=#ebcaa2> влияет на <color=#f8c200>Атакующие<color=#ebcaa2> и <color=#f8c200>Контратакующие<color=#ebcaa2> навыки."
     },
     {
       "id": "tuto_02_12_01_03",
-      "content": "<color=#f8c200>Damage dealt<color=#ebcaa2> increases in proportion to how much the attacker's Offense Level exceeds the target's Defense Level. This increased damage is shown here."
+      "content": "<color=#f8c200>Наносимый урон<color=#ebcaa2> увеличивается пропорционально тому, насколько <color=#f8c200>Уровень атаки<color=#ebcaa2> атакующего превышает <color=#f8c200>Уровень защиты<color=#ebcaa2> цели. Этот увеличенный урон показан здесь."
     },
     {
       "id": "tuto_02_12_01_04",
-      "content": "Also, in a Clash, every 3 points of Offense Level advantage over the target's Offense Level translates to 1 point of Clash Power advantage."
+      "content": "Кроме того, в столкновении каждые 3 единицы в разнице Уровня атаки <color=#f8c200>добавляют +1 к Силе<color=#ebcaa2> того, у кого он выше."
     },
     {
       "id": "tuto_02_12_01_05",
-      "content": "All Identities have their Defense Levels, affecting the <color=#f8c200>amount of damage they take<color=#ebcaa2>."
+      "content": "Все Идентичности имеют свой собственный Уровень защиты, влияющий на <color=#f8c200>количество получаемого ими урона<color=#ebcaa2>."
     },
     {
       "id": "tuto_02_12_01_06",
-      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> and <color=#f8c200>Defense Level<color=#ebcaa2> are stats that <color=#f8c200>grow in proportion to an Identity’s Level<color=#ebcaa2>.\nThe Level difference between allies and enemies can greatly affect combat difficulty—make sure your <color=#f8c200>Identities are leveled up<color=#ebcaa2> enough if an encounter feels too challenging."
+      "content": "<color=#f8c200>Уровень атаки<color=#ebcaa2> и <color=#f8c200>Уровень защиты<color=#ebcaa2> растёт <color=#f8c200>пропорционально уровню самой Идентичности<color=#ebcaa2>.\nПриемущество в уровне над противниками может существенно повлиять на ход битвы, поэтому <color=#f8c200>всегда старайтесь повышать уровень своих Идентичностей<color=#ebcaa2>."
     }
   ]
 }

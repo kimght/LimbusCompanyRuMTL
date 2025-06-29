@@ -934,19 +934,19 @@
     },
     {
       "id": "new_ego_gift_combine_guide_desc_1",
-      "content": "The following is the E.G.O Gift Keyword forecast once you've selected the Keyword you want to Fuse into in the <Слияние - выбор типа> screen."
+      "content": "Ниже приведён прогноз по ключевым словам ЭГО даров после того, как вы выберете ключевое слово, ЭГО дар которого вы хотите получить."
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_col_1_title",
-      "content": "Number of ingredient E.G.O Gifts used for Fusion"
+      "content": "Количество ЭГО даров, используемых в слиянии"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_col_2_title",
-      "content": "Rates for an E.G.O Gift with your selected Keyword"
+      "content": "Шанс получения ЭГО дара выбранного ключевого слова"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_1_0",
-      "content": "2 Gifts"
+      "content": "2 ЭГО дара"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_1_1",
@@ -954,7 +954,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_2_0",
-      "content": "3 Gifts"
+      "content": "3 ЭГО дара"
     },
     {
       "id": "new_ego_gift_combine_guide_table_1_desc_2_1",
@@ -962,7 +962,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_diffrent_keyword_notice",
-      "content": "※ Keywords on the ingredient E.G.O Gifts do not affect the outcome of the Fusion."
+      "content": "※ Ключевые слова используемых для слияния ЭГО даров не влияют на его результат."
     },
     {
       "id": "new_ego_gift_combine_guide_desc_2",

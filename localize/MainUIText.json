@@ -294,7 +294,7 @@
     },
     {
       "id": "mainui_gacha_rateinfo",
-      "content": "Шанс выпадения"
+      "content": "Шанс получения"
     },
     {
       "id": "mainui_gacha_history",
@@ -934,7 +934,7 @@
     },
     {
       "id": "season_1",
-      "content": "1 сезон"
+      "content": "[font=bebas]Сезон 1"
     },
     {
       "id": "commonly",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "gacha_rate_info_intro1_1a",
-      "content": "Шанс выпадения за одно извлечение:"
+      "content": "Шанс получения за одно извлечение:"
     },
     {
       "id": "gacha_rate_info_intro1_1b",
@@ -1898,7 +1898,7 @@
     },
     {
       "id": "ego_gift_combine_explain_label_keyword",
-      "content": "Ключевые слова"
+      "content": "<voffset=-0.1em>Эффекты</voffset>"
     },
     {
       "id": "ego_gift_combine_explain_label_attack_type",
