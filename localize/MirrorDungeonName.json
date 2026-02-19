@@ -67,6 +67,18 @@
     {
       "id": "mirrordungeon_name_6_1",
       "content": "Зеркало бессмертности [HARD]"
+    },
+    {
+      "id": "mirrordungeon_name_7",
+      "content": "Зеркало Имён и Пауков"
+    },
+    {
+      "id": "mirrordungeon_name_7_0",
+      "content": "Зеркало Имён и Пауков [NORMAL]"
+    },
+    {
+      "id": "mirrordungeon_name_7_1",
+      "content": "Зеркало Имён и Пауков [HARD]"
     }
   ]
 }

@@ -57,6 +57,10 @@
       "description": "<color=#f8c200>После выбора новой темы этажа в первый раз (На {4} этаже или ниже) даёт '{1}' × {2} всем союзникам в битвах</color>"
     },
     {
+      "id": "GiveBuffOnRSOnThemePackUnlockCount",
+      "description": "<color=#f8c200>Если {4} и более Темы этажей были разблокированы в Сборнике тем, даёт '{1}' × {2}</color>"
+    },
+    {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
       "description": "Стартовых <color=#5bffde>ЭГО Даров</color> на выбор +{0}"
     },

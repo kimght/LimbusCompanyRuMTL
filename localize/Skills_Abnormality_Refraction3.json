@@ -337,12 +337,12 @@
         {
           "level": 1,
           "name": "Уворот",
-          "desc": "[WhenUseEvade] Наносит 4 [Combustion:`Огня`]\n[OnSucceedEvade] Получает 1 [MRcAiBa:`Искру`] на следующий ход",
+          "desc": "[WhenUseEvade] Наносит 4 [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": ""
+                  "desc": "[OnSucceedEvade] Получает 1 [MRcAiBa:`Искру`] на следующий ход"
                 }
               ]
             }

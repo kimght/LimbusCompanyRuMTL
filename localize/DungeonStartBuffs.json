@@ -95,6 +95,10 @@
     {
       "id": "GiveBuffOnRSOnNewFloorTheme",
       "description": "При выборе Набора тем впервые (На {4} этаже или ниже) даёт '<color=#5bffde>{1}</color>' × {2} в битвах этой темы этажа"
+    },
+    {
+      "id": "GiveBuffOnRSOnThemePackUnlockCount",
+      "description": "Если {4} и более Темы этажей были разблокированы в Сборнике тем, даёт <color=#5bffde>'{1}'/color> × {2} всем союзникам в битвах"
     }
   ]
 }

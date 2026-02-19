@@ -2701,7 +2701,7 @@
         {
           "level": 4,
           "name": "Крушение черепа",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], <style=\"highlight\">он получает +1 к Итоговой силе</style> и наносит на <style=\"highlight\">15%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], <style=\"highlight\">он получает +1 к Итоговой силе и</style> наносит на <style=\"highlight\">15%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
           "coinlist": [
             {
               "coindescs": [

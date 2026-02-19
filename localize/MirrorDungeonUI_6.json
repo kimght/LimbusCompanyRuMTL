@@ -18,15 +18,15 @@
     },
     {
       "id": "combineUI_enableStarlight_confirm_desc",
-      "content": "Потратить 5 Благословения звёзд для повышения шанса слияния?"
+      "content": "Потратить 5 Света звёзд для повышения шанса слияния?"
     },
     {
       "id": "side_title_not_enough_starlight",
-      "content": "Недостаточно Благословения звёзд."
+      "content": "Недостаточно Света звёзд."
     },
     {
       "id": "side_title_not_use_starlight",
-      "content": "Невозможно потратить Благословение звёзд."
+      "content": "Невозможно потратить Света звёзд."
     },
     {
       "id": "side_desc_is_fixed_combine_egogift",
@@ -50,7 +50,7 @@
     },
     {
       "id": "mirror_dungeon_detect_theme_pack_not_enough_point",
-      "content": "Нехватает Благословения звёзд для просмотра тем"
+      "content": "Нехватает Света звёзд для просмотра тем"
     },
     {
       "id": "mirrordungeon_theme_hard_blocked_6",
@@ -66,11 +66,11 @@
     },
     {
       "id": "mirror_start_buff_unavailable_purchase",
-      "content": "Нехватает Звёздного благословения"
+      "content": "Нехватает Света звёзд"
     },
     {
       "id": "mirror_start_buff_unavailable_purchase_modal_title",
-      "content": "Нехватает Звёздного благословения"
+      "content": "Нехватает Света звёзд"
     },
     {
       "id": "mirror_start_buff_purchase_modal_left_cost",
@@ -78,11 +78,11 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_on",
-      "content": "Превращает всё оставшееся Благословение звёзд в Стоимость после подтверждения.\n\n※ Звёздное Благословение на руках не\nбудет превращено."
+      "content": "Превращает весь оставшийся Света звёзд в Стоимость после подтверждения.\n\n※ Свет звёзд на руках не\nбудет превращён."
     },
     {
       "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_off",
-      "content": "Непотраченное Звёздное Благословение будет\nвключено в награды после завершения экспедиции."
+      "content": "Не потраченный Свет звёзд будет\nвключён в награды после завершения экспедиции."
     },
     {
       "id": "mirror_theme_list_pack_tag_not_selectable",
@@ -122,7 +122,7 @@
     },
     {
       "id": "mirrordungeon_starlight_personality_desc",
-      "content": "В течение срока хранения Звёздные бонусы этих идентичностей не будут потрачены на прохождение Зеркального подземелья."
+      "content": "В течение срока хранения Свет звёзд этих Идентичностей не будет потрачен на прохождение Зеркального подземелья."
     },
     {
       "id": "combine_egogift_not_allow",
@@ -134,11 +134,11 @@
     },
     {
       "id": "mirror_starlight_unlock_condition_lack_of_current_point",
-      "content": "Нехватает Благословения звёзд"
+      "content": "Нехватает Света звёзд"
     },
     {
       "id": "mirror_starlight_unlock_condition_needs_held_buff_points",
-      "content": "При {0} и более Благословения звёзд"
+      "content": "При {0} и более Света звёзд"
     },
     {
       "id": "mirror_cleared_floor_count_over_6",
@@ -170,11 +170,11 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_check_box",
-      "content": "Превратить Благословение звёзд в Стоимость?"
+      "content": "Превратить Свет звёзд в Стоимость?"
     },
     {
       "id": "mirrordungeon_additional_reserved_starlight_from_startBuff",
-      "content": "Неиспользованное Благословение звёзд было добавлено к наградам"
+      "content": "Неиспользованное Свет звёзд было добавлено к наградам"
     },
     {
       "id": "mirror_starlight_result_base_point",
@@ -190,7 +190,7 @@
     },
     {
       "id": "mirror_starlight_result_consumed_points_on_start",
-      "content": "Стартового Благословения звёзд потрачено"
+      "content": "Стартового Света звёзд потрачено"
     },
     {
       "id": "mirror_starlight_result_dungeon_play_point",
@@ -222,7 +222,7 @@
     },
     {
       "id": "mirror_starlight_result_consumed_points_on_start_tooltip_title",
-      "content": "Стартового Благословения звёзд потрачено"
+      "content": "Стартового Света звёзд звёзд потрачено"
     },
     {
       "id": "mirror_starlight_result_consumed_points_on_start_tooltip_item_purchased",
@@ -250,7 +250,7 @@
     },
     {
       "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_title",
-      "content": "Множитель Благословения команды"
+      "content": "Множитель Света звёзд команды"
     },
     {
       "id": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc",
@@ -302,7 +302,7 @@
     },
     {
       "id": "mirror_dungeon_ask_confirm_ego_gift_observation",
-      "content": "Потратить {0} Благославение звёзд на получение этих ЭГО Даров?"
+      "content": "Потратить {0} Света звёзд на получение этих ЭГО Даров?"
     },
     {
       "id": "mirror_dungeon_observation_filter_reset",
@@ -322,15 +322,15 @@
     },
     {
       "id": "mirror_observation_lack_starlight_desc",
-      "content": "Недостаточно Звёздного благословения на это"
+      "content": "Недостаточно Света звёзд на это"
     },
     {
       "id": "mirror_dungeon_finished_panel_selected_startBuff",
-      "content": "Выбранное Благословение звёзд"
+      "content": "Выбранное Благословение звезды"
     },
     {
       "id": "mirror_dungeon_finished_panel_not_selected_startBuff",
-      "content": "Благословение звёзд не выбрано"
+      "content": "Благословение звезды не выбрано"
     },
     {
       "id": "InfinityFloor_Extreme_CheckEnter_Modal_Title",

@@ -14,11 +14,11 @@
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_rest_point",
-      "content": "Звёздный бонус"
+      "content": "Бонус Света звёзд"
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_total",
-      "content": "Звёздный\nбонус"
+      "content": "Бонус\nСвета звёзд"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_reset_selection",
@@ -30,11 +30,11 @@
     },
     {
       "id": "mirror_dungeon_reward_popup_rest_bonus_guide",
-      "content": "Все идентичности, не входящие в текущую команду, получают 1 Звёздный бонус"
+      "content": "Все идентичности, не входящие в текущую команду, получают 1 Бонус Света звёзд"
     },
     {
       "id": "mirror_user_start_buff",
-      "content": "Звёздный бонус"
+      "content": "Бонус Света звёзд"
     },
     {
       "id": "mirror_enemy_buff",
@@ -74,7 +74,7 @@
     },
     {
       "id": "mirror_start_buff_cannot_purchase_side_popup_desc",
-      "content": "Недостаточно бонуса"
+      "content": "Недостаточно Бонуса Света звёзд"
     },
     {
       "id": "user_enemy_buff_empty_list",
@@ -130,11 +130,11 @@
     },
     {
       "id": "mirror_start_buff_unlock_condition_needs_held_buff_points",
-      "content": "При {0}+ Звёздного бонуса"
+      "content": "При {0}+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_start_buff_purchase_modal_after_selected_bonus",
-      "content": "Оставшееся Звёздное Благословение"
+      "content": "Оставшийся Бонус Света звёзд"
     },
     {
       "id": "mirror_start_buff_purchase_modal_exchanged_cost",
@@ -150,7 +150,7 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_purchase_description",
-      "content": "Оставшееся Звёздное Благословение будет конвертировано в Стоимость"
+      "content": "Оставшийся Бонус Света звёзд будет конвертирован в Стоимость"
     },
     {
       "id": "mirror_start_buff_applied_passive",
@@ -186,11 +186,11 @@
     },
     {
       "id": "mirror_dungeon_block_to_click_hard_theme_list",
-      "content": "Пройдите 7 песнь\nдля разблокировки"
+      "content": "Пройдите 8 песнь\nдля разблокировки"
     },
     {
       "id": "mirrordungeon_theme_hard_blocked",
-      "content": "Пройдите 7 песнь\nдля разблокировки"
+      "content": "Пройдите 8 песнь\nдля разблокировки"
     },
     {
       "id": "mirrordungeon_shop_heal_title",
@@ -386,7 +386,7 @@
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
-      "content": "Недостаточно Звёздного бонуса"
+      "content": "Недостаточно Бонуса Света звёзд"
     },
     {
       "id": "mirror_theme_pack_baton",
@@ -450,27 +450,27 @@
     },
     {
       "id": "mirror_dungeon_5_buffs_over10",
-      "content": "При [10]+ Звёздного бонуса"
+      "content": "При [10]+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_dungeon_5_buffs_over20",
-      "content": "При [20]+ Звёздного бонуса"
+      "content": "При [20]+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_dungeon_5_buffs_over30",
-      "content": "При [30]+ Звёздного бонуса"
+      "content": "При [30]+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_dungeon_5_buffs_over40",
-      "content": "При [40]+ Звёздного бонуса"
+      "content": "При [40]+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_dungeon_5_buffs__over50",
-      "content": "При [50]+ Звёздного бонуса"
+      "content": "При [50]+ Бонуса Света звёзд"
     },
     {
       "id": "mirror_dungeon_5_buffs__over60",
-      "content": "При [60]+ Звёздного бонуса"
+      "content": "При [60]+ Бонуса Света звёзд"
     },
     {
       "id": "mirrordungeon_egogift_combine_guide_result_label_upgrade",
@@ -546,7 +546,7 @@
     },
     {
       "id": "mirror_dungeon_block_to_click_extream_theme_list",
-      "content": "Пройдите 7 песнь\nдля разблокировки"
+      "content": "Пройдите 8 песнь\nдля разблокировки"
     },
     {
       "id": "mirror_dungeon_extream_difficulty",

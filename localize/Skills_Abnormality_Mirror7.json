@@ -1,0 +1,63 @@
+{
+  "dataList": [
+    {
+      "id": 136401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Извивающаяся голова",
+          "desc": "Нацеливается на противника с наименьшими ОЗ\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала защитный навык, наносит ей на 200% меньше урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[DefeatDuel] Теряет 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Извивающийся хвост",
+          "desc": "Нацеливается на противника с наименьшими ОЗ\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала защитный навык, наносит ей на 200% меньше урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[DefeatDuel] Теряет 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

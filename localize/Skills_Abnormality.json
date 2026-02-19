@@ -1692,7 +1692,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Nail:`Гвоздей Корп. N`], она оглушается и теряет все [NailPersonality:`Гвoзди Корп. N`]"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Nail:`Гвоздей Корп. N`], она оглушается и теряет все [Nail:`Гвoзди Корп. N`]"
                 }
               ]
             }
@@ -1718,7 +1718,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон в количестве ([NailPersonality:`Гвoздей Корп. N`] на цели × 3), а все [NailPersonality:`Гвoзди Корп. N`] исчезают"
+                  "desc": "[OnSucceedAttack] Наносит урон в количестве ([Nail:`Гвoздей Корп. N`] на цели × 3), а все [Nail:`Гвoзди Корп. N`] исчезают"
                 }
               ]
             }

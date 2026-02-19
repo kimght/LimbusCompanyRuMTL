@@ -62,7 +62,7 @@
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[Успешный уворот]"
+      "name": "<color=#c6fe94>[Успешный уворот]</color>"
     },
     {
       "id": "AlwaysUse",
@@ -178,7 +178,7 @@
     },
     {
       "id": "WhenUseEvade",
-      "name": "<color=#c6fe94>[Успешный уворот]</color>"
+      "name": "<color=#26cfff>[При использовании уворота]</color>"
     },
     {
       "id": "EndCoin",
