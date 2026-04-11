@@ -231,6 +231,10 @@
     {
       "id": "mainui_settings_select_lack_of_ego_gift_warning",
       "content": "Выбор ЭГО Дара"
+    },
+    {
+      "id": "mirror_dungeon_ui_purchase_exp_loss_warning",
+      "content": "※ Излишнний прогресс достижений не может быть получени при достижении максимального уровня Пасса"
     }
   ]
 }

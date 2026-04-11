@@ -1257,3 +1257,9 @@ GoldenOpportunity ¤ #f8c200
 IronMaidenPersonality ¤ #9f6a3a
 SilverOpportunity ¤ #f8c200
 FasciaPersonality ¤ #f8c200
+LookingFutureMirror ¤ #f8c200
+MiddleFatherGutsMirror ¤ #f8c200
+FutureEyeOnMirror ¤ #9f6a3a
+FutureEyeOffMirror ¤ #9f6a3a
+TeachersPreyMirror ¤ #e30000
+ObservationTheRingsHidden ¤ #e30000
