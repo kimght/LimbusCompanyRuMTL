@@ -669,7 +669,7 @@
         },
         {
           "abilityID": 97842,
-          "simpleDesc": "Даёт [HitDamageUp:`Повышение Рубящего урона`]"
+          "simpleDesc": "Даёт [SlashDamageUp:`Повышение Рубящего урона`]"
         }
       ]
     },
@@ -876,7 +876,7 @@
         },
         {
           "abilityID": 20822,
-          "simpleDesc": "Даёт [HitDamageUp:`Повышение Рубящего урона`]"
+          "simpleDesc": "Даёт [SlashDamageUp:`Повышение Рубящего урона`]"
         }
       ]
     }
