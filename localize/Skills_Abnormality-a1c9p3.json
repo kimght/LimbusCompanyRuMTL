@@ -1425,7 +1425,7 @@
                   "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 5"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 4 и более [GotACompliment] вновь подкидывает эту монету 3 раза"
+                  "desc": "[OnSucceedAttack] Вновь подкидывает эту монету 3 раза при 4 и более [GotACompliment]"
                 }
               ]
             }

@@ -2055,9 +2055,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 7 урона по СД"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает себе 10% ОЗ"
                 }
               ]
             }
@@ -2151,9 +2148,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает себе 10% ОЗ"
                 }
               ]
             }
