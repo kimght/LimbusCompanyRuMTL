@@ -347,6 +347,10 @@
     {
       "id": "OtherStoryOpenCondition_9021",
       "content": "Пройдите 8-ую Вальпургиеву Ночь (Лёгкая)"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9125",
+      "content": "Пройдите 9.5-1"
     }
   ]
 }

@@ -289,12 +289,32 @@
       "content": "Студент"
     },
     {
+      "id": "UnitKeyword_RING_FINGER_FAUVISM",
+      "content": "Школа Фовизма"
+    },
+    {
       "id": "UnitKeyword_RING_FINGER_POINTILLISM",
-      "content": "Пуантилист"
+      "content": "Школа Пуантилизма"
     },
     {
       "id": "UnitKeyword_RING_FINGER_PHYSICAL",
-      "content": "Корпорист"
+      "content": "Школа Корпоризма"
+    },
+    {
+      "id": "UnitKeyword_FINGER_CANCELED",
+      "content": "<s>Пальцы</s>"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER_CANCELED",
+      "content": "<s>Средний палец</s>"
+    },
+    {
+      "id": "UnitKeyword_SPIDER_HOUSE_CANCELED",
+      "content": "<s>Дом Пауков</s>"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
+      "content": "ЛСЕ?"
     }
   ]
 }

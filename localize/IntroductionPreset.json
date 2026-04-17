@@ -1931,6 +1931,22 @@
     {
       "id": "introduce_sentence_242",
       "content": "Тебе страшно, {0}?"
+    },
+    {
+      "id": "introduce_word_243",
+      "content": "Оценка"
+    },
+    {
+      "id": "introduce_sentence_243",
+      "content": "Прошу вашей самой строгой {0}(я/-и/-у)."
+    },
+    {
+      "id": "introduce_word_244",
+      "content": "Палитра красок"
+    },
+    {
+      "id": "introduce_sentence_244",
+      "content": "С {0}(-ой/-ю/-е) не от мира сего."
     }
   ]
 }

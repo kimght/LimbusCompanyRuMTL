@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "twining_threads_stage_button_default",
+      "content": "Этапы"
+    },
+    {
+      "id": "twining_threads_stage_button_locked",
+      "content": "Пройдите Песнь IX для разблокировки"
+    },
+    {
+      "id": "twining_threads_storybutton_default",
+      "content": "В Театр"
+    },
+    {
+      "id": "twining_threads_storybutton_start",
+      "content": "<size=75%>Просмотрите 1-й сюжетный этап события, \nчтобы разблокировать</size>"
+    },
+    {
+      "id": "twining_threads_stage_button_end_event",
+      "content": "Событие завершено"
+    },
+    {
+      "id": "twining_threads_bonus_popup_title",
+      "content": "Бонусные Идентичности события"
+    },
+    {
+      "id": "twining_threads_bonusUIDesc",
+      "content": "В период проведения события добавление следующих Идентичностей в вашу команду\nувеличит количество получаемых <color=#5c53e7>[Отсечённых нитей]</color>.\nВы можете получить максимум <color=#5c53e7>120%</color> прибавки к количеству получаемой валюты события."
+    },
+    {
+      "id": "twining_threads_scrap_guide_title",
+      "content": "Руководство по валюте события"
+    },
+    {
+      "id": "twining_threads_scrap_guide_desc",
+      "content": "Вы можете получить <color=#5c53e7>[Отсечённую нить]</color> за первое прохождение этапов События и Основного сюжета, либо за прохождение Зеркального Подземелья.\nВ процессе у вас также есть небольшой шанс получить <color=#5c53e7>[Отсечённый и обожжённый моток]</color>.\n\n<color=#5c53e7>[Отсечённый и обожжённый моток]</color> мгновенно конвертируется в 20 <color=#5c53e7>[Отсечённых нитей]</color> при получении."
+    },
+    {
+      "id": "twining_threads_reward_popup_desc",
+      "content": "Зарабатывайте <color=#eeeeee>[Отсечённую нить]</color> следующими способами:\nПервое прохождение этапов События и Основного сюжета, а также прохождение Зеркального Подземелья.\n\nВ окне <color=#eeeeee>[Обмена наград]</color> вы можете приобретать различные награды,\nтратя собранные вами <color=#eeeeee>[Отсечённые нити]</color>."
+    },
+    {
+      "id": "twining_threads_reward_popup_num_of_owned_items",
+      "content": "Предметов в наличии"
+    },
+    {
+      "id": "twining_threads_rewardShopButton",
+      "content": "Обмен наград"
+    }
+  ]
+}
