@@ -1,0 +1,343 @@
+{
+  "dataList": [
+    {
+      "id": 142201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выражение основных цветов",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [EagleClawWound:`Истерзанный цвет 【Синеву】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [EagleClawWound:`Истерзанный цвет 【Синеву】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неистовое перекрашивание",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWound:`Истерзанный цвет 【Румянец】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWound:`Истерзанный цвет 【Румянец】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фовизм — Жестокое высвобождение",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 3)\n[DefeatDuel]\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [BearClawWound:`Истерзанного цвета 【Румянца】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Наносит [BoldBrushstrokes:`Бестрепетное прикосновение`]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Критика",
+          "desc": "[CantChangeTarget]\n[WhenUse]\n- Сила в столкновении +2 <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов</u></b></mark></color> на цели (До 12)\n- Сила в столкновении +6 против целей, <color=#ff6000><mark=#ff000040><b><u>имеющих [IntenseColors:`Цветастую палитру`]</u></b></mark></color>\n   · Если цель при этом не имеет экипированных защитных навыков, наносит ей на 100% больше урона\n   · Если цель при этом имеет экипированные защитные навыки, наносит ей на 90% меньше урона\n[DefeatDuel]\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не имеет экипированных защитных навыков, то вновь подкидывает эту монету (До 2 раз за навык)\n- Если проиграла в столкновении, то подкидывает эту монету вновь всего 1 раз вместо 2-ух"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`] и повышает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выражение основных цветов",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)\n[DefeatDuel]\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неистовое перекрашивание",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 3)\n[DefeatDuel]\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [BearClawWound:`Истерзанного цвета 【Румянца】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [BearClawWound:`Истерзанного цвета 【Румянца】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фовизм — Жестокое высвобождение",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 4)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если цель имеет 3 и более типа негативных эффектов</u></b></mark></color>, все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Наносит на 75% меньше урона\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [BearClawWound:`Истерзанного цвета 【Румянца】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Наносит [BoldBrushstrokes:`Бестрепетное прикосновение`]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Трепет вдохновения",
+          "desc": "Можно столкнуться независимо от скорости\n[WhenUse] Итоговая сила +1 и на 10% больше урона <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов на главной цели</u></b></mark></color> (До +6 к Силе в столкновении и до +60% к урону)\n[WinDuel]\n- Наносит каждой цели на 10% больше урона <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов</u></b></mark></color> на ней (До 60%)\n[DefeatDuel]\n- Наносит на 75% меньше урона\n- Наносимое этим навыком значение [BearClawWound:`Истерзанного цвета 【Румянца】`] и [EagleClawWound:`Истерзанного цвета 【Синевы】`] снижается на 2 и на 3 соответственно (Округляется вниз)\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`] и повышает его счётчик на 3"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и повышает его счётчик на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Наносит 9 [BearClawWound:`Истерзанного цвета 【Румянца】`]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Наносит 9 [EagleClawWound:`Истерзанного цвета 【Синевы】`]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Наносит [BoldBrushstrokes:`Бестрепетное прикосновение`]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вспыхни пульсирующим багрянцем под своей кожей",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\nНацеливается на противников с [IntenseColors:`Цветастой палитрой`]\nНе вызывает активацию защитных навыков целей (За исключением контратак или блоков столкновением)\nМожно столкнуться независимо от скорости\n[WhenUse]\n- Итоговая сила +1 <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов на главной цели</u></b></mark></color> (До 6)\n- <color=#ff6000><mark=#ff000040><b><u>Если главная цель имеет [IntenseColors:`Цветастую палитру`]</u></b></mark></color>, Сила в столкновении +6\n- Если цель имеет [IntenseColors:`Цветастую палитру`] наносит ей на 100% больше урона (Для каждой цели отдельно; <color=#ff6000><mark=#ff000040><b><u>если цель при этом имеет экипированные защитные навыки, то урон снижается на 90% вместо повышения</u></b></mark></color>)\n[WinDuel]\n- Наносит на 10% больше урона  каждый тип негативных эффектов на цели (До 60%; для каждой цели отдельно)\n[DefeatDuel]\n- Получает 5 [AttackDmgDown:`Понижений урона`] и 5 [Paralysis:`Параличей`]\n- Не может оглушить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Заканчивает этот ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Эта монета попадает по всем целям навыка независимо от эффекта [WideAreaRampage:`Нефокусированного залпа`]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

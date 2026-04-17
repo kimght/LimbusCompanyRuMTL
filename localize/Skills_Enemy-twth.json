@@ -1,0 +1,730 @@
+{
+  "dataList": [
+    {
+      "id": 9104301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дикий штрих",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Быстрый набросок",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если цель имеет 5 и более Истерзанных цветов ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фовизм — живопись и разворачивание",
+          "desc": "Наносит на 10% больше урона за каждые 3 Истерзанного цвета на цели (До 30%) ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`])\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]):\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Вновь подкидывает последнюю монету\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWound:`Истерзанный цвет 【Румянец】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выставка",
+          "desc": "[DuelCounter]\n[WhenUse] Итоговая сила +1 против целей, имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дикий штрих",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Быстрый набросок",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если цель имеет 5 и более Истерзанных цветов ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фовизм — живопись и разворачивание",
+          "desc": "Наносит на 10% больше урона за каждые 3 Истерзанного цвета на цели (До 30%) ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`])\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]):\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Вновь подкидывает последнюю монету\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWound:`Истерзанный цвет 【Румянец】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выставка",
+          "desc": "[DuelCounter]\n[WhenUse] Итоговая сила +1 против целей, имеющих [BearClawWound:`Истерзанный цвет 【Румянец】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подготовка картины",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Быстрое выражение",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если цель имеет 5 и более Истерзанных цветов ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [Agility:`Спешка`], вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Завершающий штрих",
+          "desc": "[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [Agility:`Спешка`], вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Частичная переделка",
+          "desc": "[DuelCounter]\n[WhenUse] Сила в столкновении +1 против целей, имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подготовка картины",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Быстрое выражение",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[WhenUse] Если цель имеет 5 и более Истерзанных цветов ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [Agility:`Спешка`], вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Завершающий штрих",
+          "desc": "[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWound:`Истерзанный цвет 【Румянец】`] / [EagleClawWound:`Истерзанный цвет 【Синева】`]), то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [Agility:`Спешка`], вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Частичная переделка",
+          "desc": "[DuelCounter]\n[WhenUse] Сила в столкновении +1 против целей, имеющих [EagleClawWound:`Истерзанный цвет 【Синеву】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWound:`Истерзанного цвета 【Синевы】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цель обнаружена",
+          "desc": "Сила в столкновении +1 и на 10% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Последняя монета этого навыка становится [SuperCoin:`Вечной`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 2 [Breath:`Дыхания`] и повышает его счётчик на 2\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Куда указывает предписание",
+          "desc": "Сила в столкновении +1 и на 20% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[WhenUse] Последняя монета этого навыка становится [SuperCoin:`Вечной`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 3\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Исполнить предписание",
+          "desc": "Сила в столкновении +2 и на 25% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[WhenUse] Сила в столкновении +1 при 3 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 4 [Breath:`Дыхания`] и повышает его счётчик на 3\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (Текущее значение [BlessingOfIndexPrescriptEnemy:`Милости предписания`] × 5)% больше урона (До 45)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и повышает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Цель обнаружена",
+          "desc": "Сила в столкновении +1 и на 10% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Последняя монета этого навыка становится [SuperCoin:`Вечной`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 1 [Breath:`Дыхание`] и повышает его счётчик на 3\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`] и повышает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Куда указывает предписание",
+          "desc": "Сила в столкновении +1 и на 20% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[WhenUse] Последняя монета этого навыка становится [SuperCoin:`Вечной`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 4 [Breath:`Дыхания`] и повышает его счётчик на 2\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`] и повышает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Исполнить предписание",
+          "desc": "Сила в столкновении +2 и на 25% больше урона против [IndexPrescriptTargetToPersonality:`Целей предписания`]\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[WhenUse] Сила в столкновении +1 при 3 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если атакует [IndexPrescriptTargetToPersonality:`Цель предписания`] или имеет 6 и более [BlessingOfIndexPrescriptEnemy:`Милости предписания`]\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 4\n[DefeatDuel]\n- Не может огулшить цель\n- Не может активировать эффект [Sinking:`Утопания`] при попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (Текущее значение [BlessingOfIndexPrescriptEnemy:`Милости предписания`] × 5)% больше урона (До 45)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`] и повышает его счётчик на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

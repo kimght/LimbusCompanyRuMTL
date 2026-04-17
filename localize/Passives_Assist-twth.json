@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "name": "Тепловое оружие",
+      "desc": "Входит в битву с [HeatingWireOffSpider:`Выключенными тепловыми клинками`].\n\nНачало хода: [HeatingWireOnSpiderTwo:`Включает тепловые клинки`](#f8c200) при 2 и более [ReinforcedTattooSpiderDaughterTwo:`Усиливающих татуировках <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter)."
+    },
+    {
+      "id": 40003702,
+      "name": "<s>Средний палец</s>",
+      "desc": "При получении урона от более чем 2 навыков за ход: Кира получает 1 [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter) на следующий ход за каждый такой нанёсший ей урон навык по счёту после 2."
+    },
+    {
+      "id": 40003703,
+      "name": "Злоба",
+      "desc": "Получает 2 [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) будучи атакованной. (Единожды за навык противника)\n\nПолучает 1 [ResentmentSpiderDaughterTwo:`Злобу`](;ResentmentSpiderDaughter), когда атакуют союзника. (Единожды за навык противника)\n\nИспользует мощную атаку при максимальном значении [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter).\n\nКонец хода: при менее чем 80% / 60% / 40% ОЗ значение [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) увеличивается до максимума."
+    }
+  ]
+}

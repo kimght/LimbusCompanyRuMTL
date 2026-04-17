@@ -1,0 +1,253 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Время размяться!",
+          "desc": "Итоговая сила +2 против целей с 3 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 дополнительного Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 дополнительного Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит 2 [Binding:`Связывания`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тотально крутое надирание задниц",
+          "desc": "Итоговая сила +2 против целей с 3 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит 2 [Laceration:`Кровотечения`] при попадании монетами этого навыка",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вновь подкидывает эту монету при 3 и более [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter),"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Потрошение!",
+          "desc": "<b>Навык [HeatingWireOnSpiderTwo:`Тепловых клинков`](#f8c200)</b>\nСила монет +1 против целей с 3 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[EndSkill] При 3 и более [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) получает 1 [VioletDamageUp:`Повышение урона Завистью`] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перекрёстный вихрь!",
+          "desc": "<b>Навык [HeatingWireOnSpiderTwo:`Тепловых клинков`](#f8c200)</b>\nСила монет +1 против целей с 3 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит 2 [Binding:`Связывания`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Фиолетовый~ Сокрушительный удар!",
+          "desc": "<b>Навык [HeatingWireOnSpiderTwo:`Тепловых клинков`](#f8c200)</b>\nСила монет +1 против целей с 3 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[WhenUse] Если текущие ОЗ ниже 40% или есть 2 и более [ReinforcedTattooSpiderDaughterTwo:`Усиливающих татуировок <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит на 60% больше урона\n[WhenUse] При 2 и более [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) злобы с шансом 50% наносит 1 [Paralysis:`Паралич`] при попадании монетами этого навыка\n[EndSkill] Теряет всю [ResentmentSpiderDaughterTwo:`Злобу`](;ResentmentSpiderDaughter)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я тебе за это отплачу...!",
+          "desc": "<b>Навык [HeatingWireOnSpiderTwo:`Тепловых клинков`](#f8c200)</b>\nЕсли при получении удара есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), повторно использует этот навык во время хода за каждое их значение (До 2 дополнительных раз)\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughterTwo:`Усиливающие татуировки <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[WhenUse] Если текущие ОЗ ниже 40% или есть 2 и более [ReinforcedTattooSpiderDaughterTwo:`Усиливающих татуировок <s>в стиле Среднего пальца</s>`](;ReinforcedTattooSpiderDaughter), наносит на 40% больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
