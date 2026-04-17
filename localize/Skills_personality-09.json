@@ -2353,6 +2353,522 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неистовое перекрашивание",
+          "desc": "Наносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Неистовое перекрашивание",
+          "desc": "Наносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Неистовое перекрашивание",
+          "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждый тип негативных эффектов на цели (До 15%)</style>\nНаносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[WhenUse] <style=\"highlight\">Сила в столкновении +1 и</style> Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Если цель имеет 4 и более типа негативных эффектов, вновь подкидывает эту монету 1 раз</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выражение основных цветов",
+          "desc": "Наносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 6 и более типов негативных эффектов, наносит ей 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Выражение основных цветов",
+          "desc": "Наносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 6 и более типов негативных эффектов, наносит ей 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выражение основных цветов",
+          "desc": "<style=\"highlight\">Наносит на 20% больше урона за каждый тип негативных эффектов на цели (До 60%)</style>\nНаносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n<style=\"highlight\">Наносит на 20% больше урона целям, имеющимх 2 и более типа негативных эффектов</style>\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)\n<style=\"highlight\">[WhenUse] Сила монет +2 за каждые 2 типа негативных эффектов на цели (До 3)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет <style=\"highlight\">5</style> и более типов негативных эффектов, наносит ей 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Фовизм - Жестокое освобождение",
+          "desc": "Наносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[BeforeUse] Если цель имеет 6 и более типов негативных эффектов, использует альтернативный третий навык <color=#fe6f01>「Вспыхни пульсирующим багрянцем под своей кожей」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Фовизм - Жестокое освобождение",
+          "desc": "<style=\"highlight\">Наносит на 20% больше урона за каждый тип негативных эффектов на цели (До 60%)</style>\nНаносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[BeforeUse] Если цель имеет 6 и более типов негативных эффектов, использует альтернативный третий навык <color=#fe6f01>「Вспыхни пульсирующим багрянцем под своей кожей」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если цель имеет 5 и более типов негативных эффектов, наносит ей 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`] на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoldBrushstrokesRodion:`Бестрепетное прикосновение`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обрезка середины",
+          "desc": "[DuelCounter]\nНаносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Обрезка середины",
+          "desc": "[DuelCounter]\nНаносит на 20% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n<style=\"highlight\">[BeforeUse] Если нет [TestWaitDocentRodion:`Рефлексии`], а цель имеет 3 и более типа негативных эффектов, то использует альтернативный защитный навык <color=#fe6f01>「Критика」</color> вместо этого\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Наносит на 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound) больше, если цель не имела его до этого</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Наносит на 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound) больше, если цель не имела его до этого</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Вспыхни пульсирующим багрянцем под своей кожей",
+          "desc": "[WideAreaRampage]\nНаносит на 40% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[WhenUse] Сила монет +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на главной цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Эта монета попадает по всем целям навыка независимо от эффекта [WideAreaRampage:`Нефокусированного залпа`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [BoldBrushstrokesRodion:`Бестрепетного прикосновения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вспыхни пульсирующим багрянцем под своей кожей",
+          "desc": "[WideAreaRampage]\n<style=\"highlight\">Наносит на 15% больше урона за каждый тип негативных эффектов на цели (До 90%)</style>\nНаносит на 40% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[WhenUse] Сила монет +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на главной цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [EagleClawWoundAlly:`Истерзанного цвета 【Синевы】`](;EagleClawWound)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Эта монета попадает по всем целям навыка независимо от эффекта [WideAreaRampage:`Нефокусированного залпа`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [BoldBrushstrokesRodion:`Бестрепетного прикосновения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Критика",
+          "desc": "[DuelCounter]\nНаносит на 8% больше урона за каждый тип негативных эффектов на цели (До 40%)\nНаносит на 30% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[WhenUse] Если цель имеет [IntenseColorsRodion:`Цветастую палитру`], получает 2 [ParryingResultUp:`Повышения силы в столкновении`]\n[WhenUse] Итоговая сила +3 против целей с 4 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n[EndSkillAll] Получает 2 [TestWaitDocentRodion:`Рефлексии`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Вновь подкидывает эту монету за каждые 3 типа негативных эффектов на цели (До 2 раз)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`] (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`] (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Случайным образом наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound) или 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [BoldBrushstrokesRodion:`Бестрепетное прикосновение`], если эта монета подкидывается в третий раз"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Критика",
+          "desc": "[DuelCounter]\nНаносит на <style=\"highlight\">10%</style> больше урона за каждый тип негативных эффектов на цели (До 40%)\nНаносит на 30% больше урона целям, имеющим [IntenseColorsRodion:`Цветастую палитру`]\n[WhenUse] Если цель имеет [IntenseColorsRodion:`Цветастую палитру`], получает 2 [ParryingResultUp:`Повышения силы в столкновении`]\n[WhenUse] Итоговая сила +3 против целей с 4 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]\n<style=\"highlight\">[WhenUse] Сила в столкновении +2 за каждые 2 типа негативных эффектов на цели (До 6)</style>\n[EndSkillAll] Получает 2 [TestWaitDocentRodion:`Рефлексии`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Вновь подкидывает эту монету за каждые 3 типа негативных эффектов на цели (До 2 раз)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`] (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`] (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Случайным образом наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound) или 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [BoldBrushstrokesRodion:`Бестрепетное прикосновение`], если эта монета подкидывается в третий раз"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

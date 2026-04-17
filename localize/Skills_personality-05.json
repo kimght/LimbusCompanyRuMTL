@@ -2407,6 +2407,295 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Грубое изображение",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Грубое изображение",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Грубое изображение",
+          "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждый тип негативных эффектов на цели (До 15%)</style>\n[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 1</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Висцеральные шрихи",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Висцеральные шрихи",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Висцеральные шрихи",
+          "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждый тип негативных эффектов на цели (До 20%)</style>\n[WhenUse] Сила в столкновении +1 против целей, не имеющих [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)\n[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Фовизм - Представление материалов",
+          "desc": "Наносит на 10% больше урона за каждый тип негативных эффектов на цели (До 60%)\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound) / [EagleClawWoundAlly:`Истерзанный цвет 【Синева】`](;EagleClawWound)):\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Вновь подкидывает последнюю монету",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Фовизм - Представление материалов",
+          "desc": "Наносит на 10% больше урона за каждый тип негативных эффектов на цели (До 60%)\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`] на цели (До 4)</style>\n[WhenUse] Если свои текущие ОЗ ниже 50% или сумма значения Истерзанных цветов на цели равна 5 и более ([BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound) / [EagleClawWoundAlly:`Истерзанный цвет 【Синева】`](;EagleClawWound)):\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Вновь подкидывает последнюю монету <style=\"highlight\">и наносит ей (Сумма значения Истерзанных цветов на цели / 3) [Laceration:`Кровотечения`] или [Sinking:`Утопания`] случайным образом (До 3 каждого; округляется вниз)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Подготовка к окрашиванию",
+          "desc": "[DuelCounter]\nБазовая сила +2 при наличии [FaubismMaskMeursault:`Фовизма 【Маски собаки】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Подготовка к окрашиванию",
+          "desc": "[DuelCounter]\nБазовая сила +2 при наличии [FaubismMaskMeursault:`Фовизма 【Маски собаки】`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Sinking:`Утопания`]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
