@@ -27,8 +27,8 @@
     {
       "id": 1077,
       "panicName": "Старомодное искусство",
-      "lowMoraleDescription": "Теряет 5 СД в начале хода и получает 1 [AttackUp:`Повышение уровня атаки`]",
-      "panicDescription": "Теряет 5 СД в начале хода и получает 1 [AttackUp:`Повышение уровня атаки`]"
+      "lowMoraleDescription": "Получает 1 [AttackUp:`Повышение уровня атаки`]",
+      "panicDescription": "Получает 2 [AttackUp:`Повышения уровня атаки`]"
     },
     {
       "id": 1075,
