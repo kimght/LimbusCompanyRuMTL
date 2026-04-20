@@ -141,7 +141,7 @@
     {
       "id": 40001205,
       "name": "Шин【心】- Красный взор",
-      "desc": "Если Валенсина получает [ObsessionAndGreed:`Шин 【心】`], Вергилий тоже получает свой <sprite name=\"ObsessionAndGreed\"><color=#f8c200><u><link=\"VergiliusSin\">Шин 【心】</link></u></color> в следующем ходе.",
+      "desc": "Если Валенчина получает [ObsessionAndGreed:`Шин 【心】`], Вергилий тоже получает свой <sprite name=\"ObsessionAndGreed\"><color=#f8c200><u><link=\"VergiliusSin\">Шин 【心】</link></u></color> в следующем ходе.",
       "summary": ""
     },
     {
