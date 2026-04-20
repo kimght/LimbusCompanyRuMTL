@@ -64,8 +64,7 @@
       "id": 1080,
       "panicName": "Со времён Второй Дымовой Войны",
       "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления СД`]",
-      "panicDescription": "Со времён Второй Дымовой Войны (Паника)",
-      "desc": "Получает 2 [Vulnerable:`Уязвимости`] и 2 [ParryingResultUp:`Повышения силы в столкновении`]"
+      "panicDescription": "Получает 2 [Vulnerable:`Уязвимости`] и 2 [ParryingResultUp:`Повышения силы в столкновении`]"
     },
     {
       "id": 1084,
