@@ -1947,6 +1947,22 @@
     {
       "id": "introduce_sentence_244",
       "content": "С {0}(-ой/-ю/-е) не от мира сего."
+    },
+    {
+      "id": "introduce_word_245",
+      "content": "Роскошь"
+    },
+    {
+      "id": "introduce_sentence_245",
+      "content": "Хмм... Что скажешь? Теперь выглядит {0}(-ой/-ю/-е), не так ли?"
+    },
+    {
+      "id": "introduce_word_246",
+      "content": "Зуд"
+    },
+    {
+      "id": "introduce_sentence_246",
+      "content": "Смотри! Эти малыши так и {0}(-ят) увязаться за тобой."
     }
   ]
 }
