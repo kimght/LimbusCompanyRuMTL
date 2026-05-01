@@ -715,6 +715,193 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2090911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "[EndSkill] Восстанавливает 5% от максимальных ОЗ и даёт 2 [ScarletMothRodion:`Алых мотылька`] для 2 союзников, которые имеют наименьший процент текущих ОЗ\n- Количество затрагиваемых союзников увеличивается на (Число грехов в резонансе Похоти - 1) (До 2 дополнительных союзников)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на всех целях этого навыка (До 2)</style>\n[EndSkill] Восстанавливает <style=\"highlight\">8%</style> от максимальных ОЗ и даёт 2 [ScarletMothRodion:`Алых мотылька`] для 2 союзников, которые имеют наименьший процент текущих ОЗ\n- Количество затрагиваемых союзников увеличивается на (Число грехов в резонансе Похоти - 1) (До 2 дополнительных союзников)\n<style=\"highlight\">- Если затронутый союзник имеет экипированный навык с грехом Похоти, то восстанавливает ему дополнительные 3 СД</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "[WhenUse] Сила в столкновении +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на всех целях этого навыка (До 2)\n[EndSkill] Восстанавливает <style=\"highlight\">10%</style> от максимальных ОЗ и даёт 2 [ScarletMothRodion:`Алого мотылька`] для 2 союзников, которые имеют наименьший процент текущих ОЗ\n- Количество затрагиваемых союзников увеличивается на (Число грехов в резонансе Похоти - 1) (До 2 дополнительных союзников)\n- Если затронутый союзник имеет экипированный навык с грехом Похоти, то восстанавливает ему дополнительные <style=\"highlight\">6</style> СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] Наносит 1 [CrimsonTakeDamageUp:`Уязвимость к Гневу`] и 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующий ход</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Наносит на 5% больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на всех целях этого навыка (До 15%)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -12)\n[EndSkill] Даёт 1 [ScarletMothRodion:`Алого мотылька`] 3 раза между случайными союзниками",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [CrimsonTakeDamageUp:`Уязвимость к Гневу`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Наносит на 5% больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на всех целях этого навыка (До 15%)\n<style=\"highlight\">- Урон увеличивается ещё на 10%, если был активирован абсолютный резонанс Гнева или Похоти</style>\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -12)\n[EndSkill] Даёт 1 [ScarletMothRodion:`Алого мотылька`] <style=\"highlight\">4</style> раза между случайными союзниками",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [CrimsonTakeDamageUp:`Уязвимость к Гневу`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Навстречу закату",
+          "abName": "Путник заката",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Наносит на <style=\"highlight\">10%</style> больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на всех целях этого навыка (До <style=\"highlight\">30%</style>)\n- Урон увеличивается ещё на <style=\"highlight\">20%</style>, если был активирован абсолютный резонанс Гнева или Похоти\n[BeforeAttack] Базовая сила <style=\"highlight\">-5</style> за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До <style=\"highlight\">-10</style>)\n[EndSkill] Даёт 1 [ScarletMothRodion:`Алого мотылька`] <style=\"highlight\">5</style> раз между случайными союзниками",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на <style=\"highlight\">2</style>"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [CrimsonTakeDamageUp:`Уязвимость к Гневу`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на <style=\"highlight\">2</style>"
+                },
+                {
+                  "desc": "[EndCoin] Наносит 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
