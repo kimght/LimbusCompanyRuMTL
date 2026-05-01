@@ -2384,6 +2384,349 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Избивание",
+          "desc": "[WhenUse] Этот слот получает 3 [Aggro:`Провокации`] в следующем ходе",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Избивание",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей, чья сумма силы [Laceration:`Кровотечения`] и [Combustion:`Огня`] равна 6 и более</style>\n[WhenUse] Этот слот получает 3 [Aggro:`Провокации`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Понижает свою границу выносливости на 5</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Избивание",
+          "desc": "Сила монет +1 против целей, чья сумма силы [Laceration:`Кровотечения`] и [Combustion:`Огня`] равна 6 и более\n<style=\"highlight\">[WhenUse] Итоговая сила +1, если на цели есть [RetaliationBook:`Метка возмездия`]</style>\n[WhenUse] Этот слот получает 3 [Aggro:`Провокации`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на 5"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Восстанавливает 3 СД, если цель имеет [RetaliationBook:`Метку возмездия`]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Прикрывайте спины!",
+          "desc": "[StartBattle] Даёт 2 [AttackUp:`Повышения уровня атаки`] союзникам рядом с собой на приборной панели\n[StartBattle] Поднимает Уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Paralysis:`Паралича`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Прикрывайте спины!",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей, чья сумма силы [Laceration:`Кровотечения`] и [Combustion:`Огня`] равна 6 и более</style>\n[StartBattle] Даёт 2 [AttackUp:`Повышения уровня атаки`] союзникам рядом с собой на приборной панели\n[StartBattle] Поднимает Уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Paralysis:`Паралича`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Прикрывайте спины!",
+          "desc": "Сила монет +1 против целей, чья сумма силы [Laceration:`Кровотечения`] и [Combustion:`Огня`] равна 6 и более\n[StartBattle] Даёт 2 [AttackUp:`Повышения уровня атаки`] союзникам рядом с собой на приборной панели\n[StartBattle] Поднимает Уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n<style=\"highlight\">[WhenUse] Итоговая сила +2, если на цели есть [RetaliationBook:`Метка возмездия`]</style>\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Paralysis:`Паралича`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "МОИ ПАРИКМАХЕРСКИЕ КУПОООООООООООНЫ!!!",
+          "desc": "Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 3)\n[StartBattle] Поднимает Уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Количество целей +1, если в абсолютном резонансе Зависти 6 и более грехов\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона (В фокусированных битвах считаются Части)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "МОИ ПАРИКМАХЕРСКИЕ КУПОООООООООООНЫ!!!",
+          "desc": "Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 3)\n<style=\"highlight\">Итоговая сила +1 за каждые 2 греха в резонансе Зависти (До 3)</style>\n[StartBattle] Поднимает Уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n<style=\"highlight\">[WhenUse] Итоговая сила +2, если на главной цели есть [RetaliationBook:`Метка возмездия`]</style>\n[WhenUse] Количество целей +1, если в абсолютном резонансе Зависти 6 и более грехов\n<style=\"highlight\">[WhenUse] Количество целей +1 при 20 и более [VengeanceBookHeathcliff:`Книги мести 【Хитклиф】`](;VengeanceBookSinclair)</style>\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">60</style>)% больше урона (В фокусированных битвах считаются Части)\n<style=\"highlight\">[EnemyKill] Значение [MiddleFingerTattooID:`Татуировок мести`] повышается на 2 за каждого противника, убитого этим навыком (До 6 за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит (Число грехов в резонансе Зависти × 5)% от итогового урона этой монеты в качестве дополнительного Дробящего урона (До 30%)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Расплата",
+          "desc": "[StartBattle] Получает ОЗ Щита в размере 25% от потерянных ОЗ (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Расплата",
+          "desc": "<style=\"highlight\">[StartBattle] Если сумма грехов в одном или сразу нескольких абсолютных резонансах Зависти равна 6 и более, то использует свой третий навык <color=#9808de>「МОИ ПАРИКМАХЕРСКИЕ КУПОООООООООООНЫ!!!」</color> в качестве контратаки (До 2 раз за ход; начиная с самого левого слота навыков)\n[StartBattle] Восстанавливает (Число грехов в резонансе Зависти + 3) СД для 3 союзников из Среднего пальца с наименьшей СД включая себя (До 10; единожды за ход; исключая союзников, чья СД равна -40 и ниже)</style>\n[StartBattle] Получает ОЗ Щита в размере 25% от потерянных ОЗ (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071505,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "ПОЛНОЕ И ТОТАЛЬНОЕ УНИЧТОЖЕНИЕ!!!!",
+          "desc": "Внешние эффекты не могут вызвать повторное использование этого навыка\nНаносит на 1% больше урона за каждый 1% потерянных ОЗ (До 30%)\nИтоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 5)\n[StartBattle] Поднимает Уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Итоговая сила +3, если на главной цели есть [RetaliationBook:`Метка возмездия`]\n[WhenUse] Количество целей +1 при 20 и более [VengeanceBookHeathcliff:`Книги мести 【Хитклиф】`](;VengeanceBookSinclair)\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 60)% больше урона (В фокусированных битвах считаются Части)\n[EnemyKill] Добавляет 1 ЭГО Ресурс к случайному наименее имеющемуся греху за каждого противника, убитого этим навыком (До 4)\n[EndSkill] Теряет 15 единиц значения [MiddleFingerTattooID:`Татуировок мести`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Если цель оглушена, наносит ей на 20% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит (Число грехов в резонансе Зависти × 7)% от итогового урона этой монеты в качестве дополнительного Дробящего урона (До 42%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
