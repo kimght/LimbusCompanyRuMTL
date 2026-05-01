@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "RepressedMurderousIntendHard",
+      "name": "Подавленная жажда крови",
+      "desc": "· Уровень атаки снижен на 5\n· Уровень защиты снижен на 5",
+      "undefined": "-"
+    },
+    {
+      "id": "WeighedMurderousIntendHard",
+      "name": "Раздавленная жажда крови",
+      "desc": "· Уровень атаки снижен на 15\n· Уровень защиты снижен на 15",
+      "undefined": "-"
+    }
+  ]
+}
