@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит [BeeSting:`Вонзившийся гарпун 【Пчелиное жало】`]"
@@ -88,7 +88,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит [ArtifactBeeSting:`Вонзившийся гарпун 【Осиное жало】`]"
@@ -178,7 +178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -188,7 +188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит [BeeSting:`Вонзившийся гарпун 【Пчелиное жало】`]"
@@ -208,7 +208,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Возвращает [BeeSting:`Вонзившийся гарпун 【Пчелиное жало】`] с цели к себе"
@@ -231,7 +231,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
@@ -241,7 +241,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
@@ -251,7 +251,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
@@ -261,7 +261,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит [ArtifactBeeSting:`Вонзившийся гарпун 【Осиное жало】`]"
@@ -283,7 +283,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
@@ -293,7 +293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
@@ -303,7 +303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
@@ -313,7 +313,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
@@ -323,7 +323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Оглушает цель"
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 8 урона по СД"
@@ -542,7 +542,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 6 [Vibration:`Тремора`]"
@@ -555,14 +555,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход"
@@ -620,7 +620,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] дважды и понижает его счётчик на 2"
@@ -645,7 +645,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 }
               ]
             }
@@ -664,7 +664,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 }
               ]
             }
@@ -684,7 +684,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
@@ -694,7 +694,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
@@ -704,7 +704,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -717,7 +717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
@@ -749,7 +749,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 1 [Combustion:`Огонь`]"
@@ -785,7 +785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 1 [Combustion:`Огонь`]"
@@ -821,7 +821,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 2 [Combustion:`Огня`]"
@@ -954,7 +954,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnStartCoin] Тратит все [LanternHohenheimBigBird:`Лампы`] и наносит на (Потраченное значение × 15)% больше урона (До 300%)"

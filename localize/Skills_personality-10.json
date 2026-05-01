@@ -1930,7 +1930,7 @@
                   "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 10% от итогового урона этой монеты в качестве урона Гневом</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 10% от итогового урона этой монеты в качестве дополнительного урона Гневом</style>"
                 }
               ]
             }
@@ -2016,7 +2016,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Burst:`Разрыв`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 10% от итогового урона этой монеты в качестве урона Чревоугодием</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 10% от итогового урона этой монеты в качестве дополнительного урона Чревоугодием</style>"
                 }
               ]
             },
@@ -2029,7 +2029,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит всем целям 20% от итогового урона этой монеты в качестве урона Чревоугодием</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит всем целям 20% от итогового урона этой монеты в качестве дополнительного урона Чревоугодием</style>"
                 }
               ]
             }
@@ -2274,7 +2274,7 @@
         {
           "level": 3,
           "name": "Разрубание падающей звезды【落星一殺】",
-          "desc": "Наносит на (Излишнее количество целей этого навыка по сравнению с фактическим × 30)% больше урона (До 60%; в фокусированных битвах считаются Части)\n[WhenUse] Монета этого навыка становится [SuperCoin:`Вечной`] при максимальном значении [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[WhenUse] Сила монеты +1 за каждые 4 [Breath:`Дыхания`] (До 3)\n[WhenUse] Базовая сила +1 за каждые 4 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 3)\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n\n[BeforeAttack] Количество целей +1 за каждые 10 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 2)\n[EndSkill] Значение [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) понижается на 7 за каждую дополнительную цель этого навыка от эффекта выше (До 14)",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона (До 60%; в фокусированных битвах считаются Части)\n[WhenUse] Монета этого навыка становится [SuperCoin:`Вечной`] при максимальном значении [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[WhenUse] Сила монеты +1 за каждые 4 [Breath:`Дыхания`] (До 3)\n[WhenUse] Базовая сила +1 за каждые 4 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 3)\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n\n[BeforeAttack] Количество целей +1 за каждые 10 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 2)\n[EndSkill] Значение [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) понижается на 7 за каждую дополнительную цель этого навыка от эффекта выше (До 14)",
           "coinlist": [
             {
               "coindescs": [
@@ -2294,7 +2294,7 @@
         {
           "level": 4,
           "name": "Разрубание падающей звезды【落星一殺】",
-          "desc": "Наносит на (Излишнее количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">50</style>)% больше урона (До <style=\"highlight\">100%</style>; в фокусированных битвах считаются Части)\n[WhenUse] Монета этого навыка становится [SuperCoin:`Вечной`] при максимальном значении [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[WhenUse] Сила монеты +1 за каждые 4 [Breath:`Дыхания`] (До <style=\"highlight\">5</style>)\n[WhenUse] Базовая сила +1 за каждые 4 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До <style=\"highlight\">5</style>)\n[WhenUse] Получает <style=\"highlight\">7</style> [Breath:`Дыхания`]\n\n[BeforeAttack] Количество целей +1 за каждые 10 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 2)\n[EndSkill] Значение [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) понижается на <style=\"highlight\">5</style> за каждую дополнительную цель этого навыка от эффекта выше (До <style=\"highlight\">10</style>)",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">50</style>)% больше урона (До <style=\"highlight\">100%</style>; в фокусированных битвах считаются Части)\n[WhenUse] Монета этого навыка становится [SuperCoin:`Вечной`] при максимальном значении [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[WhenUse] Сила монеты +1 за каждые 4 [Breath:`Дыхания`] (До <style=\"highlight\">5</style>)\n[WhenUse] Базовая сила +1 за каждые 4 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До <style=\"highlight\">5</style>)\n[WhenUse] Получает <style=\"highlight\">7</style> [Breath:`Дыхания`]\n\n[BeforeAttack] Количество целей +1 за каждые 10 [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) (До 2)\n[EndSkill] Значение [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger) понижается на <style=\"highlight\">5</style> за каждую дополнительную цель этого навыка от эффекта выше (До <style=\"highlight\">10</style>)",
           "coinlist": [
             {
               "coindescs": [

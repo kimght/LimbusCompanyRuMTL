@@ -96,7 +96,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -232,7 +232,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -361,7 +361,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Sinking:`Утопания`]"
@@ -493,7 +493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"

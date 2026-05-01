@@ -585,7 +585,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Curse:`Проклятие`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [NailPersonality:`Гвоздь`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [NailPersonality:`Гвоздь`]"
                 }
               ]
             }

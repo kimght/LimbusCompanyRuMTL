@@ -2307,7 +2307,7 @@
         {
           "level": 4,
           "name": "Полевые испытания - Искрение пыли",
-          "desc": "<b>Все монеты этого навыка кроме последней попадают только по одной из всех целей (В приоритете главная)</b>\n\n<style=\"highlight\">Наносит на (Излишнее количество целей этого навыка по сравнению с фактическим × 50)% больше урона (В фокусированных битвах считаются Части)</style>\nНаносит на <style=\"highlight\">10%</style> больше урона за каждые 5 [MeursaultBeeSpore:`Спор`] на цели (До <style=\"highlight\">30%</style>)\n\n<style=\"highlight\">[BeforeUse] При 2 и менее [MeursaultSporeBulletLong:`Споровых патронах 【Основных】`] тратит 6 СД, чтобы получить 3 [MeursaultSporeBulletLong:`Споровых патрона 【Основных】`]</style>\n[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До <style=\"highlight\">3</style>)\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если есть [MeursaultWorkerBee:`Феромоны лояльности`]\n[WhenUse] Монеты этого навыка в количестве (Текущее значение [MeursaultWorkerBee:`Феромонов лояльности`]) начиная с третьей становятся [SuperCoin:`Вечными`]\n[WhenUse] Количество целей +1, если значение [MeursaultWorkerBee:`Феромонов лояльности`] максимально</style>\n\n[EndSkill] Производит [MeursaultSporeBulletReloading:`Перезарядку 【Прорастание】`]",
+          "desc": "<b>Все монеты этого навыка кроме последней попадают только по одной из всех целей (В приоритете главная)</b>\n\n<style=\"highlight\">Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 50)% больше урона (В фокусированных битвах считаются Части)</style>\nНаносит на <style=\"highlight\">10%</style> больше урона за каждые 5 [MeursaultBeeSpore:`Спор`] на цели (До <style=\"highlight\">30%</style>)\n\n<style=\"highlight\">[BeforeUse] При 2 и менее [MeursaultSporeBulletLong:`Споровых патронах 【Основных】`] тратит 6 СД, чтобы получить 3 [MeursaultSporeBulletLong:`Споровых патрона 【Основных】`]</style>\n[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До <style=\"highlight\">3</style>)\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если есть [MeursaultWorkerBee:`Феромоны лояльности`]\n[WhenUse] Монеты этого навыка в количестве (Текущее значение [MeursaultWorkerBee:`Феромонов лояльности`]) начиная с третьей становятся [SuperCoin:`Вечными`]\n[WhenUse] Количество целей +1, если значение [MeursaultWorkerBee:`Феромонов лояльности`] максимально</style>\n\n[EndSkill] Производит [MeursaultSporeBulletReloading:`Перезарядку 【Прорастание】`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2636,10 +2636,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 2"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)</style>"

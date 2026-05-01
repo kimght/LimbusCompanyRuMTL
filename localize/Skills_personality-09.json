@@ -2408,10 +2408,10 @@
                   "desc": "<style=\"highlight\">Если цель имеет 4 и более типа негативных эффектов, вновь подкидывает эту монету 1 раз</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [BearClawWoundAlly:`Истерзанный цвет 【Румянец】`](;BearClawWound)"
@@ -2670,7 +2670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [EagleClawWoundAlly:`Истерзанный цвет 【Синеву】`](;EagleClawWound)"

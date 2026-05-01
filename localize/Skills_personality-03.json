@@ -3090,7 +3090,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
@@ -3100,7 +3100,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
@@ -3110,7 +3110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [Sinking:`Утопание`]"
@@ -3120,7 +3120,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
                   "desc": "Эта монета <style=\"highlight\">получает +1 к своей Силе и</style> наносит на <style=\"highlight\">40%</style> больше урона за каждую стадию [UnlockBuff_Base:`Разблокировки`] (<style=\"highlight\">До +3 к Силе</style>; до +<style=\"highlight\">120%</style> к урону)"
