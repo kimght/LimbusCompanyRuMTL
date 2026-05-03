@@ -914,7 +914,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -995,7 +995,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1009,7 +1009,7 @@
         {
           "level": 1,
           "name": "Не дай какой-то фигне сломить тебя!",
-          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 5 дополнительного Дробящего урона при попадании монетами этого навыка",
+          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 5 дополнительного Дробящего урона при попадании монетами этого навыка",
           "coinlist": [
             {
               "coindescs": [
@@ -1051,7 +1051,7 @@
         {
           "level": 1,
           "name": "Нарушение правил",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка",
           "coinlist": [
             {
               "coindescs": [
@@ -1077,7 +1077,7 @@
         {
           "level": 1,
           "name": "Придётся снять слой обёртки!",
-          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[EndSkill] Снимает с [MiddleFatherSwordOne:`Запечатанного меча`] его [MiddleFatherSwordTwo:`Первую печать`]",
+          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[EndSkill] Снимает с [MiddleFatherSwordOne:`Запечатанного меча`] его [MiddleFatherSwordTwo:`Первую печать`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1119,7 +1119,7 @@
         {
           "level": 1,
           "name": "Растаптывание",
-          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [ParryingResultUp:`Повышение силы в столкновении`] на следующий ход (До 2 раз за ход)",
+          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [ParryingResultUp:`Повышение силы в столкновении`] на следующий ход (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1151,7 +1151,7 @@
         {
           "level": 1,
           "name": "Пинок",
-          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [VioletDamageUp:`Повышение урона Завистью`] на следующий ход (До 2 раз за ход)",
+          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [VioletDamageUp:`Повышение урона Завистью`] на следующий ход (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1177,7 +1177,7 @@
         {
           "level": 1,
           "name": "Печать мести",
-          "desc": "Базовая сила +1 за каждые 3 [Laceration:`Кровотечения`] на цели (До 3)\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[EndSkill] Теряет всю [ResentmentSpider:`Злобу`] и получает 1 [DaughterEducationSpider:`«Зацени, мелкая!»`]",
+          "desc": "Базовая сила +1 за каждые 3 [Laceration:`Кровотечения`] на цели (До 3)\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[EndSkill] Теряет всю [ResentmentSpider:`Злобу`] и получает 1 [DaughterEducationSpider:`«Зацени, мелкая!»`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1218,7 +1218,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1232,7 +1232,7 @@
         {
           "level": 1,
           "name": "Чуешь жар?!",
-          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
         {
           "level": 1,
           "name": "Нарушение правил",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1309,7 +1309,7 @@
         {
           "level": 1,
           "name": "Похоже, мне придётся снять и второй слой.",
-          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[EndSkill] Снимает с [MiddleFatherSwordTwo:`Полураспечатанного меча`] его [MiddleFatherSwordThree:`Вторую печать`]",
+          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[EndSkill] Снимает с [MiddleFatherSwordTwo:`Полураспечатанного меча`] его [MiddleFatherSwordThree:`Вторую печать`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1610,7 +1610,7 @@
         {
           "level": 1,
           "name": "Растаптывание!",
-          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [SkillPowerUp:`Повышение базовой силы`] на следующий ход (До 2 раз за ход)",
+          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [SkillPowerUp:`Повышение базовой силы`] на следующий ход (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1628,7 +1628,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1642,7 +1642,7 @@
         {
           "level": 1,
           "name": "Пинок!",
-          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [VioletDamageUp:`Повышение урона Завистью`] на следующий ход (До 2 раз за ход)",
+          "desc": "Сила монет +1 против целей с 4 и более [Laceration:`Кровотечения`]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[DefeatDuel] Получает 1 [VioletDamageUp:`Повышение урона Завистью`] на следующий ход (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1668,7 +1668,7 @@
         {
           "level": 1,
           "name": "Печать полного и тотального уничтожения!",
-          "desc": "Базовая сила +1 за каждые 3 [Laceration:`Кровотечения`] на цели (До 3)\nЕсли есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[EndSkill] Теряет всю [ResentmentSpider:`Злобу`] и получает 1 [DaughterEducationSpider:`«Зацени, мелкая!»`]",
+          "desc": "Базовая сила +1 за каждые 3 [Laceration:`Кровотечения`] на цели (До 3)\nЕсли есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[EndSkill] Теряет всю [ResentmentSpider:`Злобу`] и получает 1 [DaughterEducationSpider:`«Зацени, мелкая!»`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1709,7 +1709,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1723,7 +1723,7 @@
         {
           "level": 1,
           "name": "Пора бы уже растаять и умереть",
-          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
         {
           "level": 1,
           "name": "Нарушение правил!",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1800,7 +1800,7 @@
         {
           "level": 1,
           "name": "Леватэйн - Давненько мне не приходилось высвобождать всё целиком!",
-          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[EndSkill] [MiddleFatherSwordFour:`Снимает последнюю печать с Леватэйна`](#f8c200)",
+          "desc": "[CantChangeTarget]\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[EndSkill] [MiddleFatherSwordFour:`Снимает последнюю печать с Леватэйна`](#f8c200)",
           "coinlist": [
             {
               "coindescs": [
@@ -1863,7 +1863,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Поднимает границу выносливости цели на 10"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 2 [Paralysis:`Паралича`]"
                 }
               ]
             },
@@ -2009,7 +2009,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 10 дополнительного Дробящего урона"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], наносит 5 [Paralysis:`Параличей`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 5 [Paralysis:`Параличей`]"
                 }
               ]
             }
@@ -2023,7 +2023,7 @@
         {
           "level": 1,
           "name": "Нарушение правил!!",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[BeforeUse] Теряет 10 СД\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[BeforeUse] Теряет 10 СД\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
