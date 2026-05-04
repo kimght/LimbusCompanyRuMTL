@@ -102,5 +102,6 @@ singular_keywords = [
   "sprite",
   "style",
   "align",
-  "size"
+  "size",
+  "line-height"
 ]
