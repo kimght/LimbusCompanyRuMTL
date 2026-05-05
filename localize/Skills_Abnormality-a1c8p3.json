@@ -1356,7 +1356,7 @@
                   "desc": "[OnSucceedAttack] Если целью стал Старейшина, перенимает его [ImperfectEternalLife:`Несовершенное бессмертие`] и оставшиеся ОЗ на все свои части в следующем ходе, а сам Старейшина исчезает"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 8 [Laceration:`Кровотечения`] и 8 [Burst:`Разрывов`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 8 [Laceration:`Кровотечения`] и 8 [Burst:`Разрыва`]"
                 }
               ]
             }

@@ -258,7 +258,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве (Сила [Laceration:`Кровотечения`] цели / 2)"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве (Сила [Laceration:`Кровотечения`] цели / 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 7 СД"
@@ -290,7 +290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 10 СД"
@@ -387,7 +387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -520,7 +520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -653,7 +653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -686,7 +686,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрывы`] в количестве [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -1110,7 +1110,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] в количестве [Burst:`Разрывов`] цели"
+                  "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] в количестве силы [Burst:`Разрыва`] на цели"
                 }
               ]
             }
@@ -1124,7 +1124,7 @@
         {
           "level": 1,
           "name": "Взбучка",
-          "desc": "Сила в столкновении +1 против целей с 5 и более [Burst:`Разрывами`]\nСила в столкновении +1 против целей с 5 и более [Laceration:`Кровотечения`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3",
+          "desc": "Сила в столкновении +1 против целей с 5 и более [Burst:`Разрыва`]\nСила в столкновении +1 против целей с 5 и более [Laceration:`Кровотечения`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3",
           "coinlist": [
             {
               "coindescs": [

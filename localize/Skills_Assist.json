@@ -183,7 +183,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 1\n[OnSucceedAttack] Получает [Breath:`Дыхание`] в количестве [Burst:`Разрывов`] на цели (До 5)"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 1\n[OnSucceedAttack] Получает [Breath:`Дыхание`] в количестве силы [Burst:`Разрыва`] на цели (До 5)"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Получает 3 [Breath:`Дыхания`] на следующий ход\n[OnSucceedAttackHead] Повышает свой счётчик [Breath:`Дыхания`] на счётчик [Burst:`Разрыва`] цели (До 2)"

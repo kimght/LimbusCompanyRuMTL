@@ -976,7 +976,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -6298,7 +6298,7 @@
         {
           "level": 4,
           "name": "Разрубание",
-          "desc": "[WinDuel] Наносит на 40% больше урона\n<style=\"highlight\">Сила монет +1 против целей с 5 и более [Burst:`Разрывами`]</style>",
+          "desc": "[WinDuel] Наносит на 40% больше урона\n<style=\"highlight\">Сила монет +1 против целей с 5 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -6323,7 +6323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -6337,7 +6337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Восстанавливает ОЗ на 50% от нанесённого урона</style>"
@@ -6349,12 +6349,12 @@
         {
           "level": 4,
           "name": "Расчленение",
-          "desc": "<style=\"highlight\">Наносит на 50% больше урона целям с 5 и более [Burst:`Разрывами`]</style>",
+          "desc": "<style=\"highlight\">Наносит на 50% больше урона целям с 5 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Восстанавливает ОЗ на 50% от нанесённого урона"
@@ -6406,7 +6406,7 @@
         {
           "level": 4,
           "name": "Потрошение",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 5 и более [Burst:`Разрывами`]</style>",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 5 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -7421,7 +7421,7 @@
         {
           "level": 4,
           "name": "Удар по Ахиллесовой пяте",
-          "desc": "[Wide] Противник получает -2 к Силе в столкновении\n<style=\"highlight\">Сила монет +2 против целей с 7 и более [Burst:`Разрывами`]</style>",
+          "desc": "[Wide] Противник получает -2 к Силе в столкновении\n<style=\"highlight\">Сила монет +2 против целей с 7 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9262,7 +9262,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Наносит 1 [Vulnerable:`Уязвимость`] на следующий ход"
@@ -9294,7 +9294,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -9318,7 +9318,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -9698,7 +9698,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 4\n[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 4\n[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -9707,12 +9707,12 @@
         {
           "level": 4,
           "name": "Коррозийный всплеск",
-          "desc": "<style=\"highlight\">[WhenUse] Этот слот получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 5 [Vibration:`Тремора`] и 5 [Burst:`Разрывов`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Этот слот получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 5 [Vibration:`Тремора`] и 5 [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 4\n[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 4\n[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -9747,7 +9747,7 @@
         {
           "level": 1,
           "name": "Задержка нарушителей",
-          "desc": "Сила монет +1 против целей с 5 и более [Burst:`Разрывами`]",
+          "desc": "Сила монет +1 против целей с 5 и более [Burst:`Разрыва`]",
           "coinlist": [
             {}
           ]
@@ -9755,7 +9755,7 @@
         {
           "level": 2,
           "name": "Задержка нарушителей",
-          "desc": "Сила монет <style=\"highlight\">+2</style> против целей с 5 и более [Burst:`Разрывами`]",
+          "desc": "Сила монет <style=\"highlight\">+2</style> против целей с 5 и более [Burst:`Разрыва`]",
           "coinlist": [
             {}
           ]
@@ -9763,7 +9763,7 @@
         {
           "level": 4,
           "name": "Задержка нарушителей",
-          "desc": "Сила монет <style=\"highlight\">+3</style> против целей с 5 и более [Burst:`Разрывами`]\n<style=\"highlight\">[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "Сила монет <style=\"highlight\">+3</style> против целей с 5 и более [Burst:`Разрыва`]\n<style=\"highlight\">[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -9781,14 +9781,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на 20% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на 20% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на 20% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на 20% от нанесённого урона"
                 }
               ]
             }
@@ -9802,14 +9802,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на <style=\"highlight\">50%</style> от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на <style=\"highlight\">50%</style> от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на <style=\"highlight\">50%</style> от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на <style=\"highlight\">50%</style> от нанесённого урона"
                 }
               ]
             }
@@ -9823,14 +9823,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрывов`], восстанавливает ОЗ на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]\nЕсли на цели 10 и более [Burst:`Разрыва`], восстанавливает ОЗ на 50% от нанесённого урона"
                 }
               ]
             }
@@ -9934,7 +9934,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Получает 1 [Talisman:`Оберег`], если на цели 5 и более [Burst:`Разрывов`]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Получает 1 [Talisman:`Оберег`], если на цели 5 и более [Burst:`Разрыва`]</style>"
                 }
               ]
             }
@@ -9951,7 +9951,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Получает 1 [Talisman:`Оберег`], если на цели 5 и более [Burst:`Разрывов`]"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Получает 1 [Talisman:`Оберег`], если на цели 5 и более [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -10992,7 +10992,7 @@
         {
           "level": 4,
           "name": "Интуиция",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрывами`]</style>",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -11115,7 +11115,7 @@
         {
           "level": 4,
           "name": "Анализ данных",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрывами`]</style>",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -11198,7 +11198,7 @@
         {
           "level": 2,
           "name": "Прогнозный анализ",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 3 и более [Burst:`Разрывами`]</style>",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 3 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -11258,7 +11258,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрывов`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрыва`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
                 }
               ]
             }
@@ -11267,7 +11267,7 @@
         {
           "level": 2,
           "name": "Анализ цели",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрывами`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3</style>",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Burst:`Разрыва`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -11280,7 +11280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрывов`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрыва`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
                 }
               ]
             }
@@ -11289,7 +11289,7 @@
         {
           "level": 4,
           "name": "Анализ цели",
-          "desc": "Сила монет +1 <style=\"highlight\">за каждые 6</style> [Burst:`Разрывов`] на цели <style=\"highlight\">(До 2)</style>\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3",
+          "desc": "Сила монет +1 <style=\"highlight\">за каждые 6</style> [Burst:`Разрыва`] на цели <style=\"highlight\">(До 2)</style>\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -11302,7 +11302,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрывов`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели 6 и более [Burst:`Разрыва`], наносит [WeaknessAnalysis:`Обнаружение слабости`] на следующий ход"
                 }
               ]
             }

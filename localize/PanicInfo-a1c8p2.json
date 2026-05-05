@@ -3,8 +3,8 @@
     {
       "id": 1043,
       "panicName": "Мутация древа",
-      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`], 1 [Vulnerable:`Уязвимость`] и 1 [BurstVulnerable:`Уязвимость к Разрывам`]",
-      "panicDescription": "Получает 2 [AttackDmgUp:`Повышения урона`], 2 [Vulnerable:`Уязвимости`] и 2 [BurstVulnerable:`Уязвимости к Разрывам`]"
+      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`], 1 [Vulnerable:`Уязвимость`] и 1 [BurstVulnerable:`Уязвимость к Разрыву`]",
+      "panicDescription": "Получает 2 [AttackDmgUp:`Повышения урона`], 2 [Vulnerable:`Уязвимости`] и 2 [BurstVulnerable:`Уязвимости к Разрыву`]"
     },
     {
       "id": 1044,
