@@ -1010,7 +1010,7 @@
           "level": 3,
           "name": "Шарики за ролики",
           "abName": "Хочешь, накостыляю?\nОчень?",
-          "desc": "[EndSkill] Получает 3 [Protection:`Защищённости`]\n<style=\"highlight\">[EndSkill] Получает 2 [Operation:`Операции`] на следующий ход</style>",
+          "desc": "[EndSkill] Получает 3 [Protection:`Защищённости`]\n<style=\"highlight\">[EndSkill] Получает 1 [Operation:`Операцию`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
