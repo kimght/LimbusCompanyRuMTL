@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Больше никаких тестов",
+          "name": "Никаких больше тестов",
           "desc": "[WhenUse] Получает 3 [HitDamageUp:`Повышения Дробящего урона`] на следующий ход\n[WhenUse] Если на цели 3 и более [MiddleFingerBook:`Метки воздаяния`], все монеты этого навыка становятся [SuperCoin:`Вечными`]",
           "coinlist": [
             {},
@@ -45,7 +45,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [MiddleFingerBook:`Меток воздаяния`] на цели × 3) Дробящего урона"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [MiddleFingerBook:`Меток воздаяния`] на цели × 3) дополнительного Дробящего урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Снимает все [MiddleFingerBook:`Метки воздаяния`] с цели"

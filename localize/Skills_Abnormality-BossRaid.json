@@ -1,0 +1,389 @@
+{
+  "dataList": [
+    {
+      "id": 500101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пробивание",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ещё 3 Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ещё 3 Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Швырок",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ещё 5 Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит ещё 5 Дробящего урона"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Расплата",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Прикрывайте спины!",
+          "desc": "Cила монет +3, если СД цели ниже 0",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 10 СД"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] и 2 [Reduction:`Понижения силы атаки`] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Цель теряет 20 СД"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Общий сбор",
+          "desc": "[StartBattle] Призывает двух союзников в следующем ходе",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пусть это будет незабываемо",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "МОИ ПАРИКМАХЕРСКИЕ КУПОООООООООООНЫ!!!",
+          "desc": "[DefeatDuel] Наносит на 30% меньше урона и не может оглушить целей",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Поднимает границу выносливости цели на 30"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Paralysis:`Паралич`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Понижает значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обещанные страдания",
+          "desc": "Нацеливается на противников с наибольшим значением [RicardoBookRaid:`Записи в книгу`](;AaCePbBi)\n[WhenUse] Если на цели <color=#ff6000><mark=#ff000040><b><u>3 и более [RicardoBookRaid:`Записи в книгу`](;AaCePbBi)</u></b></mark></color>, все монеты этого навыка становятся [SuperCoin:`Вечными`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable:`Уязвимость`] на этот и следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable:`Уязвимость`] на этот и следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит (Значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на цели × 3) дополнительного Дробящего урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Понижает значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Довольно игр",
+          "desc": "[StartBattle] Восстанавливает себе 20 СД\n[EndBattle] Получает 5 [Enhancement:`Повышений силы атаки`] на следующий ход",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ПОЛНОЕ И ТОТАЛЬНОЕ УНИЧТОЖЕНИЕ!!!!",
+          "desc": "[DefeatDuel] Наносит на 30% меньше урона и не может оглушить целей",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит урон, равный (Значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на цели × 3)% от максимальных ОЗ цели"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Понижает значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ах, ты был одним из членов семьи",
+          "desc": "[StartBattle] Восстанавливает 10 СД всем союзникам",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ОБМАНУЛ МЕНЯ, ДА??!!",
+          "desc": "[StartBattle] Теряет 20 СД\n[StartBattle] Получает 6 [AttackUp:`Повышений уровня атаки`] и 4 [Vulnerable:`Уязвимости`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клятва мести",
+          "desc": "[EndBattle] Получает 3 [AttackUp:`Повышения уровня атаки`] на следующий ход\n- Если на слот с этим навыком <color=#ff6000><mark=#ff000040><b><u>направлен атакующий навык противника</u></b></mark></color>, то получает на 1 [AttackUp:`Повышение уровня атаки`] меньше",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500114,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "НЕМЕДЛЕННОЕ, ПОЛНОЕ И ТОТАЛЬНОЕ УНИЧТОЖЕНИЕ!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон, равный (Значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на цели)% от максимальных ОЗ цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон, равный (Значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на цели)% от максимальных ОЗ цели"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон, равный (Значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) на цели)% от максимальных ОЗ цели"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500115,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Никаких больше тестов",
+          "desc": "[WhenUse] Получает 3 [HitDamageUp:`Повышения Дробящего урона`] на следующий ход\n[WhenUse] Если на цели <color=#ff6000><mark=#ff000040><b><u>5 и более [RicardoBookRaid:`Записи в книгу`](;AaCePbBi)</u></b></mark></color>, все монеты этого навыка становятся [SuperCoin:`Вечными`]",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500116,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Милосердие Старшего брата",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Понижает значение [RicardoBookRaid:`Записи в книгу`](;AaCePbBi) <color=#ff6000><mark=#ff000040><b>на 10</b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Оглушает цель</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вцепиться в шанс",
+          "desc": "[BeforeHit] Получает 5 ОЗ Щита за каждую [MiddleFingerBook:`Метку воздаяния`] на атакующем (До 50; единожды за ход)\n[WhenUse] Если на атакующем есть 5 и более [MiddleFingerBook:`Метки воздаяния`]:\n- Базовая сила +3\n- Наносит ей 4 [DefenseDown:`Понижения уровня защиты`]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 500401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Многократное возмездие",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
