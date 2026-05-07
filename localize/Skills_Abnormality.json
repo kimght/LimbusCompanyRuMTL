@@ -2277,7 +2277,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -2303,7 +2303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -3462,7 +3462,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -4043,7 +4043,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 5"
@@ -4208,7 +4208,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -4227,7 +4227,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             },
@@ -4378,7 +4378,7 @@
         {
           "level": 1,
           "name": "Всё пустое",
-          "desc": "[DefeatDuel] Получает 10 [Burst:`Разрывов`]",
+          "desc": "[DefeatDuel] Получает 10 [Burst:`Разрыва`]",
           "coinlist": [
             {}
           ]
@@ -4415,7 +4415,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Vulnerable:`Уязвимости`], 5 [Burst:`Разрывов`] и 5 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает ОЗ на 10% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vulnerable:`Уязвимости`], 5 [Burst:`Разрыва`] и 5 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает ОЗ на 10% от нанесённого урона"
                 }
               ]
             }
@@ -4727,7 +4727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Vibration:`Тремор`] в количестве [Burst:`Разрывов`] на цели"
+                  "desc": "[OnSucceedAttack] Наносит [Vibration:`Тремор`] в количестве силы [Burst:`Разрыва`] на цели"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"

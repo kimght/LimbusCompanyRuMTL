@@ -395,7 +395,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 5 в следующем ходе"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит (Сумма силы всех негативных эффектов на цели) [Laceration:`Кровотечения`] и [Burst:`Разрывов`] (До 30)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит (Сумма силы всех негативных эффектов на цели) [Laceration:`Кровотечения`] и [Burst:`Разрыва`] (До 30)"
                 }
               ]
             }
@@ -948,7 +948,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
@@ -984,7 +984,7 @@
         {
           "level": 1,
           "name": "Незакрытая бездна",
-          "desc": "Наносит на 100% больше урона целям с 5 и более [Burst:`Разрывами`]\n[DefeatDuel] Наносит на 80% меньше урона и не может оглушить целей",
+          "desc": "Наносит на 100% больше урона целям с 5 и более [Burst:`Разрыва`]\n[DefeatDuel] Наносит на 80% меньше урона и не может оглушить целей",
           "coinlist": [
             {
               "coindescs": [
@@ -1097,7 +1097,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }

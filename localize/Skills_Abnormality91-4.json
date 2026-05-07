@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 5"
@@ -111,7 +111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }

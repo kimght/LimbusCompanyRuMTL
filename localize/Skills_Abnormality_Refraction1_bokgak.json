@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Взмах",
-          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -18,7 +18,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -47,7 +47,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -101,7 +101,7 @@
         {
           "level": 1,
           "name": "Смести",
-          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -146,7 +146,7 @@
         {
           "level": 1,
           "name": "Клич",
-          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {},
             {
@@ -174,7 +174,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 8 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 8 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -1471,7 +1471,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -1516,7 +1516,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -1595,7 +1595,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Paralysis:`Паралича`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             }
@@ -1614,7 +1614,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] и повышает его счётчик на 2"
                 }
               ]
             },
@@ -1640,7 +1640,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -2324,12 +2324,12 @@
         {
           "level": 1,
           "name": "Не входить",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 4 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 4 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -2398,7 +2398,7 @@
         {
           "level": 1,
           "name": "Подозрительные лица",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2417,7 +2417,7 @@
         {
           "level": 1,
           "name": "Удержание",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2451,7 +2451,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             },

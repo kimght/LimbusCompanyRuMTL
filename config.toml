@@ -88,6 +88,7 @@ apply_for = [
   "MentalCondition*.json",
   "BattleKeywords*.json",
   "Bufs*.json",
+  "UI_Mission_MirrorDungeon*Event.json"
 ]
 
 # no_link = [
@@ -101,5 +102,6 @@ singular_keywords = [
   "sprite",
   "style",
   "align",
-  "size"
+  "size",
+  "line-height"
 ]

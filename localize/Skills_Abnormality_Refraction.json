@@ -388,7 +388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит дополнительный урон в количестве [Burst:`Разрывов`] на цели\n[OnSucceedAttack] Тратит все [Burst:`Разрывы`] цели"
+                  "desc": "[OnSucceedAttackHead] Наносит дополнительный урон в количестве силы [Burst:`Разрыва`] на цели\n[OnSucceedAttack] Тратит весь [Burst:`Разрыв`] с цели"
                 }
               ]
             }

@@ -454,7 +454,7 @@
         {
           "level": 4,
           "name": "Светящаяся приманка",
-          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">4</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Burst:`Разрывами`]</style>",
+          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">4</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -518,7 +518,7 @@
         {
           "level": 4,
           "name": "Вжух-вжух ням-ням-ням!",
-          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Burst:`Разрывами`]</style>",
+          "desc": "[WhenUse] Этот слот получает <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -565,7 +565,7 @@
         {
           "level": 4,
           "name": "Стучащие зубы",
-          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +3, если на атакующем 6 и более [Burst:`Разрывов`]</style>\n[EndBattle] Восстанавливает ОЗ в количестве оставшихся ОЗ Щита (Единожды за ход; до 10% от максимальных ОЗ)",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +3, если на атакующем 6 и более [Burst:`Разрыва`]</style>\n[EndBattle] Восстанавливает ОЗ в количестве оставшихся ОЗ Щита (Единожды за ход; до 10% от максимальных ОЗ)",
           "coinlist": [
             {
               "coindescs": [

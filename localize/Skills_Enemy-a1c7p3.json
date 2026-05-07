@@ -453,7 +453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] и [Burst:`Разрывы`] в количестве своей [HardenedBlood:`Застывшей крови`]"
+                  "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] и [Burst:`Разрыв`] в количестве своей [HardenedBlood:`Застывшей крови`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Восстанавливает ([FestivalFever:`Праздничной горячки`] на себе × 4)% ОЗ (До 40%)"

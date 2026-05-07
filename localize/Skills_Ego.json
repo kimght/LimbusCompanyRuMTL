@@ -1010,7 +1010,7 @@
           "level": 3,
           "name": "Шарики за ролики",
           "abName": "Хочешь, накостыляю?\nОчень?",
-          "desc": "[EndSkill] Получает 3 [Protection:`Защищённости`]\n<style=\"highlight\">[EndSkill] Получает 2 [Operation:`Операции`] на следующий ход</style>",
+          "desc": "[EndSkill] Получает 3 [Protection:`Защищённости`]\n<style=\"highlight\">[EndSkill] Получает 1 [Operation:`Операцию`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2048,7 +2048,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 6 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Теряет 10 СД"
@@ -2066,7 +2066,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">12</style> [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">12</style> [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Теряет 10 СД</style>"
@@ -2087,7 +2087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 12 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 12 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Теряет 10 СД <style=\"highlight\">и получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход</style>"
@@ -2340,7 +2340,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит <style=\"highlight\">5</style> [Laceration:`Кровотечения`]"
@@ -2463,7 +2463,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрывов`] или [Sinking:`Утопания`]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]"
                 }
               ]
             }
@@ -2478,7 +2478,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">10</style> [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрывов`] или [Sinking:`Утопания`]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">10</style> [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]"
                 }
               ]
             }
@@ -2684,7 +2684,7 @@
                   "desc": "[OnSucceedAttack] Восстанавливает ОЗ на <style=\"highlight\">30%</style> от нанесённого урона"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">5</style> [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttackHead] Наносит <style=\"highlight\">5</style> [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -2760,7 +2760,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и также получает 10 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и получает 10 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -2775,10 +2775,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и также получает 10 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и получает 10 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Повышает всем союзникам счётчик [Charge:`Заряда`] на 10, но также наносит им 5 [Vulnerable:`Уязвимостей`] и 10 [Burst:`Разрывов`]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Повышает всем союзникам счётчик [Charge:`Заряда`] на 10, но также наносит им 5 [Vulnerable:`Уязвимостей`] и 10 [Burst:`Разрыва`]</style>"
                 }
               ]
             }
@@ -2793,10 +2793,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и также получает 10 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Charge:`Заряда`] на 10 и получает 10 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EndSkill]</style> Повышает всем союзникам счётчик [Charge:`Заряда`] на <style=\"highlight\">12</style>, но также наносит им 5 [Vulnerable:`Уязвимостей`] и 10 [Burst:`Разрывов`]"
+                  "desc": "<style=\"highlight\">[EndSkill]</style> Повышает всем союзникам счётчик [Charge:`Заряда`] на <style=\"highlight\">12</style>, но также наносит им 5 [Vulnerable:`Уязвимостей`] и 10 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -3107,7 +3107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Количество [Burst:`Разрывов`] на цели × 7.5)% от прошедшего урона (До 75%) и понижает счётчик [Burst:`Разрыва`] на 5"
+                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Сила [Burst:`Разрыва`] на цели × 7.5)% от прошедшего урона (До 75%) и понижает счётчик [Burst:`Разрыва`] на 5"
                 }
               ]
             }
@@ -3125,7 +3125,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Если был потрачен счётчик [Charge:`Заряда`], наносит 3 [DimensionRift:`Пространственных разлома`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Количество [Burst:`Разрывов`] на цели × 10)% от прошедшего урона (До <style=\"highlight\">100%</style>) и понижает счётчик [Burst:`Разрыва`] на 5"
+                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Сила [Burst:`Разрыва`] на цели × 10)% от прошедшего урона (До <style=\"highlight\">100%</style>) и понижает счётчик [Burst:`Разрыва`] на 5"
                 }
               ]
             }
@@ -3143,7 +3143,7 @@
                   "desc": "[OnSucceedAttack] Если был потрачен счётчик [Charge:`Заряда`], наносит <style=\"highlight\">5</style> [DimensionRift:`Пространственных разломов`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Количество [Burst:`Разрывов`] на цели × 10)% от прошедшего урона (До 100%) и понижает счётчик [Burst:`Разрыва`] на 5"
+                  "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Сила [Burst:`Разрыва`] на цели × 10)% от прошедшего урона (До 100%) и понижает счётчик [Burst:`Разрыва`] на 5"
                 }
               ]
             }
@@ -3184,7 +3184,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Если был потрачен счётчик [Charge:`Заряда`], наносит 3 [DimensionRift:`Пространственных разлома`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Количество [Burst:`Разрыв`] на цели × 10)% прошедшего урона, и снижает счётчик [Burst:`Разрыва`] на 5 (До 100%)"
@@ -3205,7 +3205,7 @@
                   "desc": "[OnSucceedAttack] Если был потрачен счётчик [Charge:`Заряда`], наносит <style=\"highlight\">5</style> [DimensionRift:`Пространственных разломов`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит урон Гордыней на (Количество [Burst:`Разрыв`] на цели × 10)% прошедшего урона, и снижает счётчик [Burst:`Разрыва`] на 5 (До 100%)"
@@ -3644,7 +3644,7 @@
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Binding:`Связывания`] на следующий ход"

@@ -1019,7 +1019,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             }
@@ -1038,7 +1038,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -1098,7 +1098,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Paralysis:`Паралича`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             }
@@ -1117,7 +1117,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`] и повышает его счётчик на 2 в следующем ходе"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`] и повышает его счётчик на 2 в следующем ходе"
                 }
               ]
             }
@@ -1136,7 +1136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрывов`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Burst:`Разрыва`] на следующий ход"
                 }
               ]
             },
@@ -2168,7 +2168,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
@@ -2204,7 +2204,7 @@
         {
           "level": 1,
           "name": "Незакрытая бездна",
-          "desc": "Наносит на 100% больше урона целям с 5 и более [Burst:`Разрывами`]",
+          "desc": "Наносит на 100% больше урона целям с 5 и более [Burst:`Разрыва`]",
           "coinlist": [
             {}
           ]

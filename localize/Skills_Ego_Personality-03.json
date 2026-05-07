@@ -517,7 +517,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До 3; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До 3; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 4) (До 2; округляется вниз)"
@@ -545,7 +545,7 @@
                   "desc": "<style=\"highlight\">На 3% больше урона за каждый [EntangledCurseTalisman:`Нацепленный оберег проклятия`] на цели (До 30%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До 3; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До 3; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 4) (До 2; округляется вниз)"
@@ -573,7 +573,7 @@
                   "desc": "На <style=\"highlight\">5%</style> больше урона за каждый [EntangledCurseTalisman:`Нацепленный оберег проклятия`] на цели (До <style=\"highlight\">50%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До <style=\"highlight\">4</style>; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До <style=\"highlight\">4</style>; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 4) (До 2; округляется вниз)"
@@ -606,7 +606,7 @@
                   "desc": "На 5% больше урона за каждый [EntangledCurseTalisman:`Нацепленный оберег проклятия`] на цели (До 50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До 3; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До 3; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 3) (До 2; округляется вниз)"
@@ -634,7 +634,7 @@
                   "desc": "На <style=\"highlight\">10%</style> больше урона за каждый [EntangledCurseTalisman:`Нацепленный оберег проклятия`] на цели (До <style=\"highlight\">100%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До 3; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До 3; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 3) (До 2; округляется вниз)"
@@ -662,7 +662,7 @@
                   "desc": "На 10% больше урона за каждый [EntangledCurseTalisman:`Нацепленный оберег проклятия`] на цели (До 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрывов`] (До <style=\"highlight\">4</style>; округляется вниз)"
+                  "desc": "[OnSucceedAttack] Наносит (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 2) [Burst:`Разрыва`] (До <style=\"highlight\">4</style>; округляется вниз)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Количество [EntangledCurseTalisman:`Нацепленных оберегов проклятия`] на цели / 3) (До 2; округляется вниз)"
@@ -701,7 +701,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит [VillainMark:`Метку злодейства`] главной цели на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрывов`] (До 2)"
+                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрыва`] (До 2)"
                 }
               ]
             }
@@ -732,7 +732,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит [VillainMark:`Метку злодейства`] главной цели на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрывов`] (До <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрыва`] (До <style=\"highlight\">3</style>)"
                 }
               ]
             }
@@ -763,7 +763,7 @@
                   "desc": "[OnSucceedAttackHead] Наносит [VillainMark:`Метку злодейства`] главной цели на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрывов`] (До <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Наносит (Сила своего [Charge:`Заряда`] - 1) [Burst:`Разрыва`] (До <style=\"highlight\">4</style>)"
                 },
                 {
                   "desc": "<style=\"highlight\">- Если Дон Кихот в состоянии [MagicalGirlAppear:`Магической девочки`], дополнительно повышает счётчик [Burst:`Разрыва`] на 1</style>"

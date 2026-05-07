@@ -159,7 +159,7 @@
         {
           "level": 1,
           "name": "...Разр...",
-          "desc": "[WhenUse] Базовая сила +1 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +1 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -196,7 +196,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
@@ -363,7 +363,7 @@
         {
           "level": 1,
           "name": "Удал...ени...",
-          "desc": "[WhenUse] Базовая сила +1 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +1 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -381,7 +381,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [DefenseDown:`Понижения уровня защиты`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -400,7 +400,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 6 [Laceration:`Кровотечения`]"
@@ -483,7 +483,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 }
               ]
             }

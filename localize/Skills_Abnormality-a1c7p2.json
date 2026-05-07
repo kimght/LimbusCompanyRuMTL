@@ -130,7 +130,7 @@
                   "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 50% от нанесённого урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и 5 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[EndCoin] Получает 1 [BloomingThorns:`Цветущий шип`] за каждые 10 [BloodDinner:`Кровавого пиршества`], поглощённого при использовании (До 10)"
@@ -194,7 +194,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[WinDuelAttack] Наносит 6 [Burst:`Разрыва`]"
                 },
                 {
                   "desc": "[WinDuelAttack] Повышает счётчик [Burst:`Разрыва`] на 6"

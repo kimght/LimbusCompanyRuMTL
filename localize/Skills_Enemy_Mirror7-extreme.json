@@ -143,12 +143,12 @@
         {
           "level": 1,
           "name": "Не входить",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 4 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 4 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -214,7 +214,7 @@
         {
           "level": 1,
           "name": "Подозрительные лица",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -233,7 +233,7 @@
         {
           "level": 1,
           "name": "Сдерживание",
-          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрывами`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с 3 и более [Burst:`Разрыва`]",
           "coinlist": [
             {
               "coindescs": [
@@ -264,7 +264,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             },
@@ -371,7 +371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -390,14 +390,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрывов`]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 }
               ]
             }
