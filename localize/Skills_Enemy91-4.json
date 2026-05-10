@@ -37,7 +37,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] цели на 2 в следующем ходе"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2 в следующем ходе"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] на следующий ход"
@@ -150,7 +150,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] цели на 2 в следующем ходе"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2 в следующем ходе"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [PenetrateTakeDamageUp:`Уязвимость к Пронзающему урону`] на следующий ход"
@@ -263,7 +263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] цели на 2 в следующем ходе"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2 в следующем ходе"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [HitTakeDamageUp:`Уязвимость к Дробящему урону`] на следующий ход"
