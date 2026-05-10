@@ -70,10 +70,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 10 и более,[VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 10 и более, то [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если сила [Vibration:`Тремора`] цели равна 15 и более, ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик <nobr>на 1</nobr>"
+                  "desc": "[OnSucceedAttack] Если сила [Vibration:`Тремора`] цели равна 15 и более, то [VibrationExplosion:`Провоцирует Тремор`] ещё раз и понижает его счётчик <nobr>на 1</nobr>"
                 }
               ]
             }
@@ -120,7 +120,7 @@
         {
           "level": 1,
           "name": "Готовы для взбучки?",
-          "desc": "Нацеливается на противника с [VibrationCollapse:`Тремором — Распад`]\n[WhenUse] Повышает счётчик [Vibration:`Тремора`] всех своих союзников на число единиц своего счётчика [Vibration:`Тремора`]\n[WhenUse] [Switch_Vibration:`Преобразует амплитуду`] всех союзников и себя в том числе в [VibrationDistribution:`Тремор — Распределение`]\n[DefeatDuel] Наносит на 80% меньше урона и не может оглушить цель",
+          "desc": "Нацеливается на противника с [VibrationCollapse:`Тремором — Распад`]\n[WhenUse] Повышает счётчик [Vibration:`Тремора`] всех своих союзников на число единиц своего счётчика [Vibration:`Тремора`]\n[WhenUse] [Switch_Vibration:`Преобразует амплитуду`] всех союзников и себя в [VibrationDistribution:`Тремор — Распределение`]\n[DefeatDuel] Наносит на 80% меньше урона и не может оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
                   "desc": "[OnSucceedAttack] Наносит 10 [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит ещё 20% урона Леностью за каждую единицу своего счётчика [Vibration:`Тремора`]"
+                  "desc": "[OnSucceedAttack] Наносит (Счётчик своего [Vibration:`Тремора`] × 20)% дополнительного урона Леностью"
                 }
               ]
             },
@@ -203,7 +203,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] цели на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит ещё 20% урона Леностью за каждую единицу своего счётчика [Vibration:`Тремора`]"
+                  "desc": "[OnSucceedAttack] Наносит (Счётчик своего [Vibration:`Тремора`] × 20)% дополнительного урона Леностью"
                 }
               ]
             },

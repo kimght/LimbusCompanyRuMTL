@@ -121,7 +121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает [Vibration:`Тремор`] в количестве [Vibration:`Тремора`] цели"
+                  "desc": "[OnSucceedAttack] Получает [Vibration:`Тремор`] в количестве [Vibration:`Тремора`] на цели"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 6 [Vibration:`Тремора`]"
@@ -290,10 +290,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 10 и более,[VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 10 и более, то [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если сила [Vibration:`Тремора`] цели равна 15 и более, ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик <nobr>на 1</nobr>"
+                  "desc": "[OnSucceedAttack] Если сила [Vibration:`Тремора`] цели равна 15 и более, то [VibrationExplosion:`Провоцирует Тремор`] ещё раз и понижает его счётчик <nobr>на 1</nobr>"
                 }
               ]
             }
@@ -340,7 +340,7 @@
         {
           "level": 1,
           "name": "Готовы для взбучки?",
-          "desc": "Нацеливается на противника с [VibrationCollapse:`Тремором — Распад`]\n[WhenUse] Повышает счётчик [Vibration:`Тремора`] всех своих союзников на число единиц своего счётчика [Vibration:`Тремора`]\n[WhenUse] [Switch_Vibration:`Преобразует амплитуду`] всех союзников и себя в том числе в [VibrationDistribution:`Тремор — Распределение`]",
+          "desc": "Нацеливается на противника с [VibrationCollapse:`Тремором — Распад`]\n[WhenUse] Повышает счётчик [Vibration:`Тремора`] всех своих союзников на число единиц своего счётчика [Vibration:`Тремора`]\n[WhenUse] [Switch_Vibration:`Преобразует амплитуду`] всех союзников и себя в [VibrationDistribution:`Тремор — Распределение`]",
           "coinlist": [
             {},
             {},
@@ -395,7 +395,7 @@
                   "desc": "[OnSucceedAttack] Наносит 10 [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит ещё 10% урона Леностью за каждую единицу своего счётчика [Vibration:`Тремора`]"
+                  "desc": "[OnSucceedAttack] Наносит (Счётчик своего [Vibration:`Тремора`] × 10)% дополнительного урона Леностью"
                 }
               ]
             },
@@ -405,7 +405,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] цели на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит ещё 10% урона Леностью за каждую единицу своего счётчика [Vibration:`Тремора`]"
+                  "desc": "[OnSucceedAttack] Наносит (Счётчик своего [Vibration:`Тремора`] × 10)% дополнительного урона Леностью]"
                 }
               ]
             },
@@ -437,14 +437,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [InterlockingTime:`Остановку времени`], если счётчик [Vibration:`Тремора`] цели равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [InterlockingTime:`Остановку времени`], если счётчик [Vibration:`Тремора`] цели равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 1"
@@ -469,7 +469,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Paralysis:`Паралича`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 8 [Vibration:`Тремора`], если свой счётчик [Vibration:`Тремора`] равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то наносит цели 8 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -482,7 +482,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] цели на 8, если свой счётчик [Vibration:`Тремора`] равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то повышает счётчик [Vibration:`Тремора`] цели на 8"
                 }
               ]
             }
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "Вынужден произвести изъятие.",
-          "desc": "[WhenUse] Сила в столкновении +1 за каждые 5 единиц своего счётчика [Vibration:`Тремора`] (До 2)\n[WhenUse] Если свой счётчик [Vibration:`Тремора`] равен 5 и более, наносит на 10% больше урона за каждую его единицу (До 100%)\n[EndSkill] Теряет весь свой [Vibration:`Тремора`]",
+          "desc": "[WhenUse] Сила в столкновении +1 за каждые 5 единиц своего счётчика [Vibration:`Тремора`] (До 2)\n[WhenUse] Если свой счётчик [Vibration:`Тремора`] равен 5 и более, то наносит на 10% больше урона за каждую его единицу (До 100%)\n[EndSkill] Теряет весь свой счётчик [Vibration:`Тремора`]",
           "coinlist": [
             {
               "coindescs": [
@@ -504,10 +504,10 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 2 в следующем ходе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [InterlockingTime:`Остановку времени`], если на цели 8 и более [Vibration:`Тремора`]"
+                  "desc": "[OnSucceedAttack] Если на цели 8 и более [Vibration:`Тремора`], то наносит ей 1 [InterlockingTime:`Остановку времени`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 8 [Vibration:`Тремора`], если свой счётчик [Vibration:`Тремора`] равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то наносит цели 8 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -517,23 +517,23 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 2 в следующем ходе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [InterlockingTime:`Остановку времени`], если счётчик [Vibration:`Тремора`] цели равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] цели на 5, если свой счётчик [Vibration:`Тремора`] равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то наносит цели 5 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [InterlockingTime:`Остановку времени`], если свой счётчик [Vibration:`Тремора`] равен 7 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 7 и более, то наносит цели 1 [InterlockingTime:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Switch_Vibration:`Преобразует амплитуду`] в [VibrationChain:`Тремор — Цепи`], если свой счётчик [Vibration:`Тремора`] равен 4 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то [Switch_Vibration:`Преобразует амплитуду`] в [VibrationChain:`Тремор — Цепи`], "
                 }
               ]
             }
@@ -547,7 +547,7 @@
         {
           "level": 1,
           "name": "Одолженное время",
-          "desc": "[StartBattle] Тратит 5 единиц счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени Корп. T`] <nobr>на 3</nobr>",
+          "desc": "[StartBattle] Тратит 5 единиц своего счётчика [Vibration:`Тремора`], чтобы получить 3 единицы счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]",
           "coinlist": [
             {
               "coindescs": [
@@ -571,7 +571,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`], если свой счётчик [Vibration:`Тремора`] равен 3 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 3 и более, то наносит цели 3 [Vibration:`Тремора`]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Повышает свой счётчик [Vibration:`Тремора`] на 1"
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "Предъявите свои карманные часы.",
-          "desc": "[WhenUse] Сила в столкновении +1, если свой счётчик [Vibration:`Тремора`] равен 5 и более\n[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 2\n[WinDuel] Тратит 3 единицы счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени \nКорп. T`] на 1",
+          "desc": "[WhenUse] Сила в столкновении +1, если свой счётчик [Vibration:`Тремора`] равен 5 и более\n[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 2\n[WinDuel] Тратит 3 единицы своего счётчика [Vibration:`Тремора`], чтобы получить 1 единицу счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]",
           "coinlist": [
             {
               "coindescs": [
@@ -638,7 +638,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Reduction:`Понижение силы атаки`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Switch_Vibration:`Преобразует амплитуду`] в [VibrationChain:`Тремор — Цепи`], если свой счётчик [Vibration:`Тремора`] равен 5 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 5 и более, то [Switch_Vibration:`Преобразует амплитуду`] в [VibrationChain:`Тремор — Цепи`]"
                 }
               ]
             }
@@ -652,7 +652,7 @@
         {
           "level": 1,
           "name": "Мы вынуждены произвести изъятие.",
-          "desc": "[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 3\n[WhenUse] Базовая сила +1 за каждые 4 единицы своего счётчика [Vibration:`Тремора`] (До 3)\n[WinDuel] Тратит 5 единиц счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени Корп. T`] на 3",
+          "desc": "[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 3\n[WhenUse] Базовая сила +1 за каждые 4 единицы своего счётчика [Vibration:`Тремора`] (До 3)\n[WinDuel] Тратит 5 единиц своего счётчика [Vibration:`Тремора`], чтобы получить 3 единицы счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]",
           "coinlist": [
             {
               "coindescs": [
@@ -678,7 +678,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Тратит 2 единицы своего счётчика [Vibration:`Тремора`], чтобы [VibrationExplosion:`Спровоцировать Тремор`] цели, после чего подкидывает эту монету вновь 1 раз"
+                  "desc": "[OnSucceedAttack] Тратит 2 единицы своего счётчика [Vibration:`Тремора`], чтобы [VibrationExplosion:`Спровоцировать Тремор`] на цели, после чего подкидывает эту монету вновь 1 раз"
                 },
                 {
                   "desc": "[OnSucceedAttack] Тратит 5 единиц своего счётчика [Vibration:`Тремора`], чтобы нанести 2 [TimeAccumulation:`Накопления времени`]"
@@ -695,7 +695,7 @@
         {
           "level": 1,
           "name": "Одолженное время",
-          "desc": "[StartBattle] Тратит 4 единицы счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени Корп. T`] <nobr>на 3</nobr>\n[StartBattle] Повышает свой счётчик [Vibration:`Тремора`] на 2",
+          "desc": "[StartBattle] Тратит 4 единицы своего счётчика [Vibration:`Тремора`], чтобы получить 3 единицы счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]\n[StartBattle] Повышает свой счётчик [Vibration:`Тремора`] на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -719,7 +719,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`], если свой счётчик [Vibration:`Тремора`] равен 3 и более"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 3 и более, то наносит цели 3 [Vibration:`Тремора`]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Повышает свой счётчик [Vibration:`Тремора`] на 1"
@@ -765,7 +765,7 @@
         {
           "level": 1,
           "name": "Пожалуйста, замрите.",
-          "desc": "[WhenUse] Сила в столкновении +1, если свой счётчик [Vibration:`Тремора`] равен 5 и боеле\n[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 2\n[WinDuel] Тратит 3 единицы счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени\nКорп. Т`] на 1",
+          "desc": "[WhenUse] Сила в столкновении +1, если свой счётчик [Vibration:`Тремора`] равен 5 и боеле\n[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 2\n[WinDuel] Тратит 3 единицы своего счётчика [Vibration:`Тремора`], чтобы получить 1 единицу счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]",
           "coinlist": [
             {
               "coindescs": [
@@ -791,7 +791,7 @@
         {
           "level": 1,
           "name": "Буду вынужден произвести изъятие.",
-          "desc": "[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 3\n[WhenUse] Базовая сила +1 за каждые 4 единицы своего счётчика [Vibration:`Тремора`] (До 3)\n[WinDuel] Тратит 5 единиц счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени Корп. Т`] на 3",
+          "desc": "[WhenUse] Повышает свой счётчик [Vibration:`Тремора`] на 3\n[WhenUse] Базовая сила +1 за каждые 4 единицы своего счётчика [Vibration:`Тремора`] (До 3)\n[WinDuel] Тратит 5 единиц своего счётчика [Vibration:`Тремора`], чтобы получить 3 единицы счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]",
           "coinlist": [
             {
               "coindescs": [
@@ -817,7 +817,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Тратит 2 единицы своего счётчика [Vibration:`Тремора`], чтобы [VibrationExplosion:`Спровоцировать Тремор`] цели, после чего подкидывает эту монету вновь 1 раз"
+                  "desc": "[OnSucceedAttack] Тратит 2 единицы своего счётчика [Vibration:`Тремора`], чтобы [VibrationExplosion:`Спровоцировать Тремор`] на цели, после чего подкидывает эту монету вновь 1 раз"
                 },
                 {
                   "desc": "[OnSucceedAttack] Тратит 5 единиц своего счётчика [Vibration:`Тремора`], чтобы нанести 2 [TimeAccumulation:`Накопления времени`]"
@@ -834,7 +834,7 @@
         {
           "level": 1,
           "name": "Одолженное время",
-          "desc": "[StartBattle] Тратит 4 единицы счётчика [Vibration:`Тремора`], чтобы повысить счётчик собственного [TimeRentalTwo:`Одолженного времени Корп. Т`] <nobr>на 3</nobr>\n[StartBattle] Повышает свой счётчик [Vibration:`Тремора`] на 2",
+          "desc": "[StartBattle] Тратит 4 единицы своего счётчика [Vibration:`Тремора`], чтобы получить 3 единицы счётчика [TimeRentalTwo:`Одолженного времени Корп. T`]\n[StartBattle] Повышает свой счётчик [Vibration:`Тремора`] на 2",
           "coinlist": [
             {
               "coindescs": [
