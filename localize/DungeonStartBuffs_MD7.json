@@ -58,7 +58,7 @@
     },
     {
       "id": "GiveBuffOnRSOnThemePackUnlockCount",
-      "description": "<color=#f8c200>Если {4} и более Темы этажей были разблокированы в Сборнике тем, даёт '{1}' × {2} всем союзникам в битвах</color>"
+      "description": "<color=#f8c200>Если {4} и более Тем этажей были разблокированы в Сборнике тем, даёт '{1}' × {2} всем союзникам в битвах</color>"
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
