@@ -1297,3 +1297,9 @@ KAmpouleMirror ¤ #f8c200
 RicardoBookRaid ¤ #e30000
 RicardoTattooRaid ¤ #f8c200
 RicardoJokeRaid ¤ #e30000
+SojiRyoshuEchoPast ¤ #f8c200
+SojiRyoshuEchoFuture ¤ #e30000
+SojiRyoshuEntangle ¤ #f8c200
+SojiRyoshuShin ¤ #f8c200
+PhantomIncisionID ¤ #e30000
+PhantomIncisionTotalID ¤ #9f6a3a

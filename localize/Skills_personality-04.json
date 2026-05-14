@@ -2930,6 +2930,498 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тройной взмах【三連】",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 2)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Тройной взмах【三連】",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 при 6 и более [Breath:`Дыхания`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на <style=\"highlight\">3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 2)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Тройной взмах【三連】",
+          "desc": "[WhenUse] Сила монет +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 2)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тройной взмах - Рассечение эха【三連 - 残】",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Тройной взмах - Рассечение эха【三連 - 残】",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 при 6 и более [Breath:`Дыхания`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на <style=\"highlight\">3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Тройной взмах - Рассечение эха【三連 - 残】",
+          "desc": "[WhenUse] Сила монет +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Разделение пространства 【空間斬】",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 [Breath:`Дыхания`] (До 5)\n[WhenUse] Наносит на (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 5)% больше урона\n[WhenUse] Получает 5 [Breath]\n[WhenUse] Количество целей +1 за каждые 2 единицы значения [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 2 дополнительных целей)\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 15)% больше урона (В фокусированных битвах считаются Части)\n[EndSkill] Случайным образом наносит (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) + 10) [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision) между противниками, по которым попала этим навыком",
+          "flavor": "    «Путь Клинка, да? Да, если придерживаться одного направления, как однобокий дурак, то в конце концов начнёшь вырезать вещи вроде пространства. О, но не льстите себе —  это лишь заставит разделённое пространство немного мерцать, как в тепловой дымке. Дайте этому время, и разрез закроется, как будто его и не было.»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "На 30% больше урона при критическом попадании"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`] и 3 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Активирует [Laceration:`Кровотечение`] и [Combustion:`Огонь`] на цели, понижая их счётчик на 1"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разделение пространства 【空間斬】",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 [Breath:`Дыхания`] (До 5)\n<style=\"highlight\">[WhenUse] Базовая сила +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 5)</style>\n[WhenUse] Наносит на (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 5)% больше урона\n[WhenUse] Получает 5 [Breath]\n[WhenUse] Количество целей +1 за каждые 2 единицы значения [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 2 дополнительных целей)\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">30</style>)% больше урона (В фокусированных битвах считаются Части)\n[EndSkill] Случайным образом наносит (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) + 10) [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision) между противниками, по которым попала этим навыком",
+          "flavor": "    «Путь Клинка, да? Да, если придерживаться одного направления, как однобокий дурак, в конце концов начнёшь вырезать вещи вроде пространства. О, но не льстите себе —  это лишь заставит разделённое пространство немного мерцать, как в тепловой дымке. Дайте этому время, и разрез закроется, как будто его и не было.»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "На <style=\"highlight\">50%</style> больше урона при критическом попадании"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`] и 3 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Активирует [Laceration:`Кровотечение`] и [Combustion:`Огонь`] на цели, понижая их счётчик на 1"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × <style=\"highlight\">4</style>)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шаг послеобраза【殘像步】",
+          "desc": "[StartBattle] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[StartBattle] Фокусируется на Идентичности Дома Пауков, выбранной в команду позже остальных (До 2 раз за ход; <b>「Ученик Мизинца」</b> Синклер в наименьшем приоритете):\n- Когда у этой Идентичности не остаётся навыков для использования в ходе или она оказывается в оглушении, использует на ней свой альтернативный первый навык <color=#014fd6>「Сразить небеса - Тяньша 【天殺】」</color> в качестве односторонней атаки\n- Количество таких целей увеличивается на 1, если значение [SojiRyoshuEntangle:`Разрыва нити`] равно 1 и более",
+          "flavor": "    «То, что ты преследуешь, -  это мой призрак.»",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Шаг послеобраза【殘像步】",
+          "desc": "[StartBattle] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[StartBattle] Фокусируется на Идентичности Дома Пауков, выбранной в команду позже остальных (До 2 раз за ход; <b>「Ученик Мизинца」</b> Синклер в наименьшем приоритете):\n- Когда у этой Идентичности не остаётся навыков для использования в ходе или она оказывается в оглушении, использует на ней свой альтернативный первый навык <color=#014fd6>「Сразить небеса - Тяньша 【天殺】」</color> в качестве односторонней атаки\n- Количество таких целей увеличивается на 1, если значение [SojiRyoshuEntangle:`Разрыва нити`] равно 1 и более",
+          "flavor": "    «То, что ты преследуешь, - это мой призрак.»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedEvade] Получает 1 [Breath:`Дыхание`] (До 3 раз за ход)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сразить небеса - Тяньша【天殺】",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе активирует эффекты базовых факторов понижения СД союзников от убийства этим навыком\n[WhenUse] Теряет 1 Уровень атаки и получает +1 к Базовой силе атакующих навыков до конца битвы\n[TargetKill] Восстанавливает 20 СД\n[TargetKill] Получает [RyoshuEGOPF:`Запутанную жизнь`], равную нанесённому этим навыком урону",
+          "flavor": "    «*плевок* Как там говорилось... Нужно почитать своих родителей так, будто ты почитаешь сами небеса?»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 20 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если целью является Идентичность Дома Пауков, то наносит фиксированный урон, равный 120% от её максимальных ОЗ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Неизбежное завершение【必然殺】",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\nВнешние эффекты не могут вызвать повторное использование этого навыка\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 1\n[BeforeAttack] Если активация этого навыка через пассивное умение <b>「Коллапс послеобраза пространства-времени」</b> была вызвана использованием третьего навыка:\n- Количество целей повышается на число противников, имеющих [SojiRyoshuEchoFuture:`Фантомный след`](;SojiAbiBuffOne)\n- Нацеливается в первую очередь на противников, имеющих [SojiRyoshuEchoFuture:`Фантомный след`](;SojiAbiBuffOne)\n[EndSkill] [SojiRyoshuEchoFuture:`Фантомный след`](;SojiAbiBuffOne) исчезает с целей этого навыка",
+          "flavor": "    «Ого… Какой гениальный способ использовать Клинок Звезды Дихуэй, меч, который всегда оставляет за собой неизгладимый след. Атаки, от которых невозможно увернуться, кажутся немного нечестными, но… Ха! Мне нравится этот меч!»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "На 30% больше урона при критическом попадании"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Активирует [Combustion:`Огонь`] на цели и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Разделение пространства - Рассечение эха【空間斬 - 殘】",
+          "desc": "[WhenUse] За каждую единицу значения [SojiRyoshuEntangle:`Разрыва нити`]:\n- Базовая сила -1\n- Перед второй монетой добавляется ещё одна\n[WhenUse] Сила последней монеты увеличивается на текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable)\n[WhenUse] Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 50)% больше урона (В фокусированных битвах считаются Части)\n[EndSkill] Увеличивает минимальное и максимальное значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на 1, а затем сбрасывает имеющееся значение до минимального (До 2 раз за битву)\n[EndSkill] Значение [PhantomIncisionTotalID:`Клинка звезды Дихуэй`](;PhantomIncisionTotal) понижается на 50",
+          "flavor": "    «Это действительно открывает новый путь в области техник разрыва пространства.»\n    \n    «Вы слышали? Можно подумать, что разрыв самой ткани пространства —  это кульминация Пути Клинка, но путь простирается дальше. Продолжай тренироваться, и ты разовьёшь свой собственный уникальный стиль. Это добавит ещё один уровень мастерства, оставив нетрадиционный оттенок универсальной технике, позволяя разрыву затянуться или, иногда, даже свестись к вспышке мгновения.»\n\n    «Это своего рода предмет гордости для тех, кто идёт по Пути Клинка, а значит, и частый предмет споров в этой области. Это напоминает мне те дни, когда я вёл столь же воинственные дискуссии с другими Маэстро.»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`] и 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На 30% больше урона при критическом попадании"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Полностью тратит [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision) с цели и наносит ей дополнительный Рубящий урон, равный (Потраченное значение / 10)% от итогового урона этой монеты"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 4)% от итогового урона этой монеты"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Активирует [Laceration:`Кровотечение`] и [Combustion:`Огонь`] на цели, понижая их счётчик на 1"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041508,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Разделение пространства - Соединение нитей【空間斬 - 緣】",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n[WhenUse] Получат [SojiRyoshuShin:`Шин 【心】 - Звезда Дихуэй`](;LittleFingerBoss_Shin)\n[EndSkill] Убирает свою первую границу выносливости (Единожды за битву)",
+          "flavor": "    «Таксидермированный и обездвиженный —  так лежит враг в следе, оставленном клинком в пространстве.»\n\n    «Такая работа клинком часто отличается невероятной остротой, так что жертвы не осознают, что их изрубили; или даже если они каким- то образом осознают этот факт, на них остается след от клинка, захвативший пространство, в котором они находятся, и они истекают кровью, когда момент проходит.»\n\n    «Однако... разница заключается в том, как он режет.»\n\n    «Клинок действительно оставил лишь один- единственный след, но, вложив его в ножны, владелец мысленно воссоздал множество порезов, которые следовали по тому же пути —  чрезвычайно точная техника.»\n\n    «Хм. В первые дни после инцидента я часто сталкивался с методами, подобными этому, -  методами, которые, как мне кажется, противоречат самой природе причинно-следственной связи.»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`] и 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Активирует [Combustion:`Огонь`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
