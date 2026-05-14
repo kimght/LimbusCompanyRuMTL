@@ -2043,6 +2043,18 @@
     {
       "id": "mainui_cont_mine_invalid_text",
       "content": "Пройдите, чтобы открыть последовательную битву"
+    },
+    {
+      "id": "mainui_ego_sync_level_up_select_item",
+      "content": "Выбрать ингредиенты"
+    },
+    {
+      "id": "mainui_passive_skill_upgrade",
+      "content": "Пассивка улучшена"
+    },
+    {
+      "id": "mainui_new_passive_skill_upgrade",
+      "content": "Пассивка усилена: [{0}]"
     }
   ]
 }
