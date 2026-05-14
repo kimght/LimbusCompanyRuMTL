@@ -2988,7 +2988,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
@@ -2998,17 +2998,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
@@ -3017,7 +3017,7 @@
                   "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 2)% от итогового урона этой монеты"
@@ -3034,7 +3034,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
@@ -3044,17 +3044,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [PhantomIncisionID:`Следа клинка 【Послеобраза】`](;PhantomIncision)"
@@ -3063,7 +3063,7 @@
                   "desc": "[OnSucceedAttack] Наносит дополнительный [PhantomIncisionID:`След клинка 【Послеобраз】`](;PhantomIncision), равный текущему значению [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) (До 4)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 2)% от итогового урона этой монеты"
@@ -3125,30 +3125,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"
@@ -3165,30 +3165,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Текущее значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) × 3)% от итогового урона этой монеты"

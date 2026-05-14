@@ -865,7 +865,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный урон Гневом, равный (Сила [Combustion:`Огня`] на цели × 2)% от итогового урона этой монеты (До 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
                 }
               ]
             }
@@ -936,7 +936,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный урон Гневом, равный (Сила [Combustion:`Огня`] на цели × 3)% от итогового урона этой монеты (До 30%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
                 }
               ]
             }
