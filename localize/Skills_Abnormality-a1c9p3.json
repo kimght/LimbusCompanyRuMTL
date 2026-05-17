@@ -2054,14 +2054,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 2 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 2 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 }
               ]
             }
@@ -2083,7 +2083,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
+                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
                 }
               ]
             },
@@ -2093,7 +2093,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
+                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
                 }
               ]
             },
@@ -2153,7 +2153,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
+                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
                 }
               ]
             },
@@ -2261,7 +2261,7 @@
                   "desc": "[ExtractCoin:`Высекающая монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
+                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [AttackDown:`Понижений уровня атаки`]"
@@ -2274,7 +2274,7 @@
                   "desc": "[ExtractCoin:`Высекающая монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
+                  "desc": "[OnSucceedAttack] Наносит 3 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 3"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [DefenseDown:`Понижений уровня защиты`]"
@@ -2334,7 +2334,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит урон Гордыней, равный 25% от максимальных ОЗ цели"
@@ -2347,7 +2347,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит урон Гордыней, равный 25% от максимальных ОЗ цели"
@@ -2360,7 +2360,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит урон Гордыней, равный 25% от максимальных ОЗ цели"
@@ -2373,7 +2373,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующи эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
+                  "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Наносит урон Гордыней, равный 25% от максимальных ОЗ цели"
