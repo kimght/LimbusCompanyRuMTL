@@ -214,7 +214,7 @@
     },
     {
       "id": "boss_raid_ui_ask_to_quit",
-      "content": "Нажав \"Продолжить\" снизу вы <color=#ff0000>полностью сбросите весь прогресс битвы</color>.\n\nСделать это?"
+      "content": "Нажав \"ОК\" снизу вы <color=#ff0000>полностью сбросите весь прогресс битвы</color>.\n\nСделать это?"
     },
     {
       "id": "boss_raid_preview_boss_info_button_label",
