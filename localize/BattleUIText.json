@@ -782,7 +782,7 @@
     },
     {
       "id": "septempeccata_classification",
-      "content": "[font=bebas]{0}-го Класса"
+      "content": "[font=bebas]<font=\"BebasKai SDF\">{0}</font>-го Класса"
     },
     {
       "id": "run_forBattlePortraitStateText",
