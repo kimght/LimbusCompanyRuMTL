@@ -99,6 +99,10 @@
     {
       "id": "railway_dungeon_advice_5_level_desc",
       "content": "- Идентичности : IV Уровень связи, 50-ый Уровень\n- ЭГО : IV Уровень связи"
+    },
+    {
+      "id":"railway_dungeon_end_date_until",
+      "content": "~ <font=\"ExcelsiorSans SDF\">{0}</font>"
     }
   ]
 }
