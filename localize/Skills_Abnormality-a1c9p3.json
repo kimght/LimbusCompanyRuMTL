@@ -2778,7 +2778,7 @@
         {
           "level": 1,
           "name": "Вспороть, выпотрошить...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -2811,7 +2811,7 @@
         {
           "level": 1,
           "name": "Посредничество: высекание",
-          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -4036,8 +4036,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Уныние<nobr>【落望】</nobr>",
-          "desc": "[DefeatDuel] Теряет 5 СД\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 3 [Reduction:`Понижения силы атаки`]</u></b></mark></color>",
+          "name": "Смятение<nobr>【落望】</nobr>",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 3 [Reduction:`Понижения силы атаки`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [

@@ -2397,6 +2397,818 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1111501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Растаптывание",
+          "desc": "[WhenUse] Восстанавливает себе 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Растаптывание",
+          "desc": "<style=\"highlight\">Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Восстанавливает себе 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на <style=\"highlight\">2</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Растаптывание",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n<style=\"highlight\">[BeforeUse] Меняется на альтернативный первый навык <color=#9808de>「Я выпотрошу тебя как рыбу」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати</style>\n[WhenUse] Восстанавливает себе 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки мести[TabExplain] 【<s>Великая Сестра</s>】`], то наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Растаптывание",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n[BeforeUse] Меняется на альтернативный первый навык <color=#9808de>「Я выпотрошу тебя как рыбу」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати\n<style=\"highlight\">[WhenUse] Вторая монета становится [SuperCoin:`Вечной`] при наличии [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`]</style>\n[WhenUse] Восстанавливает себе 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Поднимает границу выносливости цели на 5</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки мести[TabExplain] 【<s>Великая Сестра</s>】`], то наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Не давай какой-то фигне сломить себя!",
+          "desc": "[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Не давай какой-то фигне сломить себя!",
+          "desc": "<style=\"highlight\">Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Не давай какой-то фигне сломить себя!",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n<style=\"highlight\">[BeforeUse] Меняется на альтернативный второй навык <color=#9808de>「Удар в кишки 【Леватэйн】」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати</style>\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] <style=\"highlight\">или [MiddleFatherSwordThreeOutis:`Вторая`]</style> печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит дополнительный Дробящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% от итогового урона этой монеты (До 20%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Не давай какой-то фигне сломить себя!",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n[BeforeUse] Меняется на альтернативный второй навык <color=#9808de>「Удар в кишки 【Леватэйн】」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n<style=\"highlight\">[WhenUse] Монеты этого навыка в количестве текущего значения [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`] становятся [SuperCoin:`Вечными`] (Начиная с последней)</style>\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] <style=\"highlight\">или [MiddleFatherSwordThreeOutis:`Вторая`]</style> печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] в следующем ходе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [Paralysis:`Паралич`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит дополнительный Дробящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% от итогового урона этой монеты (До 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Печать мести",
+          "desc": "Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 3)\n[BeforeUse] Меняется на альтернативный третий навык <color=#9808de>「Полное и тотальное уничтожение 【Леватэйн】」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати\n[WhenUse] Поднимает уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Итоговая сила повышается на текущее значени [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`] (До 3)\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] или [MiddleFatherSwordThreeOutis:`Вторая`] печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[EndSkill] Тратит всю [ResentmentSpiderOutis:`Злобу`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Печать мести",
+          "desc": "Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 3)\n<style=\"highlight\">Сила монет +1 при 6 и более грехах в абсолютном резонансе Зависти</style>\n[BeforeUse] Меняется на альтернативный третий навык <color=#9808de>「Полное и тотальное уничтожение 【Леватэйн】」</color>, когда с [MiddleFatherSwordFourOutis:`Леватэйна`] сняты все печати\n[WhenUse] Поднимает уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Итоговая сила повышается на текущее значение [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`] (До 3)\n<style=\"highlight\">[WhenUse] Монеты этого навыка в количестве текущего значения [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`] становятся [SuperCoin:`Вечными`] (Начиная с третьей)</style>\n[WhenUse] Когда с [MiddleFatherSwordFourOutis:`Леватэйна`] снята его [MiddleFatherSwordTwoOutis:`Первая`] или [MiddleFatherSwordThreeOutis:`Вторая`] печать, наносит монетами этого навыка [Combustion:`Огонь`] в количестве исходно наносимого ими [Laceration:`Кровотечения`]\n[EndSkill] Тратит всю [ResentmentSpiderOutis:`Злобу`]\n<style=\"highlight\">[EndSkill] Если этот навык был использован в качестве контратаки из своего защитного навыка <color=#9808de>「Нарушение правил」</color>, то получает 1 [HitDamageUp:`Повышение Дробящего урона`] на следующий ход (Единожды за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Нарушение правил",
+          "desc": "[StartBattle] Получает ОЗ Щита в размере 15% от потерянных ОЗ (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Нарушение правил",
+          "desc": "<style=\"highlight\">[StartBattle] Если сумма грехов в одном или сразу нескольких абсолютных резонансах Зависти равна 6 и более, то использует в качестве контратаки свой третий навык <color=#9808de>「Печать[TabExplain] мести」</color> или его альтернативную версию <color=#9808de>「Полное и тотальное уничтожение 【Леватэйн】」</color> (До 2 раз за ход; начиная с самого левого слота навыков)</style>\n[StartBattle] Получает ОЗ Щита в размере 30% от потерянных ОЗ (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Понижает свою границу выносливости на <style=\"highlight\">10</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Я выпотрошу тебя как рыбу",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я выпотрошу тебя как рыбу",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 2)\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n<style=\"highlight\">[WhenUse] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то дополнительно наносит 1 [Laceration:`Кровотечение`] монетами этого навыка</style>\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на <style=\"highlight\">10</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит 1 [Binding:`Связывание`] <style=\"highlight\">и 1 [Paralysis:`Паралич`]</style> на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Удар в кишки【Леватэйн】",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nИтоговая сила +1 против целей с 4 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] на следующий ход\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Удар в кишки【Леватэйн】",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nИтоговая сила +1 против целей с 4 и более единицами в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`]\n[WhenUse] Поднимает уровень атаки этого навыка на (Число грехов в наибольшем резонансе / 2) (До 3; округляется вниз)\n[WhenUse] Этот слот получает 5 [Aggro:`Провокаций`] на следующий ход\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] <style=\"highlight\">и 1 [Paralysis:`Паралич`]</style> на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Полное и тотальное уничтожение【Леватэйн】",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nИтоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 3)\nНаносит на (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% больше урона (До 20%)\n[WhenUse] Поднимает уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Сила монет +1 при наличии [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`]\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД\n[EndSkill] Тратит всю [ResentmentSpiderOutis:`Злобу`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Пронзающий и Дробящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% от итогового урона этой монеты (До 25%)"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Полное и тотальное уничтожение【Леватэйн】",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\nИтоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели (До 3)\nНаносит на (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% больше урона (До <style=\"highlight\">40%</style>)\n[WhenUse] Поднимает уровень атаки этого навыка на число грехов в наибольшем резонансе (До 6)\n[WhenUse] Сила монет +1 при наличии [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`]\n<style=\"highlight\">[WhenUse] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то дополнительно наносит 1 [Laceration:`Кровотечение`] монетами этого навыка</style>\n[BeforeAttack] Получает [Combustion:`Огонь`], равный количеству монет этого навыка\n[EndSkill] Теряет 5 СД\n[EndSkill] Тратит всю [ResentmentSpiderOutis:`Злобу`]\n<style=\"highlight\">[EndSkill] Если этот навык был использован в качестве контратаки из своего защитного навыка <color=#9808de>「Нарушение правил」</color>, то получает 1 [HitDamageUp:`Повышение Дробящего урона`] на следующий ход (Единожды за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели × 2)% от итогового урона этой монеты (До 50%)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный Рубящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели × 2)% от итогового урона этой монеты (До 50%)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Пронзающий и Дробящий урон, равный (Сумма силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на цели)% от итогового урона этой монеты (До 25%)"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Время распечатывания!",
+          "desc": "Внешние эффекты не могут вызвать повторное использование этого навыка\n[EndSkill] Снимает следующую печать с [MiddleFatherSwordFourOutis:`Леватэйна`] ([MiddleFatherSwordOneOutis:`Запечатанный меч`] → [MiddleFatherSwordTwoOutis:`Первая печать снята`] → [MiddleFatherSwordThreeOutis:`Вторая печать снята`] → [MiddleFatherSwordFourOutis:`Леватэйн`])",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 10"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [VioletTakeDamageUp:`Уязвимости к Зависти`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Время распечатывания!",
+          "desc": "Внешние эффекты не могут вызвать повторное использование этого навыка\n<style=\"highlight\">[WhenUse] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит монетами этого навыка дополнительный Рубящий урон, равный 25% от их итогового урона</style>\n[EndSkill] Снимает следующую печать с [MiddleFatherSwordFourOutis:`Леватэйна`] ([MiddleFatherSwordOneOutis:`Запечатанный меч`] → [MiddleFatherSwordTwoOutis:`Первая печать снята`] → [MiddleFatherSwordThreeOutis:`Вторая печать снята`] → [MiddleFatherSwordFourOutis:`Леватэйн`])",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Поднимает границу выносливости цели на 10"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [VioletTakeDamageUp:`Уязвимости к Зависти`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111509,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Хорошая девочка. Твоя жертва ради семьи не будет забыта.",
+          "desc": "<b>Навык [MiddleFatherSwordFourOutis:`Леватэйна`]</b>\n\n[CantDuel]\n[CantChangeTarget]\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе вызывает активацию защитных навыков цели\nИтоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 3)\n[WhenUse] Итоговая сила +1 и на 10% больше урона за каждую единицу текущего значения [ReinforcedTattooSpiderOutis:`Татуировок мести 【<s>Великая Сестра</s>】`] (До +3 к Итоговой силе; до +100% к урону)\n[WhenUse] Если среди целей этого навыка есть <b>「Дом Пауков: Ученица Среднего」</b> Измаил, то его урон увеличивается на 100%\n[EndSkill] Тратит всю имеющуюся [ResentmentSpiderOutis:`Злобу`], а затем восстанавливает 5 единиц её значения (Если являвшийся дополнительной целью этого навыка союзник был убит, то восстанавливает ещё 10 [ResentmentSpiderOutis:`Злобы`])",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Сопротивление цели к Дробящему урону ослабляется до \"Нормального\" (x1.0) во время атаки, если оно сильнее этого значения"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный Дробящий урон, равный 100% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

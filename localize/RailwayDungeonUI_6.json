@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": "railway_dungeon_enter_recommend_growth",
+      "content": "- Идентичности : {1} Уровень связи, {0} Уровня\n- ЭГО : {2} Уровень связи"
+    },
+    {
+      "id": "railway_dungeon_enter_recommend_growth_level_max",
+      "content": "- Идентичности : {1} Уровень связи, {0} Уровня (максимальный предел уровня : {3})\n- ЭГО : {2} Уровень связи"
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_warning",
+      "content": "※ Учтите, что любая взятая награда после окончания Сезона 7: Паутинка · ьтин яансарК, будет затронута сезонным переносом. Любые сезонные валюты, такие как <color=#990000>Ящики эгосколков и Именные ящики эгосколков</color> будут уменьшены вдвое.\n(Не перенесённые ящики будут конвертированы в Ящики нитей)"
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_special_ticket",
+      "content": "Получается после прохождения Линии 6 со 111 или менее общим количеством ходов до окончания Сезона 7: Паутинка · ьтин яансарК."
+    },
+    {
+      "id": "railway_dungeon_6_reward_condition_special_ticket_warning",
+      "content": "<color=#990000>※ Не может быть получено после окончания Сезона 7: Паутинка · ьтин яансарК.</color>"
+    },
+    {
+      "id": "railway_dungeon_6_banner_reward_condition_1",
+      "content": "Получается после зачистки Линии 6 Ж/Д Преломления"
+    },
+    {
+      "id": "railway_dungeon_6_banner_reward_condition_2",
+      "content": "Получается после зачистки Линии 6 с {0} или менее общим количеством ходов до окончания <color=#990000>Сезона 7: Паутинка · ьтин яансарК</color>."
+    },
+    {
+      "id": "railway_6_warning_enter_node_1",
+      "content": "Процент ОЗ и СД команды на момент прохождения Секции 1 будут перенесены в Секцию 5.\n\nВы уверены, что хотите вступить в бой с выбранным составом команды?"
+    },
+    {
+      "id": "railway_6_must_participate_all",
+      "content": "Выберите всех Грешников.\n\n※ В Линии 6 Ж/Д Преломления, каждый Грешник должен быть выбран для входа."
+    },
+    {
+      "id": "railway_6_past",
+      "content": "Прошлое"
+    },
+    {
+      "id": "railway_6_present",
+      "content": "Настоящее"
+    },
+    {
+      "id": "railway_6_future",
+      "content": "Будущее"
+    },
+    {
+      "id": "railway_6_check_first_stage_unit_hp_mp",
+      "content": "Статус Грешников"
+    },
+    {
+      "id": "railway_6_ui_battle_effect",
+      "content": "Активные эффекты"
+    },
+    {
+      "id": "railway_6_ui_empty_battle_effect_desc",
+      "content": "Нет активных эффектов."
+    },
+    {
+      "id": "railway_6_ui_passive_effect_title",
+      "content": "Бабочка сплетенных жизней::Пассивка Имаго"
+    },
+    {
+      "id": "railway_6_ui_empty_passive_effect_desc",
+      "content": "Будет отображаться после прохождения Секции 2."
+    },
+    {
+      "id": "railway_6_ui_empty_statistics_desc",
+      "content": "Будет отображаться после прохождения соответствующей Секции."
+    },
+    {
+      "id": "railway_6_ui_attack_resistance_buff_for_ui",
+      "content": "Сопротивление к греху \"{0}\" ослабляется на 0.25, Сопротивление к типу физ. урона \"{1}\" ослабляется на 0.25"
+    },
+    {
+      "id": "railway_6_ui_attack_resistance_buff_for_ui_only_one",
+      "content": "Сопротивление к типу урона \"{0}\" ослабляется на 0.25"
+    },
+    {
+      "id": "railway_6_ui__attack_resistance_buff_for_ui_empty",
+      "content": "Эффект не применён"
+    }
+  ]
+}

@@ -137,6 +137,18 @@
       "panicName": "Одиночество",
       "lowMoraleDescription": "Конец хода: свой счётчик [Sinking:`Утопания`] повышается на 2",
       "panicDescription": "Конец хода: свой счётчик [Sinking:`Утопания`] повышается на 3"
+    },
+    {
+      "id": 1091,
+      "panicName": "Привязанность и неприязнь",
+      "lowMoraleDescription": "Наносит и получает на 10% больше урона",
+      "panicDescription": "Наносит и получает на 20% больше урона"
+    },
+    {
+      "id": 1097,
+      "panicName": "Имитация отца",
+      "lowMoraleDescription": "Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`]",
+      "panicDescription": "Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`], а также 3 единицы их счётчика"
     }
   ]
 }

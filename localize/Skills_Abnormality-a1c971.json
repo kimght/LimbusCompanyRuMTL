@@ -673,9 +673,13 @@
           "level": 1,
           "name": "Созерцание",
           "desc": "[CanDuelGuard]\n[WhenUse] Итоговая сила +1 за каждые 3 [Breath:`Дыхания`] (До 5)\n[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Если имеется щит, то повышает свой счётчик [Breath:`Дыхания`] на 2",
-          "coindescs": [
+          "coinlist": [
             {
-              "desc": "[SuperCoin:`Вечная монета`]"
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
             }
           ]
         }

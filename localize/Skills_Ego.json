@@ -112,6 +112,24 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "Пламя четвёртой спички",
+          "abName": "Девочка со спичкой",
+          "desc": "<style=\"highlight\">[BeforeAttack] Итоговая сила +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] на всех целях (До 4)\n[BeforeAttack] Наносит на (Сумма силы [Combustion:`Огня`] на всех целях)% больше урона (До 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Наносит 6 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -161,6 +179,27 @@
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 6 [Combustion:`Огня`]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Пламя четвёртой спички",
+          "abName": "Девочка со спичкой",
+          "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">[BeforeAttack] Итоговая сила +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] на всех целях (До 6)\n[BeforeAttack] Наносит на (Сумма силы [Combustion:`Огня`] на всех целях × 1.5)% больше урона (До 45%)\n[DefeatDuel] Базовая сила -12\n[EndSkill] Получает [MatchesPersonality] на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Наносит 6 [Combustion:`Огня`]"
                 }
               ]
             }
@@ -930,7 +969,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный урон Гневом, равный (Сила [Combustion:`Огня`] на цели × 3)% от итогового урона этой монеты (До 30%)</style>"

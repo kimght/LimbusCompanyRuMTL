@@ -1238,7 +1238,7 @@
     },
     {
       "id": "announcer_selection_description",
-      "content": "※ Если вы выберете 2 или более комментаторов, диалоги будут проигрываться в случайном порядке. (До 10)"
+      "content": "※ Если вы выберете 2 или более комментаторов, диалоги будут проигрываться в случайном порядке. (До 100)"
     },
     {
       "id": "panic_type",
@@ -2055,6 +2055,18 @@
     {
       "id": "mainui_new_passive_skill_upgrade",
       "content": "Пассивка усилена: [{0}]"
+    },
+    {
+      "id": "formation_announcer_preset_name",
+      "content": "Пресет №{0}"
+    },
+    {
+      "id": "formation_announcer_preset_title",
+      "content": "Пресеты Комментаторов"
+    },
+    {
+      "id": "formation_announcer_reset_desc",
+      "content": "Вы уверены, что хотите сбросить {0}?"
     }
   ]
 }

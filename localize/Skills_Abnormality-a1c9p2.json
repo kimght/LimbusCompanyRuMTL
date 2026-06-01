@@ -519,7 +519,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Стремительное мерцаие【快閃】",
+          "name": "Стремительное мерцание【快閃】",
           "desc": "[OnDirectAttack] Получает 5 [Breath:`Дыхания`]\n[DefeatDuel] Количество целей -2",
           "coinlist": [
             {
@@ -607,7 +607,7 @@
         {
           "level": 1,
           "name": "Призрачный шаг【殘像步】",
-          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Значение <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">Следа клинка 【Послеобраз】</link></u></color><u> цели снижается вдвое</u></b></mark></color> (Округляется вниз)\n[DefeatDuel] Теряет 5 СД",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Значение <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">Следа клинка 【Послеобраз】</link></u></color><u> цели снижается вдвое</u></b></mark></color> (Округляется вниз)",
           "coinlist": [
             {
               "coindescs": [
@@ -645,7 +645,7 @@
         {
           "level": 1,
           "name": "Смерть【絶命】",
-          "desc": "Не вызывает активацию защитных навыков целеи\nВыбирает целью противника с наименьшим процентом текущих ОЗ (За исключением Рёшу)",
+          "desc": "Не вызывает активацию защитных навыков цели\nВыбирает целью противника с наименьшим процентом текущих ОЗ (За исключением Рёшу)",
           "coinlist": [
             {
               "coindescs": [
@@ -725,7 +725,7 @@
         {
           "level": 1,
           "name": "Ах, пожалуйста будьте безмолвны",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -758,7 +758,7 @@
         {
           "level": 1,
           "name": "М-мне нужно исполнить предписание в ближайшее время...!",
-          "desc": "Не вызывает активацию защитных навыков цели\n\n<color=#ff6000><mark=#ff000040><b><u>Цель становится неизменной при 2 <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узах ответственности</link></u></color></b></mark></color>\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`] и повышает его счётчик на 2",
+          "desc": "Не вызывает активацию защитных навыков цели\n\n<color=#ff6000><mark=#ff000040><b><u>Цель становится неизменной при 2 <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узах ответственности</link></u></color></b></mark></color>\nИтоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 3)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`] и повышает его счётчик на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "Вспороть, выпотрошить...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -901,7 +901,7 @@
         {
           "level": 1,
           "name": "Посредничество: высекание",
-          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
           "coinlist": [
             {
               "coindescs": [
