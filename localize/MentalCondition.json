@@ -119,6 +119,16 @@
       "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
       "add": "Конец хода: восстанавливает {0} СД, если удалось атаковать [IndexPrescriptTargetToPersonality:`Цель предписания`]",
       "min": "Конец хода: теряет {0} СД, если удалось атаковать [IndexPrescriptTargetToPersonality:`Цель предписания`]"
+    },
+    {
+      "id": "OnUseSkillMp",
+      "add": "Повышается на {0} при использовании навыка",
+      "min": "Понижается на {0} при использовании навыка"
+    },
+    {
+      "id": "OnEndAttackMp",
+      "add": "Повышается на {0} в конце атаки",
+      "min": "Понижается на {0} в конце атаки"
     }
   ]
 }

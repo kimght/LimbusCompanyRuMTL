@@ -618,7 +618,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 24 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
@@ -631,7 +631,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"

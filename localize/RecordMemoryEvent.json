@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "record_memory_stage_button_default",
+      "content": "Этапы"
+    },
+    {
+      "id": "record_memory_stage_button_locked",
+      "content": "Пройдите 9.5-14 для разблокировки"
+    },
+    {
+      "id": "record_memory_storybutton_default",
+      "content": "В театр"
+    },
+    {
+      "id": "record_memory_storybutton_start",
+      "content": "<size=75%>Просмотрите 1-й этап сюжета события,\nчтобы разблокировать</size>"
+    },
+    {
+      "id": "record_memory_stage_button_end_event",
+      "content": "Событие завершено"
+    },
+    {
+      "id": "record_memory_bonus_popup_title",
+      "content": "Бонусные юниты события"
+    },
+    {
+      "id": "record_memory_bonusUIDesc",
+      "content": "В период события размещение следующих Идентичностей в команде увеличит\nколичество получаемых <color=#96beee>[Фотографий]</color>.\nМаксимальный бонус к получаемой валюте события — <color=#96beee>120%</color>."
+    },
+    {
+      "id": "record_memory_scrap_guide_title",
+      "content": "Руководство по валюте события"
+    },
+    {
+      "id": "record_memory_scrap_guide_desc",
+      "content": "Вы можете получить <color=#96beee>[Фотографию]</color> за первое прохождение этапов события/основного сюжета или за прохождение Зеркального Подземелья.\nТакже есть небольшой шанс получить <color=#96beee>[Набор фотографий]</color> в процессе.\n\n<color=#96beee>[Набор фотографий]</color> при получении автоматически конвертируется в 20 <color=#96beee>[Фотографий]</color>."
+    },
+    {
+      "id": "record_memory_reward_popup_desc",
+      "content": "Получайте <color=#96beee>[Фотографии]</color> следующими способами:\nПервое прохождение этапов события и основного сюжета, а также прохождение Зеркального Подземелья.\n\nВ окне <color=#96beee>[Обмен наград]</color> вы можете приобретать различные награды,\nтратя собранные <color=#96beee>[Фотографии]</color>."
+    },
+    {
+      "id": "record_memory_reward_popup_num_of_owned_items",
+      "content": "Предметов в наличии"
+    },
+    {
+      "id": "record_memory_rewardShopButton",
+      "content": "Обмен наград"
+    }
+  ]
+}

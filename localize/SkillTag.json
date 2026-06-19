@@ -235,6 +235,14 @@
     {
       "id": "BeforeBehavior",
       "name": "[Перед действием]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "Идк зачем это"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "Идк зачем это"
     }
   ]
 }

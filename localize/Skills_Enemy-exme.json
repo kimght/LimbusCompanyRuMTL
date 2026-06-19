@@ -1,0 +1,225 @@
+{
+  "dataList": [
+    {
+      "id": 9105701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Стойка нападающего",
+          "desc": "[WhenUse] Базовая сила +1 при 6 и более [Breath:`Дыхания`]\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[DefeatDuel] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иглоукалывание",
+          "desc": "[WhenUse] Базовая сила +2 при 8 и более [Breath:`Дыхания`]\n[DefeatDuel] Получает 5 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [SlashDamageUp:`Повышение Рубящего урона`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Серия порезов",
+          "desc": "[WhenUse] Базовая сила +1 за каждые 4 [Breath:`Дыхания`] (До 5)\n[DefeatDuel] Базовая сила -13\n[DefeatDuel] Не может оглушить цель\n[EndSkill] Теряет всё [Breath:`Дыхание`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Получает 4 [Breath:`Дыхания`] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "На 70% больше урона при критическом попадани"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] Базовая сила +1 при 6 и более [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath:`Дыхания`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Стойка нападающего",
+          "desc": "[WhenUse] Базовая сила +1 при 6 и более [Breath:`Дыхания`]\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[DefeatDuel] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иглоукалывание",
+          "desc": "[WhenUse] Базовая сила +2 при 8 и более [Breath:`Дыхания`]\n[DefeatDuel] Получает 5 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [SlashDamageUp:`Повышение Рубящего урона`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Серия порезов",
+          "desc": "Итоговая сила +2 против целей, чьи текущие ОЗ ниже 50%\n[WhenUse] Базовая сила +1 за каждые 4 [Breath:`Дыхания`] (До 5)\n[DefeatDuel] Базовая сила -13\n[DefeatDuel] Не может оглушить цель\n[EndSkill] Теряет всё [Breath:`Дыхание`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Поднимает границу выносливости цели на 20% от нанесённого урона"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Контратака",
+          "desc": "[WhenUse] Базовая сила +1 при 6 и более [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath:`Дыхания`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

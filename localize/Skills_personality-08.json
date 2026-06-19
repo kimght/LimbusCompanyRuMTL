@@ -2245,6 +2245,535 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Искусство раздирания",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2\n[EndSkill] Если есть [Agility:`Спешка`], то получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Искусство раздирания",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 при 3 и более [Agility:`Спешки`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2\n[EndSkill] Если есть [Agility:`Спешка`], то получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Искусство раздирания",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Сила в столкновении +1 за каждые 5 [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Сила в столкновении +1 при 3 и более [Agility:`Спешки`]\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2\n[EndSkill] Если есть [Agility:`Спешка`], то получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если есть [AengduNewArmIshmael:`Руки Токкэби`](;AengduNewArm) и 3 и более [Agility:`Спешки`], то вновь подкидывает эту монету 1 раз (Единожды за ход)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Иглоукалывание",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[EndSkill] Получает [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) в количестве имеющейся [Agility:`Спешки`] (До 2; единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +2 при 3 и более [Agility:`Спешки`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[EndSkill] Получает [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) в количестве имеющейся [Agility:`Спешки`] (До 2; единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Иглоукалывание",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Сила в столкновении +1 за каждые 5 [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Сила в столкновении +2 при 3 и более [Agility:`Спешки`]\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[EndSkill] Получает [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) в количестве имеющейся [Agility:`Спешки`] (До 2; единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если есть [AengduNewArmIshmael:`Руки Токкэби`](;AengduNewArm) и 3 и более [Agility:`Спешки`], то вновь подкидывает эту монету 1 раз (Единожды за ход)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Светящееся колеблющееся пламя",
+          "desc": "Наносит на (Сила своего [Breath:`Дыхания`] × 1.5)% больше урона при критических попаданиях (До 30%)\n[WhenUse] Итоговая сила +1 за каждые 2 [Agility:`Спешки`] (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`] при 10 и более [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade)\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[WhenUse] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)\n[EndSkill] Получает [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) в количестве имеющейся [Agility:`Спешки`] (До 3; единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade) × 2)% больше урона при критическом попадании (До 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Светящееся колеблющееся пламя",
+          "desc": "Наносит на (Сила своего [Breath:`Дыхания`] × 1.5)% больше урона при критических попаданиях (До 30%)\n[WhenUse] Итоговая сила +1 за каждые 2 [Agility:`Спешки`] (До 2)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели (До 2)</style>\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`] при 10 и более [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade)\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[WhenUse] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)\n[EndSkill] Получает [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade) в количестве имеющейся [Agility:`Спешки`] (До 3; единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 3"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade) × 2)% больше урона при критическом попадании (До 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] (Единожды за ход)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я буду освещать путь вперёд",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[WhenUse] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2 (Единожды за ход)\n[WinDuel] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я буду освещать путь вперёд",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[WhenUse] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2 (Единожды за ход)\n[WinDuel] Получает 3 [Breath:`Дыхания`]\n<style=\"highlight\">[EndSkillAll] Если есть [Agility:`Спешка`], то получает 2 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade) (Единожды за ход)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Дабы забрать их кости",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков\nНаносит на 0.5% больше урона за каждый 1% своих потерянных ОЗ (До 20%)\nНаносит на 3% больше урона при критических попаданиях за каждую имеющуюся [Agility:`Спешку`] (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis:`Паралич`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Дабы забрать их кости",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков\nНаносит на 0.5% больше урона за каждый 1% своих потерянных ОЗ (До 20%)\nНаносит на 3% больше урона при критических попаданиях за каждую имеющуюся [Agility:`Спешку`] (До 15%)\n<style=\"highlight\">[WhenUse] Наносит на (Текущее значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade))% больше урона (До 15%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis:`Паралич`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Дабы забрать их кости",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков\nНаносит на 0.5% больше урона за каждый 1% своих потерянных ОЗ (До 20%)\nНаносит на 3% больше урона при критических попаданиях за каждую имеющуюся [Agility:`Спешку`] (До 15%)\n[WhenUse] Наносит на (Текущее значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade))% больше урона (До 15%)\n<style=\"highlight\">[WhenUse] Наносит на (Сила своего [Breath:`Дыхания`] × 1.5)% больше урона при критических попаданиях (До 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashTakeDamageUp:`Уязвимость к Рубящему урону`] (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis:`Паралич`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уравновесить баланс - Светящееся колеблющееся пламя",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков\nНаносит на (Сила своего [Breath:`Дыхания`] × 1.5)% больше урона при критических попаданиях (До 30%)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[EndSkill] Теряет всё имеющееся значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на 5% больше урона за каждую единицу значения [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade) свыше 15 (До 25%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Если есть 5 и более [Agility:`Спешки`], то вновь подкидывает эту монету 1 раз (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Уравновесить баланс - Светящееся колеблющееся пламя",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков\nНаносит на (Сила своего [Breath:`Дыхания`] × 1.5)% больше урона при критических попаданиях (До 30%)\n<style=\"highlight\">Наносит на 5% больше урона при критических попаданиях этим навыком за каждую имеющуюся [Agility:`Спешку`] (До 25%)</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3\n[EndSkill] Теряет всё имеющееся значение [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Получает 1 [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламя Токкэби`](;WindBlade)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на 5% больше урона за каждую единицу значения [WindBladeIshmael:`Мастерская Мука - Е 【銳】 Тип II Извлечения меча / Сила тяги: Пламени Токкэби`](;WindBlade) свыше 15 (До 25%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Если есть 5 и более [Agility:`Спешки`], то вновь подкидывает эту монету 1 раз (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рассматривая камни на доске",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рассматривая камни на доске",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n<style=\"highlight\">[WhenUse] Восстанавливает 5 СД союзнику, для [SupportProtect:`Защиты которого`] этот навык был активирован</style>\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

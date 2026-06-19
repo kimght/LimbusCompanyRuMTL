@@ -1295,6 +1295,22 @@
     {
       "id": "11115_getCondition_gacksung",
       "content": "Свяжите Дом Пауков: Отец-воспитатель Среднего Отис до 3-го уровня"
+    },
+    {
+      "id": "10815_getCondition_normal",
+      "content": "Заполучите Команда LCD ГВРУ Измаил"
+    },
+    {
+      "id": "10815_getCondition_gacksung",
+      "content": "Свяжите Команда LCD ГВРУ Измаил до 3-го уровня"
+    },
+    {
+      "id": "10615_getCondition_normal",
+      "content": "Заполучите Чхунoккун Корп. S Хон Лу"
+    },
+    {
+      "id": "10615_getCondition_gacksung",
+      "content": "Свяжите Чхунoккун Корп. S Хон Лу до 3-го уровня"
     }
   ]
 }

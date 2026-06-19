@@ -351,6 +351,10 @@
     {
       "id": "OtherStoryOpenCondition_9125",
       "content": "Пройдите 9.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9127",
+      "content": "Пройдите 9.5-15"
     }
   ]
 }

@@ -51,8 +51,8 @@
     {
       "id": 1082,
       "panicName": "Неуверенность: Маска",
-      "lowMoraleDescription": "- Сила атакующих навыков -1\n- Уровень защиты +2",
-      "panicDescription": "- Сила атакующих навыков -1\n- Уровень защиты +3"
+      "lowMoraleDescription": "Получает 1 [Reduction:`Понижение силы атаки`] и 2 [DefenseUp:`Повышения уровня защиты`]",
+      "panicDescription": "Получает 1 [Reduction:`Понижение силы атаки`] и 3 [DefenseUp:`Повышения уровня защиты`]"
     },
     {
       "id": 1083,

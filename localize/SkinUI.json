@@ -17,6 +17,10 @@
       "content": "Заполучите Идентичность и затем повысьте уровень её Связи до 4, чтобы выбрать \"Проекцию Фасада\""
     },
     {
+      "id": "desc_skin_acquisition_Reward_40501",
+      "content": "Испытание преломления][яинелмолерп - Лимитированная награда ивента \"Мнестический опыт\""
+    },
+    {
       "id": "btn_title_open_UnitInformationPanel",
       "content": "К повышению Связи"
     },
@@ -31,6 +35,10 @@
     {
       "id": "label_can_craft",
       "content": "Доступно"
+    },
+    {
+      "id": "label_cannot_craft",
+      "content": "Нельзя соткать"
     },
     {
       "id": "btn_title_craft_skin",

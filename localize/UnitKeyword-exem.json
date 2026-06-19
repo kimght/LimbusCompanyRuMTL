@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "UnitKeyword_N_CORP_LENSMAN",
+      "content": "Ле Клу"
+    },
+    {
+      "id": "UnitKeyword_S_CORP",
+      "content": "Корп. S"
+    },
+    {
+      "id": "UnitKeyword_S_CORP_SAL",
+      "content": "Придворный круг — Саль"
+    }
+  ]
+}

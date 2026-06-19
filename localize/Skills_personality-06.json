@@ -3047,6 +3047,361 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сужение алых пут",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`], то наносит ей ещё 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Сужение алых пут",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели равна 6 и более</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">4</style> [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`], то наносит ей ещё 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Сужение алых пут",
+          "desc": "[WhenUse] Сила монет +1<style=\"highlight\"> за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Итоговая сила +1 против целей, имеющих [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`], то наносит ей ещё 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Отрывной разрез",
+          "desc": "[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 2 и более [TiedRopeHonglu:`Опутывания 【Хон Лу】`], то тратит 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`] с неё и вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Отрывной разрез",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели равна 6 и более</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 2 и более [TiedRopeHonglu:`Опутывания 【Хон Лу】`], то тратит 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`] с неё и вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Отрывной разрез",
+          "desc": "[WhenUse] Сила монет +1<style=\"highlight\"> за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Итоговая сила +1 против целей, имеющих [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">3</style> [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 2 и более [TiedRopeHonglu:`Опутывания 【Хон Лу】`], то тратит 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`] с неё и вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Охотничья чистка",
+          "desc": "[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели равна 6 и более\n[WhenUse] Если цель имеет [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`], то все монеты этого навыка становятся [SuperCoin:`Вечными`], Итоговая сила повышается на 1, а последняя монета приобретает следующие эффекты:\n- [OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2\n- [OnSucceedAttack] Наносит 1 [Reduction:`Понижение силы атаки`] на следующий ход\n[WhenUse] Получает 5 [Breath:`Дыхания`] и повышает его счётчик на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не имеет [TiedRopeHonglu:`Опутывания 【Хон Лу】`], то наносит ей 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит ещё 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Охотничья чистка",
+          "desc": "[WhenUse] Сила монет +1<style=\"highlight\"> за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если цель имеет [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt), то наносит ей на 20% больше урона\n[WhenUse] Если цель имеет [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`], то все монеты этого навыка становятся [SuperCoin:`Вечными`], Итоговая сила повышается на 1, а последняя монета приобретает следующие эффекты:\n- [OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2\n- [OnSucceedAttack] Наносит 1 [Reduction:`Понижение силы атаки`] на следующий ход\n[WhenUse] Получает 5 [Breath:`Дыхания`] и повышает его счётчик на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не имеет [TiedRopeHonglu:`Опутывания 【Хон Лу】`], то наносит ей 1 [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На 50% больше урона при критическом попадании"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит ещё 1 [ScratchesHurtID:`Отрывную рану`](;ScratchesHurt)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Наносит 1 [IndigoTakeDamageUp:`Уязвимость к Гордыне`] на следующий ход</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Бросок алых пут",
+          "desc": "[DuelCounter]\n[WhenUse] Сила в столкновении +2, если сумма силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели равна 6 и более\n[WhenUse] Получает 5 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Бросок алых пут",
+          "desc": "[DuelCounter]\n[WhenUse] Сила в столкновении +2, если сумма силы своего [Breath:`Дыхания`] и [Laceration:`Кровотечения`] на цели равна 6 и более\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n<style=\"highlight\">[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на 3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит [TiedRopeHonglu:`Опутывание[TabExplain] 【Хон Лу】`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

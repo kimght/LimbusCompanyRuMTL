@@ -1,0 +1,140 @@
+{
+  "dataList": [
+    {
+      "id": "formation_name_filter_Etc_title",
+      "content": "Прочее"
+    },
+    {
+      "id": "formation_name_filter_Etc_LIMBUS_COMPANY",
+      "content": "Компания Лимбус"
+    },
+    {
+      "id": "formation_name_filter_Etc_L_CORP",
+      "content": "Штаб Корп. Лоботомия"
+    },
+    {
+      "id": "formation_name_filter_Etc_H_CORP",
+      "content": "Корп. H"
+    },
+    {
+      "id": "formation_name_filter_Etc_N_CORP",
+      "content": "Корп. N"
+    },
+    {
+      "id": "formation_name_filter_Etc_R_CORP",
+      "content": "Корп. R"
+    },
+    {
+      "id": "formation_name_filter_Etc_T_CORP",
+      "content": "Корп. T"
+    },
+    {
+      "id": "formation_name_filter_Etc_W_CORP",
+      "content": "Корп. W"
+    },
+    {
+      "id": "formation_name_filter_Etc_ZWEI",
+      "content": "Цвай"
+    },
+    {
+      "id": "formation_name_filter_Etc_SHI",
+      "content": "Ши"
+    },
+    {
+      "id": "formation_name_filter_Etc_CINQ",
+      "content": "Сэнк"
+    },
+    {
+      "id": "formation_name_filter_Etc_LIU",
+      "content": "Лю"
+    },
+    {
+      "id": "formation_name_filter_Etc_SEVEN",
+      "content": "Севен"
+    },
+    {
+      "id": "formation_name_filter_Etc_DEVYAT",
+      "content": "Девять"
+    },
+    {
+      "id": "formation_name_filter_Etc_DIECI",
+      "content": "Дьечи"
+    },
+    {
+      "id": "formation_name_filter_Etc_OUFI",
+      "content": "Эуфи"
+    },
+    {
+      "id": "formation_name_filter_Etc_BLADE_LINEAGE",
+      "content": "Родословная клинка"
+    },
+    {
+      "id": "formation_name_filter_Etc_BLACK_CLOUD",
+      "content": "Клан «Курокумо»"
+    },
+    {
+      "id": "formation_name_filter_Etc_ATL",
+      "content": "Альянс освобождения технологий"
+    },
+    {
+      "id": "formation_name_filter_Etc_WUTHERING_HEIGHTS",
+      "content": "Грозовой перевал"
+    },
+    {
+      "id": "formation_name_filter_Etc_PEQUOD_CREW",
+      "content": "«Пекод»"
+    },
+    {
+      "id": "formation_name_filter_Etc_BLOODFIEND",
+      "content": "Кровожад"
+    },
+    {
+      "id": "formation_name_filter_Etc_BLACK_BEAST",
+      "content": "Хэйшоу"
+    },
+    {
+      "id": "formation_name_filter_Etc_FINGER",
+      "content": "Пальцы"
+    },
+    {
+      "id": "formation_name_filter_Etc_THUMB_FINGER",
+      "content": "Большой палец"
+    },
+    {
+      "id": "formation_name_filter_Etc_INDEX_FINGER",
+      "content": "Указательный палец"
+    },
+    {
+      "id": "formation_name_filter_Etc_MIDDLE_FINGER",
+      "content": "Средний палец"
+    },
+    {
+      "id": "formation_name_filter_Etc_RING_FINGER",
+      "content": "Безымянный палец"
+    },
+    {
+      "id": "formation_name_filter_Etc_LITTLE_FINGER",
+      "content": "Мизинец"
+    },
+    {
+      "id": "formation_name_filter_Etc_SPIDER_HOUSE",
+      "content": "Дом пауков"
+    },
+    {
+      "id": "formation_name_filter_Etc_LIMBUS_COMPANY_LCE",
+      "content": "LCE"
+    },
+    {
+      "id": "formation_name_filter_Etc_EGO_EQUIPMENT",
+      "content": "Снаряжение ЭГО"
+    },
+    {
+      "id": "formation_name_filter_Etc_BULLET",
+      "content": "Патроны"
+    },
+    {
+      "id": "formation_name_filter_Etc_DISCARD_SKILL",
+      "content": "Сброс"
+    }
+  ]
+}
