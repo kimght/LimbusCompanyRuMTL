@@ -2869,6 +2869,735 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Режущий удар",
+          "desc": "[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Режущий удар",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]</style>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Режущий удар",
+          "desc": "[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я с радостью проделаю в тебе дыру",
+          "desc": "[TurnStartBattle] Если [AccelBullet] кончились, то заменяется на альтернативный второй навык <color=#fed133>「Разделка оленя」</color>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] и повышает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Я с радостью проделаю в тебе дыру",
+          "desc": "[TurnStartBattle] Если [AccelBullet] кончились, то заменяется на альтернативный второй навык <color=#fed133>「Разделка оленя」</color>\n<style=\"highlight\">[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]</style>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] и повышает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я с радостью проделаю в тебе дыру",
+          "desc": "[TurnStartBattle] Если [AccelBullet] кончились, то заменяется на альтернативный второй навык <color=#fed133>「Разделка оленя」</color>\n[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] и повышает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разделка слона",
+          "desc": "[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]\n[BeforeAttack] Теряет 10 [FutureEyeOnRodion:`Глаза предвидения`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разделка слона",
+          "desc": "[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[BeforeAttack] Теряет 10 [FutureEyeOnRodion:`Глаза предвидения`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Тратит 1 [AccelBullet:`Скоростной патрон`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1\n<style=\"highlight\">- Активирует этот эффект на 1 раз больше за каждый [AccelBullet:`Скоростной патрон`], потраченный этим навыком (До 2 дополнительных раз)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Съеби!",
+          "desc": "[DuelCounter]\n[WhenUse] Теряет 3 [FutureEyeOnRodion:`Глаза предвидения`]\n[EndBattle] Если имеется менее 5 [AccelBullet:`Скоростных патронов`], то восполняет их до 5 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Съеби!",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WhenUse] Теряет <style=\"highlight\">4</style> [FutureEyeOnRodion:`Глаза предвидения`]\n[EndBattle] Если имеется менее 5 [AccelBullet:`Скоростных патронов`], то восполняет их до 5 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разделка кролика",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\nВнешние эффекты не могут вызвать повторное использование этого навыка",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Разделка кролика",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\nВнешние эффекты не могут вызвать повторное использование этого навыка\n<style=\"highlight\">[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разделка кролика",
+          "desc": "[CantDuel]\nНе вызывает активацию защитных навыков цели\nВнешние эффекты не могут вызвать повторное использование этого навыка\n[WhenUse] Итоговая сила +1 при 6 и более [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Базовая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разделка оленя",
+          "desc": "[WhenUse] Если [FutureEyeOnRodion:`Глаз предвидения`] в состоянии [FutureEyeOffRodion:`Перегрева`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 4\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Разделка оленя",
+          "desc": "[WhenUse] Если [FutureEyeOnRodion:`Глаз предвидения`] в состоянии [FutureEyeOffRodion:`Перегрева`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]<style=\"highlight\">, а его Итоговая сила повышается на 2</style>\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 4\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разделка оленя",
+          "desc": "[WhenUse] Если [FutureEyeOnRodion:`Глаз предвидения`] в состоянии [FutureEyeOffRodion:`Перегрева`], то все монеты этого навыка становятся [SuperCoin:`Вечными`], а его Итоговая сила повышается на 2\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 4\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WinDuel] Теряет (Количество оставшихся после столкновения монет) [FutureEyeOnRodion:`Глаза предвидения`] и наносит на (Потерянное значение × 5)% больше урона (До 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath:`Дыхания`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если на цели 10 и более [Vibration:`Тремора`], то ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Утилизация",
+          "desc": "Если ОЗ цели ниже 50%, то наносит ей на 50% больше урона\nСила монет +1, если атакует [TeachersPreyRodion:`Цель игры`]\n[WhenUse] Сила монет +1, если есть хотя бы 1 [AccelBullet:`Скоростной патрон`]\n[EnemyKill] Если убитым противником была [TeachersPreyRodion:`Цель игры`], то этот же навык добавляется в список предстоящих навыков в следующем ходе (Не активируется при убийстве [TeachersPreyRodion:`Цели игры`] таким добавленным навыком)\n[EnemyKill] [FullReload:`Перезаряжается`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Тратит до 5 [AccelBullet:`Скоростных патронов`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1\n- Активирует этот эффект на 1 раз больше за каждый [AccelBullet:`Скоростной патрон`], потраченный этим навыком (До 2 дополнительных раз)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Утилизация",
+          "desc": "Если ОЗ цели ниже 50%, то наносит ей на 50% больше урона\nСила монет +1, если атакует [TeachersPreyRodion:`Цель игры`]\n[WhenUse] Сила монет +1, если есть хотя бы 1 [AccelBullet:`Скоростной патрон`]\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 5)</style>\n[EnemyKill] Если убитым противником была [TeachersPreyRodion:`Цель игры`], то этот же навык добавляется в список предстоящих навыков в следующем ходе (Не активируется при убийстве [TeachersPreyRodion:`Цели игры`] таким добавленным навыком)\n[EnemyKill] [FullReload:`Перезаряжается`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Тратит до 5 [AccelBullet:`Скоростных патронов`] <style=\"highlight\">и наносит на 10% больше урона за каждый потраченный [AccelBullet:`Скоростной патрон`] (До 50%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1\n- Активирует этот эффект на 1 раз больше за каждый [AccelBullet:`Скоростной патрон`], потраченный этим навыком (До <style=\"highlight\">3</style> дополнительных раз)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Предвидение",
+          "desc": "При успешном увороте от всех монет атаковавшего использует на нём свой альтернативный первый навык <color=#fe6f01>「Разделка кролика」</color> (Единожды за ход)\nСила монет +1 за каждые 2 [FutureEyeOnRodion:`Глаза предвидения`] (До 4)\nБазовая сила +1 за каждые 2 [FutureEyeOnRodion:`Глаза предвидения`] свыше 10 (До 4)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3 (Единожды за ход)\n[EndSkillAll] Теряет 2 [FutureEyeOnRodion:`Глаза предвидения`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 2 [Breath:`Дыхания`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Предвидение",
+          "desc": "При успешном увороте от всех монет атаковавшего использует на нём свой альтернативный первый навык <color=#fe6f01>「Разделка кролика」</color> (Единожды за ход)\nСила монет +1 за каждые 2 [FutureEyeOnRodion:`Глаза предвидения`] (До 4)\nБазовая сила +1 за каждые 2 [FutureEyeOnRodion:`Глаза предвидения`] свыше 10 (До 4)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3 (Единожды за ход)\n[EndSkillAll] Теряет 2 [FutureEyeOnRodion:`Глаза предвидения`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 2 [Breath:`Дыхания`] <style=\"highlight\">и восстанавливавет себе 3 СД</style> (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

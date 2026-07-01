@@ -3085,7 +3085,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Время распечатывания!",
+          "name": "Время распаковки!",
           "desc": "Внешние эффекты не могут вызвать повторное использование этого навыка\n[EndSkill] Снимает следующую печать с [MiddleFatherSwordFourOutis:`Леватэйна`] ([MiddleFatherSwordOneOutis:`Запечатанный меч`] → [MiddleFatherSwordTwoOutis:`Первая печать снята`] → [MiddleFatherSwordThreeOutis:`Вторая печать снята`] → [MiddleFatherSwordFourOutis:`Леватэйн`])",
           "coinlist": [
             {
@@ -3132,7 +3132,7 @@
         },
         {
           "level": 3,
-          "name": "Время распечатывания!",
+          "name": "Время распаковки!",
           "desc": "Внешние эффекты не могут вызвать повторное использование этого навыка\n<style=\"highlight\">[WhenUse] Если есть [ReinforcedTattooSpiderOutis:`Татуировки[TabExplain] мести 【<s>Великая Сестра</s>】`], то наносит монетами этого навыка дополнительный Рубящий урон, равный 25% от их итогового урона</style>\n[EndSkill] Снимает следующую печать с [MiddleFatherSwordFourOutis:`Леватэйна`] ([MiddleFatherSwordOneOutis:`Запечатанный меч`] → [MiddleFatherSwordTwoOutis:`Первая печать снята`] → [MiddleFatherSwordThreeOutis:`Вторая печать снята`] → [MiddleFatherSwordFourOutis:`Леватэйн`])",
           "coinlist": [
             {

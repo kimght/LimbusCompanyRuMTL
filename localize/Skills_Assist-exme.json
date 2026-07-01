@@ -60,7 +60,7 @@
                   "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration:`Кровотечение`] Count"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Получает 2 [Agility:`Спешки`] на следующий ход"

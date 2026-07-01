@@ -41,7 +41,7 @@
     {
       "id": 137911,
       "name": "Глаз предвидения",
-      "desc": "Входит в битву с 30 [FutureEyeOnMirror:`Глаза предвидения`](#f8c200;FutureEyeOn).\n\nЕсли значеие [FutureEyeOn:`Глаза предвидения`](#f8c200;FutureEyeOn) падает до 0, он переходит в состояние [FutureEyeOffMirror:`Перегрева`](;FutureEyeOff).",
+      "desc": "Входит в битву с 30 [FutureEyeOnMirror:`Глаза предвидения`](#f8c200;FutureEyeOn).\n\n[FutureEyeOn:`Глаз предвидения`](#f8c200) переходит в состояние [FutureEyeOffMirror:`Перегрева`](;FutureEyeOff), когда его значение падает до 0..",
       "summary": "",
       "undefined": "-",
       "flavor": "Это Реликвия, известная как \"Глаз Одина\". Она является лишь частью целой Реликвии, которая была разбита на три части."

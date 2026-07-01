@@ -2727,6 +2727,421 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Меч Палермо",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Меч Палермо",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Меч Палермо",
+          "desc": "[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели <style=\"highlight\">(До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Нижний удар",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Нижний удар",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на <style=\"highlight\">2</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на <style=\"highlight\">2</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет [DuelEdgeAlly:`Обостряющуюся дуэль`], то [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Нижний удар",
+          "desc": "[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WinDuel] Если цель имеет [DuelEdgeAlly:`Обостряющуюся дуэль`], то повышает её счётчик [Vibration:`Тремора`] на 1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Наносит 2 [Combustion:`Огня`] и</style> повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Наносит 2 [Vibration:`Тремора`] и</style> повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет [DuelEdgeAlly:`Обостряющуюся дуэль`], то [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Охотник",
+          "desc": "[BeforeUse] Если цель имеет 5 [DuelEdgeAlly:`Обостряющейся дуэли`], то использует свой альтернативный третий навык <color=#fe0101>「Разделка оленя」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`]\n[WhenUse] Следующие эффекты активируются для этого навыка в зависимости от значения [DuelEdgeAlly:`Обостряющейся дуэли`] на цели:\n- 1+: наносит на 1 [Vibration:`Тремор`] больше\n- 2+: повышает счётчик [Vibration:`Тремора`] ещё на 1\n- 3+: наносит на 1 [Combustion:`Огонь`] больше\n- 4+: повышает счётчик [Combustion:`Огня`] ещё на 1\n[WhenUse] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет 3 и более [DuelEdgeAlly:`Обостряющейся дуэли`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`] и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [EvolvingManual:`Взросления учебника`] × 10)% больше урона (До 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет 3 и более [DuelEdgeAlly:`Обостряющейся дуэли`], то ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Охотник",
+          "desc": "[BeforeUse] Если цель имеет 5 [DuelEdgeAlly:`Обостряющейся дуэли`], то использует свой альтернативный третий навык <color=#fe0101>「Разделка оленя」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Следующие эффекты активируются для этого навыка в зависимости от значения [DuelEdgeAlly:`Обостряющейся дуэли`] на цели:\n<style=\"highlight\">- Наносит на (Значение × 6)% больше урона (До 30%)</style>\n- 1+: наносит на 1 [Vibration:`Тремор`] больше\n- 2+: повышает счётчик [Vibration:`Тремора`] ещё на 1\n- 3+: наносит на 1 [Combustion:`Огонь`] больше\n- 4+: повышает счётчик [Combustion:`Огня`] ещё на 1\n[WhenUse] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет 3 и более [DuelEdgeAlly:`Обостряющейся дуэли`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Combustion:`Огня`] и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Vibration:`Тремора`] и повышает его счётчик на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [EvolvingManual:`Взросления учебника`] × <style=\"highlight\">25</style>)% больше урона (До <style=\"highlight\">75%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если есть [EvolvingManual:`Взросление учебника`] или цель имеет 3 и более [DuelEdgeAlly:`Обостряющейся дуэли`], то ещё <style=\"highlight\">2 раза</style> [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик <style=\"highlight\">на 2</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Измерение пределов меча",
+          "desc": "[DuelCounter]\nНа (Текущее значение [DuelEdgeAlly:`Обостряющейся дуэли`] на атакующем × 10)% больше урона (До 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Измерение пределов меча",
+          "desc": "[DuelCounter]\nНа (Текущее значение [DuelEdgeAlly:`Обостряющейся дуэли`] на атакующем × <style=\"highlight\">20</style>)% больше урона (До <style=\"highlight\">100%</style>)\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на атакующем (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я буду защищать.",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я буду защищать.",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n<style=\"highlight\">[WhenUse] Получает 2 [Protection:`Защищённости`] и восстанавливает 5 СД союзнику, для [SupportProtect:`Защиты которого`] этот навык был активирован</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Разделка оленя",
+          "desc": "[WhenUse]\n- Количество целей повышается на текущее значение [EvolvingManual:`Взросления учебника`] (До 2 дополнительных целей)\n- Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели (До 2)\n- Если у навыка всего одна цель, то наносит ей на 15% больше урона\n- Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 15)% больше урона (В фокусированных битвах считаются Части)\n\n[EndSkill]\n- [DuelEdgeAlly:`Обостряющаяся дуэль`] исчезает с главной цели\n- Получает 1 [EvolvingManual:`Взросление учебника`] (Если главная цель была убита, то получает на 1 больше)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`] и повышает его счётчик на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`] и повышает его счётчик на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Сила этой монеты повышается на текущее значение [EvolvingManual:`Взросления учебника`] (До 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] дважды и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разделка оленя",
+          "desc": "[WhenUse]\n- Количество целей повышается на текущее значение [EvolvingManual:`Взросления учебника`] (До 2 дополнительных целей)\n- Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели (До <style=\"highlight\">3</style>)\n- Если у навыка всего одна цель, то наносит ей на <style=\"highlight\">25%</style> больше урона\n- Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">25</style>)% больше урона (В фокусированных битвах считаются Части)\n\n[EndSkill]\n- [DuelEdgeAlly:`Обостряющаяся дуэль`] исчезает с главной цели\n- Получает 1 [EvolvingManual:`Взросление учебника`] (Если главная цель была убита, то получает на 1 больше)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Combustion:`Огня`] и повышает его счётчик на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Vibration:`Тремора`] и повышает его счётчик на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Сила этой монеты повышается на текущее значение [EvolvingManual:`Взросления учебника`] (До 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] <style=\"highlight\">трижды</style> и понижает его счётчик <style=\"highlight\">на 3</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

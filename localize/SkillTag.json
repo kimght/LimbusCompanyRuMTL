@@ -243,6 +243,10 @@
     {
       "id": "WhenUseEGOPassive",
       "name": "Идк зачем это"
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[Конец атаки после победы в столкновении]"
     }
   ]
 }

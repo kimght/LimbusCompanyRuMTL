@@ -196,7 +196,7 @@
                   "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Наносит 6 [Combustion:`Огня`]"
