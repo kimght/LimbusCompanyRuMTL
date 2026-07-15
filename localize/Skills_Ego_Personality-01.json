@@ -722,6 +722,406 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2010911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[WideAreaRampage]\nКогда наносит [SinkingWhite:`Бабочек`] монетами этого ЭГО навыка: наносит Почивших с шансом выпадения орла, а Живущих с шансом выпадения решки (Каждую отдельно)\n\nЕсли текущей Идентичностью И Сана является <b>「ЭГО «Лоботомии»::Торжественный траур」</b>:\n- [BeforeAttack] Получает (Число грехов в резонансе Уныния + 1) [BulletLament:`Живущих и Почивших`] в случайном соотношении (До 7)\n- [EndSkill] [ReloadLament:`Перезаряжается`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 случайную [SinkingWhite:`Бабочку`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Тратит все оставшиеся [BulletLament:`Живущие и Почившие`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и 3 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 Живущих и 2 Почивших [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[WideAreaRampage]\nКогда наносит [SinkingWhite:`Бабочек`] монетами этого ЭГО навыка: наносит Почивших с шансом выпадения орла, а Живущих с шансом выпадения решки (Каждую отдельно)\n\nЕсли текущей Идентичностью И Сана является <b>「ЭГО «Лоботомии»::Торжественный траур」</b>:\n- [BeforeAttack] Получает (Число грехов в резонансе Уныния + 1) [BulletLament:`Живущих и Почивших`] в случайном соотношении (До 7)\n- [EndSkill] [ReloadLament:`Перезаряжается`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 случайную [SinkingWhite:`Бабочку`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 случайных [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Тратит все оставшиеся [BulletLament:`Живущие и Почившие`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и 3 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 Живущих и 2 Почивших [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит урон Унынием, равный сумме Живущих и Почивших [SinkingWhite:`Бабочек`] на цели</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный урон Унынием, равный (Количество потраченных этой монетой [BulletLament:`Живущих и Почивших`] × 2)% от итогового урона этой монеты</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[WideAreaRampage]\nКогда наносит [SinkingWhite:`Бабочек`] монетами этого ЭГО навыка: наносит Почивших с шансом выпадения орла, а Живущих с шансом выпадения решки (Каждую отдельно)\n<style=\"highlight\">Сила в столкновении +1 за каждые 4 единицы в сумме силы [Sinking:`Утопания`] и Живущих и Почивших [SinkingWhite:`Бабочек`] на главной цели (До 4)</style>\n\nЕсли текущей Идентичностью И Сана является <b>「ЭГО «Лоботомии»::Торжественный траур」</b>:\n- [BeforeAttack] Получает (Число грехов в резонансе Уныния + 1) [BulletLament:`Живущих и Почивших`] в случайном соотношении (До 7)\n- [EndSkill] [ReloadLament:`Перезаряжается`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 случайную [SinkingWhite:`Бабочку`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 случайных [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 случайных [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Sinking:`Утопания`] на 1</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [AzureTakeDamageUp:`Уязвимость к Унынию`] и 1 [AzureResistDown:`Понижение сопротивления к Унынию`] на этот и следующий ход</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Тратит все оставшиеся [BulletLament:`Живущие и Почившие`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и 3 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 Живущих и 2 Почивших [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный сумме Живущих и Почивших [SinkingWhite:`Бабочек`] на цели"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон Унынием, равный (Количество потраченных этой монетой [BulletLament:`Живущих и Почивших`] × 2)% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе / 2) (До 2; округляется вниз)\n[BeforeAttack] Базовая сила -2 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Живущих [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Почивших [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`] и 5 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе / 2) (До 2; округляется вниз)\n[BeforeAttack] Базовая сила -2 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Живущих [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Почивших [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`] и 5 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит урон Унынием, равный сумме Живущих и Почивших [SinkingWhite:`Бабочек`] на цели</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Торжественный траур",
+          "abName": "Похороны мёртвых бабочек",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Сила в столкновении +1 за каждые 4 единицы в сумме силы [Sinking:`Утопания`] и Живущих и Почивших [SinkingWhite:`Бабочек`] на главной цели (До 4)</style>\n[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе / 2) (До 2; округляется вниз)\n[BeforeAttack] Базовая сила -2 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Живущих [SinkingWhite:`Бабочки`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 Почивших [SinkingWhite:`Бабочки`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [AzureTakeDamageUp:`Уязвимость к Унынию`] и 1 [AzureResistDown:`Понижение сопротивления к Унынию`] на этот и следующий ход</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`] и 5 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит урон Унынием, равный сумме Живущих и Почивших [SinkingWhite:`Бабочек`] на цели"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит урон Унынием, равный силе [Sinking:`Утопания`] на цели</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

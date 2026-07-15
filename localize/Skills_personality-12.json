@@ -2782,6 +2782,520 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1121601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вспышка восхода",
+          "desc": "[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча рассвета`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Вспышка восхода",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)</style>\n[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча рассвета`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вспышка восхода",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] При <style=\"highlight\">20 и более</style> [StigmaWorkshopHandStep1:`Луча рассвета`] вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клинок заката",
+          "desc": "[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Клинок заката",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)</style>\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Клинок заката",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]<style=\"highlight\">, а также [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 при своём попадании</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Рассекатель рассвета",
+          "desc": "[StartBattle] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]:\n- Итоговая сила +1\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[EndSkill] Даёт 1 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Даёт на 1 больше при 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рассекатель рассвета",
+          "desc": "<style=\"highlight\">Наносит на (Сумма силы [Combustion:`Огня`] на цели и на себе)% больше урона (До 30%)</style>\n[StartBattle] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]:\n- Итоговая сила +1\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n<style=\"highlight\">- Активирует [Combustion:`Огонь`] на цели и понижаете го счётчик на 1 при попадании последней монетой</style>\n[EndSkill] Даёт 1 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Даёт на 1 больше при 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Страж",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает свой счётчик [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Страж",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n<style=\"highlight\">[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)</style>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает свой счётчик [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Страж",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на атакующем (До 2)</style>\n[WinDuel] Понижает свой счётчик [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "На заре",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 50)% больше урона (В фокусированных битвах считаются Части)\n[WhenUse] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[WhenUse] Сила монет +1 при 15 и более [Combustion:`Огня`] на себе\n[EndSkill]\n- Даёт 3 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Тратит до 15 [Combustion:`Огня`] с себя, чтобы восстановить (15 + потраченный [Combustion:`Огонь`])% от максимальных ОЗ\n- Теряет всё накопленное значение [StigmaWorkshopHandStep1:`Луча восхода`]",
+          "flavor": "    На одном из бесчисленных бушующих полей сражений Дымовой Войны эта самая техника расплавила и расколола последнюю пару крыльев некоего решающего оружия и пространство, в котором оно находилось, предвещая конец рассвета.\n\n    «Ха... Я чуть не умерла...!»\n    «Миледи, вы думаете... вы сможете прикончить этого монстра?»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Активирует [Combustion:`Огонь`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "На заре",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">75</style>)% больше урона (В фокусированных битвах считаются Части)\n[WhenUse] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[WhenUse] Сила монет +1 при 15 и более [Combustion:`Огня`] на себе\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели (До 2)</style>\n[EndSkill]\n- Даёт 3 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Тратит до 15 [Combustion:`Огня`] с себя, чтобы восстановить (15 + потраченный [Combustion:`Огонь`])% от максимальных ОЗ\n- Теряет всё накопленное значение [StigmaWorkshopHandStep1:`Луча восхода`]",
+          "flavor": "    На одном из бесчисленных бушующих полей сражений Дымовой Войны эта самая техника расплавила и расколола последнюю пару крыльев некоего решающего оружия и пространство, в котором оно находилось, предвещая конец рассвета.\n\n    «Ха... Я чуть не умерла...!»\n    «Миледи, вы думаете... вы сможете прикончить этого монстра?»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Активирует [Combustion:`Огонь`] на цели и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тепловая дымка",
+          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча рассвета`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Тепловая дымка",
+          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча рассвета`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если значние [StigmaWorkshopHandStep1:`Луча рассвета`] равно 20 и более или Грегор использовал свой альтернативный третий навык <color=#fe0101>「На заре」</color> в текущем ходе</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

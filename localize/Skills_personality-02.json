@@ -3003,6 +3003,509 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1021601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вспышка восхода",
+          "desc": "[WhenUse] Сила в столкновении +1 за каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (До 2)\n[WhenUse] Вновь подкидывает последнюю монету 1 раз при 20 и более [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Вспышка восхода",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WhenUse] Сила в столкновении +1 за каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (До 2)\n[WhenUse] Вновь подкидывает последнюю монету 1 раз при 20 и более [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Вспышка восхода",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До <style=\"highlight\">3</style>)\n<style=\"highlight\">[WhenUse] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 4</style>\n[WhenUse] Сила в столкновении +1 за каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (До <style=\"highlight\">3</style>)\n[WhenUse] Вновь подкидывает последнюю монету 1 раз при 20 и более [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`] <style=\"highlight\">и повышает его счётчик на 1</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрез бабочки",
+          "desc": "[WhenUse] За каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Сила в столкновении +1 (До 2)\n- Вновь подкидывает последнюю монету (До 2 раз)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Разрез бабочки",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 3</style>\n[WhenUse] За каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Сила в столкновении +1 (До 2)\n- Вновь подкидывает последнюю монету (До 2 раз)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на 1 при 10 и более [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Разрез бабочки",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До <style=\"highlight\">3</style>)\n[WhenUse] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на <style=\"highlight\">6</style>\n[WhenUse] За каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Сила в столкновении +1 (До <style=\"highlight\">3</style>)\n- Вновь подкидывает последнюю монету (До 2 раз)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на 1 <style=\"highlight\">за каждые 10</style> [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] <style=\"highlight\">(До 2 каждого)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Выпуск",
+          "desc": "[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「Выпуск - Полдень[TabExplain]」</color> вместо этого при максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`]\n[WhenUse] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 5\n[WhenUse] За каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Сила в столкновении +1 (До 2)\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] цели на 1 (До 2 каждого)\n- Вновь подкидывает последнюю монету (До 2 раз)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До 2 раз за навык)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выпуск",
+          "desc": "[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「Выпуск - Полдень[TabExplain]」</color> вместо этого при максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на <style=\"highlight\">8</style>\n[WhenUse] За каждые 10 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Сила в столкновении +1 (До <style=\"highlight\">3</style>)\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] цели на 1 (До <style=\"highlight\">3</style> каждого)\n- Вновь подкидывает последнюю монету (До 2 раз)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До <style=\"highlight\">3</style> раз за навык)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клеймо",
+          "desc": "[DuelCounter]\n[WhenUse] Сила монет +1 при 5 и более [Combustion:`Огня`] на себе\n[WhenUse] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает свою силу [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Клеймо",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Использует альтернативный защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого при отсутствии [CaseOverheating:`Перегретого гроба`] и максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)</style>\n[WhenUse] Сила монет +1 при 5 и более [Combustion:`Огня`] на себе\n[WhenUse] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает свою силу [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Клеймо",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 6 (Единожды за ход)</style>\n[BeforeUse] Использует альтернативный защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого при отсутствии [CaseOverheating:`Перегретого гроба`] и максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5</style> [Combustion:`Огня`] на себе <style=\"highlight\">(До 2)</style>\n[WhenUse] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает свою силу [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`] (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021605,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "Поддерживающее наступление",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Поддерживающее наступление",
+          "desc": "<style=\"highlight\">[WhenUse] Наносит на (Текущее значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`])% больше урона (До 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Поддерживающее наступление",
+          "desc": "[WhenUse] В зависимости от значения [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]:\n- Наносит на <style=\"highlight\">2%</style> больше урона за каждую единицу (До <style=\"highlight\">60%</style>)\n<style=\"highlight\">- Итоговая сила +1 за каждые 10 единиц (До 3)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1 (До 2 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Выпуск - Полдень",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Если сумма силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели равна 6 и более, то получает +1 к Силе монет и +2 к Силе в столкновении\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на 2 всем целям этого навыка\n[EndSkill]\n- Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход всем целям, по которым попал этот навык (Единожды за ход)\n- Получает 1 [Firstlight:`Боевой инстинкт`] и [CaseOverheating:`Перегретый гроб`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету ещё 2 раза"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До 2 раз за навык)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выпуск - Полдень",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n<style=\"highlight\">Наносит на (Сумма силы [Combustion:`Огня`] на цели и на себе)% больше урона (До 20%; относится к каждой цели отдельно)</style>\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Сила монет +1 и Сила в столкновении +2 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели <style=\"highlight\">(До 2 и 4 соответственно) </style>\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на <style=\"highlight\">3</style> всем целям этого навыка\n[EndSkill]\n- Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход всем целям, по которым попал этот навык (Единожды за ход)\n- Получает 1 [Firstlight:`Боевой инстинкт`] и [CaseOverheating:`Перегретый гроб`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету ещё 2 раза"
+                },
+                {
+                  "desc": "<style=\"highlight\">Если уже есть [Firstlight:`Боевой инстинкт`], то на (Сила [Combustion:`Огня`] на цели / 2)% больше урона (До 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До <style=\"highlight\">3</style> раз за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021607,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Полуденное расчленение",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nНаносит на (Процент своих потерянных ОЗ / 2)% больше урона (До 25%)\n\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Если сумма силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели равна 6 и более, то получает +1 к Силе монет и +2 к Силе в столкновении\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на 2 всем целям этого навыка\n[EndSkill]\n- Тратит до 30 [Combustion:`Огня`] с себя, чтобы восстановить (5 + потраченный [Combustion:`Огонь`])% от максимальных ОЗ (До 35%)\n- Теряет всё накопленное значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]\n- Получает 3 [Firstlight:`Боевого инстинкта`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету ещё 2 раза"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До 2 раз за навык)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Полуденное расчленение",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nНаносит на (<style=\"highlight\">Процент своих потерянных ОЗ</style>)% больше урона (До <style=\"highlight\">50%</style>)\n<style=\"highlight\">Наносит на (Сила [Combustion:`Огня`] на цели)% больше урона (До 20%; относится к каждой цели отдельно) </style>\n\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Сила монет +1 и Сила в столкновении +2 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели <style=\"highlight\">(До 2 и 4 соответственно) </style>\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на <style=\"highlight\">3</style> всем целям этого навыка\n[EndSkill]\n- Тратит до 30 [Combustion:`Огня`] с себя, чтобы восстановить (<style=\"highlight\">20</style> + потраченный [Combustion:`Огонь`])% от максимальных ОЗ (До <style=\"highlight\">50%</style>)\n- Теряет всё накопленное значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]\n- Получает 3 [Firstlight:`Боевого инстинкта`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету ещё 2 раза"
+                },
+                {
+                  "desc": "<style=\"highlight\">Если уже есть [Firstlight:`Боевой инстинкт`], то на (Сила [Combustion:`Огня`] на цели / 2)% больше урона (До 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (До <style=\"highlight\">3</style> раз за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

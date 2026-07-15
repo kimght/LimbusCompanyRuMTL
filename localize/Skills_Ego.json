@@ -2736,7 +2736,7 @@
           "level": 1,
           "name": "Фонарь",
           "abName": "Фонарь фей",
-          "desc": "[CantIdentify]\nВыбирает цель наибольшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ",
           "coinlist": [
             {
               "coindescs": [
@@ -2754,7 +2754,7 @@
           "level": 3,
           "name": "Фонарь",
           "abName": "Фонарь фей",
-          "desc": "[CantIdentify]\nВыбирает цель наибольшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ",
           "coinlist": [
             {
               "coindescs": [
