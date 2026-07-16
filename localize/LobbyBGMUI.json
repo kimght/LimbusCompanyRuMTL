@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "ui_lobby_bgm_title_window",
+      "content": "Установить музыку Окна"
+    },
+    {
+      "id": "ui_lobby_bgm_title",
+      "content": "Установить музыку Грешника"
+    },
+    {
+      "id": "ui_bgm_ui_all_bgm_toggle",
+      "content": "Все треки"
+    },
+    {
+      "id": "ui_bgm_ui_all_playlist_toggle",
+      "content": "Плейлист"
+    },
+    {
+      "id": "ui_bgm_ui_all_bgm_list_title",
+      "content": "Все саундтреки"
+    },
+    {
+      "id": "ui_bgm_ui_all_bgm_list_desc",
+      "content": "※ Музыка Окна будет случайным образом чередоваться между выбранными саундтреками."
+    },
+    {
+      "id": "ui_settings_popup_tab_title_change_ui",
+      "content": "Изменить стиль интерфейса"
+    },
+    {
+      "id": "ui_settings_popup_tab_title_change_bgm",
+      "content": "Изменить музыку"
+    },
+    {
+      "id": "ui_playing_lobby_bgm",
+      "content": "Играет: Стандартная музыка Окна"
+    },
+    {
+      "id": "ui_playing_character_bgm",
+      "content": "Играет: Выбранная музыка Грешника"
+    },
+    {
+      "id": "buy_bgm",
+      "content": "Купить музыку"
+    },
+    {
+      "id": "notice_not_enough_twine",
+      "content": "※ Недостаточно нитей."
+    },
+    {
+      "id": "not_enough_twine",
+      "content": "Недостаточно нитей"
+    },
+    {
+      "id": "ui_jukebox_title",
+      "content": "Музыка"
+    },
+    {
+      "id": "ui_open_jukebox_button",
+      "content": "Музыка"
+    },
+    {
+      "id": "ui_setting_character_bgm_button",
+      "content": "Установить музыку Грешника"
+    },
+    {
+      "id": "ui_lobby_bgm_should_get_from_vending_machine",
+      "content": "Доступно для покупки в Автомате"
+    },
+    {
+      "id": "ui_lobby_bgm_acquired_after_chapter_clear",
+      "content": "Микстейп"
+    },
+    {
+      "id": "ui_lobby_bgm_filter_owned",
+      "content": "Приобретено"
+    },
+    {
+      "id": "ui_lobby_bgm_no_item_in_playlist",
+      "content": "Плейлист пуст."
+    },
+    {
+      "id": "ui_lobby_bgm_no_item_in_search_list",
+      "content": "В этой категории не найдено ни одного трека."
+    },
+    {
+      "id": "ui_lobby_bgm_playlist_registered_desc_lobby_bgm",
+      "content": "Треков в плейлисте ({0}/{1})"
+    },
+    {
+      "id": "ui_lobby_bgm_playlist_registered_desc_jukebox",
+      "content": "Треков в плейлисте ({0}/{1})"
+    },
+    {
+      "id": "ui_lobby_bgm_playlist_title",
+      "content": "Плейлист"
+    },
+    {
+      "id": "ui_lobby_bgm_add_failed_by_empty_character",
+      "content": "Выберите Грешника перед установкой музыки."
+    },
+    {
+      "id": "ui_lobby_bgm_add_failed_by_playlist_filled",
+      "content": "Плейлист переполнен.\nНевозможно добавить саундтрек."
+    },
+    {
+      "id": "ui_lobby_bgm_acquired_after_chapter_clear_with_condition",
+      "content": "Микстейп {0}"
+    },
+    {
+      "id": "ui_setting_lobby_bgm_button",
+      "content": "Установить музыку Окна"
+    },
+    {
+      "id": "ui_setting_dynamic_ui_select_clear",
+      "content": "Очистить выбор"
+    }
+  ]
+}

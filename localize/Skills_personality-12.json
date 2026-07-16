@@ -2789,7 +2789,7 @@
         {
           "level": 1,
           "name": "Вспышка восхода",
-          "desc": "[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча рассвета`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "desc": "[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча восхода`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2813,7 +2813,7 @@
         {
           "level": 2,
           "name": "Вспышка восхода",
-          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)</style>\n[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча рассвета`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)</style>\n[WhenUse] Если текущее значение [StigmaWorkshopHandStep1:`Луча восхода`] максимально, то вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2837,7 +2837,7 @@
         {
           "level": 4,
           "name": "Вспышка восхода",
-          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] При <style=\"highlight\">20 и более</style> [StigmaWorkshopHandStep1:`Луча рассвета`] вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] При <style=\"highlight\">20 и более</style> [StigmaWorkshopHandStep1:`Луча восхода`] вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2866,7 +2866,7 @@
         {
           "level": 1,
           "name": "Клинок заката",
-          "desc": "[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "desc": "[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2900,7 +2900,7 @@
         {
           "level": 2,
           "name": "Клинок заката",
-          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)</style>\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)</style>\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2934,7 +2934,7 @@
         {
           "level": 4,
           "name": "Клинок заката",
-          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча рассвета`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]<style=\"highlight\">, а также [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 при своём попадании</style>",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 4)\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]<style=\"highlight\">, а также [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 при своём попадании</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2972,7 +2972,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Рассекатель рассвета",
+          "name": "Рассекатель зари",
           "desc": "[StartBattle] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]:\n- Итоговая сила +1\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[EndSkill] Даёт 1 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Даёт на 1 больше при 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]",
           "coinlist": [
             {
@@ -3013,7 +3013,7 @@
         },
         {
           "level": 4,
-          "name": "Рассекатель рассвета",
+          "name": "Рассекатель зари",
           "desc": "<style=\"highlight\">Наносит на (Сумма силы [Combustion:`Огня`] на цели и на себе)% больше урона (До 30%)</style>\n[StartBattle] Даёт 2 [Protection:`Защищённости`] двум случайным союзникам (В приоритете союзники без неё, а также Идентичности офиса «Рассвета»)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WhenUse] При 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]:\n- Итоговая сила +1\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n<style=\"highlight\">- Активирует [Combustion:`Огонь`] на цели и понижаете го счётчик на 1 при попадании последней монетой</style>\n[EndSkill] Даёт 1 [DawnLight:`Предвестника рассвета`] всем союзникам на следующий ход\n- Даёт на 1 больше при 20 и более [StigmaWorkshopHandStep1:`Луча восхода`]",
           "coinlist": [
             {
@@ -3256,7 +3256,7 @@
         {
           "level": 1,
           "name": "Тепловая дымка",
-          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча рассвета`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)",
+          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3277,7 +3277,7 @@
         {
           "level": 4,
           "name": "Тепловая дымка",
-          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча рассвета`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если значние [StigmaWorkshopHandStep1:`Луча рассвета`] равно 20 и более или Грегор использовал свой альтернативный третий навык <color=#fe0101>「На заре」</color> в текущем ходе</style>",
+          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если значние [StigmaWorkshopHandStep1:`Луча восхода`] равно 20 и более или Грегор использовал свой альтернативный третий навык <color=#fe0101>「На заре」</color> в текущем ходе</style>",
           "coinlist": [
             {
               "coindescs": [
