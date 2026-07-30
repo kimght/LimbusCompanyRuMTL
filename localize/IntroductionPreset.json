@@ -2043,6 +2043,14 @@
     {
       "id": "introduce_sentence_256",
       "content": "Я передам {0}."
+    },
+    {
+      "id": "introduce_word_257",
+      "content": "Пункт назначения"
+    },
+    {
+      "id": "introduce_sentence_257",
+      "content": "{0} был(-и/-о/-а) определен(-ы/-а)."
     }
   ]
 }

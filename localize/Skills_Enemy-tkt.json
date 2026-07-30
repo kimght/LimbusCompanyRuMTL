@@ -437,14 +437,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime_Re:`Остановку времени`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime_Re:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 1"
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 2 в следующем ходе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 8 и более [Vibration:`Тремора`], то наносит ей 1 [InterlockingTime:`Остановку времени`]"
+                  "desc": "[OnSucceedAttack] Если на цели 8 и более [Vibration:`Тремора`], то наносит ей 1 [InterlockingTime_Re:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то наносит цели 8 [Vibration:`Тремора`]"
@@ -517,7 +517,7 @@
                   "desc": "[OnSucceedAttack] Повышает свой счётчик [Vibration:`Тремора`] на 2 в следующем ходе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime:`Остановку времени`]"
+                  "desc": "[OnSucceedAttack] Если счётчик [Vibration:`Тремора`] цели равен 4 и более, то наносит ей 1 [InterlockingTime_Re:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 4 и более, то наносит цели 5 [Vibration:`Тремора`]"
@@ -527,7 +527,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 7 и более, то наносит цели 1 [InterlockingTime:`Остановку времени`]"
+                  "desc": "[OnSucceedAttack] Если свой счётчик [Vibration:`Тремора`] равен 7 и более, то наносит цели 1 [InterlockingTime_Re:`Остановку времени`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"

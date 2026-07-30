@@ -3267,7 +3267,7 @@
         {
           "level": 4,
           "name": "Клеймо",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 6 (Единожды за ход)</style>\n[BeforeUse] Использует альтернативный защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого при отсутствии [CaseOverheating:`Перегретого гроба`] и максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5</style> [Combustion:`Огня`] на себе <style=\"highlight\">(До 2)</style>\n[WhenUse] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает свою силу [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 6 (Единожды за битву)</style>\n[BeforeUse] Использует альтернативный защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого при отсутствии [CaseOverheating:`Перегретого гроба`] и максимальном значении [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5</style> [Combustion:`Огня`] на себе <style=\"highlight\">(До 2)</style>\n[WhenUse] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает свою силу [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
