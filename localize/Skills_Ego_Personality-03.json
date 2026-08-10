@@ -874,6 +874,184 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2031011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[WinDuelEndSkill] Восстанавливает 2% ОЗ и 5 СД для (2 + Число грехов в резонансе Зависти / 2) союзников с наименьшим процентом текущих ОЗ (До 3 союзников)\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До 20)\n[DefeatDuel] Наносит главной цели на 100% больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[WinDuelEndSkill] Восстанавливает <style=\"highlight\">4%</style> ОЗ и 5 СД для (2 + Число грехов в резонансе Зависти / 2) союзников с наименьшим процентом текущих ОЗ (До <style=\"highlight\">4</style> союзников)\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До <style=\"highlight\">25</style>)\n[DefeatDuel] Наносит главной цели на <style=\"highlight\">150%</style> больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[WinDuelEndSkill] Восстанавливает <style=\"highlight\">6%</style> ОЗ и 5 СД для (2 + Число грехов в резонансе Зависти / 2) союзников с наименьшим процентом текущих ОЗ (До 4 союзников)\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До <style=\"highlight\">30</style>)\n[DefeatDuel] Наносит главной цели на <style=\"highlight\">200%</style> больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2031021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[CantIdentify]\nСлучайные цели\nИтоговая сила +1 при 2 и более грехах в резонансе Зависти\n[WinDuel] Наносит главной цели на 60% больше урона\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До 20)\n[DefeatDuel] Наносит на 1 [ResultReduction:`Понижение силы`] больше последней монетой",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[CantIdentify]\nСлучайные цели\nИтоговая сила +1 <style=\"highlight\">за каждые 2</style> греха в резонансе Зависти <style=\"highlight\">(До 2)</style>\n[WinDuel] Наносит главной цели на <style=\"highlight\">80%</style> больше урона\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До <style=\"highlight\">25</style>)\n[DefeatDuel] Наносит на 1 [ResultReduction:`Понижение силы`] больше последней монетой",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я выберу ножницы. А ты?",
+          "abName": "Ты будешь играть?",
+          "desc": "[CantIdentify]\nСлучайные цели\nИтоговая сила +1 <style=\"highlight\">за каждые 2</style> греха в резонансе Зависти (До <style=\"highlight\">3</style>)\n[WinDuel] Наносит главной цели на <style=\"highlight\">100%</style> больше урона\n[DefeatDuel] Получает (Число грехов в резонансе Зависти × 5) ОЗ Щита (До <style=\"highlight\">30</style>)\n[DefeatDuel] Наносит на 1 [ResultReduction:`Понижение силы`] больше последней монетой",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [ResultReduction:`Понижение силы`] на следующий ход (Единожды за ход на цель)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Laceration:`Кровотечения`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

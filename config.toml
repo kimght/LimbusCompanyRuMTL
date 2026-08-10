@@ -65,11 +65,19 @@ file_pattern = "Skills_Ego.json"
 path = "$.dataList[*].levelList[*].desc"
 
 [[close_highlight]]
-file_pattern = "*_personality-*.json"
+file_pattern = "Skills_Ego_Personality-*.json"
 path = "$.dataList[*].levelList[*].coinlist[*].coindescs[*].desc"
 
 [[close_highlight]]
-file_pattern = "*_personality-*.json"
+file_pattern = "Skills_Ego_Personality-*.json"
+path = "$.dataList[*].levelList[*].desc"
+
+[[close_highlight]]
+file_pattern = "Skills_personality-*.json"
+path = "$.dataList[*].levelList[*].coinlist[*].coindescs[*].desc"
+
+[[close_highlight]]
+file_pattern = "Skills_personality-*.json"
 path = "$.dataList[*].levelList[*].desc"
 
 [priority]

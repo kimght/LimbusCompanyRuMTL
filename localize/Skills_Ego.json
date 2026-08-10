@@ -3086,6 +3086,39 @@
               ]
             }
           ]
+        },
+        {
+          "level": 4,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "[BeforeAttack] Наносит на (Количество имеющихся ЭГО Ресурсов Похоти)% больше урона (До 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "<style=\"highlight\">Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 3)\n[BeforeAttack] Даёт 1 [ScarletResultUp:`Повышение силы Похоти`] союзникам по возрастанию их номера выбора в команду за каждые 6 имеющихся ЭГО Ресурсов Похоти (До 5 союзников)</style>\n[BeforeAttack] Наносит на (Количество имеющихся ЭГО Ресурсов Похоти<style=\"highlight\"> × 6</style>)% больше урона (До <style=\"highlight\">120%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3</style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3117,6 +3150,42 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] <style=\"highlight\">на 4</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ\n[BeforeAttack] Наносит на (Количество имеющихся ЭГО Ресурсов Похоти)% больше урона (До 50%)\n[BeforeAttack] Полгощает ЭГО Ресурсы Похоти в количестве, равном числу грехов в её резонансе, чтобы нанести на 10% больше урона за каждый поглощённый ЭГО Ресурс",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "[CantIdentify]\nВыбирает цель с наибольшими ОЗ\n<style=\"highlight\">Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Laceration:`Кровотечения`] на главной цели (До 3)\n[BeforeAttack] Даёт 1 [ScarletResultUp:`Повышение силы Похоти`] союзникам по возрастанию их номера выбора в команду за каждые 6 имеющихся ЭГО Ресурсов Похоти (До 5 союзников)\n[BeforeAttack] Наносит на (Количество имеющихся ЭГО Ресурсов Похоти × 5)% больше урона (До 100%)</style>\n[BeforeAttack] Полгощает (Число грехов в резонансе Похоти<style=\"highlight\"> × 2</style>) ЭГО Ресурсов Похоти <style=\"highlight\">(До 8)</style>, чтобы нанести на <style=\"highlight\">20%</style> больше урона за каждый поглощённый ЭГО Ресурс <style=\"highlight\">(До 160%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 4<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 4</style>"
                 }
               ]
             }
@@ -3158,6 +3227,51 @@
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Наносит 7 [Combustion:`Огня`]\n- Если целью стал союзник, даёт ему 2 [Agility:`Спешки`] <style=\"highlight\">и 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]</style> на следующий ход вместо этого"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ\nНе наносит урона союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Если целью стал союзник, восстанавливает ему 10% от максимальных ОЗ"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 7 [Combustion:`Огня`]\n- Если целью стал союзник, даёт ему 2 [Agility:`Спешки`] и 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`] на следующий ход вместо этого"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "<style=\"highlight\">Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\nНе наносит урона союзникам<style=\"highlight\"> и не вызывает активацию их защитных навыков</style>\n<style=\"highlight\">[DefeatDuel] Базовая сила -8\n[EndSkill] Если попадает по союзнику, то восстанавливает себе (Число союзников, являющихся целями этого навыка)\n[EndSkill] Восстанавливает себе (Число союзников, являющихся целями этого навыка × 5)% ОЗ (Минимум 5%; до 20%)\n[EndSkill] Получает 2 [Agility:`Спешки`] и 1 [GainSinStockAdder] на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если целью стал союзник:"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Восстанавливает ему (Число союзников, являющихся целями этого навыка × 5)% ОЗ (До 20%)</style>"
+                },
+                {
+                  "desc": "- Даёт ему 2 [Agility:`Спешки`] и 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Наносит 7 [Combustion:`Огня`]"
                 }
               ]
             }
@@ -3208,6 +3322,30 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Рагу жизни",
+          "abName": "Васупилиск",
+          "desc": "<style=\"highlight\">Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\n<style=\"highlight\">[DefeatDuel] Базовая сила -12\n[BeforeAttack] Наносит на 15% больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех целях этого навыка (До 60%)\n[BeforeAttack] Тратит до 3 наиболее имеющегося ЭГО Ресурса, чтобы нанести на 10% больше урона за каждую потраченную единицу (До 30%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Если эффектом этого навыка [BeforeAttack] был потрачен наиболее имеющийся ЭГО Ресурс, то наносит дополнительный урон Похотью, равный 50% от итогового урона этой монеты</style>"
                 }
               ]
             }
