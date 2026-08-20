@@ -1741,7 +1741,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [DefenseDown:`Понижение уровня защиты`] за каждые 6 [Combustion:`Огня`] на цели (<style=\"highlight\">До 5</style>; единожды за ход)\n<style=\"highlight\">[OnSucceedAttack] Наносит [DefenseDown:`Понижения уровня защиты`] в количестве значения [DianxueDonQuixote:`Удара по меридианам - Дон Кихот`] на цели</style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [DefenseDown:`Понижение уровня защиты`] за каждые 6 [Combustion:`Огня`] на цели (<style=\"highlight\">До 5</style>; единожды за ход)\n<style=\"highlight\">[OnSucceedAttack] Наносит [DefenseDown:`Понижение уровня защиты`] в количестве значения [DianxueDonQuixote:`Удара по меридианам - Дон Кихот`] на цели</style>"
                 }
               ]
             }

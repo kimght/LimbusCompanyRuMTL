@@ -3402,6 +3402,263 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпуск энергии",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей, не имеющих [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Выпуск энергии",
+          "desc": "<style=\"highlight\">Если своя скорость выше скорости цели на 2 и более, Сила монеты +1</style>\n[WhenUse] Сила в столкновении +1 против целей, не имеющих [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Выпуск энергии",
+          "desc": "Если своя скорость выше скорости цели на 2 и более, Сила монеты +1\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Combustion:`Огня`] на цели (До 2)</style>\n[WhenUse] Сила в столкновении +1 против целей, не имеющих [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote)\n[WhenUse] Повышает свой счётчик [Breath:`Дыхания`] на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пиронефритовый удар",
+          "desc": "[WinDuel] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на значение [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Пиронефритовый удар",
+          "desc": "<style=\"highlight\">Если быстрее цели, +1 к Силе монет за каждые 2 единицы разницы в скорости (До 2)</style>\n[WinDuel] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на значение [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на <style=\"highlight\">2</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Наносит [DefenseDown:`Понижение уровня защиты`] в количестве значения [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели (Единожды за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пиронефритовый удар",
+          "desc": "Если быстрее цели, +1 к Силе монет за каждые 2 единицы разницы в скорости (До 2)\n<style=\"highlight\">[WhenUse] Итоговая сила +1, если сумма силы своего [Breath:`Дыхания`] и [Combustion:`Огня`] на цели равна 6 и более</style>\n[WinDuel] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на значение [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит [DefenseDown:`Понижение уровня защиты`] в количестве значения [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Пожалуйста, примите все удары до последнего.",
+          "desc": "Если своя скорость выше скорости цели на 2 и более, Сила монет +1\n[WinDuel] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на значение [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Сумма силы своего [Breath:`Дыхания`] и [Combustion:`Огня`] на цели)% больше урона при критическом попадании (До 20%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [DefenseDown:`Понижение уровня защиты`] (До 2 раз за ход)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесён [DianxueHongLu:`Удар по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный урон Гневом, равный (Сила [Combustion:`Огня`] на цели × 2)% от итогового урона этой монеты (До 40%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пожалуйста, примите все удары до последнего.",
+          "desc": "Если своя скорость выше скорости цели на 2 и более, Сила монет +1\n<style=\"highlight\">[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Combustion:`Огня`] на цели равна 6 и более</style>\n[WinDuel] Получает <style=\"highlight\">5</style> [Breath:`Дыхания`]\n[WinDuel] Повышает свой счётчик [Breath:`Дыхания`] на значение [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Сумма силы своего [Breath:`Дыхания`] и [Combustion:`Огня`] на цели)% больше урона при критическом попадании (До <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Наносит 2 [DefenseDown:`Понижение уровня защиты`] (До 2 раз за ход)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цели нанесён [DianxueHongLu:`Удар по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный урон Гневом, равный (Сила [Combustion:`Огня`] на цели × 2)% от итогового урона этой монеты (До 40%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Лёгкий, словно клочок облаков",
+          "desc": "Если своя скорость выше скорости атакующего на 2 и более, Сила монеты +1\n[TurnStartBattle] Повышает свой счётчик [Breath:`Дыхания`] на 2 (Единожды за ход)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Лёгкий, словно клочок облаков",
+          "desc": "Если своя скорость выше скорости атакующего на 2 и более, Сила монеты +1\n[TurnStartBattle] Повышает свой счётчик [Breath:`Дыхания`] на <style=\"highlight\">3</style> (Единожды за ход)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }
