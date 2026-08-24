@@ -51,6 +51,10 @@
     {
       "id": "railway_1002_no_buff_in_list",
       "content": "Нет выбранных усилений."
+    },
+    {
+      "id": "railway_1002_must_participate_all",
+      "content": "Выберите всех Грешников"
     }
   ]
 }

@@ -3417,7 +3417,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 }
               ]
             }
@@ -3434,7 +3434,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 },
                 {
                   "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]</style>"
@@ -3454,7 +3454,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
@@ -3486,7 +3486,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 }
               ]
             }
@@ -3513,7 +3513,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 },
                 {
                   "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Наносит [DefenseDown:`Понижение уровня защиты`] в количестве значения [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели (Единожды за ход)</style>"
@@ -3543,7 +3543,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цели нанесёно 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttack] Если цели нанесено 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttack] Наносит [DefenseDown:`Понижение уровня защиты`] в количестве значения [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote) на цели (Единожды за ход)"

@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "select_announcer_popup_title",
+      "content": "Выберите комментатора"
+    },
+    {
+      "id": "select_announcer_popup_confirm_desc",
+      "content": "Выбрать комментатора <color=#f8c200>{0}</color>?"
+    },
+    {
+      "id": "select_announcer_popup_exchange_confirm_desc",
+      "content": "Выбор комментатора, который у вас уже есть, даст вам {0}."
+    }
+  ]
+}

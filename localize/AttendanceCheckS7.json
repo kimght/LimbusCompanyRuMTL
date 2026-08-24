@@ -1,0 +1,12 @@
+{
+  "dataList": [
+    {
+      "id": "attendance_check_s7_special_reward_condition",
+      "content": "Получается за прохождение\nПреломления - Крылатый тигр (Normal)\nдо окончания события."
+    },
+    {
+      "id": "attendance_event_s7_desc",
+      "content": "※ Получайте больше наград за каждую отметку о посещаемости в течение периода события."
+    }
+  ]
+}
