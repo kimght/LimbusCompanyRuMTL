@@ -2030,7 +2030,7 @@
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">10</style> [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [CrimsonTakeDamageUp:`Уязвимости к Гневу`] на следующий ход<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 3 [CrimsonTakeDamageUp:`Уязвимости к Гневу`] на следующий ход"
                 }
               ]
             }
@@ -3182,7 +3182,7 @@
                   "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 4<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 4"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 4</style>"
@@ -3254,7 +3254,7 @@
           "level": 5,
           "name": "Рагу жизни",
           "abName": "Васупилиск",
-          "desc": "<style=\"highlight\">Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\nНе наносит урона союзникам<style=\"highlight\"> и не вызывает активацию их защитных навыков</style>\n<style=\"highlight\">[DefeatDuel] Базовая сила -8\n[EndSkill] Если попадает по союзнику, то восстанавливает себе (Число союзников, являющихся целями этого навыка) СД\n[EndSkill] Восстанавливает себе (Число союзников, являющихся целями этого навыка × 5)% ОЗ (Минимум 5%; до 20%)\n[EndSkill] Получает 2 [Agility:`Спешки`] и 1 [GainSinStockAdder] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[nxPostLine] Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\nНе наносит урона союзникам<style=\"highlight\"> и не вызывает активацию их защитных навыков</style>\n<style=\"highlight\">[DefeatDuel] Базовая сила -8\n[EndSkill] Если попадает по союзнику, то восстанавливает себе (Число союзников, являющихся целями этого навыка) СД\n[EndSkill] Восстанавливает себе (Число союзников, являющихся целями этого навыка × 5)% ОЗ (Минимум 5%; до 20%)\n[EndSkill] Получает 2 [Agility:`Спешки`] и 1 [GainSinStockAdder] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3331,7 +3331,7 @@
           "level": 5,
           "name": "Рагу жизни",
           "abName": "Васупилиск",
-          "desc": "<style=\"highlight\">Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\n<style=\"highlight\">[DefeatDuel] Базовая сила -12\n[BeforeAttack] Наносит на 15% больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех целях этого навыка (До 60%)\n[BeforeAttack] Тратит до 3 наиболее имеющегося ЭГО Ресурса, чтобы нанести на 10% больше урона за каждую потраченную единицу (До 30%)</style>",
+          "desc": "<style=\"highlight\">[nxPostLine] Не тратит ЭГО Ресурс Чревоугодия</style>\n\n[CantIdentify]\nВыбирает цель с наименьшими ОЗ\n<style=\"highlight\">[DefeatDuel] Базовая сила -12\n[BeforeAttack] Наносит на 15% больше урона за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех целях этого навыка (До 60%)\n[BeforeAttack] Тратит до 3 наиболее имеющегося ЭГО Ресурса, чтобы нанести на 10% больше урона за каждую потраченную единицу (До 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3342,7 +3342,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
                 },
                 {
                   "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Если эффектом этого навыка [BeforeAttack] был потрачен наиболее имеющийся ЭГО Ресурс, то наносит дополнительный урон Похотью, равный 50% от итогового урона этой монеты</style>"

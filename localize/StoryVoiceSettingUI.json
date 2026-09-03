@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "select_all",
+      "content": "Выбрать все"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Отменить выбор"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Управление голосами истории"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "Выберите голосовые файлы, которые вы хотите сохранить на вашем устройстве."
+    },
+    {
+      "id": "story_voice_process_confirm_title",
+      "content": "Управление голосами истории"
+    },
+    {
+      "id": "story_voice_process_confirm_main_title",
+      "content": "Применение следующих изменений к вашим локальным голосовым файлам.\nХотите продолжить?"
+    },
+    {
+      "id": "story_voice_process_confirm_line",
+      "content": "[{0}] {1} - {2}"
+    },
+    {
+      "id": "story_voice_process_delete_label",
+      "content": "Удалить"
+    },
+    {
+      "id": "story_voice_process_download_label",
+      "content": "Скачать"
+    },
+    {
+      "id": "story_voice_process_progress_title",
+      "content": "Управление голосами истории"
+    },
+    {
+      "id": "story_voice_process_progress_desc",
+      "content": "Обработка хранения голосовых файлов..."
+    },
+    {
+      "id": "story_voice_process_applying_label",
+      "content": "Применение..."
+    },
+    {
+      "id": "story_voice_process_complete_title",
+      "content": "Управление голосами истории"
+    },
+    {
+      "id": "story_voice_process_complete_desc",
+      "content": "Голосовые файлы для выбранных глав были изменены."
+    },
+    {
+      "id": "story_voice_process_progress_count",
+      "content": "{0}/{1}"
+    }
+  ]
+}

@@ -3451,13 +3451,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если цели нанесено 3 [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
                 }
               ]
             }
@@ -3530,17 +3530,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 2<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает свой счётчик [Breath:`Дыхания`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если цели нанесено 2 и более [DianxueHongLu:`Удара по меридианам - Хон Лу`](;DianxueDonQuixote), то вновь подкидывает эту монету 1 раз"

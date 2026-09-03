@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
                 }
               ]
             }
@@ -30,7 +30,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 3 [Combustion:`Огня`]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
                 }
               ]
             }
@@ -48,7 +48,28 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит 3 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "<style=\"highlight\">[nxPostLine] Количество требуемого для активации ЭГО Ресурса Чревоугодия снижено на 1</style>\n[BeforeAttack] Количество целей повышается на 1 при 4 и более грехах в <style=\"highlight\">наибольшем резонансе</style>\n- Количество целей повышается ещё на 1 при 6 и более грехах в <style=\"highlight\">наибольшем резонансе</style>\n<style=\"highlight\">[BeforeAttack] Наносит на (Сумма силы [Combustion:`Огня`] на себе и на всех целях × 5)% больше урона (До 100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 5 [DefenseDown:`Понижений уровня защиты`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (<style=\"highlight\">До 5; не опускает силу [Combustion:`Огня`] на цели ниже 1</style>)\n<style=\"highlight\">- Если на цели менее 10 [Combustion:`Огня`], то вместо этого эффекта может потратить силу [Combustion:`Огня`] свыше 30 на себе</style>"
                 }
               ]
             }
@@ -71,7 +92,7 @@
                   "desc": "[OnSucceedAttackTail] Наносит 4 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
                 }
               ]
             }
@@ -92,7 +113,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит 4 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
                 }
               ]
             }
@@ -113,7 +134,34 @@
                   "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Превращает 2 [Combustion:`Огня`] в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (До 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Завет, 9:2",
+          "abName": "Пророк кожи",
+          "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">[nxPostLine] Количество требуемого для активации ЭГО Ресурса Чревоугодия снижено на 1</style>\n[BeforeAttack] Количество целей повышается на 1 при 4 и более грехах в <style=\"highlight\">наибольшем резонансе</style>\n- Количество целей повышается ещё на 1 при 6 и более грехах в <style=\"highlight\">наибольшем резонансе</style>\n<style=\"highlight\">[BeforeAttack] Наносит на (Сумма силы [Combustion:`Огня`] на себе и на всех целях × 5)% больше урона (До 100%)</style>\n<style=\"highlight\">[DefeatDuel] Базовая сила -10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Наносит 2 [Binding:`Связывания`] на следующий ход"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 5 [DefenseDown:`Понижений уровня защиты`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Превращает по 2 [Combustion:`Огня`] на цели в 1 [DefenseDown:`Понижение уровня защиты`] (<style=\"highlight\">До 5; не опускает силу [Combustion:`Огня`] на цели ниже 1</style>)\n<style=\"highlight\">- Если на цели менее 10 [Combustion:`Огня`], то вместо этого эффекта может потратить силу [Combustion:`Огня`] свыше 30 на себе</style>"
                 }
               ]
             }

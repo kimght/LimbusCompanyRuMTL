@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "ui_settings_popup_tab_title_change_lobby_cg",
+      "content": "Изменить фон загрузки"
+    },
+    {
+      "id": "ui_loading_cg_tab_personality",
+      "content": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Фон идентичностей</font>"
+    },
+    {
+      "id": "ui_loading_cg_tab_story",
+      "content": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Фон историй</font>"
+    },
+    {
+      "id": "ui_loading_cg_selected_count",
+      "content": "Выбрано"
+    },
+    {
+      "id": "ui_loading_cg_random_toggle",
+      "content": "Перемешать"
+    },
+    {
+      "id": "ui_loading_cg_random_warning",
+      "content": "Фоновые изображения не могут быть выбраны индивидуально при перемешивании."
+    },
+    {
+      "id": "ui_loading_cg_max_count_warning",
+      "content": "Можно выбрать до {0} изображений."
+    },
+    {
+      "id": "ui_loading_cg_chapter_title",
+      "content": "Глава {0}"
+    },
+    {
+      "id": "ui_loading_cg_chapter_lock",
+      "content": "Очистить {0}"
+    },
+    {
+      "id": "ui_loading_cg_cancel",
+      "content": "Отменить"
+    },
+    {
+      "id": "ui_loading_cg_apply",
+      "content": "Применить"
+    },
+    {
+      "id": "ui_loading_cg_random_confirm",
+      "content": "Вы уже выбрали фоновые изображения.\nОтменить выбор и перемешать?"
+    },
+    {
+      "id": "tutorial_loading_cg_01",
+      "content": "Изменить фон загрузки"
+    },
+    {
+      "id": "tutorial_loading_cg_02",
+      "content": "Изображения идентичностей и истории можно выбрать в качестве фона для загрузки."
+    },
+    {
+      "id": "tutorial_loading_cg_03",
+      "content": "Фильтры"
+    },
+    {
+      "id": "tutorial_loading_cg_04",
+      "content": "Выбор ключевых слов для фильтра изображений, которые вы хотите."
+    },
+    {
+      "id": "tutorial_loading_cg_05",
+      "content": "Просмотр выбранного изображения"
+    },
+    {
+      "id": "tutorial_loading_cg_06",
+      "content": "Здесь, вы можете просмотреть выбранные изображения. (до 10 изображений)"
+    },
+    {
+      "id": "tutorial_loading_cg_07",
+      "content": "Перемешать выбор фонов"
+    },
+    {
+      "id": "tutorial_loading_cg_08",
+      "content": "Включение функции \"Перемешать\" приведет к случайному выбору изображений, которые будут отображаться на экране загрузки."
+    }
+  ]
+}

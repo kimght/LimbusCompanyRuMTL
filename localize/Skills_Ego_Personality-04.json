@@ -56,6 +56,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "Газировка",
+          "abName": "\"Wellcheers\"",
+          "desc": "<style=\"highlight\">Наносит на 40% больше урона, если текущие ОЗ ниже 25%\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n\n[EndSkill] Даёт 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`] на следующий ход для (Число грехов в наибольшем резонансе + 2) союзников включая себя (До 7)\n[EndSkill] Если среди целей есть оглушённые или паникующие, то добавляет 1 ЭГО Ресурс к наименее имеющемуся греху и восстанавливает себе 3 СД</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 4 [Vibration:`Тремора`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": "[EnemyKill] Добавляет по 3 ЭГО Ресурса к случайному уже имеющемуся греху, а все союзники восстанавливают 3 СД"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -66,7 +87,7 @@
           "level": 1,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nСлучайная цель",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]",
           "coinlist": [
             {
               "coindescs": [
@@ -74,7 +95,7 @@
                   "desc": "[OnSucceedAttack] Наносит 4 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]"
+                  "desc": ""
                 }
               ]
             }
@@ -84,7 +105,7 @@
           "level": 3,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nСлучайная цель",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]",
           "coinlist": [
             {
               "coindescs": [
@@ -92,7 +113,7 @@
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">5</style> [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]"
+                  "desc": ""
                 }
               ]
             }
@@ -102,7 +123,7 @@
           "level": 4,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nСлучайная цель",
+          "desc": "[CantIdentify]\nСлучайная цель\n[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]<style=\"highlight\">, а также 1 [Agility:`Спешку`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -110,7 +131,34 @@
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">6</style> [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`]<style=\"highlight\">, а также 1 [Agility:`Спешку`] на следующий ход</style>"
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Газировка",
+          "abName": "\"Wellcheers\"",
+          "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">Наносит на 40% больше урона, если текущие ОЗ ниже 25%\n[DefeatDuel] Базовая сила -12\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[EndSkill] Если среди целей есть оглушённые или паникующие, то добавляет 1 ЭГО Ресурс к наименее имеющемуся греху и восстанавливает себе 3 СД</style>\n[EndSkill] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`], а также 1 [Agility:`Спешку`] на следующий ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin:`Вечная монета`]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 4 [Vibration:`Тремора`]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Sinking:`Утопания`]"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndSkillTail] Все союзники получают 1 [GainSinStockAdder:`Множитель ЭГО Ресурсов`] на следующий ход (Единожды за ход)</style>"
                 }
               ]
             }

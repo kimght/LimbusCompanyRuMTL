@@ -243,6 +243,18 @@
     {
       "id": "mainui_settings_renderingscale_warning",
       "content": "Желательно выбирать \"Высокое\" только на ПК. На мобильных устройствах рекомендуется использовать \"Среднее\" и ниже.\nБолее качественный рендер может привести к усиленному потреблению электроэнергии и нагреву устройства."
+    },
+    {
+      "id": "mainui_settings_story_voice_download_title",
+      "content": "Управление файлами озвучки истории"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_desc",
+      "content": "(Здесь можно их удалить или снова скачать)"
+    },
+    {
+      "id": "mainui_settings_story_voice_download_button",
+      "content": "Настроить"
     }
   ]
 }
