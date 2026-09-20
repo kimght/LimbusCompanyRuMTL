@@ -202,7 +202,7 @@
     },
     {
       "key": "Log_EventEffectVitals",
-      "text": "Эффект события :{0}"
+      "text": "Эффект события: {0}"
     },
     {
       "key": "Log_RecruitFullRecover",
@@ -214,19 +214,19 @@
     },
     {
       "key": "Log_NpcDefeated",
-      "text": "{0} победил ({1} уроном)"
+      "text": "{0} побежден ({1} урона)"
     },
     {
       "key": "Log_NpcDefeatedWeakness",
-      "text": "{0} победил ({1} уроном по уязвимому месту)"
+      "text": "{0} побежден ({1} урона по уязвимому месту)"
     },
     {
       "key": "Log_DamageDealt",
-      "text": "Нанесено {1} урона против {0}"
+      "text": "{0} получил {1} урона"
     },
     {
       "key": "Log_DamageDealtWeakness",
-      "text": "Нанесено {1} урона по уязвимому месту против {0}"
+      "text": "{0} получил {1} урона по уязвимому месту"
     },
     {
       "key": "Log_PlayerDead",
