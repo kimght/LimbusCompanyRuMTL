@@ -246,7 +246,7 @@
     },
     {
       "id": "all_ally_hp_increase",
-      "content": "<color=#ebcaa2>Все Грешники</color> <color=#e30000>восстанавливают {0} ОЗ</color>"
+      "content": "<color=#ebcaa2>Все Грешники</color> <color=#00ff9c>восстанавливают {0} ОЗ</color>"
     },
     {
       "id": "all_ally_mp_decrease",

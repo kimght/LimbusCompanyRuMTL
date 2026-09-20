@@ -3429,7 +3429,7 @@
         {
           "level": 1,
           "name": "Ты, противная тварь.",
-          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Консервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) ниже 10, то повышает его на 1\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
+          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Презервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) ниже 10, то повышает его на 1\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3441,7 +3441,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3"
                 }
               ]
             }
@@ -3450,7 +3450,7 @@
         {
           "level": 2,
           "name": "Ты, противная тварь.",
-          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Консервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) ниже 10, то повышает его на <style=\"highlight\">2</style>\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
+          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Презервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) ниже 10, то повышает его на <style=\"highlight\">2</style>\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3462,7 +3462,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">4</style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style>"
                 }
               ]
             }
@@ -3471,7 +3471,7 @@
         {
           "level": 4,
           "name": "Ты, противная тварь.",
-          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Консервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) ниже <style=\"highlight\">12</style>, то повышает его на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 и на 30% больше наносимого урона при 50 и более [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit)</style>\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- <style=\"highlight\">Итоговая сила</style> +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
+          "desc": "[StartBattle] При 3+ силы и 12+ счётчика [ChargeNoirAlly:`Презервации`](;ChargeNoir): тратит 6 единиц её счётчика и получает ОЗ Щита, равные 5% от своих максимальных ОЗ (До 2 раз за ход)\n[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) ниже <style=\"highlight\">12</style>, то повышает его на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 и на 30% больше наносимого урона при 50 и более [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit)</style>\n[WhenUse] Тратит до 15 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- <style=\"highlight\">Итоговая сила</style> +1\n- Наносит на (Потраченное значение × 3)% больше урона (До 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3483,7 +3483,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
                 }
               ]
             }
@@ -3497,12 +3497,12 @@
         {
           "level": 1,
           "name": "Подойди и примерь это",
-          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к Силе в столкновении и нанести на 10% больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 2\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
+          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к Силе в столкновении и нанести на 10% больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Консервации`](;ChargeNoir) + 1) (До 4)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Презервации`](;ChargeNoir) + 1) (До 4)"
                 }
               ]
             },
@@ -3519,12 +3519,12 @@
         {
           "level": 2,
           "name": "Подойди и примерь это",
-          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к Силе в столкновении и нанести на 10% больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 2\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
+          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к Силе в столкновении и нанести на 10% больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Сила в столкновении +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Консервации`](;ChargeNoir) + 1) (До <style=\"highlight\">6</style>)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Презервации`](;ChargeNoir) + 1) (До <style=\"highlight\">6</style>)"
                 }
               ]
             },
@@ -3538,7 +3538,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1</style>"
                 }
               ]
             }
@@ -3547,12 +3547,12 @@
         {
           "level": 4,
           "name": "Подойди и примерь это",
-          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к <style=\"highlight\">Итоговой силе</style> и нанести на <style=\"highlight\">20%</style> больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">4</style>\n<style=\"highlight\">[WhenUse] Наносит на 15% больше урона при 50 и более [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit)</style>\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- <style=\"highlight\">Итоговая сила</style> +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
+          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 12 и более, то тратит 6 его единиц, чтобы получить +1 к <style=\"highlight\">Итоговой силе</style> и нанести на <style=\"highlight\">20%</style> больше урона\n[WhenUse] Повышает счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style>\n<style=\"highlight\">[WhenUse] Наносит на 15% больше урона при 50 и более [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit)</style>\n[WhenUse] Тратит до 20 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- <style=\"highlight\">Итоговая сила</style> +1\n- Наносит на (Потраченное значение)% больше урона (До 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Консервации`](;ChargeNoir) + <style=\"highlight\">3</style>) (До 6)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на (Текущая сила [ChargeNoirAlly:`Презервации`](;ChargeNoir) + <style=\"highlight\">3</style>) (До 6)"
                 }
               ]
             },
@@ -3566,7 +3566,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
                 }
               ]
             }
@@ -3580,12 +3580,12 @@
         {
           "level": 3,
           "name": "Шитьё тройного тиснения",
-          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) выше 10, то тратит до 20 его единиц, чтобы увеличить урон этого навыка на (Потраченный счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir))% (До 20%)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 3\n[WhenUse] Сила в столкновении +1 и на 10% больше урона за каждые 40 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) (До +2 к Силе в столкновении; до +20% к урону)",
+          "desc": "[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) выше 10, то тратит до 20 его единиц, чтобы увеличить урон этого навыка на (Потраченный счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir))% (До 20%)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3\n[WhenUse] Сила в столкновении +1 и на 10% больше урона за каждые 40 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) (До +2 к Силе в столкновении; до +20% к урону)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3"
                 }
               ]
             },
@@ -3602,7 +3602,7 @@
                   "desc": "На (Текущее значение [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) / 2)% больше урона (До 50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1 (При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) активирует этот эффект дважды)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1 (При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) активирует этот эффект дважды)"
                 },
                 {
                   "desc": ""
@@ -3614,12 +3614,12 @@
         {
           "level": 4,
           "name": "Шитьё тройного тиснения",
-          "desc": "<style=\"highlight\">[StartBattle] Повышает значение [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) на 20 (Единожды за ход)</style>\n[WhenUse] Если счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir) выше 10, то тратит до 20 его единиц, чтобы увеличить урон этого навыка на (Потраченный счётчик [ChargeNoirAlly:`Консервации`](;ChargeNoir))% (До 20%)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">5</style>\n[WhenUse] Сила в столкновении +1 и на <style=\"highlight\">20%</style> больше урона за каждые <style=\"highlight\">30</style> [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) (До +<style=\"highlight\">3</style> к Силе в столкновении; до +<style=\"highlight\">60%</style> к урону)",
+          "desc": "<style=\"highlight\">[StartBattle] Повышает значение [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) на 20 (Единожды за ход)</style>\n[WhenUse] Если счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir) выше 10, то тратит до 20 его единиц, чтобы увеличить урон этого навыка на (Потраченный счётчик [ChargeNoirAlly:`Презервации`](;ChargeNoir))% (До 20%)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>\n[WhenUse] Сила в столкновении +1 и на <style=\"highlight\">20%</style> больше урона за каждые <style=\"highlight\">30</style> [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) (До +<style=\"highlight\">3</style> к Силе в столкновении; до +<style=\"highlight\">60%</style> к урону)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
                 }
               ]
             },
@@ -3636,7 +3636,7 @@
                   "desc": "На <style=\"highlight\">(</style>Текущее значение [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit)<style=\"highlight\">)%</style> больше урона (До <style=\"highlight\">100%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1 (При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) активирует этот эффект <style=\"highlight\">трижды</style>)"
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1 (При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) активирует этот эффект <style=\"highlight\">трижды</style>)"
                 },
                 {
                   "desc": ""
@@ -3653,7 +3653,7 @@
         {
           "level": 1,
           "name": "Тц. Тупоголовый покупатель. Ты мнёшь товар!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
           "coinlist": [
             {},
             {
@@ -3671,7 +3671,7 @@
         {
           "level": 3,
           "name": "Тц. Тупоголовый покупатель. Ты мнёшь товар!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n<style=\"highlight\">[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n<style=\"highlight\">[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
           "coinlist": [
             {},
             {
@@ -3689,7 +3689,7 @@
         {
           "level": 4,
           "name": "Тц. Тупоголовый покупатель. Ты мнёшь товар!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1/+2 при 3+/5+ силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) соответственно</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1/+2 при 3+/5+ силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) соответственно</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
           "coinlist": [
             {},
             {
@@ -3712,12 +3712,12 @@
         {
           "level": 3,
           "name": "Одиночный удар - Множественный шов",
-          "desc": "[WhenUse]\n- Тратит до 20 единиц счётчика [ChargeNoirAlly:`Консервации`](;ChargeNoir), чтобы нанести на (Потраченный счётчик)% больше урона (До 20%)\n- Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 3\n[WhenUse] Тратит до 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Итоговая сила +1, если было потрачено 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation)\n- Наносит на (Потраченное значение / 3)% больше урона (До 20%)",
+          "desc": "[WhenUse]\n- Тратит до 20 единиц счётчика [ChargeNoirAlly:`Презервации`](;ChargeNoir), чтобы нанести на (Потраченный счётчик)% больше урона (До 20%)\n- Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3\n[WhenUse] Тратит до 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Итоговая сила +1, если было потрачено 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation)\n- Наносит на (Потраченное значение / 3)% больше урона (До 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на 3"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3"
                 }
               ]
             },
@@ -3727,14 +3727,14 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`] и повышает его счётчик на 3"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 2 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] При 2 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
                 }
               ]
             },
@@ -3753,12 +3753,12 @@
         {
           "level": 4,
           "name": "Одиночный удар - Множественный шов",
-          "desc": "[WhenUse]\n- Тратит до 20 единиц счётчика [ChargeNoirAlly:`Консервации`](;ChargeNoir), чтобы нанести на (Потраченный счётчик)% больше урона (До 20%)\n- Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">5</style>\n[WhenUse] Тратит до 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Итоговая сила +1 <style=\"highlight\">за каждые 30 потраченного</style> [RealisationAlly:`Бодрствующего доспеха`](;Realisation) <style=\"highlight\">(До 2)</style>\n- Наносит на (Потраченное значение / 3)% больше урона (До 20%)",
+          "desc": "[WhenUse]\n- Тратит до 20 единиц счётчика [ChargeNoirAlly:`Презервации`](;ChargeNoir), чтобы нанести на (Потраченный счётчик)% больше урона (До 20%)\n- Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>\n[WhenUse] Тратит до 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) для следующих эффектов:\n- Итоговая сила +1 <style=\"highlight\">за каждые 30 потраченного</style> [RealisationAlly:`Бодрствующего доспеха`](;Realisation) <style=\"highlight\">(До 2)</style>\n- Наносит на (Потраченное значение / 3)% больше урона (До 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Консервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
                 }
               ]
             },
@@ -3768,14 +3768,14 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`] и повышает его счётчик на 3"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] При 3 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] При 2 и более силы [ChargeNoirAlly:`Консервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] При 2 и более силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит дополнительный Пронзающий урон, равный 10% от итогового урона этой монеты</style>"
