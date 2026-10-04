@@ -142,7 +142,7 @@
         {
           "level": 1,
           "name": "Подрывной сокрущающий разрез【爆碎斬】",
-          "desc": "Выбирает целью [Prey:`Добычу`]\n[nxCenterLine]\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[DefeatDuel] Теряет 10 СД",
+          "desc": "Выбирает целью [Prey:`Добычу`]\n[nxCenterLine]\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[DefeatDuel] Теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -453,7 +453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -569,7 +569,7 @@
         {
           "level": 1,
           "name": "Спиральное искривляющее поле",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Цзя Хуань и Губо получают 30 ОЗ Щита\n[WinDuel] Цзя Хуань и Губо получают ещё 30 ОЗ Щита",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Цзя Хуань и Губо получают 30 <color=#366ffb>OЗ Щита</color>\n[WinDuel] Цзя Хуань и Губо получают ещё 30 <color=#366ffb>OЗ Щита</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -667,7 +667,7 @@
         {
           "level": 1,
           "name": "Пуля, окрашенная кровью товарища",
-          "desc": "[CantChangeTarget]\nВыбирает целью Ассистентов Корп. N\n- Если эта цель оказалась мертва к моменту использования навыка, отменяет его\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n[EndBattle] Восстанавливает 20 СД",
+          "desc": "[CantChangeTarget]\nВыбирает целью Ассистентов Корп. N\n- Если эта цель оказалась мертва к моменту использования навыка, отменяет его\n[WhenUse] Получает 5 [Breath:`Дыхания`]\n[EndBattle] Восстанавливает 20 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -675,7 +675,7 @@
                   "desc": "Эта монета наносит урон только главной цели"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Следующая монета наносит дополнительный урон <color=#014fd6>Гордыней</color> в размере оставшихся ОЗ цели этой монеты"
+                  "desc": "[OnSucceedAttack] Следующая монета наносит дополнительный урон <color=#014fd6>Гордыней</color> в размере оставшихся <color=#00ff9c>ОЗ</color> цели этой монеты"
                 },
                 {
                   "desc": "[OnSucceedAttack] Убивает цель"
@@ -708,7 +708,7 @@
         {
           "level": 1,
           "name": "Пуля, разбивающая вдребезги все воспоминания",
-          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\nНаносит на 10% больше урона за каждое [BoseProjektilReplica:`Разорванное воспоминение`] (До 70%)\n[WhenUse] Теряет 10 СД\n[EndSkill] Теряет все [BoseProjektilReplica:`Разорванные воспоминания`]",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\nНаносит на 10% больше урона за каждое [BoseProjektilReplica:`Разорванное воспоминение`] (До 70%)\n[WhenUse] Теряет 10 <color=#80c9ff>СД</color>\n[EndSkill] Теряет все [BoseProjektilReplica:`Разорванные воспоминания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -722,7 +722,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -738,7 +738,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -754,7 +754,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -770,7 +770,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -901,7 +901,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -914,7 +914,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -927,7 +927,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -986,7 +986,7 @@
         {
           "level": 1,
           "name": "Завершённый болюс Хуэйсянь - Юй【酉】 - Защита",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WhenUse] Сила монет +2 против целей с 5 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Burst:`Разрыва`]\n[WhenUse] Восстанавливает 8 СД\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 2",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WhenUse] Сила монет +2 против целей с 5 и более единицами в сумме силы [Laceration:`Кровотечения`] и [Burst:`Разрыва`]\n[WhenUse] Восстанавливает 8 <color=#80c9ff>СД</color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1105,7 +1105,7 @@
         {
           "level": 1,
           "name": "Ты не можешь познать судьбу иерарха без заботы Сяньжэнь!",
-          "desc": "[WhenUse] Восстанавливает 25 СД\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
+          "desc": "[WhenUse] Восстанавливает 25 <color=#80c9ff>СД</color>\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
           "coinlist": [
             {
               "coindescs": [
@@ -1156,7 +1156,7 @@
         {
           "level": 1,
           "name": "Ничего, кроме бессмысленной борьбы...!",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WinDuel] Цзя Му восстанавливает 15 СД (Если её СД на 0, она восстанавливает 30 СД вместо этого)",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WinDuel] Цзя Му восстанавливает 15 <color=#80c9ff>СД</color> (Если её <color=#80c9ff>СД</color> на 0, она восстанавливает 30 <color=#80c9ff>СД</color> вместо этого)",
           "coinlist": [
             {
               "coindescs": [
@@ -1175,7 +1175,7 @@
         {
           "level": 1,
           "name": "Вы не можете повернуть ход событий",
-          "desc": "[WhenUse] Впадает в [OutpouringAnger:`Буйство`]\n[WhenUse] Восстанавливает 8 СД\n[WhenUse] Если ОЗ главной цели ниже 50%, или же её сумма силы [Laceration:`Кровотечения`] и [Burst:`Разрыва`] равна 10 и более, все монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Получает 1 [Vulnerable:`Уязвимость`]\n- Если столкновение было с Хон Лу, получает ещё 1 [Vulnerable:`Уязвимость`]",
+          "desc": "[WhenUse] Впадает в [OutpouringAnger:`Буйство`]\n[WhenUse] Восстанавливает 8 <color=#80c9ff>СД</color>\n[WhenUse] Если <color=#00ff9c>ОЗ</color> главной цели ниже 50%, или же её сумма силы [Laceration:`Кровотечения`] и [Burst:`Разрыва`] равна 10 и более, все монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Получает 1 [Vulnerable:`Уязвимость`]\n- Если столкновение было с Хон Лу, получает ещё 1 [Vulnerable:`Уязвимость`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1186,13 +1186,13 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД и поднимает Границу Выносливости на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color> и поднимает Границу Выносливости на 50% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 8 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 8 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1206,7 +1206,7 @@
         {
           "level": 1,
           "name": "Глава без благословения Сяньжэнь лишь ничто. Она умрет смертью насекомого!!!",
-          "desc": "[WhenUse] При менее чем 50% ОЗ Ядра: все монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] При 30% ОЗ Ядра и менее: Сила монет +3 и на 30% больше урона\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
+          "desc": "[WhenUse] При менее чем 50% <color=#00ff9c>ОЗ</color> Ядра: все монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] При 30% <color=#00ff9c>ОЗ</color> Ядра и менее: Сила монет +3 и на 30% больше урона\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
           "coinlist": [
             {
               "coindescs": [
@@ -1220,7 +1220,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 3"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -1236,7 +1236,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1250,7 +1250,7 @@
         {
           "level": 1,
           "name": "Большая честь быть в присутствии столь великих людей",
-          "desc": "[nxCenterLine]\nНе может быть Оглушена до окончания использования этой атаки\n[WhenUse] Тело получает 2 [Enhancement:`Повышения силы атаки`], 2 [Endurance:`Повышения силы защиты`], и 2 [AttackDmgUp:`Повышения урона`] на следующий ход\n[WhenUse] Восстанавливает СД до 30\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
+          "desc": "[nxCenterLine]\nНе может быть Оглушена до окончания использования этой атаки\n[WhenUse] Тело получает 2 [Enhancement:`Повышения силы атаки`], 2 [Endurance:`Повышения силы защиты`], и 2 [AttackDmgUp:`Повышения урона`] на следующий ход\n[WhenUse] Восстанавливает <color=#80c9ff>СД</color> до 30\n[DefeatDuel] Наносит на 50% меньше урона и не может Оглушить целей",
           "coinlist": [
             {
               "coindescs": [
@@ -1272,7 +1272,7 @@
         {
           "level": 1,
           "name": "Будьте с этой маленькой девочкой, о Сяньжэнь",
-          "desc": "[StartBattle] Тело и Ядро получают ОЗ Щита на 10% от их максимальных ОЗ\n[WhenUse] Тело получает 1 [Enhancement:`Повышение силы атаки`], 1 [Endurance:`Повышение силы защиты`], и 2 [AttackDmgUp:`Повышения урона`] на следующий ход\n[WhenUse] Восстанавливает 15 СД",
+          "desc": "[StartBattle] Тело и Ядро получают <color=#366ffb>OЗ Щита</color> на 10% от их максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] Тело получает 1 [Enhancement:`Повышение силы атаки`], 1 [Endurance:`Повышение силы защиты`], и 2 [AttackDmgUp:`Повышения урона`] на следующий ход\n[WhenUse] Восстанавливает 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1313,12 +1313,12 @@
         {
           "level": 1,
           "name": "Пожалуйста, Ши Миин, дай мне свою силу!",
-          "desc": "Сила монет +1, если у цели 50% ОЗ и более",
+          "desc": "Сила монет +1, если у цели 50% <color=#00ff9c>ОЗ</color> и более",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Среди целей без [ImperfectEternalLife:`Несовершенного бессмертия`], восстанавливает 15% ОЗ одной из них с наименьшими ОЗ"
+                  "desc": "[OnSucceedAttack] Среди целей без [ImperfectEternalLife:`Несовершенного бессмертия`], восстанавливает 15% <color=#00ff9c>ОЗ</color> одной из них с наименьшими <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
@@ -1328,7 +1328,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Среди целей без [ImperfectEternalLife:`Несовершенного бессмертия`], восстанавливает 15% ОЗ одной из них с наименьшими ОЗ"
+                  "desc": "[OnSucceedAttack] Среди целей без [ImperfectEternalLife:`Несовершенного бессмертия`], восстанавливает 15% <color=#00ff9c>ОЗ</color> одной из них с наименьшими <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
@@ -1345,7 +1345,7 @@
         {
           "level": 1,
           "name": "Подношение высшей эссенции бессмертия【極仙榨滴供養】",
-          "desc": "Случайные цели\nНе наносит урона Старейшнам\n[nxCenterLine]\nНельзя Оглушить до окончания использования этой атаки\n[WhenUse] Сила монет +2 и на 20% больше урона за каждого Старейшину с эффектом [SupremeEternalLife:`Возвышенного бессмертия`]\n[WhenUse] Если не осталось Старейшин с эффектом [SupremeEternalLife:`Возвышенного бессмертия`], все цели получают 200 ОЗ Щита\n[EndSkill] Заканчивает этот ход",
+          "desc": "Случайные цели\nНе наносит урона Старейшнам\n[nxCenterLine]\nНельзя Оглушить до окончания использования этой атаки\n[WhenUse] Сила монет +2 и на 20% больше урона за каждого Старейшину с эффектом [SupremeEternalLife:`Возвышенного бессмертия`]\n[WhenUse] Если не осталось Старейшин с эффектом [SupremeEternalLife:`Возвышенного бессмертия`], все цели получают 200 <color=#366ffb>OЗ Щита</color>\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1353,7 +1353,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если целью стал Старейшина, перенимает его [ImperfectEternalLife:`Несовершенное бессмертие`] и оставшиеся ОЗ на все свои части в следующем ходе, а сам Старейшина исчезает"
+                  "desc": "[OnSucceedAttack] Если целью стал Старейшина, перенимает его [ImperfectEternalLife:`Несовершенное бессмертие`] и оставшиеся <color=#00ff9c>ОЗ</color> на все свои части в следующем ходе, а сам Старейшина исчезает"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 8 [Laceration:`Кровотечения`] и 8 [Burst:`Разрыва`]"
@@ -1378,7 +1378,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Vulnerable:`Уязвимость`] на следующий ход"
@@ -1395,7 +1395,7 @@
         {
           "level": 1,
           "name": "Я буду послушным",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WinDuel] Цзя Му восстанавливает 15 СД (Если её СД на 0, она восстанавливает 30 СД вместо этого)",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[WinDuel] Цзя Му восстанавливает 15 <color=#80c9ff>СД</color> (Если её <color=#80c9ff>СД</color> на 0, она восстанавливает 30 <color=#80c9ff>СД</color> вместо этого)",
           "coinlist": [
             {
               "coindescs": [
@@ -1414,7 +1414,7 @@
         {
           "level": 1,
           "name": "Я буду твоим развлечением",
-          "desc": "[CantDuel]\n[EndSkill] Самоуничтожается, а Цзя Му восстанавливает свою СД до 45 и получает 2 [Enhancement:`Повышения силы атаки`] с 5 [AttackDmgUp:`Повышениями урона`] на следующий ход",
+          "desc": "[CantDuel]\n[EndSkill] Самоуничтожается, а Цзя Му восстанавливает свою <color=#80c9ff>СД</color> до 45 и получает 2 [Enhancement:`Повышения силы атаки`] с 5 [AttackDmgUp:`Повышениями урона`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1422,7 +1422,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД "
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color> "
                 },
                 {
                   "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 50% от нанесённого урона"
@@ -1439,12 +1439,12 @@
         {
           "level": 1,
           "name": "Даруй мне свою жизненную силу",
-          "desc": "Сила монет +1, если у цели 50% ОЗ и более",
+          "desc": "Сила монет +1, если у цели 50% <color=#00ff9c>ОЗ</color> и более",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 20% от максимальных ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 20% от максимальных <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
@@ -1454,7 +1454,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 20% от максимальных ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 20% от максимальных <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Burst:`Разрыва`]"
@@ -1471,7 +1471,7 @@
         {
           "level": 1,
           "name": "Порадуй же меня",
-          "desc": "Сила в столкновении +2, если ОЗ цели выше 50%\n[WhenUse] Восстанавливает 10 СД Цзя Му",
+          "desc": "Сила в столкновении +2, если <color=#00ff9c>ОЗ</color> цели выше 50%\n[WhenUse] Восстанавливает 10 <color=#80c9ff>СД</color> Цзя Му",
           "coinlist": [
             {
               "coindescs": [

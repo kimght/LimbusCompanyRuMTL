@@ -3,8 +3,8 @@
     {
       "id": 1038,
       "panicName": "Ночь в подворотнях",
-      "lowMoraleDescription": "Получает 1 [Enhancement:`Повышение силы атаки`], 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] и 1 [Vulnerable:`Уязвимость`]",
-      "panicDescription": "Получает 2 [Enhancement:`Повышения силы атаки`], 2 [TakeHpHealIncrease:`Повышения восстановления ОЗ`] и 1 [Vulnerable:`Уязвимость`]"
+      "lowMoraleDescription": "Получает 1 [Enhancement:`Повышение силы атаки`], 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] и 1 [Vulnerable:`Уязвимость`]",
+      "panicDescription": "Получает 2 [Enhancement:`Повышения силы атаки`], 2 [TakeHpHealIncrease:`Повышения восстановления <color=#00ff9c>ОЗ</color>`] и 1 [Vulnerable:`Уязвимость`]"
     },
     {
       "id": 1039,

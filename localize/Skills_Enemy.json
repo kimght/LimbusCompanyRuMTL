@@ -16,7 +16,7 @@
         {
           "level": 1,
           "name": "Удержание",
-          "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход и восстанавливает 5% ОЗ"
+          "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход и восстанавливает 5% <color=#00ff9c>ОЗ</color>"
         }
       ]
     },
@@ -96,7 +96,7 @@
         {
           "level": 1,
           "name": "Волны разума",
-          "desc": "[5xPostLine]\n[OnSucceedAttack] Цель теряет 20 СД"
+          "desc": "[5xPostLine]\n[OnSucceedAttack] Цель теряет 20 <color=#80c9ff>СД</color>"
         }
       ]
     },
@@ -635,14 +635,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -680,7 +680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 15 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 15 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -709,7 +709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -905,7 +905,7 @@
         {
           "level": 1,
           "name": "Зазубрины",
-          "desc": "[BeforeAttack] Если ОЗ цели менее 50%, использует первые 2 монеты ещё раз",
+          "desc": "[BeforeAttack] Если <color=#00ff9c>ОЗ</color> цели менее 50%, использует первые 2 монеты ещё раз",
           "coinlist": [
             {
               "coindescs": [
@@ -1162,21 +1162,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 2 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 2 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1203,7 +1203,7 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Цель теряет 5 СД",
+          "desc": "[WinDuel] Цель теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {},
             {},
@@ -1224,7 +1224,7 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "Если СД цели ниже 0, Сила навыка +1",
+          "desc": "Если <color=#80c9ff>СД</color> цели ниже 0, Сила навыка +1",
           "coinlist": [
             {}
           ]
@@ -1237,7 +1237,7 @@
         {
           "level": 1,
           "name": "¡Olé!",
-          "desc": "[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -1263,7 +1263,7 @@
         {
           "level": 1,
           "name": "Pasos Pasionales",
-          "desc": "[WhenUse] Восстанавливает 5 СД",
+          "desc": "[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1303,7 +1303,7 @@
         {
           "level": 1,
           "name": "¿Eso es todo?",
-          "desc": "[WinDuel] Противник теряет 10 СД",
+          "desc": "[WinDuel] Противник теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1362,7 +1362,7 @@
         {
           "level": 1,
           "name": "Pañata Party~!",
-          "desc": "[WhenUse] Если СД цели ниже 0, вероятность критического удара повышается на значение отрицательной СД цели (До 45%)",
+          "desc": "[WhenUse] Если <color=#80c9ff>СД</color> цели ниже 0, вероятность критического удара повышается на значение отрицательной <color=#80c9ff>СД</color> цели (До 45%)",
           "coinlist": [
             {
               "coindescs": [
@@ -1381,7 +1381,7 @@
         {
           "level": 1,
           "name": "¡Excelente!",
-          "desc": "[OnSucceedEvade] Атакующий теряет 5 СД, а своя Граница Выносливости понижается на 5",
+          "desc": "[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>, а своя Граница Выносливости понижается на 5",
           "coinlist": [
             {}
           ]
@@ -1394,7 +1394,7 @@
         {
           "level": 1,
           "name": "Порву тебя на части",
-          "desc": "Сила навыка +1 против целей с меньшей СД",
+          "desc": "Сила навыка +1 против целей с меньшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1425,7 +1425,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 15 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 15 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1439,13 +1439,13 @@
         {
           "level": 1,
           "name": "Поток брани",
-          "desc": "[WinDuel] Восстанавливает 10 СД случайному союзнику",
+          "desc": "[WinDuel] Восстанавливает 10 <color=#80c9ff>СД</color> случайному союзнику",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1459,7 +1459,7 @@
         {
           "level": 1,
           "name": "Эй!",
-          "desc": "[WinDuel] Цель теряет 15 СД",
+          "desc": "[WinDuel] Цель теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1491,7 +1491,7 @@
         {
           "level": 1,
           "name": "Расшибу твою черепушку",
-          "desc": "Сила навыка +1 против целей с меньшей СД",
+          "desc": "Сила навыка +1 против целей с меньшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1583,7 +1583,7 @@
         {
           "level": 1,
           "name": "Активация HP пули",
-          "desc": "[WhenUse] Восстанавливает 10 ОЗ",
+          "desc": "[WhenUse] Восстанавливает 10 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -1981,7 +1981,7 @@
         {
           "level": 1,
           "name": "Единство",
-          "desc": "[WinDuel] Восстанавливает 15 СД двум союзникам с наименьшей СД",
+          "desc": "[WinDuel] Восстанавливает 15 <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2086,7 +2086,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10 СД двум союзникам с наименьшей СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2139,7 +2139,7 @@
         {
           "level": 1,
           "name": "Колющий удар",
-          "desc": "Если свои ОЗ менее 50%, наносит ещё 1 [Nail:`Гвоздь Корп. N`] монетами",
+          "desc": "Если свои <color=#00ff9c>ОЗ</color> менее 50%, наносит ещё 1 [Nail:`Гвоздь Корп. N`] монетами",
           "coinlist": [
             {
               "coindescs": [
@@ -2590,7 +2590,7 @@
         {
           "level": 1,
           "name": "Вспышка; Вспышка;",
-          "desc": "[WhenUse] Цель теряет 10 СД",
+          "desc": "[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -3478,7 +3478,7 @@
         {
           "level": 1,
           "name": "Финальный разогрев",
-          "desc": "[StartBattle] Получает 4 [Protection:`Защищённости`] и восстанавливает 15 СД",
+          "desc": "[StartBattle] Получает 4 [Protection:`Защищённости`] и восстанавливает 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3555,7 +3555,7 @@
         {
           "level": 1,
           "name": "Укрытие, укрытие!",
-          "desc": "[StartBattle] Восстанавливает 5% от максимальных ОЗ",
+          "desc": "[StartBattle] Восстанавливает 5% от максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -3629,7 +3629,7 @@
         {
           "level": 1,
           "name": "В укрытие!",
-          "desc": "[StartBattle] Восстанавливает 5% от максимальных ОЗ",
+          "desc": "[StartBattle] Восстанавливает 5% от максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -3641,8 +3641,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Введение ОЗ ампулы",
-          "desc": "[CantDuel]\n[WhenUse] Нацеливается на союзников\nВосстанавливает ОЗ вместо нанесения урона",
+          "name": "Введение OЗ ампулы",
+          "desc": "[CantDuel]\n[WhenUse] Нацеливается на союзников\nВосстанавливает <color=#00ff9c>ОЗ</color> вместо нанесения урона",
           "coinlist": [
             {
               "coindescs": [
@@ -4179,7 +4179,7 @@
         {
           "level": 1,
           "name": "Жидкостная защита",
-          "desc": "[WhenUse] Восстанавливает 5% от максимальных ОЗ и получает 2 [Vulnerable:`Уязвимости`] на следующий ход\n[EndBattle] Теряет всё [Tipsiness:`Опьянение`]",
+          "desc": "[WhenUse] Восстанавливает 5% от максимальных <color=#00ff9c>ОЗ</color> и получает 2 [Vulnerable:`Уязвимости`] на следующий ход\n[EndBattle] Теряет всё [Tipsiness:`Опьянение`]",
           "coinlist": [
             {
               "coindescs": [
@@ -4412,7 +4412,7 @@
         {
           "level": 1,
           "name": "Посторонним вход воспрещён",
-          "desc": "Нацеливается на противника с наибольшими ОЗ",
+          "desc": "Нацеливается на противника с наибольшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {},
             {
@@ -4560,10 +4560,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет ещё 5 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет ещё 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -4635,7 +4635,7 @@
         {
           "level": 1,
           "name": "Посторонним вход воспрещён",
-          "desc": "Нацеливается на противника с наибольшими ОЗ",
+          "desc": "Нацеливается на противника с наибольшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {},
             {

@@ -65,7 +65,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`] и повышает его счётчик на 3"
@@ -110,10 +110,10 @@
                   "desc": "[OnSucceedAttack] Случайно накладывает 3 [Protection:`Защищённости`], [Enhancement:`Повышения силы атаки`], [Vulnerable:`Уязвимости`] или [Paralysis:`Паралича`] на цель"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД, равный счётчику своего [Charge:`Заряда`]"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color>, равный счётчику своего [Charge:`Заряда`]"
                 },
                 {
-                  "desc": "[EnemyKill] Все противники теряют 10 СД"
+                  "desc": "[EnemyKill] Все противники теряют 10 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[EnemyKillFail] Получает 2 [Paralysis:`Паралича`] на следующий ход"

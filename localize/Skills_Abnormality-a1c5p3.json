@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД в количестве зажжённых свечей"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color> в количестве зажжённых свечей"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД в количестве зажжённых свечей"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color> в количестве зажжённых свечей"
                 }
               ]
             }
@@ -64,12 +64,12 @@
         {
           "level": 1,
           "name": "9:2",
-          "desc": "Гасит все Свечи в следующем ходе\nПри попадании по [AaCePcBa:`Помеченным`] целям, они теряют ещё 5% от максимальных ОЗ\n[DefeatDuel] Наносит 10 [Combustion:`Огня`] и [AaCePcBa:`Помечает`] цель в следующем ходе\n[EndBattle] Все Свечи восстанавливаются до максимальных ОЗ",
+          "desc": "Гасит все Свечи в следующем ходе\nПри попадании по [AaCePcBa:`Помеченным`] целям, они теряют ещё 5% от максимальных <color=#00ff9c>ОЗ</color>\n[DefeatDuel] Наносит 10 [Combustion:`Огня`] и [AaCePcBa:`Помечает`] цель в следующем ходе\n[EndBattle] Все Свечи восстанавливаются до максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ цели снижаются на 10%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> цели снижаются на 10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`] и повышает его счётчик на 2"
@@ -79,7 +79,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ цели снижаются на 10%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> цели снижаются на 10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`] и повышает его счётчик на 2"
@@ -96,12 +96,12 @@
         {
           "level": 1,
           "name": "6:5",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nСам получает урон вместо цели и Оглушается в следующем ходе\n[AaCePcBa:`Помечает`] случайного противника без этого эффекта\n[EndBattle] Все Свечи восстанавливаются до максимальных ОЗ",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nСам получает урон вместо цели и Оглушается в следующем ходе\n[AaCePcBa:`Помечает`] случайного противника без этого эффекта\n[EndBattle] Все Свечи восстанавливаются до максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ Пророка Кожи снижаются на 10%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> Пророка Кожи снижаются на 10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 10 [Combustion:`Огня`]"
@@ -111,7 +111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ Пророка Кожи снижаются на 10%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> Пророка Кожи снижаются на 10%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 10 [Combustion:`Огня`]"
@@ -185,7 +185,7 @@
         {
           "level": 1,
           "name": "Чтобы всё сгорело",
-          "desc": "[StartBattle] Получает 20 ОЗ Щита\nГасит все свечи в следующем ходе и затем щит спадает",
+          "desc": "[StartBattle] Получает 20 <color=#366ffb>OЗ Щита</color>\nГасит все свечи в следующем ходе и затем щит спадает",
           "coinlist": [
             {
               "coindescs": [
@@ -334,7 +334,7 @@
                   "desc": "[OnSucceedAttack] Наносит 10 [Poison:`Яда`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 7 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 7 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [AaCePcBg:`Личинки`]"
@@ -469,7 +469,7 @@
         {
           "level": 1,
           "name": "Слепая одержимость",
-          "desc": "[DefeatDuel] Часть «Флуоресцентные лампы» теряет 34% от максимальных ОЗ\n[DefeatDuel] Получает 1 [AaCePcBc:`Слепую одержимость`](#298e86)",
+          "desc": "[DefeatDuel] Часть «Флуоресцентные лампы» теряет 34% от максимальных <color=#00ff9c>ОЗ</color>\n[DefeatDuel] Получает 1 [AaCePcBc:`Слепую одержимость`](#298e86)",
           "coinlist": [
             {
               "coindescs": [
@@ -526,7 +526,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Получает -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери СД`] на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери <color=#80c9ff>СД</color>`] на следующий ход"
                 }
               ]
             },
@@ -547,7 +547,7 @@
         {
           "level": 1,
           "name": "Блуждающая слепая одержимость",
-          "desc": "[CantDuel]\n[CantChangeTarget] Нацеливается на Расколотые обломки\n[EndSkill] Часть «Флуоресцентные лампы» теряет 34% от максимальных ОЗ\n[EndBattle] Получает 1 [AaCePcBc:`Слепую одержимость`](#298e86)",
+          "desc": "[CantDuel]\n[CantChangeTarget] Нацеливается на Расколотые обломки\n[EndSkill] Часть «Флуоресцентные лампы» теряет 34% от максимальных <color=#00ff9c>ОЗ</color>\n[EndBattle] Получает 1 [AaCePcBc:`Слепую одержимость`](#298e86)",
           "coinlist": [
             {
               "coindescs": [
@@ -636,7 +636,7 @@
         {
           "level": 1,
           "name": "Усугубление раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -677,7 +677,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -687,7 +687,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -697,7 +697,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -707,7 +707,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -788,7 +788,7 @@
         {
           "level": 1,
           "name": "Вырезание раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -836,7 +836,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -846,7 +846,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -856,7 +856,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -866,7 +866,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1109,21 +1109,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ Ядра и Частей на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Ядра и Частей на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ Ядра и Частей на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Ядра и Частей на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ Ядра и Частей на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Ядра и Частей на 50% от нанесённого урона"
                 }
               ]
             }
@@ -1137,7 +1137,7 @@
         {
           "level": 1,
           "name": "Должна... защитить",
-          "desc": "[TurnStartBattle] При использовании этого навыка, если больше 0 [AaCePcBr:`Барьера поддержки`], активирует [AaCePcBs:`Защитную поддержку`]\n[StartBattle] Получает 10% от максимальных ОЗ в виде [AaCePcBr:`Барьера поддержки`]",
+          "desc": "[TurnStartBattle] При использовании этого навыка, если больше 0 [AaCePcBr:`Барьера поддержки`], активирует [AaCePcBs:`Защитную поддержку`]\n[StartBattle] Получает 10% от максимальных <color=#00ff9c>ОЗ</color> в виде [AaCePcBr:`Барьера поддержки`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1161,7 +1161,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ Ядра и Частей на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Ядра и Частей на 50% от нанесённого урона"
                 }
               ]
             },
@@ -1171,7 +1171,7 @@
                   "desc": "[OnSucceedAttack] Наносит [AaCePcBk:`Опутывание`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ Ядра и Частей на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Ядра и Частей на 50% от нанесённого урона"
                 }
               ]
             }
@@ -1397,7 +1397,7 @@
         {
           "level": 1,
           "name": "Подчинись моим приказам",
-          "desc": "[WhenUse] Восстанавливает 10 СД себе и союзнику с наименьшей СД",
+          "desc": "[WhenUse] Восстанавливает 10 <color=#80c9ff>СД</color> себе и союзнику с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1513,7 +1513,7 @@
         {
           "level": 1,
           "name": "Безрассудство!",
-          "desc": "[WhenUse] Восстанавливает 5 СД\n[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>\n[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1551,7 +1551,7 @@
         {
           "level": 1,
           "name": "Будь бесстрашным!",
-          "desc": "[WhenUse] Восстанавливает 10 СД, а другой союзник с наибольшей СД теряет 10 СД",
+          "desc": "[WhenUse] Восстанавливает 10 <color=#80c9ff>СД</color>, а другой союзник с наибольшей <color=#80c9ff>СД</color> теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1593,7 +1593,7 @@
         {
           "level": 1,
           "name": "Смертельная закалка",
-          "desc": "[WhenUse] Отдаёт [AaCePcBn:`Неоспоримый приказ`](#d61c00) союзнику с наименьшей СД\n[DefeatDuel] Повышает гранцу выносливости на 20 союзнику с наименьшей СД",
+          "desc": "[WhenUse] Отдаёт [AaCePcBn:`Неоспоримый приказ`](#d61c00) союзнику с наименьшей <color=#80c9ff>СД</color>\n[DefeatDuel] Повышает гранцу выносливости на 20 союзнику с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1644,7 +1644,7 @@
         {
           "level": 1,
           "name": "Смертельный удар",
-          "desc": "Нацеливается на противника с наименьшими максимальными ОЗ",
+          "desc": "Нацеливается на противника с наименьшими максимальными <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1683,7 +1683,7 @@
         {
           "level": 1,
           "name": "Мутная невинность",
-          "desc": "[DefeatDuel] Получает 2 [Disarming:`Понижения силы защиты`] и теряет 10 СД",
+          "desc": "[DefeatDuel] Получает 2 [Disarming:`Понижения силы защиты`] и теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1715,7 +1715,7 @@
         {
           "level": 1,
           "name": "Тяжесть вины",
-          "desc": "Нацеливается на троих противников с наименьшими максимальными ОЗ\n[StartBattle] Базовая сила +2 и Количество целей +1 за каждые 5 [AaCePcBo:`Эго Пипа`](#d1dbdc)\n[WhenUse] Теряет 3 [AaCePcBo:`Эго Пипа`](#d1dbdc)",
+          "desc": "Нацеливается на троих противников с наименьшими максимальными <color=#00ff9c>ОЗ</color>\n[StartBattle] Базовая сила +2 и Количество целей +1 за каждые 5 [AaCePcBo:`Эго Пипа`](#d1dbdc)\n[WhenUse] Теряет 3 [AaCePcBo:`Эго Пипа`](#d1dbdc)",
           "coinlist": [
             {
               "coindescs": [
@@ -1726,7 +1726,7 @@
                   "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 30"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Цель теряет 10 СД"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 10 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1798,7 +1798,7 @@
         {
           "level": 1,
           "name": "Эхо крика",
-          "desc": "Наносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона\nСила монет +1, если у цели нет [AaCePcBj:`Метки добычи`]\n[DefeatDuel] Теряет 5 СД",
+          "desc": "Наносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона\nСила монет +1, если у цели нет [AaCePcBj:`Метки добычи`]\n[DefeatDuel] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1806,7 +1806,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 СД"
+                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -1816,7 +1816,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 СД"
+                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -1826,7 +1826,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 СД"
+                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -1836,7 +1836,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 СД"
+                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -1846,7 +1846,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 СД"
+                  "desc": "[OnSucceedAttack] 3 случайных противника теряют 3 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Вновь подкидывает монету за каждые 10 [AaCePcBp:`Эго Старбака`](#d0e0cc)"
@@ -1899,7 +1899,7 @@
         {
           "level": 1,
           "name": "Отбеленное искупление",
-          "desc": "[WhenUse] Тратит 5 [AaCePcBq:`Эго Квикег`](#d9d1e0)\n[WinDuel] Получает 6 [DefenseUp:`Повышений уровня защиты`]\n[DefeatDuel] Теряет 5 СД",
+          "desc": "[WhenUse] Тратит 5 [AaCePcBq:`Эго Квикег`](#d9d1e0)\n[WinDuel] Получает 6 [DefenseUp:`Повышений уровня защиты`]\n[DefeatDuel] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1921,7 +1921,7 @@
         {
           "level": 1,
           "name": "Коварное обледнение",
-          "desc": "[StartBattle] Получает щит, равный 10% от максимальных ОЗ; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.5% от максимальных ОЗ в виде щита\nАтакующий теряет 5 СД при попадании по щиту\nИспользует контратаку ещё один раз в этом ходе за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
+          "desc": "[StartBattle] Получает щит, равный 10% от максимальных <color=#00ff9c>ОЗ</color>; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.5% от максимальных <color=#00ff9c>ОЗ</color> в виде щита\nАтакующий теряет 5 <color=#80c9ff>СД</color> при попадании по щиту\nИспользует контратаку ещё один раз в этом ходе за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
           "coinlist": [
             {
               "coindescs": [

@@ -13,7 +13,7 @@
     {
       "id": 40003703,
       "name": "Злоба",
-      "desc": "Получает 2 [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) будучи атакованной. (Единожды за навык противника)\n\nПолучает 1 [ResentmentSpiderDaughterTwo:`Злобу`](;ResentmentSpiderDaughter), когда атакуют союзника. (Единожды за навык противника)\n\nИспользует мощную атаку при максимальном значении [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter).\n\nКонец хода: при менее чем 80% / 60% / 40% ОЗ значение [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) увеличивается до максимума."
+      "desc": "Получает 2 [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) будучи атакованной. (Единожды за навык противника)\n\nПолучает 1 [ResentmentSpiderDaughterTwo:`Злобу`](;ResentmentSpiderDaughter), когда атакуют союзника. (Единожды за навык противника)\n\nИспользует мощную атаку при максимальном значении [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter).\n\nКонец хода: при менее чем 80% / 60% / 40% <color=#00ff9c>ОЗ</color> значение [ResentmentSpiderDaughterTwo:`Злобы`](;ResentmentSpiderDaughter) увеличивается до максимума."
     }
   ]
 }

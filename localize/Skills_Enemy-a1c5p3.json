@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "Усугубление раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -66,7 +66,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -76,7 +76,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -86,7 +86,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -96,7 +96,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -174,7 +174,7 @@
         {
           "level": 1,
           "name": "Вырезание раны",
-          "desc": "[WinDuel] Восстанавливает 5 СД\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -222,7 +222,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -232,7 +232,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -242,7 +242,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -252,7 +252,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своего [Breath:`Дыхания`] на 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }

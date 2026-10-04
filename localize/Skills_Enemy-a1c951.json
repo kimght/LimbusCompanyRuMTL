@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "Захват добычи",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -127,7 +127,7 @@
         {
           "level": 1,
           "name": "Бодрость духа",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -149,7 +149,7 @@
         {
           "level": 1,
           "name": "Бесполезно!",
-          "desc": "[EndBattle] Если ещё остались ОЗ Щита, получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход",
+          "desc": "[EndBattle] Если ещё остались <color=#366ffb>OЗ Щита</color>, получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -200,7 +200,7 @@
         {
           "level": 1,
           "name": "Движение вперёд",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -266,7 +266,7 @@
         {
           "level": 1,
           "name": "Золотая жила",
-          "desc": "[WinDuel] Восстанавливает 5 СД",
+          "desc": "[WinDuel] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -337,7 +337,7 @@
         {
           "level": 1,
           "name": "Бесполезно!",
-          "desc": "[EndBattle] Если ещё остались ОЗ Щита, получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход",
+          "desc": "[EndBattle] Если ещё остались <color=#366ffb>OЗ Щита</color>, получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [

@@ -15,10 +15,10 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса двум союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД двум союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Восстанавливает 20 <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -36,10 +36,10 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса <style=\"highlight\">трём</style> союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса <style=\"highlight\">трём</style> союзникам с наименьшей <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД <style=\"highlight\">трём</style> союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Восстанавливает 20 <color=#80c9ff>СД</color> <style=\"highlight\">трём</style> союзникам с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -57,10 +57,10 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
                 },
                 {
-                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса <style=\"highlight\">четырём</style> союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Даёт 1 <sprite name=\"AmberDamageUp\"><color=#f8c200><u>Повышение урона[TabExplain] Грехом</u></color> наибольшего резонанса <style=\"highlight\">четырём</style> союзникам с наименьшей <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[EndSkill] Восстанавливает 20 СД <style=\"highlight\">четырём</style> союзникам с наименьшей СД"
+                  "desc": "[EndSkill] Восстанавливает 20 <color=#80c9ff>СД</color> <style=\"highlight\">четырём</style> союзникам с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -75,12 +75,12 @@
           "level": 1,
           "name": "Праздник",
           "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных ОЗ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
@@ -96,12 +96,12 @@
           "level": 3,
           "name": "Праздник",
           "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных ОЗ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
@@ -120,12 +120,12 @@
           "level": 4,
           "name": "Праздник",
           "abName": "Сан-дольф",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных ОЗ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Теряет 10% от своих максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`]"
@@ -149,7 +149,7 @@
           "level": 1,
           "name": "Узы",
           "abName": "Связанный король",
-          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\n[EndSkill] Теряет 10 СД в конце последующих 3-ёх ходов ",
+          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\n[EndSkill] Теряет 10 <color=#80c9ff>СД</color> в конце последующих 3-ёх ходов ",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
           "level": 3,
           "name": "Узы",
           "abName": "Связанный король",
-          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\n<style=\"highlight\">Урон Границе Выносливости повышается на 50% при [VibrationExplosion:`Провокации Тремора`] этим навыком</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет <style=\"highlight\">9</style> СД",
+          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\n<style=\"highlight\">Урон Границе Выносливости повышается на 50% при [VibrationExplosion:`Провокации Тремора`] этим навыком</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет <style=\"highlight\">9</style> <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -191,7 +191,7 @@
           "level": 4,
           "name": "Узы",
           "abName": "Связанный король",
-          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\nУрон Границе Выносливости повышается на <style=\"highlight\">100%</style> при [VibrationExplosion:`Провокации Тремора`] этим навыком\n[EndSkill] В конце последующих 3-ёх ходов теряет <style=\"highlight\">8</style> СД",
+          "desc": "[BeforeAttack] Количество целей повышается на (Число грехов в наибольшем резонансе <color=#014fd6>Гордыни</color> или <color=#fed133>Лености</color> - 2) (До 2)\nУрон Границе Выносливости повышается на <style=\"highlight\">100%</style> при [VibrationExplosion:`Провокации Тремора`] этим навыком\n[EndSkill] В конце последующих 3-ёх ходов теряет <style=\"highlight\">8</style> <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -300,7 +300,7 @@
           "level": 1,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит 15% от максимальных ОЗ для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До 10%)",
+          "desc": "[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит 15% от максимальных <color=#00ff9c>ОЗ</color> для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До 10%)",
           "coinlist": [
             {
               "coindescs": [
@@ -321,7 +321,7 @@
           "level": 3,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Количество целей +1 при <style=\"highlight\">3</style> и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит 15% от максимальных ОЗ для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До <style=\"highlight\">20%</style>)",
+          "desc": "[BeforeAttack] Количество целей +1 при <style=\"highlight\">3</style> и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит 15% от максимальных <color=#00ff9c>ОЗ</color> для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До <style=\"highlight\">20%</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -342,7 +342,7 @@
           "level": 4,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[BeforeAttack] Количество целей повышается на <style=\"highlight\">(Число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит <style=\"highlight\">10%</style> от максимальных ОЗ для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До <style=\"highlight\">30%</style>)",
+          "desc": "[BeforeAttack] Количество целей повышается на <style=\"highlight\">(Число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик своего [Charge:`Заряда`] менее 10, тратит <style=\"highlight\">10%</style> от максимальных <color=#00ff9c>ОЗ</color> для его повышения на 10 (Не может Оглушить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 1% больше урона за каждую потраченную единицу (До <style=\"highlight\">30%</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -368,7 +368,7 @@
           "level": 1,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит (Недостающее до максимума число счётчика [Charge:`Заряда`] × 1.5)% от максимальных ОЗ для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До 20%) ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит (Недостающее до максимума число счётчика [Charge:`Заряда`] × 1.5)% от максимальных <color=#00ff9c>ОЗ</color> для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До 20%) ",
           "coinlist": [
             {
               "coindescs": [
@@ -389,7 +389,7 @@
           "level": 3,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит (Недостающее до максимума число счётчика [Charge:`Заряда`] × <style=\"highlight\">1.2</style>)% от максимальных ОЗ для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До <style=\"highlight\">40%</style>) ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей +1 при 4 и более грехах в наибольшем резонансе\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит (Недостающее до максимума число счётчика [Charge:`Заряда`] × <style=\"highlight\">1.2</style>)% от максимальных <color=#00ff9c>ОЗ</color> для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До <style=\"highlight\">40%</style>) ",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +410,7 @@
           "level": 4,
           "name": "Разрыв измерений",
           "abName": "Заблудший пассажир",
-          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей повышается на <style=\"highlight\">(Число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит <style=\"highlight\">(</style>Недостающее до максимума число счётчика [Charge:`Заряда`]<style=\"highlight\">)%</style> от максимальных ОЗ для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До <style=\"highlight\">60%</style>) ",
+          "desc": "[CantIdentify]\nСлучайная цель\n[BeforeAttack] Количество целей повышается на <style=\"highlight\">(Число грехов в наибольшем резонансе - 2)</style> <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Если счётчик [Charge:`Заряда`] не максимален, тратит <style=\"highlight\">(</style>Недостающее до максимума число счётчика [Charge:`Заряда`]<style=\"highlight\">)%</style> от максимальных <color=#00ff9c>ОЗ</color> для повышения счётчика своего [Charge:`Заряда`] до максимума (Максимальный счётчик считается за 30; не может убить)\n[BeforeAttack] Тратит до 40 единиц счётчика своего [Charge:`Заряда`] и наносит на 2% больше урона за каждую потраченную единицу (До <style=\"highlight\">60%</style>) ",
           "coinlist": [
             {
               "coindescs": [
@@ -542,7 +542,7 @@
           "level": 1,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до 4 ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До 20)",
+          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до 4 ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -550,8 +550,8 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 6% от максимальных ОЗ двум союзникам с наименьшим процентом текущих ОЗ (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
-                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает ОЗ"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 6% от максимальных <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [NiddleEGO:`Иглы`]"
@@ -567,7 +567,7 @@
           "level": 3,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до <style=\"highlight\">5</style> ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До <style=\"highlight\">25</style>)",
+          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до <style=\"highlight\">5</style> ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До <style=\"highlight\">25</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -575,8 +575,8 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">8%</style> от максимальных ОЗ двум союзникам с наименьшим процентом текущих ОЗ (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
-                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает ОЗ"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">8%</style> от максимальных <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [NiddleEGO:`Иглы`]"
@@ -595,7 +595,7 @@
           "level": 4,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до <style=\"highlight\">6</style> ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До <style=\"highlight\">30</style>)",
+          "desc": "Активируемые [UnBrokenCoinOnSucceedAttack] эффекты не срабатывают при Односторонней атаке \n[WinDuel] Поглощает (Число грехов в резонансе <color=#9808de>Зависти</color>) ЭГО Ресурсов <color=#9808de>Зависти</color>, и за каждый поглощённый ЭГО Ресурс добавляет по 1 ЭГО Ресурсу к наименее имеющимся грехам (Поглощает до <style=\"highlight\">6</style> ЭГО Ресурсов <color=#9808de>Зависти</color>)\n[DefeatDuel] Итоговая сила -4\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До <style=\"highlight\">30</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -603,8 +603,8 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">10%</style> от максимальных ОЗ двум союзникам с наименьшим процентом текущих ОЗ (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
-                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает ОЗ"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">10%</style> от максимальных <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- При этом игнорирует тех союзников, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [NiddleEGO:`Иглы`]"
@@ -628,7 +628,7 @@
           "level": 1,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 при 2 и более грехах в резонансе <color=#9808de>Зависти</color>\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До 20)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`] и [NailPersonality:`Гвоздь`] больше при попаданиях",
+          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 при 2 и более грехах в резонансе <color=#9808de>Зависти</color>\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До 20)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`] и [NailPersonality:`Гвоздь`] больше при попаданиях",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
           "level": 3,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 <style=\"highlight\">за каждые 2</style> греха в резонансе <color=#9808de>Зависти</color> <style=\"highlight\">(До 2)</style>\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До <style=\"highlight\">25</style>)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`]<style=\"highlight\">, [Curse:`Проклятие`] и</style> [NailPersonality:`Гвоздь`] больше при попаданиях",
+          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 <style=\"highlight\">за каждые 2</style> греха в резонансе <color=#9808de>Зависти</color> <style=\"highlight\">(До 2)</style>\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До <style=\"highlight\">25</style>)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`]<style=\"highlight\">, [Curse:`Проклятие`] и</style> [NailPersonality:`Гвоздь`] больше при попаданиях",
           "coinlist": [
             {
               "coindescs": [
@@ -701,7 +701,7 @@
           "level": 4,
           "name": "Я выберу ножницы. А ты?",
           "abName": "Ты будешь играть?",
-          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До <style=\"highlight\">3</style>)\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) ОЗ Щита (До <style=\"highlight\">30</style>)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`], [Curse:`Проклятие`] и [NailPersonality:`Гвоздь`] больше при попаданиях",
+          "desc": "[CantIdentify]\nСлучайная цель\nИтоговая сила +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До <style=\"highlight\">3</style>)\n[WinDuel] Количество целей +1 за каждые 2 греха в резонансе <color=#9808de>Зависти</color> (До 2 дополнительных целей)\n[DefeatDuel] Получает (Число грехов в резонансе <color=#9808de>Зависти</color> × 5) <color=#366ffb>OЗ Щита</color> (До <style=\"highlight\">30</style>)\n[DefeatDuel] Наносит на 1 [NiddleEGO:`Иглу`], [Curse:`Проклятие`] и [NailPersonality:`Гвоздь`] больше при попаданиях",
           "coinlist": [
             {
               "coindescs": [

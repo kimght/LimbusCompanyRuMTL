@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             }
@@ -179,7 +179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             }
@@ -305,7 +305,7 @@
                   "desc": "[OnSucceedAttack] Тратит до 5 [BloodScissor:`Окровавленных лезвий ножниц`] и наносит на (Потраченные [BloodScissor:`Окровавленные лезвия ножниц`] × 20)% больше урона (До 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 30%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 30%)"
                 }
               ]
             }
@@ -431,7 +431,7 @@
                   "desc": "[OnSucceedAttack] Тратит до 5 [BloodScissor:`Окровавленных лезвий ножниц`] и наносит на (Потраченные [BloodScissor:`Окровавленные лезвия ножниц`] × 20)% больше урона (До 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечени`] цели)% ОЗ (До 30%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечени`] цели)% <color=#00ff9c>ОЗ</color> (До 30%)"
                 }
               ]
             }
@@ -498,10 +498,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
                 }
               ]
             }
@@ -600,10 +600,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
                 }
               ]
             }

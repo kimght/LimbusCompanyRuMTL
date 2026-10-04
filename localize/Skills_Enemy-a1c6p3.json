@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "...очистить",
-          "desc": "[WhenUse] Наносит 2 [AttackDown:`Понижения уровня атаки`], если СД цели 10 или менее\n[WinDuel] Наносит 1 [Vulnerable:`Уязвимость`]",
+          "desc": "[WhenUse] Наносит 2 [AttackDown:`Понижения уровня атаки`], если <color=#80c9ff>СД</color> цели 10 или менее\n[WinDuel] Наносит 1 [Vulnerable:`Уязвимость`]",
           "coinlist": [
             {
               "coindescs": [
@@ -67,7 +67,7 @@
         {
           "level": 1,
           "name": "...иледи...!",
-          "desc": "[WhenUse] Базовая сила +1 за каждые 3 [Sinking:`Утопания`] на цели (До 3)\n[WinDuel] Все союзники восстанавливают 5 СД",
+          "desc": "[WhenUse] Базовая сила +1 за каждые 3 [Sinking:`Утопания`] на цели (До 3)\n[WinDuel] Все союзники восстанавливают 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -219,21 +219,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -282,7 +282,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает ещё 20 ОЗ Щита за каждого живого союзника",
+          "desc": "[StartBattle] Получает ещё 20 <color=#366ffb>OЗ Щита</color> за каждого живого союзника",
           "coinlist": [
             {
               "coindescs": [
@@ -400,7 +400,7 @@
         {
           "level": 1,
           "name": "...",
-          "desc": "[OnSucceedEvade] Восстанавливает 5 СД (До 2 раз за ход)",
+          "desc": "[OnSucceedEvade] Восстанавливает 5 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [

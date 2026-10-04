@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 5 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -92,7 +92,7 @@
         {
           "level": 1,
           "name": "Властность",
-          "desc": "[StartBattle] Даёт 1 [Enhancement:`Повышение силы атаки`] всем союзникам\n[StartBattle] Наносит 2 [Reduction:`Понижения силы атаки`] двум противникам с наименьшей СД",
+          "desc": "[StartBattle] Даёт 1 [Enhancement:`Повышение силы атаки`] всем союзникам\n[StartBattle] Наносит 2 [Reduction:`Понижения силы атаки`] двум противникам с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -130,12 +130,12 @@
         {
           "level": 1,
           "name": "Прикрывайте спины!",
-          "desc": "Cила монет +3, если СД цели ниже 0",
+          "desc": "Cила монет +3, если <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 10 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 10 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] и 2 [Reduction:`Понижения силы атаки`] на следующий ход"
@@ -145,7 +145,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет 20 СД"
+                  "desc": "[OnSucceedAttack] Цель теряет 20 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -197,7 +197,7 @@
         {
           "level": 1,
           "name": "МОИ ПАРИКМАХЕРСКИЕ КУПОООООООООООНЫ!!!",
-          "desc": "Итоговая сила +5, если СД главной цели ниже 0",
+          "desc": "Итоговая сила +5, если <color=#80c9ff>СД</color> главной цели ниже 0",
           "coinlist": [
             {
               "coindescs": [

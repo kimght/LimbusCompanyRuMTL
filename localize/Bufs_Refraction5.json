@@ -23,7 +23,7 @@
     },
     {
       "id": "MRR503",
-      "name": "Преломление СД",
+      "name": "Преломление <color=#80c9ff>СД</color>",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -149,7 +149,7 @@
     },
     {
       "id": "MRR521",
-      "name": "Манипуляция ОЗ",
+      "name": "Манипуляция <color=#00ff9c>ОЗ</color>",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -254,7 +254,7 @@
     },
     {
       "id": "MRR537",
-      "name": "Преломление ОЗ II",
+      "name": "Преломление <color=#00ff9c>ОЗ</color> II",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -289,7 +289,7 @@
     },
     {
       "id": "MRR542",
-      "name": "Преломление ОЗ",
+      "name": "Преломление <color=#00ff9c>ОЗ</color>",
       "desc": "",
       "summary": "",
       "undefined": "-"

@@ -40,10 +40,10 @@
                   "desc": "[OnSucceedAttack] Случайно накладывает 1 [Protection:`Защищённость`], [Enhancement:`Повышение силы атаки`], [Vulnerable:`Уязвимость`] или [Paralysis:`Паралич`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД в количестве счётчика своего [Charge:`Заряда`]"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color> в количестве счётчика своего [Charge:`Заряда`]"
                 },
                 {
-                  "desc": "[EnemyKill] Все противники теряют 10 СД"
+                  "desc": "[EnemyKill] Все противники теряют 10 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[EnemyKillFail] Получает 2 [Paralysis:`Паралича`] на следующий ход"

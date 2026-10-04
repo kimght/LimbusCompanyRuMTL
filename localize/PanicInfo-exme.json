@@ -21,8 +21,8 @@
     {
       "id": 1095,
       "panicName": "Глубоко укоренившееся сожаление",
-      "lowMoraleDescription": "Получает 2 [AttackDmgDown:`Понижения урона`] и восстанавливает 40 ОЗ в начале хода",
-      "panicDescription": "Получает 3 [AttackDmgDown:`Понижения урона`] и восстанавливает 60 ОЗ в начале хода"
+      "lowMoraleDescription": "Получает 2 [AttackDmgDown:`Понижения урона`] и восстанавливает 40 <color=#00ff9c>ОЗ</color> в начале хода",
+      "panicDescription": "Получает 3 [AttackDmgDown:`Понижения урона`] и восстанавливает 60 <color=#00ff9c>ОЗ</color> в начале хода"
     },
     {
       "id": 1096,

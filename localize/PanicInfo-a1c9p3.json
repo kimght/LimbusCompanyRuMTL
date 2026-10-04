@@ -33,14 +33,14 @@
     {
       "id": 1075,
       "panicName": "Безумное буйство",
-      "lowMoraleDescription": "- Получает 2 [Enhancement:`Повышения силы атаки`] и 4 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных ОЗ в прошлом ходе (До 5)",
-      "panicDescription": "- Получает 3 [Enhancement:`Повышения силы атаки`] и 5 [DefenseDown:`Понижений уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных ОЗ в прошлом ходе (До 5)"
+      "lowMoraleDescription": "- Получает 2 [Enhancement:`Повышения силы атаки`] и 4 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)",
+      "panicDescription": "- Получает 3 [Enhancement:`Повышения силы атаки`] и 5 [DefenseDown:`Понижений уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)"
     },
     {
       "id": 1076,
       "panicName": "Рвение",
-      "lowMoraleDescription": "- Получает 2 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных ОЗ в прошлом ходе (До 5)",
-      "panicDescription": "- Получает 1 [Enhancement:`Повышение силы атаки`] 3 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных ОЗ в прошлом ходе (До 5)"
+      "lowMoraleDescription": "- Получает 2 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)",
+      "panicDescription": "- Получает 1 [Enhancement:`Повышение силы атаки`] 3 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)"
     },
     {
       "id": 1081,
@@ -63,7 +63,7 @@
     {
       "id": 1080,
       "panicName": "Со времён Второй Дымовой Войны",
-      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления СД`]",
+      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления <color=#80c9ff>СД</color>`]",
       "panicDescription": "Получает 2 [Vulnerable:`Уязвимости`] и 2 [ParryingResultUp:`Повышения силы в столкновении`]"
     },
     {

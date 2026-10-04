@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Сдерживание нарушителей",
-          "desc": "[WhenUse] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 4 СД",
+          "desc": "[WhenUse] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 4 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -40,7 +40,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -50,7 +50,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -115,7 +115,7 @@
         {
           "level": 1,
           "name": "Устранение нарушителей",
-          "desc": "[WhenUse] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 4 СД",
+          "desc": "[WhenUse] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 4 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -149,7 +149,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -159,7 +159,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -261,7 +261,7 @@
                   "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве (Сила [Laceration:`Кровотечения`] цели / 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 7 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 7 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -283,7 +283,7 @@
                   "desc": "[OnSucceedAttack] Наносит 8 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -293,7 +293,7 @@
                   "desc": "[OnSucceedAttack] Наносит [Burst:`Разрыв`] в количестве [Laceration:`Кровотечения`] цели"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 10 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 10 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Если на цели 5 и более [Laceration:`Кровотечения`], повтороно использует атаку (Единожды)"
@@ -370,7 +370,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -380,7 +380,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -503,7 +503,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 СД"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 5 <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -831,7 +831,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [DefenseDown:`Понижения уровня защиты`]"
@@ -841,7 +841,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [DefenseDown:`Понижения уровня защиты`]"
@@ -851,7 +851,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [DefenseDown:`Понижения уровня защиты`]"
@@ -980,21 +980,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 4 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает 4 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1043,7 +1043,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает ещё 20 ОЗ Щита за каждого живого союзника",
+          "desc": "[StartBattle] Получает ещё 20 <color=#366ffb>OЗ Щита</color> за каждого живого союзника",
           "coinlist": [
             {
               "coindescs": [

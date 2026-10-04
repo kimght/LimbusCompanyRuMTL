@@ -389,7 +389,7 @@
         {
           "level": 1,
           "name": "Свернуться",
-          "desc": "[StartBattle] Получает ОЗ Щита, равные текущим ОЗ головы\n[EndBattle] Если остались ОЗ Щита, получает 10 [SelfCharge:`Позарядов`] на следующий ход",
+          "desc": "[StartBattle] Получает <color=#366ffb>OЗ Щита</color>, равные текущим <color=#00ff9c>ОЗ</color> головы\n[EndBattle] Если остались <color=#366ffb>OЗ Щита</color>, получает 10 [SelfCharge:`Позарядов`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -402,7 +402,7 @@
         {
           "level": 1,
           "name": "Извивающаяся голова",
-          "desc": "Нацеливается на противника с наименьшими ОЗ\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала Защитный навык, не наносит ей урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была Односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала Защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала Защитный навык, не наносит ей урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была Односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала Защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
           "coinlist": [
             {
               "coindescs": [
@@ -428,7 +428,7 @@
         {
           "level": 1,
           "name": "Извивающийся хвост",
-          "desc": "Нацеливается на противника с наименьшими ОЗ\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала Защитный навык, не наносит ей урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была Односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала Защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>\nНаносит на 50% больше урона целям с [Paralysis:`Параличом`]\n<color=#ff6000><mark color=#ff000040><b><u>Если цель использовала Защитный навык, не наносит ей урона</color></mark></b></u>\nБазовая сила +1 за каждый [SelfCharge:`Подзаряд`]\n[WhenUse] Тратит 1 [SelfCharge:`Подзаряд`]\n[EndSkill] Если это была Односторонняя атака, теряет 1 [SelfCharge:`Подзаряд`]\n- Если при этом цель использовала Защитный навык, теряет на 1 [SelfCharge:`Подзаряд`] больше",
           "coinlist": [
             {
               "coindescs": [
@@ -593,7 +593,7 @@
                   "desc": "На 100% больше урона при критическом попадании"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по ОЗ"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -626,7 +626,7 @@
         {
           "level": 1,
           "name": "Молчаливый взгляд",
-          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 2 <sprite name=\"Reduction\"></u><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color></b></mark></color>\n[DefeatDuel] Цель восстанавливает 5 СД",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 2 <sprite name=\"Reduction\"></u><color=#e30000><u><link=\"Reduction\">Понижения силы атаки</link></u></color></b></mark></color>\n[DefeatDuel] Цель восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -645,19 +645,19 @@
         {
           "level": 1,
           "name": "Смерть【絶命】",
-          "desc": "Не вызывает активацию Защитных навыков цели\nВыбирает целью противника с наименьшим процентом текущих ОЗ (За исключением Рёшу)",
+          "desc": "Не вызывает активацию Защитных навыков цели\nВыбирает целью противника с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (За исключением Рёшу)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [PhantomIncision:`След клинка 【Послеобраз】`] за каждый 1% потерянных ОЗ цели"
+                  "desc": "[OnSucceedAttack] Наносит 1 [PhantomIncision:`След клинка 【Послеобраз】`] за каждый 1% потерянных <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с цели и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по ОЗ"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с цели и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -671,7 +671,7 @@
         {
           "level": 1,
           "name": "Разделение пространства - Мириады【空間斬-緣】",
-          "desc": "[nxCenterLine]\nНельзя Оглушить до конца использования этого навыка\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя СД равна 10 и выше: создаёт 1 Ман (望) и получает +5 к Итоговой силе</u></b></mark></color>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[EndSkill] Если этим навыком удалось создать Ман, теряет ещё 10 СД\n[EndSkill] Заканчивает этот ход",
+          "desc": "[nxCenterLine]\nНельзя Оглушить до конца использования этого навыка\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя <color=#80c9ff>СД</color> равна 10 и выше: создаёт 1 Ман (望) и получает +5 к Итоговой силе</u></b></mark></color>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[EndSkill] Если этим навыком удалось создать Ман, теряет ещё 10 <color=#80c9ff>СД</color>\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -682,7 +682,7 @@
                   "desc": "На 100% больше урона при критическом попадании"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по ОЗ"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
@@ -842,7 +842,7 @@
         {
           "level": 1,
           "name": "Пусть эти руки будут проводником...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "Вспороть, выпотрошить...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -901,7 +901,7 @@
         {
           "level": 1,
           "name": "Посредничество: высекание",
-          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -927,7 +927,7 @@
         {
           "level": 1,
           "name": "Посредничество: уничтожение",
-          "desc": "[nxCenterLine]\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 100% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 15 СД\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
+          "desc": "[nxCenterLine]\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 100% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
           "coinlist": [
             {
               "coindescs": [
@@ -979,7 +979,7 @@
         {
           "level": 1,
           "name": "Посредничество: уничтожение - Ман неизбежного стремления<nobr>【本望】</nobr>",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя СД равна 0 и выше, создаёт 1 Ман (望):\nПолучает +2 к Итоговой силе, +2 к Силе монет и наносит на 20% больше урона</u></b></mark></color>\n[EndSkill] Теряет 15 СД\n[EndSkill] Если этим навыком удалось создать Ман, теряет ещё 20 СД\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`] и заканчивает этот ход",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя <color=#80c9ff>СД</color> равна 0 и выше, создаёт 1 Ман (望):\nПолучает +2 к Итоговой силе, +2 к Силе монет и наносит на 20% больше урона</u></b></mark></color>\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>\n[EndSkill] Если этим навыком удалось создать Ман, теряет ещё 20 <color=#80c9ff>СД</color>\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`] и заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [

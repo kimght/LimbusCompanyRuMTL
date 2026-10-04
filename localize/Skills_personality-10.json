@@ -468,7 +468,7 @@
         {
           "level": 1,
           "name": "Клинок заката",
-          "desc": "[WhenUse] В состоянии Нестабильного ЭГО теряет 5 СД\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n[EndSkill] В состоянии Нестабильного ЭГО теряет 5 СД",
+          "desc": "[WhenUse] В состоянии Нестабильного ЭГО теряет 5 <color=#80c9ff>СД</color>\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n[EndSkill] В состоянии Нестабильного ЭГО теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -496,7 +496,7 @@
         {
           "level": 2,
           "name": "Клинок заката",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 против целей с 4 и более [Combustion:`Огня`]</style>\n[WhenUse] В состоянии Нестабильного ЭГО теряет 5 СД\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n[EndSkill] В состоянии Нестабильного ЭГО теряет 5 СД",
+          "desc": "<style=\"highlight\">Сила в столкновении +1 против целей с 4 и более [Combustion:`Огня`]</style>\n[WhenUse] В состоянии Нестабильного ЭГО теряет 5 <color=#80c9ff>СД</color>\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n[EndSkill] В состоянии Нестабильного ЭГО теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -524,7 +524,7 @@
         {
           "level": 4,
           "name": "Клинок заката",
-          "desc": "Сила в столкновении +1 против целей с 4 и более [Combustion:`Огня`]\n[WhenUse] В состоянии Нестабильного ЭГО теряет 5 СД\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n<style=\"highlight\">- Если 45 СД, Количество целей повышается на 2 вместо этого</style>\n[EndSkill] В состоянии Нестабильного ЭГО тратит 5 СД",
+          "desc": "Сила в столкновении +1 против целей с 4 и более [Combustion:`Огня`]\n[WhenUse] В состоянии Нестабильного ЭГО теряет 5 <color=#80c9ff>СД</color>\n[BeforeAttack] Количество целей +1 в состоянии Нестабильного ЭГО\n<style=\"highlight\">- Если 45 <color=#80c9ff>СД</color>, Количество целей повышается на 2 вместо этого</style>\n[EndSkill] В состоянии Нестабильного ЭГО тратит 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -557,7 +557,7 @@
         {
           "level": 3,
           "name": "Клеймо",
-          "desc": "Сила монет +1 против целей с 10 и более [Combustion:`Огня`]\nВ состоянии Нестабильного ЭГО использует <color=#fe0101>「Пылающий удар」</color> вместо этого\n[WinDuel] Восстанавливает 10 СД\n[DefeatDuel] Теряет 10 СД",
+          "desc": "Сила монет +1 против целей с 10 и более [Combustion:`Огня`]\nВ состоянии Нестабильного ЭГО использует <color=#fe0101>「Пылающий удар」</color> вместо этого\n[WinDuel] Восстанавливает 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -578,7 +578,7 @@
         {
           "level": 4,
           "name": "Клеймо",
-          "desc": "Сила монет +1 <style=\"highlight\">за каждые 7 [Combustion:`Огня`] на цели (До 2)</style>\nВ состоянии Нестабильного ЭГО использует <color=#fe0101>「Пылающий удар」</color> вместо этого\n[WinDuel] Восстанавливает 10 СД\n[DefeatDuel] Теряет 10 СД",
+          "desc": "Сила монет +1 <style=\"highlight\">за каждые 7 [Combustion:`Огня`] на цели (До 2)</style>\nВ состоянии Нестабильного ЭГО использует <color=#fe0101>「Пылающий удар」</color> вместо этого\n[WinDuel] Восстанавливает 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -637,7 +637,7 @@
         {
           "level": 3,
           "name": "Пылающий удар",
-          "desc": "Сила монет +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех противниках (До 8)\n[WinDuel] Восстанавливает 10 СД\n[DefeatDuel] Теряет 30 СД\nНаносит на 5% больше урона за каждый грех в резонансе <color=#fe0101>Гнева</color> (До 30%)\n[EndSkill] Теряет 15 СД",
+          "desc": "Сила монет +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех противниках (До 8)\n[WinDuel] Восстанавливает 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 30 <color=#80c9ff>СД</color>\nНаносит на 5% больше урона за каждый грех в резонансе <color=#fe0101>Гнева</color> (До 30%)\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -660,7 +660,7 @@
         {
           "level": 4,
           "name": "Пылающий удар",
-          "desc": "Сила монет <style=\"highlight\">+2</style> за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех противниках (До 8)\n[WinDuel] Восстанавливает 10 СД\n[DefeatDuel] Теряет 30 СД\nНаносит на <style=\"highlight\">10%</style> больше урона за каждый грех в резонансе <color=#fe0101>Гнева</color> (До <style=\"highlight\">60%</style>)\n<style=\"highlight\">- При 4 и более грехах в абсолютном резонансе <color=#fe0101>Гнева</color> наносит на 20% больше урона вместо этого (До 120%)</style>\n[EndSkill] Теряет 15 СД",
+          "desc": "Сила монет <style=\"highlight\">+2</style> за каждые 4 единицы в сумме силы [Combustion:`Огня`] на всех противниках (До 8)\n[WinDuel] Восстанавливает 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 30 <color=#80c9ff>СД</color>\nНаносит на <style=\"highlight\">10%</style> больше урона за каждый грех в резонансе <color=#fe0101>Гнева</color> (До <style=\"highlight\">60%</style>)\n<style=\"highlight\">- При 4 и более грехах в абсолютном резонансе <color=#fe0101>Гнева</color> наносит на 20% больше урона вместо этого (До 120%)</style>\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -785,7 +785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[WinDuelAttack] Даёт 2 [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом ОЗ</style>"
+                  "desc": "<style=\"highlight\">[WinDuelAttack] Даёт 2 [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом <color=#00ff9c>ОЗ</color></style>"
                 }
               ]
             },
@@ -806,7 +806,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Даёт 2 [DefenseUp:`Повышения уровня защиты`] на следующий ход <style=\"highlight\">двум</style> другим союзникам с наименьшим процентом ОЗ"
+                  "desc": "[WinDuelAttack] Даёт 2 [DefenseUp:`Повышения уровня защиты`] на следующий ход <style=\"highlight\">двум</style> другим союзникам с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -832,7 +832,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Даёт 3 [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом ОЗ"
+                  "desc": "[OnSucceedAttack] Даёт 3 [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -863,7 +863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Даёт <style=\"highlight\">4</style> [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом ОЗ"
+                  "desc": "[OnSucceedAttack] Даёт <style=\"highlight\">4</style> [DefenseUp:`Повышения уровня защиты`] на следующий ход другому союзнику с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -1145,7 +1145,7 @@
         {
           "level": 1,
           "name": "Система помощи курьера и контроля кризисов",
-          "desc": "[StartBattle] Если число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) равно 15 и более, использует <color=#a5fe06>「П-погоди, мне нужно провести техобслуживание...!」</color> (Единожды за ход)\n[BeforeUse] Получает ОЗ Щита на (Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) / 2)% от максимальных ОЗ (До 15%; единожды за ход)",
+          "desc": "[StartBattle] Если число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) равно 15 и более, использует <color=#a5fe06>「П-погоди, мне нужно провести техобслуживание...!」</color> (Единожды за ход)\n[BeforeUse] Получает <color=#366ffb>OЗ Щита</color> на (Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) / 2)% от максимальных <color=#00ff9c>ОЗ</color> (До 15%; единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,7 +1159,7 @@
         {
           "level": 4,
           "name": "Система помощи курьера и контроля кризисов",
-          "desc": "[StartBattle] Если число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) равно 15 и более, использует <color=#a5fe06>「П-погоди, мне нужно провести техобслуживание...!」</color> (Единожды за ход)\n[BeforeUse] Получает ОЗ Щита на <style=\"highlight\">(Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f))%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>; единожды за ход)",
+          "desc": "[StartBattle] Если число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) равно 15 и более, использует <color=#a5fe06>「П-погоди, мне нужно провести техобслуживание...!」</color> (Единожды за ход)\n[BeforeUse] Получает <color=#366ffb>OЗ Щита</color> на <style=\"highlight\">(Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f))%</style> от максимальных <color=#00ff9c>ОЗ</color> (До <style=\"highlight\">25%</style>; единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "П-погоди, мне нужно провести техобслуживание...!",
-          "desc": "[BeforeUse] Получает ОЗ Щита на (Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) / 2)% от максимальных ОЗ (До 15%; единожды за ход)\n[EndBattle] [Retreat:`Стратегически отступает`]",
+          "desc": "[BeforeUse] Получает <color=#366ffb>OЗ Щита</color> на (Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f) / 2)% от максимальных <color=#00ff9c>ОЗ</color> (До 15%; единожды за ход)\n[EndBattle] [Retreat:`Стратегически отступает`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "П-погоди, мне нужно провести техобслуживание...!",
-          "desc": "[BeforeUse] Получает ОЗ Щита на <style=\"highlight\">(Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f))%</style> от максимальных ОЗ (До <style=\"highlight\">25%</style>; единожды за ход)\n[EndBattle] [Retreat:`Стратегически отступает`]",
+          "desc": "[BeforeUse] Получает <color=#366ffb>OЗ Щита</color> на <style=\"highlight\">(Число [DevyatDimensionalSackSinclair:`Курьерской сумки`](#6fb78f))%</style> от максимальных <color=#00ff9c>ОЗ</color> (До <style=\"highlight\">25%</style>; единожды за ход)\n[EndBattle] [Retreat:`Стратегически отступает`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1211,7 +1211,7 @@
         {
           "level": 1,
           "name": "Это ведь ты?!",
-          "desc": "[WhenUse] Слот с этим навыком 2 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Восстанавливает 5 СД",
+          "desc": "[WhenUse] Слот с этим навыком 2 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1232,7 +1232,7 @@
         {
           "level": 2,
           "name": "Это ведь ты?!",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Слот с этим навыком <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход\n[WhenUse] Восстанавливает 5 СД",
+          "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Слот с этим навыком <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход\n[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1253,7 +1253,7 @@
         {
           "level": 4,
           "name": "Это ведь ты?!",
-          "desc": "Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[WhenUse] Слот с этим навыком <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход\n[WhenUse] Восстанавливает 5 СД\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если СД максимальна</style>",
+          "desc": "Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[WhenUse] Слот с этим навыком <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход\n[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если <color=#80c9ff>СД</color> максимальна</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1405,7 +1405,7 @@
         {
           "level": 1,
           "name": "Разминка на востоке города",
-          "desc": "[StartBattle] Получает ОЗ Щита в размере 20% от потерянных ОЗ (Единожды за ход)",
+          "desc": "[StartBattle] Получает <color=#366ffb>OЗ Щита</color> в размере 20% от потерянных <color=#00ff9c>ОЗ</color> (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1426,7 +1426,7 @@
         {
           "level": 4,
           "name": "Разминка на востоке города",
-          "desc": "<style=\"highlight\">[StartBattle] При некоторой сумме грехов в одном или сразу нескольких абсолютных резонансах <color=#9808de>Зависти</color> использует другой навык в качестве контратаки:\n- При сумме в 4+ греха использует <color=#9800df>「Усердная месть」</color>\n- При сумме в 6+ грехов использует <color=#9800df>「Запишите их всех」</color>\n(До 2 раз за ход; начиная с самого левого слота навыков)</style>\n[StartBattle] Получает ОЗ Щита в размере <style=\"highlight\">30%</style> от потерянных ОЗ (Единожды за ход)",
+          "desc": "<style=\"highlight\">[StartBattle] При некоторой сумме грехов в одном или сразу нескольких абсолютных резонансах <color=#9808de>Зависти</color> использует другой навык в качестве контратаки:\n- При сумме в 4+ греха использует <color=#9800df>「Усердная месть」</color>\n- При сумме в 6+ грехов использует <color=#9800df>「Запишите их всех」</color>\n(До 2 раз за ход; начиная с самого левого слота навыков)</style>\n[StartBattle] Получает <color=#366ffb>OЗ Щита</color> в размере <style=\"highlight\">30%</style> от потерянных <color=#00ff9c>ОЗ</color> (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1874,7 +1874,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие <color=#00ff9c>ОЗ</color> ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
                 }
               ]
             }
@@ -1902,7 +1902,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие <color=#00ff9c>ОЗ</color> ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
                 }
               ]
             }
@@ -1936,7 +1936,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
+                  "desc": "[OnSucceedAttackHead] Если имеется [ChickenStance:`Кровавое пламя`] или свои текущие <color=#00ff9c>ОЗ</color> ниже 50% от максимальных, вновь подкидывает эту монету 1 раз"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 10% от итогового урона этой монеты в качестве дополнительного урона <color=#fe0101>Гневом</color></style>"
@@ -1953,7 +1953,7 @@
         {
           "level": 3,
           "name": "Кроваво-пламенная резня【血炎亂舞】",
-          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n[StartBattle] Если уже имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 1 [ChickenStance:`Кровавое пламя`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`]\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n[StartBattle] Если уже имеется [ChickenStance:`Кровавое пламя`] или свои текущие <color=#00ff9c>ОЗ</color> ниже 50% от максимальных, все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 1 [ChickenStance:`Кровавое пламя`]\n[WhenUse] Сила монет +1 против целей с 6 и более единицами в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`]\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
           "coinlist": [
             {
               "coindescs": [
@@ -1997,7 +1997,7 @@
         {
           "level": 4,
           "name": "Кроваво-пламенная резня【血炎亂舞】",
-          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n<style=\"highlight\">Наносит на 1% больше урона за каждые 2% в сумме потерянных вместе с целью процентов от максимальных ОЗ (До 50%)</style>\n[StartBattle] Если уже имеется [ChickenStance:`Кровавое пламя`] или свои текущие ОЗ ниже 50% от максимальных, все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 1 [ChickenStance:`Кровавое пламя`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`] на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 за каждые 20% потерянных ОЗ (До 2)</style>\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n<style=\"highlight\">Наносит на 1% больше урона за каждые 2% в сумме потерянных вместе с целью процентов от максимальных <color=#00ff9c>ОЗ</color> (До 50%)</style>\n[StartBattle] Если уже имеется [ChickenStance:`Кровавое пламя`] или свои текущие <color=#00ff9c>ОЗ</color> ниже 50% от максимальных, все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 1 [ChickenStance:`Кровавое пламя`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`] на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 за каждые 20% потерянных <color=#00ff9c>ОЗ</color> (До 2)</style>\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
           "coinlist": [
             {
               "coindescs": [
@@ -2073,7 +2073,7 @@
         {
           "level": 4,
           "name": "Смертельный удар парящего петуха【鷄窮則殺】",
-          "desc": "[DuelCounter]\n[WhenUse] Получает 3 [ChickenStance:`Кровавого пламени`] на следующий ход\n<style=\"highlight\">[WhenUse] Базовая сила +1 против целей с 10 и более единицами в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`]</style>\n[WhenUse] Сила монет +1, если имеется [ChickenStance]\n<style=\"highlight\">[WhenUse] Наносит на 1% больше урона за каждые 3% потерянных в этой битве ОЗ (До 30%; вся потеря ОЗ складывается)</style>\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
+          "desc": "[DuelCounter]\n[WhenUse] Получает 3 [ChickenStance:`Кровавого пламени`] на следующий ход\n<style=\"highlight\">[WhenUse] Базовая сила +1 против целей с 10 и более единицами в сумме силы [Combustion:`Огня`] и [Burst:`Разрыва`]</style>\n[WhenUse] Сила монет +1, если имеется [ChickenStance]\n<style=\"highlight\">[WhenUse] Наносит на 1% больше урона за каждые 3% потерянных в этой битве <color=#00ff9c>ОЗ</color> (До 30%; вся потеря <color=#00ff9c>ОЗ</color> складывается)</style>\n[DefeatDuel] Получает 2 [Combustion:`Огня`] вместе с целью",
           "coinlist": [
             {
               "coindescs": [
@@ -2361,7 +2361,7 @@
         {
           "level": 1,
           "name": "Уклонение【回】",
-          "desc": "[StartBattle] Получает ОЗ Щита, равные текущему значению [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[StartBattle] Повышает счётчик своего [Breath:`Дыхания`] на 4 (Единожды за ход)",
+          "desc": "[StartBattle] Получает <color=#366ffb>OЗ Щита</color>, равные текущему значению [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[StartBattle] Повышает счётчик своего [Breath:`Дыхания`] на 4 (Единожды за ход)",
           "coinlist": [
             {}
           ]
@@ -2369,7 +2369,7 @@
         {
           "level": 4,
           "name": "Уклонение【回】",
-          "desc": "[StartBattle] Получает ОЗ Щита, равные текущему значению [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[StartBattle] Повышает счётчик своего [Breath:`Дыхания`] на 4 (Единожды за ход)",
+          "desc": "[StartBattle] Получает <color=#366ffb>OЗ Щита</color>, равные текущему значению [LittleFingerID:`Лазурного клинка лунного света`](;DicipleLittleFinger)\n[StartBattle] Повышает счётчик своего [Breath:`Дыхания`] на 4 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [

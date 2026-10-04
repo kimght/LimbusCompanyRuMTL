@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Восстанавливает 10 ОЗ двум союзникам с наименьшим процентом ОЗ"
+                  "desc": "[EndSkillHead] Восстанавливает 10 <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[EndSkillTail] Восстанавливает 10 СД двум союзникам с наименьшей СД"
+                  "desc": "[EndSkillTail] Восстанавливает 10 <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -30,13 +30,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Восстанавливает <style=\"highlight\">12</style> ОЗ двум союзникам с наименьшим процентом ОЗ"
+                  "desc": "[EndSkillHead] Восстанавливает <style=\"highlight\">12</style> <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[EndSkillTail] Восстанавливает <style=\"highlight\">12</style> СД двум союзникам с наименьшей СД"
+                  "desc": "[EndSkillTail] Восстанавливает <style=\"highlight\">12</style> <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalEndSkill] Восстанавливает 6 ОЗ союзнику с наименьшим процентом ОЗ и 6 СД союзнику с наименьшей СД</style>"
+                  "desc": "<style=\"highlight\">[CriticalEndSkill] Восстанавливает 6 <color=#00ff9c>ОЗ</color> союзнику с наименьшим процентом <color=#00ff9c>ОЗ</color> и 6 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color></style>"
                 }
               ]
             }
@@ -51,13 +51,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Восстанавливает <style=\"highlight\">15</style> ОЗ двум союзникам с наименьшим процентом ОЗ"
+                  "desc": "[EndSkillHead] Восстанавливает <style=\"highlight\">15</style> <color=#00ff9c>ОЗ</color> двум союзникам с наименьшим процентом <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[EndSkillTail] Восстанавливает <style=\"highlight\">15</style> СД двум союзникам с наименьшей СД"
+                  "desc": "[EndSkillTail] Восстанавливает <style=\"highlight\">15</style> <color=#80c9ff>СД</color> двум союзникам с наименьшей <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[CriticalEndSkill] Восстанавливает <style=\"highlight\">8</style> ОЗ союзнику с наименьшим процентом ОЗ и <style=\"highlight\">8</style> СД союзнику с наименьшей СД"
+                  "desc": "[CriticalEndSkill] Восстанавливает <style=\"highlight\">8</style> <color=#00ff9c>ОЗ</color> союзнику с наименьшим процентом <color=#00ff9c>ОЗ</color> и <style=\"highlight\">8</style> <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -72,7 +72,7 @@
           "level": 1,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -90,7 +90,7 @@
           "level": 3,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -108,7 +108,7 @@
           "level": 4,
           "name": "Газировка",
           "abName": "\"Wellcheers\"",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -149,7 +149,7 @@
           "level": 3,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "<style=\"highlight\">[BeforeAttack] Количество целей +1, если свои ОЗ ниже 50%</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Количество целей +1, если свои <color=#00ff9c>ОЗ</color> ниже 50%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
           "level": 4,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[BeforeAttack] Количество целей повышается на 1, если свои ОЗ ниже 50%\n<style=\"highlight\">- Количество целей повышается ещё на 1, если свои ОЗ ниже 25%</style>",
+          "desc": "[BeforeAttack] Количество целей повышается на 1, если свои <color=#00ff9c>ОЗ</color> ниже 50%\n<style=\"highlight\">- Количество целей повышается ещё на 1, если свои <color=#00ff9c>ОЗ</color> ниже 25%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -196,7 +196,7 @@
           "level": 1,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Число грехов в резонансе <color=#a5fe06>Чревоугодия</color> / 3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 20% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 20% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход"
@@ -217,7 +217,7 @@
           "level": 3,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ\n<style=\"highlight\">[BeforeAttack] Количество целей +1, если свои ОЗ ниже 50%</style>",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>\n<style=\"highlight\">[BeforeAttack] Количество целей +1, если свои <color=#00ff9c>ОЗ</color> ниже 50%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -225,7 +225,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Число грехов в резонансе <color=#a5fe06>Чревоугодия</color> / 3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на <style=\"highlight\">30%</style> от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на <style=\"highlight\">30%</style> от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход"
@@ -238,7 +238,7 @@
           "level": 4,
           "name": "Бурлящая коррозия",
           "abName": "Ступающая жемчужина",
-          "desc": "[CantIdentify]\nВыбирает цель с наименьшими ОЗ\n[BeforeAttack] Количество целей повышается на 1, если свои ОЗ ниже 50%\n<style=\"highlight\">- Количество целей повышается ещё на 1, если свои ОЗ ниже 25%</style>",
+          "desc": "[CantIdentify]\nВыбирает цель с наименьшими <color=#00ff9c>ОЗ</color>\n[BeforeAttack] Количество целей повышается на 1, если свои <color=#00ff9c>ОЗ</color> ниже 50%\n<style=\"highlight\">- Количество целей повышается ещё на 1, если свои <color=#00ff9c>ОЗ</color> ниже 25%</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -246,7 +246,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на (Число грехов в резонансе <color=#a5fe06>Чревоугодия</color> / 3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на <style=\"highlight\">50%</style> от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на <style=\"highlight\">50%</style> от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [Binding:`Связывания`] на следующий ход"
@@ -473,7 +473,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 1 за каждые 2 греха в резонансе <color=#a5fe06>Чревоугодия</color> (До 3)"
@@ -583,7 +583,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"
@@ -619,7 +619,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить ОЗ ниже 1)"
+                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить <color=#00ff9c>ОЗ</color> ниже 1)"
                 }
               ]
             }
@@ -634,7 +634,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить ОЗ ниже 1)"
+                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить <color=#00ff9c>ОЗ</color> ниже 1)"
                 }
               ]
             }
@@ -649,7 +649,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить ОЗ ниже 1)"
+                  "desc": "Получает урон, равный Итоговой силе этого ЭГО навыка\n(Не может Оглушить или опустить <color=#00ff9c>ОЗ</color> ниже 1)"
                 }
               ]
             }
@@ -961,7 +961,7 @@
           "level": 4,
           "name": "Оставаться собой【宁作吾】",
           "abName": "Лин",
-          "desc": "[WhenUse] Получает <style=\"highlight\">4</style> [Breath:`Дыхания`]\n[BeforeAttack] Итоговая сила +1 за каждые 5 единиц в сумме силы и счётчика своего [Breath:`Дыхания`] (До <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Если нет [Cianjing:`Громовержца`] или [SeniorCianjing:`Высшего громовержца`], восстанавливает половину потраченных на активацию ЭГО Ресурсов и СД (Округляется вниз; также распространяется на [EgoErode:`Коррозию ЭГО`], если она была спровоцирована низкой СД при использовании этого ЭГО навыка)</style>\n[BeforeAttack] Наносит на <style=\"highlight\">25%</style> больше урона и Количество целей повышается на 1, если имеется [Cianjing:`Громовержец`]\n[BeforeAttack] Наносит на <style=\"highlight\">45%</style> больше урона и Количество целей повышается на 2, если имеется [SeniorCianjing:`Высший громовержец`]\n[EndSkill] Получает 5 [Cianjing:`Громовержца`]\n- Если уже имеется [Cianjing:`Громовержец`] или [SeniorCianjing:`Высший громовержец`], то полностью теряет его и получает 5 [SeniorCianjing:`Высшего громовержца`] взамен",
+          "desc": "[WhenUse] Получает <style=\"highlight\">4</style> [Breath:`Дыхания`]\n[BeforeAttack] Итоговая сила +1 за каждые 5 единиц в сумме силы и счётчика своего [Breath:`Дыхания`] (До <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Если нет [Cianjing:`Громовержца`] или [SeniorCianjing:`Высшего громовержца`], восстанавливает половину потраченных на активацию ЭГО Ресурсов и <color=#80c9ff>СД</color> (Округляется вниз; также распространяется на [EgoErode:`Коррозию ЭГО`], если она была спровоцирована низкой <color=#80c9ff>СД</color> при использовании этого ЭГО навыка)</style>\n[BeforeAttack] Наносит на <style=\"highlight\">25%</style> больше урона и Количество целей повышается на 1, если имеется [Cianjing:`Громовержец`]\n[BeforeAttack] Наносит на <style=\"highlight\">45%</style> больше урона и Количество целей повышается на 2, если имеется [SeniorCianjing:`Высший громовержец`]\n[EndSkill] Получает 5 [Cianjing:`Громовержца`]\n- Если уже имеется [Cianjing:`Громовержец`] или [SeniorCianjing:`Высший громовержец`], то полностью теряет его и получает 5 [SeniorCianjing:`Высшего громовержца`] взамен",
           "coinlist": [
             {},
             {
@@ -1199,7 +1199,7 @@
           "level": 1,
           "name": "Отречение",
           "abName": "Житель Метрополяриса",
-          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на 15% больше урона целям, имеющим ОЗ Щита\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на 3\n[BeforeAttack] Тратит до 6 единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До 5 Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
+          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на 15% больше урона целям, имеющим <color=#366ffb>OЗ Щита</color>\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на 3\n[BeforeAttack] Тратит до 6 единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До 5 Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
           "level": 3,
           "name": "Отречение",
           "abName": "Житель Метрополяриса",
-          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на <style=\"highlight\">20%</style> больше урона целям, имеющим ОЗ Щита\n<style=\"highlight\">[BeforeAttack] Итоговая сила повышается на текущую силу своего [Charge:`Заряда`] (До 2)</style>\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на <style=\"highlight\">4</style>\n[BeforeAttack] Тратит до <style=\"highlight\">8</style> единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До <style=\"highlight\">6</style> Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
+          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на <style=\"highlight\">20%</style> больше урона целям, имеющим <color=#366ffb>OЗ Щита</color>\n<style=\"highlight\">[BeforeAttack] Итоговая сила повышается на текущую силу своего [Charge:`Заряда`] (До 2)</style>\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на <style=\"highlight\">4</style>\n[BeforeAttack] Тратит до <style=\"highlight\">8</style> единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До <style=\"highlight\">6</style> Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1258,7 +1258,7 @@
           "level": 4,
           "name": "Отречение",
           "abName": "Житель Метрополяриса",
-          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на <style=\"highlight\">25%</style> больше урона целям, имеющим ОЗ Щита\n[BeforeAttack] Итоговая сила повышается на текущую силу своего [Charge:`Заряда`] (До <style=\"highlight\">3</style>)\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на <style=\"highlight\">5</style>\n[BeforeAttack] Тратит до <style=\"highlight\">10</style> единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До <style=\"highlight\">7</style> Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
+          "desc": "[CantIdentify]\nСлучайные цели\nНаносит на <style=\"highlight\">25%</style> больше урона целям, имеющим <color=#366ffb>OЗ Щита</color>\n[BeforeAttack] Итоговая сила повышается на текущую силу своего [Charge:`Заряда`] (До <style=\"highlight\">3</style>)\n[BeforeAttack] Повышает счётчик своего [Charge:`Заряда`] на <style=\"highlight\">5</style>\n[BeforeAttack] Тратит до <style=\"highlight\">10</style> единиц счётчика своего [Charge:`Заряда`], чтобы дать 7 [ChargeForceField:`Зарядных барьеров`] себе и (1 + (Потраченный счётчик [Charge:`Заряда`] / 2)) другим случайным Идентичностям (До <style=\"highlight\">7</style> Идентичностей; округляется вниз)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`]",
           "coinlist": [
             {
               "coindescs": [

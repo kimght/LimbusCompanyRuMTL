@@ -114,7 +114,7 @@
         {
           "level": 1,
           "name": "Разделка оленя",
-          "desc": "Сила монет +1 при 6 и более [Breath:`Дыхания`]\nСила монет +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Если своя СД выше 0, создаёт 1 Ман (望): получает +4 к Базовой силе\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[WinDuel] Получает 5 [Breath:`Дыхания`]\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 10 СД",
+          "desc": "Сила монет +1 при 6 и более [Breath:`Дыхания`]\nСила монет +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Если своя <color=#80c9ff>СД</color> выше 0, создаёт 1 Ман (望): получает +4 к Базовой силе\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[WinDuel] Получает 5 [Breath:`Дыхания`]\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "Утилизация",
-          "desc": "[CantChangeTarget]\nНе может быть Оглушена до использования этого навыка\n\n<color=#ff6000><mark color=#ff000040><b><u>Получает +1 к Базовой силе и +10% к наносимому урону за каждую единицу значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</color></mark></b></u>\n[WhenUse] Если ОЗ цели ниже 50%, наносит ей на 100% больше урона\n[WhenUse] Если своя СД выше 0, создаёт 1 Ман (望): получает +4 к Базовой силе\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[WinDuel] Получает 5 [Breath:`Дыхания`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может попасть критически или Оглушить цель\n[EnemyKill] Случайный Грешник становится [TeachersPrey:`Целью игры`] в следующем ходе\n[EndSkill] [FullReload:`Перезаряжается`]\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 10 СД",
+          "desc": "[CantChangeTarget]\nНе может быть Оглушена до использования этого навыка\n\n<color=#ff6000><mark color=#ff000040><b><u>Получает +1 к Базовой силе и +10% к наносимому урону за каждую единицу значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</color></mark></b></u>\n[WhenUse] Если <color=#00ff9c>ОЗ</color> цели ниже 50%, наносит ей на 100% больше урона\n[WhenUse] Если своя <color=#80c9ff>СД</color> выше 0, создаёт 1 Ман (望): получает +4 к Базовой силе\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[WinDuel] Получает 5 [Breath:`Дыхания`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может попасть критически или Оглушить цель\n[EnemyKill] Случайный Грешник становится [TeachersPrey:`Целью игры`] в следующем ходе\n[EndSkill] [FullReload:`Перезаряжается`]\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -357,12 +357,12 @@
         {
           "level": 1,
           "name": "Предвидение",
-          "desc": "При успешном увороте от всех монет атаковавшего использует на нём атаку <color=#fe6f01>「Разделка кролика」</color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Базовая сила +1 за каждые 2 единицы значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</u></b></mark></color>\n[WhenUse] [FullReload:`Перезаряжается`] (Единожды за ход)\n[OnDefeatEvade] Теряет 5 СД",
+          "desc": "При успешном увороте от всех монет атаковавшего использует на нём атаку <color=#fe6f01>「Разделка кролика」</color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Базовая сила +1 за каждые 2 единицы значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</u></b></mark></color>\n[WhenUse] [FullReload:`Перезаряжается`] (Единожды за ход)\n[OnDefeatEvade] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedEvade] Получает 3 [Breath:`Дыхания`] (До 2 раз за ход)\n[OnSucceedEvade] Восстанавливает 2 СД (До 5 раз за ход)"
+                  "desc": "[OnSucceedEvade] Получает 3 [Breath:`Дыхания`] (До 2 раз за ход)\n[OnSucceedEvade] Восстанавливает 2 <color=#80c9ff>СД</color> (До 5 раз за ход)"
                 }
               ]
             }
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "Я защищу.",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Восстанавливает 8 СД себе и Валенсине\n[DefeatDuel] Получает 1 [Vulnerable:`Уязвимость`] на следующий ход\n[DefeatDuel] Получает на 20% меньше урона за каждую единицу имеющейся [SupportProtect:`Вспомогательной защиты`]",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Восстанавливает 8 <color=#80c9ff>СД</color> себе и Валенсине\n[DefeatDuel] Получает 1 [Vulnerable:`Уязвимость`] на следующий ход\n[DefeatDuel] Получает на 20% меньше урона за каждую единицу имеющейся [SupportProtect:`Вспомогательной защиты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -400,10 +400,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД вместо ОЗ"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color> вместо <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 15 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 15 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Оглушает цель и превращает её в <sprite name=\"LivingSpecimenTheRings\"></u><color=#e30000><u><link=\"LivingSpecimenTheRings\">Телесный театр</link></u></color><u> в следующем ходе</u></b></mark></color>"
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "Мелодия Тибии - Анатомирование неанатомированного анатомированным",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушён до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 СД за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [MineTheRings:`Произведение искусства: Тибия`]",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушён до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 <color=#80c9ff>СД</color> за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [MineTheRings:`Произведение искусства: Тибия`]",
           "coinlist": [
             {
               "coindescs": [
@@ -504,10 +504,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 СД (Единожды за навык)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 <color=#80c9ff>СД</color> (Единожды за навык)"
                 }
               ]
             },
@@ -565,7 +565,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "Не наносит урона по ОЗ"
+                  "desc": "Не наносит урона по <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Если итоговой целью является противник, повышает ему счётчик [Laceration:`Кровотечения`] на 3"
@@ -633,7 +633,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свои ОЗ ниже 60%, наносит урон по СД вместо ОЗ"
+                  "desc": "[OnSucceedAttack] Если свои <color=#00ff9c>ОЗ</color> ниже 60%, наносит урон по <color=#80c9ff>СД</color> вместо <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Оглушает цель и превращает её в <sprite name=\"LivingSpecimenTheRings\"></u><color=#e30000><u><link=\"LivingSpecimenTheRings\">Телесный театр</link></u></color><u> в следующем ходе</u></b></mark></color>"
@@ -772,10 +772,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 10 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 10 <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 1 [HumanFleshTheRings:`Телесный ингредиент`]"
@@ -792,7 +792,7 @@
         {
           "level": 1,
           "name": "Освобождение подавленной плоти",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков противников перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушена до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 СД за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить целей\n[EndSkill] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков противников перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушена до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 <color=#80c9ff>СД</color> за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить целей\n[EndSkill] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]",
           "coinlist": [
             {
               "coindescs": [
@@ -800,10 +800,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 СД (Единожды за навык)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 <color=#80c9ff>СД</color> (Единожды за навык)"
                 }
               ]
             },
@@ -1232,7 +1232,7 @@
         {
           "level": 1,
           "name": "Чуешь жар?!",
-          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Дробящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
         {
           "level": 1,
           "name": "Нарушение правил",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1516,7 +1516,7 @@
         {
           "level": 1,
           "name": "Фиолетовый~ Сокрушительный удар!",
-          "desc": "<b>Навык [HeatingWireOnSpider:`Тепловых клинков`](#f8c200)</b>\n\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[WhenUse] Наносит на 60% больше урона при ОЗ ниже 40%\n[WhenUse] При 5 и более [GotACompliment:`«Меня похвалили!»`] с шансом 50% наносит 1 [Paralysis:`Паралич`] при попадании монетами этого навыка\n[DefeatDuel] Не может Оглушить цель\n[EndSkill] Теряет всю [ResentmentSpiderDaughter:`Злобу`] и получает 1 [GotACompliment:`«Меня похвалили!»`]",
+          "desc": "<b>Навык [HeatingWireOnSpider:`Тепловых клинков`](#f8c200)</b>\n\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[WhenUse] Наносит на 60% больше урона при <color=#00ff9c>ОЗ</color> ниже 40%\n[WhenUse] При 5 и более [GotACompliment:`«Меня похвалили!»`] с шансом 50% наносит 1 [Paralysis:`Паралич`] при попадании монетами этого навыка\n[DefeatDuel] Не может Оглушить цель\n[EndSkill] Теряет всю [ResentmentSpiderDaughter:`Злобу`] и получает 1 [GotACompliment:`«Меня похвалили!»`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1581,7 +1581,7 @@
         {
           "level": 1,
           "name": "Я тебе за это отплачу...!",
-          "desc": "<b>Навык [HeatingWireOnSpider:`Тепловых клинков`](#f8c200)</b>\n\nЕсли при получении удара есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода за каждое их значение</u></b></mark></color> (До 2 дополнительных раз)\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[WhenUse] Наносит на 40% больше урона при ОЗ ниже 40%",
+          "desc": "<b>Навык [HeatingWireOnSpider:`Тепловых клинков`](#f8c200)</b>\n\nЕсли при получении удара есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода за каждое их значение</u></b></mark></color> (До 2 дополнительных раз)\n[WhenUse] Если есть [ReinforcedTattooSpiderDaughter:`Усиливающие татуировки в стиле Среднего пальца`], наносит 1 [Laceration:`Кровотечение`] при попадании монетами этого навыка\n[WhenUse] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 40%",
           "coinlist": [
             {
               "coindescs": [
@@ -1723,7 +1723,7 @@
         {
           "level": 1,
           "name": "Пора бы уже растаять и умереть",
-          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], наносит 10 дополнительного Рубящего урона при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
         {
           "level": 1,
           "name": "Нарушение правил!",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[WhenUse] Если есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], повышает счётчик [Laceration:`Кровотечения`] на 1 при попадании монетами этого навыка\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%",
           "coinlist": [
             {
               "coindescs": [
@@ -1852,7 +1852,7 @@
         {
           "level": 1,
           "name": "Я выпотрошу тебя как рыбу",
-          "desc": "[BeforeUse] Теряет 10 СД\n[DefeatDuel] Не может Оглушить цель\n[DefeatDuel] Получает 1 [SkillPowerUp:`Повышение базовой силы`] на следующий ход (До 2 раз за ход)\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
+          "desc": "[BeforeUse] Теряет 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Не может Оглушить цель\n[DefeatDuel] Получает 1 [SkillPowerUp:`Повышение базовой силы`] на следующий ход (До 2 раз за ход)\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1887,7 +1887,7 @@
         {
           "level": 1,
           "name": "Удар в кишки<nobr>【Леватэйн】</nobr>",
-          "desc": "[BeforeUse] Теряет 10 СД\n[DefeatDuel] Не может Оглушить цель\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
+          "desc": "[BeforeUse] Теряет 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Не может Оглушить цель\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1949,7 +1949,7 @@
         {
           "level": 1,
           "name": "...Полное и тотальное уничтожение!<nobr>【Леватэйн】</nobr>",
-          "desc": "[BeforeUse] Теряет 10 СД\n[DefeatDuel] Не может Оглушить цель\n[BeforeAttack] Наносит на 60% больше урона при ОЗ ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
+          "desc": "[BeforeUse] Теряет 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Не может Оглушить цель\n[BeforeAttack] Наносит на 60% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2023,7 +2023,7 @@
         {
           "level": 1,
           "name": "Нарушение правил!!",
-          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[BeforeUse] Теряет 10 СД\n[BeforeAttack] Наносит на 40% больше урона при ОЗ ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
+          "desc": "Если при получении удара есть [ReinforcedTattooSpider:`Татуировки мести[TabExplain] 【<s>Великий Брат</s>】`], <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык во время хода</u></b></mark></color>\n[BeforeUse] Теряет 10 <color=#80c9ff>СД</color>\n[BeforeAttack] Наносит на 40% больше урона при <color=#00ff9c>ОЗ</color> ниже 50%\n[BeforeAttack] Получает (Количество монет этого навыка × 2) [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2299,7 +2299,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Уничтожает ОЗ Щита цели</mark></b></u></color>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Уничтожает <color=#366ffb>OЗ Щита</color> цели</mark></b></u></color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Paralysis:`Паралича`]"
@@ -2312,7 +2312,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 25% от максимальных ОЗ Ядру и Телу"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 25% от максимальных <color=#00ff9c>ОЗ</color> Ядру и Телу"
                 }
               ]
             }
@@ -2337,7 +2337,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных ОЗ цели"
+                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             },
@@ -2350,7 +2350,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных ОЗ цели"
+                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             },
@@ -2363,7 +2363,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных ОЗ цели"
+                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             },
@@ -2376,7 +2376,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 (Одного из следующих эффектов: [Combustion:`Огня`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] или [Sinking:`Утопания`]) и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных ОЗ цели"
+                  "desc": "[CriticalOnSucceedAttack] Наносит урон <color=#014fd6>Гордыней</color>, равный 25% от максимальных <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             }
@@ -2390,7 +2390,7 @@
         {
           "level": 1,
           "name": "Щит императора",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Получает на 50% меньше урона от противника, на которого нацелен своими Атакующими навыками</u></b></mark></color>\n[WinDuel] Наносит 3 [Binding:`Связывания`] на следующий ход\n[DefeatDuel] Атаковавший восстанавливает 15 СД",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Получает на 50% меньше урона от противника, на которого нацелен своими Атакующими навыками</u></b></mark></color>\n[WinDuel] Наносит 3 [Binding:`Связывания`] на следующий ход\n[DefeatDuel] Атаковавший восстанавливает 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2485,7 +2485,7 @@
         {
           "level": 1,
           "name": "Мелодия Тибии - Анатомирование неанатомированного анатомированным",
-          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушён до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 СД за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Теряет [MineTheRings:`Произведение искусства: Тибия`]\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [MineTheRings:`Произведение искусства: Тибия`]",
+          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушён до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 <color=#80c9ff>СД</color> за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Теряет [MineTheRings:`Произведение искусства: Тибия`]\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [MineTheRings:`Произведение искусства: Тибия`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2493,10 +2493,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 СД (Единожды за навык)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 <color=#80c9ff>СД</color> (Единожды за навык)"
                 }
               ]
             },
@@ -2551,7 +2551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если свои ОЗ ниже 60%, наносит урон по СД вместо ОЗ"
+                  "desc": "[OnSucceedAttack] Если свои <color=#00ff9c>ОЗ</color> ниже 60%, наносит урон по <color=#80c9ff>СД</color> вместо <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Оглушает цель и превращает её в <sprite name=\"LivingSpecimenTheRings\"></u><color=#e30000><u><link=\"LivingSpecimenTheRings\">Телесный театр</link></u></color><u> в следующем ходе</u></b></mark></color>"
@@ -2568,7 +2568,7 @@
         {
           "level": 1,
           "name": "Освобождение сдерживаемой плоти",
-          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушена до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 СД за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]",
+          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Если получает удар от Атакующих навыков перед использованием этого навыка</u></b></mark></color>, то получает 1 [PlusCoinValueDown:`Ослабление положительной монеты`] и 1 [ResultReduction:`Понижение силы`] (Единожды за навык противника; до 3 раз за ход)\nНе может быть Оглушена до использования этого навыка\n\nПри убийстве этим навыком восстанавливает по 15 <color=#80c9ff>СД</color> за каждую убитую им цель\n[StartBattle] Получает 4 [Protection:`Защищённости`]\n[WhenUse] Наносит на 3% больше урона за каждые 6 единиц в сумме силы [Laceration:`Кровотечения`] на всех целях этого навыка (До 30%)\n[DefeatDuel] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]\n[DefeatDuel] Наносит на 60% меньше урона и не может Оглушить цель\n[EndSkill] Теряет [BoneBladeTheRings:`Произведение искусства: Фасция`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2576,10 +2576,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 СД (Единожды за навык)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 5 <color=#80c9ff>СД</color> (Единожды за навык)"
                 }
               ]
             },
@@ -2629,7 +2629,7 @@
         {
           "level": 1,
           "name": "Совершеннейший пространственный разрез - Разрыв нити<nobr>【空間斬 - 絕緣】</nobr>",
-          "desc": "[nxCenterLine]\nНе может быть Оглушена до конца использования этого навыка\n\n[WhenUse] Если своя СД равна 20 и выше, создаёт 3 <nobr>Ман (望)</nobr>: получает +10 к Итоговой силе\n[WinDuel] Получает 2 [SlashDamageUp:`Повышения Рубящего урона`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 20 СД",
+          "desc": "[nxCenterLine]\nНе может быть Оглушена до конца использования этого навыка\n\n[WhenUse] Если своя <color=#80c9ff>СД</color> равна 20 и выше, создаёт 3 <nobr>Ман (望)</nobr>: получает +10 к Итоговой силе\n[WinDuel] Получает 2 [SlashDamageUp:`Повышения Рубящего урона`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 20 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2640,7 +2640,7 @@
                   "desc": "На 100% больше урона при критическом попадании"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по ОЗ"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Полностью тратит <sprite name=\"PhantomIncision\"></u><color=#e30000><u><link=\"PhantomIncision\">След клинка 【Послеобраз】</link></u></color><u> с каждой цели этого навыка и наносит</u></b></mark></color> ей (Потраченный [PhantomIncision:`След клинка 【Послеобраз】`])% урона по <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -2752,7 +2752,7 @@
         {
           "level": 1,
           "name": "Пусть эти руки будут проводником...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2778,7 +2778,7 @@
         {
           "level": 1,
           "name": "Вспороть, выпотрошить...",
-          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 СД",
+          "desc": "Итоговая сила +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[DefeatDuel] Наносит на 50% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2811,7 +2811,7 @@
         {
           "level": 1,
           "name": "Посредничество: высекание",
-          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 СД",
+          "desc": "Сила монет +1 за каждые 6 единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели (До 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Если имеются <sprite name=\"PressureOfPrescript\"></u><color=#9f6a3a><u><link=\"PressureOfPrescript\">Узы ответственности</link></u></color><u> или атакует <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цель предписания</link></u></color><u> спомощью этого навыка</u></b></mark></color>, то все его монеты становятся [SuperCoin:`Вечными`]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 50% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышает его счётчик <nobr>на 3</nobr>\n[DefeatDuel] Наносит на 80% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 6 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2837,7 +2837,7 @@
         {
           "level": 1,
           "name": "Посредничество: уничтожение",
-          "desc": "[nxCenterLine]\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 100% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 15 СД\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
+          "desc": "[nxCenterLine]\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Наносит на 100% больше урона <sprite name=\"IndexPrescriptTargetToPersonality\"></u><color=#9f6a3a><u><link=\"IndexPrescriptTargetToPersonality\">Цели предписания</link></u></color><u> этим навыком</u></b></mark></color>\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2889,7 +2889,7 @@
         {
           "level": 1,
           "name": "Посредничество: уничтожение - Ман неизбежного стремления<nobr>【本望】</nobr>",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя СД выше 0, создаёт 1 Ман (望)</u></b></mark></color>: получает +2 к Итоговой силе и +2 к Силе монет, а также наносит на 20% больше урона\n[EndSkill] Теряет 15 СД\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет ещё 20 СД\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`] и заканчивает этот ход",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если своя <color=#80c9ff>СД</color> выше 0, создаёт 1 Ман (望)</u></b></mark></color>: получает +2 к Итоговой силе и +2 к Силе монет, а также наносит на 20% больше урона\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет ещё 20 <color=#80c9ff>СД</color>\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`] и заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -2951,7 +2951,7 @@
         {
           "level": 1,
           "name": "Слышать всё. Надеяться на всё. Этими руками, всё будет....",
-          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Нацеливается на Рёшу</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Создаёт 1 Ман (望)</u></b></mark></color>: получает +2 к Итоговой силе и +2 к Силе монет, а также наносит на 20% больше урона\n[EndSkill] Теряет 15 СД\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет ещё 20 СД",
+          "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Нацеливается на Рёшу</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Создаёт 1 Ман (望)</u></b></mark></color>: получает +2 к Итоговой силе и +2 к Силе монет, а также наносит на 20% больше урона\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color>\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет ещё 20 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3525,7 +3525,7 @@
         {
           "level": 1,
           "name": "Фуриозо - Реплика",
-          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышет его счётчик на 3\n[WhenUse] Сила в столкновении +5 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 10 <sprite name=\"KarmaOfIndexStudent\"></u><color=#e30000><u><link=\"KarmaOfIndexRien\">Кармических последствий</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя СД равна 0 и выше, создаёт 1 <nobr>Ман (望)</nobr>: получает +4 к Итоговой силе и наносит на 40% больше урона\n\n[WinDuel] Получает ещё 3 [Breath:`Дыхания`] и повышет его счётчик на 3\n[WinDuel] Наносит в конце атаки 3 [Laceration:`Кровотечения`], 1 [Binding:`Связывание`] и 1 [Vulnerable:`Уязвимость`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 4 [AttackDmgDown:`Понижения урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 20 СД\n[EndSkill] Заканчивает этот ход",
+          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n[WhenUse] Получает 3 [Breath:`Дыхания`] и повышет его счётчик на 3\n[WhenUse] Сила в столкновении +5 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 10 <sprite name=\"KarmaOfIndexStudent\"></u><color=#e30000><u><link=\"KarmaOfIndexRien\">Кармических последствий</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя <color=#80c9ff>СД</color> равна 0 и выше, создаёт 1 <nobr>Ман (望)</nobr>: получает +4 к Итоговой силе и наносит на 40% больше урона\n\n[WinDuel] Получает ещё 3 [Breath:`Дыхания`] и повышет его счётчик на 3\n[WinDuel] Наносит в конце атаки 3 [Laceration:`Кровотечения`], 1 [Binding:`Связывание`] и 1 [Vulnerable:`Уязвимость`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 4 [AttackDmgDown:`Понижения урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 20 <color=#80c9ff>СД</color>\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -3935,7 +3935,7 @@
         {
           "level": 1,
           "name": "Фуриозо<nobr>【Крещендо】</nobr>",
-          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n[WhenUse] Получает 6 [Breath:`Дыхания`] и повышет его счётчик на 6\n[WhenUse] Сила в столкновении +10 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 20 <sprite name=\"KarmaOfIndexRien_2Phase\"></u><color=#e30000><u><link=\"KarmaOfIndexRien_2Phase\">Кармических последствий 【Фортуна】</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя СД равна 0 и выше, создаёт 2 <nobr>Ман (望)</nobr>: получает +6 к Итоговой силе и наносит на 70% больше урона\n\n[WinDuel] Наносит в конце атаки 4 [Laceration:`Кровотечения`], 2 [Binding:`Связывания`] и 2 [Vulnerable:`Уязвимости`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 6 [AttackDmgDown:`Понижений урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 25 СД\n[EndSkill] Заканчивает этот ход",
+          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n[WhenUse] Получает 6 [Breath:`Дыхания`] и повышет его счётчик на 6\n[WhenUse] Сила в столкновении +10 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 20 <sprite name=\"KarmaOfIndexRien_2Phase\"></u><color=#e30000><u><link=\"KarmaOfIndexRien_2Phase\">Кармических последствий 【Фортуна】</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя <color=#80c9ff>СД</color> равна 0 и выше, создаёт 2 <nobr>Ман (望)</nobr>: получает +6 к Итоговой силе и наносит на 70% больше урона\n\n[WinDuel] Наносит в конце атаки 4 [Laceration:`Кровотечения`], 2 [Binding:`Связывания`] и 2 [Vulnerable:`Уязвимости`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 6 [AttackDmgDown:`Понижений урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 25 <color=#80c9ff>СД</color>\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -3967,7 +3967,7 @@
         {
           "level": 1,
           "name": "Фуриозо<nobr>【Лакримоза-Крещендо】</nobr>",
-          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n<color=#ff6000><mark=#ff000040><b><u>Сила в столкновении -20 против базового ЭГО навыка Рёшу <color=#fe6f01>「Бушующее пламя лесов бескрайних」</color></u></b></mark></color>\n\n[WhenUse] Получает 9 [Breath:`Дыхания`] и повышет его счётчик на 9\n[WhenUse] Сила в столкновении +15 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 20 <sprite name=\"KarmaOfIndexRien_2Phase\"></u><color=#e30000><u><link=\"KarmaOfIndexRien_2Phase\">Кармических последствий 【Фортуна】</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя СД равна 0 и выше, создаёт 3 <nobr>Ман (望):</nobr> получает +12 к Итоговой силе и наносит на 100% больше урона\n\n[WinDuel] Наносит в конце атаки 5 [Laceration:`Кровотечения`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 8 [AttackDmgDown:`Понижений урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 30 СД\n[EndSkill] Заканчивает этот ход",
+          "desc": "[WideAreaRampage:`Нефокусированный залп`]\n\n<color=#ff6000><mark=#ff000040><b><u>Не вызывает активацию Защитных навыков целей</u></b></mark></color>\n[nxCenterLine]\n\n<color=#ff6000><mark=#ff000040><b><u>Сила в столкновении -20 против базового ЭГО навыка Рёшу <color=#fe6f01>「Бушующее пламя лесов бескрайних」</color></u></b></mark></color>\n\n[WhenUse] Получает 9 [Breath:`Дыхания`] и повышет его счётчик на 9\n[WhenUse] Сила в столкновении +15 (<color=#ff6000><mark=#ff000040><b><u>Получаемая Сила в столкновении понижается на 1 за каждые 20 <sprite name=\"KarmaOfIndexRien_2Phase\"></u><color=#e30000><u><link=\"KarmaOfIndexRien_2Phase\">Кармических последствий 【Фортуна】</link></u></color><u>, вплоть до 0</u></b></mark></color>)\n[WhenUse] Если своя <color=#80c9ff>СД</color> равна 0 и выше, создаёт 3 <nobr>Ман (望):</nobr> получает +12 к Итоговой силе и наносит на 100% больше урона\n\n[WinDuel] Наносит в конце атаки 5 [Laceration:`Кровотечения`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем противникам, по которым попал этим навыком\n[DefeatDuel] Получает 8 [AttackDmgDown:`Понижений урона`] и 9 [Paralysis:`Параличей`]\n[DefeatDuel] Не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Если этим навыком удалось создать Ман (望), теряет 30 <color=#80c9ff>СД</color>\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -4018,7 +4018,7 @@
         {
           "level": 1,
           "name": "Тщетность<nobr>【非望】</nobr>",
-          "desc": "[StartBattle] Если этот слот навыков является главной целью Атакующего навыка Грешника, теряет 5 СД",
+          "desc": "[StartBattle] Если этот слот навыков является главной целью Атакующего навыка Грешника, теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [

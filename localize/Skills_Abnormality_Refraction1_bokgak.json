@@ -237,7 +237,7 @@
         {
           "level": 1,
           "name": "¡Olé!",
-          "desc": "[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -250,7 +250,7 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Цель теряет 5 СД",
+          "desc": "[WinDuel] Цель теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {},
             {},
@@ -271,33 +271,33 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "Итоговая сила +2 против целей с СД ниже 0",
+          "desc": "Итоговая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -331,7 +331,7 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Цель теряет 5 СД",
+          "desc": "[WinDuel] Цель теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {},
             {},
@@ -352,33 +352,33 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "Итоговая сила +2 против целей с СД ниже 0",
+          "desc": "Итоговая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -400,7 +400,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -414,7 +414,7 @@
         {
           "level": 1,
           "name": "Порву тебя на части",
-          "desc": "Сила навыка +2 против целей с меньшей СД",
+          "desc": "Сила навыка +2 против целей с меньшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -445,7 +445,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -459,7 +459,7 @@
         {
           "level": 1,
           "name": "Эй!",
-          "desc": "[WinDuel] Цель теряет 10 СД",
+          "desc": "[WinDuel] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -486,7 +486,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -500,7 +500,7 @@
         {
           "level": 1,
           "name": "Расшибу твою черепушку",
-          "desc": "Сила навыка +2 против целей с меньшей СД",
+          "desc": "Сила навыка +2 против целей с меньшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -524,7 +524,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -538,7 +538,7 @@
         {
           "level": 1,
           "name": "Эй!",
-          "desc": "[WinDuel] Цель теряет 10 СД",
+          "desc": "[WinDuel] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -557,33 +557,33 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "Итоговая сила +2 против целей с СД ниже 0",
+          "desc": "Итоговая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -597,7 +597,7 @@
         {
           "level": 1,
           "name": "¿Eso es todo?",
-          "desc": "[WinDuel] Цель теряет 10 СД",
+          "desc": "[WinDuel] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -616,7 +616,7 @@
         {
           "level": 1,
           "name": "¡Excelente!",
-          "desc": "[OnSucceedEvade] Понижает свою Границу Выносливости на 5\n[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[OnSucceedEvade] Понижает свою Границу Выносливости на 5\n[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -675,12 +675,12 @@
         {
           "level": 1,
           "name": "Pañata Party~!",
-          "desc": "Итоговая сила +3 против целей с СД ниже 0\n[WhenUse] Если СД цели ниже 0, увеличивает шанс критического попадания этой атакой на 2.2% за каждую единицу СД цели ниже 0",
+          "desc": "Итоговая сила +3 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Если <color=#80c9ff>СД</color> цели ниже 0, увеличивает шанс критического попадания этой атакой на 2.2% за каждую единицу <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Понижает свою Границу Выносливости на 50% от нанесённого урона"
@@ -690,7 +690,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 7 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 7 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Понижает свою Границу Выносливости на 50% от нанесённого урона"
@@ -700,7 +700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Понижает свою Границу Выносливости на 50% от нанесённого урона"
@@ -710,7 +710,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Понижает свою Границу Выносливости на 50% от нанесённого урона"
@@ -727,7 +727,7 @@
         {
           "level": 1,
           "name": "Плачущий шлепок",
-          "desc": "[WhenUse] Наносит 15 урона по СД",
+          "desc": "[WhenUse] Наносит 15 урона по <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -749,12 +749,12 @@
         {
           "level": 1,
           "name": "Печальный шлепок",
-          "desc": "[StartDuel] Восстанавливает цели 10 СД",
+          "desc": "[StartDuel] Восстанавливает цели 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит урон по СД в количестве половины от нанесённого этой атакой урона по ОЗ (Не снижает ОЗ цели)"
+                  "desc": "[OnSucceedAttack] Наносит урон по <color=#80c9ff>СД</color> в количестве половины от нанесённого этой атакой урона по <color=#00ff9c>ОЗ</color> (Не снижает <color=#00ff9c>ОЗ</color> цели)"
                 }
               ]
             }
@@ -768,19 +768,19 @@
         {
           "level": 1,
           "name": "Расплавленный глаз",
-          "desc": "Если СД цели ниже 0, наносит ей на 50% больше урона\n[WhenUse] Цель теряет 10 СД",
+          "desc": "Если <color=#80c9ff>СД</color> цели ниже 0, наносит ей на 50% больше урона\n[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по ОЗ в количестве силы [Sinking:`Утопания`] на цели"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по <color=#00ff9c>ОЗ</color> в количестве силы [Sinking:`Утопания`] на цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по СД в количестве силы [Sinking:`Утопания`] на цели"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по <color=#80c9ff>СД</color> в количестве силы [Sinking:`Утопания`] на цели"
                 }
               ]
             }
@@ -794,7 +794,7 @@
         {
           "level": 1,
           "name": "Льющаяся печаль",
-          "desc": "Нацеливается на противника с наибольшим [Sinking:`Утопанием`]\nЕсли СД цели ниже 0, наносит ей на 30% больше урона\n[WhenUse] Наносит 5 урона по СД",
+          "desc": "Нацеливается на противника с наибольшим [Sinking:`Утопанием`]\nЕсли <color=#80c9ff>СД</color> цели ниже 0, наносит ей на 30% больше урона\n[WhenUse] Наносит 5 урона по <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -806,14 +806,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по ОЗ в количестве силы [Sinking:`Утопания`] на цели"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по <color=#00ff9c>ОЗ</color> в количестве силы [Sinking:`Утопания`] на цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по СД в количестве силы [Sinking:`Утопания`] на цели"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон по <color=#80c9ff>СД</color> в количестве силы [Sinking:`Утопания`] на цели"
                 }
               ]
             }
@@ -827,7 +827,7 @@
         {
           "level": 1,
           "name": "Глазная тяжесть",
-          "desc": "Если СД главной цели ниже 0, наносит на 100% больше урона\n[DefeatDuel] Отменяет все свои атаки и получает 3 [Vulnerable:`Уязвимости`]",
+          "desc": "Если <color=#80c9ff>СД</color> главной цели ниже 0, наносит на 100% больше урона\n[DefeatDuel] Отменяет все свои атаки и получает 3 [Vulnerable:`Уязвимости`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1349,7 +1349,7 @@
         {
           "level": 1,
           "name": "Колющий удар",
-          "desc": "Если свои ОЗ ниже 50%, наносит на 1 [Nail:`Гвоздь Корп. N`] больше монетами этой атаки",
+          "desc": "Если свои <color=#00ff9c>ОЗ</color> ниже 50%, наносит на 1 [Nail:`Гвоздь Корп. N`] больше монетами этой атаки",
           "coinlist": [
             {
               "coindescs": [
@@ -1831,7 +1831,7 @@
         {
           "level": 1,
           "name": "Передача обработанных отчётов",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nНацеливается на противника с наибольшими текущими ОЗ\n[WhenUse] Теряет весь [Charge:`Заряд`]",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nНацеливается на противника с наибольшими текущими <color=#00ff9c>ОЗ</color>\n[WhenUse] Теряет весь [Charge:`Заряд`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2001,19 +2001,19 @@
         {
           "level": 1,
           "name": "Жуткие глаза",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 7 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 7 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 7 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 7 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2027,7 +2027,7 @@
         {
           "level": 1,
           "name": "Несовершенная имитация",
-          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Цель теряет 10 СД\n[WhenUse] Получает 2 [AggressiveBokgak:`Инстинкта`]",
+          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>\n[WhenUse] Получает 2 [AggressiveBokgak:`Инстинкта`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2046,7 +2046,7 @@
         {
           "level": 1,
           "name": "Адаптированная оболочка",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 5 [AggressiveBokgak:`Инстинктов`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 5 [AggressiveBokgak:`Инстинктов`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2054,7 +2054,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 7 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 7 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2068,7 +2068,7 @@
         {
           "level": 1,
           "name": "Костный взрыв",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2094,19 +2094,19 @@
         {
           "level": 1,
           "name": "Жуткие глаза",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2120,7 +2120,7 @@
         {
           "level": 1,
           "name": "Несовершенная имитация",
-          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Цель теряет 10 СД\n[WhenUse] Получает 2 [AggressiveBokgak:`Инстинкта`]",
+          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>\n[WhenUse] Получает 2 [AggressiveBokgak:`Инстинкта`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2139,7 +2139,7 @@
         {
           "level": 1,
           "name": "Адаптированная оболочка",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 5 [AggressiveBokgak:`Инстинктов`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 5 [AggressiveBokgak:`Инстинктов`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2147,7 +2147,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2161,7 +2161,7 @@
         {
           "level": 1,
           "name": "Костный взрыв",
-          "desc": "[WhenUse] Базовая сила +2 против целей с СД ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
+          "desc": "[WhenUse] Базовая сила +2 против целей с <color=#80c9ff>СД</color> ниже 0\n[WhenUse] Получает 1 [AggressiveBokgak:`Инстинкты`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2247,7 +2247,7 @@
         {
           "level": 1,
           "name": "Активация HP пули",
-          "desc": "[WhenUse] Восстанавливает 20 ОЗ",
+          "desc": "[WhenUse] Восстанавливает 20 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -2279,7 +2279,7 @@
         {
           "level": 1,
           "name": "Активация HP пули",
-          "desc": "[WhenUse] Восстанавливает 20 ОЗ",
+          "desc": "[WhenUse] Восстанавливает 20 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -2369,7 +2369,7 @@
         {
           "level": 1,
           "name": "Вход воспрещён",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Burst:`Разрыва`] на цели (До 2)\n[DefeatDuel] Восстанавливает 10 СД",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Burst:`Разрыва`] на цели (До 2)\n[DefeatDuel] Восстанавливает 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2384,7 +2384,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит (Сила [Burst:`Разрыва`] × счётчик [Burst:`Разрыва`] цели) урона по ОЗ и затем полностью убирает [Burst:`Разрыв`] с цели"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит (Сила [Burst:`Разрыва`] × счётчик [Burst:`Разрыва`] цели) урона по <color=#00ff9c>ОЗ</color> и затем полностью убирает [Burst:`Разрыв`] с цели"
                 }
               ]
             }
@@ -2443,7 +2443,7 @@
         {
           "level": 1,
           "name": "Посторонним вход воспрещён",
-          "desc": "Нацеливается на противника с наибольшими текущими ОЗ\n[WhenUse] Сила монет +1 против целей с [Burst:`Разрывом`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "Нацеливается на противника с наибольшими текущими <color=#00ff9c>ОЗ</color>\n[WhenUse] Сила монет +1 против целей с [Burst:`Разрывом`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2490,7 +2490,7 @@
                   "desc": "Если вторая и третья монеты выпали орлом, на 30% больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит (Сила [Burst:`Разрыва`] × счётчик [Burst:`Разрыва`] цели) урона по ОЗ и затем полностью убирает [Burst:`Разрыв`] с цели"
+                  "desc": "[OnSucceedAttack] Наносит (Сила [Burst:`Разрыва`] × счётчик [Burst:`Разрыва`] цели) урона по <color=#00ff9c>ОЗ</color> и затем полностью убирает [Burst:`Разрыв`] с цели"
                 }
               ]
             }
@@ -2537,7 +2537,7 @@
         {
           "level": 1,
           "name": "Бешеный таран",
-          "desc": "Нацеливается на противника с наименьшими текущими ОЗ\n[WhenUse] Сила монет +1 против целей с 3 и более [Laceration:`Кровотечения`]",
+          "desc": "Нацеливается на противника с наименьшими текущими <color=#00ff9c>ОЗ</color>\n[WhenUse] Сила монет +1 против целей с 3 и более [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2563,7 +2563,7 @@
         {
           "level": 1,
           "name": "Разорвать на части",
-          "desc": "Нацеливается на противника с наименьшими текущими ОЗ\n[WhenUse] Сила монет +1 против целей с 3 и более [Laceration:`Кровотечения`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "Нацеливается на противника с наименьшими текущими <color=#00ff9c>ОЗ</color>\n[WhenUse] Сила монет +1 против целей с 3 и более [Laceration:`Кровотечения`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2615,7 +2615,7 @@
         {
           "level": 1,
           "name": "Яростный набег",
-          "desc": "Нацеливается на противника с наименьшими текущими ОЗ\n[WhenUse] Базовая сила +2 за каждые 3 [Laceration:`Кровотечения`] на цели (До 4)",
+          "desc": "Нацеливается на противника с наименьшими текущими <color=#00ff9c>ОЗ</color>\n[WhenUse] Базовая сила +2 за каждые 3 [Laceration:`Кровотечения`] на цели (До 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -2675,7 +2675,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 20 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 20 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
@@ -2761,7 +2761,7 @@
         {
           "level": 1,
           "name": "Мучения от боли",
-          "desc": "[WhenUse] Если на себе есть негативные эффекты, Базовая сила +3\n[WhenUse] Теряет 12 ОЗ\n[WhenUse] Получает 5 [Laceration:`Кровотечения`] на следующий ход\n[DefeatDuel] Базовая сила -5\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Если на себе есть негативные эффекты, Базовая сила +3\n[WhenUse] Теряет 12 <color=#00ff9c>ОЗ</color>\n[WhenUse] Получает 5 [Laceration:`Кровотечения`] на следующий ход\n[DefeatDuel] Базовая сила -5\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2803,7 +2803,7 @@
         {
           "level": 1,
           "name": "Агония от боли",
-          "desc": "[WhenUse] Если на себе есть негативные эффекты, Базовая сила +4\n[WhenUse] Теряет 12 ОЗ\n[WhenUse] Счётчик своего [Laceration:`Кровотечения`] повышается на 3 в следующем ходе",
+          "desc": "[WhenUse] Если на себе есть негативные эффекты, Базовая сила +4\n[WhenUse] Теряет 12 <color=#00ff9c>ОЗ</color>\n[WhenUse] Счётчик своего [Laceration:`Кровотечения`] повышается на 3 в следующем ходе",
           "coinlist": [
             {
               "coindescs": [
@@ -2868,7 +2868,7 @@
         {
           "level": 1,
           "name": "Хихиканье",
-          "desc": "[WhenUse] Цель теряет 10 СД",
+          "desc": "[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2923,7 +2923,7 @@
         {
           "level": 1,
           "name": "Очищение",
-          "desc": "[WhenUse] Если текущие ОЗ цели ниже 60%, Базовая сила +2\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Если текущие <color=#00ff9c>ОЗ</color> цели ниже 60%, Базовая сила +2\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2994,7 +2994,7 @@
         {
           "level": 1,
           "name": "Вы – ничто",
-          "desc": "[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -3239,7 +3239,7 @@
         {
           "level": 1,
           "name": "Почтенное держание",
-          "desc": "[WhenUse] Если текущие ОЗ цели не максимальны, Базовая сила +2\n[WhenUse] Если текущие ОЗ цели ниже 60%, наносит ей на 80% больше урона\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Если текущие <color=#00ff9c>ОЗ</color> цели не максимальны, Базовая сила +2\n[WhenUse] Если текущие <color=#00ff9c>ОЗ</color> цели ниже 60%, наносит ей на 80% больше урона\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -3247,7 +3247,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Если текущие ОЗ цели ниже 30%, убивает её и восстанавливает себе 50 ОЗ"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Если текущие <color=#00ff9c>ОЗ</color> цели ниже 30%, убивает её и восстанавливает себе 50 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход"
@@ -3264,7 +3264,7 @@
         {
           "level": 1,
           "name": "Покайтесь!!",
-          "desc": "[WhenUse] Если текущие ОЗ цели не максимальны, Базовая сила +2\n[WhenUse] Если текущие ОЗ цели ниже 60%, наносит ей на 80% больше урона\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Если текущие <color=#00ff9c>ОЗ</color> цели не максимальны, Базовая сила +2\n[WhenUse] Если текущие <color=#00ff9c>ОЗ</color> цели ниже 60%, наносит ей на 80% больше урона\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [

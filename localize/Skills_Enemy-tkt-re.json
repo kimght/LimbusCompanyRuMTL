@@ -166,7 +166,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 5) ОЗ Щита (До 60)",
+          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 5) <color=#366ffb>OЗ Щита</color> (До 60)",
           "coinlist": [
             {
               "coindescs": [

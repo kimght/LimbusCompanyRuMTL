@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Цель теряет 2 СД"
+                  "desc": "[OnSucceedAttackTail] Цель теряет 2 <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Цель теряет 2 СД"
+                  "desc": "[OnSucceedAttackTail] Цель теряет 2 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "Узреть ужас",
-          "desc": "[WinDuel] Восстанавливает 10 ОЗ, а цель теряет 5 СД",
+          "desc": "[WinDuel] Восстанавливает 10 <color=#00ff9c>ОЗ</color>, а цель теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -51,25 +51,25 @@
         {
           "level": 1,
           "name": "Пожинать ужас",
-          "desc": "Если СД цели ниже 20, восстанавливает на 20% больше ОЗ с помощью этой атаки",
+          "desc": "Если <color=#80c9ff>СД</color> цели ниже 20, восстанавливает на 20% больше <color=#00ff9c>ОЗ</color> с помощью этой атаки",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Цель теряет 3 СД"
+                  "desc": "[OnSucceedAttackTail] Цель теряет 3 <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 30% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Цель теряет 3 СД"
+                  "desc": "[OnSucceedAttackTail] Цель теряет 3 <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 30% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона"
                 }
               ]
             }
@@ -83,7 +83,7 @@
         {
           "level": 1,
           "name": "Парализованный разум",
-          "desc": "Если СД цели ниже -15, наносит на 50% больше урона",
+          "desc": "Если <color=#80c9ff>СД</color> цели ниже -15, наносит на 50% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -162,7 +162,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 40% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Копирует одно из обычных усилений на цели и получает его на следующий ход"
@@ -172,7 +172,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 40% от нанесённого урона"
                 }
               ]
             }
@@ -234,12 +234,12 @@
         {
           "level": 1,
           "name": ".-.. -",
-          "desc": "[WinDuel] Цель теряет 1 СД за каждого другого живого Обледневшего союзника",
+          "desc": "[WinDuel] Цель теряет 1 <color=#80c9ff>СД</color> за каждого другого живого Обледневшего союзника",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 40% от нанесённого урона"
                 },
                 {
                   "desc": "Копирует одно из обычных усилений на цели и получает его на следующий ход"
@@ -249,7 +249,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 40% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 40% от нанесённого урона"
                 }
               ]
             }
@@ -263,12 +263,12 @@
         {
           "level": 1,
           "name": "-... .…",
-          "desc": "Если на цели есть [Sinking:`Утопание`], эффект восстановления ОЗ также будет действовать ещё на одного другого Обледневшего союзника с наименьшей СД",
+          "desc": "Если на цели есть [Sinking:`Утопание`], эффект восстановления <color=#00ff9c>ОЗ</color> также будет действовать ещё на одного другого Обледневшего союзника с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 30% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 1 [Sinking:`Утопание`]"
@@ -278,7 +278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 30% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 1 [Sinking:`Утопание`]"
@@ -295,12 +295,12 @@
         {
           "level": 1,
           "name": ".--- .",
-          "desc": "Если на цели есть [Sinking:`Утопание`], эффект восстановления ОЗ также будет действовать ещё на одного другого Обледневшего союзника с наименьшей СД",
+          "desc": "Если на цели есть [Sinking:`Утопание`], эффект восстановления <color=#00ff9c>ОЗ</color> также будет действовать ещё на одного другого Обледневшего союзника с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [AaCePbBa:`Бледного шума`]"
@@ -317,7 +317,7 @@
         {
           "level": 1,
           "name": "-. .…",
-          "desc": "[WhenUse] Если на цели есть [AaCePbBa:`Бледный шум`], все Обледневшие союзники восстанавливают 30 ОЗ",
+          "desc": "[WhenUse] Если на цели есть [AaCePbBa:`Бледный шум`], все Обледневшие союзники восстанавливают 30 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -329,7 +329,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 20 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 20 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -506,7 +506,7 @@
         {
           "level": 1,
           "name": "--. . ...-",
-          "desc": "Если на цели есть [AaCePbBa:`Бледный шум`], она теряет 1 СД за каждого другого союзника",
+          "desc": "Если на цели есть [AaCePbBa:`Бледный шум`], она теряет 1 <color=#80c9ff>СД</color> за каждого другого союзника",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
         {
           "level": 1,
           "name": "-.- ..",
-          "desc": "[WhenUse] Получает 2 [Protection:`Защищённости`]\nПри получении удара по щиту наносит 1 [AaCePbBa:`Бледный шум`] атакующему\n[EndBattle] Восстанавливает ОЗ в количестве (Оставшиеся ОЗ Щита × 2)",
+          "desc": "[WhenUse] Получает 2 [Protection:`Защищённости`]\nПри получении удара по щиту наносит 1 [AaCePbBa:`Бледный шум`] атакующему\n[EndBattle] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве (Оставшиеся <color=#366ffb>OЗ Щита</color> × 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -828,7 +828,7 @@
                   "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 20 фиксированного урона по ОЗ"
+                  "desc": "[OnSucceedAttack] Наносит 20 фиксированного урона по <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`] на следующий ход"
@@ -966,7 +966,7 @@
                   "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 20 фиксированного урона по ОЗ"
+                  "desc": "[OnSucceedAttack] Наносит 20 фиксированного урона по <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`] на следующий ход"

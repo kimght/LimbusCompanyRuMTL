@@ -14,7 +14,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 2 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -46,10 +46,10 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -78,23 +78,23 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Вновь подкидывает монету 1 раз, если свои ОЗ ниже 50%"
+                  "desc": "Вновь подкидывает монету 1 раз, если свои <color=#00ff9c>ОЗ</color> ниже 50%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 }
               ]
             }
@@ -108,7 +108,7 @@
         {
           "level": 1,
           "name": "З■щ■■■",
-          "desc": "[WhenUse] Получает 5 ОЗ Щита за каждый [Burst:`Разрыв`] на атакующем\n[EndBattle] Восстанавливает себе ОЗ на количество оставшегося щита",
+          "desc": "[WhenUse] Получает 5 <color=#366ffb>OЗ Щита</color> за каждый [Burst:`Разрыв`] на атакующем\n[EndBattle] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество оставшегося щита",
           "coinlist": [
             {
               "coindescs": [
@@ -135,7 +135,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 2 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -157,7 +157,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -167,10 +167,10 @@
                   "desc": "[OnSucceedAttack] Наносит 4 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -199,23 +199,23 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Вновь подкидывает монету 1 раз, если свои ОЗ ниже 50%"
+                  "desc": "Вновь подкидывает монету 1 раз, если свои <color=#00ff9c>ОЗ</color> ниже 50%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе ОЗ на количество нанесённого урона (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество нанесённого урона (До 20)"
                 }
               ]
             }
@@ -229,7 +229,7 @@
         {
           "level": 1,
           "name": "■■щит■",
-          "desc": "[WhenUse] Получает 5 ОЗ Щита за каждый [Burst:`Разрыв`] на атакующем\n[EndBattle] Восстанавливает себе ОЗ на количество оставшегося щита",
+          "desc": "[WhenUse] Получает 5 <color=#366ffb>OЗ Щита</color> за каждый [Burst:`Разрыв`] на атакующем\n[EndBattle] Восстанавливает себе <color=#00ff9c>ОЗ</color> на количество оставшегося щита",
           "coinlist": [
             {
               "coindescs": [

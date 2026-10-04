@@ -97,7 +97,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 2) ОЗ Щита (До 20)",
+          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 2) <color=#366ffb>OЗ Щита</color> (До 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 2) ОЗ Щита (До 20)",
+          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 2) <color=#366ffb>OЗ Щита</color> (До 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -368,7 +368,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 3) ОЗ Щита (До 30)",
+          "desc": "[StartBattle] Получает (Счётчик своего [Vibration:`Тремора`] × 3) <color=#366ffb>OЗ Щита</color> (До 30)",
           "coinlist": [
             {
               "coindescs": [

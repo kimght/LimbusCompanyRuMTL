@@ -147,21 +147,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -485,7 +485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Тело восстанавливает 3 ОЗ"
+                  "desc": "[OnSucceedAttack] Тело восстанавливает 3 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -528,7 +528,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Тело восстанавливает 10 ОЗ"
+                  "desc": "[OnSucceedAttack] Тело восстанавливает 10 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] на следующий ход"
@@ -559,7 +559,7 @@
         {
           "level": 1,
           "name": "Работаем упорно!",
-          "desc": "[WhenUse] Теряет 10 ОЗ, чтобы повысить Силу навыка на 1",
+          "desc": "[WhenUse] Теряет 10 <color=#00ff9c>ОЗ</color>, чтобы повысить Силу навыка на 1",
           "coinlist": [
             {}
           ]
@@ -599,7 +599,7 @@
         {
           "level": 1,
           "name": "Усерднее!",
-          "desc": "[WhenUse] Теряет 10 ОЗ, чтобы повысить Силу навыка на 1",
+          "desc": "[WhenUse] Теряет 10 <color=#00ff9c>ОЗ</color>, чтобы повысить Силу навыка на 1",
           "coinlist": [
             {},
             {},
@@ -685,7 +685,7 @@
         {
           "level": 1,
           "name": "НАКА☆ЗАНИЕ",
-          "desc": "[WhenUse] Теряет 10 ОЗ, чтобы повысить Силу навыка на 2",
+          "desc": "[WhenUse] Теряет 10 <color=#00ff9c>ОЗ</color>, чтобы повысить Силу навыка на 2",
           "coinlist": [
             {},
             {}
@@ -903,7 +903,7 @@
         {
           "level": 1,
           "name": "Блеск☆блеск поворот!?",
-          "desc": "[WhenUse] Теряет 10 ОЗ, чтобы повысить Силу навыка на 2",
+          "desc": "[WhenUse] Теряет 10 <color=#00ff9c>ОЗ</color>, чтобы повысить Силу навыка на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1122,14 +1122,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -1143,7 +1143,7 @@
         {
           "level": 1,
           "name": "Несовершенная имитация",
-          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Наносит 10 урона по СД цели",
+          "desc": "Имитирует силу и количество монет навыка, от которого получил урон\n[WhenUse] Наносит 10 урона по <color=#80c9ff>СД</color> цели",
           "coinlist": [
             {
               "coindescs": [
@@ -1167,7 +1167,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10% от максимальных ОЗ\n[OnSucceedAttack] Получает 1 [Aggressive:`Инстинкты`]"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10% от максимальных <color=#00ff9c>ОЗ</color>\n[OnSucceedAttack] Получает 1 [Aggressive:`Инстинкты`]"
                 }
               ]
             }
@@ -1186,7 +1186,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10% от максимальных ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10% от максимальных <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -1436,7 +1436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 20 ОЗ\n[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 5"
+                  "desc": "[OnSucceedAttack] Восстанавливает 20 <color=#00ff9c>ОЗ</color>\n[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 5"
                 }
               ]
             }
@@ -1515,7 +1515,7 @@
         {
           "level": 1,
           "name": "Мучения от боли",
-          "desc": "[WhenUse] Теряет 12 ОЗ и получает 5 [Laceration:`Кровотечения`] на следующий ход",
+          "desc": "[WhenUse] Теряет 12 <color=#00ff9c>ОЗ</color> и получает 5 [Laceration:`Кровотечения`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1548,7 +1548,7 @@
         {
           "level": 1,
           "name": "Агония от боли",
-          "desc": "[WhenUse] Теряет 12 ОЗ и счётчик своего [Laceration:`Кровотечения`] повышается на 3 в следующем ходе",
+          "desc": "[WhenUse] Теряет 12 <color=#00ff9c>ОЗ</color> и счётчик своего [Laceration:`Кровотечения`] повышается на 3 в следующем ходе",
           "coinlist": [
             {
               "coindescs": [
@@ -1613,7 +1613,7 @@
         {
           "level": 1,
           "name": "Хихиканье",
-          "desc": "[WhenUse] Цель теряет 10 СД",
+          "desc": "[WhenUse] Цель теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1665,7 +1665,7 @@
         {
           "level": 1,
           "name": "Очищение",
-          "desc": "[WhenUse] Если ОЗ цели ниже 30%, Сила навыка +2",
+          "desc": "[WhenUse] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, Сила навыка +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1705,7 +1705,7 @@
         {
           "level": 1,
           "name": "Я должна забрать ваши жизни!",
-          "desc": "[WhenUse] Если ОЗ цели ниже 30%, Сила навыка +2",
+          "desc": "[WhenUse] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, Сила навыка +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1750,7 +1750,7 @@
         {
           "level": 1,
           "name": "Вы – ничто",
-          "desc": "[OnSucceedEvade] Атакующий теряет 5 СД",
+          "desc": "[OnSucceedEvade] Атакующий теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -1961,12 +1961,12 @@
         {
           "level": 1,
           "name": "Почтенное держание",
-          "desc": "[WhenUse] Если ОЗ цели ниже 30%, наносит ей на 100% больше урона",
+          "desc": "[WhenUse] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, наносит ей на 100% больше урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Если ОЗ цели ниже 30%, убивает её и восстанавливает 30 ОЗ, а также получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, убивает её и восстанавливает 30 <color=#00ff9c>ОЗ</color>, а также получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход"
                 }
               ]
             }
@@ -1980,7 +1980,7 @@
         {
           "level": 1,
           "name": "Покайтесь!!",
-          "desc": "[WhenUse] Если ОЗ цели ниже 30%, наносит ей на 100% больше урона",
+          "desc": "[WhenUse] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, наносит ей на 100% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -2410,7 +2410,7 @@
         {
           "level": 1,
           "name": "Плевок яда",
-          "desc": "[WhenUse] Теряет 6 ОЗ и получает 5 [Laceration:`Кровотечения`] на следующий ход",
+          "desc": "[WhenUse] Теряет 6 <color=#00ff9c>ОЗ</color> и получает 5 [Laceration:`Кровотечения`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -2436,12 +2436,12 @@
         {
           "level": 1,
           "name": "Ко-ко-ко-ко",
-          "desc": "Нацеливается на противника с наименьшей СД",
+          "desc": "Нацеливается на противника с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -2455,13 +2455,13 @@
         {
           "level": 1,
           "name": "Ко-ко",
-          "desc": "Нацеливается на противника с наименьшей СД",
+          "desc": "Нацеливается на противника с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 7 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 7 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 3 [Sinking:`Утопания`]"
@@ -2491,7 +2491,7 @@
         {
           "level": 1,
           "name": "Кооо-ко",
-          "desc": "Нацеливается на противника с наименьшими ОЗ",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2510,13 +2510,13 @@
         {
           "level": 1,
           "name": "Ко-ко-ко",
-          "desc": "Нацеливается на противника с наименьшими ОЗ",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 7 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 7 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 5 [Laceration:`Кровотечения`]"
@@ -2536,7 +2536,7 @@
           "desc": "",
           "coinlist": [
             {
-              "desc": "[OnSucceedEvade] Атакующий теряет 15 СД"
+              "desc": "[OnSucceedEvade] Атакующий теряет 15 <color=#80c9ff>СД</color>"
             }
           ]
         }
@@ -2573,7 +2573,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 7 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 7 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 2 [Paralysis:`Паралича`] на следующий ход"
@@ -2603,7 +2603,7 @@
         {
           "level": 1,
           "name": "Кух",
-          "desc": "Нацеливается на противника с наибольшими ОЗ",
+          "desc": "Нацеливается на противника с наибольшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2622,13 +2622,13 @@
         {
           "level": 1,
           "name": "Кудаааах",
-          "desc": "Нацеливается на противника с наибольшими ОЗ",
+          "desc": "Нацеливается на противника с наибольшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 7 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 7 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Paralysis:`Паралича`]"
@@ -2684,7 +2684,7 @@
         {
           "level": 1,
           "name": "Ко!",
-          "desc": "Нацеливается на противника с наименьшей СД",
+          "desc": "Нацеливается на противника с наименьшей <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2782,7 +2782,7 @@
         {
           "level": 1,
           "name": "Кудах!",
-          "desc": "Нацеливается на противника с наименьшей СД\n[OnSucceedAttack] Призывает Сырого цыплёнка",
+          "desc": "Нацеливается на противника с наименьшей <color=#80c9ff>СД</color>\n[OnSucceedAttack] Призывает Сырого цыплёнка",
           "coinlist": [
             {
               "coindescs": [
@@ -2932,7 +2932,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 50% от нанесённого урона"
@@ -3223,7 +3223,7 @@
         {
           "level": 1,
           "name": "Свернуться",
-          "desc": "[TurnStartBattle] Получает ОЗ Щита, равные текущим ОЗ головы",
+          "desc": "[TurnStartBattle] Получает <color=#366ffb>OЗ Щита</color>, равные текущим <color=#00ff9c>ОЗ</color> головы",
           "coinlist": [
             {}
           ]
@@ -3236,7 +3236,7 @@
         {
           "level": 1,
           "name": "Извивающаяся голова",
-          "desc": "Нацеливается на противника с наименьшими ОЗ\n[WhenUse] Тратит 2 [SelfCharge:`Подзаряда`]\n[DefeatDuel] Теряет 2 [SelfCharge:`Подзаряда`]",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>\n[WhenUse] Тратит 2 [SelfCharge:`Подзаряда`]\n[DefeatDuel] Теряет 2 [SelfCharge:`Подзаряда`]",
           "coinlist": [
             {},
             {
@@ -3256,7 +3256,7 @@
         {
           "level": 1,
           "name": "Извивающийся хвост",
-          "desc": "Нацеливается на противника с наименьшими ОЗ\n[WhenUse] Тратит 2 [SelfCharge:`Подзаряда`]\n[DefeatDuel] Теряет 3 [SelfCharge:`Подзаряда`]",
+          "desc": "Нацеливается на противника с наименьшими <color=#00ff9c>ОЗ</color>\n[WhenUse] Тратит 2 [SelfCharge:`Подзаряда`]\n[DefeatDuel] Теряет 3 [SelfCharge:`Подзаряда`]",
           "coinlist": [
             {},
             {},
@@ -3399,7 +3399,7 @@
         {
           "level": 1,
           "name": "Ожидание",
-          "desc": "[StartBattle] Все противники теряют 20 СД",
+          "desc": "[StartBattle] Все противники теряют 20 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -3535,7 +3535,7 @@
         {
           "level": 1,
           "name": "Выпьем вместе!",
-          "desc": "[Wide] Даёт 1 [Exalted:`Повышение морали`]\n[WhenUse] Восстанавливает 5% ОЗ",
+          "desc": "[Wide] Даёт 1 [Exalted:`Повышение морали`]\n[WhenUse] Восстанавливает 5% <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3582,7 +3582,7 @@
                   "desc": "[OnSucceedAttack] Если у цели есть [Exalted:`Повышение морали`], на 10% больше урона за каждую единицу значения этого эффекта"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если у цели есть [Tipsiness:`Опьянение`], то не наносит ей урон и сам теряет 50 ОЗ"
+                  "desc": "[OnSucceedAttack] Если у цели есть [Tipsiness:`Опьянение`], то не наносит ей урон и сам теряет 50 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Снимает всё [Exalted:`Повышение морали`] или [Tipsiness:`Опьянение`] с цели"
@@ -3607,7 +3607,7 @@
                   "desc": "[OnSucceedAttack] Если у цели есть [Exalted:`Повышение морали`], на 100% больше урона за каждую единицу значения этого эффекта"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если у цели есть [Tipsiness:`Опьянение`], то не наносит ей урон и сам теряет 50 ОЗ"
+                  "desc": "[OnSucceedAttack] Если у цели есть [Tipsiness:`Опьянение`], то не наносит ей урон и сам теряет 50 <color=#00ff9c>ОЗ</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Убирает всё [Exalted:`Повышение морали`] или [Tipsiness:`Опьянение`]"
@@ -3629,7 +3629,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если атакует Вино фей, то восстанавливает 10% ОЗ и в следующем ходе и получает 2 [Enhancement:`Повышения силы атаки`], 2 [Agility:`Спешки`] и 2 [Protection:`Защищённости`]"
+                  "desc": "[OnSucceedAttack] Если атакует Вино фей, то восстанавливает 10% <color=#00ff9c>ОЗ</color> и в следующем ходе и получает 2 [Enhancement:`Повышения силы атаки`], 2 [Agility:`Спешки`] и 2 [Protection:`Защищённости`]"
                 }
               ]
             }
@@ -3682,7 +3682,7 @@
         {
           "level": 1,
           "name": "Жалящие воспоминания",
-          "desc": "[WinDuel] Восстанавливает 8 СД\n[DefeatDuel] Теряет 5 СД",
+          "desc": "[WinDuel] Восстанавливает 8 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3715,7 +3715,7 @@
         {
           "level": 1,
           "name": "Колющая память",
-          "desc": "[WinDuel] Восстанавливает 8 СД\n[DefeatDuel] Теряет 5 СД",
+          "desc": "[WinDuel] Восстанавливает 8 <color=#80c9ff>СД</color>\n[DefeatDuel] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -3741,7 +3741,7 @@
         {
           "level": 1,
           "name": "Самозащита",
-          "desc": "[DefeatDuel] Теряет 8 СД и получает 3 [Sinking:`Утопания`]",
+          "desc": "[DefeatDuel] Теряет 8 <color=#80c9ff>СД</color> и получает 3 [Sinking:`Утопания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -3789,12 +3789,12 @@
         {
           "level": 1,
           "name": "Пусть всё сгинет",
-          "desc": "[WhenUse] Теряет 30 СД и получает 5 [Sinking:`Утопания`], а также получает [ErodingMind:`Разрушенный разум`] на следующий ход",
+          "desc": "[WhenUse] Теряет 30 <color=#80c9ff>СД</color> и получает 5 [Sinking:`Утопания`], а также получает [ErodingMind:`Разрушенный разум`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 8 [Sinking:`Утопания`] и 8 [Poison:`Яда`] на следующий ход"
@@ -3811,7 +3811,7 @@
         {
           "level": 1,
           "name": "Убери это прочь",
-          "desc": "[OnDefeatEvade] Теряет 8 СД",
+          "desc": "[OnDefeatEvade] Теряет 8 <color=#80c9ff>СД</color>",
           "coinlist": [
             {}
           ]
@@ -3949,7 +3949,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [DongbaekFlorescence:`Цветения`]"
@@ -4145,7 +4145,7 @@
         {
           "level": 1,
           "name": "Развеянный запах",
-          "desc": "[WhenUse] Восстанавливает 10 ОЗ",
+          "desc": "[WhenUse] Восстанавливает 10 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]
@@ -4171,7 +4171,7 @@
         {
           "level": 1,
           "name": "Полное цветение",
-          "desc": "Не может действовать\nВ конце хода теряет 20 СД\nЕсли СД достигает -45, полностью восстанавливает СД и получает [DongbaekFascination:`Ослеплённый разум`] в следующем ходе\nЕсли этот эффект не убирается в течение 2 ходов, он исчезает в конце хода",
+          "desc": "Не может действовать\nВ конце хода теряет 20 <color=#80c9ff>СД</color>\nЕсли <color=#80c9ff>СД</color> достигает -45, полностью восстанавливает <color=#80c9ff>СД</color> и получает [DongbaekFascination:`Ослеплённый разум`] в следующем ходе\nЕсли этот эффект не убирается в течение 2 ходов, он исчезает в конце хода",
           "coinlist": [
             {}
           ]
@@ -4241,7 +4241,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ в количестве нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве нанесённого урона"
                 }
               ]
             }
@@ -4260,14 +4260,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ в количестве нанесённого урона\n[OnSucceedAttack] Получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход, если на цели есть [DistortedDongrangEmptyMark:`Пустая метка`]"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве нанесённого урона\n[OnSucceedAttack] Получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход, если на цели есть [DistortedDongrangEmptyMark:`Пустая метка`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ в количестве нанесённого урона\n[OnSucceedAttack] Получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход, если на цели есть [DistortedDongrangEmptyMark:`Пустая метка`]"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве нанесённого урона\n[OnSucceedAttack] Получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход, если на цели есть [DistortedDongrangEmptyMark:`Пустая метка`]"
                 }
               ]
             }
@@ -4305,14 +4305,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает ОЗ на 25% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 25% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает ОЗ на 25% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 25% от нанесённого урона"
                 }
               ]
             },
@@ -4396,7 +4396,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Vulnerable:`Уязвимости`], 5 [Burst:`Разрыва`] и 5 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает ОЗ на 10% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vulnerable:`Уязвимости`], 5 [Burst:`Разрыва`] и 5 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> на 10% от нанесённого урона"
                 }
               ]
             }
@@ -4520,7 +4520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [EgoAwakenDongrangSeed:`Семени`] и [EgoAwakenDongrangOverHeal:`Избыточное лечение`]\n[OnSucceedAttack] Восстанавливает 15 ОЗ цели"
+                  "desc": "[OnSucceedAttack] Наносит 3 [EgoAwakenDongrangSeed:`Семени`] и [EgoAwakenDongrangOverHeal:`Избыточное лечение`]\n[OnSucceedAttack] Восстанавливает 15 <color=#00ff9c>ОЗ</color> цели"
                 }
               ]
             }
@@ -4539,7 +4539,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Vulnerable:`Уязвимости`] и 10 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Если на цели есть [EgoAwakenDongrangTree:`Питательные вещества`], восстанавливает 20 ОЗ и получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vulnerable:`Уязвимости`] и 10 [Laceration:`Кровотечения`]\n[OnSucceedAttack] Если на цели есть [EgoAwakenDongrangTree:`Питательные вещества`], восстанавливает 20 <color=#00ff9c>ОЗ</color> и получает 2 [Enhancement:`Повышения силы атаки`] на следующий ход"
                 }
               ]
             }
@@ -4553,12 +4553,12 @@
         {
           "level": 1,
           "name": "Будь моим удобрением",
-          "desc": "[WhenUse] Все Древа желаний восстанавливают 15 ОЗ\nЕсли на поле боя нет ни одного Древа желаний, призывает одно",
+          "desc": "[WhenUse] Все Древа желаний восстанавливают 15 <color=#00ff9c>ОЗ</color>\nЕсли на поле боя нет ни одного Древа желаний, призывает одно",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10 ОЗ\n[OnSucceedAttack] Наносит 3 [EgoAwakenDongrangSeed:`Семени`]"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 <color=#00ff9c>ОЗ</color>\n[OnSucceedAttack] Наносит 3 [EgoAwakenDongrangSeed:`Семени`]"
                 }
               ]
             }
@@ -4793,7 +4793,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 20 ОЗ"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`], восстанавливает 20 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -4814,7 +4814,7 @@
         {
           "level": 1,
           "name": "Отбрасывающий тень",
-          "desc": "[WhenUse] Призывает Гигантский клевер в следующем ходе\n[DefeatDuel] Гигантский клевер призывается с 70% ОЗ",
+          "desc": "[WhenUse] Призывает Гигантский клевер в следующем ходе\n[DefeatDuel] Гигантский клевер призывается с 70% <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -4838,7 +4838,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% от максимальных ОЗ\n[OnSucceedAttack] Тратит весь счётчик [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% от максимальных <color=#00ff9c>ОЗ</color>\n[OnSucceedAttack] Тратит весь счётчик [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -4871,21 +4871,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Восстанавливает 1 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -5111,7 +5111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 3% от максимальных ОЗ Ядру"
+                  "desc": "[OnSucceedAttack] Восстанавливает 3% от максимальных <color=#00ff9c>ОЗ</color> Ядру"
                 }
               ]
             }
@@ -5166,7 +5166,7 @@
                   "desc": "[OnSucceedAttackHead] Вновь подкидывает эту монету (До 3 раз)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10 ОЗ Ядру"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 <color=#00ff9c>ОЗ</color> Ядру"
                 }
               ]
             }
@@ -5211,14 +5211,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 3 ОЗ Ядру"
+                  "desc": "[OnSucceedAttack] Восстанавливает 3 <color=#00ff9c>ОЗ</color> Ядру"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 3 ОЗ Ядру"
+                  "desc": "[OnSucceedAttack] Восстанавливает 3 <color=#00ff9c>ОЗ</color> Ядру"
                 }
               ]
             }
@@ -5237,7 +5237,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10 ОЗ Ядру"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 <color=#00ff9c>ОЗ</color> Ядру"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 2"

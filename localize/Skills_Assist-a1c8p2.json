@@ -107,7 +107,7 @@
         {
           "level": 1,
           "name": "Защита",
-          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Снимает с себя 1 случайный снимаемый негативный эффект\n[StartBattle] Восстанавливает 10 СД\n[WhenUse] Получает 2 [ProtectStance:`Защитной позиции`]",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Снимает с себя 1 случайный снимаемый негативный эффект\n[StartBattle] Восстанавливает 10 <color=#80c9ff>СД</color>\n[WhenUse] Получает 2 [ProtectStance:`Защитной позиции`]",
           "coinlist": [
             {
               "coindescs": [

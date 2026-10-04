@@ -27,7 +27,7 @@
         {
           "level": 2,
           "name": "Сверка с книгой",
-          "desc": "<style=\"highlight\">[WhenUse] Восстанавливает 5 СД</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -48,7 +48,7 @@
         {
           "level": 4,
           "name": "Сверка с книгой",
-          "desc": "[WhenUse] Восстанавливает 5 СД",
+          "desc": "[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -177,7 +177,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель убита, восстанавливает 6 СД союзнику с наименьшей СД"
+                  "desc": "[EndSkill] Если цель убита, восстанавливает 6 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель убита, восстанавливает 6 СД союзнику с наименьшей СД"
+                  "desc": "[EndSkill] Если цель убита, восстанавливает 6 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -299,7 +299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель убита, восстанавливает СД союзника с наименьшей СД на 6"
+                  "desc": "[EndSkill] Если цель убита, восстанавливает <color=#80c9ff>СД</color> союзника с наименьшей <color=#80c9ff>СД</color> на 6"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Если цель убита, восстанавливает СД союзника с наименьшей СД на 6"
+                  "desc": "[EndSkill] Если цель убита, восстанавливает <color=#80c9ff>СД</color> союзника с наименьшей <color=#80c9ff>СД</color> на 6"
                 }
               ]
             }
@@ -503,13 +503,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает 10 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ещё 1 ОЗ за каждый [Burst:`Разрыв`] на цели (До 20)"
+                  "desc": "[OnSucceedAttack] Восстанавливает ещё 1 <color=#00ff9c>ОЗ</color> за каждый [Burst:`Разрыв`] на цели (До 20)"
                 },
                 {
-                  "desc": "Вновь подкидывает монету 1 раз, если свои ОЗ равны или ниже 50%"
+                  "desc": "Вновь подкидывает монету 1 раз, если свои <color=#00ff9c>ОЗ</color> равны или ниже 50%"
                 }
               ]
             }
@@ -531,13 +531,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает <style=\"highlight\">15</style> ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает <style=\"highlight\">15</style> <color=#00ff9c>ОЗ</color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ещё <style=\"highlight\">2</style> ОЗ за каждый [Burst:`Разрыв`] на цели (До <style=\"highlight\">40</style>)\n<style=\"highlight\">[ReUseOnSucceedAttack] Восстанавливает в полтора раза больше ОЗ</style>"
+                  "desc": "[OnSucceedAttack] Восстанавливает ещё <style=\"highlight\">2</style> <color=#00ff9c>ОЗ</color> за каждый [Burst:`Разрыв`] на цели (До <style=\"highlight\">40</style>)\n<style=\"highlight\">[ReUseOnSucceedAttack] Восстанавливает в полтора раза больше <color=#00ff9c>ОЗ</color></style>"
                 },
                 {
-                  "desc": "Вновь подкидывает монету 1 раз, если свои ОЗ равны или ниже 50%"
+                  "desc": "Вновь подкидывает монету 1 раз, если свои <color=#00ff9c>ОЗ</color> равны или ниже 50%"
                 }
               ]
             }
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "Стучащие зубы",
-          "desc": "[EndBattle] Восстанавливает ОЗ в количестве оставшихся ОЗ Щита (Единожды за ход; до 10% от максимальных ОЗ)",
+          "desc": "[EndBattle] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве оставшихся <color=#366ffb>OЗ Щита</color> (Единожды за ход; до 10% от максимальных <color=#00ff9c>ОЗ</color>)",
           "coinlist": [
             {
               "coindescs": [
@@ -565,7 +565,7 @@
         {
           "level": 4,
           "name": "Стучащие зубы",
-          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +3, если на атакующем 6 и более [Burst:`Разрыва`]</style>\n[EndBattle] Восстанавливает ОЗ в количестве оставшихся ОЗ Щита (Единожды за ход; до 10% от максимальных ОЗ)",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +3, если на атакующем 6 и более [Burst:`Разрыва`]</style>\n[EndBattle] Восстанавливает <color=#00ff9c>ОЗ</color> в количестве оставшихся <color=#366ffb>OЗ Щита</color> (Единожды за ход; до 10% от максимальных <color=#00ff9c>ОЗ</color>)",
           "coinlist": [
             {
               "coindescs": [
@@ -1048,7 +1048,7 @@
         {
           "level": 1,
           "name": "С меня хватит",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]",
           "coinlist": [
             {},
             {
@@ -1063,7 +1063,7 @@
         {
           "level": 2,
           "name": "С меня хватит",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
           "coinlist": [
             {},
             {
@@ -1078,7 +1078,7 @@
         {
           "level": 4,
           "name": "С меня хватит",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 5 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1104,7 +1104,7 @@
         {
           "level": 1,
           "name": "Пусть всё расцветёт",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[BeforeAttack] Количество целей +1 при 10 и более [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[BeforeAttack] Количество целей +1 при 10 и более [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1128,7 +1128,7 @@
         {
           "level": 2,
           "name": "Пусть всё расцветёт",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[BeforeAttack] Количество целей +1 <style=\"highlight\">за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)</style>",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[BeforeAttack] Количество целей +1 <style=\"highlight\">за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1152,7 +1152,7 @@
         {
           "level": 4,
           "name": "Пусть всё расцветёт",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)</style>\n[BeforeAttack] Количество целей +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 5 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)</style>\n[BeforeAttack] Количество целей +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)",
           "coinlist": [
             {
               "coindescs": [
@@ -1181,7 +1181,7 @@
         {
           "level": 3,
           "name": "Я насажу на кол",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 10)\n[WhenUse] Сила в столкновении +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 против целей с 10 и более [Laceration:`Кровотечения`]\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на 10% больше урона за каждые 100 [BloodDinner_Accumulation:`Поглощённого собою кровавого пиршества`] (До 50%)\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на 30 и получает 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 10)\n[WhenUse] Сила в столкновении +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 против целей с 10 и более [Laceration:`Кровотечения`]\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на 10% больше урона за каждые 100 [BloodDinner_Accumulation:`Поглощённого собою кровавого пиршества`] (До 50%)\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на 30 и получает 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
           "coinlist": [
             {},
             {},
@@ -1197,7 +1197,7 @@
         {
           "level": 4,
           "name": "Я насажу на кол",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 10)\n[WhenUse] Сила в столкновении +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на <style=\"highlight\">20%</style> больше урона за каждые 100 [BloodDinner_Accumulation:`Поглощённого собою кровавого пиршества`] (До <style=\"highlight\">100%</style>)\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на <style=\"highlight\">60</style> и получает 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 10)\n[WhenUse] Сила в столкновении +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на <style=\"highlight\">20%</style> больше урона за каждые 100 [BloodDinner_Accumulation:`Поглощённого собою кровавого пиршества`] (До <style=\"highlight\">100%</style>)\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на <style=\"highlight\">60</style> и получает 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
           "coinlist": [
             {},
             {},
@@ -1218,7 +1218,7 @@
         {
           "level": 1,
           "name": "Смех должен утихнуть",
-          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[StartBattle] Накладывает 1 [SwirlingBloodPersonality:`Мерцание 【Кровожады】`] на союзника с наименьшими ОЗ за каждые 50 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 10; единожды за ход)",
+          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[StartBattle] Накладывает 1 [SwirlingBloodPersonality:`Мерцание 【Кровожады】`] на союзника с наименьшими <color=#00ff9c>ОЗ</color> за каждые 50 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 10; единожды за ход)",
           "coinlist": [
             {},
             {
@@ -1233,7 +1233,7 @@
         {
           "level": 4,
           "name": "Смех должен утихнуть",
-          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[StartBattle] Накладывает 1 [SwirlingBloodPersonality:`Мерцание 【Кровожады】`] на союзника с наименьшими ОЗ за каждые 50 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До <style=\"highlight\">15</style>; единожды за ход)",
+          "desc": "[DuelCounter]\n[StartBattle] Поглощает до 50 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodArmorPersonalityFirst:`Кровавую броню`] за каждые 10 поглощённого [BloodDinner:`Кровавого пиршества`]\nПолучает 10 [Laceration:`Кровотечения`], если не удалось поглотить [BloodDinner:`Кровавое пиршество`]\n[StartBattle] Накладывает 1 [SwirlingBloodPersonality:`Мерцание 【Кровожады】`] на союзника с наименьшими <color=#00ff9c>ОЗ</color> за каждые 50 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До <style=\"highlight\">15</style>; единожды за ход)",
           "coinlist": [
             {},
             {
@@ -1253,7 +1253,7 @@
         {
           "level": 1,
           "name": "Вариант искусства застывшей крови Санчо 9 - Хлыст",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 20)\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] ОЗ не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 20)\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] <color=#00ff9c>ОЗ</color> не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1287,7 +1287,7 @@
         {
           "level": 2,
           "name": "Вариант искусства застывшей крови Санчо 9 - Хлыст",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 20)\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] ОЗ не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 20)\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] <color=#00ff9c>ОЗ</color> не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {},
             {
@@ -1315,7 +1315,7 @@
         {
           "level": 4,
           "name": "Вариант искусства застывшей крови Санчо 9 - Хлыст",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 20)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] ОЗ не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 20)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 20 [Laceration:`Кровотечения`]\n[WhenUse] <color=#00ff9c>ОЗ</color> не могут опуститься ниже 1 от урона [Laceration:`Кровотечением`] до конца использования этого навыка\n[WhenUse] Наносит ещё 1 [Laceration:`Кровотечение`] при попадании за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {},
             {
@@ -1351,7 +1351,7 @@
         {
           "level": 1,
           "name": "Вариант искусства застывшей крови Санчо 8 - Разрезание",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[BeforeAttack] Количество целей +1 при 10 и более [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если навык имел повышенное Количество целей, теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[BeforeAttack] Количество целей +1 при 10 и более [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если навык имел повышенное Количество целей, теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1385,7 +1385,7 @@
         {
           "level": 2,
           "name": "Вариант искусства застывшей крови Санчо 8 - Разрезание",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Количество целей +1 <style=\"highlight\">за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)</style>\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`] <style=\"highlight\">за каждую дополнительную цель</style>",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[BeforeAttack] Количество целей +1 <style=\"highlight\">за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)</style>\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`] <style=\"highlight\">за каждую дополнительную цель</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1419,7 +1419,7 @@
         {
           "level": 4,
           "name": "Вариант искусства застывшей крови Санчо 8 - Разрезание",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)\n[BeforeAttack] Количество целей +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`] за каждую дополнительную цель",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 30% от нанесённого урона (До 10)\n[WhenUse] Сила монет +1 за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)\n[BeforeAttack] Количество целей +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2 дополнительных целей)\n[EndSkill] Теряет 10 [BloodArmorPersonalityFirst:`Кровавой брони`] за каждую дополнительную цель",
           "coinlist": [
             {
               "coindescs": [
@@ -1458,7 +1458,7 @@
         {
           "level": 3,
           "name": "Восходящее искусство застывшей крови Санчо - Ла Сангре",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 против целей с 10 и более [Laceration:`Кровотечения`]\n[WhenUse] Наносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на 20% больше урона за каждые 100 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 100%)\n[EndSkill] Теряет каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на 50 и восстанавливает половину потерянный [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До 2)\n[WhenUse] Сила монет +1 против целей с 10 и более [Laceration:`Кровотечения`]\n[WhenUse] Наносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\nНаносит на 20% больше урона за каждые 100 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 100%)\n[EndSkill] Теряет каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на 50 и восстанавливает половину потерянный [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1499,7 +1499,7 @@
         {
           "level": 4,
           "name": "Восходящее искусство застывшей крови Санчо - Ла Сангре",
-          "desc": "При попадании этим навыком восстанавливает ОЗ на 50% от нанесённого урона (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До <style=\"highlight\">3</style>)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Laceration:`Кровотечения`] на цели (До 2)</style>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\n[WhenUse] Наносит на 20% больше урона за каждые 100 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 100%)\n[EndSkill] Теряет каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на <style=\"highlight\">100</style> и восстанавливает половину потерянный [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
+          "desc": "При попадании этим навыком восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона (До 20)\n[WhenUse] Базовая сила +1 за каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`] (До <style=\"highlight\">3</style>)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Laceration:`Кровотечения`] на цели (До 2)</style>\nНаносит на (Сила [Laceration:`Кровотечения`] цели × 5)% больше урона (До 50%)\n[WhenUse] Наносит на 20% больше урона за каждые 100 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (До 100%)\n[EndSkill] Теряет каждые 10 [BloodArmorPersonalityFirst:`Кровавой брони`]\n[EndSkill] Если цель убита, увеличивает [BloodDinner:`Кровавое пиршество`] на <style=\"highlight\">100</style> и восстанавливает половину потерянный [BloodArmorPersonalityFirst:`Кровавой брони`] (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1545,7 +1545,7 @@
         {
           "level": 1,
           "name": "Вариант искусства застывшей крови Санчо 15 - Нарастание к финалу",
-          "desc": "[DuelCounter]\n[StartBattle] Для (3 + (Число грехов в наибольшем резонансе / 2)) союзников с наименьшими ОЗ:\n- Накладывает (1 + (Значение [BloodArmorPersonalityFirst:`Кровавой брони`] / 15)) [SwirlingBloodPersonality:`Мерцания 【Кровожады】`] за каждые 40 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (Единожды на союзника; округляется вниз), после чего теряет половину [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "[DuelCounter]\n[StartBattle] Для (3 + (Число грехов в наибольшем резонансе / 2)) союзников с наименьшими <color=#00ff9c>ОЗ</color>:\n- Накладывает (1 + (Значение [BloodArmorPersonalityFirst:`Кровавой брони`] / 15)) [SwirlingBloodPersonality:`Мерцания 【Кровожады】`] за каждые 40 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (Единожды на союзника; округляется вниз), после чего теряет половину [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {},
             {
@@ -1563,7 +1563,7 @@
         {
           "level": 4,
           "name": "Вариант искусства застывшей крови Санчо 15 - Нарастание к финалу",
-          "desc": "[DuelCounter]\n[StartBattle] Для (3 + (Число грехов в наибольшем резонансе / 2)) союзников с наименьшими ОЗ:\n- Накладывает (1 + (Значение [BloodArmorPersonalityFirst:`Кровавой брони`] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality:`Мерцания 【Кровожады】`] за каждые 40 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (Единожды на союзника; округляется вниз), после чего теряет половину [BloodArmorPersonalityFirst:`Кровавой брони`]",
+          "desc": "[DuelCounter]\n[StartBattle] Для (3 + (Число грехов в наибольшем резонансе / 2)) союзников с наименьшими <color=#00ff9c>ОЗ</color>:\n- Накладывает (1 + (Значение [BloodArmorPersonalityFirst:`Кровавой брони`] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality:`Мерцания 【Кровожады】`] за каждые 40 [BloodDinner_Common_Accumulation:`Поглощённого кровавого пиршества (общего)`] (Единожды на союзника; округляется вниз), после чего теряет половину [BloodArmorPersonalityFirst:`Кровавой брони`]",
           "coinlist": [
             {},
             {
@@ -1931,7 +1931,7 @@
         {
           "level": 1,
           "name": "Где же... все злодеи...?",
-          "desc": "Наносит на 3% больше урона за каждую [HystericGauge:`Истерию`] (До 9%)\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 2</nobr>\n[WhenUse] Теряет 5 СД",
+          "desc": "Наносит на 3% больше урона за каждую [HystericGauge:`Истерию`] (До 9%)\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 2</nobr>\n[WhenUse] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
         {
           "level": 2,
           "name": "Где же... все злодеи...?",
-          "desc": "Наносит на <style=\"highlight\">4%</style> больше урона за каждую [HystericGauge:`Истерию`] (До <style=\"highlight\">12%</style>)\n<style=\"highlight\">[WhenUse] Тратит 5 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <style=\"highlight\"><nobr>на 3</nobr></style>\n[WhenUse] Теряет 5 СД",
+          "desc": "Наносит на <style=\"highlight\">4%</style> больше урона за каждую [HystericGauge:`Истерию`] (До <style=\"highlight\">12%</style>)\n<style=\"highlight\">[WhenUse] Тратит 5 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <style=\"highlight\"><nobr>на 3</nobr></style>\n[WhenUse] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1979,7 +1979,7 @@
         {
           "level": 4,
           "name": "Где же... все злодеи...?",
-          "desc": "Наносит на <style=\"highlight\">5%</style> больше урона за каждую [HystericGauge:`Истерию`] (До <style=\"highlight\">15%</style>)\n[WhenUse] Тратит 5 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе\n<style=\"highlight\">[WhenUse] Базовая сила +1 за каждые 2 единицы силы [ThePowerOfLoveAndHate:`Любви и ненависти`] (До 2)</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 5 СД",
+          "desc": "Наносит на <style=\"highlight\">5%</style> больше урона за каждую [HystericGauge:`Истерию`] (До <style=\"highlight\">15%</style>)\n[WhenUse] Тратит 5 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе\n<style=\"highlight\">[WhenUse] Базовая сила +1 за каждые 2 единицы силы [ThePowerOfLoveAndHate:`Любви и ненависти`] (До 2)</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2082,7 +2082,7 @@
         {
           "level": 1,
           "name": "Исчезни из моей головы...",
-          "desc": "Сила в столкновении +1, если есть 1 и более [HystericGauge:`Истерия`]\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 8 СД",
+          "desc": "Сила в столкновении +1, если есть 1 и более [HystericGauge:`Истерия`]\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 8 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2103,7 +2103,7 @@
         {
           "level": 2,
           "name": "Исчезни из моей головы...",
-          "desc": "<style=\"highlight\">Базовая сила</style> +1, если есть 1 и более [HystericGauge:`Истерия`]\n<style=\"highlight\">[WhenUse] Тратит 6 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 8 СД",
+          "desc": "<style=\"highlight\">Базовая сила</style> +1, если есть 1 и более [HystericGauge:`Истерия`]\n<style=\"highlight\">[WhenUse] Тратит 6 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе</style>\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 3</nobr>\n[WhenUse] Теряет 8 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2127,7 +2127,7 @@
         {
           "level": 4,
           "name": "Исчезни из моей головы...",
-          "desc": "Базовая сила +1 <style=\"highlight\">за каждую [HystericGauge:`Истерию`] (До 2)\n- Если есть 3 [HystericGauge:`Истерии`], Количество целей повышается на 1 (Наносит на 50% меньше урона дополнительным целям)</style>\n[WhenUse] Тратит 6 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 5</nobr>\n[WhenUse] Теряет 8 СД",
+          "desc": "Базовая сила +1 <style=\"highlight\">за каждую [HystericGauge:`Истерию`] (До 2)\n- Если есть 3 [HystericGauge:`Истерии`], Количество целей повышается на 1 (Наносит на 50% меньше урона дополнительным целям)</style>\n[WhenUse] Тратит 6 единиц счётчика [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Базовой силе\n[WhenUse] Повышает счётчик своего [ThePowerOfLoveAndHate:`Любви и ненависти`] <nobr>на 5</nobr>\n[WhenUse] Теряет 8 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -2229,7 +2229,7 @@
         {
           "level": 3,
           "name": "Обратные удары / Обращённая вспять рабыня арканы",
-          "desc": "Наносит на 50% меньше урона дополнительным целям\n[WhenUse] Теряет 10 СД\n[WhenUse] Тратит всю [HystericGauge:`Истерию`] для получения +1 к Силе в столкновении\n[WhenUse] Тратит весь счётчик [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Силе в столкновении за каждые 8 потраченных единиц (До 2)\nНаносит на (Сила [ThePowerOfLoveAndHate:`Любви и ненависти`] × 15)% больше урона (До 60%)\n[BeforeAttack] Тратит все [ArcanaQueenOfHate:`Магические таинства`] для повышения Количества целей на 1\n- Если у навыка после траты [ArcanaQueenOfHate:`Магических таинств`] фактически всё ещё одна цель, он наносит на 20% больше урона (В фокусированных битвах часть считается целью)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -18)\n[EndBattle] Если СД ниже 0 и не достигла -45, восстанавливает 10 СД (Восстанавливает на 2 СД больше за каждую единицу СД ниже 0, до 50)",
+          "desc": "Наносит на 50% меньше урона дополнительным целям\n[WhenUse] Теряет 10 <color=#80c9ff>СД</color>\n[WhenUse] Тратит всю [HystericGauge:`Истерию`] для получения +1 к Силе в столкновении\n[WhenUse] Тратит весь счётчик [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Силе в столкновении за каждые 8 потраченных единиц (До 2)\nНаносит на (Сила [ThePowerOfLoveAndHate:`Любви и ненависти`] × 15)% больше урона (До 60%)\n[BeforeAttack] Тратит все [ArcanaQueenOfHate:`Магические таинства`] для повышения Количества целей на 1\n- Если у навыка после траты [ArcanaQueenOfHate:`Магических таинств`] фактически всё ещё одна цель, он наносит на 20% больше урона (В фокусированных битвах часть считается целью)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -18)\n[EndBattle] Если <color=#80c9ff>СД</color> ниже 0 и не достигла -45, восстанавливает 10 <color=#80c9ff>СД</color> (Восстанавливает на 2 <color=#80c9ff>СД</color> больше за каждую единицу <color=#80c9ff>СД</color> ниже 0, до 50)",
           "coinlist": [
             {
               "coindescs": [
@@ -2263,7 +2263,7 @@
         {
           "level": 4,
           "name": "Обратные удары / Обращённая вспять рабыня арканы",
-          "desc": "Наносит на 50% меньше урона дополнительным целям\n[WhenUse] Теряет 10 СД\n[WhenUse] Тратит всю [HystericGauge:`Истерию`] <style=\"highlight\">для повышения Силы в столкновении на столько же (До 3)</style>\n[WhenUse] Тратит весь счётчик [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Силе в столкновении за каждые <style=\"highlight\">5</style> потраченных единиц (До <style=\"highlight\">4</style>)\nНаносит на (Сила [ThePowerOfLoveAndHate:`Любви и ненависти`] × <style=\"highlight\">30</style>)% больше урона (До <style=\"highlight\">150%</style>)\n[BeforeAttack] Тратит все [ArcanaQueenOfHate:`Магические таинства`] для повышения Количества целей <style=\"highlight\">на столько же (До 3 дополнительных целей)</style>\n<style=\"highlight\">- Если этот навык потратил 3 [HystericGauge:`Истерии`] [WhenUse], то Количество целей повышается ещё на 1</style>\n- Если у навыка после траты [ArcanaQueenOfHate:`Магических таинств`] фактически всё ещё одна цель, он наносит на <style=\"highlight\">((Повышенное Количество целей - 1) × 20)</style>% больше урона <style=\"highlight\">(До 80%)</style> (В фокусированных битвах часть считается целью)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -18)\n[EndBattle] Если СД ниже 0 и не достигла -45, восстанавливает 10 СД (Восстанавливает на 2 СД больше за каждую единицу СД ниже 0, до 50)",
+          "desc": "Наносит на 50% меньше урона дополнительным целям\n[WhenUse] Теряет 10 <color=#80c9ff>СД</color>\n[WhenUse] Тратит всю [HystericGauge:`Истерию`] <style=\"highlight\">для повышения Силы в столкновении на столько же (До 3)</style>\n[WhenUse] Тратит весь счётчик [ThePowerOfLoveAndHate:`Любви и ненависти`], чтобы получить +1 к Силе в столкновении за каждые <style=\"highlight\">5</style> потраченных единиц (До <style=\"highlight\">4</style>)\nНаносит на (Сила [ThePowerOfLoveAndHate:`Любви и ненависти`] × <style=\"highlight\">30</style>)% больше урона (До <style=\"highlight\">150%</style>)\n[BeforeAttack] Тратит все [ArcanaQueenOfHate:`Магические таинства`] для повышения Количества целей <style=\"highlight\">на столько же (До 3 дополнительных целей)</style>\n<style=\"highlight\">- Если этот навык потратил 3 [HystericGauge:`Истерии`] [WhenUse], то Количество целей повышается ещё на 1</style>\n- Если у навыка после траты [ArcanaQueenOfHate:`Магических таинств`] фактически всё ещё одна цель, он наносит на <style=\"highlight\">((Повышенное Количество целей - 1) × 20)</style>% больше урона <style=\"highlight\">(До 80%)</style> (В фокусированных битвах часть считается целью)\n[BeforeAttack] Базовая сила -6 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До -18)\n[EndBattle] Если <color=#80c9ff>СД</color> ниже 0 и не достигла -45, восстанавливает 10 <color=#80c9ff>СД</color> (Восстанавливает на 2 <color=#80c9ff>СД</color> больше за каждую единицу <color=#80c9ff>СД</color> ниже 0, до 50)",
           "coinlist": [
             {
               "coindescs": [
@@ -2730,7 +2730,7 @@
         {
           "level": 1,
           "name": "Пусть эти руки будут проводником, который..",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 1\n[EndSkill] Теряет 3 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 1\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -2751,7 +2751,7 @@
         {
           "level": 2,
           "name": "Пусть эти руки будут проводником, который..",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n<style=\"highlight\">Если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>\n[EndSkill] Теряет 3 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n<style=\"highlight\">Если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -2772,7 +2772,7 @@
         {
           "level": 4,
           "name": "Пусть эти руки будут проводником, который..",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">15%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">15%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndSkill] Теряет 3 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -2887,7 +2887,7 @@
         {
           "level": 1,
           "name": "Посредничество: высекание",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 5% больше урона\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 5% больше урона\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {},
             {
@@ -2909,7 +2909,7 @@
         {
           "level": 2,
           "name": "Посредничество: высекание",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 5% больше урона\n<style=\"highlight\">Если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1</style>\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 5% больше урона\n<style=\"highlight\">Если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1</style>\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -2937,7 +2937,7 @@
         {
           "level": 4,
           "name": "Посредничество: высекание",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">10%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">10%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[EndSkill] Теряет 6 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3032,7 +3032,7 @@
         {
           "level": 3,
           "name": "Посредничество: уничтожение",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 15% больше урона\nЕсли сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[EndSkill] Теряет 15 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 15% больше урона\nЕсли сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания `]на цели равна 6 и более, Сила монет +1\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3085,7 +3085,7 @@
         {
           "level": 4,
           "name": "Посредничество: уничтожение",
-          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">25%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] <style=\"highlight\">Получает (Стадия [UnlockBuff_Base:`Разблокировки`]) [Breath:`Дыхания`] и</style> повышает его счётчик на 3\n[EndSkill] Теряет 15 СД (До 2 раз за ход)",
+          "desc": "Если этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">25%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] <style=\"highlight\">Получает (Стадия [UnlockBuff_Base:`Разблокировки`]) [Breath:`Дыхания`] и</style> повышает его счётчик на 3\n[EndSkill] Теряет 15 <color=#80c9ff>СД</color> (До 2 раз за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3143,7 +3143,7 @@
         {
           "level": 1,
           "name": "Ткань, сотканая и изготовленная по предписанию",
-          "desc": "Итоговая сила +1 за каждую стадию [UnlockBuff_Base:`Разблокировки`] (До 3)\n[StartBattle] Получает ОЗ Щита в размере 10% от своих максимальных ОЗ (Единожды за ход)\n- Размер получаемых ОЗ Щита снижается на 1% за каждые 5 [KarmaOfIndexAlly:`Кармических последствий`] (Не получает ОЗ Щита вовсе при 50 и более [KarmaOfIndexAlly:`Кармических последствиях`])\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndBattle] Если нет [UnlockBuff_Base:`Разблокировки`], получает <nobr>[UnlockBuffAlly_1:`Разблокировку - I`]</nobr> (Единожды за ход)\n- Меняет текущее значение [BlessingOfIndexPrescriptAlly:`Милости предписания`] на 3\n- Получает (Полученная таким образом [BlessingOfIndexPrescriptAlly:`Милость предписания`] × 5) [KarmaOfIndexAlly:`Кармических последствий`] в начале следующего хода",
+          "desc": "Итоговая сила +1 за каждую стадию [UnlockBuff_Base:`Разблокировки`] (До 3)\n[StartBattle] Получает <color=#366ffb>OЗ Щита</color> в размере 10% от своих максимальных <color=#00ff9c>ОЗ</color> (Единожды за ход)\n- Размер получаемых <color=#366ffb>OЗ Щита</color> снижается на 1% за каждые 5 [KarmaOfIndexAlly:`Кармических последствий`] (Не получает <color=#366ffb>OЗ Щита</color> вовсе при 50 и более [KarmaOfIndexAlly:`Кармических последствиях`])\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndBattle] Если нет [UnlockBuff_Base:`Разблокировки`], получает <nobr>[UnlockBuffAlly_1:`Разблокировку - I`]</nobr> (Единожды за ход)\n- Меняет текущее значение [BlessingOfIndexPrescriptAlly:`Милости предписания`] на 3\n- Получает (Полученная таким образом [BlessingOfIndexPrescriptAlly:`Милость предписания`] × 5) [KarmaOfIndexAlly:`Кармических последствий`] в начале следующего хода",
           "coinlist": [
             {
               "coindescs": [
@@ -3165,7 +3165,7 @@
         {
           "level": 4,
           "name": "Ткань, сотканая и изготовленная по предписанию",
-          "desc": "Итоговая сила +1 <style=\"highlight\">и на 15% больше наносимого урона</style> за каждую стадию [UnlockBuff_Base:`Разблокировки`] (До +3 к Итоговой силе; <style=\"highlight\">до +45% к урону</style>)\n[StartBattle] Получает ОЗ Щита в размере <style=\"highlight\">15%</style> от максимальных ОЗ (Единожды за ход)\n- Размер получаемых ОЗ Щита снижается на <style=\"highlight\">1.5%</style> за каждые 5 [KarmaOfIndexAlly:`Кармических последствий`] (Не получает ОЗ Щита вовсе при 50 и более [KarmaOfIndexAlly:`Кармических последствиях`])\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndBattle] Если нет [UnlockBuff_Base:`Разблокировки`], получает <nobr>[UnlockBuffAlly_1:`Разблокировку - I`]</nobr> (Единожды за ход)\n- Меняет текущее значение [BlessingOfIndexPrescriptAlly:`Милости предписания`] на 3\n- Получает в начале следующего хода (Полученная таким образом [BlessingOfIndexPrescriptAlly:`Милость предписания`] × 5) [KarmaOfIndexAlly:`Кармических последствий`]",
+          "desc": "Итоговая сила +1 <style=\"highlight\">и на 15% больше наносимого урона</style> за каждую стадию [UnlockBuff_Base:`Разблокировки`] (До +3 к Итоговой силе; <style=\"highlight\">до +45% к урону</style>)\n[StartBattle] Получает <color=#366ffb>OЗ Щита</color> в размере <style=\"highlight\">15%</style> от максимальных <color=#00ff9c>ОЗ</color> (Единожды за ход)\n- Размер получаемых <color=#366ffb>OЗ Щита</color> снижается на <style=\"highlight\">1.5%</style> за каждые 5 [KarmaOfIndexAlly:`Кармических последствий`] (Не получает <color=#366ffb>OЗ Щита</color> вовсе при 50 и более [KarmaOfIndexAlly:`Кармических последствиях`])\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[EndBattle] Если нет [UnlockBuff_Base:`Разблокировки`], получает <nobr>[UnlockBuffAlly_1:`Разблокировку - I`]</nobr> (Единожды за ход)\n- Меняет текущее значение [BlessingOfIndexPrescriptAlly:`Милости предписания`] на 3\n- Получает в начале следующего хода (Полученная таким образом [BlessingOfIndexPrescriptAlly:`Милость предписания`] × 5) [KarmaOfIndexAlly:`Кармических последствий`]",
           "coinlist": [
             {
               "coindescs": [
@@ -3495,7 +3495,7 @@
         {
           "level": 1,
           "name": "Будьте безмолвными свидетелями",
-          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает 4 СД себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую СД (Единожды за ход)\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (Единожды за ход)\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1",
+          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает 4 <color=#80c9ff>СД</color> себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую <color=#80c9ff>СД</color> (Единожды за ход)\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (Единожды за ход)\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1",
           "coinlist": [
             {
               "coindescs": [
@@ -3519,7 +3519,7 @@
         {
           "level": 3,
           "name": "Будьте безмолвными свидетелями",
-          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает <style=\"highlight\">5</style> СД себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую СД (Единожды за ход)\n\n<style=\"highlight\">[StartBattle] В зависимости от текущего значения [NoirShieldUpDonQuixote:`Благословения обсидианового бога`]:\n- При максимальном значении (100): использует свой альтернативный третий навык <color=#fed133>「С каждым ударом, пресекаю твоё пришествие!」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)\n- 99 и ниже: получает ОЗ Щита в размере (Текущее значение [NoirShieldUpDonQuixote:`Благословения обсидианового бога`] / 10)% от своих максимальных ОЗ (Единожды за ход)</style>\n\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">3</style> (Единожды за ход)\n<style=\"highlight\">[WhenUse] Если сумма силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на атакующем равна 6 и более, Сила монет +1</style>\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1 <style=\"highlight\">и на 10% больше урона</style>",
+          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает <style=\"highlight\">5</style> <color=#80c9ff>СД</color> себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую <color=#80c9ff>СД</color> (Единожды за ход)\n\n<style=\"highlight\">[StartBattle] В зависимости от текущего значения [NoirShieldUpDonQuixote:`Благословения обсидианового бога`]:\n- При максимальном значении (100): использует свой альтернативный третий навык <color=#fed133>「С каждым ударом, пресекаю твоё пришествие!」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)\n- 99 и ниже: получает <color=#366ffb>OЗ Щита</color> в размере (Текущее значение [NoirShieldUpDonQuixote:`Благословения обсидианового бога`] / 10)% от своих максимальных <color=#00ff9c>ОЗ</color> (Единожды за ход)</style>\n\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">3</style> (Единожды за ход)\n<style=\"highlight\">[WhenUse] Если сумма силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на атакующем равна 6 и более, Сила монет +1</style>\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1 <style=\"highlight\">и на 10% больше урона</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3543,7 +3543,7 @@
         {
           "level": 4,
           "name": "Будьте безмолвными свидетелями",
-          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает <style=\"highlight\">6</style> СД себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую СД (Единожды за ход)\n\n[StartBattle] В зависимости от текущего значения [NoirShieldUpDonQuixote:`Благословения обсидианового бога`]:\n- При максимальном значении (100): использует свой альтернативный третий навык <color=#fed133>「С каждым ударом, пресекаю твоё пришествие!」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)\n- 99 и ниже: получает ОЗ Щита в размере (Текущее значение [NoirShieldUpDonQuixote:`Благословения обсидианового бога`] / 10)% от своих максимальных ОЗ (Единожды за ход)\n\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style> (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1 и на <style=\"highlight\">20%</style> больше урона",
+          "desc": "[StartBattle] Получает 3 [OathFieldDonQuixote:`Святилища сохранения`] (Единожды за ход)\n[StartBattle] Восстанавливает <style=\"highlight\">6</style> <color=#80c9ff>СД</color> себе и ещё одной другой Идентичности «Ле Нуар» на поле боя, которая имеет наименьшую <color=#80c9ff>СД</color> (Единожды за ход)\n\n[StartBattle] В зависимости от текущего значения [NoirShieldUpDonQuixote:`Благословения обсидианового бога`]:\n- При максимальном значении (100): использует свой альтернативный третий навык <color=#fed133>「С каждым ударом, пресекаю твоё пришествие!」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)\n- 99 и ниже: получает <color=#366ffb>OЗ Щита</color> в размере (Текущее значение [NoirShieldUpDonQuixote:`Благословения обсидианового бога`] / 10)% от своих максимальных <color=#00ff9c>ОЗ</color> (Единожды за ход)\n\n[StartBattle] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style> (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 3 и более, Сила монет +1 и на <style=\"highlight\">20%</style> больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -3572,7 +3572,7 @@
         {
           "level": 1,
           "name": "Правосудие!",
-          "desc": "[CantDuel]\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе вызывает активацию зашитных навыков цели и не опускает её ОЗ ниже 1\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели (До 2)\n[WhenUse] Если счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 4 и более, Сила монеты +1 и на 20% больше урона",
+          "desc": "[CantDuel]\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе вызывает активацию зашитных навыков цели и не опускает её <color=#00ff9c>ОЗ</color> ниже 1\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели (До 2)\n[WhenUse] Если счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 4 и более, Сила монеты +1 и на 20% больше урона",
           "coinlist": [
             {
               "coindescs": [
@@ -3589,7 +3589,7 @@
         {
           "level": 4,
           "name": "Правосудие!",
-          "desc": "[CantDuel]\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе вызывает активацию зашитных навыков цели и не опускает её ОЗ ниже 1\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели (До <style=\"highlight\">3</style>)\n[WhenUse] Если счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 4 и более, Сила монеты +1 и на <style=\"highlight\">40%</style> больше урона",
+          "desc": "[CantDuel]\nВнешние эффекты не могут вызвать повторное использование этого навыка\nНе вызывает активацию зашитных навыков цели и не опускает её <color=#00ff9c>ОЗ</color> ниже 1\n[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Vibration:`Тремора`] и количества [NoirNailDonQuixote:`Обещанных гвоздей`] на цели (До <style=\"highlight\">3</style>)\n[WhenUse] Если счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равен 4 и более, Сила монеты +1 и на <style=\"highlight\">40%</style> больше урона",
           "coinlist": [
             {
               "coindescs": [

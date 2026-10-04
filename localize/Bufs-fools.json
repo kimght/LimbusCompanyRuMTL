@@ -10,7 +10,7 @@
     {
       "id": "TickTockTickTock",
       "name": "Тик-так?!",
-      "desc": "В конце хода восстанавливает 10 СД",
+      "desc": "В конце хода восстанавливает 10 <color=#80c9ff>СД</color>",
       "summary": "",
       "undefined": "-"
     },

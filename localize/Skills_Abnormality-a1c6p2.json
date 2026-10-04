@@ -109,14 +109,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
                 }
               ]
             }
@@ -138,7 +138,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -148,7 +148,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -158,7 +158,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -168,7 +168,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 3 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "Жадное поглощение",
-          "desc": "[WhenUse] Если на цели 5 и более [Burst:`Разрыва`], наносит 2 [DefenseDown:`Понижения уровня защиты`]\nБазовая сила +1 за каждое [TakeHpHealIncrease:`Повышения восстановления ОЗ`] на себе (До 3)",
+          "desc": "[WhenUse] Если на цели 5 и более [Burst:`Разрыва`], наносит 2 [DefenseDown:`Понижения уровня защиты`]\nБазовая сила +1 за каждое [TakeHpHealIncrease:`Повышения восстановления <color=#00ff9c>ОЗ</color>`] на себе (До 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -190,7 +190,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -200,7 +200,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -210,7 +210,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             },
@@ -220,7 +220,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 ОЗ"
+                  "desc": "[OnSucceedAttackHead] Ядро и часть восстанавливают по 5 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "Контратака",
-          "desc": "Если ОЗ Ядра ниже 50%, ядро и часть восстанавливают ОЗ при попадании монетами этой атаки",
+          "desc": "Если <color=#00ff9c>ОЗ</color> Ядра ниже 50%, ядро и часть восстанавливают <color=#00ff9c>ОЗ</color> при попадании монетами этой атаки",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
         {
           "level": 1,
           "name": "Это мой дом!",
-          "desc": "Нацеливается на противников с наименьшими ОЗ\n[WhenUse] Сила в столкновении +2 против целей с ОЗ ниже 70%",
+          "desc": "Нацеливается на противников с наименьшими <color=#00ff9c>ОЗ</color>\n[WhenUse] Сила в столкновении +2 против целей с <color=#00ff9c>ОЗ</color> ниже 70%",
           "coinlist": [
             {
               "coindescs": [
@@ -628,7 +628,7 @@
                   "desc": "[OnSucceedAttack] Если на цели 10 и более [Laceration:`Кровотечения`], наносит ещё 30% нанесенного урона как Дробящий урон"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Laceration:`Кровотечения`], восстанавливает ОЗ на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Laceration:`Кровотечения`], восстанавливает <color=#00ff9c>ОЗ</color> на 50% от нанесённого урона"
                 }
               ]
             }
@@ -647,14 +647,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и части на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> ядра и части на 50% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает ОЗ ядра и части на 50% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> ядра и части на 50% от нанесённого урона"
                 }
               ]
             }
@@ -668,7 +668,7 @@
         {
           "level": 1,
           "name": "Блок",
-          "desc": "[EndBattle] Если остались ОЗ Щита, получает 4 [Protection:`Защищённости`] на следующий ход",
+          "desc": "[EndBattle] Если остались <color=#366ffb>OЗ Щита</color>, получает 4 [Protection:`Защищённости`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -735,7 +735,7 @@
                   "desc": "Если на цели 10 и более [Laceration:`Кровотечения`], наносит ещё 30% нанесенного урона как Дробящий урон"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 10 и более [Laceration:`Кровотечения`], восстанавливает ОЗ на 70% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Если на цели 10 и более [Laceration:`Кровотечения`], восстанавливает <color=#00ff9c>ОЗ</color> на 70% от нанесённого урона"
                 }
               ]
             }

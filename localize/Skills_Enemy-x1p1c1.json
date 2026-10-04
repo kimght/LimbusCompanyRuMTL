@@ -163,7 +163,7 @@
         {
           "level": 1,
           "name": "Кхгвак",
-          "desc": "[WhenUse] Восстанавливает 10 ОЗ",
+          "desc": "[WhenUse] Восстанавливает 10 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {}
           ]

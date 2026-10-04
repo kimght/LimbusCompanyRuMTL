@@ -336,7 +336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             }
@@ -445,7 +445,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             }
@@ -577,7 +577,7 @@
                   "desc": "[OnSucceedAttack] Тратит всю [HardenedBlood:`Застывшую кровь`], чтобы увеличить [BloodDinner:`Кровавое пиршество`] на (Потраченная [HardenedBlood:`Застывшая кровь`] × 3) и получить 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 30%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 30%)"
                 }
               ]
             }
@@ -709,7 +709,7 @@
                   "desc": "[OnSucceedAttack] Тратит всю [HardenedBlood:`Застывшую кровь`], чтобы увеличить [BloodDinner:`Кровавое пиршество`] на (Потраченная [HardenedBlood:`Застывшая кровь`] × 3) и получить 5 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% ОЗ (До 30%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Сила [Laceration:`Кровотечения`] цели)% <color=#00ff9c>ОЗ</color> (До 30%)"
                 }
               ]
             }
@@ -805,7 +805,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 2.5)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 2.5)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             },
@@ -902,7 +902,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 2.5)% ОЗ (До 20%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 2.5)% <color=#00ff9c>ОЗ</color> (До 20%)"
                 }
               ]
             },
@@ -1025,7 +1025,7 @@
                   "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] и [Burst:`Разрыв`] в количестве своей [HardenedBlood:`Застывшей крови`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 4)% ОЗ (До 40%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 4)% <color=#00ff9c>ОЗ</color> (До 40%)"
                 }
               ]
             },
@@ -1151,7 +1151,7 @@
                   "desc": "[OnSucceedAttack] Наносит [Laceration:`Кровотечение`] и [Burst:`Разрыв`] в количестве своей [HardenedBlood:`Застывшей крови`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 4)% ОЗ (До 40%)"
+                  "desc": "[OnSucceedAttack] Восстанавливает (Количество своей [FestivalFever:`Праздничной горячки`] × 4)% <color=#00ff9c>ОЗ</color> (До 40%)"
                 }
               ]
             },

@@ -14,7 +14,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
@@ -39,7 +39,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
@@ -52,7 +52,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
@@ -65,7 +65,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
@@ -90,7 +90,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
@@ -103,7 +103,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 5 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
@@ -156,7 +156,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Paralysis:`Паралич`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -169,7 +169,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Paralysis:`Паралич`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Paralysis:`Паралич`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по СД"
+                  "desc": "[OnSucceedAttackHead] Наносит 3 урона по <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -196,7 +196,7 @@
         {
           "level": 1,
           "name": "Кххклк!",
-          "desc": "[CanDuelGuard]\n[WinDuel] Наносит 5 урона по СД",
+          "desc": "[CanDuelGuard]\n[WinDuel] Наносит 5 урона по <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -215,12 +215,12 @@
         {
           "level": 1,
           "name": "Кгх!",
-          "desc": "[WhenUse] Восстанавливает цели 5 СД",
+          "desc": "[WhenUse] Восстанавливает цели 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает цели 5 СД"
+                  "desc": "[OnSucceedAttack] Восстанавливает цели 5 <color=#80c9ff>СД</color>"
                 }
               ]
             }
@@ -345,7 +345,7 @@
         {
           "level": 1,
           "name": "Кегхгх",
-          "desc": "[CanDuelGuard]\n[WinDuel] Восстанавливает цели 5 СД",
+          "desc": "[CanDuelGuard]\n[WinDuel] Восстанавливает цели 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [

@@ -131,6 +131,7 @@ apply_for = [
   "MentalCondition*.json",
   "BattleKeywords*.json",
   "Bufs*.json",
+  "BattleResultHint-*.json",
   "UI_Mission_MirrorDungeon*Event.json",
   "RPGSystem/rpg-loc-item-common-*.json"
 ]

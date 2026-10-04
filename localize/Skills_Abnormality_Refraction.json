@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Плачущий шлепок",
-          "desc": "[WhenUse] Цель теряет 15 СД",
+          "desc": "[WhenUse] Цель теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "Печальный шлепок",
-          "desc": "[StartDuel] Цель восстанавливает 5 СД",
+          "desc": "[StartDuel] Цель восстанавливает 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[AlwaysUse] Наносит урон лишь по СД в количестве половины от нанесённого"
+                  "desc": "[AlwaysUse] Наносит урон лишь по <color=#80c9ff>СД</color> в количестве половины от нанесённого"
                 },
                 {
                   "desc": ""
@@ -47,7 +47,7 @@
         {
           "level": 1,
           "name": "Расплавленный глаз",
-          "desc": "[WhenUse] Цель теряет 5 СД\nНаносит на 10% больше урона, если СД цели ниже 0",
+          "desc": "[WhenUse] Цель теряет 5 <color=#80c9ff>СД</color>\nНаносит на 10% больше урона, если <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "Льющаяся печаль",
-          "desc": "[WhenUse] Цель теряет 5 СД\nНацеливается на противника с наибольшей силой [Sinking:`Утопания`]",
+          "desc": "[WhenUse] Цель теряет 5 <color=#80c9ff>СД</color>\nНацеливается на противника с наибольшей силой [Sinking:`Утопания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -85,14 +85,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит урон по ОЗ в количестве [Sinking:`Утопания`] цели"
+                  "desc": "[OnSucceedAttackHead] Наносит урон по <color=#00ff9c>ОЗ</color> в количестве [Sinking:`Утопания`] цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит урон по СД в количестве [Sinking:`Утопания`] цели"
+                  "desc": "[OnSucceedAttackHead] Наносит урон по <color=#80c9ff>СД</color> в количестве [Sinking:`Утопания`] цели"
                 }
               ]
             }
@@ -106,7 +106,7 @@
         {
           "level": 1,
           "name": "Глазная тяжесть",
-          "desc": "[DefeatDuel] Отменяет все свои атаки и получает 3 [Vulnerable:`Уязвимости`]\nНаносит на 10% больше урона, если СД цели ниже 0",
+          "desc": "[DefeatDuel] Отменяет все свои атаки и получает 3 [Vulnerable:`Уязвимости`]\nНаносит на 10% больше урона, если <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
@@ -125,12 +125,12 @@
         {
           "level": 1,
           "name": "Расплавленный глаз",
-          "desc": "[WhenUse] Цель теряет 5 СД\nНаносит на 10% больше урона, если СД цели ниже 0",
+          "desc": "[WhenUse] Цель теряет 5 <color=#80c9ff>СД</color>\nНаносит на 10% больше урона, если <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит урон по СД в количестве [Sinking:`Утопания`] цели"
+                  "desc": "[OnSucceedAttackHead] Наносит урон по <color=#80c9ff>СД</color> в количестве [Sinking:`Утопания`] цели"
                 }
               ]
             }
@@ -144,12 +144,12 @@
         {
           "level": 1,
           "name": "Расплавленный глаз",
-          "desc": "[WhenUse] Цель теряет 5 СД\nНаносит на 10% больше урона, если СД цели ниже 0",
+          "desc": "[WhenUse] Цель теряет 5 <color=#80c9ff>СД</color>\nНаносит на 10% больше урона, если <color=#80c9ff>СД</color> цели ниже 0",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит урон по ОЗ в количестве [Sinking:`Утопания`] цели"
+                  "desc": "[OnSucceedAttackHead] Наносит урон по <color=#00ff9c>ОЗ</color> в количестве [Sinking:`Утопания`] цели"
                 }
               ]
             }
@@ -312,7 +312,7 @@
         {
           "level": 1,
           "name": "Передача обработанных отчётов",
-          "desc": "[CantDuel]\nПриоритет на целей с наибольшими ОЗ\n[WhenUse] Тратит весь счётчик своего [Charge:`Заряд`]",
+          "desc": "[CantDuel]\nПриоритет на целей с наибольшими <color=#00ff9c>ОЗ</color>\n[WhenUse] Тратит весь счётчик своего [Charge:`Заряд`]",
           "coinlist": [
             {
               "coindescs": [
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "Вход запрещён",
-          "desc": "[DefeatDuel] Восстанавливает 10 ОЗ",
+          "desc": "[DefeatDuel] Восстанавливает 10 <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -441,7 +441,7 @@
         {
           "level": 1,
           "name": "Посторонним вход воспрещён",
-          "desc": "Выбирает цель с наибольшими ОЗ",
+          "desc": "Выбирает цель с наибольшими <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {},
             {

@@ -52,14 +52,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает своё ОЗ на ([MRcAfBa:`Госсипиум`] цели × 5)% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает своё <color=#00ff9c>ОЗ</color> на ([MRcAfBa:`Госсипиум`] цели × 5)% от нанесённого урона"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает своё ОЗ на ([MRcAfBa:`Госсипиум`] цели × 5)% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Восстанавливает своё <color=#00ff9c>ОЗ</color> на ([MRcAfBa:`Госсипиум`] цели × 5)% от нанесённого урона"
                 }
               ]
             }
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "Разлетающийся госсипиум",
-          "desc": "Атакует цель с [MRcAfBa:`Госсипиумом`], у которой меньше всего ОЗ\n[WhenUse] Базовая сила +5, если на главной цели больше всего [Laceration:`Кровотечения`]\n[EndBattle] Выходит из состояния [MRcAfBb:`Окровавленного Госсипиума`] в следующем ходе",
+          "desc": "Атакует цель с [MRcAfBa:`Госсипиумом`], у которой меньше всего <color=#00ff9c>ОЗ</color>\n[WhenUse] Базовая сила +5, если на главной цели больше всего [Laceration:`Кровотечения`]\n[EndBattle] Выходит из состояния [MRcAfBb:`Окровавленного Госсипиума`] в следующем ходе",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает своё ОЗ на количество [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Восстанавливает своё <color=#00ff9c>ОЗ</color> на количество [Laceration:`Кровотечения`] цели"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает своё ОЗ на количество [Laceration:`Кровотечения`] цели"
+                  "desc": "[OnSucceedAttack] Восстанавливает своё <color=#00ff9c>ОЗ</color> на количество [Laceration:`Кровотечения`] цели"
                 }
               ]
             }
@@ -510,7 +510,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 10 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Поднимает Границу Выносливости цели на 20"
@@ -542,7 +542,7 @@
                   "desc": "[OnSucceedAttack] Наносит 8 [Laceration:`Кровотечения`] и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 15 урона по СД"
+                  "desc": "[OnSucceedAttack] Наносит 15 урона по <color=#80c9ff>СД</color>"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Поднимает Границу Выносливости цели на 30"
@@ -559,7 +559,7 @@
         {
           "level": 1,
           "name": "Уворот",
-          "desc": "[OnSucceedEvade] Атакующий теряет 4 СД",
+          "desc": "[OnSucceedEvade] Атакующий теряет 4 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -578,12 +578,12 @@
         {
           "level": 1,
           "name": "6:5",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nСам получает урон вместо цели и Оглушается в следующем ходе\n[AaCePcBa:`Помечает`] случайного противника без этого эффекта\n[EndBattle] Все Свечи восстанавливаются до максимальных ОЗ",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nСам получает урон вместо цели и Оглушается в следующем ходе\n[AaCePcBa:`Помечает`] случайного противника без этого эффекта\n[EndBattle] Все Свечи восстанавливаются до максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ Пророка Кожи снижаются на 5%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> Пророка Кожи снижаются на 5%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 10 [Combustion:`Огня`]"
@@ -593,7 +593,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Максимальные ОЗ Пророка Кожи снижаются на 5%"
+                  "desc": "[OnSucceedAttack] Максимальные <color=#00ff9c>ОЗ</color> Пророка Кожи снижаются на 5%"
                 },
                 {
                   "desc": "[OnSucceedAttack] Получает 10 [Combustion:`Огня`]"
@@ -618,7 +618,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`] и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Восстанавливает себе 20 ОЗ"
+                  "desc": "[OnSucceedAttack] Восстанавливает себе 20 <color=#00ff9c>ОЗ</color>"
                 }
               ]
             }
@@ -632,7 +632,7 @@
         {
           "level": 1,
           "name": "Коварное обледнение",
-          "desc": "[StartBattle] Получает щит, равный 10% от максимальных ОЗ; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.3% от максимальных ОЗ в качестве щита\nАтакующий теряет 5 СД при попадании по щиту\nПри получении атаки, использует контратаку ещё один раз за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
+          "desc": "[StartBattle] Получает щит, равный 10% от максимальных <color=#00ff9c>ОЗ</color>; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.3% от максимальных <color=#00ff9c>ОЗ</color> в качестве щита\nАтакующий теряет 5 <color=#80c9ff>СД</color> при попадании по щиту\nПри получении атаки, использует контратаку ещё один раз за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
           "coinlist": [
             {
               "coindescs": [
