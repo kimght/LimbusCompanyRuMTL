@@ -85,7 +85,7 @@
         {
           "level": 2,
           "name": "Гибкое усмирение",
-          "desc": "[WhenUse] Получает <style=\"highlight\">3</style> [DefenseUp:`Повышения уровня защиты`]\n<style=\"highlight\">[WhenUse] Слот с этим навыком 2 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "[WhenUse] Получает <style=\"highlight\">3</style> [DefenseUp:`Повышения уровня защиты`]\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -114,7 +114,7 @@
         {
           "level": 4,
           "name": "Гибкое усмирение",
-          "desc": "[WhenUse] Получает 3 [DefenseUp:`Повышения уровня защиты`]\n[WhenUse] Слот с этим навыком <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">Сила в столкновении +1 при 6 и более [DefenseUp:`Повышениях уровня защиты`]</style>",
+          "desc": "[WhenUse] Получает 3 [DefenseUp:`Повышения уровня защиты`]\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">Сила в столкновении +1 при 6 и более [DefenseUp:`Повышениях уровня защиты`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
         {
           "level": 4,
           "name": "Лучшая защита",
-          "desc": "[StartBattle] Получает (2 × количество [DefenseUp:`Повышений уровня защиты`] на себе) <color=#366ffb>OЗ Щита</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "[StartBattle] Получает (2 × количество [DefenseUp:`Повышений уровня защиты`] на себе) <color=#366ffb>OЗ Щита</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -892,7 +892,7 @@
         {
           "level": 1,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -916,7 +916,7 @@
         {
           "level": 2,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "Жертва во имя семьи",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] Если свои <color=#00ff9c>ОЗ</color> равны или выше 50%, получает ещё 15 [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -969,7 +969,7 @@
         {
           "level": 1,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и 2 [BloodyHandGregFirst:`Окровавленные руки`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и 2 [BloodyHandGregFirst:`Окровавленные руки`]",
           "coinlist": [
             {
               "coindescs": [
@@ -993,7 +993,7 @@
         {
           "level": 2,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и 2 [BloodyHandGregFirst:`Окровавленные руки`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и 2 [BloodyHandGregFirst:`Окровавленные руки`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1017,7 +1017,7 @@
         {
           "level": 4,
           "name": "Удушающая вина",
-          "desc": "[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и <style=\"highlight\">3</style> [BloodyHandGregFirst:`Окровавленные руки`]",
+          "desc": "[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Получает 10 [Laceration:`Кровотечения`]\n[WhenUse] При 5 и более [WornHeartGreg:`Болезненного сердца`] поглощает до 60 [BloodDinner:`Кровавого пиршества`], чтобы получить 1 [BloodyHandGregFirst:`Окровавленную руку`] за каждые 6 поглощённого [BloodDinner:`Кровавого пиршества`]\n[WhenUse] При менее чем 5 [WornHeartGreg:`Болезненного сердца`] получает 10 [Laceration:`Кровотечения`] и <style=\"highlight\">3</style> [BloodyHandGregFirst:`Окровавленные руки`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2683,7 +2683,7 @@
         {
           "level": 1,
           "name": "Защитные способности этого ЭГО Дара обладают уникальным превосходством",
-          "desc": "[StartBattle] Получает 1 [HighVoltageExoshell:`Высоковольтный экзоскелет`] (Единожды за ход)\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2 (До 2 раз за ход)\n[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход",
+          "desc": "[StartBattle] Получает 1 [HighVoltageExoshell:`Высоковольтный экзоскелет`] (Единожды за ход)\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2 (До 2 раз за ход)\n[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -2691,7 +2691,7 @@
         {
           "level": 4,
           "name": "Защитные способности этого ЭГО Дара обладают уникальным превосходством",
-          "desc": "[StartBattle] Получает <style=\"highlight\">2</style> [HighVoltageExoshell:`Высоковольтного экзоскелета`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монеты повышается на текущую силу [Charge:`Заряда`] (До 5)</style>\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2 (До 2 раз за ход)\n[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход",
+          "desc": "[StartBattle] Получает <style=\"highlight\">2</style> [HighVoltageExoshell:`Высоковольтного экзоскелета`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монеты повышается на текущую силу [Charge:`Заряда`] (До 5)</style>\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2 (До 2 раз за ход)\n[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -3060,7 +3060,7 @@
         {
           "level": 1,
           "name": "Страж",
-          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3084,7 +3084,7 @@
         {
           "level": 3,
           "name": "Страж",
-          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n<style=\"highlight\">[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)</style>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n<style=\"highlight\">[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)</style>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3108,7 +3108,7 @@
         {
           "level": 4,
           "name": "Страж",
-          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на атакующем (До 2)</style>\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает свою силу [Combustion:`Огня`] на 5 (Единожды за ход)",
+          "desc": "[DuelCounter]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`] (Единожды за ход)\n[BeforeUse] Использует альтернативный третий навык <color=#fe0101>「На заре」</color> вместо этого при максимальном значении [StigmaWorkshopHandStep1:`Луча восхода`] (Единожды за ход)\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5 (Единожды за ход)\n<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на атакующем (До 2)</style>\n[WinDuel] Понижает счётчик своего [Combustion:`Огня`] на 2 (Единожды за ход)\n[EndSkillAll] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3256,7 +3256,7 @@
         {
           "level": 1,
           "name": "Тепловая дымка",
-          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)",
+          "desc": "<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[DuelCounter]\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3277,7 +3277,7 @@
         {
           "level": 4,
           "name": "Тепловая дымка",
-          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если значние [StigmaWorkshopHandStep1:`Луча восхода`] равно 20 и более или Грегор использовал свой альтернативный третий навык <color=#fe0101>「На заре」</color> в текущем ходе</style>",
+          "desc": "<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[DuelCounter]\n[WhenUse] Повышает значение [StigmaWorkshopHandStep1:`Луча восхода`] на 5\n[WhenUse] Получает 2 [Protection:`Защищённости`] (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`], если значние [StigmaWorkshopHandStep1:`Луча восхода`] равно 20 и более или Грегор использовал свой альтернативный третий навык <color=#fe0101>「На заре」</color> в текущем ходе</style>",
           "coinlist": [
             {
               "coindescs": [

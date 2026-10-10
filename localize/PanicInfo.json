@@ -3,109 +3,109 @@
     {
       "id": 1001,
       "panicName": "Самоповреждение",
-      "lowMoraleDescription": "Получает 2 [Agility:`Спешки`] и 2 [Vulnerable:`Уязвимости`]",
+      "lowMoraleDescription": "Получает 2 [Agility:`Спешки`] и 2 [Vulnerable:`Уязвимости`]\n",
       "panicDescription": "Теряет 10 <color=#00ff9c>ОЗ</color> в начале хода"
     },
     {
       "id": 1002,
       "panicName": "Порицание",
-      "lowMoraleDescription": "Начало хода: Получает 2 [Enhancement:`Повышения силы атаки`] и 2 [Vulnerable:`Уязвимости`]",
+      "lowMoraleDescription": "Начало хода: Получает 2 [Enhancement:`Повышения силы атаки`] и 2 [Vulnerable:`Уязвимости`]\n",
       "panicDescription": "Начало хода: Случайный союзник теряет 20 <color=#80c9ff>СД</color>"
     },
     {
       "id": 1003,
       "panicName": "Ошеломление",
-      "lowMoraleDescription": "Получает 2 [Reduction:`Понижения силы атаки`]",
+      "lowMoraleDescription": "Получает 2 [Reduction:`Понижения силы атаки`]\n",
       "panicDescription": "Не действует в течение хода"
     },
     {
       "id": 1004,
       "panicName": "Обескураженность",
-      "lowMoraleDescription": "Получает 2 [Reduction:`Понижения силы атаки`]",
+      "lowMoraleDescription": "Получает 2 [Reduction:`Понижения силы атаки`]\n",
       "panicDescription": "Получает 4 [Reduction:`Понижения силы атаки`]"
     },
     {
       "id": 1005,
       "panicName": "Обозлённость",
-      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`] и 2 [Vulnerable:`Уязвимости`]",
+      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`] и 2 [Vulnerable:`Уязвимости`]\n",
       "panicDescription": "Получает 2 [AttackDmgUp:`Повышения урона`] и 5 [Vulnerable:`Уязвимости`]"
     },
     {
       "id": 1006,
       "panicName": "Побег",
-      "lowMoraleDescription": "Не действует и при получении удара сбегает из боя",
+      "lowMoraleDescription": "Не действует и при получении удара сбегает из боя\n",
       "panicDescription": ""
     },
     {
       "id": 1007,
       "panicName": "Горечь",
-      "lowMoraleDescription": "Получает 2 [AttackDmgDown:`Понижения урона`] каждый ход",
+      "lowMoraleDescription": "Получает 2 [AttackDmgDown:`Понижения урона`] каждый ход\n",
       "panicDescription": "Получает 5 [AttackDmgDown:`Понижений урона`] и 2 [Vulnerable:`Уязвимости`] каждый ход"
     },
     {
       "id": 1008,
       "panicName": "Безрассудство",
-      "lowMoraleDescription": "Цели становятся случайными, если впервые в Низком Духе",
+      "lowMoraleDescription": "Цели становятся случайными, если впервые в Низком Духе\n",
       "panicDescription": "- Цели становятся случайными\n- Сила в столкновении +1\n- Получает 2 [AttackDmgUp:`Повышения урона`]"
     },
     {
       "id": 1009,
       "panicName": "Суицидальность",
-      "lowMoraleDescription": "При Низком Духе в первый раз становится неактивным",
+      "lowMoraleDescription": "При Низком Духе в первый раз становится неактивным\n",
       "panicDescription": "- Не может действовать 3 хода\n- Умирает в начале хода, а все союзники теряют 10 <color=#80c9ff>СД</color>"
     },
     {
       "id": 1010,
       "panicName": "Блуждание",
-      "lowMoraleDescription": "Все союзники теряют 2 <color=#80c9ff>СД</color> в начале хода",
+      "lowMoraleDescription": "Все союзники теряют 2 <color=#80c9ff>СД</color> в начале хода\n",
       "panicDescription": "- Все союзники теряют 5 <color=#80c9ff>СД</color> в начале хода\n- Сбегает из боя после 3 ходов"
     },
     {
       "id": 1011,
       "panicName": "Нестабильность",
-      "lowMoraleDescription": "Получает 2 [Enhancement:`Повышения силы атаки`] и 3 [Binding:`Связывания`]",
+      "lowMoraleDescription": "Получает 2 [Enhancement:`Повышения силы атаки`] и 3 [Binding:`Связывания`]\n",
       "panicDescription": "Оглушается в начале хода"
     },
     {
       "id": 1012,
       "panicName": "Удручённость",
-      "lowMoraleDescription": "Если во время столкновения на любой монете выпадает решка, Сила в нём понижается на 1",
+      "lowMoraleDescription": "Если во время столкновения на любой монете выпадает решка, Сила в нём понижается на 1\n",
       "panicDescription": "Если во время столкновения на любой монете выпадает решка, Сила в нём понижается на 3"
     },
     {
       "id": 9999,
       "panicName": "Паника",
-      "lowMoraleDescription": "",
+      "lowMoraleDescription": "Нет эффекта\n",
       "panicDescription": "Не действует в течение хода"
     },
     {
       "id": 1013,
       "panicName": "Загрязнение",
-      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`]\n- При поражении в столкновении атакующий теряет 2 <color=#80c9ff>СД</color>",
+      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`]\n- При поражении в столкновении атакующий теряет 2 <color=#80c9ff>СД</color>\n",
       "panicDescription": "- Получает 2 [Vulnerable:`Уязвимости`]\n- При поражении в столкновении атакующий теряет 5 <color=#80c9ff>СД</color>"
     },
     {
       "id": 1014,
       "panicName": "Возмездие",
-      "lowMoraleDescription": "Получает 1 [Enhancement:`Повышение силы атаки`] и 3 [DefenseDown:`Понижения уровня защиты`], а также [AttackDmgUp:`Повышение урона`] в зависимости от полученного в прошлом ходе урона (1 за каждые 3% потерянных <color=#00ff9c>ОЗ</color>)",
+      "lowMoraleDescription": "Получает 1 [Enhancement:`Повышение силы атаки`] и 3 [DefenseDown:`Понижения уровня защиты`], а также [AttackDmgUp:`Повышение урона`] в зависимости от полученного в прошлом ходе урона (1 за каждые 3% потерянных <color=#00ff9c>ОЗ</color>)\n",
       "panicDescription": "Получает 2 [Enhancement:`Повышения силы атаки`] и 6 [DefenseDown:`Понижений уровня защиты`], а также [AttackDmgUp:`Повышение урона`] в зависимости от полученного в прошлом ходе урона (1 за каждые 3% потерянных <color=#00ff9c>ОЗ</color>)"
     },
     {
       "id": 1015,
       "panicName": "Бледная паника",
-      "lowMoraleDescription": "Потеря <color=#80c9ff>СД</color> увеличивается на 2",
+      "lowMoraleDescription": "Потеря <color=#80c9ff>СД</color> увеличивается на 2\n",
       "panicDescription": "- Получает 2 [Binding:`Связывания`] в следующем ходе\n- Каждая монета выпадает решкой"
     },
     {
       "id": 1016,
       "panicName": "Ненависть",
-      "lowMoraleDescription": "Получает 2 [AttackDmgUp:`Повышения урона`] и 3 [DefenseDown:`Понижения уровня защиты`]",
+      "lowMoraleDescription": "Получает 2 [AttackDmgUp:`Повышения урона`] и 3 [DefenseDown:`Понижения уровня защиты`]\n",
       "panicDescription": "Получает 1 [Enhancement:`Повышение силы атаки`] и 5 [DefenseDown:`Понижений уровня защиты`]"
     },
     {
       "id": 1026,
       "panicName": "Погибель",
-      "lowMoraleDescription": "- Сила в столкновении -1\n- получает 3 [Sinking:`Утопания`] в начале каждого хода",
+      "lowMoraleDescription": "- Сила в столкновении -1\n- получает 3 [Sinking:`Утопания`] в начале каждого хода\n",
       "panicDescription": "- Сила в столкновении -2\n- Получает 5 [Sinking:`Утопания`] в начале каждого хода и его счётчик повышается на 3"
     },
     {
@@ -117,37 +117,37 @@
     {
       "id": 1065,
       "panicName": "Метка раскола",
-      "lowMoraleDescription": "Сила в столкновении -1, Уровень Защиты -2",
+      "lowMoraleDescription": "Сила в столкновении -1, Уровень Защиты -2\n",
       "panicDescription": "Сила в столкновении -2, Уровень Защиты -3"
     },
     {
       "id": 1085,
       "panicName": "Синий песок",
-      "lowMoraleDescription": "- Сила в столкновении -1\n- Максимальная и Минимальная Скорость -1",
+      "lowMoraleDescription": "- Сила в столкновении -1\n- Максимальная и Минимальная Скорость -1\n",
       "panicDescription": "- Сила в столкновении -2\n- Максимальная и Минимальная Скорость -1"
     },
     {
       "id": 1086,
       "panicName": "Ослепление",
-      "lowMoraleDescription": "Конец хода: получает на следующий ход 1 [Binding:`Связывание`] и 2 [DefenseDown:`Понижения уровня защиты`]",
+      "lowMoraleDescription": "Конец хода: получает на следующий ход 1 [Binding:`Связывание`] и 2 [DefenseDown:`Понижения уровня защиты`]\n",
       "panicDescription": "Конец хода: получает на следующий ход 1 [Binding:`Связывание`] и 4 [DefenseDown:`Понижения уровня защиты`]"
     },
     {
       "id": 1087,
       "panicName": "Одиночество",
-      "lowMoraleDescription": "Конец хода: счётчик своего [Sinking:`Утопания`] повышается на 2",
+      "lowMoraleDescription": "Конец хода: счётчик своего [Sinking:`Утопания`] повышается на 2\n",
       "panicDescription": "Конец хода: счётчик своего [Sinking:`Утопания`] повышается на 3"
     },
     {
       "id": 1091,
       "panicName": "Привязанность и неприязнь",
-      "lowMoraleDescription": "Наносит и получает на 10% больше урона",
+      "lowMoraleDescription": "Наносит и получает на 10% больше урона\n",
       "panicDescription": "Наносит и получает на 20% больше урона"
     },
     {
       "id": 1097,
       "panicName": "Имитация отца",
-      "lowMoraleDescription": "Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`]",
+      "lowMoraleDescription": "Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`]\n",
       "panicDescription": "Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`], а также 3 единицы их счётчика"
     }
   ]

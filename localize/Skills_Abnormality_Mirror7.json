@@ -1258,7 +1258,7 @@
         {
           "level": 1,
           "name": "Курирование выставки",
-          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Получает 3 [SupportProtect:`Вспомогательных защиты`]</u></b></mark></color>\n[WhenUse] Атакующий не будет терять счётчик [Laceration:`Кровотечения`] во время этого уворота",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Получает 3 [SupportProtect:`Вспомогательных защиты`]</u></b></mark></color>\n[WhenUse] Атакующий не будет терять счётчик [Laceration:`Кровотечения`] во время этого Уворота",
           "coinlist": [
             {}
           ]
@@ -1271,7 +1271,7 @@
         {
           "level": 1,
           "name": "Пожалуйста. Вандализм запрещён.",
-          "desc": "[DuelCounter]\n<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\nНе может быть Оглушена до использования этого навыка\n[WhenUse] Получает 1 [Protection:`Защищённость`]\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]",
+          "desc": "<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[DuelCounter]\nНе может быть Оглушена до использования этого навыка\n[WhenUse] Получает 1 [Protection:`Защищённость`]\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1424,7 +1424,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Разделка кролика",
+          "name": "Разделка кролика【Sezionatura di Coniglio】",
           "desc": "Сила монет +1 при 6 и более [Breath:`Дыхания`]\n[WhenUse] Базовая сила +1 за каждые 4 единицы в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 2)",
           "coinlist": [
             {
@@ -1457,7 +1457,7 @@
         {
           "level": 1,
           "name": "Предвидение",
-          "desc": "При успешном увороте от всех монет атаковавшего использует на нём атаку <color=#fe6f01>「Разделка кролика」</color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Базовая сила +1 за каждые 3 единицы значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</u></b></mark></color>\n[WhenUse] [FullReload:`Перезаряжается`] (Единожды за ход)\n[OnDefeatEvade] Теряет 5 <color=#80c9ff>СД</color>",
+          "desc": "При успешном увороте от всех монет атаковавшего использует на нём атаку <color=#fe6f01>「Разделка кролика 【Sezionatura di Coniglio】」</color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Базовая сила +1 за каждые 3 единицы значения [FutureEyeOn:`Глаза предвидения`](#f8c200)</u></b></mark></color>\n[WhenUse] [FullReload:`Перезаряжается`] (Единожды за ход)\n[OnDefeatEvade] Теряет 5 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [

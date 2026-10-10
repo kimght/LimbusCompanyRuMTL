@@ -78,14 +78,14 @@
     {
       "id": "MadFeather_LowMorale",
       "name": "Обоюдоострое перо (Низкий Дух)",
-      "desc": "· Получает 1 [Vulnerable:`Уязвимость`] и 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`]\n· Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе",
+      "desc": "· Получает 1 [Vulnerable:`Уязвимость`] и 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`]\n· Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MadFeather_Panic",
       "name": "Обоюдоострое перо (Паника)",
-      "desc": "· Получает 2 [Vulnerable:`Уязвимости`] и 2 [TakeHpHealIncrease:`Повышения восстановления <color=#00ff9c>ОЗ</color>`]\n· Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе",
+      "desc": "· Получает 2 [Vulnerable:`Уязвимости`] и 2 [TakeHpHealIncrease:`Повышения восстановления ОЗ`]\n· Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе",
       "summary": "",
       "undefined": "-"
     },

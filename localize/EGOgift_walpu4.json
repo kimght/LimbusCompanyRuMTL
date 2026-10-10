@@ -58,7 +58,7 @@
     {
       "id": 9749,
       "name": "Терновый венец",
-      "desc": "Начало хода: восстанавливает 8 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>. (За исключением союзников в Панике или [EgoErode:`Коррозии ЭГО`])\n- Если <color=#80c9ff>СД</color> уже максимальная, то даёт +1 к Силе в столкновении на протяжении хода вместо этого.\n\n[MentalSystemResultIncrease_Typo:`Эффективность восстановления <color=#80c9ff>СД</color>`] +1, [MentalSystemResultDecrease_Typo:`Эффективность потери <color=#80c9ff>СД</color>`] -1.",
+      "desc": "Начало хода: восстанавливает 8 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>. (За исключением союзников в Панике или [EgoErode:`Коррозии ЭГО`])\n- Если <color=#80c9ff>СД</color> уже максимальная, то даёт +1 к Силе в столкновении на протяжении хода вместо этого.\n\n[MentalSystemResultIncrease_Typo:`Эффективность восстановления СД`] +1, [MentalSystemResultDecrease_Typo:`Эффективность потери СД`] -1.",
       "simpleDesc": [
         {
           "abilityID": 9749,

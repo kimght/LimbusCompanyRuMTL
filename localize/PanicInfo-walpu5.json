@@ -3,7 +3,7 @@
     {
       "id": 1035,
       "panicName": "Церковь",
-      "lowMoraleDescription": "- Получает на 1 силу и счётчик [Smoke:`Дыма`] больше\n- Получает 3 [Vulnerable:`Уязвимости`], 2 [AttackDmgUp:`Повышения урона`] и 1 [Endurance:`Повышение силы защиты`]",
+      "lowMoraleDescription": "- Получает на 1 силу и счётчик [Smoke:`Дыма`] больше\n- Получает 3 [Vulnerable:`Уязвимости`], 2 [AttackDmgUp:`Повышения урона`] и 1 [Endurance:`Повышение силы защиты`]\n",
       "panicDescription": "- Получает на 2 силы и счётчика [Smoke:`Дыма`] больше\n- Получает 3 [Vulnerable:`Уязвимости`], 4 [AttackDmgUp:`Повышения урона`] и 2 [Endurance:`Повышения силы защиты`]"
     }
   ]

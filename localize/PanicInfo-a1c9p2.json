@@ -3,19 +3,19 @@
     {
       "id": 1070,
       "panicName": "Привязанность и неприязнь",
-      "lowMoraleDescription": "Наносит на 10% больше урона Рёшу и получает на 10% больше урона от неё же",
+      "lowMoraleDescription": "Наносит на 10% больше урона Рёшу и получает на 10% больше урона от неё же\n",
       "panicDescription": "Наносит на 20% больше урона Рёшу и получает на 20% больше урона от неё же"
     },
     {
       "id": 1074,
       "panicName": "Раздражение",
-      "lowMoraleDescription": "Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] и 1 [MentalIncreaseDown:`Понижение эффективности восстановления <color=#80c9ff>СД</color>`]",
-      "panicDescription": "Получает 2 [PenetrateResultUp:`Повышения силы Пронзающих атак`], 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] и 2 [MentalIncreaseDown:`Понижения эффективности восстановления <color=#80c9ff>СД</color>`]"
+      "lowMoraleDescription": "Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] и 1 [MentalIncreaseDown:`Понижение эффективности восстановления СД`]\n",
+      "panicDescription": "Получает 2 [PenetrateResultUp:`Повышения силы Пронзающих атак`], 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] и 2 [MentalIncreaseDown:`Понижения эффективности восстановления СД`]"
     },
     {
       "id": 1072,
       "panicName": "Риск неисполнения предписаний",
-      "lowMoraleDescription": "- Наносит на 20% больше урона [IndexPrescriptTargetToPersonality:`Целям предписания`]\n- Получает на 10% больше урона от противников, которые не являются [IndexPrescriptTargetToPersonality:`Целью предписания`]",
+      "lowMoraleDescription": "- Наносит на 20% больше урона [IndexPrescriptTargetToPersonality:`Целям предписания`]\n- Получает на 10% больше урона от противников, которые не являются [IndexPrescriptTargetToPersonality:`Целью предписания`]\n",
       "panicDescription": "- Наносит на 30% больше урона [IndexPrescriptTargetToPersonality:`Целям предписания`]\n- Получает на 20% больше урона от противников, которые не являются [IndexPrescriptTargetToPersonality:`Целью предписания`]"
     }
   ]

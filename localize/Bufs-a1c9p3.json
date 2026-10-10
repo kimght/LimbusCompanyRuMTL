@@ -542,7 +542,7 @@
     {
       "id": "Veteran_LowMorale",
       "name": "Со времён Второй Дымовой Войны (Низкий Дух)",
-      "desc": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления <color=#80c9ff>СД</color>`]",
+      "desc": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления СД`]",
       "summary": "",
       "undefined": "-"
     },

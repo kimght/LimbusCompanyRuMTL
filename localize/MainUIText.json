@@ -1262,11 +1262,11 @@
     },
     {
       "id": "mental_low_morale_effect",
-      "content": " Эффекты низкого духа:"
+      "content": " Эффекты низкого духа ·"
     },
     {
       "id": "mental_panic_effect",
-      "content": " Эффекты паники:"
+      "content": " Эффекты паники ·"
     },
     {
       "id": "open_scheduled_date_month_day",

@@ -1254,7 +1254,7 @@
                   "desc": "[OnSucceedAttack] Наносит 5 [Sinking:`Утопания`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EndSkill] Все союзники получают -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери <color=#80c9ff>СД</color>`] в следующем ходе включая использование ЭГО</style>"
+                  "desc": "<style=\"highlight\">[EndSkill] Все союзники получают -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери СД`] в следующем ходе включая использование ЭГО</style>"
                 }
               ]
             }
@@ -1909,10 +1909,10 @@
                   "desc": "[OnSucceedAttack] Наносит 4 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает +2 [MentalSystemResultIncrease_Typo:`Эффективности восстановления <color=#80c9ff>СД</color>`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает +2 [MentalSystemResultIncrease_Typo:`Эффективности восстановления СД`] на следующий ход</style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает -2 [MentalSystemResultDecrease_Typo:`Эффективности потери <color=#80c9ff>СД</color>`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает -2 [MentalSystemResultDecrease_Typo:`Эффективности потери СД`] на следующий ход</style>"
                 }
               ]
             }

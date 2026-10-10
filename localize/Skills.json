@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "Пинок",
-          "desc": "<style=\"highlight\">Сила навыка +2 против целей с 8 и более [Vibration:`Тремора`]\n[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">Сила навыка +2 против целей с 8 и более [Vibration:`Тремора`]\n[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -4187,7 +4187,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает ещё 2 [Aggro:`Провокации`], если кончились [Bullet:`Патроны`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Получает ещё 2 [Aggro:`Провокации`], если кончились [Bullet:`Патроны`]</style>",
           "coinlist": [
             {}
           ]
@@ -5153,7 +5153,7 @@
         {
           "level": 4,
           "name": "Усмирение",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 6 [Vibration:`Тремора`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 6 [Vibration:`Тремора`]</style>",
           "coinlist": [
             {},
             {
@@ -5193,7 +5193,7 @@
         {
           "level": 4,
           "name": "Сильный удар",
-          "desc": "[WhenUse] Даёт 1 [Protection:`Защищённость`] на следующий ход союзнику с наименьшими <color=#00ff9c>ОЗ</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком 10 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "[WhenUse] Даёт 1 [Protection:`Защищённость`] на следующий ход союзнику с наименьшими <color=#00ff9c>ОЗ</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 10 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -5226,7 +5226,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Пронзание",
-          "desc": "<style=\"highlight\">Сила монет +2, если свои <color=#00ff9c>ОЗ</color> ниже 50%\n[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">Сила монет +2, если свои <color=#00ff9c>ОЗ</color> ниже 50%\n[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -6602,7 +6602,7 @@
         {
           "level": 4,
           "name": "Сними грех с тела его",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 6 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 6 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -6652,7 +6652,7 @@
         {
           "level": 4,
           "name": "Уничтожение ереси",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 6 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 6 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -7720,7 +7720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`] на следующий ход"
                 }
               ]
             }
@@ -7748,7 +7748,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей <style=\"highlight\">3</style> [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей <style=\"highlight\">3</style> [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход"
                 }
               ]
             }
@@ -7776,7 +7776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей <style=\"highlight\">4</style> [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если на цели есть [Laceration:`Кровотечение`] или [Paralysis:`Паралич`], наносит ей <style=\"highlight\">4</style> [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход"
                 }
               ]
             }
@@ -9603,7 +9603,7 @@
         {
           "level": 4,
           "name": "Тяжёлое!..",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 2 [Vibration:`Тремора`] и [Burst:`Разрыва`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 2 [Vibration:`Тремора`] и [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9667,7 +9667,7 @@
         {
           "level": 4,
           "name": "Брызжется!..",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 3 [Vibration:`Тремора`] и 3 [Burst:`Разрыва`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 3 [Vibration:`Тремора`] и 3 [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9707,7 +9707,7 @@
         {
           "level": 4,
           "name": "Коррозийный всплеск",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 5 [Vibration:`Тремора`] и 5 [Burst:`Разрыва`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Наносит цели 5 [Vibration:`Тремора`] и 5 [Burst:`Разрыва`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9734,7 +9734,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -9763,7 +9763,7 @@
         {
           "level": 4,
           "name": "Задержка нарушителей",
-          "desc": "Сила монет <style=\"highlight\">+3</style> против целей с 5 и более [Burst:`Разрыва`]\n<style=\"highlight\">[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "Сила монет <style=\"highlight\">+3</style> против целей с 5 и более [Burst:`Разрыва`]\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -9818,7 +9818,7 @@
         {
           "level": 4,
           "name": "Разлагающее лезвие",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -9899,7 +9899,7 @@
         {
           "level": 4,
           "name": "Инъекция ампулы",
-          "desc": "[WhenUse] Получает 1 [KCorpSerum:`Ампулу Корп. K`] на следующий ход\n<style=\"highlight\">[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "[WhenUse] Получает 1 [KCorpSerum:`Ампулу Корп. K`] на следующий ход\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {}
           ]
@@ -10649,7 +10649,7 @@
         {
           "level": 4,
           "name": "Остерегающая блокада",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 2 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Повышает счётчик своего [Breath:`Дыхания`] на 2</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход\n[DefeatDuel] Повышает счётчик своего [Breath:`Дыхания`] на 2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -10698,7 +10698,7 @@
         {
           "level": 4,
           "name": "Сконцентрированная оборона",
-          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2 при 15 и более <color=#366ffb>OЗ Щита</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком 4 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2 при 15 и более <color=#366ffb>OЗ Щита</color>\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 4 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -10769,7 +10769,7 @@
         {
           "level": 4,
           "name": "Блок",
-          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком 5 [Aggro:`Провокаций`] на следующий ход</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Слот с этим навыком получает 5 [Aggro:`Провокаций`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [

@@ -3,55 +3,55 @@
     {
       "id": 1043,
       "panicName": "Мутация древа",
-      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`], 1 [Vulnerable:`Уязвимость`] и 1 [BurstVulnerable:`Уязвимость к Разрыву`]",
+      "lowMoraleDescription": "Получает 1 [AttackDmgUp:`Повышение урона`], 1 [Vulnerable:`Уязвимость`] и 1 [BurstVulnerable:`Уязвимость к Разрыву`]\n",
       "panicDescription": "Получает 2 [AttackDmgUp:`Повышения урона`], 2 [Vulnerable:`Уязвимости`] и 2 [BurstVulnerable:`Уязвимости к Разрыву`]"
     },
     {
       "id": 1044,
       "panicName": "Сердце зла",
-      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 2 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]",
+      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 2 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]\n",
       "panicDescription": "- Сила в столкновении +3 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 3 [AttackDmgUp:`Повышения урона`] и 2 [Vulnerable:`Уязвимости`]"
     },
     {
       "id": 1045,
       "panicName": "Сердце гнетущего зла",
-      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 3 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]",
+      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 3 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]\n",
       "panicDescription": "- Сила в столкновении +3 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 4 [AttackDmgUp:`Повышения урона`] и 2 [Vulnerable:`Уязвимости`]"
     },
     {
       "id": 1047,
       "panicName": "Цзя Цю",
-      "lowMoraleDescription": "Наносит на 10% больше урона всем кроме Хон Лу",
+      "lowMoraleDescription": "Наносит на 10% больше урона всем кроме Хон Лу\n",
       "panicDescription": "Наносит на 20% больше урона всем кроме Хон Лу"
     },
     {
       "id": 1042,
       "panicName": "Схема встречной подзарядки",
-      "lowMoraleDescription": "Повышает счётчик своего [Charge:`Заряда`] на 3 и получает 1 [Vulnerable:`Уязвимость`], когда сталкивается с противниками, имеющими [Burst:`Разрыв`] (До 2 раз за ход)",
+      "lowMoraleDescription": "Повышает счётчик своего [Charge:`Заряда`] на 3 и получает 1 [Vulnerable:`Уязвимость`], когда сталкивается с противниками, имеющими [Burst:`Разрыв`] (До 2 раз за ход)\n",
       "panicDescription": "Повышает счётчик своего [Charge:`Заряда`] на 5 и получает 2 [Vulnerable:`Уязвимости`] с 1 [AttackDmgUp:`Повышением урона`], когда сталкивается с противниками, имеющими [Burst:`Разрыв`] (До 2 раз за ход)"
     },
     {
       "id": 9995,
       "panicName": "Перехватывающее дыхание",
-      "lowMoraleDescription": "Теряет 2 [Breath:`Дыхания`] в начале хода и получает 2 [DefenseDown:`Понижения уровня защиты`]",
+      "lowMoraleDescription": "Теряет 2 [Breath:`Дыхания`] в начале хода и получает 2 [DefenseDown:`Понижения уровня защиты`]\n",
       "panicDescription": "Теряет 5 [Breath:`Дыхания`] в начале хода и получает 5 [DefenseDown:`Понижений уровня защиты`]"
     },
     {
       "id": 1055,
       "panicName": "Обоюдоострое перо",
-      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`] и 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] в начале хода\n- Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе",
-      "panicDescription": "- Получает 2 [Vulnerable:`Уязвимости`] и 2 [TakeHpHealIncrease:`Повышения восстановления <color=#00ff9c>ОЗ</color>`] в начале хода\n- Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе"
+      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`] и 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] в начале хода\n- Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе\n",
+      "panicDescription": "- Получает 2 [Vulnerable:`Уязвимости`] и 2 [TakeHpHealIncrease:`Повышения восстановления ОЗ`] в начале хода\n- Наносит 1 [Burst:`Разрыв`] и 1 [Laceration:`Кровотечение`] при ударе"
     },
     {
       "id": 1056,
       "panicName": "Страх",
-      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 2 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]",
+      "lowMoraleDescription": "- Сила в столкновении +2 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 2 [AttackDmgUp:`Повышения урона`] и 1 [Vulnerable:`Уязвимость`]\n",
       "panicDescription": "- Сила в столкновении +3 против целей с [OminousTalisman:`Предзнаменующими талисманами`]\n- Получает 3 [AttackDmgUp:`Повышения урона`] и 2 [Vulnerable:`Уязвимости`]"
     },
     {
       "id": 1058,
       "panicName": "Таратор приказами",
-      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`]\n= Даёт всем союзникам 1 [AttackDmgUp:`Повышение урона`]",
+      "lowMoraleDescription": "- Получает 1 [Vulnerable:`Уязвимость`]\n= Даёт всем союзникам 1 [AttackDmgUp:`Повышение урона`]\n",
       "panicDescription": "- Получает 2 [Vulnerable:`Уязвимости`]\n- Даёт всем союзникам 2 [AttackDmgUp:`Повышения урона`]"
     }
   ]

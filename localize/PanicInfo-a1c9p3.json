@@ -3,73 +3,73 @@
     {
       "id": 1071,
       "panicName": "Деградированная коррозия",
-      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] в начале хода",
+      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] в начале хода\n",
       "panicDescription": "Получает 1 [Vulnerable:`Уязвимость`] и 5 [Combustion:`Огня`] в начале хода"
     },
     {
       "id": 1073,
       "panicName": "Волна сонливости",
-      "lowMoraleDescription": "Получает на 1 [LanternHohenheimBigBird:`Лампу`] меньше от своих навыков",
+      "lowMoraleDescription": "Получает на 1 [LanternHohenheimBigBird:`Лампу`] меньше от своих навыков\n",
       "panicDescription": "Не действует в течение хода"
     },
     {
       "id": 1078,
       "panicName": "Позор семьи",
-      "lowMoraleDescription": "- Получает 1 [SlashDamageUp:`Повышение Рубящего урона`], 1 [ParryingResultUp:`Повышение силы в столкновении`] и 1 [Vulnerable:`Уязвимость`]\n- Не может создавать Ман (望) своими навыками",
+      "lowMoraleDescription": "- Получает 1 [SlashDamageUp:`Повышение Рубящего урона`], 1 [ParryingResultUp:`Повышение силы в столкновении`] и 1 [Vulnerable:`Уязвимость`]\n- Не может создавать Ман (望) своими навыками\n",
       "panicDescription": "- Получает 2 [SlashDamageUp:`Повышения Рубящего урона`], 2 [ParryingResultUp:`Повышения силы в столкновении`] и 2 [Vulnerable:`Уязвимости`]\n- Не может создавать Ман (望) своими навыками"
     },
     {
       "id": 1079,
       "panicName": "«У-убейте... убейте меня...»",
-      "lowMoraleDescription": "Получает 5 [ResultReduction:`Понижений силы`] и 8 [ParryingResultDown:`Понижений силы в столкновении`]",
+      "lowMoraleDescription": "Получает 5 [ResultReduction:`Понижений силы`] и 8 [ParryingResultDown:`Понижений силы в столкновении`]\n",
       "panicDescription": "Получает 5 [ResultReduction:`Понижений силы`] и 10 [ParryingResultDown:`Понижений силы в столкновении`]"
     },
     {
       "id": 1077,
       "panicName": "Старомодное искусство",
-      "lowMoraleDescription": "Получает 1 [AttackUp:`Повышение уровня атаки`]",
+      "lowMoraleDescription": "Получает 1 [AttackUp:`Повышение уровня атаки`]\n",
       "panicDescription": "Получает 2 [AttackUp:`Повышения уровня атаки`]"
     },
     {
       "id": 1075,
       "panicName": "Безумное буйство",
-      "lowMoraleDescription": "- Получает 2 [Enhancement:`Повышения силы атаки`] и 4 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)",
+      "lowMoraleDescription": "- Получает 2 [Enhancement:`Повышения силы атаки`] и 4 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)\n",
       "panicDescription": "- Получает 3 [Enhancement:`Повышения силы атаки`] и 5 [DefenseDown:`Понижений уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)"
     },
     {
       "id": 1076,
       "panicName": "Рвение",
-      "lowMoraleDescription": "- Получает 2 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)",
+      "lowMoraleDescription": "- Получает 2 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 30 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)\n",
       "panicDescription": "- Получает 1 [Enhancement:`Повышение силы атаки`] 3 [DefenseDown:`Понижения уровня защиты`]\n- Получает по 1 [AttackDmgUp:`Повышению урона`] за каждые 25 потерянных <color=#00ff9c>ОЗ</color> в прошлом ходе (До 5)"
     },
     {
       "id": 1081,
       "panicName": "Тело, сломанное безвозвратно",
-      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и даёт 2 [Endurance:`Повышения силы защиты`] Эзре и Веспе",
+      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и даёт 2 [Endurance:`Повышения силы защиты`] Эзре и Веспе\n",
       "panicDescription": "Получает 1 [Vulnerable:`Уязвимость`] и использует свой альтернативный первый навык <color=#1cc7f1>「Успокоить дыхание」</color>"
     },
     {
       "id": 1082,
       "panicName": "Неуверенность: Маска",
-      "lowMoraleDescription": "Получает 1 [Reduction:`Понижение силы атаки`] и 2 [DefenseUp:`Повышения уровня защиты`]",
+      "lowMoraleDescription": "Получает 1 [Reduction:`Понижение силы атаки`] и 2 [DefenseUp:`Повышения уровня защиты`]\n",
       "panicDescription": "Получает 1 [Reduction:`Понижение силы атаки`] и 3 [DefenseUp:`Повышения уровня защиты`]"
     },
     {
       "id": 1083,
       "panicName": "Алайя",
-      "lowMoraleDescription": "...",
+      "lowMoraleDescription": "...\n",
       "panicDescription": "..."
     },
     {
       "id": 1080,
       "panicName": "Со времён Второй Дымовой Войны",
-      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления <color=#80c9ff>СД</color>`]",
+      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и +2 к [MentalSystemResultIncrease_Typo:`Эффективности восстановления СД`]\n",
       "panicDescription": "Получает 2 [Vulnerable:`Уязвимости`] и 2 [ParryingResultUp:`Повышения силы в столкновении`]"
     },
     {
       "id": 1084,
       "panicName": "Имитация отца",
-      "lowMoraleDescription": "- Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`]\n- Получает на 10% больше урона от Грешницы Рёшу",
+      "lowMoraleDescription": "- Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`]\n- Получает на 10% больше урона от Грешницы Рёшу\n",
       "panicDescription": "- Начало хода: получает 5 [Combustion:`Огня`] и 5 [Laceration:`Кровотечения`], а их счётчик повышается на 3\n- Получает на 20% больше урона от Грешницы Рёшу"
     }
   ]

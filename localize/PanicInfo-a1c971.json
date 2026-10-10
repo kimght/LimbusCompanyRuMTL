@@ -3,8 +3,8 @@
     {
       "id": 1036,
       "panicName": "Страдание",
-      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и 2 [MentalIncreaseDown:`Понижения восстановления <color=#80c9ff>СД</color>`]",
-      "panicDescription": "Получает 2 [Vulnerable:`Уязвимости`] и 3 [MentalIncreaseDown:`Понижения восстановления <color=#80c9ff>СД</color>`]"
+      "lowMoraleDescription": "Получает 1 [Vulnerable:`Уязвимость`] и 2 [MentalIncreaseDown:`Понижения восстановления СД`]\n",
+      "panicDescription": "Получает 2 [Vulnerable:`Уязвимости`] и 3 [MentalIncreaseDown:`Понижения восстановления СД`]"
     }
   ]
 }

@@ -526,7 +526,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Sinking:`Утопания`] и повышает его счётчик на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Получает -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери <color=#80c9ff>СД</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttackHead] Получает -2 к [MentalSystemResultDecrease_Typo:`Эффективности потери СД`] на следующий ход"
                 }
               ]
             },
@@ -1670,7 +1670,7 @@
         {
           "level": 1,
           "name": "Бессмертная душа",
-          "desc": "[OnDefeatEvade] Заново использует навык уворота в этом ходе (До 2 раз)\n[OnDefeatEvade] Теряет 2 [AaCePcBo:`Эго Пипа`](#d1dbdc)",
+          "desc": "[OnDefeatEvade] Заново использует навык Уворота в этом ходе (До 2 раз)\n[OnDefeatEvade] Теряет 2 [AaCePcBo:`Эго Пипа`](#d1dbdc)",
           "coinlist": [
             {}
           ]
@@ -1921,7 +1921,7 @@
         {
           "level": 1,
           "name": "Коварное обледнение",
-          "desc": "[StartBattle] Получает щит, равный 10% от максимальных <color=#00ff9c>ОЗ</color>; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.5% от максимальных <color=#00ff9c>ОЗ</color> в виде щита\nАтакующий теряет 5 <color=#80c9ff>СД</color> при попадании по щиту\nИспользует контратаку ещё один раз в этом ходе за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
+          "desc": "[StartBattle] Получает щит, равный 10% от максимальных <color=#00ff9c>ОЗ</color>; за каждое [AaCePcBq:`Эго Квикег`](#d9d1e0) получает ещё 0.5% от максимальных <color=#00ff9c>ОЗ</color> в виде щита\nАтакующий теряет 5 <color=#80c9ff>СД</color> при попадании по щиту\nИспользует Контратаку ещё один раз в этом ходе за каждые 10 [AaCePcBq:`Эго Квикег`](#d9d1e0)",
           "coinlist": [
             {
               "coindescs": [

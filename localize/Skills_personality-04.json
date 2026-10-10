@@ -87,7 +87,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, наносит ей на 15% больше урона этой монетой"
+                  "desc": "На 15% больше урона, если <color=#00ff9c>ОЗ</color> цели ниже 30%,"
                 }
               ]
             }
@@ -96,7 +96,7 @@
         {
           "level": 2,
           "name": "Скачок",
-          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 6</style>\n<style=\"highlight\">Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 6</style>\n<style=\"highlight\">[WhenUse] Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, наносит ей на <style=\"highlight\">20%</style> больше урона этой монетой"
+                  "desc": "На <style=\"highlight\">20%</style> больше урона, если <color=#00ff9c>ОЗ</color> цели ниже 30%,"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] Получает 1 [Agility:`Спешку`] на следующий ход</style>"
@@ -121,7 +121,7 @@
         {
           "level": 4,
           "name": "Скачок",
-          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 7</style>\nСила монет повышается на 1, если счётчик своего [Charge:`Заряда`] равен 10 и более\n<style=\"highlight\">Сила монет повышается ещё на 1, если счётчик своего [Charge:`Заряда`] равен 15 и более</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 7</style>\n[WhenUse] Сила монет повышается на 1, если счётчик своего [Charge:`Заряда`] равен 10 и более\n<style=\"highlight\">[WhenUse] Сила монет повышается ещё на 1, если счётчик своего [Charge:`Заряда`] равен 15 и более</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если <color=#00ff9c>ОЗ</color> цели ниже 30%, наносит ей на <style=\"highlight\">30%</style> больше урона этой монетой"
+                  "desc": "На <style=\"highlight\">30%</style> больше урона, если <color=#00ff9c>ОЗ</color> цели ниже 30%,"
                 },
                 {
                   "desc": "[EnemyKill] Получает <style=\"highlight\">3</style> [Agility:`Спешки`] на следующий ход"
@@ -151,7 +151,7 @@
         {
           "level": 3,
           "name": "ПРПОД",
-          "desc": "[WhenUse] Если счётчик своего [Charge:`Заряда`] равен 7~14: тратит весь счётчик своего [Charge:`Заряда`] и (3 × (15 - потраченный счётчик [Charge:`Заряда`]))% от максимальных <color=#00ff9c>ОЗ</color>, чтобы получить +3 к Силе монет\n[WhenUse] Тратит 15 единиц счётчика своего [Charge:`Заряда`], чтобы получить +3 к Силе монет",
+          "desc": "[WhenUse] Если счётчик своего [Charge:`Заряда`] равен 7~14: тратит весь счётчик своего [Charge:`Заряда`] и (3 × (15 - потраченный счётчик [Charge:`Заряда`]))% <color=#00ff9c>ОЗ</color>, чтобы получить +3 к Силе монет\n[WhenUse] Тратит 15 единиц счётчика своего [Charge:`Заряда`], чтобы получить +3 к Силе монет",
           "coinlist": [
             {
               "coindescs": [
@@ -177,7 +177,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Если навык потратил 15 единиц счётчика [Charge:`Заряда`] при использовании, даёт себе и другому случайному союзнику 5 [ChargeForceField:`Зарядных барьеров`]"
+                  "desc": "[EnemyKill] Если навык потратил 15 единиц счётчика [Charge:`Заряда`] при использовании, даёт себе и другой случайной Идентичности 5 [ChargeForceField:`Зарядных барьеров`]"
                 }
               ]
             }
@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Если навык потратил 15 единиц счётчика [Charge:`Заряда`] при использовании, даёт себе и другому случайному союзнику <style=\"highlight\">7</style> [ChargeForceField:`Зарядных барьеров`]"
+                  "desc": "[EnemyKill] Если навык потратил 15 единиц счётчика [Charge:`Заряда`] при использовании, даёт себе и другой случайной Идентичности <style=\"highlight\">7</style> [ChargeForceField:`Зарядных барьеров`]"
                 }
               ]
             }
@@ -275,7 +275,7 @@
         {
           "level": 4,
           "name": "Толчок",
-          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n<style=\"highlight\">Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n<style=\"highlight\">[WhenUse] Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
         {
           "level": 4,
           "name": "ОЦ",
-          "desc": "<style=\"highlight\">Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -380,7 +380,7 @@
         {
           "level": 3,
           "name": "РГ",
-          "desc": "[WhenUse] Получает 4 [Breath:`Дыхания`]\nСила монет +1 при 10 и более [Breath:`Дыхания`]",
+          "desc": "[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Сила монет +1 при 10 и более [Breath:`Дыхания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -402,7 +402,7 @@
                   "desc": "Тратит 1 [Bullet:`Патрон`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Удваивает наносимые силу и счётчик [Vibration:`Тремора`] c [Burst:`Разрывом`]"
+                  "desc": "[CriticalOnSucceedAttack] Удваивает наносимые этой монетой силу и счётчик [Vibration:`Тремора`] c [Burst:`Разрывом`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`] и повышает его счётчик на 1"
@@ -420,7 +420,7 @@
         {
           "level": 4,
           "name": "РГ",
-          "desc": "[WhenUse] Получает 4 [Breath:`Дыхания`]\nСила монет +1 <style=\"highlight\">за каждые 7 [Breath:`Дыхания`] (До 2)</style>",
+          "desc": "[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 7 [Breath:`Дыхания`] (До 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -442,7 +442,7 @@
                   "desc": "Тратит 1 [Bullet:`Патрон`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Удваивает наносимые силу и счётчик [Vibration:`Тремора`] c [Burst:`Разрывом`]"
+                  "desc": "[CriticalOnSucceedAttack] Удваивает наносимые этой монетой силу и счётчик [Vibration:`Тремора`] c [Burst:`Разрывом`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">4</style> [Vibration:`Тремора`] и повышает его счётчик <style=\"highlight\">на 2</style>"
@@ -507,7 +507,7 @@
         {
           "level": 2,
           "name": "Тотальная война",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 против целей с 6 и более [Combustion:`Огня`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 6 и более [Combustion:`Огня`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -528,7 +528,7 @@
         {
           "level": 4,
           "name": "Тотальная война",
-          "desc": "Сила в столкновении +1 против целей с 6 и более [Combustion:`Огня`]\n<style=\"highlight\">Сила монет +1 против целей с 10 и более [Combustion:`Огня`]</style>",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей с 6 и более [Combustion:`Огня`]\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 10 и более [Combustion:`Огня`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -540,10 +540,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]</style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`] "
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Наносит ещё 1 [Combustion:`Огонь`]</style>"
                 }
               ]
             }
@@ -569,7 +569,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] На 20% больше урона целям с 6 и более [Combustion:`Огня`]"
+                  "desc": "На 20% больше урона целям с 6 и более [Combustion:`Огня`]"
                 }
               ]
             }
@@ -590,7 +590,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] На <style=\"highlight\">30%</style> больше урона целям с 6 и более [Combustion:`Огня`]"
+                  "desc": "На <style=\"highlight\">30%</style> больше урона целям с 6 и более [Combustion:`Огня`]"
                 }
               ]
             }
@@ -611,7 +611,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] На <style=\"highlight\">50%</style> больше урона целям с 6 и более [Combustion:`Огня`]"
+                  "desc": "На <style=\"highlight\">50%</style> больше урона целям с 6 и более [Combustion:`Огня`]"
                 }
               ]
             }
@@ -651,7 +651,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] На 20% больше урона целям с 10 и более [Combustion:`Огня`]"
+                  "desc": "На 20% больше урона целям с 10 и более [Combustion:`Огня`]"
                 }
               ]
             }
@@ -686,7 +686,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] На <style=\"highlight\">40%</style> больше урона целям с 10 и более [Combustion:`Огня`]"
+                  "desc": "На <style=\"highlight\">40%</style> больше урона целям с 10 и более [Combustion:`Огня`]"
                 }
               ]
             }
@@ -775,7 +775,7 @@
         {
           "level": 4,
           "name": "Этика приёма гостей, 1-ая церемония: Охота",
-          "desc": "<style=\"highlight\">Если быстрее цели</style>, +1 к Силе в столкновении <style=\"highlight\">за каждые 2 единицы разницы в Скорости (До 3)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "desc": "<style=\"highlight\">Если быстрее цели</style>, Сила в столкновении +1 <style=\"highlight\">за каждые 2 единицы разницы в Скорости (До 3)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -843,7 +843,7 @@
         {
           "level": 4,
           "name": "Этика приёма гостей, 7-ая церемония: Захват",
-          "desc": "<style=\"highlight\">Если быстрее главной цели, +1 к Силе в столкновении за каждые 2 единицы разницы в Скорости (До 3)</style>\n[StartBattle] Тратит 6 единиц счётчика своего [Breath:`Дыхания`], чтобы повысить Количество целей навыка на 2",
+          "desc": "<style=\"highlight\">Если быстрее главной цели, Сила в столкновении +1 за каждые 2 единицы разницы в Скорости (До 3)</style>\n[StartBattle] Тратит 6 единиц счётчика своего [Breath:`Дыхания`], чтобы повысить Количество целей навыка на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -883,14 +883,14 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 20% от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 20% от итогового урона этой монеты"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если цель Оглушена, на 20% больше урона при критическом попадании"
+                  "desc": "На 20% больше урона при критическом попадании, если цель Оглушена"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [MarkOfButler:`МС`]"
@@ -902,7 +902,7 @@
         {
           "level": 4,
           "name": "Этика приёма гостей, 2-ая церемония: СШ",
-          "desc": "Сила в столкновении +1 против целей с [MarkOfButler:`МС`]\n<style=\"highlight\">Если быстрее цели, +1 к Силе монет за каждые 2 единицы разницы в Скорости (До 2)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 7",
+          "desc": "Сила в столкновении +1 против целей с [MarkOfButler:`МС`]\n<style=\"highlight\">Если быстрее цели, Сила монет +1 за каждые 2 единицы разницы в Скорости (До 2)</style>\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 7",
           "coinlist": [
             {
               "coindescs": [
@@ -913,7 +913,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Binding:`Связывание`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на <style=\"highlight\">30%</style> от нанесённого урона"
+                  "desc": "[OnSucceedAttack] Поднимает Границу Выносливости цели на 30% от итогового урона этой монеты"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Наносит 1 [MarkOfButler:`МС`]</style>"
@@ -923,13 +923,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если цель Оглушена, на <style=\"highlight\">40%</style> больше урона при критическом попадании"
+                  "desc": "На <style=\"highlight\">40%</style> больше урона при критическом попадании, если цель Оглушена"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 2 [MarkOfButler:`МС`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[EnemyKill] Заново использует навык на одном из противников, на котором есть [MarkOfButler:`МС`] (Единожды)</style>"
+                  "desc": "<style=\"highlight\">[TargetKill] Заново использует навык на одном из противников, который имеет [MarkOfButler:`МС`] (Единожды)</style>"
                 }
               ]
             }
@@ -943,12 +943,12 @@
         {
           "level": 1,
           "name": "Столь жалки",
-          "desc": "[OnSucceedEvade] Восстанавливает 3 <color=#80c9ff>СД</color> (До 3 раз за ход)",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": ""
+                  "desc": "[OnSucceedEvade] Восстанавливает себе 3 <color=#80c9ff>СД</color> (До 3 раз за ход)"
                 }
               ]
             }
@@ -957,12 +957,12 @@
         {
           "level": 4,
           "name": "Столь жалки",
-          "desc": "[OnSucceedEvade] Восстанавливает 3 <color=#80c9ff>СД</color> <style=\"highlight\">и повышает счётчик своего [Breath:`Дыхания`] на 1</style> (До <style=\"highlight\">5</style> раз за ход)",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": ""
+                  "desc": "[OnSucceedEvade] Восстанавливает себе 3 <color=#80c9ff>СД</color> <style=\"highlight\">и повышает счётчик своего [Breath:`Дыхания`] на 1</style> (До <style=\"highlight\">5</style> раз за ход)"
                 }
               ]
             }
@@ -1066,7 +1066,7 @@
         {
           "level": 2,
           "name": "Сжатие заводным ключом",
-          "desc": "[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] на 2\n<style=\"highlight\">Сила в монет +1, если счётчик своего [Vibration:`Тремора`] равен 5 и более</style>",
+          "desc": "<style=\"highlight\">Сила в монет +1, если счётчик своего [Vibration:`Тремора`] равен 5 и более</style>\n[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] на 2",
           "coinlist": [
             {},
             {
@@ -1088,7 +1088,7 @@
         {
           "level": 4,
           "name": "Сжатие заводным ключом",
-          "desc": "[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если счётчик своего [Vibration:`Тремора`] равен 4 и более</style>\nСила в монет +1, если счётчик своего [Vibration:`Тремора`] равен <style=\"highlight\">4</style> и более",
+          "desc": "Сила в монет +1, если счётчик своего [Vibration:`Тремора`] равен <style=\"highlight\">4</style> и более\n[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] на 2\n<style=\"highlight\">[WhenUse] Сила в столкновении +1, если счётчик своего [Vibration:`Тремора`] равен 4 и более</style>",
           "coinlist": [
             {},
             {
@@ -1366,7 +1366,7 @@
         {
           "level": 3,
           "name": "Череполом",
-          "desc": "[BeforeUse] При 15 и более [RedEyeFirst:`Красных глаз`] и [PenanceFirst:`Раскаяния`] использует <color=#fe6f01>「Серьёзный череполом」</color> вместо этого\nЕсли своя Скорость выше Скорости цели на 3 и более, Сила монет +1\n[WhenUse] Сила монет +1 при максимальной <color=#80c9ff>СД</color>\n[EndSkill] Если Сила монет была повышена за счёт максимальной <color=#80c9ff>СД</color>, теряет 15 <color=#80c9ff>СД</color>",
+          "desc": "Если своя Скорость выше Скорости цели на 3 и более, Сила монет +1\n[BeforeUse] При 15 и более [RedEyeFirst:`Красных глаз`] и [PenanceFirst:`Раскаяния`] использует <color=#fe6f01>「Серьёзный череполом」</color> вместо этого\n[WhenUse] Сила монет +1 при максимальной <color=#80c9ff>СД</color>\n[EndSkill] Если Сила монет была повышена за счёт максимальной <color=#80c9ff>СД</color>, теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1397,7 +1397,7 @@
         {
           "level": 4,
           "name": "Череполом",
-          "desc": "[BeforeUse] При 15 и более [RedEyeFirst:`Красных глаз`] и [PenanceFirst:`Раскаяния`] использует <color=#fe6f01>「Серьёзный череполом」</color> вместо этого\nСила монет +1 <style=\"highlight\">против более медленных целей</style>\n[WhenUse] Сила монет +1 <style=\"highlight\">и Сила в столкновении +2</style> при максимальной <color=#80c9ff>СД</color>\n[EndSkill] Если Сила монет была повышена за счёт максимальной <color=#80c9ff>СД</color>, теряет 15 <color=#80c9ff>СД</color>",
+          "desc": "Сила монет +1 <style=\"highlight\">против более медленных целей</style>\n[BeforeUse] При 15 и более [RedEyeFirst:`Красных глаз`] и [PenanceFirst:`Раскаяния`] использует <color=#fe6f01>「Серьёзный череполом」</color> вместо этого\n[WhenUse] Сила монет +1 <style=\"highlight\">и Сила в столкновении +2</style> при максимальной <color=#80c9ff>СД</color>\n[EndSkill] Если Сила монет была повышена за счёт максимальной <color=#80c9ff>СД</color>, теряет 15 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1741,7 +1741,7 @@
         {
           "level": 4,
           "name": "Я перережу тебе глотку клинком с проклятием, выгравированным на нём",
-          "desc": "Если быстрее цели, наносит на (Разница в Скорости × сила [Burst:`Разрыва`] на цели)% больше урона (До 50%)\n<style=\"highlight\">Если быстрее цели</style>, +1 к Силе монет <style=\"highlight\">за каждые 2 единицы разницы в Скорости (До 2)\n[WhenUse] Сила монет +1 против целей с 15 более [Burst:`Разрыва`]</style>\n[WhenUse] Получает 3 [LegStrength:`Стремительности`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 2",
+          "desc": "Если быстрее цели, наносит на (Разница в Скорости × сила [Burst:`Разрыва`] на цели)% больше урона (До 50%)\n<style=\"highlight\">Если быстрее цели</style>, Сила монет +1 <style=\"highlight\">за каждые 2 единицы разницы в Скорости (До 2)\n[WhenUse] Сила монет +1 против целей с 15 более [Burst:`Разрыва`]</style>\n[WhenUse] Получает 3 [LegStrength:`Стремительности`]\n[WinDuel] Повышает счётчик [Burst:`Разрыва`] цели на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1800,7 +1800,7 @@
         {
           "level": 4,
           "name": "Стремительность. Высвобождена. Хех",
-          "desc": "[DuelCounter]\n[WhenUse] Получает 3 [LegStrength:`Стремительности`]\n<style=\"highlight\">[WhenUse] Если быстрее цели, +1 к Базовой силе за каждые 2 единицы разницы в Скорости (До 2)</style>",
+          "desc": "[DuelCounter]\n[WhenUse] Получает 3 [LegStrength:`Стремительности`]\n<style=\"highlight\">[WhenUse] Если быстрее цели, Базовая сила +1 за каждые 2 единицы разницы в Скорости (До 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3671,7 +3671,7 @@
         {
           "level": 3,
           "name": "Тц. Тупоголовый покупатель. Ты мнёшь товар!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n<style=\"highlight\">[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n<style=\"highlight\">[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве Контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
           "coinlist": [
             {},
             {
@@ -3689,7 +3689,7 @@
         {
           "level": 4,
           "name": "Тц. Тупоголовый покупатель. Ты мнёшь товар!",
-          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1/+2 при 3+/5+ силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) соответственно</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
+          "desc": "[DuelCounter]\n[StartBattle]\n- При более чем 60 [NoirSuitAlly:`Габардинового пальто Ле Нуар`](;NoirSuit) превращает этот эффект в [RealisationAlly:`Бодрствующий доспех`](;Realisation) в следующем ходе\n- При менее чем 60 [RealisationAlly:`Бодрствующего доспеха`](;Realisation) превращает его в [NoirSuitAlly:`Габардиновое пальто Ле Нуар`](;NoirSuit) в следующем ходе\n[BeforeUse] При 60 и более [RealisationAlly:`Бодрствующего доспеха`](;Realisation): активирует свой альтернативный третий навык <color=#fed133>「Одиночный удар - Множественный шов」</color> в качестве Контратаки и полностью тратит [RealisationAlly:`Бодрствующий доспех`](;Realisation) в его конце (Единожды за ход)\n<style=\"highlight\">[WhenUse] Сила монет +1/+2 при 3+/5+ силы [ChargeNoirAlly:`Презервации`](;ChargeNoir) соответственно</style>\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2 (До 2 раз за ход)",
           "coinlist": [
             {},
             {

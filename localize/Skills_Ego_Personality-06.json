@@ -473,7 +473,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 2 [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Burst:`Разрыва`] на 1 за каждые 2 греха в резонансе <color=#a5fe06>Чревоугодия</color> (До 3)"
@@ -583,7 +583,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 [TakeHpHealReduce:`Понижения восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 3 [TakeHpHealReduce:`Понижения восстановления ОЗ`] на следующий ход</style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] <nobr>на 2</nobr>"

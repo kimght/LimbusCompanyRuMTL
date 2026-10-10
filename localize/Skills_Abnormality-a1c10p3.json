@@ -1050,14 +1050,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 [JeannePathos:`Пафос - Дéзир д’этр`]"
+                  "desc": "[OnSucceedAttack] Получает 3 [JeannePathos:`Пафос - Стремления к бытию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Получает 3 [JeannePathos:`Пафос - Дéзир д’этр`]"
+                  "desc": "[OnSucceedAttack] Получает 3 [JeannePathos:`Пафос - Стремления к бытию`]"
                 }
               ]
             }
@@ -1071,7 +1071,7 @@
         {
           "level": 1,
           "name": "В те времена мы часто болтали в кафе",
-          "desc": "Не вызывает активацию Защитных навыков и не наносит урон\n\n[CantDuel]\n[WhenUse] Жанна и Мерсо получают 5 [JeannePathos:`Пафос - Дéзир д’этр`] и 5 [JeanneLogos:`Логос - Манк д’этр`] соответственно",
+          "desc": "Не вызывает активацию Защитных навыков и не наносит урон\n\n[CantDuel]\n[WhenUse] Жанна и Мерсо получают 5 [JeannePathos:`Пафос - Стремления к бытию`] и 5 [JeanneLogos:`Логос - Нехватки бытия`] соответственно",
           "coinlist": [
             {
               "coindescs": []
@@ -1091,7 +1091,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedEvade] Жанна и Мерсо получают 4 [JeannePathos:`Пафос - Дéзир д’этр`] и 4 [JeanneLogos:`Логос - Манк д’этр`] соответственно"
+                  "desc": "[OnSucceedEvade] Жанна и Мерсо получают 4 [JeannePathos:`Пафос - Стремления к бытию`] и 4 [JeanneLogos:`Логос - Нехватки бытия`] соответственно"
                 }
               ]
             }
@@ -1127,7 +1127,7 @@
         {
           "level": 1,
           "name": "Права: Бан",
-          "desc": "<color=#ff6000><mark color=#ff000040><b><u>[EndSkillAll]</color></mark></b></u> Наносит <color=#ff6000><mark=#ff000040><b><u>1 [JeanneCheat:`Дéзеспуар`]</u></b></mark></color> на следующий ход",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>[EndSkillAll]</color></mark></b></u> Наносит <color=#ff6000><mark=#ff000040><b><u>1 [JeanneCheat:`Отчаяние`]</u></b></mark></color> на следующий ход",
           "flavor": "<b>Мер</b>. Если хочешь, ты больше не обязан сковывать себя этими цепями. Тебе позволено судить самому. Тебе должно быть позволено говорить. Хватит оглядываться на чьи-либо взоры, хватит позволять чужим мыслям тяготить тебя... Просто <b>будь</b> собой.",
           "coinlist": [
             {
@@ -1166,7 +1166,7 @@
         {
           "level": 1,
           "name": "По крайней мере, на этой сцене всё расставлено и зафиксировано.",
-          "desc": "[BeforeUse] Если столкновение произойдёт <color=#ff6000><mark=#ff000040><b><u>не с навыком Мерсо</u></b></mark></color> или этот навык будет использован в качестве Односторонней атаки, <color=#ff6000><mark=#ff000040><b><u>то он заменится на</u></b></mark></color> <color=#fe6f01>「Ты потерял ритм.」</color>\n\n[DefeatDuel]\n- Мерсо получает 10 [JeanneLogos:`Логос - Манк д’этр`]\n- Экипировавший этот навык <b>Чертёж</b> в форме <b>Жанны Сартр, искусной портнихи</b> будет получать 5 [Vulnerable:`Уязвимости`] в каждом ходе начиная со следующего",
+          "desc": "[BeforeUse] Если столкновение произойдёт <color=#ff6000><mark=#ff000040><b><u>не с навыком Мерсо</u></b></mark></color> или этот навык будет использован в качестве Односторонней атаки, <color=#ff6000><mark=#ff000040><b><u>то он заменится на</u></b></mark></color> <color=#fe6f01>「Ты потерял ритм.」</color>\n\n[DefeatDuel]\n- Мерсо получает 10 [JeanneLogos:`Логос - Нехватки бытия`]\n- Экипировавший этот навык <b>Чертёж</b> в форме <b>Жанны Сартр, искусной портнихи</b> будет получать 5 [Vulnerable:`Уязвимости`] в каждом ходе начиная со следующего",
           "coinlist": [
             {
               "coindescs": []
@@ -1226,7 +1226,7 @@
         {
           "level": 1,
           "name": "Права: Взор",
-          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы и счётчика своего [Charge:`Заряда`] (До 3; учитывая <u>Особый Заряд</u>)\n[WhenUse] Наносит на 10% больше урона за каждые 2 типа негативных эффектов на всех целях этого навыка суммарно (До 50%)\n\n<color=#ff6000><mark color=#ff000040><b><u>[WinDuel]</color></mark></b></u> Наносит <color=#ff6000><mark=#ff000040><b><u>1 [JeanneCheat:`Дéзеспуар`]</u></b></mark></color> на следующий ход\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы и счётчика своего [Charge:`Заряда`] (До 3; учитывая <u>Особый Заряд</u>)\n[WhenUse] Наносит на 10% больше урона за каждые 2 типа негативных эффектов на всех целях этого навыка суммарно (До 50%)\n\n<color=#ff6000><mark color=#ff000040><b><u>[WinDuel]</color></mark></b></u> Наносит <color=#ff6000><mark=#ff000040><b><u>1 [JeanneCheat:`Отчаяние`]</u></b></mark></color> на следующий ход\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "flavor": "Должно быть, ты лучше кого бы то ни было понимал тревогу, терзавшую твою мать. Но, <b>Мер</b>... просто делить с кем-то одно пространство уже значит ощущать на себе его взор. Пока вы были там вместе, тебе приходилось сносить взор своей матери. И ты едва ли мог не смотреть на неё в ответ.\n\nПоэтому ты чувствуешь себя виноватым?\nМне кажется, ты всё ещё пытаешься сделать случившееся с твоей матерью своей собственной виной.",
           "coinlist": [
             {
@@ -1452,7 +1452,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Жё м’экспюльс",
+          "name": "Исторгаю себя【Je m'expulse】",
           "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если главная цель не имеет [Laceration:`Кровотечения`], то</u></b></mark></color> все монеты этого навыка становятся [SuperCoin:`Вечными`]\n\n[WhenUse] Если главная цель имеет 6 и более [Laceration:`Кровотечения`], Сила монет +1\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей",
           "flavor": "Исторгни.",
           "coinlist": [
@@ -1466,7 +1466,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             }
@@ -1479,8 +1479,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Жё мё краш",
-          "desc": "[WhenUse] Если главная цель имеет 6 и более [Laceration:`Кровотечения`], Базовая сила +2\n[WhenUse] Количество целей +1 за каждые 2 единицы силы своей [ChargeRouge:`Пульсации`] (До 2)",
+          "name": "Изрыгаю себя【Je me crache】",
+          "desc": "[WhenUse] Если главная цель имеет 6 и более [Laceration:`Кровотечения`], Базовая сила +2\n[WhenUse] Количество целей +1 <color=#ff6000><mark=#ff000040><b><u>за каждые 2</u></b></mark></color> единицы силы своей [ChargeRouge:`Пульсации`] (До 2)",
           "flavor": "Изрыгни.",
           "coinlist": [
             {
@@ -1489,7 +1489,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [BoneNail:`Л'Абжекта`]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [BoneNail:`Отвращённого`]"
                 }
               ]
             }
@@ -1502,8 +1502,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Жё м’абжект",
-          "desc": "[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[WhenUse] Количество целей +1 за каждые 2 единицы силы своей [ChargeRouge:`Пульсации`] (До 2)",
+          "name": "Извергаю себя【Je m'abjecte】",
+          "desc": "[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[WhenUse] Количество целей +1 <color=#ff6000><mark=#ff000040><b><u>за каждые 2</u></b></mark></color> единицы силы своей [ChargeRouge:`Пульсации`] (До 2)",
           "flavor": "И выбрось это в мир.",
           "coinlist": [
             {
@@ -1512,7 +1512,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [BoneNail:`Л'Абжекта`]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [BoneNail:`Отвращённого`]"
                 }
               ]
             },
@@ -1522,7 +1522,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если цель имеет 3 и более [BoneNail:`Л'Абжекта`], наносит ей 2 [Vulnerable:`Уязвимости`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если цель имеет 3 и более [BoneNail:`Отвращённого`], наносит ей 2 [Vulnerable:`Уязвимости`] на следующий ход"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Пюльсьон",
+          "name": "Импульс【La Pulsion】",
           "desc": "<b>[SupportEnemy:`Двойственный`](;SupportAlly) навык</b>\n- Нацеливается на <b>Старших сотрудников «Ле Руж»</b>\n- Используется в начале боевой фазы\n\n[CantDuel]\n[CantChangeTarget]\n\n[WhenUse] Если счётчик своей [ChargeRouge:`Пульсации`] равен 10 и более, то тратит 10 его единиц, чтобы увеличить Количество целей на 2",
           "coinlist": [
             {
@@ -1547,7 +1547,7 @@
                   "desc": "[EndCoin] Повышает счётчик [ChargeRouge:`Пульсации`] цели на 10"
                 },
                 {
-                  "desc": "[EndCoin] Даёт 3 [BuffetRouge:`Неудержимого неистовства 【Ле Дезѝр】`]"
+                  "desc": "[EndCoin] Даёт 3 [BuffetRouge:`Неудержимого неистовства - Желание`]"
                 }
               ]
             }
@@ -1560,13 +1560,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ле манк-а-этр",
+          "name": "Недостающее до бытия【Le Manque-à-être】",
           "desc": "<b>[SupportEnemy:`Двойственный`](;SupportAlly) навык</b>\n- Используется во время хода на <b>Старшем сотруднике «Ле Руж»</b>, когда его Оглушают (Единожды за ход)\n- Восстановленный от Оглушения <b>Старший сотрудник «Ле Руж»</b> <color=#ff6000><mark=#ff000040><b><u>использует на последнем атаковавшем</u></b></mark></color> свой навык <color=#fe6f01>「Серпами моими я откликаюсь на твой зов!」</color> в качестве Односторонней атаки сразу после этого\n\n[CantDuel]\n[CantChangeTarget]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Восстанавливает цель от Оглушения и даёт 1 [BuffetRouge:`Неудержимое неистовство[TabExplain] 【Ле Дезѝр】`]"
+                  "desc": "[EndCoin] Восстанавливает цель от Оглушения и даёт 1 [BuffetRouge:`Неудержимое неистовство[TabExplain] - Желание`]"
                 },
                 {
                   "desc": "[EndCoin] Восстанавливает цели <color=#00ff9c>ОЗ</color>, равные Итоговой силе этого навыка"
@@ -1585,8 +1585,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Жуисанс",
-          "desc": "Не может быть Оглушён до использования этого навыка\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Восстанавливает 15 <color=#80c9ff>СД</color></u></b></mark></color> и <color=#ff6000><mark=#ff000040><b><u>даёт +2 к Силе в столкновении</u></b></mark></color> всем <b>Старшим сотрудникам «Ле Руж»</b> на поле боя\n[WhenUse] Если на поле боя нет <b>Старших сотрудников «Ле Руж»</b>, Сила в столкновении -3\n\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>\n\n[EndSkill] Главная цель теряет [BuffetScruple:`Пережитое с Буфи`] и получает [BuffetResolve:`Решение`]",
+          "name": "Наслаждение【La Jouissance】",
+          "desc": "[nxCenterLine]\n\nНе может быть Оглушён до использования этого навыка\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Восстанавливает 15 <color=#80c9ff>СД</color></u></b></mark></color> и <color=#ff6000><mark=#ff000040><b><u>даёт +2 к Силе в столкновении</u></b></mark></color> всем <b>Старшим сотрудникам «Ле Руж»</b> на поле боя\n[WhenUse] Если на поле боя нет <b>Старших сотрудников «Ле Руж»</b>, Сила в столкновении -3\n\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>\n\n[EndSkill] [BuffetScruple:`Пережитое с Буфи`] главной цели превращается в [BuffetResolve:`Решение`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1604,7 +1604,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
@@ -1617,7 +1617,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели 3 раза и понижает его счётчик <nobr>на 3</nobr>"
@@ -1633,8 +1633,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Деманд",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Используется на главной цели других своих навыков, если</u></b></mark></color> к концу их атаки она имеет <color=#ff6000><mark=#ff000040><b><u>5 [BoneNail:`Л'Абжектов`]</u></b></mark></color>\n\n[CantDuel]\n[CantChangeTarget]\n\nНе вызывает активацию Защитных навыков целей\n\n[WhenUse] Главная цель теряет все [BoneNail:`Л'Абжекты`]\n[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[EndSkill] Главная цель <color=#ff6000><mark=#ff000040><b><u>теряет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>",
+          "name": "Предложение【La Demande】",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Используется на главной цели других своих навыков, если</u></b></mark></color> к концу их атаки она имеет <color=#ff6000><mark=#ff000040><b><u>5 [BoneNail:`Отвращённого`]</u></b></mark></color>\n\n[CantDuel]\n[CantChangeTarget]\n\nНе вызывает активацию Защитных навыков целей\n\n[WhenUse] Главная цель теряет всё [BoneNail:`Отвращённое`]\n[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[EndSkill] Главная цель <color=#ff6000><mark=#ff000040><b><u>теряет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1666,8 +1666,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ле Ном-дю-Пэр",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>, Количество целей понижается 2\n\n[StartBattle] Если есть [BuffetRouge:`Неудержимое неистовство[TabExplain] 【Ле Дезѝр】`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[EndSkill] Главная цель <color=#ff6000><mark=#ff000040><b><u>теряет [BuffetScruple]</u></b></mark></color>",
+          "name": "Имя отца【Le Nom-du-Père】",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Если главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>, Количество целей понижается 2\n\n[StartBattle] Если есть [BuffetRouge:`Неудержимое неистовство[TabExplain] - Желание`], то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[EndSkill] Главная цель <color=#ff6000><mark=#ff000040><b><u>теряет [BuffetScruple]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1675,10 +1675,10 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [BoneNail:`Л'Абжекта`]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [BoneNail:`Отвращённого`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Л'Абжект`]</nobr>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Отвращённое`]</nobr>"
                 }
               ]
             },
@@ -1688,7 +1688,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Л'Абжект`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Отвращённое`]"
                 }
               ]
             },
@@ -1698,7 +1698,7 @@
                   "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Л'Абжект`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Отвращённое`]"
                 }
               ]
             }
@@ -1711,8 +1711,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Кастрасьон",
-          "desc": "[nxCenterLine]\n\nНе может быть Оглушён до использования этого навыка\n\n<color=#ff6000><mark=#ff000040><b><u>Если главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>, Сила монет -3\n\n[WhenUse] Если количество [BuffetDream:`Воспоминаний Буфи`] ниже 5, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Итоговая сила +2 за каждые 6 [Laceration:`Кровотечения`] на главной цели (До 6)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>",
+          "name": "Кастрация【La Castration】",
+          "desc": "[nxCenterLine]\n\nНе может быть Оглушён до использования этого навыка\n\n<color=#ff6000><mark=#ff000040><b><u>Если главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>, Сила монет -3\n\n[WhenUse] Если количество [BuffetDream:`Воспоминаний Буфи`] ниже 5, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Итоговая сила +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 6)\n[DefeatDuel] Наносит на 95% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1763,8 +1763,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ле Трэ Юнэр",
-          "desc": "[DuelCounter]\n[WhenUse] Сила монет +1 за каждые 4 [Laceration:`Кровотечения`] на главной цели (До 2)\n[WhenUse] Количество целей +1 за каждые 5 <nobr>[BoneNail:`Л'Абжековт`]</nobr> на всех противниках в сумме (До 4 дополнительных целей)",
+          "name": "Унарный признак【Le Trait Unaire】",
+          "desc": "[DuelCounter]\n[WhenUse] Сила монет +1, если на атакующем 6 и более [Laceration:`Кровотечения`]\n[WhenUse] Количество целей +1 <color=#ff6000><mark=#ff000040><b><u>за каждые 5</u></b></mark></color> <nobr>[BoneNail:`Л'Абжековт`]</nobr> на всех противниках в сумме (До 4 дополнительных целей)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей",
           "coinlist": [
             {
               "coindescs": [
@@ -1782,7 +1782,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
@@ -1792,13 +1792,13 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Тратит все [BoneNail:`Л'Абжекты`] с целей</u></b></mark></color>:"
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Тратит всё [BoneNail:`Отвращённое`] с целей</u></b></mark></color>:"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит дополнительный урон <color=#fe6f01>Похотью</color>, равный (Потраченное количество [BoneNail:`Л'Абжектов`] × 10)% от итогового урона этой монеты"
+                  "desc": "[OnSucceedAttack] Наносит дополнительный урон <color=#fe6f01>Похотью</color>, равный (Потраченное количество [BoneNail:`Отвращённого`] × 5)% от итогового урона этой монеты"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] за каждые 4 потраченных [BoneNail:`Л'Абжекта`] (До 5)"
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] за каждые 4 потраченных [BoneNail:`Отвращённого`] (До 3)"
                 }
               ]
             }
@@ -1811,19 +1811,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Дегаже",
+          "name": "Освобождение【Dégagé】",
           "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если главная цель не имеет [Laceration:`Кровотечения`], то</u></b></mark></color> монета этого навыка становится [SuperCoin:`Вечными`]\n[WhenUse] Итоговая сила +1 за каждые 4 [Laceration:`Кровотечения`] на цели (До 2)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Л'Абжект`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Отвращённое`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 1"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 2 <nobr>[BoneNail:`Л'Абжекта`]</nobr>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 2 <nobr>[BoneNail:`Отвращённого`]</nobr>"
                 }
               ]
             }
@@ -1836,32 +1836,32 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ле Пуэн де Капитон",
+          "name": "Точка сопряжения【Le Point de Capiton】",
           "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Если главная цель не имеет [Laceration:`Кровотечения`], то</u></b></mark></color> все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Итоговая сила +1 за каждые 4 [Laceration:`Кровотечения`] на цели (До 3)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Л'Абжект`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Отвращённое`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Л'Абжект`]</nobr>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Отвращённое`]</nobr>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Л'Абжект`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [BoneNail:`Отвращённое`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Л'Абжект`]</nobr>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 1 <nobr>[BoneNail:`Отвращённое`]</nobr>"
                 }
               ]
             }
@@ -1874,8 +1874,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Жуисанс",
-          "desc": "Не может быть Оглушён до использования этого навыка\n\n[WhenUse] Теряет 10 <color=#80c9ff>СД</color> и получает -2 к Силе монет, если <color=#ff6000><mark=#ff000040><b><u>главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>\n[EndSkill] Главная цель теряет [BuffetScruple:`Пережитое с Буфи`] и получает [BuffetResolve:`Решение`]",
+          "name": "Наслаждение【La Jouissance】",
+          "desc": "[nxCenterLine]\n\nНе может быть Оглушён до использования этого навыка\n\n[WhenUse] Теряет 20 <color=#80c9ff>СД</color> и получает -3 к Силе монет, если <color=#ff6000><mark=#ff000040><b><u>главная цель имеет [BuffetScruple:`Пережитое с Буфи`]</u></b></mark></color>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Получает 1 [BuffetDream:`Воспоминания Буфи`]</u></b></mark></color>\n[EndSkill] [BuffetScruple:`Пережитое с Буфи`] главной цели превращается в [BuffetResolve:`Решение`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1893,7 +1893,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Наносит ещё 2 [Laceration:`Кровотечения`]"
@@ -1906,7 +1906,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration:`Кровотечения`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Laceration:`Кровотечение`] на цели 3 раза и понижает его счётчик <nobr>на 3</nobr>"
@@ -1922,7 +1922,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ла Мéтафор Патэрнэль",
+          "name": "Отцовская метафора【La Métaphore Paternelle】",
           "desc": "<b>[SupportEnemy:`Двойственный`](;SupportAlly) навык</b>\n- Используется в конце хода\n\n[CantDuel]\n[CantChangeTarget]\n\n[EndSkill] Восстанавливает себе 25% от максимальных <color=#00ff9c>ОЗ</color>",
           "coinlist": [
             {
@@ -2033,7 +2033,7 @@
         {
           "level": 1,
           "name": "Дар из моих объятий!",
-          "desc": "[StartBattle] Если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)\n[WhenUse] Если счётчик своей [ChargeRouge:`Пульсации`] равен 10 и более, то тратит 10 его единиц, чтобы получить +1 к Силе монет\n[DefeatDuel] Не может оглушить цель",
+          "desc": "[StartBattle] Если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[WhenUse] Если счётчик своей [ChargeRouge:`Пульсации`] равен 10 и более, то тратит 10 его единиц, чтобы получить +1 к Силе монет\n[DefeatDuel] Не может оглушить цель",
           "coinlist": [
             {
               "coindescs": [
@@ -2075,7 +2075,7 @@
         {
           "level": 1,
           "name": "Мы должны пожрать всё это!",
-          "desc": "[StartBattle] Если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 за каждые 6 [Laceration:`Кровотечения`] на цели (До 2)\n[WhenUse] Если счётчик своей [ChargeRouge:`Пульсации`] равен 10 и более, то тратит 10 его единиц, чтобы получить +1 к Силе монет\n\n[WhenUse] Для первых трёх монет:\n- [UnBrokenCoinOnSucceedAttack] Тратит до 5 единиц счётчика своей [ChargeRouge:`Пульсации`], чтобы нанести дополнительный Рубящий урон в размере (Потраченный счётчик × 3)% от итогового урона этой монеты (До 15%) и восстановить себе (Потраченный счётчик)% <color=#00ff9c>ОЗ</color>\n\n[WinDuel] Повышает счётчик своей [ChargeRouge:`Пульсации`] <nobr>на 10</nobr>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "desc": "[StartBattle] Если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%, то все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]\n[WhenUse] Если счётчик своей [ChargeRouge:`Пульсации`] равен 10 и более, то тратит 10 его единиц, чтобы получить +1 к Силе монет\n\n[WhenUse] Для первых трёх монет:\n- [UnBrokenCoinOnSucceedAttack] Тратит до 5 единиц счётчика своей [ChargeRouge:`Пульсации`], чтобы нанести дополнительный Рубящий урон в размере (Потраченный счётчик × 3)% от итогового урона этой монеты (До 15%) и восстановить себе (Потраченный счётчик)% <color=#00ff9c>ОЗ</color>\n\n[WinDuel] Повышает счётчик своей [ChargeRouge:`Пульсации`] <nobr>на 10</nobr>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
           "coinlist": [
             {
               "coindescs": [

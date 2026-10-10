@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "Спокойно",
-          "desc": "Повышает счётчик своего [Vibration:`Тремора`] на 4 при [Discard:`Сбросе`] этого навыка\n<style=\"highlight\">Сила монет +1, если счётчик своего [Vibration:`Тремора`] равен 5 и более</style>\n[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] <style=\"highlight\">на 3</style>",
+          "desc": "Повышает счётчик своего [Vibration:`Тремора`] на 4 при [Discard:`Сбросе`] этого навыка\n[WhenUse] Повышает счётчик своего [Vibration:`Тремора`] <style=\"highlight\">на 3</style>\n<style=\"highlight\">[WhenUse] Сила монет +1, если счётчик своего [Vibration:`Тремора`] равен 5 и более</style>",
           "coinlist": [
             {},
             {
@@ -222,7 +222,7 @@
         {
           "level": 4,
           "name": "Пространственный разрез",
-          "desc": "<style=\"highlight\">Сила монет +2, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2",
+          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] на 2\n<style=\"highlight\">[WhenUse] Сила монет +2, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
         {
           "level": 2,
           "name": "Цикл энергии",
-          "desc": "<style=\"highlight\">Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 6</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 6</style>\n<style=\"highlight\">[WhenUse] Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -289,7 +289,7 @@
         {
           "level": 4,
           "name": "Цикл энергии",
-          "desc": "Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более\n[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 7</style>",
+          "desc": "[WhenUse] Повышает счётчик своего [Charge:`Заряда`] <style=\"highlight\">на 7</style>\n[WhenUse] Сила монет +1, если счётчик своего [Charge:`Заряда`] равен 10 и более",
           "coinlist": [
             {
               "coindescs": [
@@ -391,7 +391,7 @@
         {
           "level": 1,
           "name": "Пустое пространство",
-          "desc": "Базовая сила +1 за каждые 5 единиц счётчика своего [Charge:`Заряда`] <nobr>(До 2)</nobr>",
+          "desc": "[WhenUse] Базовая сила +1 за каждые 5 единиц счётчика своего [Charge:`Заряда`] <nobr>(До 2)</nobr>",
           "coinlist": [
             {}
           ]
@@ -399,12 +399,12 @@
         {
           "level": 4,
           "name": "Пустое пространство",
-          "desc": "Базовая сила +1 за каждые 5 единиц счётчика своего [Charge:`Заряда`] <nobr>(До 2)</nobr>",
+          "desc": "[WhenUse] Базовая сила +1 за каждые 5 единиц счётчика своего [Charge:`Заряда`] <nobr>(До 2)</nobr>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedEvade] На 1 наносимый своими навыками [Burst:`Разрыв`] больше в следующем ходе при первом его нанесении <nobr>(До 3)</nobr></style>"
+                  "desc": "<style=\"highlight\">[OnSucceedEvade] На 1 наносимый своими навыками [Burst:`Разрыв`] больше в следующем ходе при первом его нанесении <nobr>(До 3 за ход)</nobr></style>"
                 }
               ]
             }
@@ -474,7 +474,7 @@
         {
           "level": 1,
           "name": "Неустанное пробитие",
-          "desc": "Сила в столкновении +2 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[WhenUse] Сила в столкновении +2 при 5 и более [Breath:`Дыхания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -495,7 +495,7 @@
         {
           "level": 2,
           "name": "Неустанное пробитие",
-          "desc": "Сила в столкновении +2 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[WhenUse] Сила в столкновении +2 при 5 и более [Breath:`Дыхания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -519,7 +519,7 @@
         {
           "level": 4,
           "name": "Неустанное пробитие",
-          "desc": "Сила в столкновении +<style=\"highlight\">3</style> при 5 и более [Breath:`Дыхания`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "desc": "[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 2\n[WhenUse] Сила в столкновении +<style=\"highlight\">3</style> при 5 и более [Breath:`Дыхания`]",
           "coinlist": [
             {
               "coindescs": [
@@ -572,7 +572,7 @@
         {
           "level": 4,
           "name": "Налёт",
-          "desc": "<style=\"highlight\">Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>\n[WhenUse] Получает 5 [Breath:`Дыхания`]",
+          "desc": "[WhenUse] Получает 5 [Breath:`Дыхания`]\n<style=\"highlight\">[WhenUse] Сила монет +1 при 7 и более [Breath:`Дыхания`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -724,7 +724,7 @@
         {
           "level": 2,
           "name": "Сокрытие за печатью",
-          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">5</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] [Discard:`Сбрасывает`] навык высшего ранга из своих слотов навыков\n<style=\"highlight\">[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">5</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] [Discard:`Сбрасывает`] навык высшего ранга из своих слотов навыков\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {},
             {
@@ -746,7 +746,7 @@
         {
           "level": 4,
           "name": "Сокрытие за печатью",
-          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">6</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] [Discard:`Сбрасывает`] навык высшего ранга из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 5 и более [Sinking:`Утопания`]</style>\n[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход",
+          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">6</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] [Discard:`Сбрасывает`] навык высшего ранга из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 5 и более [Sinking:`Утопания`]</style>\n[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {},
             {
@@ -773,7 +773,7 @@
         {
           "level": 3,
           "name": "Благословение знания",
-          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 9)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] Слот с этим навыком 8 [Aggro:`Провокаций`] на следующий ход",
+          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 9)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] Слот с этим навыком получает 8 [Aggro:`Провокаций`] на следующий ход",
           "coinlist": [
             {},
             {},
@@ -790,7 +790,7 @@
         {
           "level": 4,
           "name": "Благословение знания",
-          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">12</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] Слот с этим навыком <style=\"highlight\">10</style> [Aggro:`Провокаций`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1, если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%</style>",
+          "desc": "При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">12</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">10</style> [Aggro:`Провокаций`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1, если свои текущие <color=#00ff9c>ОЗ</color> ниже 50%</style>",
           "coinlist": [
             {},
             {},
@@ -812,7 +812,7 @@
         {
           "level": 1,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего ранга из своих слотов навыков\n[WhenUse] Слот с этим навыком 3 [Aggro:`Провокации`] на следующий ход",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего ранга из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -826,7 +826,7 @@
         {
           "level": 4,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего ранга из своих слотов навыков\n[WhenUse] Слот с этим навыком <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего ранга из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокаций`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
         {
           "level": 4,
           "name": "Перекрашивание",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
           "coinlist": [
             {},
             {
@@ -936,7 +936,7 @@
         {
           "level": 2,
           "name": "Кровавая работа в стиле пуантилизма",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -956,7 +956,7 @@
         {
           "level": 4,
           "name": "Кровавая работа в стиле пуантилизма",
-          "desc": "Сила в столкновении +1 <style=\"highlight\">за каждые 3 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">Сила монет +1 за каждые 3 единицы счётчика [Laceration:`Кровотечения`] цели (До 2)</style>",
+          "desc": "[WhenUse] Сила в столкновении +1 <style=\"highlight\">за каждые 3 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 3 единицы счётчика [Laceration:`Кровотечения`] цели (До 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -981,7 +981,7 @@
         {
           "level": 3,
           "name": "Мазки каплями крови",
-          "desc": "Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]",
+          "desc": "[WhenUse] Сила в столкновении +1 против целей с 6 и более [Laceration:`Кровотечения`]",
           "coinlist": [
             {},
             {
@@ -1019,7 +1019,7 @@
         {
           "level": 4,
           "name": "Мазки каплями крови",
-          "desc": "Сила в столкновении +1 <style=\"highlight\">за каждые 3 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">Сила монет +1 за каждые 3 единицы счётчика [Laceration:`Кровотечения`] цели (До 2)</style>",
+          "desc": "[WhenUse] Сила в столкновении +1 <style=\"highlight\">за каждые 3 [Laceration:`Кровотечения`]</style> на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 3 единицы счётчика [Laceration:`Кровотечения`] цели (До 2)</style>",
           "coinlist": [
             {},
             {
@@ -1062,7 +1062,7 @@
         {
           "level": 1,
           "name": "Набрызг",
-          "desc": "Базовая сила +5, если на атакующем 6 и более [Laceration:`Кровотечения`]",
+          "desc": "[WhenUse] Базовая сила +5, если на атакующем 6 и более [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1076,7 +1076,7 @@
         {
           "level": 4,
           "name": "Набрызг",
-          "desc": "Базовая сила <style=\"highlight\">повышается на силу</style> [Laceration:`Кровотечения`] атакующего (До 10)</style>",
+          "desc": "[WhenUse] Базовая сила <style=\"highlight\">повышается на силу</style> [Laceration:`Кровотечения`] атакующего (До 10)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1122,7 +1122,7 @@
         {
           "level": 2,
           "name": "Поздравления ушедшим в мир иной",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 2</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1149,7 +1149,7 @@
         {
           "level": 4,
           "name": "Поздравления ушедшим в мир иной",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 при 10 и более [BulletLament:`Живущих и Почивших`]</style>\nСила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 2",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 при 10 и более [BulletLament:`Живущих и Почивших`]</style>\n[WhenUse] Сила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 2",
           "coinlist": [
             {
               "coindescs": [
@@ -1208,7 +1208,7 @@
         {
           "level": 2,
           "name": "Оставшимся с нами же — торжественные соболезнования",
-          "desc": "<style=\"highlight\">Сила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 1\n[EndSkill] Получает [BulletLament:`Живущих и Почивших`] в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютным, то вместо этого получает (Число грехов в этом резонансе × 2) [BulletLament:`Живущих и Почивших`] (До 12)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила монет +1 против целей, чья сумма силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] составляет 6 и более\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 1\n[EndSkill] Получает [BulletLament:`Живущих и Почивших`] в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютным, то вместо этого получает (Число грехов в этом резонансе × 2) [BulletLament:`Живущих и Почивших`] (До 12)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1235,7 +1235,7 @@
         {
           "level": 4,
           "name": "Оставшимся с нами же — торжественные соболезнования",
-          "desc": "<style=\"highlight\">Сила в столкновении +1 при 10 и более [BulletLament:`Живущих и Почивших`]</style>\nСила монет +1 <style=\"highlight\">за каждые 6 единиц</style> в сумме силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] на цели <style=\"highlight\">(До 2)</style>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 1\n[EndSkill] Получает [BulletLament:`Живущих и Почивших`] в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютным, то вместо этого получает (Число грехов в этом резонансе × 2) [BulletLament:`Живущих и Почивших`] (До 12)\n<style=\"highlight\">- Если в наибольшем абсолютном резонансе 4 и более греха, то сразу [ReloadLament:`Перезаряжается`] вместо этого</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Сила в столкновении +1 при 10 и более [BulletLament:`Живущих и Почивших`]</style>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 единиц</style> в сумме силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] на цели <style=\"highlight\">(До 2)</style>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 1\n[EndSkill] Получает [BulletLament:`Живущих и Почивших`] в запас по числу грехов в наибольшем резонансе (До 6)\n- Если наибольший резонанс является абсолютным, то вместо этого получает (Число грехов в этом резонансе × 2) [BulletLament:`Живущих и Почивших`] (До 12)\n<style=\"highlight\">- Если в наибольшем абсолютном резонансе 4 и более греха, то сразу [ReloadLament:`Перезаряжается`] вместо этого</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1267,7 +1267,7 @@
         {
           "level": 3,
           "name": "И скорби акме нашей, словно альвеолы наполнив, испарись",
-          "desc": "Базовая сила +1 за каждые 10 [BulletLament:`Живущих и Почивших`] на руках <nobr>(До 2)</nobr>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 3\n[EndSkill] [ReloadLament:`Перезаряжается`]",
+          "desc": "[WhenUse] Базовая сила +1 за каждые 10 [BulletLament:`Живущих и Почивших`] на руках <nobr>(До 2)</nobr>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 3\n[EndSkill] [ReloadLament:`Перезаряжается`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1314,7 +1314,7 @@
         {
           "level": 4,
           "name": "И скорби акме нашей, словно альвеолы наполнив, испарись",
-          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> [BulletLament:`Живущих и Почивших`] на руках <nobr>(До <style=\"highlight\">4</style>)</nobr>\n<style=\"highlight\">Сила монет +1 за каждые 6 единиц в сумме силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] на цели (До 2)</style>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 3\n[EndSkill] [ReloadLament:`Перезаряжается`]",
+          "desc": "[WhenUse] Базовая сила +1 за каждые <style=\"highlight\">5</style> [BulletLament:`Живущих и Почивших`] на руках <nobr>(До <style=\"highlight\">4</style>)</nobr>\n<style=\"highlight\">[WhenUse] Сила монет +1 за каждые 6 единиц в сумме силы [Sinking:`Утопания`] и всех [SinkingWhite:`Бабочек`] на цели (До 2)</style>\n[WinDuel] Повышает счётчик [Sinking:`Утопания`] цели на 3\n[EndSkill] [ReloadLament:`Перезаряжается`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1453,7 +1453,7 @@
         {
           "level": 4,
           "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
-          "desc": "[StartBattle] При поражении в столкновении получает Итоговую силу, равную количеству навыков, целью которых является (До <style=\"highlight\">3</style>)\n[WhenUse] Получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Если цель имеет 15+ [Burst:`Разрыва`] и 3+ его счётчика, то этот навык не наносит [Burst:`Разрыв`] своими эффектами\n[DefeatDuel] Наносит на <style=\"highlight\">2</style> [Burst:`Разрыва`] больше эффектами этого навыка",
+          "desc": "[WhenUse] Получает 3 [Aggro:`Провокации`] на следующий ход\n[WhenUse] Если цель имеет 15+ [Burst:`Разрыва`] и 3+ его счётчика, то этот навык не наносит [Burst:`Разрыв`] своими эффектами\n[DefeatDuel] Наносит на <style=\"highlight\">2</style> [Burst:`Разрыва`] больше эффектами этого навыка\n[DefeatDuel] Итоговая сила +1 за каждый навык, целью которого являлся И Сан в начале боевой фазы (До <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -1641,7 +1641,7 @@
         {
           "level": 1,
           "name": "Следование огню",
-          "desc": "Сила монет +1 против целей с 6 и более [Combustion:`Огня`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1662,7 +1662,7 @@
         {
           "level": 2,
           "name": "Следование огню",
-          "desc": "Сила монет +1 против целей с <style=\"highlight\">3</style> и более [Combustion:`Огня`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с <style=\"highlight\">3</style> и более [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1683,7 +1683,7 @@
         {
           "level": 4,
           "name": "Следование огню",
-          "desc": "Сила монет +1 <style=\"highlight\">за каждые 3 [Combustion:`Огня`]</style> на цели <style=\"highlight\">(До 2)</style>\n<style=\"highlight\">Наносит на 10% больше урона за каждые 10 [Combustion:`Огня`] на цели (До 30%)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Наносит на 10% больше урона за каждые 10 [Combustion:`Огня`] на цели <nobr>(До 30%)</nobr></style>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 3 [Combustion:`Огня`]</style> на цели <style=\"highlight\"><nobr>(До 2)</nobr></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1715,7 +1715,7 @@
         {
           "level": 1,
           "name": "Фронтовая атака",
-          "desc": "Сила монет +1 против целей с 6 и более [Combustion:`Огня`]",
+          "desc": "[WhenUse] Сила монет +1 против целей с 6 и более [Combustion:`Огня`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1743,7 +1743,7 @@
         {
           "level": 2,
           "name": "Фронтовая атака",
-          "desc": "Сила монет +1 <style=\"highlight\">за каждые 6 [Combustion:`Огня`]</style> на цели <style=\"highlight\">(До 2)</style>",
+          "desc": "[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Combustion:`Огня`]</style> на цели <style=\"highlight\"><nobr>(До 2)</nobr></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1774,7 +1774,7 @@
         {
           "level": 4,
           "name": "Фронтовая атака",
-          "desc": "Сила монет +1 за каждые 6 [Combustion:`Огня`] на цели (До 2)",
+          "desc": "[WhenUse] Сила монет +1 за каждые 6 [Combustion:`Огня`] на цели <nobr>(До 2)</nobr>",
           "coinlist": [
             {
               "coindescs": [
@@ -1810,7 +1810,7 @@
         {
           "level": 3,
           "name": "Полёт меча",
-          "desc": "Сила монет +1 против целей с 6 и более [Combustion:`Огня`]\nНаносит на 10% больше урона за каждые 6 [Combustion:`Огня`] на цели (До 30%)\n[EndSkill] Восстанавливает 10 <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>\n[EndSkill] Если эта атака убила цель, или же цель имеет 10 и более [Combustion:`Огня`] после неё, то восстанавливает 10 <color=#80c9ff>СД</color> ещё одному союзнику",
+          "desc": "[WhenUse] Наносит на 10% больше урона за каждые 6 [Combustion:`Огня`] на цели <nobr>(До 30%)</nobr>\n[WhenUse] Сила монет +1 против целей с 6 и более [Combustion:`Огня`]\n[EndSkill] Восстанавливает 10 <color=#80c9ff>СД</color> Идентичности с наименьшей <color=#80c9ff>СД</color>\n[EndSkill] Если эта атака убила цель, или же цель имеет 10 и более [Combustion:`Огня`] после неё, то восстанавливает 10 <color=#80c9ff>СД</color> ещё одной Идентичности",
           "coinlist": [
             {
               "coindescs": [
@@ -1848,7 +1848,7 @@
         {
           "level": 4,
           "name": "Полёт меча",
-          "desc": "Сила монет +1 <style=\"highlight\">за каждые 6 [Combustion:`Огня`]</style> на цели <style=\"highlight\">(До 2)</style>\nНаносит на 10% больше урона за каждые 6 [Combustion:`Огня`] на цели (До 30%)\n[EndSkill] Восстанавливает <style=\"highlight\">15</style> <color=#80c9ff>СД</color> союзнику с наименьшей <color=#80c9ff>СД</color>\n[EndSkill] Если эта атака убила цель, или же цель имеет 10 и более [Combustion:`Огня`] после неё, то восстанавливает 10 <color=#80c9ff>СД</color> ещё одному союзнику",
+          "desc": "[WhenUse] Наносит на 10% больше урона за каждые 6 [Combustion:`Огня`] на цели <nobr>(До 30%)</nobr>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Combustion:`Огня`]</style> на цели <style=\"highlight\"><nobr>(До 2)</nobr></style>\n[EndSkill] Восстанавливает <style=\"highlight\">15</style> <color=#80c9ff>СД</color> Идентичности с наименьшей <color=#80c9ff>СД</color>\n[EndSkill] Если эта атака убила цель, или же цель имеет 10 и более [Combustion:`Огня`] после неё, то восстанавливает 10 <color=#80c9ff>СД</color> ещё одной Идентичности",
           "coinlist": [
             {
               "coindescs": [
@@ -1891,19 +1891,19 @@
         {
           "level": 1,
           "name": "Пламенный контрудар",
-          "desc": "[BeforeHit] Получает <color=#366ffb>OЗ Щита</color>, равные силе [Combustion:`Огня`] цели (До 10; единожды за ход)",
+          "desc": "[BeforeHit] Получает <color=#366ffb>OЗ Щита</color>, равные силе [Combustion:`Огня`] на атакующем (До 10; единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\nЕсли остался щит, наносит ещё 1 [Combustion:`Огонь`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\n- Если остался щит, наносит ещё 1 [Combustion:`Огонь`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\nЕсли остался щит, наносит ещё 1 [Combustion:`Огонь`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\n- Если остался щит, наносит ещё 1 [Combustion:`Огонь`]"
                 }
               ]
             }
@@ -1912,19 +1912,19 @@
         {
           "level": 4,
           "name": "Пламенный контрудар",
-          "desc": "<style=\"highlight\">[WhenUse] Наносит на 10% больше урона целям с 10 и более [Combustion:`Огня`]</style>\n[BeforeHit] Получает <color=#366ffb>OЗ Щита</color>, равные силе [Combustion:`Огня`] цели (До <style=\"highlight\">15</style>; единожды за ход)",
+          "desc": "[BeforeHit] Получает <color=#366ffb>OЗ Щита</color>, равные силе [Combustion:`Огня`] на атакующем (До <style=\"highlight\">15</style>; единожды за ход)\n<style=\"highlight\">[WhenUse] Наносит на 10% больше урона, если на атакующем 10 и более [Combustion:`Огня`]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\nЕсли остался щит, наносит ещё 1 [Combustion:`Огонь`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\n- Если остался щит, наносит ещё 1 [Combustion:`Огонь`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\nЕсли остался щит, наносит ещё 1 [Combustion:`Огонь`]"
+                  "desc": "[OnSucceedAttackHead] Наносит 1 [Combustion:`Огонь`]\n- Если остался щит, наносит ещё 1 [Combustion:`Огонь`]"
                 }
               ]
             }
@@ -1938,7 +1938,7 @@
         {
           "level": 1,
           "name": "Взор сквозь защиту",
-          "desc": "Наносит на 7% больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До 49%)\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`]",
+          "desc": "[WhenUse] Наносит на 7% больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До 49%)\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1952,7 +1952,7 @@
         {
           "level": 2,
           "name": "Взор сквозь защиту",
-          "desc": "Наносит на <style=\"highlight\">10%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До <style=\"highlight\">70%</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Базовая сила +1, если счётчик своего [Breath:`Дыхания`] равен 3 и более</style>\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`] <style=\"highlight\">и повышает счётчик своего [Breath:`Дыхания`] на 1</style>",
+          "desc": "[WhenUse] Наносит на <style=\"highlight\">10%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До <style=\"highlight\">70%</style>)\n<style=\"highlight\">[WhenUse] Сила монет +1 при 5 и более [Breath:`Дыхания`]\n[WhenUse] Базовая сила +1, если счётчик своего [Breath:`Дыхания`] равен 3 и более</style>\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`] <style=\"highlight\">и повышает счётчик своего [Breath:`Дыхания`] на 1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1972,7 +1972,7 @@
         {
           "level": 4,
           "name": "Взор сквозь защиту",
-          "desc": "Наносит на <style=\"highlight\">15%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До <style=\"highlight\">105%</style>)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Breath:`Дыхания`] (До 2)</style>\n[WhenUse] Базовая сила +1 <style=\"highlight\">за каждые 3 единицы счётчика [Breath:`Дыхания`] (До 2)</style>\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`] и повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
+          "desc": "[WhenUse] Наносит на <style=\"highlight\">15%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До <style=\"highlight\">105%</style>)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5 [Breath:`Дыхания`] (До 2)</style>\n[WhenUse] Базовая сила +1 <style=\"highlight\">за каждые 3 единицы счётчика [Breath:`Дыхания`] (До 2)</style>\n[WhenUse] Получает 1 [BoseProjektil:`Разорванное воспоминание`] и повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2143,7 +2143,7 @@
                   "desc": "На 15% больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До 105%)"
                 },
                 {
-                  "desc": "- Если первая монета убила союзника, на 30% больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] вместо этого (До 210%)\n"
+                  "desc": "- Если первая монета убила Грешника, на 30% больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] вместо этого (До 210%)\n"
                 },
                 {
                   "desc": "На (Сила своего [Breath:`Дыхания`] × 2.5)% больше урона при критическом попадании (До 25%)"
@@ -2206,7 +2206,7 @@
                   "desc": "На <style=\"highlight\">20%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] (До <style=\"highlight\">140%</style>)"
                 },
                 {
-                  "desc": "- Если первая монета убила союзника, на <style=\"highlight\">40%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] вместо этого (До <style=\"highlight\">280%</style>)\n"
+                  "desc": "- Если первая монета убила Грешника, на <style=\"highlight\">40%</style> больше урона за каждое [BoseProjektil:`Разорванное воспоминание`] вместо этого (До <style=\"highlight\">280%</style>)\n"
                 },
                 {
                   "desc": "На (Сила своего [Breath:`Дыхания`] × <style=\"highlight\">5</style>)% больше урона при критическом попадании (До <style=\"highlight\">50%</style>)"
@@ -2605,7 +2605,7 @@
         {
           "level": 4,
           "name": "Обезглавливающий клинок полумесяца обсидианового всадника бури【黑風馬脚月斬】",
-          "desc": "Сила монет +1 против более медленных целей\n[WhenUse] Даёт [BattlefieldHorse:`Командный клич`] на следующий ход всем другим Идентичностям на поле боя (Единожды за ход)\n[WhenUse] Получает 3 [LegStrengthHorseYisang:`Стремительности 【У】`]\n[WhenUse] Сила монет +1 за каждые 5 единиц в сумме силы [Burst:`Разрыва`] и [Vibration:`Тремора`] цели (До 2)\n[WinDuel] Если быстрее цели, то наносит ей на 50% больше урона\n<style=\"highlight\">[WinDuel] Наносит 1 [ConcussionYisang:`Сотрясение`] главной цели</style>",
+          "desc": "Сила монет +1 против более медленных целей\n[WhenUse] Даёт [BattlefieldHorse:`Командный клич`] на следующий ход всем другим Идентичностям на поле боя (Единожды за ход)\n[WhenUse] Получает 3 [LegStrengthHorseYisang:`Стремительности 【У】`]\n[WhenUse] Сила монет +1 за каждые 5 единиц в сумме силы [Burst:`Разрыва`] и [Vibration:`Тремора`] на цели (До 2)\n[WinDuel] Если быстрее цели, то наносит ей на 50% больше урона\n<style=\"highlight\">[WinDuel] Наносит главной цели 1 [ConcussionYisang:`Сотрясение`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2684,7 +2684,7 @@
         {
           "level": 2,
           "name": "\"Обернуть 330 раз длинными полосами застывшей крови\"",
-          "desc": "Дробящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Дробящим оружием наносят на 10% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 15% больше урона\n<style=\"highlight\">Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] - 1) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
+          "desc": "Дробящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Дробящим оружием наносят на 10% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 15% больше урона\n<style=\"highlight\">[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] - 1) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
           "coinlist": [
             {},
             {
@@ -2702,7 +2702,7 @@
         {
           "level": 4,
           "name": "\"Обернуть 330 раз длинными полосами застывшей крови\"",
-          "desc": "Дробящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Дробящим оружием наносят на <style=\"highlight\">15%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], <style=\"highlight\">он получает +1 к Силе в столкновении и</style> наносит на <style=\"highlight\">20%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] - 1) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
+          "desc": "Дробящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Дробящим оружием наносят на <style=\"highlight\">15%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], <style=\"highlight\">он получает +1 к Силе в столкновении и</style> наносит на <style=\"highlight\">20%</style> больше урона\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] - 1) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] <style=\"highlight\">на 2</style>",
           "coinlist": [
             {},
             {
@@ -2750,7 +2750,7 @@
         {
           "level": 2,
           "name": "\"Упиваться беззвучными аплодисментами, погружаться в безмолвную скорбь\"",
-          "desc": "Пронзающее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Пронзающим оружием наносят на 10% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], он получает +1 к Силе в столкновении\n<style=\"highlight\">Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "desc": "Пронзающее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Пронзающим оружием наносят на 10% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], он получает +1 к Силе в столкновении\n<style=\"highlight\">[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
           "coinlist": [
             {},
             {
@@ -2775,7 +2775,7 @@
         {
           "level": 4,
           "name": "\"Упиваться беззвучными аплодисментами, погружаться в безмолвную скорбь\"",
-          "desc": "Пронзающее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Пронзающим оружием наносят на <style=\"highlight\">15%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], он получает +1 к <style=\"highlight\">Итоговой силе</style>\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "desc": "Пронзающее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Пронзающим оружием наносят на <style=\"highlight\">15%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], он получает +1 к <style=\"highlight\">Итоговой силе</style>\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
           "coinlist": [
             {},
             {
@@ -2805,7 +2805,7 @@
         {
           "level": 3,
           "name": "\"Поднять и осмеять клинок, рыдать похожим на аромат опавших листьев водопадом\"",
-          "desc": "[TurnStartBattle] Если значение [StackYisangSpecialSkill:`Посредничества 【Гермес】`] достигло 9, этот навык заменяется на <color=#fe0101>「Фуриозо - Реплика」</color> (В приоритете самый левый третий навык в нижней строке на приборной панели; за ход таким образом может быть заменён только 1 третий навык)\n\nРубящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Рубящим оружием наносят на 12.5% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\nСила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3",
+          "desc": "[TurnStartBattle] Если значение [StackYisangSpecialSkill:`Посредничества 【Гермес】`] достигло 9, этот навык заменяется на <color=#fe0101>「Фуриозо - Реплика」</color> (В приоритете самый левый третий навык в нижней строке на приборной панели; за ход таким образом может быть заменён только 1 третий навык)\n\nРубящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Рубящим оружием наносят на 12.5% больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n[WhenUse] Сила монет +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели равна 6 и более\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] Повышает счётчик своего [Breath:`Дыхания`] на 3",
           "coinlist": [
             {},
             {
@@ -2840,7 +2840,7 @@
         {
           "level": 4,
           "name": "\"Поднять и осмеять клинок, рыдать похожим на аромат опавших листьев водопадом\"",
-          "desc": "[TurnStartBattle] Если значение [StackYisangSpecialSkill:`Посредничества 【Гермес】`] достигло 9, этот навык заменяется на <color=#fe0101>「Фуриозо - Реплика」</color> (В приоритете самый левый третий навык в нижней строке на приборной панели; за ход таким образом может быть заменён только 1 третий навык)\n\nРубящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Рубящим оружием наносят на <style=\"highlight\">25%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">20%</style> больше урона\nСила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] <style=\"highlight\">+ 1</style>) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] <style=\"highlight\">Получает (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) [Breath:`Дыхания`] и</style> повышает его счётчик на 3",
+          "desc": "[TurnStartBattle] Если значение [StackYisangSpecialSkill:`Посредничества 【Гермес】`] достигло 9, этот навык заменяется на <color=#fe0101>「Фуриозо - Реплика」</color> (В приоритете самый левый третий навык в нижней строке на приборной панели; за ход таким образом может быть заменён только 1 третий навык)\n\nРубящее оружие появляется с шансом (75 - ([KarmaOfIndexAlly:`Кармические последствия`] / 2))% для монет этого навыка\n- Монеты с выпавшим им Рубящим оружием наносят на <style=\"highlight\">25%</style> больше урона\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на <style=\"highlight\">20%</style> больше урона\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на цели <style=\"highlight\">(До 2)</style>\n[WhenUse] Монеты этого навыка в количестве (Текущая стадия [UnlockBuff_Base:`Разблокировки`] <style=\"highlight\">+ 1</style>) начиная с последней становятся [SuperCoin:`Вечными`]\n[WhenUse] <style=\"highlight\">Получает (Текущая стадия [UnlockBuff_Base:`Разблокировки`]) [Breath:`Дыхания`] и</style> повышает его счётчик на 3",
           "coinlist": [
             {},
             {
@@ -2913,7 +2913,7 @@
         {
           "level": 3,
           "name": "Фуриозо - Реплика",
-          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nСила монет этого навыка не меняется; вместо этого, при каждом увеличении их Силы от внешних эффектов, Итоговая сила навыка увеличивается на 5 (Сила монет также не подвержена [Paralysis:`Параличу`])\n\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\nИтоговая сила +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на главной цели равна 6 и более\n[StartBattle]\n- Не получает [StackYisangSpecialSkill:`Посредничество 【Гермес】`] на протяжении этого хода\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Наносит 1 [Sinking] или получает 1 [Breath] при каждом попадании этим навыком\n[WhenUse]\n- Сила в столкновении +3\n- Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 3\n[EndSkill]\n- Наносит 5 [Combustion:`Огня`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем целям, по которым попал\n- Теряет всё [StackYisangSpecialSkill:`Посредничество 【Гермес】`]",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nСила монет этого навыка не меняется; вместо этого, при каждом увеличении их Силы от внешних эффектов, Итоговая сила навыка увеличивается на 5 (Сила монет также не подвержена [Paralysis:`Параличу`])\n\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n[StartBattle]\n- Не получает [StackYisangSpecialSkill:`Посредничество 【Гермес】`] на протяжении этого хода\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Наносит 1 [Sinking] или получает 1 [Breath] при каждом попадании этим навыком\n[WhenUse] Итоговая сила +1, если сумма силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на главной цели равна 6 и более\n[WhenUse]\n- Сила в столкновении +3\n- Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 3\n[EndSkill]\n- Наносит 5 [Combustion:`Огня`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем целям, по которым попал\n- Теряет всё [StackYisangSpecialSkill:`Посредничество 【Гермес】`]",
           "coinlist": [
             {},
             {},
@@ -2938,7 +2938,7 @@
         {
           "level": 4,
           "name": "Фуриозо - Реплика",
-          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nСила монет этого навыка не меняется; вместо этого, при каждом увеличении их Силы от внешних эффектов, Итоговая сила навыка увеличивается на 5 <style=\"highlight\">и урон повышается на 25%</style> (Сила монет также не подвержена [Paralysis:`Параличу`])\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\nИтоговая сила +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на главной цели <style=\"highlight\">(До 2)</style>\n[StartBattle]\n- Не получает [StackYisangSpecialSkill:`Посредничество 【Гермес】`] на протяжении этого хода\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Наносит 1 [Sinking] или получает 1 [Breath] при каждом попадании этим навыком\n[WhenUse]\n- Сила в столкновении +3\n- Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 3\n[EndSkill]\n- Наносит 5 [Combustion:`Огня`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем целям, по которым попал\n- Теряет всё [StackYisangSpecialSkill:`Посредничество 【Гермес】`]",
+          "desc": "Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nСила монет этого навыка не меняется; вместо этого, при каждом увеличении их Силы от внешних эффектов, Итоговая сила навыка увеличивается на 5 <style=\"highlight\">и урон повышается на 25%</style> (Сила монет также не подвержена [Paralysis:`Параличу`])\n\nЕсли этот навык имеет [IndexPrescriptTargetMarkToEnemy:`Метку предписания`], наносит им на 10% больше урона\n[StartBattle]\n- Не получает [StackYisangSpecialSkill:`Посредничество 【Гермес】`] на протяжении этого хода\n- Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n- Наносит 1 [Sinking] или получает 1 [Breath] при каждом попадании этим навыком\n[WhenUse] Итоговая сила +1 <style=\"highlight\">за каждые 6</style> единиц в сумме силы своего [Breath:`Дыхания`] и [Sinking:`Утопания`] на главной цели <style=\"highlight\">(До 2)</style>\n[WhenUse]\n- Сила в столкновении +3\n- Получает 3 [Breath:`Дыхания`] и повышает его счётчик на 3\n[EndSkill]\n- Наносит 5 [Combustion:`Огня`], 3 [Binding:`Связывания`] и 3 [Vulnerable:`Уязвимости`] на следующий ход всем целям, по которым попал\n- Теряет всё [StackYisangSpecialSkill:`Посредничество 【Гермес】`]",
           "coinlist": [
             {},
             {},

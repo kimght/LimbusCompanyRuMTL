@@ -498,10 +498,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
                 }
               ]
             }
@@ -600,10 +600,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления <color=#00ff9c>ОЗ</color>`]"
+                  "desc": "[OnSucceedAttack] Если на цели 5 и более [Burst:`Разрыва`], наносит ещё 1 [TakeHpHealReduce:`Понижение восстановления ОЗ`]"
                 }
               ]
             }

@@ -109,14 +109,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления <color=#00ff9c>ОЗ</color>`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Burst:`Разрыва`]\n[OnSucceedAttack] Получает 1 [TakeHpHealIncrease:`Повышение восстановления ОЗ`] на следующий ход"
                 }
               ]
             }
@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "Жадное поглощение",
-          "desc": "[WhenUse] Если на цели 5 и более [Burst:`Разрыва`], наносит 2 [DefenseDown:`Понижения уровня защиты`]\nБазовая сила +1 за каждое [TakeHpHealIncrease:`Повышения восстановления <color=#00ff9c>ОЗ</color>`] на себе (До 3)",
+          "desc": "[WhenUse] Если на цели 5 и более [Burst:`Разрыва`], наносит 2 [DefenseDown:`Понижения уровня защиты`]\nБазовая сила +1 за каждое [TakeHpHealIncrease:`Повышения восстановления ОЗ`] на себе (До 3)",
           "coinlist": [
             {
               "coindescs": [
