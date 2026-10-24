@@ -647,7 +647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 3"
@@ -756,7 +756,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 }
               ]
             }
@@ -915,7 +915,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 3"
@@ -1052,7 +1052,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 }
               ]
             }

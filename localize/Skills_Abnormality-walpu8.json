@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если цель имеет [Laceration:`Кровотечение`], наносит ей 2 [PenetrateResistDown:`Понижения сопротивления к Пронзающему урону`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если цель имеет [Laceration:`Кровотечение`], наносит ей 2 [PenetrateResistDown:`Ослабления сопротивления к Пронзающему урону`] на следующий ход"
                 }
               ]
             },
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если цель имеет [Laceration:`Кровотечение`], наносит ей 2 [PenetrateResistDown:`Понижения сопротивления к Пронзающему урону`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Если цель имеет [Laceration:`Кровотечение`], наносит ей 2 [PenetrateResistDown:`Ослабления сопротивления к Пронзающему урону`] на следующий ход"
                 }
               ]
             },
@@ -230,7 +230,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [PenetrateResistDown:`Понижения сопротивления к Пронзающему урону`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [PenetrateResistDown:`Ослабления сопротивления к Пронзающему урону`] на следующий ход"
                 }
               ]
             }

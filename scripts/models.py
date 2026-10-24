@@ -31,6 +31,7 @@ class Reference(msgspec.Struct):
 class KeywordShorthands(msgspec.Struct):
     regex: str
     regex_tuple: str
+    regex_small_hints: str
     apply_for: list[str]
 
 

@@ -396,7 +396,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 3"
@@ -439,7 +439,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 }
               ]
             }
@@ -484,7 +484,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 5 [Laceration:`Кровотечения`] и повышает его счётчик на 3"
@@ -555,7 +555,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Понижение сопротивления к Рубящему урону`] на этот и следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [SlashResistDown:`Ослабление сопротивления к Рубящему урону`] на этот и следующий ход"
                 }
               ]
             }
@@ -795,7 +795,7 @@
         {
           "level": 1,
           "name": "Подрывной сокрущающий разрез【爆碎斬】",
-          "desc": "※ Выбирает целью [Prey_leiheng:`Добычу`](;Prey)\n\n<color=#ff6000><mark=#ff000040><b><u>[nxCenterLine]</u></b></mark></color>\n\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[DefeatDuel] Теряет 10 <color=#80c9ff>СД</color>",
+          "desc": "※ Выбирает целью [Prey_leiheng:`Добычу`](;Prey)\n\n[nxCenterLine]\n\nСила монет +1 за каждые 6 единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на цели (До 3)\n[DefeatDuel] Теряет 10 <color=#80c9ff>СД</color>",
           "coinlist": [
             {
               "coindescs": [

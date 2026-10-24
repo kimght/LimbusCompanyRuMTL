@@ -220,7 +220,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Понижения сопротивления к Гневу`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Ослабления сопротивления к Гневу`] на следующий ход"
                 }
               ]
             }
@@ -249,7 +249,7 @@
                   "desc": "[OnSucceedAttack] Наносит 6 [Combustion:`Огня`] и повышает его счётчик на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Понижения сопротивления к Гневу`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Ослабления сопротивления к Гневу`] на следующий ход"
                 }
               ]
             }

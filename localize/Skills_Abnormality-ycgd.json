@@ -267,7 +267,7 @@
                   "desc": "[OnSucceedAttack] Получает 1 [SlashDamageUp:`Повышение Рубящего урона`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [SlashResistDown:`Понижения сопротивления к Рубящему урону`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`] на следующий ход"
                 }
               ]
             }
@@ -299,7 +299,7 @@
                   "desc": "[OnSucceedAttack] Получает 2 [SlashDamageUp:`Повышения Рубящего урона`] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },
@@ -331,7 +331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },
@@ -405,7 +405,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },

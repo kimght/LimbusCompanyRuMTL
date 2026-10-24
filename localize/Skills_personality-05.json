@@ -727,7 +727,7 @@
         {
           "level": 1,
           "name": "Сосредоточение на учении",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 3)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 3)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков",
           "coinlist": [
             {},
             {
@@ -742,7 +742,7 @@
         {
           "level": 2,
           "name": "Сосредоточение на учении",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">4</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 при 2 и более [KnowledgeExplored:`Откровениях`](#f8c200)\n[WinDuel] Получает 2 [KnowledgeTraining:`Закалки эрудиции`] (Единожды за ход)</style>",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">4</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила в столкновении +1 при 2 и более [KnowledgeExplored:`Откровениях`](#f8c200)\n[WinDuel] Получает 2 [KnowledgeTraining:`Закалки эрудиции`] (Единожды за ход)</style>",
           "coinlist": [
             {},
             {
@@ -757,7 +757,7 @@
         {
           "level": 4,
           "name": "Сосредоточение на учении",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">5</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Сила в столкновении повышается на <style=\"highlight\">(Число своих [KnowledgeExplored:`Откровений`](#f8c200) - 1) (До 2)</style>\n[WinDuel] Получает 2 [KnowledgeTraining:`Закалки эрудиции`] (Единожды за ход)",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">5</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Сила в столкновении повышается на <style=\"highlight\">(Число своих [KnowledgeExplored:`Откровений`](#f8c200) - 1) (До 2)</style>\n[WinDuel] Получает 2 [KnowledgeTraining:`Закалки эрудиции`] (Единожды за ход)",
           "coinlist": [
             {},
             {
@@ -777,7 +777,7 @@
         {
           "level": 1,
           "name": "Час учений",
-          "desc": "[StartBattle] Получает [KnowledgeTraining:`Закалку эрудиции`], равную числу своих [KnowledgeExplored:`Откровений`](#f8c200)\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков",
+          "desc": "[StartBattle] Получает [KnowledgeTraining:`Закалку эрудиции`], равную числу своих [KnowledgeExplored:`Откровений`](#f8c200)\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков",
           "coinlist": [
             {},
             {
@@ -792,7 +792,7 @@
         {
           "level": 2,
           "name": "Час учений",
-          "desc": "<style=\"highlight\">Наносит на 3% больше урона за каждое [KnowledgeExplored:`Откровение`](#f8c200) (До 9%)</style>\n[StartBattle] <style=\"highlight\">Мерсо и случайная Идентичность</style> получают [KnowledgeTraining:`Закалку эрудиции`], равную числу [KnowledgeExplored:`Откровений`](#f8c200) Мерсо <style=\"highlight\">(В приоритете Идентичности с наименьшим числом [KnowledgeTraining:`Закалки эрудиции`], использующие [Discard:`Сбрoс навыков`])</style>\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Sinking:`Утопания`]</style>",
+          "desc": "<style=\"highlight\">Наносит на 3% больше урона за каждое [KnowledgeExplored:`Откровение`](#f8c200) (До 9%)</style>\n[StartBattle] <style=\"highlight\">Мерсо и случайная Идентичность</style> получают [KnowledgeTraining:`Закалку эрудиции`], равную числу [KnowledgeExplored:`Откровений`](#f8c200) Мерсо <style=\"highlight\">(В приоритете Идентичности с наименьшим числом [KnowledgeTraining:`Закалки эрудиции`], использующие [Discard:`Сбрoс навыков`])</style>\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Sinking:`Утопания`]</style>",
           "coinlist": [
             {},
             {
@@ -807,7 +807,7 @@
         {
           "level": 4,
           "name": "Час учений",
-          "desc": "Наносит на <style=\"highlight\">5%</style> больше урона за каждое [KnowledgeExplored:`Откровение`](#f8c200) (До <style=\"highlight\">15%</style>)\n[StartBattle] Мерсо <style=\"highlight\">и 2 случайных</style> Идентичности получают [KnowledgeTraining:`Закалку эрудиции`], равную числу [KnowledgeExplored:`Откровений`](#f8c200) Мерсо (В приоритете Идентичности с наименьшим числом [KnowledgeTraining:`Закалки эрудиции`], использующие [Discard:`Сбрoс навыков`])\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Sinking:`Утопания`]</style> на цели <style=\"highlight\"><nobr>(До 2)</nobr></style>",
+          "desc": "Наносит на <style=\"highlight\">5%</style> больше урона за каждое [KnowledgeExplored:`Откровение`](#f8c200) (До <style=\"highlight\">15%</style>)\n[StartBattle] Мерсо <style=\"highlight\">и 2 случайных</style> Идентичности получают [KnowledgeTraining:`Закалку эрудиции`], равную числу [KnowledgeExplored:`Откровений`](#f8c200) Мерсо (В приоритете Идентичности с наименьшим числом [KnowledgeTraining:`Закалки эрудиции`], использующие [Discard:`Сбрoс навыков`])\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка по возрастанию их [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 6 [Sinking:`Утопания`]</style> на цели <style=\"highlight\"><nobr>(До 2)</nobr></style>",
           "coinlist": [
             {},
             {
@@ -864,7 +864,7 @@
         {
           "level": 1,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков",
           "coinlist": [
             {
               "coindescs": [
@@ -878,7 +878,7 @@
         {
           "level": 4,
           "name": "Погружение в поиск",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 6 [Aggro:`Провокации`] на следующий ход</style>",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n<style=\"highlight\">[WhenUse] Слот с этим навыком получает 6 [Aggro:`Провокации`] на следующий ход</style>",
           "coinlist": [
             {
               "coindescs": [

@@ -534,7 +534,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [PenetrateResistDown:`Понижение сопротивления к Пронзающему урону`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [PenetrateResistDown:`Ослабление сопротивления к Пронзающему урону`] на следующий ход"
                 }
               ]
             }

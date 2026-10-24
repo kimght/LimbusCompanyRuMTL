@@ -59,7 +59,7 @@
         {
           "level": 1,
           "name": "Тяжесть знаний",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 5)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 5)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {},
             {},
@@ -76,7 +76,7 @@
         {
           "level": 2,
           "name": "Тяжесть знаний",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">8</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">8</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">3</style> [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {},
             {},
@@ -93,7 +93,7 @@
         {
           "level": 4,
           "name": "Тяжесть знаний",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">10</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила в столкновении +2 против целей с 5 и более [Sinking:`Утопания`]</style>",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">10</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] навык низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила в столкновении +2 против целей с 5 и более [Sinking:`Утопания`]</style>",
           "coinlist": [
             {},
             {},
@@ -115,7 +115,7 @@
         {
           "level": 3,
           "name": "Болезненное просвещение",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 15)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × 15)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`] 2 навыка низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 3 [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -138,7 +138,7 @@
         {
           "level": 4,
           "name": "Болезненное просвещение",
-          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">20</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`]</link></u></color> 2 навыка низшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 7 и более [Sinking:`Утопания`]</style>",
+          "desc": "※ При [Discard:`Сбросе`] этого навыка получает <color=#366ffb>OЗ Щита</color>, равные (Число своих [KnowledgeExplored:`Откровений`](#f8c200) × <style=\"highlight\">20</style>)% от максимальных <color=#00ff9c>ОЗ</color>\n\n[WhenUse] [Discard:`Сбрасывает`]</link></u></color> 2 навыка низшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 7 и более [Sinking:`Утопания`]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -166,7 +166,7 @@
         {
           "level": 3,
           "name": "Погружённость в познания",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает 2 [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -174,7 +174,7 @@
         {
           "level": 4,
           "name": "Погружённость в познания",
-          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего <link=\"MDcFcBe\"><u>Р</u>анга</link> из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход",
+          "desc": "[WhenUse] [Discard:`Сбрасывает`] навык высшего [@Hint(MDcFcBe):`Ранга`] из своих слотов навыков\n[WhenUse] Слот с этим навыком получает <style=\"highlight\">5</style> [Aggro:`Провокации`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -3718,7 +3718,7 @@
                   "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [AmberResistDown:`Понижение сопротивления к Лености`] (Единожды за ход)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [AmberResistDown:`Ослабление сопротивления к Лености`] (Единожды за ход)</style>"
                 }
               ]
             }

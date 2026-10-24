@@ -18,7 +18,7 @@ from .assets import (
 from .json_data import JsonObject, load_document, object_list
 from .models import Config
 from .story import load_story_entities, translate_rpg, translate_story
-from .text import FontConverter, close_highlights, convert_keywords, convert_illegal_square_brackets
+from .text import FontConverter, close_highlights, convert_keywords, convert_small_hints, convert_illegal_square_brackets
 
 LOCALIZATION_PATH = Path("localize")
 STORY_PATH = Path("story")
@@ -79,6 +79,7 @@ def build(
     keyword_colors = load_keyword_colors(keyword_colors_path)
     keyword_regex = re.compile(config.keyword_shorthands.regex)
     keyword_tuple_regex = re.compile(config.keyword_shorthands.regex_tuple)
+    small_hints_regex = re.compile(config.keyword_shorthands.regex_small_hints)
     illegal_square_brackets_tweak_regex = re.compile(config.illegal_square_brackets_tweak.regex)
     entities = load_story_entities(story_path / "entities")
     output_path.mkdir(parents=True, exist_ok=True)
@@ -124,6 +125,7 @@ def build(
         if matches_any(relative_path, config.keyword_shorthands.apply_for):
             _ = convert_keywords(localized, keyword_colors, keyword_regex, converting_tuple=False)
             _ = convert_keywords(localized, keyword_colors, keyword_tuple_regex, converting_tuple=True)
+            _ = convert_small_hints(localized, small_hints_regex)
         for rule in config.close_highlight:
             if fnmatch.fnmatch(relative_path.as_posix(), rule.file_pattern):
                 close_highlights(localized, rule)

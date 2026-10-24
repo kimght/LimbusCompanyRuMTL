@@ -174,6 +174,32 @@ def convert_keywords(
 
 
 
+def replace_small_hints(
+    text: str,
+    hints_pattern: re.Pattern[str]
+) -> str:
+    def replacement(match: re.Match[str]) -> str:
+        keyword_id = match.group("keyword_id")
+        label = match.group("text")
+        return f'<link=\"{keyword_id}\"><u>{label[0]}</u>{label[1:]}</link>'
+    return hints_pattern.sub(replacement, text)
+
+def convert_small_hints(
+    data: JsonValue,
+    hints_pattern: re.Pattern[str]
+) -> JsonValue:
+    if isinstance(data, dict):
+        for key, value in data.items():
+            data[key] = convert_small_hints(value, hints_pattern)
+    elif isinstance(data, list):
+        for index, value in enumerate(data):
+            data[index] = convert_small_hints(value, hints_pattern)
+    elif isinstance(data, str):
+        return replace_small_hints(data, hints_pattern)
+    return data
+
+
+
 def replace_illegal_square_brackets(
     text: str,
     tweak_pattern: re.Pattern[str],

@@ -232,7 +232,7 @@
           "level": 1,
           "name": "Слепая одержимость",
           "abName": "Мутный поток, пожирающий \n<cspace=-1px>сновидения</cspace>",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -247,7 +247,7 @@
           "level": 3,
           "name": "Слепая одержимость",
           "abName": "Мутный поток, пожирающий \n<cspace=-1px>сновидения</cspace>",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -262,7 +262,7 @@
           "level": 4,
           "name": "Слепая одержимость",
           "abName": "Мутный поток, пожирающий \n<cspace=-1px>сновидения</cspace>",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 4 [Breath:`Дыхания`]\n[BeforeAttack] Тратит по 2 единицы счётчика [Charge:`Заряда`] для получения 1 [Breath:`Дыхания`] (До 10 [Breath:`Дыхания`])\n[EndBattle] Повышает счётчик своего [Charge:`Заряда`] на 4 за каждого противника, убитого этим ЭГО навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -338,7 +338,7 @@
           "level": 1,
           "name": "Презрение, трепет",
           "abName": "Спираль презрения",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -359,7 +359,7 @@
           "level": 3,
           "name": "Презрение, трепет",
           "abName": "Спираль презрения",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -380,7 +380,7 @@
           "level": 4,
           "name": "Презрение, трепет",
           "abName": "Спираль презрения",
-          "desc": "[CantIdentify] (Случайная цель)\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]\n<style=\"highlight\">[EndSkill] Если этот навык является частью резонанса <color=#fe6f01>Похоти</color>, то добавляет по 1 ЭГО Ресурсу к грехам всех Атакующих навыков текущей Идентичности Рёшу</style>",
+          "desc": "[CantIdentify] (Случайная цель)\n\n[BeforeAttack] Получает 7 [GazePersonality:`Взора презрения`]\n<style=\"highlight\">[EndSkill] Если этот навык является частью резонанса <color=#fe6f01>Похоти</color>, то добавляет по 1 ЭГО Ресурсу к грехам всех Атакующих навыков текущей Идентичности Рёшу</style>",
           "coinlist": [
             {
               "coindescs": [

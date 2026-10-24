@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Понижения сопротивления к Гневу`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Ослабления сопротивления к Гневу`] на следующий ход"
                 }
               ]
             }
@@ -65,7 +65,7 @@
                   "desc": "[OnSucceedAttack] Наносит 6 [Combustion:`Огня`] и повышает его счётчик на 4"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Понижения сопротивления к Гневу`] на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [CrimsonResistDown:`Ослабления сопротивления к Гневу`] на следующий ход"
                 }
               ]
             }
@@ -796,7 +796,7 @@
         {
           "level": 1,
           "name": "Пожалуйста, не сопротивляйтесь и будьте раздавлены насмерть",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[nxCenterLine]</u></b></mark></color>\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
+          "desc": "[nxCenterLine]\n\n[DefeatDuel] Получает 3 [ResultReduction:`Понижения силы`] и 4 [Paralysis:`Паралича`]\n[DefeatDuel] Наносит на 90% меньше урона, а также не может Оглушить цель или активировать эффект [Sinking:`Утопания`] при попадании\n[EndSkill] Теряет все [PressureOfPrescript:`Узы ответственности`]",
           "coinlist": [
             {
               "coindescs": [

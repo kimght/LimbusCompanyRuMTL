@@ -792,14 +792,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [HitResistDown:`Понижение сопротивления к Дробящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [HitResistDown:`Ослабление сопротивления к Дробящему урону`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [HitResistDown:`Понижение сопротивления к Дробящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [HitResistDown:`Ослабление сопротивления к Дробящему урону`]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Наносит 1 [DefenseDown:`Понижение уровня защиты`] на следующий ход"

@@ -550,7 +550,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 6% <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает 6% <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют [@Hint(ATL_Breath):`Базовых`] Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
                   "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Идентичностям"
                 },
                 {
@@ -575,7 +575,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">8%</style> <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">8%</style> <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют [@Hint(ATL_Breath):`Базовых`] Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
                   "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Идентичностям"
                 },
                 {
@@ -603,7 +603,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">10%</style> <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют <link=\"ATL_Breath\"><u>Б</u>азовых</link> Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <style=\"highlight\">10%</style> <color=#00ff9c>ОЗ</color> двум Идентичностям с наименьшим процентом текущих <color=#00ff9c>ОЗ</color> (Единожды за навык)\n- Игнорирует при этом тех Идентичностей, которые не имеют [@Hint(ATL_Breath):`Базовых`] Атакующих навыков с грехом <color=#9808de>Зависти</color> (Не учитывая себя)",
                   "summary": "[UnBrokenCoinOnSucceedAttack] Восстанавливает <color=#00ff9c>ОЗ</color> Идентичностям"
                 },
                 {

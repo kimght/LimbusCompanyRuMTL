@@ -2,27 +2,33 @@
   "dataList": [
     {
       "id": "resist_weak",
-      "content": "Фатал."
+      "content": "<nobr>Фатал.</nobr>",
+      "":        "∈(1.75;2.0]  / Fatal"
     },
     {
       "id": "resist_vulnerable",
-      "content": "Слаб."
+      "content": "<nobr>Слаб.</nobr>",
+      "":        "∈(1.0;1.75]  / Weak"
     },
     {
       "id": "resist_normal",
-      "content": "Нейтр."
+      "content": "<nobr>Нейтр.</nobr>",
+      "":        "∈[1.0;1.0]   / Normal"
     },
     {
       "id": "resist_endure",
-      "content": "Уст."
+      "content": "<nobr>Устойч.</nobr>",
+      "":        "∈(1.0;0.75]  / Endure"
     },
     {
       "id": "resist_resist",
-      "content": "Сопр."
+      "content": "<nobr>Сильн.</nobr>",
+      "":        "∈(0.75;0.2] / Ineff.  (Не уверен про 0.2)"
     },
     {
       "id": "resist_immune",
-      "content": "Иммун."
+      "content": "<nobrИммун.</nobr>",
+      "":        "∈(0.2;0.0]  / Immune  (Не уверен про 0.2)"
     }
   ]
 }

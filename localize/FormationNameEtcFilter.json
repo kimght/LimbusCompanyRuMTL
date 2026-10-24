@@ -135,6 +135,18 @@
     {
       "id": "formation_name_filter_Etc_DISCARD_SKILL",
       "content": "Сброс"
+    },
+    {
+      "id": "formation_name_filter_Etc_SISYPHE",
+      "content": "Сизиф"
+    },
+    {
+      "id": "formation_name_filter_Etc_LE_ROUGE",
+      "content": "Ле Руж"
+    },
+    {
+      "id": "formation_name_filter_Etc_LE_NOIR",
+      "content": "Ле Нуар"
     }
   ]
 }

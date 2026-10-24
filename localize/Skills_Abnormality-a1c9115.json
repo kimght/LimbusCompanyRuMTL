@@ -30,7 +30,7 @@
                   "desc": "[OnSucceedAttack] Получает 2 [SlashDamageUp:`Повышения Рубящего урона`] на следующий ход"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 2 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },
@@ -68,7 +68,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },
@@ -113,7 +113,7 @@
                   "desc": "[SuperCoin:`Вечная монета`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Понижения сопротивления к Рубящему урону`]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [SlashResistDown:`Ослабления сопротивления к Рубящему урону`]"
                 }
               ]
             },
