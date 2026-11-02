@@ -7600,7 +7600,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "КП",
+          "name": "К.П.",
           "desc": "",
           "coinlist": [
             {
@@ -7621,7 +7621,7 @@
         },
         {
           "level": 2,
-          "name": "КП",
+          "name": "К.П.",
           "desc": "",
           "coinlist": [
             {
@@ -7642,7 +7642,7 @@
         },
         {
           "level": 4,
-          "name": "КП",
+          "name": "К.П.",
           "desc": "",
           "coinlist": [
             {
@@ -7668,7 +7668,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "ОзИ",
+          "name": "О.З.И.",
           "desc": "",
           "coinlist": [
             {
@@ -7696,7 +7696,7 @@
         },
         {
           "level": 2,
-          "name": "ОзИ",
+          "name": "О.З.И.",
           "desc": "",
           "coinlist": [
             {
@@ -7724,7 +7724,7 @@
         },
         {
           "level": 4,
-          "name": "ОзИ",
+          "name": "О.З.И.",
           "desc": "<style=\"highlight\">[WhenUse] Получает 1 [Thirst:`Аппетит`]</style>",
           "coinlist": [
             {
@@ -7791,7 +7791,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Св. ин. в поле зрения",
+          "name": "Г.И. в поле зрения",
           "desc": "",
           "coinlist": [
             {
