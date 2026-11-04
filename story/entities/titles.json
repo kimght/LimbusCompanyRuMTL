@@ -4328,5 +4328,20 @@
     "original": "The Crimson God",
     "translation": "Багряный Бог",
     "model": "싱클레어"
+  },
+  {
+    "original": "Public Address Room",
+    "translation": "Комната Оповещения",
+    "model": "황금빛 테이프"
+  },
+  {
+    "original": "Le Noir Public Address Room",
+    "translation": "Комната Оповещения Ле Нуар",
+    "model": "홍루"
+  },
+  {
+    "original": "Le Rouge",
+    "translation": "Ле Руж",
+    "model": "히스클리프"
   }
 ]
