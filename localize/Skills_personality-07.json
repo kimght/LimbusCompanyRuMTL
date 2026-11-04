@@ -3146,6 +3146,433 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Бла-бла-шов-бла, яп-яп-утóк-яп",
+          "desc": "[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 5, то тратит (5 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge))% <color=#00ff9c>ОЗ</color> для его повышения до 5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 4"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Бла-бла-шов-бля, яп-яп-утóк-яп",
+          "desc": "<style=\"highlight\">Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr></style>\n[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 5, то тратит (5 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge))% <color=#00ff9c>ОЗ</color> для его повышения до 5\n<style=\"highlight\">[WhenUse] При каждом попадании этим навыком наносит цели дополнительный Пронзающий урон, равный (Количество имеющихся [NeedlekinAlly:`Иглолюдов`])% от итогового урона попавшей монеты</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 4"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]</style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Бла-бла-шов-бла, яп-яп-утóк-яп",
+          "desc": "Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr>\n[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 5, то тратит (5 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge))% <color=#00ff9c>ОЗ</color> для его повышения до 5\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] При каждом попадании этим навыком наносит цели дополнительный Пронзающий урон, равный (Количество имеющихся [NeedlekinAlly:`Иглолюдов`])% от итогового урона попавшей монеты",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 4"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Laceration:`Кровотечения`] на 3"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Шов! Через! Дюйм!",
+          "desc": "[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 10, то тратит (2 × (10 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge)))% <color=#00ff9c>ОЗ</color> для его повышения до 10\n[WhenUse] Тратит 7 единиц счётчика своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge), чтобы получить +2 к Итоговой силе",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Шов! Через! Дюйм!",
+          "desc": "<style=\"highlight\">Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr></style>\n[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 10, то тратит (2 × (10 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge)))% <color=#00ff9c>ОЗ</color> для его повышения до 10\n[WhenUse] Тратит 7 единиц счётчика своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge), чтобы получить +2 к Итоговой силе\n<style=\"highlight\">[WhenUse] При каждом попадании этим навыком наносит цели дополнительный Пронзающий урон, равный (Количество имеющихся [NeedlekinAlly:`Иглолюдов`])% от итогового урона попавшей монеты</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]</style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Шов! Через! Дюйм!",
+          "desc": "Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr>\n[WhenUse] Если счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) ниже 10, то тратит (2 × (10 - Текущий счётчик [ChargeRougeAlly:`Пульсации`](;ChargeRouge)))% <color=#00ff9c>ОЗ</color> для его повышения до 10\n[WhenUse] Тратит 7 единиц счётчика своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge), чтобы получить +2 к Итоговой силе\n<style=\"highlight\">[WhenUse] Сила монет +1 против целей с 6 и более [Laceration:`Кровотечения`]</style>\n[WhenUse] При каждом попадании этим навыком наносит цели дополнительный Пронзающий урон, равный (Количество имеющихся [NeedlekinAlly:`Иглолюдов`])% от итогового урона попавшей монеты",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]"
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Говоришь, стёжки слишком заметны?! Да я тебе жопу вспушкой зашью!",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона (В фокусированных битвах считаются Части)\n[WhenUse] Количество целей +1 за каждые 15 [NiddlePinGather:`Мелких острых игл`](;NiddleExpected) (До 2; теряет по 15 [NiddlePinGather:`Мелких острых игл`](;NiddleExpected) в конце атаки за каждую дополнительную цель от этого эффекта)\n[WhenUse] Тратит до 20 единиц счётчика своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) для следующих эффектов:\n- Сила монет +1 за каждые 7 потраченных единиц (До 2)\n- Наносит на (Потраченный счётчик × 20)% больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 5 и более [NiddlePinAlly:`Гвоздигл`](;NiddlePin), то тратит 5 [NiddlePinAlly:`Гвоздигла`](;NiddlePin) с неё и наносит [NiddlePinnedAlly:`Таксидермированность`](;NiddlePinned) на следующий ход"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Говоришь, стёжки слишком заметны?! Да я тебе жопу вспушкой зашью!",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона (В фокусированных битвах считаются Части)\n<style=\"highlight\">Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr></style>\n[WhenUse] Количество целей +1 за каждые 15 [NiddlePinGather:`Мелких острых игл`](;NiddleExpected) (До 2; теряет по 15 [NiddlePinGather:`Мелких острых игл`](;NiddleExpected) в конце атаки за каждую дополнительную цель от этого эффекта)\n[WhenUse] Тратит до 20 единиц счётчика своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) для следующих эффектов:\n- Сила монет +1 за каждые 7 потраченных единиц (До 2)\n- Наносит на (Потраченный счётчик × 20)% больше урона",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [PenetrateTakeDamageUp:`Уязвимость к Пронзающему урону`] на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель имеет 5 и более [NiddlePinAlly:`Гвоздигл`](;NiddlePin), то тратит 5 [NiddlePinAlly:`Гвоздигла`](;NiddlePin) с неё и наносит [NiddlePinnedAlly:`Таксидермированность`](;NiddlePinned) на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Гннннгх...",
+          "desc": "[DuelCounter]\n[StartBattle] Теряет 20% <color=#00ff9c>ОЗ</color> и получает 1 [Enhancement:`Повышение силы атаки`] на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Гннннгх...",
+          "desc": "[DuelCounter]\n<style=\"highlight\">Итоговая сила +1 за каждые 2 единицы силы своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) <nobr>(До 2)</nobr></style>\n[StartBattle] Теряет 20% <color=#00ff9c>ОЗ</color>, чтобы получить 1 [Enhancement:`Повышение силы атаки`] на следующий ход <style=\"highlight\">и повысить в нём счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 5</style> (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071705,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "Двойной шов за боковым швом? Двойная игла! Отклонено!",
+          "desc": "※ Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\n[WhenUse] При каждом попадании этим навыком восстанавливает себе 8% <color=#00ff9c>ОЗ</color>\n[WhenUse] Тратит всех [NeedlekinAlly:`Иглолюдов`]\n[WhenUse] Даёт 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] себе и двум другим случайным Идентичностям на следующий ход (В приоритете Идентичности «Ле Руж» по возрастанию их номера в команде)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [NiddlePinAlly:`Гвоздиглы`](;NiddlePin)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

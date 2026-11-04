@@ -55,6 +55,10 @@
     {
       "id": "settings_battle_effect_gate",
       "content": "Скрыть объекты Идентичностей/ЭГО в сюжетно-важных битвах"
+    },
+    {
+      "id": "exp_dungeon_10_open_condition",
+      "content": "Пройдите 9.5-26 и 10-4"
     }
   ]
 }

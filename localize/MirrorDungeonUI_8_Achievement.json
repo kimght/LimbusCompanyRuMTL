@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "mirrordungeon8_mission_date",
+      "content": "Награды можно получить до выхода 9-го Зеркального подземелья"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_COLLECTION",
+      "content": "Коллекционирование"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_CLEAR",
+      "content": "Прохождение"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_DECK",
+      "content": "Команды"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_SHOP",
+      "content": "Магазин"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_BATTLE",
+      "content": "Бои"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_EXTREME",
+      "content": "Совершенные испытания (ЭКСТРИМ)"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_ALL",
+      "content": "Завершение"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_HIDDEN",
+      "content": "Скрытые"
+    }
+  ]
+}

@@ -183,5 +183,6 @@ singular_keywords = [
   "style",
   "align",
   "size",
-  "line-height"
+  "line-height",
+  "pos"
 ]

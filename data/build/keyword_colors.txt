@@ -1586,3 +1586,13 @@ BuffetFriendShield ¤ #a16a3b
 BuffetThirst ¤ #f8c200
 RougeFamilySinclair ¤ #f8c200
 SewingKingMark ¤ #e30000
+NiddlePinGather ¤ #a16a3b
+NiddlePinAlly ¤ #e30000
+NiddlePinnedAlly ¤ #e30000
+NeedlekinAlly ¤ #f8c200
+HowlingCocoonAlly ¤ #f8c200
+HowlingCocoonTwoAlly ¤ #f8c200
+NoirBindArmorAlly ¤ #f8c200
+ReadyToListenHonglu ¤ #f8c200
+TimeToListenHonglu ¤ #f8c200
+WarinessHonglu ¤ #e30000

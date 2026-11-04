@@ -3671,6 +3671,346 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пожалуйста, слушайте меня",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Пожалуйста, слушайте меня",
+          "desc": "<style=\"highlight\">[WhenUse] Тратит каждые 3 единицы счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 6), чтобы получить +1 к Силе монет за каждые 3 потраченных единицы (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">3</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Пожалуйста, слушайте меня",
+          "desc": "<style=\"highlight\">Наносит на 5% больше урона за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 10%)</style>\n[WhenUse] Тратит каждые 3 единицы счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 6), чтобы получить +1 к Силе монет за каждые 3 потраченных единицы (До 2)\n<style=\"highlight\">[EndSkillAll] Если счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) ниже 10, то повышает его на 3</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">3</style> [Vibration:`Тремора`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Повторение за повторением",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если есть [TimeToListenHonglu:`Время для слушания`], то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [WarinessHonglu:`Слуховое наказание`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [AmberResistDown:`Ослабление сопротивления к Лености`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Повторение за повторением",
+          "desc": "<style=\"highlight\">[WhenUse] Тратит каждые 3 единицы счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 6), чтобы получить +1 к Силе монет за каждые 3 потраченных единицы (До 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на <style=\"highlight\">3</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если есть [TimeToListenHonglu:`Время для слушания`], то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [WarinessHonglu:`Слуховое наказание`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [AmberResistDown:`Ослабление сопротивления к Лености`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Повторение за повторением",
+          "desc": "<style=\"highlight\">Наносит на 10% больше урона за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 20%)</style>\n[WhenUse] Тратит каждые 3 единицы счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 6), чтобы получить +1 к Силе монет за каждые 3 потраченных единицы (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на <style=\"highlight\">3</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">5</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если есть [TimeToListenHonglu:`Время для слушания`], то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [WarinessHonglu:`Слуховое наказание`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 3 урона по <color=#80c9ff>СД</color>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [AmberResistDown:`Ослабление сопротивления к Лености`] <style=\"highlight\">на этот и</style> следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ужасно бесконечный повтор",
+          "desc": "Наносит на 10% больше урона за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 30%)\n[WhenUse] Получает (Сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) × 2) [NoirBindArmorAlly:`Камвольной ткани Ле Нуар`] (До 10)\n[WhenUse] Тратит каждые 5 единиц счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 15), чтобы получить +1 к Силе монет за каждые 5 потраченных единиц (До 3)\n[EndSkill] Если не имеет [TimeToListenHonglu:`Времени для слушания`], то получает 1 [ReadyToListenHonglu:`Готовность рассказывать`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если есть [TimeToListenHonglu:`Время для слушания`], то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [WarinessHonglu:`Слуховое наказание`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный урон <color=#fed133>Леностью</color>, равный 20% от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ужасно бесконечный повтор",
+          "desc": "Наносит на 10% больше урона за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 30%)\n[WhenUse] Получает (Сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) × <style=\"highlight\">3</style>) [NoirBindArmorAlly:`Камвольной ткани Ле Нуар`] (До <style=\"highlight\">15</style>)\n[WhenUse] Тратит каждые 5 единиц счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 15), чтобы получить +1 к Силе монет за каждые 5 потраченных единиц (До 3)\n[EndSkill] Если не имеет [TimeToListenHonglu:`Времени для слушания`], то получает 1 [ReadyToListenHonglu:`Готовность рассказывать`] (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если есть [TimeToListenHonglu:`Время для слушания`], то вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Если сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) равна 2 и более, то [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [WarinessHonglu:`Слуховое наказание`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 5 урона по <color=#80c9ff>СД</color>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный урон <color=#fed133>Леностью</color>, равный <style=\"highlight\">30%</style> от итогового урона этой монеты"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Объявление для клиентов",
+          "desc": "[DuelCounter]\n[StartBattle] Если не имеет [SupportProtect:`Вспомогательной защиты`], то получает 1 [SupportProtect:`Вспомогательную защиту`]\n[WhenUse] Получает (Сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir)) [NoirBindArmorAlly:`Камвольной ткани Ле Нуар`] (До 5)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Объявление для клиентов",
+          "desc": "[DuelCounter]\n<style=\"highlight\">Наносит на 25% больше урона за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 75%)</style>\n[StartBattle] Если не имеет [SupportProtect:`Вспомогательной защиты`], то получает 1 [SupportProtect:`Вспомогательную защиту`]\n<style=\"highlight\">[BeforeUse] Если имеет [TimeToListenHonglu:`Время для слушания`], то использует свой третий навык <color=#fed133>「Ужасно бесконечный повтор[TabExplain]」</color> вместо этого (Единожды за битву (Лимит сбрасывается каждый раз, когда значение [ReadyToListenHonglu:`Готовности рассказывать`] достигает 2 и она превращается во [TimeToListenHonglu:`Время для слушания`]))\n[WhenUse] Сила монет +1 за каждые 3 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 2)</style>\n[WhenUse] Получает (Сила своей [ChargeNoirAlly:`Презервации`](;ChargeNoir)<style=\"highlight\"> × 3</style>) [NoirBindArmorAlly:`Камвольной ткани Ле Нуар`] (До <style=\"highlight\">15</style>)\n[WhenUse] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) на <style=\"highlight\">4</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Предупредительное объявление",
+          "desc": "<b>Спецальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[CanDuelGuard:`Блок столкновением`]\n[WhenUse] Тратит 6 единиц счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir), чтобы получить 1 [SupportProtect:`Вспомогательную защиту`] на следующий ход (Единожды за ход)\n[WhenUse] Если не имеет [TimeToListenHonglu:`Времени для слушания`], то получает 1 [ReadyToListenHonglu:`Готовность рассказывать`] (Единожды за ход)\n[WinDuel] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) <nobr>на 2</nobr>\n[WinDuel] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Предупредительное объявление",
+          "desc": "<b>Спецальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[CanDuelGuard:`Блок столкновением`]\n<style=\"highlight\">Итоговая сила +1 за каждые 2 единицы силы своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) (До 3)</style>\n[WhenUse] Тратит 6 единиц счётчика своей [ChargeNoirAlly:`Презервации`](;ChargeNoir), чтобы получить 1 [SupportProtect:`Вспомогательную защиту`] на следующий ход (Единожды за ход)\n[WhenUse] Если не имеет [TimeToListenHonglu:`Времени для слушания`], то получает 1 [ReadyToListenHonglu:`Готовность рассказывать`] (Единожды за ход)\n[WinDuel] Повышает счётчик своей [ChargeNoirAlly:`Презервации`](;ChargeNoir) <nobr>на <style=\"highlight\">4</style></nobr>\n[WinDuel] [VibrationExplosion:`Провоцирует Тремор`] цели и понижает его счётчик на 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
