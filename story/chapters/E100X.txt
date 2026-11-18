@@ -212,7 +212,7 @@
 Фауст: .......
 
 # Faust: Deducing from the previously observed information and the visual evidence before us, it can be presumed that we have entered the deepest floor of an entity previously designated Impuritas Civitatis: The Library. To be more precise, we are now on its lowest floor, designated "The Floor of History."
-Фауст: Исходя из ранее полученных сведений и того, что мы наблюдаем перед собой, можно заключить, что мы оказались на самом глубинном ярусе объекта, прежде классифицированного как Impuritas Civitatis: Библиотеки. А если точнее, сейчас мы находимся на её самом нижнем этаже, именуемом «Этажом Истории».
+Фауст: Исходя из ранее полученных сведений и того, что мы наблюдаем перед собой, можно заключить, что мы оказались на самом глубинном ярусе объекта, прежде классифицированного как <i>Импуритас Цивитатис</i>: Библиотеки. А если точнее, сейчас мы находимся на её самом нижнем этаже, именуемом «Этажом Истории».
 
 # Yi Sang: Hmmm... Thus we arrive at the Library at last.
 И Сан: Хм-м... Стало быть, мы наконец достигли самой Библиотеки.
@@ -341,7 +341,7 @@
 Дон Кихот: Свершилось!..
 
 # Salvador: Ah. These people seem rather glad to receive us, unlike Angela.
-Сальвадор: О. Похоже, здесь нам рады куда больше, чем Анжела.
+Сальвадор: О. Эти люди, похоже, рады нас видеть куда больше, чем Анджела.
 
 # Philip: Master...! Maybe we should keep a little more distance—
 Филипп: Учитель!.. Может, нам стоит держаться чуть подальше...
