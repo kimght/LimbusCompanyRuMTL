@@ -4343,5 +4343,25 @@
     "original": "Le Rouge",
     "translation": "Ле Руж",
     "model": "히스클리프"
+  },
+  {
+    "original": "Patron Librarian of the Floor of History",
+    "translation": "Главный библиотекарь Этажа Истории",
+    "model": "말쿠트"
+  },
+  {
+    "original": "Wedge Office Fixer",
+    "translation": "Корректировщик Офиса Клина",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Wedge Office Fixer",
+    "translation": "Корректировщик Офиса Клина",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Wedge Office Rep",
+    "translation": "Представитель Офиса Клина",
+    "model": "오티스"
   }
 ]
