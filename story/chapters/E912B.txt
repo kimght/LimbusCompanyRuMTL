@@ -1,521 +1,521 @@
-﻿# Original: After leaving Rien's quarters, we explored the Index's Corridor for a while...
+﻿# Narrator: After leaving Rien's quarters, we explored the Index's Corridor for a while...
 Narrator: Покинув покои Риена, мы некоторое время исследовали Коридор Указательного...
 
-# Original: ... but didn't find anything that could help piece Ryōshū's memories back together.
+# Narrator: ... but didn't find anything that could help piece Ryōshū's memories back together.
 Narrator: ... но не нашли ничего, что могло бы помочь собрать воедино воспоминания Рёшу.
 
-# Original: Great work. Now that leaves just the Pinky Nursefather's Corridor...
+# Alan: Great work. Now that leaves just the Pinky Nursefather's Corridor...
 Alan: Отличная работа. Теперь остался только Коридор Отца-воспитателя Мизинца...
 
-# Original: ... But that room didn't have any Backdoors for us to explore. There were countless more in the adjacent Corridor, but our guideline makes it a bit difficult to delve into each and every one of them right away.
+# Alan: ... But that room didn't have any Backdoors for us to explore. There were countless more in the adjacent Corridor, but our guideline makes it a bit difficult to delve into each and every one of them right away.
 Alan: ... Но в той комнате не было никаких Задних дверей, которые мы могли бы исследовать. В соседнем Коридоре их было бесчисленное множество, но наши инструкции немного затрудняют немедленное погружение в каждую из них.
 
-# Original: Which means that our work here is done. Thank you for your assistance, Dante.
+# Alan: Which means that our work here is done. Thank you for your assistance, Dante.
 Alan: А значит, наша работа здесь окончена. Спасибо за ваше содействие, Данте.
 
-# Original: <Ah, okay... Glad we could help.>
+# Dante: <Ah, okay... Glad we could help.>
 Dante: <А, хорошо... Рад, что мы смогли помочь.>
 
-# Original: Dante replies they're happy to have been of assistance.
+# Faust: Dante replies they're happy to have been of assistance.
 Faust: Данте отвечает, что он рад был оказать содействие.
 
-# Original: Well, then. It's been a pleasure.
+# Alan: Well, then. It's been a pleasure.
 Alan: Что ж. Было очень приятно.
 
-# Original: After a brief round of handshakes, Alan returned to the forward base.
+# Narrator: After a brief round of handshakes, Alan returned to the forward base.
 Narrator: После короткого обмена рукопожатиями Алан вернулся на передовую базу.
 
-# Original: We probably should've done the same, but...
+# Narrator: We probably should've done the same, but...
 Narrator: Нам, наверное, следовало бы сделать то же самое, но...
 
-# Original: <Wanna take a look around here anyway?>
+# Dante: <Wanna take a look around here anyway?>
 Dante: <Хотите всё равно тут осмотреться?>
 
-# Original: ... Sure.
+# Ryōshū: ... Sure.
 Ryōshū: ... Конечно.
 
-# Original: ... as we had more business here than simply checking the doors, we decided to stay a little longer and investigate the Pinky's Corridor.
+# Narrator: ... as we had more business here than simply checking the doors, we decided to stay a little longer and investigate the Pinky's Corridor.
 Narrator: ... поскольку у нас здесь были дела поважнее, чем просто проверка дверей, мы решили задержаться ещё ненадолго и исследовать Коридор Мизинца.
 
-# Original: The Pinky Nursefather's room had a... peculiar structure.
+# Narrator: The Pinky Nursefather's room had a... peculiar structure.
 Narrator: Комната Отца-воспитателя Мизинца имела... специфическое строение.
 
-# Original: Each door we opened led to a room identical in shape to the previous one.
+# Narrator: Each door we opened led to a room identical in shape to the previous one.
 Narrator: Каждая открытая нами дверь вела в комнату, по форме идентичную предыдущей.
 
-# Original: And even though I was certain we'd traversed through quite a few rooms, we somehow found ourselves back at the starting point.
+# Narrator: And even though I was certain we'd traversed through quite a few rooms, we somehow found ourselves back at the starting point.
 Narrator: И хотя я был уверен, что мы прошли через довольно много комнат, мы каким-то образом снова оказались на исходной точке.
 
-# Original: There are some small design differences between each room that help to tell them apart, but... it's difficult to tell which is which unless we look really hard at every detail.
+# Ishmael: There are some small design differences between each room that help to tell them apart, but... it's difficult to tell which is which unless we look really hard at every detail.
 Ishmael: Между каждой комнатой есть небольшие дизайнерские отличия, которые помогают их различать, но... трудно сказать, где какая, если не всматриваться в каждую деталь.
 
-# Original: <Where are we now?>
+# Dante: <Where are we now?>
 Dante: <Где мы сейчас?>
 
-# Original: The kitchen?
+# Kira: The kitchen?
 Kira: На кухне?
 
-# Original: ...? How do you know that?
+# Ryōshū: ...? How do you know that?
 Ryōshū: ...? Откуда ты знаешь?
 
-# Original: I've been here before. Someone ghosted me after promising to watch Fixer clips together, so I thought I'd come visit.
+# Kira: I've been here before. Someone ghosted me after promising to watch Fixer clips together, so I thought I'd come visit.
 Kira: Я тут уже бывала. Один чел слился после обещания вместе посмотреть клипы Корректировщиков, так что я решила заскочить в гости.
 
-# Original: It's someone y'all have met too, I think, uh...
+# Kira: It's someone y'all have met too, I think, uh...
 Kira: Думаю, вы все с ним тоже встречались, э-э...
 
-# Original: It was... uhm...
+# Kira: It was... uhm...
 Kira: Это был... эм-м...
 
-# Original: Must be another one who was severed by the Arayashiki.
+# Ryōshū: Must be another one who was severed by the Arayashiki.
 Ryōshū: Должно быть, ещё один, кого отсекла Араяшики.
 
-# Original: Damn... You might be right.
+# Kira: Damn... You might be right.
 Kira: Блин... А ведь ты, походу, права.
 
-# Original: <His name was Ren. The Pinky Apprentice.>
+# Dante: <His name was Ren. The Pinky Apprentice.>
 Dante: <Его звали Рен. Ученик Мизинца.>
 
-# Original: I tick-tocked, but no one here really seemed to have anything to say to that. I suppose that only makes sense—after all, his existence registered to no one here but me.
+# Narrator: I tick-tocked, but no one here really seemed to have anything to say to that. I suppose that only makes sense—after all, his existence registered to no one here but me.
 Narrator: Я протикал, но, казалось, никому здесь было нечего на это ответить. Полагаю, в этом есть смысл — в конце концов, его существование здесь не осознавал никто, кроме меня.
 
-# Original: So, when you said back at K Corp. that you'd cooked before... you were talking about this, huh?
+# Gregor: So, when you said back at K Corp. that you'd cooked before... you were talking about this, huh?
 Gregor: Так значит, когда ты говорила ещё в Корпорации K, что раньше готовила... ты имела в виду это, а?
 
-# Original: *puff* Yep.
+# Ryōshū: *puff* Yep.
 Ryōshū: *затяжка* Ага.
 
-# Original: I used to perform intense culinary artistry here.
+# Ryōshū: I used to perform intense culinary artistry here.
 Ryōshū: Раньше я творила здесь напряжённое кулинарное искусство.
 
-# Original: <... Um, your scabbard's shaking.>
+# Dante: <... Um, your scabbard's shaking.>
 Dante: <... Эм, твои ножны трясутся.>
 
-# Original: The reviews were glowing. One of them was Y.U.M., meaning "Yeah, Unbelievably Mouthwatering!"
+# Ryōshū: The reviews were glowing. One of them was Y.U.M., meaning "Yeah, Unbelievably Mouthwatering!"
 Ryōshū: Отзывы были блестящими. Один из них гласил Д.Н.В., что означает «Да, Невероятно Вкусно!»
 
-# Original: The scabbard—Araya—was defiantly shaking from side to side in a valiant effort to deny Ryōshū's claim.
+# Narrator: The scabbard—Araya—was defiantly shaking from side to side in a valiant effort to deny Ryōshū's claim.
 Narrator: Ножны — Арая — вызывающе тряслись из стороны в сторону в доблестной попытке опровергнуть заявление Рёшу.
 
-# Original: Must've been pretty damn bad, huh...
+# Narrator: Must've been pretty damn bad, huh...
 Narrator: Должно быть, всё было чертовски плохо, да...
 
-# Original: Tsk... I'm having a hard time believing her, if you ask me.
+# Gregor: Tsk... I'm having a hard time believing her, if you ask me.
 Gregor: Тск... Если честно, мне с трудом в это верится.
 
-# Original: What did you usually make?
+# Sinclair: What did you usually make?
 Sinclair: А что вы обычно готовили?
 
-# Original: ... Boxed lunch.
+# Ryōshū: ... Boxed lunch.
 Ryōshū: ... Ланч-бокс.
 
-# Original: Boxed lunch that... kids might bring to grade school. With sausages cut like octopuses and tamagoyaki.
+# Ryōshū: Boxed lunch that... kids might bring to grade school. With sausages cut like octopuses and tamagoyaki.
 Ryōshū: Ланч-бокс, который... дети могли бы взять с собой в младшую школу. С сосисками, нарезанными в форме осьминожек, и тамагояки.
 
-# Original: A bit simple to be "intense culinary artistry," don't you think?
+# Ishmael: A bit simple to be "intense culinary artistry," don't you think?
 Ishmael: Как-то простовато для «напряжённого кулинарного искусства», не находишь?
 
-# Original: I.F.
+# Ryōshū: I.F.
 Ryōshū: Н.Д.
 
-# Original: Didn't you know? There's nothing like a school lunchbox rivalry.
+# Ryōshū: Didn't you know? There's nothing like a school lunchbox rivalry.
 Ryōshū: Разве ты не знала? Ничто не сравнится со школьными соревнованиями ланч-боксов.
 
-# Original: So I want octopus sausages, tamagoyaki, and...
+# ■■■■■: So I want octopus sausages, tamagoyaki, and...
 ■■■■■: Так вот, я хочу сосиски-осьминожки, тамагояки и...
 
-# Original: ... Why are we making sausages out of an octopus?
+# Yoshihide: ... Why are we making sausages out of an octopus?
 Yoshihide: ... Зачем нам делать сосиски из осьминога?
 
-# Original: No no, I mean sausages cut like octopuses!
+# ■■■■■: No no, I mean sausages cut like octopuses!
 ■■■■■: Нет-нет, я имею в виду сосиски, нарезанные как осьминожки!
 
-# Original: And why are we... cutting sauges into octopus shapes?
+# Yoshihide: And why are we... cutting sausages into octopus shapes?
 Yoshihide: И зачем нам... нарезать сосиски в форме осьминогов?
 
-# Original: Cuz it's adorbs, that's why!
+# ■■■■■: Cuz it's adorbs, that's why!
 ■■■■■: Да потому что это милота, вот почему!
 
-# Original: …….
+# Yoshihide: …….
 Yoshihide: …….
 
-# Original: ... Something like this?
+# Yoshihide: ... Something like this?
 Yoshihide: ... Как-то так?
 
-# Original: Wha... what's that...?
+# Araya: Wha... what's that...?
 Araya: Чт... что это...?
 
-# Original: Sausage carved into an octopus shape. Didn't miss a single suction cup.
+# Yoshihide: Sausage carved into an octopus shape. Didn't miss a single suction cup.
 Yoshihide: Сосиска, вырезанная в форме осьминога. Не упустила ни единой присоски.
 
-# Original: C'mon... I didn't mean like, a real-life octopus! It's gotta be adorbs, 'kay?
+# Araya: C'mon... I didn't mean like, a real-life octopus! It's gotta be adorbs, 'kay?
 Araya: Ну же... Я не имела в виду настоящего осьминога! Это должно быть мило, ясненько?
 
-# Original: ... Isn't it all the S.D. once it goes down the gullet...? Why's this so important?
+# Yoshihide: ... Isn't it all the S.D. once it goes down the gullet...? Why's this so important?
 Yoshihide: ... Разве это не О.И.Т.Ж, как только попадёт в желудок...? Почему это так важно?
 
-# Original: But... Mommy, there's nothing like a school lunchbox rivalry.
+# Araya: But... Mommy, there's nothing like a school lunchbox rivalry.
 Araya: Но... Мам, ничто не сравнится со школьными соревнованиями ланч-боксов.
 
-# Original: ... I.D.U.
+# Yoshihide: ... I.D.U.
 Yoshihide: ... Я.Н.П.
 
-# Original: ... Huh? You're doing your weird acronyms again, aren't you?
+# Araya: ... Huh? You're doing your weird acronyms again, aren't you?
 Araya: ... А? Опять ты за свои дурацкие аббревиатуры, да?
 
-# Original: It means "I Don't Understand."
+# Yoshihide: It means "I Don't Understand."
 Yoshihide: Это значит «Я не понимаю».
 
-# Original: *sigh* That's when you say "IDK," Mom! SMH!
+# Araya: *sigh* That's when you say "IDK," Mom! SMH!
 Araya: *вздох* В таких случаях говорят «ХЗ», мам! РЛ!
 
-# Original: These must be some of the happiest memories Ryōshū and Araya shared.
+# Narrator: These must be some of the happiest memories Ryōshū and Araya shared.
 Narrator: Должно быть, это одни из самых счастливых воспоминаний, которые разделяли Рёшу и Арая.
 
-# Original: The Sinners, me, and Araya, even as a scabbard, could imagine or recall them in full...
+# Narrator: The Sinners, me, and Araya, even as a scabbard, could imagine or recall them in full...
 Narrator: Грешники, я и Арая, пусть даже в виде ножен, могли представить или вспомнить их во всех подробностях...
 
-# Original: ... but for Ryōshū, the most important part of those memories remained sliced away.
+# Narrator: ... but for Ryōshū, the most important part of those memories remained sliced away.
 Narrator: ... но для Рёшу самая важная часть этих воспоминаний оставалась отсечённой.
 
-# Original: Still, if we can continue to piece more and more of her memories together by going over these places...
+# Narrator: Still, if we can continue to piece more and more of her memories together by going over these places...
 Narrator: И всё же, если мы продолжим собирать всё больше и больше её воспоминаний, проходя по этим местам...
 
-# Original: <Do you wanna check out what's upstairs, too?>
+# Dante: <Do you wanna check out what's upstairs, too?>
 Dante: <Хотите проверить, что находится наверху?>
 
-# Original: As soon as I asked, however, the Sinners' footsteps came to a simultaneous stop.
+# Narrator: As soon as I asked, however, the Sinners' footsteps came to a simultaneous stop.
 Narrator: Однако, как только я спросил, шаги Грешников разом стихли.
 
-# Original: ... Wait.
+# Kira: ... Wait.
 Kira: ... Погодь.
 
-# Original: Hang on, Clockhead. Don't open the door just yet.
+# Heathcliff: Hang on, Clockhead. Don't open the door just yet.
 Heathcliff: Притормози, Часовая Башка. Не вздумай пока открывать дверь.
 
-# Original: I looked back and found Kira and Heathcliff poised to fight, hands on their weapons...
+# Narrator: I looked back and found Kira and Heathcliff poised to fight, hands on their weapons...
 Narrator: Я оглянулся и увидел, что Кира и Хитклиф изготовились к бою, положив руки на оружие...
 
-# Original: This way, Manager.
+# Meursault: This way, Manager.
 Mersault: Сюда, Менеджер.
 
-# Original: ... and Meursault, who realized what that indicated, yanked me to the back of the line.
+# Narrator: ... and Meursault, who realized what that indicated, yanked me to the back of the line.
 Narrator: ... и Мерсо, который понял, что это означает, оттащил меня в конец строя.
 
-# Original: And in mere moments...
+# Narrator: And in mere moments...
 Narrator: И всего через несколько мгновений...
 
-# Original: So, there was someone guiding those whelps. Figures they'd send more than fodder to the House of Spiders.
+# Ryōshū: So, there was someone guiding those whelps. Figures they'd send more than fodder to the House of Spiders.
 Ryōshū: Значит, кто-то направлял тех щенков. Логично, что они пошлют в Дом Пауков не только пушечное мясо.
 
-# Original: *puff* Stinks of wet dog.
+# Ryōshū: *puff* Stinks of wet dog.
 Ryōshū: *пффф* Воняет мокрой псиной.
 
-# Original: ... the claws of a massive paw slashed through where we had just been standing.
+# Narrator: ... the claws of a massive paw slashed through where we had just been standing.
 Narrator: ... когти массивной лапы рассекли пространство там, где мы только что стояли.
 
-# Original: .......
+# ???: .......
 Rufo: .......
 
-# Original: <Wolf mask...?>
+# Dante: <Wolf mask...?>
 Dante: <Волчья маска...?>
 
-# Original: It really is as Maestro Émile Benoît said—this place is already occupied.
+# ???: It really is as Maestro Émile Benoît said—this place is already occupied.
 Rufo: Всё действительно так, как и сказала Маэстро Эмиль Бенуа — это место уже занято.
 
-# Original: If you would be so kind as to help me with directions...
+# ???: If you would be so kind as to help me with directions...
 Rufo: Если вы будете так любезны подсказать мне дорогу...
 
-# Original: ... Is this where Master Callisto's art is located?
+# ???: ... Is this where Master Callisto's art is located?
 Rufo: ... Искусство Мастера Каллисто находится здесь?
 
-# Original: The question came from a woman who appeared from one of the doors that led to a different Corridor. She was wearing a wolf mask, and unlike the Fauvists we had encountered thus far, she seemed to make it a point to speak and act with decorum.
+# Narrator: The question came from a woman who appeared from one of the doors that led to a different Corridor. She was wearing a wolf mask, and unlike the Fauvists we had encountered thus far, she seemed to make it a point to speak and act with decorum.
 Narrator: Вопрос исходил от женщины, появившейся из одной из дверей, которая вела в другой Коридор. На ней была волчья маска, и, в отличие от Фовистов, с которыми мы сталкивались до сих пор, она, казалось, считала своим долгом говорить и действовать с подчеркнутой вежливостью.
 
-# Original: But the subtle hint of violence in her voice quickly betrayed this air of faux-civility.
+# Narrator: But the subtle hint of violence in her voice quickly betrayed this air of faux-civility.
 Narrator: Но едва уловимый оттенок жестокости в её голосе быстро выдал эту ауру фальшивой благопристойности.
 
-# Original: Sure you're at the right address, lady?
+# Kira: Sure you're at the right address, lady?
 Kira: Уверена, что не ошиблась адресом, дамочка?
 
-# Original: Robo-unc's, uh, stuff... ain't in this part of the House. Find a different Corridor.
+# Kira: Robo-unc's, uh, stuff... ain't in this part of the House. Find a different Corridor.
 Kira: Эм, барахло Робо-дяди... не в этой части Дома. Ищи другой Коридор.
 
-# Original: Hm... Yes, I am aware.
+# ???: Hm... Yes, I am aware.
 Rufo: Хм... Да, я в курсе.
 
-# Original: But I'm not here looking for his creations, which are easily mistaken for mass-produced garbage.
+# ???: But I'm not here looking for his creations, which are easily mistaken for mass-produced garbage.
 Rufo: Но я здесь не для того, чтобы искать его творения, которые легко принять за ширпотребный мусор.
 
-# Original: I could feel her intense gaze even though her face was obscured by the mask...
+# Narrator: I could feel her intense gaze even though her face was obscured by the mask...
 Narrator: Я чувствовал её пристальный взгляд, даже несмотря на то, что лицо было скрыто под маской...
 
-# Original: ... and there was no doubt that her eyes were bearing down on Ryōshū.
+# Narrator: ... and there was no doubt that her eyes were bearing down on Ryōshū.
 Narrator: ... и не было никаких сомнений, что этот взгляд был устремлён на Рёшу.
 
-# Original: Suddenly, I was reminded of what Rien said moments before he fled through the Corridor.
+# Narrator: Suddenly, I was reminded of what Rien said moments before he fled through the Corridor.
 Narrator: Внезапно я вспомнил, что сказал Риен за несколько мгновений до того, как сбежал через Коридор.
 
-# Original: <... We let them observe us too freely.>
+# Dante: <... We let them observe us too freely.>
 Dante: <... Мы позволили им слишком свободно наблюдать за нами.>
 
-# Original: What? What does that—
+# Sinclair: What? What does that—
 Sinclair: Что? Что это...
 
-# Original: <The Fauvists got to confirm a lot of important intel—including the fact that the House of Spiders has fallen, and that Ryōshū currently has possession of the Arayashiki.>
+# Dante: <The Fauvists got to confirm a lot of important intel—including the fact that the House of Spiders has fallen, and that Ryōshū currently has possession of the Arayashiki.>
 Dante: <Фовисты смогли подтвердить много важной информации — включая то, что Дом Пауков пал, и что в данный момент Рёшу владеет Араяшики.>
 
-# Original: <... They want Ryōshū for themselves, whether she's "completed" or not—Ryōshū as she is now.>
+# Dante: <... They want Ryōshū for themselves, whether she's "completed" or not—Ryōshū as she is now.>
 Dante: <... Они хотят забрать Рёшу себе, независимо от того, «завершена» она или нет — такой, какая она есть сейчас.>
 
-# Original: *puff* Isn't that...
+# Ryōshū: *puff* Isn't that...
 Ryōshū: *затяжка* Разве это не...
 
-# Original: ... intriguing. For once.
+# Ryōshū: ... intriguing. For once.
 Ryōshū: ... интригующе. В кои-то веки.
 
-# Original: My name is Rufo.
+# Rufo: My name is Rufo.
 Rufo: Меня зовут Руфо.
 
-# Original: Yoshihide, the blade coveted by the Five Fingers, Master Callisto's final and posthumous masterpiece...
+# Rufo: Yoshihide, the blade coveted by the Five Fingers, Master Callisto's final and posthumous masterpiece...
 Rufo: Ёшихидэ, клинок, вожделенный Пятью Пальцами, последний и посмертный шедевр Мастера Каллисто...
 
-# Original: As a Docent of Fauvism, please allow me the honor of escorting you to our gallery.
+# Rufo: As a Docent of Fauvism, please allow me the honor of escorting you to our gallery.
 Rufo: Как Доцент Фовизма, прошу оказать мне честь проводить вас в нашу галерею.
 
-# Original: *puff* ... Do I want to?
+# Ryōshū: *puff* ... Do I want to?
 Ryōshū: *затяжка* ... А я этого хочу?
 
-# Original: Don't see the point in hanging out with people in those unaesthetic A.M.
+# Ryōshū: Don't see the point in hanging out with people in those unaesthetic A.M.
 Ryōshū: Не вижу смысла тусоваться с людьми на этих неэстетичных Х.Р.
 
-# Original: As expected, Ryōshū declined Rufo's request with a curt reply,
+# Narrator: As expected, Ryōshū declined Rufo's request with a curt reply,
 Narrator: Как и ожидалось, Рёшу отклонила просьбу Руфо резким отказом,
 
-# Original: and Araya, too, rattled angrily in the Docent's general direction.
+# Narrator: and Araya, too, rattled angrily in the Docent's general direction.
 Narrator: и Арая тоже сердито задребезжала в сторону Доцента.
 
-# Original: Then... I'm afraid my only remaining option is to rely on our usual method of ushering.
+# Rufo: Then... I'm afraid my only remaining option is to rely on our usual method of ushering.
 Rufo: Что ж... боюсь, у меня не остаётся иного выбора, кроме как прибегнуть к нашему обычному методу сопровождения.
 
-# Original: <... How are our odds?>
+# Dante: <... How are our odds?>
 Dante: <... Каковы наши шансы?>
 
-# Original: I dunno, she's prolly tougher than me at my maxed-out stats.
+# Kira: I dunno, she's prolly tougher than me at my maxed-out stats.
 Kira: Да хз, она, походу, покрепче меня даже на моих максимальных статах.
 
-# Original: Really?
+# Ishmael: Really?
 Ishmael: Правда?
 
-# Original: ... The shape of her ring suggests that she is a Docent of the School of Fauvism. Her position is comparable to that of a Capo of the Thumb or a Big Sibling of the Middle.
+# Faust: ... The shape of her ring suggests that she is a Docent of the School of Fauvism. Her position is comparable to that of a Capo of the Thumb or a Big Sibling of the Middle.
 Faust: ... Форма её кольца говорит о том, что она является Доцентом Школы Фовизма. Её положение сопоставимо с должностью Капо Большого или Старшего Брата Среднего.
 
-# Original: Verily, that maketh her a foe who may surpass even Ricardo's might, or... with a stroke of ill fortune, even Lei Heng...
+# Don Quixote: Verily, that maketh her a foe who may surpass even Ricardo's might, or... with a stroke of ill fortune, even Lei Heng...
 Don Quixote: Воистину, сие делает её супостатом, чья мощь может превзойти даже силу Рикардо, или... при злом роке, даже самого Лэй Хэна...
 
-# Original: Doubt she's anywhere near as strong as Lei Heng.
+# Ryōshū: Doubt she's anywhere near as strong as Lei Heng.
 Ryōshū: Сомневаюсь, что она хоть вполовину так же сильна, как Лэй Хэн.
 
-# Original: ... our chances are H.O.H.O.M.
+# Ryōshū: ... our chances are H.O.H.O.M.
 Ryōshū: ... наши шансы — П.О.П.И.Б.
 
-# Original: Half, Or Half Or More? I like those odds.
+# Kira: Half, Or Half Or More? I like those odds.
 Kira: Половина, Одна Половина Или Больше? Мне нравятся эти шансы.
 
-# Original: Half <i>Of</i> Half Or More.
+# Ryōshū: Half <i>Of</i> Half Or More.
 Ryōshū: Половина <i>От</i> Половины Или Больше.
 
-# Original: Dude, really?
+# Kira: Dude, really?
 Kira: Чувиха, серьёзно?
 
-# Original: *puff*
+# Ryōshū: *puff*
 Ryōshū: *пффф*
 
-# Original: "Outmoded," "has-been."
+# Ryōshū: "Outmoded," "has-been."
 Ryōshū: «Устаревший», «пережиток прошлого».
 
-# Original: Why seek out the art of a "has-been" after all this time?
+# Ryōshū: Why seek out the art of a "has-been" after all this time?
 Ryōshū: Зачем искать искусство «пережитка прошлого» спустя столько времени?
 
-# Original: It was a decision met with much confusion from the outset.
+# Rufo: It was a decision met with much confusion from the outset.
 Rufo: Это было решение, которое с самого начала было встречено с большим недоумением.
 
-# Original: To entrust such a momentous project in the hands of one such as Callisto... Why, everyone agrees that it is no less foolish than casting a pearl before swine.
+# Rufo: To entrust such a momentous project in the hands of one such as Callisto... Why, everyone agrees that it is no less foolish than casting a pearl before swine.
 Rufo: Доверить столь грандиозный проект в руки такого, как Каллисто... Что ж, все согласятся, что это не менее глупо, чем метать бисер перед свиньями.
 
-# Original: And they were quite on-point with that assessment. His oeuvre, recovered from the House, were more tools than art—the sort that the likes of Workshop Meisters might assemble.
+# Rufo: And they were quite on-point with that assessment. His oeuvre, recovered from the House, were more tools than art—the sort that the likes of Workshop Meisters might assemble.
 Rufo: И они были весьма точны в своей оценке. Его творчество, извлечённое из Дома, было скорее инструментами, чем искусством — из тех, что могли бы собрать Мастера Мастерских.
 
-# Original: No self-respecting Maestro would create such mundanities and call them "art."
+# Rufo: No self-respecting Maestro would create such mundanities and call them "art."
 Rufo: Ни один уважающий себя Маэстро не стал бы создавать подобную банальность и называть это «искусством».
 
-# Original: Now, I must ask for your forgiveness for presuming that you would be no different from the rest of his work...
+# Rufo: Now, I must ask for your forgiveness for presuming that you would be no different from the rest of his work...
 Rufo: А теперь я должна просить прощения за предположение, что вы ничем не будете отличаться от остальных его работ...
 
-# Original: But what I observed above this room completely changed my perspective.
+# Rufo: But what I observed above this room completely changed my perspective.
 Rufo: Но то, что я наблюдала над этой комнатой, полностью изменило мою точку зрения.
 
-# Original: The scorched Corridor, the ferity with which you've scarred the walls and the floor, as though a frenzied beast had torn through them...
+# Rufo: The scorched Corridor, the ferity with which you've scarred the walls and the floor, as though a frenzied beast had torn through them...
 Rufo: Выжженный Коридор, свирепость, с которой вы изрезали стены и пол, словно сквозь них прорвался разъярённый зверь...
 
-# Original: There is but one tool that could possibly have left such marks behind.
+# Rufo: There is but one tool that could possibly have left such marks behind.
 Rufo: Есть только один инструмент, который мог оставить после себя подобные следы.
 
-# Original: At least you've got a passable eye for art.
+# Ryōshū: At least you've got a passable eye for art.
 Ryōshū: По крайней мере, у тебя сносный взгляд на искусство.
 
-# Original: Yoshihide, I ask you: Have you ever considered pursuing art of a further elevated beauty?
+# Rufo: Yoshihide, I ask you: Have you ever considered pursuing art of a further elevated beauty?
 Rufo: Ёшихидэ, я спрашиваю вас: вы когда-нибудь задумывались о том, чтобы посвятить себя искусству ещё более возвышенной красоты?
 
-# Original: It will be an experience that departs from the dilapidated remnant that dubs itself "Corporism"—a movement so constrained by its obsession over the human corpus that, once it had depleted all meaning it had to offer, it began piling on empty definitions onto itself.
+# Rufo: It will be an experience that departs from the dilapidated remnant that dubs itself "Corporism"—a movement so constrained by its obsession over the human corpus that, once it had depleted all meaning it had to offer, it began piling on empty definitions onto itself.
 Rufo: Это будет опыт, который отойдёт от обветшалого пережитка, именующего себя «Корпоризмом» — течения, настолько скованного своей одержимостью человеческим телом, что, исчерпав весь смысл, который оно могло предложить, оно начало нагромождать на себя пустые определения.
 
-# Original: Fauvism is a movement that has broken from the traditional mold. Unfettered like a beast that roams free, we dare ourselves to ask questions that challenge the mind: What is "man"? What are "things"? What does it mean to trace the origin? How do we define that which we call "<ruby=wild beast>le Fauve</ruby>"? These are the subject matters that have led us Fauves into the field of fertile creativity.
+# Rufo: Fauvism is a movement that has broken from the traditional mold. Unfettered like a beast that roams free, we dare ourselves to ask questions that challenge the mind: What is "man"? What are "things"? What does it mean to trace the origin? How do we define that which we call "<ruby=wild beast>le Fauve</ruby>"? These are the subject matters that have led us Fauves into the field of fertile creativity.
 Rufo: Фовизм — это течение, которое вырвалось из традиционных рамок. Нескованные, подобно зверю, бродящему на свободе, мы осмеливаемся задавать себе вопросы, бросающие вызов разуму: Что есть «человек»? Что есть «вещи»? Что значит отследить первоисточник? Как мы определяем то, что называем <ruby=дикостью>le Fauve</ruby>? Именно эти темы привели нас, Фовистов, на ниву плодотворного творчества.
 
-# Original: Should you, a wielder of that Relic, enter the fold of our movement... it will layer your work with such an unrelenting spectrum of colors that it will be destined to leave an unforgettable impression in the annals of history.
+# Rufo: Should you, a wielder of that Relic, enter the fold of our movement... it will layer your work with such an unrelenting spectrum of colors that it will be destined to leave an unforgettable impression in the annals of history.
 Rufo: Если вы, обладательница этой Реликвии, войдёте в лоно нашего течения... это наделит вашу работу таким неумолимым спектром красок, что она будет обречена оставить незабываемый след в анналах истории.
 
-# Original: In other words, what we can offer you will be of much greater worth than what you may have learned from a teacher like Callisto.
+# Rufo: In other words, what we can offer you will be of much greater worth than what you may have learned from a teacher like Callisto.
 Rufo: Иными словами, то, что мы можем вам предложить, будет иметь гораздо большую ценность, чем то, чему вы могли научиться у такого учителя, как Каллисто.
 
-# Original: *puff* Never considered him my teacher. Not a real one, anyway.
+# Ryōshū: *puff* Never considered him my teacher. Not a real one, anyway.
 Ryōshū: *затяжка* Никогда не считала его своим учителем. Настоящим, по крайней мере.
 
-# Original: Finding beauty among the carnage of blood and flesh is a lesson I learned on my own.
+# Ryōshū: Finding beauty among the carnage of blood and flesh is a lesson I learned on my own.
 Ryōshū: Находить красоту среди резни из плоти и крови — это урок, который я усвоила сама.
 
-# Original: And yes, I know enough about your movement.
+# Ryōshū: And yes, I know enough about your movement.
 Ryōshū: И да, я знаю достаточно о вашем течении.
 
-# Original: Maybe I considered some of the works created by your School acceptable, at least among the Ring's art... or not. I can't remember.
+# Ryōshū: Maybe I considered some of the works created by your School acceptable, at least among the Ring's art... or not. I can't remember.
 Ryōshū: Может быть, я считала некоторые из работ, созданных вашей Школой, приемлемыми, по крайней мере среди искусства Безымянного... а может, и нет. Я не могу вспомнить.
 
-# Original: Then, will you...?
+# Rufo: Then, will you...?
 Rufo: Тогда, вы...?
 
-# Original: But I don't know.
+# Ryōshū: But I don't know.
 Ryōshū: Но я не знаю.
 
-# Original: I don't know what makes your art more "elevated" than the one I pursue.
+# Ryōshū: I don't know what makes your art more "elevated" than the one I pursue.
 Ryōshū: Я не знаю, что делает ваше искусство более «возвышенным», чем то, которому следую я.
 
-# Original: The one you... pursue?
+# Rufo: The one you... pursue?
 Rufo: То, которому... следуете вы?
 
-# Original: Didn't the sight you claimed to have seen clue you in?
+# Ryōshū: Didn't the sight you claimed to have seen clue you in?
 Ryōshū: Разве зрелище, которое ты, по твоим словам, видела, не дало тебе подсказку?
 
-# Original: Oh, it did. I do understand.
+# Rufo: Oh, it did. I do understand.
 Rufo: О, дало. И я прекрасно понимаю.
 
-# Original: Your art may appear to be no more than unchecked chaos at a glance, but upon closer observation, it reveals a fierce, dominant force that threads the entire scene together with its keenness as the connecting suture.
+# Rufo: Your art may appear to be no more than unchecked chaos at a glance, but upon closer observation, it reveals a fierce, dominant force that threads the entire scene together with its keenness as the connecting suture.
 Rufo: На первый взгляд ваше искусство может показаться не более чем неконтролируемым хаосом, но при более внимательном рассмотрении в нём обнаруживается свирепая, доминирующая сила, которая связывает воедино всю сцену своей остротой, словно соединительным швом.
 
-# Original: Your bladework, too, shows such multilayeredness. Mere keenness often entails mundanity, yet you have transcended such a limit by scorching the tail-end of each slash—truly, a unique aesthetic sense.
+# Rufo: Your bladework, too, shows such multilayeredness. Mere keenness often entails mundanity, yet you have transcended such a limit by scorching the tail-end of each slash—truly, a unique aesthetic sense.
 Rufo: Ваше владение клинком также демонстрирует подобную многослойность. Простая острота часто влечёт за собой обыденность, однако вы вышли за эти пределы, опаляя самый конец каждого взмаха — воистину, уникальное эстетическое чувство.
 
-# Original: I believe I've sufficiently understood the full extent of the artistic merit imbued in that scene—
+# Rufo: I believe I've sufficiently understood the full extent of the artistic merit imbued in that scene—
 Rufo: Полагаю, я в достаточной мере осознала всю полноту художественной ценности, заложенной в той сцене...
 
-# Original: *puff*
+# Ryōshū: *puff*
 Ryōshū: *пффф*
 
-# Original: No, you didn't.
+# Ryōshū: No, you didn't.
 Ryōshū: Нет, не осознала.
 
-# Original: Lesser painters like you are such mediocrities that they fail to recognize the beauty that lies in the grotesque.
+# Ryōshū: Lesser painters like you are such mediocrities that they fail to recognize the beauty that lies in the grotesque.
 Ryōshū: Такие мелкие художники, как ты, — лишь посредственности, не способные распознать красоту, кроющуюся в гротеске.
 
-# Original: They do little beyond painting the hell reflected in their eyes and call that shallowness hell's beauty.
+# Ryōshū: They do little beyond painting the hell reflected in their eyes and call that shallowness hell's beauty.
 Ryōshū: Они не делают ничего, кроме как рисуют ад, отражающийся в их глазах, и называют эту поверхностность адской красотой.
 
-# Original: The sorrow condensed into a cry held in an instant, wrath unbound from the yoke of reason, the fading gleam of despair in the hewn...
+# Ryōshū: The sorrow condensed into a cry held in an instant, wrath unbound from the yoke of reason, the fading gleam of despair in the hewn...
 Ryōshū: Скорбь, сжатая до крика, застывшего в мгновении, гнев, освобождённый от ярма рассудка, угасающий блеск отчаяния в разрубленном...
 
-# Original: You give no thought to what each of those emotions signifies, instead obsessing over the cursory qualities of what is beheld. Let me teach you otherwise.
+# Ryōshū: You give no thought to what each of those emotions signifies, instead obsessing over the cursory qualities of what is beheld. Let me teach you otherwise.
 Ryōshū: Ты не задумываешься над тем, что означает каждая из этих эмоций, вместо этого зацикливаясь на поверхностных качествах того, что видишь. Позволь мне научить тебя иному.
 
-# Original: Pay attention, because I won't afford you another long-winded lesson.
+# Ryōshū: Pay attention, because I won't afford you another long-winded lesson.
 Ryōshū: Будь внимательна, потому что я не позволю себе ещё один такой длинный урок.
 
-# Original: Ryōshū readied her scabbard.
+# Narrator: Ryōshū readied her scabbard.
 Narrator: Рёшу приготовила свои ножны.
 
-# Original: Pointillists, Fauvists, Suprematists, Blaue-Reiters, Cubists...
+# Ryōshū: Pointillists, Fauvists, Suprematists, Blaue-Reiters, Cubists...
 Ryōshū: Пуантилисты, Фовисты, Супрематисты, Синие Всадники, Кубисты...
 
-# Original: I've visited my share of the Ring's galleries, heard their commentaries.
+# Ryōshū: I've visited my share of the Ring's galleries, heard their commentaries.
 Ryōshū: Я посетила достаточно галерей Безымянного, слышала их комментарии.
 
-# Original: But none of them were to my liking.
+# Ryōshū: But none of them were to my liking.
 Ryōshū: Но ни один из них не пришёлся мне по вкусу.
 
-# Original: Your art is an overcomplicated pile of definitions buried under symbols, caked in patchworks of empty shells.
+# Ryōshū: Your art is an overcomplicated pile of definitions buried under symbols, caked in patchworks of empty shells.
 Ryōshū: Ваше искусство — это переусложнённая груда определений, погребённая под символами, покрытая лоскутами из пустых оболочек.
 
-# Original: You and your art both talk too damn much.
+# Ryōshū: You and your art both talk too damn much.
 Ryōshū: И ты, и твоё искусство слишком дохрена болтаете.
 
-# Original: Just like Callisto's. Kept trying to take from other movements, forcing meaning where there was none.
+# Ryōshū: Just like Callisto's. Kept trying to take from other movements, forcing meaning where there was none.
 Ryōshū: Прямо как у Каллисто. Всё пытался заимствовать из других течений, впихивая смысл туда, где его не было.
 
-# Original: Excess is easy. Anyone can do it.
+# Ryōshū: Excess is easy. Anyone can do it.
 Ryōshū: Излишество — это просто. Любой может так делать.
 
-# Original: What's beyond most... is making it succinct—the art of abbreviation.
+# Ryōshū: What's beyond most... is making it succinct—the art of abbreviation.
 Ryōshū: Что недоступно большинству... так это делать его кратким — искусство аббревиатуры.
 
-# Original: Alas, if all is one by one abbreviated away, nothing remains in its absence...
+# Rufo: Alas, if all is one by one abbreviated away, nothing remains in its absence...
 Rufo: Увы, если всё по очереди сокращать, в итоге не останется ровным счётом ничего...
 
-# Original: ... making the void left behind completely bereft of meaning.
+# Rufo: ... making the void left behind completely bereft of meaning.
 Rufo: ... делая оставшуюся пустоту абсолютно лишённой смысла.
 
-# Original: No. The void is what remains.
+# Ryōshū: No. The void is what remains.
 Ryōshū: Нет. Пустота — это то, что остаётся.
 
-# Original: And it holds things that can't be found anywhere else.
+# Ryōshū: And it holds things that can't be found anywhere else.
 Ryōshū: И в ней сокрыты вещи, которые больше нигде не найти.
 
-# Original: What is this, a... Minimalist manifesto?
+# Rufo: What is this, a... Minimalist manifesto?
 Rufo: Что это, манифест... Минималистов?
 
-# Original: No, my aesthetics go beyond the pursuit of simplicity.
+# Ryōshū: No, my aesthetics go beyond the pursuit of simplicity.
 Ryōshū: Нет, моя эстетика выходит за рамки стремления к простоте.
 
-# Original: I pursue the natural germination of artistic immaculacy—a state of perfection wherein further abbreviation is an impossibility.
+# Ryōshū: I pursue the natural germination of artistic immaculacy—a state of perfection wherein further abbreviation is an impossibility.
 Ryōshū: Я стремлюсь к естественному зарождению художественной безупречности — состоянию совершенства, в котором дальнейшее сокращение уже невозможно.
 
-# Original: S.A.N.G.R.I.A.
+# Ryōshū: S.A.N.G.R.I.A.
 Ryōshū: С.А.Н.Г.Р.И.Я.
 
-# Original: .......
+# Rufo: .......
 Rufo: .......
 
-# Original: A bit abstract, isn't it? Too removed, too plain, with a distinct lack of any meaningful, striking qualities.
+# Rufo: A bit abstract, isn't it? Too removed, too plain, with a distinct lack of any meaningful, striking qualities.
 Rufo: Немного абстрактно, не так ли? Слишком отдалённо, слишком просто, с явным отсутствием каких-либо значимых, поразительных качеств.
 
-# Original: What exactly is it, that elevates your art above that of Fauvism?
+# Rufo: What exactly is it, that elevates your art above that of Fauvism?
 Rufo: Что именно возвышает ваше искусство над Фовизмом?
 
-# Original: *puff* Painters.
+# Ryōshū: *puff* Painters.
 Ryōshū: *пффф* Художники.
 
-# Original: We're the stubborn sort that mere words can't convince.
+# Ryōshū: We're the stubborn sort that mere words can't convince.
 Ryōshū: Мы упрямый народ, который простыми словами не переубедишь.
 
-# Original: Indeed, there is no discipline more subjective than that of art.
+# Rufo: Indeed, there is no discipline more subjective than that of art.
 Rufo: И впрямь, нет дисциплины более субъективной, чем искусство.
 
-# Original: Discourse concerning its nature may extend for days on end, but it will not change the fact that unseen arts are meaningless, pretentious illusions at the end of the day.
+# Rufo: Discourse concerning its nature may extend for days on end, but it will not change the fact that unseen arts are meaningless, pretentious illusions at the end of the day.
 Rufo: Дискуссии о его природе могут длиться днями напролёт, но это не отменит того факта, что невидимые искусства в конце концов оказываются бессмысленными, претенциозными иллюзиями.
 
-# Original: Then I suppose I'll have to carve it right into your eyes.
+# Ryōshū: Then I suppose I'll have to carve it right into your eyes.
 Ryōshū: Тогда, полагаю, мне придётся вырезать его прямо на твоих глазах.
 
-# Original: Please do, though I'm afraid it may be overshadowed by the sheer vibrancy of my aesthetics.
+# Rufo: Please do, though I'm afraid it may be overshadowed by the sheer vibrancy of my aesthetics.
 Rufo: Прошу, сделайте это, хотя я боюсь, что оно может померкнуть перед абсолютной яркостью моей эстетики.
 
-# Original: I, a Docent of Le Fauvisme, shall personally welcome you to my critique session.
+# Rufo: I, a Docent of Le Fauvisme, shall personally welcome you to my critique session.
 Rufo: Я, Доцент Ле Фов, лично приветствую вас на моей сессии критики.

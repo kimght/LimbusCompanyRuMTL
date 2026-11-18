@@ -1,23 +1,23 @@
-﻿# Original: The machine looks complicated to operate.
+﻿# Narrator: The machine looks complicated to operate.
 Рассказчик: Похоже, управлять этой машиной непросто.
 
-# Original: <Meursault, do you know how to operate this?>
+# Dante: <Meursault, do you know how to operate this?>
 Данте: <Мерсо, ты знаешь, как с ней обращаться?>
 
-# Original: I am not familiar with the work procedures of Sisyphe's lower floors.
+# Meursault: I am not familiar with the work procedures of Sisyphe's lower floors.
 Мерсо: Я не знаком с рабочими процедурами нижних этажей Сизифа.
 
-# Original: Meanwhile, Outis began manipulating the machine's complex display.
+# Narrator: Meanwhile, Outis began manipulating the machine's complex display.
 Рассказчик: Тем временем Отис принялась разбираться со сложным интерфейсом машины.
 
-# Original: Hm... I do not yet understand the operating principle, but I have a general grasp of the structure.
+# Outis: Hm... I do not yet understand the operating principle, but I have a general grasp of the structure.
 Отис: Хм... Принцип работы мне пока неясен, но общее представление об устройстве у меня уже есть.
 
-# Original: <Oh, wow...>
+# Dante: <Oh, wow...>
 Данте: <Ого...>
 
-# Original: The interface presents three functions: extraction, spinning, and dyeing. Your orders, Executive Manager?
+# Outis: The interface presents three functions: extraction, spinning, and dyeing. Your orders, Executive Manager?
 Отис: В интерфейсе представлены три функции: извлечение, прядение и окрашивание. Ваши приказания, Исполнительный Менеджер?
 
-# Original: Three buttons appear on the display Outis indicates.
+# Narrator: Three buttons appear on the display Outis indicates.
 Рассказчик: На дисплее, на который указывает Отис, появляются три кнопки.

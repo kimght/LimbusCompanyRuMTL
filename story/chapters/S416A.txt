@@ -1,74 +1,74 @@
-# Original: I don't see any terrorists.
+# Dongrang: I don't see any terrorists.
 Донран: Я не вижу никаких террористов.
 
-# Original: Relax. I've brought plenty of regeneration ampules, so those murder machines can rampage all they want.
+# Shrenne: Relax. I've brought plenty of regeneration ampules, so those murder machines can rampage all they want.
 Шренн: Расслабься. Я принесла достаточно регенерационных ампул, так что эти машины для убийства могут бесчинствовать сколько угодно.
 
-# Original: An ominous noise buzzed from the stopped machines.
+# Narrator: An ominous noise buzzed from the stopped machines.
 Рассказчик: Зловещий шум раздался из остановившихся машин.
 
-# Original: Alright, all... You hear me?
+# Melted Machine: Alright, all... You hear me?
 Пугающая машина: Ладно, все... Вы меня слышите?
 
-# Original: I got pretty mad thinking you might have thought we ran off, so I'm sending you a message verbally.
+# Melted Machine: I got pretty mad thinking you might have thought we ran off, so I'm sending you a message verbally.
 Пугающая машина: Я изрядно разозлилась, думая, что вы могли подумать, будто мы сбежали, поэтому я посылаю вам сообщение вербально.
 
-# Original: I'm about to tell you something real important, so listen up.
+# Melted Machine: I'm about to tell you something real important, so listen up.
 Пугающая машина: Я собираюсь сказать вам кое-что очень важное, так что слушайте внимательно.
 
-# Original: ……
+# Melted Machine: ……
 Пугающая машина: ……
 
-# Original: A pause to rouse tension... Good.
+# Melted Machine: A pause to rouse tension... Good.
 Пугающая машина: Пауза для нагнетания напряжения... Хорошо.
 
-# Original: <……>
+# Dante: <……>
 Данте: <……>
 
-# Original: It's that you are...
+# Melted Machine: It's that you are...
 Пугающая машина: Дело в том, что вы...
 
-# Original: You are a bunch of worthless worms.
+# Melted Machine: You are a bunch of worthless worms.
 Пугающая машина: Вы просто кучка ничтожных червей.
 
-# Original: Yeah, that's right. You're just worms!
+# Melted Machine: Yeah, that's right. You're just worms!
 Пугающая машина: Да, вы правильно услышали. Вы просто черви!
 
-# Original: Gimme a break. I was all ears for this load of nonsense.
+# Gregor: Gimme a break. I was all ears for this load of nonsense.
 Грегор: Да ладно тебе. Я был весь во внимании ради этой чепухи.
 
-# Original: Gregor approached the speaker with a grumble, scratching the back of his head.
+# Narrator: Gregor approached the speaker with a grumble, scratching the back of his head.
 Рассказчик: Грегор приблизился к динамику с ворчанием, почёсывая затылок.
 
-# Original: <Wait, Gregor!>
+# Dante: <Wait, Gregor!>
 Данте: <Подожди, Грегор!>
 
-# Original: After playing the voice, the machine suddenly starts to heat up and inflate.
+# Narrator: After playing the voice, the machine suddenly starts to heat up and inflate.
 Рассказчик: После воспроизведения голоса машина внезапно начинает нагреваться и раздуваться.
 
-# Original: The machine is heating to unnatural degrees, its components expanding.
+# Faust: The machine is heating to unnatural degrees, its components expanding.
 Фауст: Машина нагревается до неестественных температур, её компоненты расширяются.
 
-# Original: Oh my, it really is. That's a telltale sign of an imminent explosion.
+# Niko: Oh my, it really is. That's a telltale sign of an imminent explosion.
 Нико: О боже, действительно. Это явный признак неминуемого взрыва.
 
-# Original: Indeed, and that means...
+# Dongrang: Indeed, and that means...
 Донран: Верно, а это значит...
 
-# Original: Wait a moment! Get away from that damned machine!
+# Heathcliff: Wait a moment! Get away from that damned machine!
 Хитклиф: Погодите-ка! Отойдите от этой чёртовой машины!
 
-# Original: Heathcliff kicked Gregor away from the machine.
+# Narrator: Heathcliff kicked Gregor away from the machine.
 Рассказчик: Хитклиф оттолкнул Грегора от машины.
 
-# Original: Hmm... They must've used what little time they had to place traps like this.
+# Dongrang: Hmm... They must've used what little time they had to place traps like this.
 Донран: Хмм... Должно быть, они использовали то немногое время, что у них было, чтобы расставить такие ловушки.
 
-# Original: Their dedication is admirable. I'm raring to see the mastermind behind this.
+# Dongrang: Their dedication is admirable. I'm raring to see the mastermind behind this.
 Донран: Их преданность делу восхищает. Не терпится увидеть руководителя, стоящего за всем этим.
 
-# Original: <Are all researchers like that? This really doesn't feel like the time for admirations.>
+# Dante: <Are all researchers like that? This really doesn't feel like the time for admirations.>
 Данте: <Все ли исследователи такие? Сейчас действительно не время для восхищений.>
 
-# Original: Such is our fate.
+# Faust: Such is our fate.
 Фауст: Такова наша судьба.

@@ -1,464 +1,464 @@
-﻿# Original: Verg.
+﻿# Charon: Verg.
 Харон: Вер.
 
-# Original: Blockage ahead. Permission to vroom-vroom?
+# Charon: Blockage ahead. Permission to vroom-vroom?
 Харон: Преграда впереди. Разреши сделать врум-врум?
 
-# Original: The chatter was what finally got me to open my eyes.
+# Narrator: The chatter was what finally got me to open my eyes.
 Рассказчик: Тихий разговор привлёк моё внимание, заставив открыть глаза.
 
-# Original: After all, nothing beats blocking out your sight when you want to keep boredom at bay.
+# Narrator: After all, nothing beats blocking out your sight when you want to keep boredom at bay.
 Рассказчик: Всё же ничто не спасает от скуки так, как временная "слепота".
 
-# Original: Not that there was much else to do on a bus whose destination was unknown to me…
+# Narrator: Not that there was much else to do on a bus whose destination was unknown to me...
 Рассказчик: Потому что в автобусе делать больше нечего, если не знаешь, куда он едет…
 
-# Original: My lack of head and memories certainly don’t help, either.
+# Narrator: My lack of head and memories certainly didn't help, either.
 Рассказчик: Да и потеря головы и воспоминаний также не помогает выдумывать новые развлечения.
 
-# Original: ……
+# Vergilius: ……
 Вергилий: ……
 
-# Original: Alright, let’s proceed.
+# Vergilius: Alright, let’s proceed.
 Вергилий: Хорошо, продолжай движение.
 
-# Original: Ok. Here come bumpity-bumps.
+# Charon: Ok. Here come bumpity-bumps.
 Харон: Угу, тук-тук.
 
-# Original: Expensive washer fluid. Verg said he paid a fortune.
+# Charon: Expensive washer fluid. Verg said he paid a fortune.
 Харон: Моющее средство дорогое. Вер говорил, оно стоило ему целое состояние.
 
-# Original: The clumps stuck to the window gently dissolve, letting light through.
+# Narrator: The clumps stuck to the window gently dissolve, letting light through.
 Рассказчик: Куски мяса, прилипшие к стеклу, начали растворяться, постепенно пропуская лучи света.
 
-# Original: Many different sets of eyes on the bus are lethargically facing forward.
+# Narrator: Most of the people seated on the bus—Sinners—fix their gaze ahead with varied expressions in their eyes.
 Рассказчик: Большинство грешников, сидящих в автобусе, пустыми глазами уставились вперёд.
 
-# Original: It felt like a pretty gruesome scene, but based on the others’ reactions, maybe this kind of violence is common in the City.
+# Narrator: It felt like a pretty gruesome scene, but based on the others’ reactions, maybe this kind of violence is to be expected in the City.
 Рассказчик: Меня пугала эта картина, но, похоже, грешники и не такое видели в Городе.
 
-# Original: <Hey…>
+# Dante: <Hey...>
 Данте: <Эй…>
 
-# Original: It felt rather awkward to close my eyes again now that I was wide awake. That’s when the conspicuously bearded man grabbed my attention.
+# Narrator: It felt rather awkward to try to get another shut-eye again now that I was wide awake. Just then, a man with conspicuously overgrown stubble drew my attention.
 Рассказчик: Странно закрывать глаза снова, когда ты полностью проснулся. Но как же вовремя мне на глаза попался мужчина с лёгкой небритостью.
 
-# Original: <Bu― I mean, Glasses. Know where we’re going right now?>
+# Dante: <Bu― I mean, Glasses. Know where we’re going right now?>
 Данте: <Жу… Нет, точнее, друже в очках. Знаешь, куда мы сейчас едем?>
 
-# Original: …A feature far more conspicuous than his beard made me slip.
+# Narrator: ... A feature far more conspicuous than his stubble made me slip.
 Рассказчик: …У него была ещё одна черта, гораздо более заметная, чем небритость, так что слова вырвались сами по себе.
 
-# Original: …You almost called me “bug guy”, didn’t you?
+# Gregor: ... You almost called me "bug guy," didn’t you?
 Грегор: Хотел назвать меня "жучок", не так ли?
 
-# Original: Once again, my name is Gregor.
+# Gregor: Once again, my name is Gregor.
 Грегор: Говорю снова, меня зовут Грегор.
 
-# Original: The same way you’re called Dante and not clockface.
+# Gregor: The same way you’re called Dante and not clockface.
 Грегор: Я же зову тебя Данте, а не "часоголовый".
 
-# Original: …I couldn’t find any excuses so I just gave back a light nod.
+# Narrator: ... I couldn’t find any excuses so I just gave back a light nod.
 Рассказчик: …Мне не было оправдания, так что я лишь молча кивнул.
 
-# Original: Say, Bus Girlie. Where are we headed?
+# Gregor: Say, Bus Girlie. Where are we headed?
 Грегор: Эй, девуля за баранкой. А куда мы едем-то?
 
-# Original: Once again, my name is Charon.
+# Charon: Once again, my name is Charon.
 Харон: Говорю снова, меня зовут Харон.
 
-# Original: The same way you’re called Gregor and not bug guy.
+# Charon: The same way you’re called Gregor and not "bug guy."
 Харон: Прямо как тебя зовут Грегор, а не "жучок".
 
-# Original: ……
+# Gregor: ……
 Грегор: ……
 
-# Original: <She got you there, Gregor.>
+# Dante: <She got you there, Gregor.>
 Данте: <Тебя уделали, Грегор.>
 
-# Original: Haha, she really did.
+# Gregor: Haha, she really did.
 Грегор: Ха-ха, признаю своё поражение.
 
-# Original: …Verg said:
+# Charon: ... Verg said:
 Харон: …Вер сказал:
 
-# Original: “The Sinners will go to District 4.”
+# Charon: “The Sinners will go to District 4.”
 Харон: "Грешники отправляются в четвёртый Район."
 
-# Original: Whaaaat ho?! Did District 4 fall upon my ears?!
+# Don Quixote: Whaaaat ho?! Did the name "District 4" fall upon my ears?!
 Дон Кихот: ЧЕТВЁРТЫЙ РАЙО-О-ОН?! Неужто до ушей моих донеслось "четвёртый Район"?
 
-# Original: That place is known to be the home of the Grass Maiden! ‘Tis the origin of the heroine’s journey. And ‘twas the…
+# Don Quixote: That place is known to be the home of the Grass Maiden! ‘Tis the origin of the heroine’s journey. And ‘twas the...
 Дон Кихот: В нём некогда была рождена Травяная дева! В сих переулках началось становление героини, её первые героические деяния! Затем же…
 
-# Original: Bloody hell, you’re rattling on and on and on…
+# Heathcliff: Bloody hell, you’re rattling on and on and on...
 Хитклиф: Сколько ещё ты будешь балаболить без умолку…
 
-# Original: Can’t you just shut up and let the trip go in peace?
+# Heathcliff: Can’t you just shut up and let us have some peace and quiet?
 Хитклиф: Почему ты не можешь прихлопнуть свою хлеборезку и посидеть в тишине?
 
-# Original: Why, I had remained silent unto mere moments ago!
+# Don Quixote: Why, I had remained silent unto mere moments ago!
 Дон Кихот: До сего момента я пребывала в абсолютном безмолвии!
 
-# Original: I said to shut up!
+# Heathcliff: Don't you bloody argue with me!
 Хитклиф: Да захлопнись ты уже!
 
-# Original: …Sorry, did you happen to realize you’re being louder here?
+# Ishmael: ... Hey, do you even realize you’re the louder one here?
 Измаил: …Эй, ты понимаешь, что сам гораздо громче неё?
 
-# Original: …Even if you can’t die, you sure as hell can suffer, no? So say that again.
+# Heathcliff: ... Lass, pain is pain whether it kills you or not. Now flap that gob of yours again and see what happens.
 Хитклиф: …Может, ты не сдохнешь, но помучаешься знатно. Давай, вякни мне тут ещё раз.
 
-# Original: I say the right thing and your first response is violence? Shows how refined you are.
+# Ishmael: I make a valid point and you jump straight to violence? Real classy of you.
 Измаил: Приятно знать, что на правду ты отвечаешь насилием. Это многое говорит о тебе.
 
-# Original: …Ha.
+# Heathcliff: ... Ha.
 Хитклиф: …Ха-а.
 
-# Original: I contemplated for a second.
+# Narrator: For a moment, I found myself contemplating:
 Рассказчик: В этот момент я не знал, что делать.
 
-# Original: Should I step in? Is this the part where I exercise my authority as the manager with dignity and grace? A faint memory urges me to do something.
+# Narrator: Should I step in? Is this the part where I exercise my authority as the manager with dignity and grace? A faint memory urges me to do something.
 Рассказчик: Стоит ли мне его останавливать? Подходящий ли это момент, чтобы с честью и достоинством доказать свою важность как менеджера? Забытые воспоминания говорят мне, что я должен что-то с этим сделать.
 
-# Original: <Now now, guys, it’s inadvisable to lose your c―>
+# Dante: <Now now, guys, it’s inadvisable to lose your c―>
 Данте: <Ребята, давайте не пересекать чер…>
 
-# Original: Grh…
+# Heathcliff: Ngh...
 Хитклиф: Гх…
 
-# Original: Kuhㅡ
+# Ishmael: Hrrk...!
 Измаил: Кх…ы…
 
-# Original: TRANCHES.
+# Ryōshū: TRANCHES.
 Рёшу: ЛОШОК.
 
-# Original: To right against noisy crying hogs entails scragging.
+# Ryōshū: To Right Against Noisy Crying Hogs Entails Scragging.
 Рёшу: <i>Лай обезумевших шавок окончится клинком.</i> В ваших глотках.
 
-# Original: ……
+# Ryōshū: ……
 Рёшу: ……
 
-# Original: Senseless violence shan’t be forgiven! I will bring about justice!
+# Don Quixote: Senseless violence shan’t be forgiven! I will bring about justice!
 Дон Кихот: Сия бессмысленная жестокость непростительна! Ты понесёшь наказание от моего копья!
 
-# Original: Aw~ I knew this would happen—it left a spot on my clothes. Look, do you guys really have to fight next to me?
+# Rodion: Aw~ I knew this would happen—ya got blood on my clothes. Look, do you guys really have to fight next to me?
 Родион: А~ Так и знала, что это случится. Теперь вся моя одежда заляпана кровью. Ребят, вам обязательно убивать друг друга именно возле меня?
 
-# Original: <I must be mad…>
+# Dante: <This... is just crazy...>
 Данте: <Скоро я… сойду с ума…>
 
-# Original: We haven’t even reached our destination and they've already killed three. Of our own, that is.
+# Narrator: We haven’t even reached our destination and three people are dead already. And all because of infighting, too.
 Рассказчик: Уже трое людей мертвы, а мы ещё не доехали. Притом, что ещё хуже, они сами поубивали друг друга.
 
-# Original: Can’t take a small break without anticipating trouble, can I.
+# Vergilius: Can't even look away for a minute without things going sideways, can I.
 Вергилий: Что ж, не могу передохнуть без ожидания новых проблем, да?
 
-# Original: You four. Cleaning duty for the next month.
+# Vergilius: You four. Cleaning duty for the next month.
 Вергилий: Вы, четверо. Будете отдраивать автобус весь месяц.
 
-# Original: Such unfairness! I merely sought the hand of justice!
+# Don Quixote: Such unfairness! I merely sought the hand of justice!
 Дон Кихот: Но за что?! Я лишь свершила правосудие!
 
-# Original: Oh, also! Tell them to do my laundry, too. Blood doesn’t wash off as easily as wine stains. Sheesh, dry cleaning’s costly…
+# Rodion: Hang on! Tell them to do my laundry, too. Bloodstains don’t wash off as easily as wine. It wasn't cheap, you know, this getup...
 Родион: Погодьте! Включите стирку моей одежды. Кровь сходит хуже вина. Блин, стирка формы, наверное, дорогая…
 
-# Original: No one bats an eye at the lifeless janitors-to-be littering the floor.
+# Narrator: No one bats an eye at the lifeless janitors-to-be littering the floor.
 Рассказчик: Никто так и не взглянул на будущих дежурных по уборке, бездыханно лежащих на полу.
 
-# Original: Maybe they’re already taking their indefinite revivals for granted.
+# Narrator: Maybe they’re already taking their unlimited revivals for granted.
 Рассказчик: Конечно, потому что все уверены, что несмотря ни на что, они будут жить.
 
-# Original: But, I don’t even know how exactly I’m supposed to bring them back…
+# Narrator: Problem is, I don’t even know how exactly I’m supposed to bring them back...
 Рассказчик: Но я, от которого и ждут чуда воскрешения, не знаю, как это делать…
 
-# Original: Dante, I’d like you to turn the clock back.
+# Vergilius: Dante, I’d like you to turn the clock back.
 Вергилий: Данте, переведите стрелки часов.
 
-# Original: <Turn… the clock?>
+# Dante: <Turn... the clock?>
 Данте: <Перевести… стрелки часов?>
 
-# Original: …Sigh.
+# Vergilius: *sigh*
 Вергилий: …Ха-а.
 
-# Original: That must mean there’s a puzzled look where your face should be. I’ll keep that in mind.
+# Vergilius: So that's what you look like when you're puzzled. I’ll keep that in mind.
 Вергилий: Похоже, так вы выражаете озадаченность. Я это запомню.
 
-# Original: Ms. Faust.
+# Vergilius: Miss Faust.
 Вергилий: Мисс Фауст.
 
-# Original: ……
+# Faust: ……
 Фауст: ……
 
-# Original: Vergilius gives Faust a tired nod and gestures to me.
+# Narrator: Vergilius gives Faust a tired nod and gestures to me.
 Рассказчик: Вергилий указывает на меня, устало кивая Фауст.
 
-# Original: She let out a small sigh but still came to my seat, probably out of a sense of obligation.
+# Narrator: She let out a small sigh but still came to my seat, probably out of a sense of obligation.
 Рассказчик: Фауст вздохнула, но всё равно встала и направилась к моему месту, словно не в силах уклониться от выполнения собственного долга.
 
-# Original: It’s the same thing you did the day we first met, Dante. Though, I suppose that was more of an instinctual reaction.
+# Faust: It’s the same thing you did the day we first met, Dante. Though I suppose that was more of an instinctive reaction.
 Фауст: Вспомните, что вы сделали в нашу первую встречу, Данте. Хотя, скорее всего, это произошло инстинктивно.
 
-# Original: Now, let’s try again. Close your eyes.
+# Faust: Now, let’s try again. Close your eyes.
 Фауст: Что же, давайте попробуем снова. Закройте глаза.
 
-# Original: Though I have no eyes to close, blocking out my sight is something I’ve done.
+# Narrator: Though I have no eyes to close, blocking out my sight is something I’ve done.
 Рассказчик: У меня нет глаз, однако я уже умею блокировать обзор.
 
-# Original: I had no reason not to follow Faust’s instruction here.
+# Narrator: I had no reason not to follow Faust’s instruction here.
 Рассказчик: И у меня нет причин не послушать совета Фауст.
 
-# Original: In fact, the door is everywhere.
+# Faust: In fact, the door is everywhere.
 Фауст: На самом деле, необходимая нам дверь находится повсюду.
 
-# Original: However, only you can see it. For the stars never set in your sky.
+# Faust: However, only you can see it. For the stars in your sky have not fallen.
 Фауст: Но лишь вам суждено её увидеть. Потому что в ваших небесах звёзды не предопределены.
 
-# Original: At that, I felt a thread of light creep into my sight.
+# Narrator: At that, I felt a sliver of light easing into my sight.
 Рассказчик: Внезапно я почувствовал, как в моё поле зрения начали просачиваться лучи света.
 
-# Original: As if to open my eyes, I embraced that light.
+# Narrator: I let it come to me the same way I'd open my eyes.
 Рассказчик: Я принял этот свет, как если бы открыл глаза.
 
-# Original: Then I saw a space.
+# Narrator: And then... an expanse of space laid itself out ahead.
 Рассказчик: После этого я увидел какое-то место.
 
-# Original: I was alone there.
+# Narrator: There, I was alone...
 Рассказчик: Только я находился здесь,
 
-# Original: And a massive door stood before me.
+# Narrator: ... with a massive door that stood before me.
 Рассказчик: и передо мной возвышалась огромная дверь.
 
-# Original: It wasn’t a pleasant sight.
+# Narrator: It wasn’t a pleasant sight.
 Рассказчик: Это была не самая приятная картина.
 
-# Original: Suffocating heat and agonized cries seep through the gap.
+# Narrator: Waves of suffocating heat and cries of agony escape through the gap.
 Рассказчик: За дверью ощущалась дикая смесь из сильного жара и неистовых криков.
 
-# Original: Hearing the endless laments and wailing for even a split second makes me feel faint.
+# Narrator: My mind almost blacks out at the sound of the incessant lamentations and wailing.
 Рассказчик: До моего слуха доносился вой нескончаемого горя, и от этого я чувствовал себя так, словно я был где-то далеко.
 
-# Original: However, I’m approaching the door, grasping at its handles as if it’s what I was born to do.
+# Narrator: However, I find myself approaching the door still, grasping at its handles as if it's the most natural thing to do.
 Рассказчик: Но, будто это обычное для меня дело, я подошёл к двери и взялся за её ручки; казалось, я был рождён для этого.
 
-# Original: Despite being seemingly heavy, pulling it open was surprisingly easy.
+# Narrator: Despite appearing rather ponderous, the door opens without much resistance.
 Рассказчик: Несмотря на то, что дверь казалась крайне тяжёлой, открыть её не составило совершенно никакого труда.
 
-# Original: I grope about in the door. Thousands upon thousands of last wails lay within.
+# Narrator: I run my hand along the inside of the door. Thousands upon thousands of cacophonous wailings lie within.
 Рассказчик: За дверью я слепо шарил среди тысяч рук, тянущихся к щели. Тысячи и тысячи криков скрывались за ней.
 
-# Original: And reaching inside, I grab a few unknown hands.
+# Narrator: And reaching further inside, I grab a few outstretched hands.
 Рассказчик: И среди них я нащупал несколько рук и схватился за них.
 
-# Original: I can feel the histories of different sins bearing their brands crawl up my hand onto my arm.
+# Narrator: I can feel the histories of different sins, each bearing a brand of its own, crawling along my hand and up my arm.
 Рассказчик: Я чувствую истории разных грехов с их собственным клеймом, медленно ползущие по моим рукам.
 
-# Original: Art thou prepared to share the pain?
+# Narrator: Art thou prepared to share the pain?
 Рассказчик: Готовы ли вы разделить чужую боль?
 
-# Original: Could that have been a question? Or rather, pressure to comply?
+# Narrator: Could that have been a question? Or rather, pressure to comply?
 Рассказчик: Был ли это вопрос? Или же слова наставления, требующие послушания?
 
-# Original: I pulled forth the Sinners grasping my hand with all my strength.
+# Narrator: With all my strength, I yank out the Sinners clinging to my hand from the door.
 Рассказчик: Что есть мочи я вытягиваю грешников, держащихся за мои руки.
 
-# Original: <…RAHHHHGH!>
+# Dante: <... RAHHHHGH!>
 Данте: <…ГРА-А-А-А!>
 
-# Original: A terrible pain spreads through my neck and head.
+# Narrator: A terrible pain spreads through my neck and head.
 Рассказчик: Ужасающая боль распространилась по шее и голове.
 
-# Original: It’s so crushingly severe, it makes me wish I were dead.
+# Narrator: A torture so unbearable I'd have taken death over it—and it refused to let up.
 Рассказчик: Казалось, смертельная боль будет длиться вечно.
 
-# Original: The indescribable sensation of bone and muscle twisting, entangling with each other, goes on for what feels like an eternity.
-Рассказчик: Будто чувству скручивающихся костей и мышц, переплетающихся между собой, не будет конца. 
+# Narrator: The sensation of bones and muscles twisting and entangling with each other goes on for what feels like an eternity.
+Рассказчик: Будто чувству скручивающихся костей и мышц, переплетающихся между собой, не будет конца.
 
-# Original: My legs weren’t prepared to endure all this agony; I fell to kneel atop the pool of blood in helplessness.
+# Narrator: My untrained legs buckle under the unbearable pain, and I drop to my knees onto the pool of blood.
 Рассказчик: Мои ноги недостаточно крепки, чтобы вытерпеть такую агонию, и я беспомощно упал на колени в лужу крови.
 
-# Original: Then I see it.
+# Narrator: And then I see it:
 Рассказчик: И затем я увидел.
 
-# Original: Trembles in the bloody pools, gradually growing into waves and bubbles rising from the floor.
+# Narrator: The vibrating surface of the red, viscous liquid bubbling and spattering as the pain grows even worse.
 Рассказчик: Пока боль усиливалась, кровь из лужи собиралась в пузырьки и волны и поднималась в воздух.
 
-# Original: Soon, that blood soaking the ground coalesced into three masses.
+# Narrator: Soon, the blood soaking the ground coagulated and fused into three separate masses.
 Рассказчик: Кровавая лужа, пропитавшая собой пол автобуса, вернулась в три изуродованных тела.
 
-# Original: Then the agony that seemed to last forever vanished just like that.
+# Narrator: Then the pain that seemed to go on forever disappeared just like that.
 Рассказчик: И тогда агония, что казалась вечной, прекратилась словно по щелчку.
 
-# Original: Mmgh…
+# Heathcliff: Mmgh...
 Хитклиф: Мгх…
 
-# Original: …Ugh.
+# Ishmael: ... Hrrk.
 Измаил: …Хх.
 
-# Original: As the lumps of blood rose into the air and flew away, my sight was cleared of dreadful redness, returning to the grumbling bus.
+# Narrator: As the lumps of blood rose into the air and flew off, the terrible red haze cleared from my vision, and I was once again returned to the rumbling bus.
 Рассказчик: И когда кровавые пузыри поднялись в воздух и исчезли, красный, ужасающий вид покинул моё поле зрения, мигом превратившись в трясущийся автобус.
 
-# Original: Keh… How does it feel to have your head back after it was severed? Was it exciting?
+# Ryōshū: Keh... What's it like, coming back from a decapitation? Did your heart race?
 Рёшу: Кх… Каково это, когда голову отрезают и затем возвращают на место? Ваши сердца колотились от восторга?
 
-# Original: Right as Heathcliff is restored to consciousness, he rubs his neck, mutters vulgar words, and approaches Ryōshū.
+# Narrator: As soon as Heathcliff comes to, he rubs his neck, hisses out a few curses, and stomps toward Ryōshū.
 Рассказчик: Едва очнувшись, Хитклиф схватился за шею, бросил пару ругательств и пошёл к Рёшу.
 
-# Original: <Hold on, I just brought you back and you’re going straight into another fight?>
+# Dante: <Hold on, I just brought you back and you’re going straight into another fight?>
 Данте: <Погодите, я только воскресил вас, а вы собираетесь начать новую драку?>
 
-# Original: Heathcliff turns around to glare at me. His eyes are those of a man devoured by blind fury.
+# Narrator: Heathcliff whips around to glare at me, eyes blinded with fury.
 Рассказчик: Хитклиф развернулся и бросил взгляд в мою сторону. В его глазах читалась лишь слепая ярость.
 
-# Original: Isn’t it your job to bring us back?
+# Heathcliff: It's your job to bring us back anyway, innit?
 Хитклиф: Разве не для того тебя приняли, чтобы воскрешать нас?
 
-# Original: If your job’s done, then step aside before I knock your dumb clock off.
+# Heathcliff: If that's done, then piss off before I smash in that bloody clock you call a head.
 Хитклиф: Сделал своё дело? Тогда не лезь, пока я не разломал циферблат этих часиков.
 
-# Original: P—Please, wait! Dante looks like they’re in a lot of pain, so we really should sh―
+# Sinclair: P-please, wait! Dante looks like they’re in a lot of pain. We really should sto—
 Синклер: П-постой! Кажется, господину Данте очень больно, так что нам стоит…
 
-# Original: Before he could finish, Heathcliff’s steel bat caved in the side of Sinclair’s head.
+# Narrator: Heathcliff does not wait for Sinclair to finish his speech, and slams his steel bat into the young man's skull.  
 Рассказчик: Синклер не успел договорить, как стальная бита Хитклифа со всей силы врезалась парню в висок.
 
-# Original: Kurgh…grh…
+# Sinclair: Kurgh... Grk...
 Синклер: Кха...кх…
 
-# Original: The incoherent gurgles of a dying person violated my ears.
+# Narrator: The bus filled with Sinclair's choking, unintelligible gurgles as he lay dying.
 Рассказчик: Послышалось неясное бормотание и стоны умирающего человека, и это разрывало мне сердце.
 
-# Original: Next time, Clockface, you’re crushed. Are we clear?
+# Heathcliff: Next time, Clockface, it'll be your noggin getting bashed. That clear enough?
 Хитклиф: Следующим, часоголовый, будешь ты. Уяснил?
 
-# Original: You really are as coarse as you look.
+# Ishmael: Guess you really are as much of a scumbag as you look.
 Измаил: Я думала, мне кажется, но нет, ты в самом деле настолько неотёсан и груб.
 
-# Original: …Was dying once not enough for you?
+# Heathcliff: ... Dying once not enough for you?
 Хитклиф: …Ты подохла уже разок, не хватило?
 
-# Original: Heathcliff tightens his grip on the bat, and Ishmael is ready to swing her weapon as well.
+# Narrator: Heathcliff tightens his grip on the bat while Ishmael readies to swing her mace.
 Рассказчик: Хитклиф сильнее сжал биту в своих руках, и булава Измаил приподнялась в готовности отражать удар.
 
-# Original: …Have I seriously become the manager of people who can’t be stopped even by death?
+# Narrator: ... How did I end up managing a bunch of people who stay the same wrecks even after literally coming back from death?
 Рассказчик: …Неужели я правда стал менеджером людей, вправить мозги которым не может даже смерть?
 
-# Original: While I was lost in thought, all tension in the bus suddenly dropped and froze over.
+# Narrator: As my mind wandered, a sinister chill swept in and froze the tension in the bus into total silence.
 Рассказчик: Пока я витал в своих мыслях, в автобусе стало холодно, словно воздух замёрз.
 
-# Original: Ahem, it seems this team’s in serious need of discipline.
+# Vergilius: ... Ah. It seems we are overdue for some proper discipline.
 Вергилий: Ага, похоже, вас пора поучить дисциплине.
 
-# Original: …!
+# Heathcliff: ...!
 Хитклиф: …!
 
-# Original: ……
+# Ishmael: ……
 Измаил: ……
 
-# Original: The Sinners on a collision course stopped dead in their tracks.
+# Narrator: The Sinners, who'd been seconds away from jumping at each other's throats, came to an immediate standstill...
 Рассказчик: Грешники, только собиравшиеся сцепиться в новой драке, с ужасом замерли на месте.
 
-# Original: A cold pair of red eyes cast their glare between the two.
+# Narrator: ... as a pair of red eyes raked over them with a freezing, merciless glare.
 Рассказчик: И над ними навис холодный красный взгляд.
 
-# Original: Rule number one.
+# Vergilius: Rule number one:
 Вергилий: Первое правило.
 
-# Original: Do not let me hear weapons clashing inside the bus.
+# Vergilius: Do not let me hear weapons clashing inside the bus.
 Вергилий: Чтобы я не слышал ни звука оружия в автобусе.
 
-# Original: If any of you break this rule as of now…
+# Vergilius: Any of you break this rule from this moment on...
 Вергилий: С этого момента, если хоть кто-то из вас нарушит это правило…
 
-# Original: You’re going to be begging for me to let you die.
+# Vergilius: You will be begging me to kill you before I'm done.
 Вергилий: Вы будете молить о том, чтобы я убил вас.
 
-# Original: I’m sure you know I’m capable of that and more, right?
+# Vergilius: I'm sure you're aware that I am capable of far more than just that, yes?
 Вергилий: И я могу исполнить ваши мольбы. Вы все прекрасно это знаете. Не так ли?
 
-# Original: Sinclair’s writhing on the floor was the only sound breaking the silence.
+# Narrator: Sinclair’s death throes were the only sound that broke the silence.
 Рассказчик: Теперь я слышу лишь звуки Синклера, корчащегося в предсмертной агонии на полу.
 
-# Original: Heathcliff glowered, but couldn’t bring himself to argue back.
+# Narrator: Heathcliff glowered at Vergilius, but didn't dare argue back.
 Рассказчик: Хитклиф злобно покосился на Вергилия, но так и не посмел высказать что-либо в ответ.
 
-# Original: Dante, I’m sorry about this. I need you to rewind one more time.
+# Vergilius: Apologies, Dante. I need you to rewind the clock again.
 Вергилий: Данте, простите, но я попрошу вас отмотать стрелки часов ещё раз.
 
-# Original: <I have to do that again…?>
+# Dante: <Again...?>
 Данте: <Отмотать снова…?>
 
-# Original: I’d rather die than have to bear that harrowing pain once more. I waggled my head in dejection.
+# Narrator: I quickly shook my head—there was no way I was putting myself through that again. It hurt so much that death seemed downright merciful.
 Рассказчик: Это действие настолько болезненно, что гораздо лучше молить о смерти. Я спешно покачал головой.
 
-# Original: The faint hint of a smile on Vergilius’s face vanishes as his expression shifts.
+# Narrator: The ghost of a smile on Vergilius's face evaporates as his expression hardens.
 Рассказчик: После этого, взгляд Вергилия изменился, и даже слабая улыбка сошла с его лица.
 
-# Original: …You’d better open up while I’m still feeling generous enough to ask and offer apologies, Manager Dante.
+# Vergilius: ... Best open that door while I'm still feeling generous enough to ask you nicely, Manager Dante.
 Вергилий: …Вам лучше открыть эту дверь, пока я извиняюсь и прошу по-хорошему, менеджер Данте.
 
-# Original: Oh, in case you’re refusing simply because you don’t want more pain, I can gladly help you with that.
+# Vergilius: Oh, and if it is the pain that you fear... If that is why you are shaking your head, I will gladly help you with that.
 Вергилий: А, ну а если вы отказываетесь просто потому что боитесь боли, я с радостью помогу вам.
 
-# Original: This degree of pain will feel like nothing by the time I’m done. Surely you’ll be a tougher person afterward, right?
+# Vergilius: The agony of rewinding won't even make you bat an eye once I'm finished. A surefire way to boost your pain tolerance, don't you think?
 Вергилий: Та боль покажется вам укусом комара к тому моменту, как я закончу. После этого вы станете сильнее, не так ли?
 
-# Original: Did I hear correctly? I’m pretty sure our manager clearly declined your request.
+# Outis: Did I hear you correctly? Our manager clearly declined your request.
 Отис: Я правильно вас расслышала? Мне кажется, менеджер явно дал понять, что отказывается.
 
-# Original: You… This is not the time to step in.
+# Vergilius: You... This interruption is ill-timed.
 Вергилий: Вы… выбрали не лучшее время, чтобы заступиться.
 
-# Original: I was informed when I joined the company that the Executive Manager would be my superior, not you.
+# Outis: I was informed when I joined the company that the Executive Manager would be my superior, not you.
 Отис: Когда я подписывала контракт, мне ясно сказали, что моим начальником будет менеджер, а не вы.
 
-# Original: I would say that the manager has made themself clear with a shake of the head.
+# Outis: I would say that the manager has made themself perfectly clear by shaking their head.
 Отис: И если менеджер качает головой, его решение передаётся вполне ясно.
 
-# Original: I see, so their aide has decided to step in, is that it?
+# Vergilius: I see, so the aide has decided to step in now, is that it?
 Вергилий: Итак, его верная помощница решила за него заступиться, да?
 
-# Original: Then it’s my turn to make clear what I mean.
+# Vergilius: Then let me make myself perfectly clear to you as well.
 Вергилий: Значит, мне пора сказать так, чтобы вы поняли.
 
-# Original: The red hue of his eyes grew deeper, much to my dread.
+# Narrator: Vergilius's eyes turned a deeper shade of red, sharpening that bone-cold stare.
 Рассказчик: Холод в автобусе лишь усилился, когда красный цвет его глаз стал только ярче.
 
-# Original: …I don’t really know what I’m meant to do as the manager, or if I even deserve to take this role.
+# Narrator: I don’t really know what I’m meant to do as the manager, or if I even deserve to take this role...
 Рассказчик: …Я не знаю, каково это — быть менеджером, и достоин ли я этой должности.
 
-# Original: But I felt that I should at least stop things here so we don’t get into an even bigger mess.
+# Narrator: ... but I felt that I should at least stop things from spiraling into an even bigger mess.
 Рассказчик: Но, по крайней мере, я могу сделать что-то, что предотвратит дальнейший погром.
 
-# Original: Reviving one should hurt less than reviving twelve at once…
+# Narrator: Bringing back one Sinner should hurt less than reviving all 12 at once...
 Рассказчик: Не так больно воскрешать одного, как все двенадцать человек разом…
 
-# Original: <Outis… I’ll rewind the clock. It’s okay.>
+# Dante: <Outis... I’ll rewind the clock. It’s okay.>
 Данте: <Отис… я отмотаю стрелки часов. Всё хорошо.>
 
-# Original: Vergilius noticed me motioning her to stand down, and withdrew the red glow from his glare as if in mutual understanding.
+# Narrator: Vergilius caught me frantically gesturing for Outis to stand down, and the red gleam in his eyes faded.
 Рассказчик: Заметив, что я останавливаю Отис жестом руки, Вергилий успокоился, и алый в его глазах немного угас.
 
-# Original: Good thinking.
+# Vergilius: A wise decision.
 Вергилий: Правильное решение.
 
-# Original: …As you wish, Manager.
+# Outis: ... As you wish, Executive Manager.
 Отис: …Как пожелаете, менеджер.
 
-# Original: Outis seemed to want to add her input, but she promptly backed down and straightened herself out.
+# Narrator: Outis looked like she had more to say, but quickly backed off and snapped into attention.
 Рассказчик: Кажется, Отис хотела что-то добавить, но вовремя спохватилась и, выпрямившись, отошла.
 
-# Original: The red door greeted me again, along with the twisting sensation.
+# Narrator: The red door greeted me again, bringing with it the sickening sensation of my bones and muscles churning and contorting against one another.
 Рассказчик: Вновь меня встретила алая дверь, и вновь я чувствую, как скручиваются кости и мышцы.
 
-# Original: I’ve given up trying to describe the throes I go through.
+# Narrator: I decided to stop describing the pain to myself going forward.
 Рассказчик: Я больше не буду рассказывать о всей агонии, через которую я прохожу.
 
-# Original: Words can’t express it in full, anyway.
+# Narrator: It's not the sort of torture I could ever put a name on, anyway.
 Рассказчик: Всё равно я не смогу описать это так, как оно есть.
 
-# Original: …Th, thank you very much…
+# Sinclair: ... Th-thank you...
 Синклер: …Б-благодарю вас…
 
-# Original: Sinclair stood up with a pained moan and bowed to me before waddling back to his seat.
+# Narrator: Sinclair stood up with a pained moan and bowed in appreciation before tottering back to his seat.
 Рассказчик: Синклер, с болезненным стоном поднявшись на ноги, поклонился мне и вернулся на своё место.

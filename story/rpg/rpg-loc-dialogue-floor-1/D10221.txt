@@ -1,98 +1,98 @@
-﻿# Original: <For now... let's head to where the Mannequins are.>
+﻿# Dante: <For now... let's head to where the Mannequins are.>
 Данте: <Пока что... пойдём туда, где Манекены.>
 
-# Original: Okay, then... we'll help them to the exit.
+# Rodion: Okay, then... we'll help them to the exit.
 Родион: Ну ладно... проводим их к выходу.
 
-# Original: Good choice. You only need to help three Mannequins to the exit.
+# Mimosa: Good choice. You only need to help three Mannequins to the exit.
 Мимоза: Хороший выбор. Вам нужно помочь всего трём Манекенам добраться до выхода.
 
-# Original: <We'll be back, so stay in storage—I mean, wait for us here, Meursault.>
+# Dante: <We'll be back, so stay in storage—I mean, wait for us here, Meursault.>
 Данте: <Мы вернёмся, так что оставайся на хранении... то есть жди нас здесь, Мерсо.>
 
-# Original: ... I must accompany you, Manager.
+# Meursault: ... I must accompany you, Manager.
 Мерсо: ... Я должен сопровождать вас, Менеджер.
 
-# Original: <What for?>
+# Dante: <What for?>
 Данте: <Зачем?>
 
-# Original: Aw~ You're thinkin' we're not up to the task, aren'tcha?
+# Rodion: Aw~ You're thinkin' we're not up to the task, aren'tcha?
 Родион: Ой~ Думаешь, мы сами не справимся, да?
 
-# Original: A question, Manager. It is likely that you have encountered entities they refer to as "Mannequins" on your way to this room. Did you try making physical contact with them?
+# Meursault: A question, Manager. It is likely that you have encountered entities they refer to as "Mannequins" on your way to this room. Did you try making physical contact with them?
 Мерсо: Позвольте задать вопрос, Менеджер. Вероятно, по пути в эту комнату вы встречали существ, которых здесь называют «Манекенами». Вы пытались вступить с ними в физический контакт?
 
-# Original: <Uh... I'm not sure exactly what counts as a "Mannequin," but I haven't tried touching any of them just yet. Some didn't seem to perceive me at all, actually...>
+# Dante: <Uh... I'm not sure exactly what counts as a "Mannequin," but I haven't tried touching any of them just yet. Some didn't seem to perceive me at all, actually...>
 Данте: <Э-э... Я не совсем понимаю, кто именно считается «Манекеном», но пока ни к кому из них не пробовал прикоснуться. А некоторые меня, кажется, вообще не замечали...>
 
-# Original: Indeed. Contact would have been impossible. I am likely the only person capable of direct intervention with the entities that exist in here.
+# Meursault: Indeed. Contact would have been impossible. I am likely the only person capable of direct intervention with the entities that exist in here.
 Мерсо: Именно. Контакт был бы невозможен. Вероятно, я единственный, кто способен непосредственно взаимодействовать с существами, обитающими здесь.
 
-# Original: However, standing behind me in a line will allow for a limited degree of interactivity with the environment, though it will not be sufficient to engage these entities in battle.
+# Meursault: However, standing behind me in a line will allow for a limited degree of interactivity with the environment, though it will not be sufficient to engage these entities in battle.
 Мерсо: Однако, выстроившись за мной в ряд, вы сможете в ограниченной степени взаимодействовать с окружением, хотя для вступления в бой с этими существами этого будет недостаточно.
 
-# Original: <Huh. And why is that...?>
+# Dante: <Huh. And why is that...?>
 Данте: <Хм. И почему же...?>
 
-# Original: Because this place belongs to the Symbolic, Manager.
+# Meursault: Because this place belongs to the Symbolic, Manager.
 Мерсо: Потому что это место принадлежит Символическому, Менеджер.
 
-# Original: Are ya sayin'... we cannot participate in any battles that take place in here?
+# Rodion: Are ya sayin'... we can't participate in any battles that take place in here?
 Родион: То есть... мы не можем участвовать в здешних боях?
 
-# Original: It will be possible in the Shadowed.
+# Meursault: It will be possible in the Shadowed.
 Мерсо: В Теневом это будет возможно.
 
-# Original: Symbolic, Shadowed... What are those?
+# Ishmael: Symbolic, Shadowed... What are those?
 Измаил: Символический, Теневой... Что это такое?
 
-# Original: They are names for the constituent worlds of this department store.
+# Meursault: They are names for the constituent worlds of this department store.
 Мерсо: Это названия миров, из которых состоит данный торговый центр.
 
-# Original: Uh... That's not much of an answer, is it.
+# Ishmael: Uh... That's not much of an answer, is it.
 Измаил: Э-э... Это ведь толком ничего не объясняет.
 
-# Original: A more thorough explanation than this would require a significant time investment.
+# Meursault: A more thorough explanation than this would require a significant time investment.
 Мерсо: Более подробное объяснение потребует значительных затрат времени.
 
-# Original: <... Either way, we do need Meursault with us if we're going to make any real progress, right?>
+# Dante: <... Either way, we do need Meursault with us if we're going to make any real progress, right?>
 Данте: <... В любом случае, без Мерсо мы ничего толком не добьёмся, верно?>
 
-# Original: That is correct, Manager.
+# Meursault: That is correct, Manager.
 Мерсо: Совершенно верно, Менеджер.
 
-# Original: <Then you should take the lead, Meursault.>
+# Dante: <Then you should take the lead, Meursault.>
 Данте: <Тогда иди впереди, Мерсо.>
 
-# Original: <I'll tell you which way to go.>
+# Dante: <I'll tell you which way to go.>
 Данте: <Я буду говорить, куда идти.>
 
-# Original: It will be done.
+# Meursault: It will be done.
 Мерсо: Будет исполнено.
 
-# Original: They need me to accompany them in order to fulfill the work you assigned to us. May I step away for a short while?
+# Meursault: They need me to accompany them in order to fulfill the work you assigned to us. May I step away for a short while?
 Мерсо: Для выполнения порученной вами работы им необходимо моё сопровождение. Могу ли я ненадолго отлучиться?
 
-# Original: Yeah, sure.
+# Mimosa: Yeah, sure.
 Мимоза: Да, конечно.
 
-# Original: <... Wait, we have Meursault now. What if we just split and never came back?>
+# Dante: <... Wait, we have Meursault now. What if we just split and never came back?>
 Данте: <... Погодите, теперь Мерсо с нами. Что, если мы просто уйдём и больше не вернёмся?>
 
-# Original: Fleeing would not prevent me from being placed in storage, Manager.
+# Meursault: Fleeing would not prevent me from being placed in storage, Manager.
 Мерсо: Бегство не предотвратит моего помещения на хранение, Менеджер.
 
-# Original: Okay... so you're saying runnin' away with you would cause trouble for us, right?
+# Rodion: Okay... so you're saying runnin' away with you would cause trouble for us, right?
 Родион: Ладно... то есть, если мы сбежим вместе с тобой, у нас будут неприятности, да?
 
-# Original: Correct.
+# Meursault: Correct.
 Мерсо: Верно.
 
-# Original: Maybe this place has its own Laws—just like the Great Lake.
+# Ishmael: Maybe this place has its own Laws—just like the Great Lake.
 Измаил: Может, здесь свои Законы — как на Великом озере.
 
-# Original: *sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.
+# Ishmael: *sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.
 Измаил: *вздох* Давайте сделаем, как говорит Мерсо. Не знаю, как и почему, но, похоже, он хорошо знаком с этим торговым центром.
 
-# Original: <Right. Sounds like a plan.>
+# Dante: <Right. Sounds like a plan.>
 Данте: <Ладно. Так и поступим.>

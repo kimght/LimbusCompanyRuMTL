@@ -1,80 +1,80 @@
-﻿# Original: <color=#a5ab8e>Still walking in circles, I see.</color>
+﻿# Jeanne: <color=#a5ab8e>Still walking in circles, I see.</color>
 Жанна: <color=#a5ab8e>Всё ещё ходите кругами, как я погляжу.</color>
 
-# Original: <color=#a5ab8e>Ma puce, do you remember that expensive coq au vin we shared at the Pont Royal?</color>
+# Jeanne: <color=#a5ab8e>Ma puce, do you remember that expensive coq au vin we shared at the Pont Royal?</color>
 Жанна: <color=#a5ab8e><i>Ма пюс</i>, помнишь того дорогого петуха в вине, которого мы ели в Пон-Руаяле?</color>
 
-# Original: I remember. It was an Experience Cuisine, stewed in wine several times more expensive than the primary ingredient.
+# Meursault: I remember. It was an Experience Cuisine, stewed in wine several times more expensive than the primary ingredient.
 Мерсо: Помню. Это было блюдо Кухни Опыта, тушённое в вине, которое стоило в несколько раз дороже основного ингредиента.
 
-# Original: Jeanne, your condition was... poor. You repeatedly complained of headaches and nausea, and had to lean on my shoulder as we walked through the streets. Despite that, you disregarded my suggestion that you return home.
+# Meursault: Jeanne, your condition was... poor. You repeatedly complained of headaches and nausea, and had to lean on my shoulder as we walked through the streets. Despite that, you disregarded my suggestion that you return home.
 Мерсо: Жанна, твоё состояние было... неудовлетворительным. Ты неоднократно жаловалась на головную боль и тошноту, и во время прогулки по улицам тебе приходилось опираться на моё плечо. Несмотря на это, ты проигнорировала моё предложение вернуться домой.
 
-# Original: <color=#a5ab8e>Well, it was our first anniversary. Fortunately, I felt much better once we sat down at the bar.</color>
+# Jeanne: <color=#a5ab8e>Well, it was our first anniversary. Fortunately, I felt much better once we sat down at the bar.</color>
 Жанна: <color=#a5ab8e>Ну, это была наша первая годовщина. К счастью, мне стало гораздо лучше, стоило нам сесть в баре.</color>
 
-# Original: <color=#a5ab8e>Because, by sheer coincidence... the Experience Wine that came with it happened to contain a waltz I adored. Isn't that strange? It wasn't even a particularly famous piece.</color>
+# Jeanne: <color=#a5ab8e>Because, by sheer coincidence... the Experience Wine that came with it happened to contain a waltz I adored. Isn't that strange? It wasn't even a particularly famous piece.</color>
 Жанна: <color=#a5ab8e>Ведь по чистой случайности... в Опыте Вина, который подали к блюду, оказался вальс, который я обожала. Странно, правда? Он ведь даже не был особенно известным.</color>
 
-# Original: <color=#a5ab8e>As I sat there enchanted by the music... as if they'd agreed to meet, our forks clinked. Over a plate of carrot-flavored Experience Salad I hardly ever ate, too!</color>
+# Jeanne: <color=#a5ab8e>As I sat there enchanted by the music... as if they'd agreed to meet, our forks clinked. Over a plate of carrot-flavored Experience Salad I hardly ever ate, too!</color>
 Жанна: <color=#a5ab8e>Я сидела, очарованная музыкой... и наши вилки звякнули друг о друга, словно заранее условились встретиться. И где — над тарелкой Опыта Салата со вкусом моркови, который я почти никогда не ела!</color>
 
-# Original: So the staple in N Corp. is food that lets you experience, uh, the experience of eating different menu...?
+# Gregor: So the staple in N Corp. is food that lets you experience, uh, the experience of eating different menu...?
 Грегор: То есть в Корпорации N в основном едят пищу, которая даёт испытать, э-э, опыт поедания разных блюд...?
 
-# Original: <color=#a5ab8e>What did you expect? Having a real carrot salad and the experience of doing so are one and equal at N Corp. It's considered morally decent, even, to experience the food you want through Experience Cuisines instead of eating the real thing. I knew it all too well, and yet...</color>
+# Jeanne: <color=#a5ab8e>What did you expect? Having a real carrot salad and the experience of doing so are one and equal at N Corp. It's considered morally decent, even, to experience the food you want through Experience Cuisines instead of eating the real thing. I knew it all too well, and yet...</color>
 Жанна: <color=#a5ab8e>А чего ты ожидал? Съесть настоящий морковный салат и пережить опыт его поедания — для Корпорации N одно и то же. Пережить опыт поедания желанной еды с помощью Кухни Опыта, а не есть настоящую, считается даже нравственно правильным. Я прекрасно это знала, и всё же...</color>
 
-# Original: <color=#a5ab8e>... It was the strangest thing. The instant that tiny clink of forks died away, my nausea stopped—as though the world had begun turning the other way.</color>
+# Jeanne: <color=#a5ab8e>... It was the strangest thing. The instant that tiny clink of forks died away, my nausea stopped—as though the world had begun turning the other way.</color>
 Жанна: <color=#a5ab8e>... Это было так странно. Едва затих тот лёгкий звон вилок, тошнота прошла — словно мир начал вращаться в другую сторону.</color>
 
-# Original: <color=#a5ab8e>Was it the beautiful waltz playing at the bar? Or was it... the feeling of my fork touching yours, ma puce?</color>
+# Jeanne: <color=#a5ab8e>Was it the beautiful waltz playing at the bar? Or was it... the feeling of my fork touching yours, ma puce?</color>
 Жанна: <color=#a5ab8e>Было ли дело в прекрасном вальсе, звучавшем в баре? Или... в ощущении того, как моя вилка коснулась твоей, <i>ма пюс</i>?</color>
 
-# Original: ... It was because the bar was quiet and sparsely occupied.
+# Meursault: ... It was because the bar was quiet and sparsely occupied.
 Мерсо: ... Причиной было то, что в баре было тихо и безлюдно.
 
-# Original: <color=#a5ab8e>Maybe so. But it was an unforgettable experience for me.</color>
+# Jeanne: <color=#a5ab8e>Maybe so. But it was an unforgettable experience for me.</color>
 Жанна: <color=#a5ab8e>Возможно. Но для меня это стало незабываемым переживанием.</color>
 
-# Original: <color=#a5ab8e>But you... you must remember the nausea instead.</color>
+# Jeanne: <color=#a5ab8e>But you... you must remember the nausea instead.</color>
 Жанна: <color=#a5ab8e>А вот ты... ты, должно быть, помнишь лишь тошноту.</color>
 
-# Original: <color=#a5ab8e>That sort of qualification was trained and drilled into you since you were a child, after all.</color>
+# Jeanne: <color=#a5ab8e>That sort of qualification was trained and drilled into you since you were a child, after all.</color>
 Жанна: <color=#a5ab8e>Ведь именно так оценивать происходящее тебя учили и приучали с самого детства.</color>
 
-# Original: ......
+# Meursault: ......
 Мерсо: ......
 
-# Original: <color=#a5ab8e>It's not difficult to make use of this place.</color>
+# Jeanne: <color=#a5ab8e>It's not difficult to make use of this place.</color>
 Жанна: <color=#a5ab8e>Пользоваться этим местом нетрудно.</color>
 
-# Original: <color=#a5ab8e>The only reason it appears so cryptic is that you're all outsiders—strangers.</color>
+# Jeanne: <color=#a5ab8e>The only reason it appears so cryptic is that you're all outsiders—strangers.</color>
 Жанна: <color=#a5ab8e>Оно кажется таким загадочным лишь потому, что вы все здесь чужие — посторонние.</color>
 
-# Original: Is there some trick to it? A condition, maybe...? Say, something like skipping all the odd-numbered stairs?
+# Gregor: Is there some trick to it? A condition, maybe...? Say, something like skipping all the odd-numbered stairs?
 Грегор: Тут есть какая-то хитрость? Может, условие...? Ну, скажем, нужно пропускать все нечётные ступеньки?
 
-# Original: <color=#a5ab8e>Nothing so riddling. That would be far too difficult.</color>
+# Jeanne: <color=#a5ab8e>Nothing so riddling. That would be far too difficult.</color>
 Жанна: <color=#a5ab8e>Никаких таких головоломок. Это было бы слишком сложно.</color>
 
-# Original: <color=#a5ab8e>You simply have to "          " everything you see with care—in the finest possible detail. Surrender yourself to unfamiliar doubts and questions.</color>
+# Jeanne: <color=#a5ab8e>You simply have to "          " everything you see with care—in the finest possible detail. Surrender yourself to unfamiliar doubts and questions.</color>
 Жанна: <color=#a5ab8e>Вам просто нужно тщательно "          " всё, что вы видите, — в мельчайших подробностях. Отдайтесь незнакомым сомнениям и вопросам.</color>
 
-# Original: <color=#a5ab8e>Can an escalator that does not move still be an escalator?</color>
+# Jeanne: <color=#a5ab8e>Can an escalator that does not move still be an escalator?</color>
 Жанна: <color=#a5ab8e>Может ли неподвижный эскалатор по-прежнему быть эскалатором?</color>
 
-# Original: ... It would be closer to the nature of a staircase.
+# Meursault: ... It would be closer to the nature of a staircase.
 Мерсо: ... По своей сути он был бы ближе к лестнице.
 
-# Original: <color=#a5ab8e>Would it? Can that sealed, impassable structure—one that permits neither ascent nor descent—truly be said to resemble a staircase?</color>
+# Jeanne: <color=#a5ab8e>Would it? Can that sealed, impassable structure—one that permits neither ascent nor descent—truly be said to resemble a staircase?</color>
 Жанна: <color=#a5ab8e>Разве? Можно ли сказать, что эта запечатанная, непроходимая конструкция, которая не позволяет ни подняться, ни спуститься, действительно подобна лестнице?</color>
 
-# Original: ......
+# Meursault: ......
 Мерсо: ......
 
-# Original: <color=#a5ab8e>You must keep looking. Don't stop.</color>
+# Jeanne: <color=#a5ab8e>You must keep looking. Don't stop.</color>
 Жанна: <color=#a5ab8e>Ты должен продолжать смотреть. Не останавливайся.</color>
 
-# Original: <color=#a5ab8e>If you suspend judgment and circle the question again and again, the dizziness will ease.</color>
+# Jeanne: <color=#a5ab8e>If you suspend judgment and circle the question again and again, the dizziness will ease.</color>
 Жанна: <color=#a5ab8e>Если ты воздержишься от суждений и будешь вновь и вновь обходить вопрос со всех сторон, головокружение утихнет.</color>

@@ -1,76 +1,76 @@
-﻿# Original: <color=#E1B643>So nice to meet you, Dante.</color>
+﻿# ???: <color=#E1B643>So nice to meet you, Dante.</color>
 ???: <color=#E1B643>Так приятно познакомиться, Данте.</color>
 
-# Original: <color=#E1B643>This is the first time we've met each other so up close, isn't it?</color>
+# ???: <color=#E1B643>This is the first time we've met each other so up close, isn't it?</color>
 ???: <color=#E1B643>Мы ведь впервые встречаемся так близко, правда?</color>
 
-# Original: <...!>
+# Dante: <...!>
 Данте: <...!>
 
-# Original: Unlike the faint murmur I've heard before, the same voice now tickled and warmed my proverbial ear with the clarity of someone whispering right into it. At the same time, it felt as though the voice were speaking from an impossibly far-away place, every word echoing just for me.
+# Narrator: Unlike the faint murmur I've heard before, the same voice now tickled and warmed my proverbial ear with the clarity of someone whispering right into it. At the same time, it felt as though the voice were speaking from an impossibly far-away place, every word echoing just for me.
 Рассказчик: В отличие от едва различимого шёпота, который я слышал прежде, тот же голос теперь щекотал и согревал моё фигуральное ухо с отчётливостью, будто кто-то шептал прямо в него. И в то же время казалось, что голос звучит из невообразимо далёкого места, и каждое его слово отдаётся эхом лишь для меня одного.
 
-# Original: As though I've finally been made to discover the resonance... that had been calling out to me for so, so long. Yes, that's how it felt...
+# Narrator: As though I've finally been made to discover the resonance... that had been calling out to me for so, so long. Yes, that's how it felt...
 Рассказчик: Словно меня наконец заставили услышать тот отзвук... что звал меня так долго-долго. Да, именно так это ощущалось...
 
-# Original: ... Manager.
+# Meursault: ... Manager.
 Мерсо: ... Менеджер.
 
-# Original: Please step back. Do not answer the voice.
+# Meursault: Please step back. Do not answer the voice.
 Мерсо: Прошу, отойдите. Не отвечайте голосу.
 
-# Original: Prolonged exposure... to the sunshine... is inadvisable...
+# Meursault: Prolonged exposure... to the sunshine... is inadvisable...
 Мерсо: Длительное пребывание... на солнечном свету... не рекомендуется...
 
-# Original: Meursault's warning was firm and crystal clear—despite that, I found myself unable to take so much as a single step away from the wall.
+# Narrator: Meursault's warning was firm and crystal clear—despite that, I found myself unable to take so much as a single step away from the wall.
 Рассказчик: Предупреждение Мерсо было твёрдым и предельно ясным, и всё же я не мог отступить от стены ни на шаг.
 
-# Original: And I wasn't the only one. Hong Lu and Don Quixote stood rooted in their spots as though something pinned them to the ground—in fact, it appeared that they could not move a single muscle or even move to cover their ears and block out the voice.
+# Narrator: And I wasn't the only one. Hong Lu and Don Quixote stood rooted in their spots as though something pinned them to the ground—in fact, it appeared that they could not move a single muscle or even move to cover their ears and block out the voice.
 Рассказчик: И не только я. Хон Лу и Дон Кихот стояли как вкопанные, словно что-то пригвоздило их к полу. Казалось, они не могли пошевелить ни единым мускулом, даже чтобы зажать уши и не слышать голоса.
 
-# Original: <color=#E1B643>Meur... I can see you're not happy to hear from me, as always.</color>
+# ???: <color=#E1B643>Meur... I can see you're not happy to hear from me, as always.</color>
 ???: <color=#E1B643>Мер... Вижу, ты, как всегда, не рад меня слышать.</color>
 
-# Original: <color=#E1B643>But you know... maybe you shouldn't let your personal distaste for me
+# ???: <color=#E1B643>But you know... maybe you shouldn't let your personal distaste for me
 # dictate whether I should or shouldn't chat with your friends.
 # Isn't that the sort of judgmental behavior about right and wrong that you so dislike?</color>
 ???: <color=#E1B643>Но знаешь... может, не стоит позволять личной неприязни ко мне
 решать, можно мне болтать с твоими друзьями или нельзя.
 Разве это не то самое осуждение, деление на правильное и неправильное, которое ты так не любишь?</color>
 
-# Original: Surrounded by the silence of the living room, I sat absentmindedly in a patch of sunlight peering through a gap in the windowsill.
+# Narrator: Surrounded by the silence of the living room, I sat absentmindedly in a patch of sunlight peering through a gap in the windowsill.
 Рассказчик: Окружённый тишиной гостиной, я рассеянно сидел в пятне солнечного света, пробивавшегося сквозь щель у подоконника.
 
-# Original: The vacuum of what was once there. The warm chill circulating the air. The sun.
+# Narrator: The vacuum of what was once there. The warm chill circulating the air. The sun.
 Рассказчик: Пустота на месте того, что когда-то было. Тёплый холод, разлитый в воздухе. Солнце.
 
-# Original: Then... suddenly, warm sunshine filled my vision, as though I had opened my eyes in a park at midday.
+# Narrator: Then... suddenly, warm sunshine filled my vision, as though I had opened my eyes in a park at midday.
 Рассказчик: А потом... внезапно всё перед глазами залил тёплый солнечный свет, будто я открыл глаза в парке в полдень.
 
-# Original: It was so boundlessly bright... that I raised my hand to shield my eyes.
+# Narrator: It was so boundlessly bright... that I raised my hand to shield my eyes.
 Рассказчик: Он был так безгранично ярок... что я поднял руку, заслоняя глаза.
 
-# Original: ... It's blinding.
+# Meursault: ... It's blinding.
 Мерсо: ... Слепит.
 
-# Original: <color=#E1B643>If my light dazzles you, it's only because you've been in the dark for so long.</color>
+# ???: <color=#E1B643>If my light dazzles you, it's only because you've been in the dark for so long.</color>
 ???: <color=#E1B643>Если мой свет тебя слепит, то лишь потому, что ты слишком долго пробыл во тьме.</color>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>.......</color>
-???: <color=#E1B643>.......</color>
+# ???: <color=#E1B643>.......</color>
+???: <color=#E1B643>…….</color>
 
-# Original: <color=#E1B643>I like to think I've spoken with my fair share of buttoned-up people, Meursault...
+# ???: <color=#E1B643>I like to think I've spoken with my fair share of buttoned-up people, Meursault...
 # ... but you've got to be the most taciturn out of them all.</color>
 ???: <color=#E1B643>Мне хочется думать, что я на своём веку поговорила с немалым числом людей, застёгнутых на все пуговицы, Мерсо...
 ... но ты, пожалуй, самый немногословный из всех.</color>
 
-# Original: <color=#E1B643>It must've been so suffocating.
+# ???: <color=#E1B643>It must've been so suffocating.
 # Tens of thousands of thoughts howling under that quiet, taciturn demeanor...
-# ... and no one stopped to listen, did they?
-#
+# ... and no one stopped to listen, did they? 
+# [KEEP_LINE]
 # Even if they had, I don't suppose they would have understood how the world reflects in your eyes.</color>
 ???: <color=#E1B643>Тебе, наверное, было так душно.
 Десятки тысяч мыслей воют под этой тихой, молчаливой маской...
@@ -78,100 +78,100 @@
 [KEEP_LINE]
 Да и если бы остановились, вряд ли поняли бы, каким отражается мир в твоих глазах.</color>
 
-# Original: The curtain of sunshine talked to me in a beautiful voice. Bright. Uplifting.
+# Narrator: The curtain of sunshine talked to me in a beautiful voice. Bright. Uplifting.
 Рассказчик: Завеса солнечного света говорила со мной прекрасным голосом. Светлым. Ободряющим.
 
-# Original: It sympathized with the things in my mind that no one understood. It laid bare the thoughts that I had never shown another soul.
+# Narrator: It sympathized with the things in my mind that no one understood. It laid bare the thoughts that I had never shown another soul.
 Рассказчик: Он сочувствовал тому в моей душе, чего никто не понимал. Он обнажал мысли, которых я никогда не открывал ни одной живой душе.
 
-# Original: I knew I must not answer the voice... yet my lips quivered against my will.
+# Narrator: I knew I must not answer the voice... yet my lips quivered against my will.
 Рассказчик: Я знал, что нельзя отвечать голосу... и всё же мои губы дрожали против воли.
 
-# Original: <color=#E1B643>I see. You've chosen to cover your ears and squeeze your eyes shut.</color>
+# ???: <color=#E1B643>I see. You've chosen to cover your ears and squeeze your eyes shut.</color>
 ???: <color=#E1B643>Понятно. Ты решил зажать уши и крепко зажмуриться.</color>
 
-# Original: <color=#E1B643>But Meursault...
+# ???: <color=#E1B643>But Meursault...
 # If it could be unheard by covering your ears, if it could be unseen by closing your eyes...
 # ... then that was probably never the sunlight to begin with.</color>
 ???: <color=#E1B643>Но, Мерсо...
 Если его можно перестать слышать, зажав уши, если его можно перестать видеть, закрыв глаза...
 ... значит, это, вероятно, с самого начала был вовсе не солнечный свет.</color>
 
-# Original: <color=#E1B643>You see, the light that my favorite junior worked so hard to fire up into the sky, to plant...
+# ???: <color=#E1B643>You see, the light that my favorite junior worked so hard to fire up into the sky, to plant...
 # ... shines down everywhere, on everyone. It doesn't discriminate.</color>
 ???: <color=#E1B643>Видишь ли, свет, который мой любимый младший коллега с таким трудом запустил в небо, чтобы посеять ...
 ... светит повсюду и на всех. Он не делает различий.</color>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>All I want is to offer you a choice.
+# ???: <color=#E1B643>All I want is to offer you a choice.
 # You can always say no if you don't like what you hear.</color>
 ???: <color=#E1B643>Я всего лишь хочу предложить тебе выбор.
 Ты всегда можешь отказаться, если тебе не понравится то, что ты услышишь.</color>
 
-# Original: Air leaks from my lungs in uncontrolled bursts of gasps—ecstatic, joyful, thrilled, hoping. With every breath I take, the warm, feel-good emotions enter my nose and pool in the back of my throat.
+# Narrator: Air leaks from my lungs in uncontrolled bursts of gasps—ecstatic, joyful, thrilled, hoping. With every breath I take, the warm, feel-good emotions enter my nose and pool in the back of my throat.
 Рассказчик: Воздух вырывается из лёгких неудержимыми прерывистыми вздохами, восторженными, радостными, взволнованными, полными надежды. С каждым вдохом тёплые, приятные чувства проникают в нос и скапливаются в глубине горла.
 
-# Original: Somewhere in my heart, I count to 10, trying to contain them. Then, in my head, 20. I imagine ranks upon ranks of absurdities. Nothing works. My vocal cords, heated to the roots by the inescapable sunlight, start to tingle excitedly.
+# Narrator: Somewhere in my heart, I count to 10, trying to contain them. Then, in my head, 20. I imagine ranks upon ranks of absurdities. Nothing works. My vocal cords, heated to the roots by the inescapable sunlight, start to tingle excitedly.
 Рассказчик: Где-то в сердце я считаю до 10, пытаясь их сдержать. Потом, в голове, до 20. Я представляю ряды за рядами нелепостей. Ничего не помогает. Мои голосовые связки, прогретые до самых корней неотвратимым солнечным светом, начинают возбуждённо покалывать.
 
-# Original: ... What...
+# Meursault: ... What...
 Мерсо: ... Что...
 
-# Original: ... What do you offer?
+# Meursault: ... What do you offer?
 Мерсо: ... Что вы предлагаете?
 
-# Original: <color=#E1B643>Can you imagine what it'd be like... to be peeled away from this terrifying world? All by yourself.</color>
+# ???: <color=#E1B643>Can you imagine what it'd be like... to be peeled away from this terrifying world? All by yourself.</color>
 ???: <color=#E1B643>Можешь представить, каково это... отделиться от этого ужасающего мира? Быть совсем одному.</color>
 
-# Original: <color=#E1B643>What if you no longer had to wrap those chains around yourself... no longer be nailed beneath anyone's gaze, no longer captured by others or bound by "common sense"?</color>
+# ???: <color=#E1B643>What if you no longer had to wrap those chains around yourself... no longer be nailed beneath anyone's gaze, no longer captured by others or bound by "common sense"?</color>
 ???: <color=#E1B643>Что, если бы тебе больше не пришлось обматывать себя этими цепями... если бы тебя больше не пригвождал ничей взгляд, если бы ты больше не был пленником других и не был скован «здравым смыслом»?</color>
 
-# Original: I am undressed, naked in the light. The sunshine reveals all secrets, and it whispers to me the one thing that I've truly wanted.
+# Narrator: I am undressed, naked in the light. The sunshine reveals all secrets, and it whispers to me the one thing that I've truly wanted.
 Рассказчик: Я раздет, нагой в этом свете. Солнечный свет раскрывает все тайны и шепчет мне то единственное, чего я по-настоящему хотел.
 
-# Original: <color=#E1B643>No more minding the gaze of others.
+# ???: <color=#E1B643>No more minding the gaze of others.
 # No more minding the thoughts of others.
 # You could simply <i>be</i> yourself... <i>live</i> as yourself.</color>
 ???: <color=#E1B643>Больше не оглядываться на чужие взгляды.
 Больше не оглядываться на чужие мысли.
 Ты мог бы просто <i>быть</i> собой... <i>жить</i>, оставаясь собой.</color>
 
-# Original: That is... impossible.
+# Meursault: That is... impossible.
 Мерсо: Это... невозможно.
 
-# Original: <color=#E1B643>You're right. The City has never allowed such a thing.</color>
+# ???: <color=#E1B643>You're right. The City has never allowed such a thing.</color>
 ???: <color=#E1B643>Ты прав. Город никогда такого не позволял.</color>
 
-# Original: <color=#E1B643>You couldn't possibly have known how. Couldn't find the path.
+# ???: <color=#E1B643>You couldn't possibly have known how. Couldn't find the path.
 # To you, the world remained foreign; however many times you struck against it,
 # its only response was silence... rendering you mute.</color>
 ???: <color=#E1B643>Ты никак не мог знать, как это сделать. Не мог найти путь.
 Мир оставался для тебя чужим; сколько бы ты о него ни бился,
 он отвечал лишь молчанием... и ты сам становился немым.</color>
 
-# Original: <color=#E1B643>But a new era has come, bearing this sunlight.
+# ???: <color=#E1B643>But a new era has come, bearing this sunlight.
 # A new age where you can howl as loudly as you wish, and... people <i>will listen</i>.</color>
 ???: <color=#E1B643>Но настала новая эра, и она несёт этот солнечный свет.
 Новая эпоха, в которой ты можешь выть так громко, как пожелаешь, и... быть <i>услышанным</i>.</color>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>Let me help you.
+# ???: <color=#E1B643>Let me help you. 
 # Even if yours is a color no other person can understand,
-# even if that color remains only in your eyes...
+# even if that color remains only in your eyes... 
 # I'll still help you paint the world with it.</color>
 ???: <color=#E1B643>Позволь мне помочь тебе.
 Даже если твой цвет не способен понять никто другой,
 даже если этот цвет существует лишь в твоих глазах...
 я всё равно помогу тебе раскрасить им мир.</color>
 
-# Original: ... Did you make the same offer to my mother?
+# Meursault: ... Did you make the same offer to my mother?
 Мерсо: ... Вы сделали то же предложение моей матери?
 
-# Original: <color=#E1B643>Similar, maybe... but not the same.
+# ???: <color=#E1B643>Similar, maybe... but not the same.
 # People like to think they understand one another, think they're kindred spirits...
 # But in the end, they understand nothing about others—they can't.
 # We're all our own beings, after all.</color>
@@ -180,75 +180,75 @@
 Но в конце концов они ничего не понимают в других и не могут понять.
 Ведь каждый из нас — отдельное существо.</color>
 
-# Original: The cheerful voice seemed to scratch an itch buried deep in my heart, somewhere no hand could ever reach.
+# Narrator: The cheerful voice seemed to scratch an itch buried deep in my heart, somewhere no hand could ever reach.
 Рассказчик: Жизнерадостный голос будто унимал зуд, спрятанный глубоко в сердце, там, куда не дотянется никакая рука.
 
-# Original: <color=#E1B643>You <i>can</i> get your wish. And that begins by being honest about the feelings bubbling inside you right this moment.</color>
+# ???: <color=#E1B643>You <i>can</i> get your wish. And that begins by being honest about the feelings bubbling inside you right this moment.</color>
 ???: <color=#E1B643>Твоё желание <i>может</i> исполниться. И начинается всё с того, чтобы честно признать чувства, которые бурлят в тебе прямо сейчас.</color>
 
-# Original: <color=#E1B643>It's all right, Meur. You're allowed to give voice... to that emotion.</color>
+# ???: <color=#E1B643>It's all right, Meur. You're allowed to give voice... to that emotion.</color>
 ???: <color=#E1B643>Всё хорошо, Мер. Ты вправе дать голос... этому чувству.</color>
 
-# Original: The sunshine...
+# Meursault: The sunshine...
 Мерсо: Солнечный свет...
 
-# Original: <color=#E1B643>.......</color>
-???: <color=#E1B643>.......</color>
+# ???: <color=#E1B643>.......</color>
+???: <color=#E1B643>…….</color>
 
-# Original: ... is chattier than I expected.
+# Meursault: ... is chattier than I expected.
 Мерсо: ... болтливее, чем я ожидал.
 
-# Original: Irritatingly so.
+# Meursault: Irritatingly so.
 Мерсо: Это раздражает.
 
-# Original: I tried to make my discomfort as evident as possible in my reply...
+# Narrator: I tried to make my discomfort as evident as possible in my reply...
 Рассказчик: Я постарался как можно яснее выразить в ответе своё недовольство...
 
-# Original: ... But still there was a hint of laughter in the sunshine, full of cheer.
+# Narrator: ... But still there was a hint of laughter in the sunshine, full of cheer.
 Рассказчик: ... Но в солнечном свете всё равно слышался смешок, полный веселья.
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>I don't turn my back on anyone.
+# ???: <color=#E1B643>I don't turn my back on anyone.
 # Besides... the children in this department store need sunlight.
 # They need warm, gentle sunlight to shine on them.</color>
 ???: <color=#E1B643>Я ни от кого не отворачиваюсь.
 К тому же... детям в этом торговом центре нужен солнечный свет.
 Им нужен тёплый, ласковый свет, который будет их согревать.</color>
 
-# Original: <color=#E1B643>These children... they derive their existence from the fact that someone is gazing at them.
+# ???: <color=#E1B643>These children... they derive their existence from the fact that someone is gazing at them.
 # That is their wish, and I simply intend to grant it.</color>
 ???: <color=#E1B643>Эти дети... они существуют лишь потому, что кто-то на них смотрит.
 Таково их желание, и я просто собираюсь его исполнить.</color>
 
-# Original: <color=#E1B643>Imagine it, Meursault.
+# ???: <color=#E1B643>Imagine it, Meursault.
 # Imagine these stuffy ceilings and walls falling away to reveal the world outside.
 # Everyone gets to rest together in a warm patch of sunshine, taking in the vast sky above.</color>
 ???: <color=#E1B643>Представь, Мерсо.
 Представь, как эти душные потолки и стены рушатся, открывая мир снаружи.
 Все вместе отдыхают в тёплом пятне солнечного света, любуясь бескрайним небом над головой.</color>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>Still so quiet. You haven't changed at all since then.</color>
+# ???: <color=#E1B643>Still so quiet. You haven't changed at all since then.</color>
 ???: <color=#E1B643>Всё так же молчишь. Ты совсем не изменился с тех пор.</color>
 
-# Original: <color=#E1B643>Dante, I suppose you'll have to work a little harder as their Manager.</color>
+# ???: <color=#E1B643>Dante, I suppose you'll have to work a little harder as their Manager.</color>
 ???: <color=#E1B643>Данте, похоже, тебе, как их Менеджеру, придётся постараться чуть больше.</color>
 
-# Original: <... Me?>
+# Dante: <... Me?>
 Данте: <... Мне?>
 
-# Original: Manager. Do <i>not</i> respond.
+# Meursault: Manager. Do <i>not</i> respond.
 Мерсо: Менеджер. <i>Не</i> отвечайте.
 
-# Original: <S-sorry, I don't know why I did...>
+# Dante: <S-sorry, I don't know why I did...>
 Данте: <П-прости, сам не знаю, зачем я...>
 
-# Original: <color=#E1B643>As for Meursault... He may change yet... by the end of this round of the journey at your side.</color>
+# ???: <color=#E1B643>As for Meursault... He may change yet... by the end of this round of the journey at your side.</color>
 ???: <color=#E1B643>А что до Мерсо... Возможно, он ещё изменится... к концу этого витка путешествия рядом с тобой.</color>
 
-# Original: <color=#E1B643>I'm looking forward to it.</color>
+# ???: <color=#E1B643>I'm looking forward to it.</color>
 ???: <color=#E1B643>Жду с нетерпением.</color>

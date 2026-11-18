@@ -1,119 +1,119 @@
-﻿# Original: You want to buy Golden Dye?
+﻿# Palette: You want to buy Golden Dye?
 Палетт: Хотите купить Золотой краситель?
 
-# Original: Your tier is... just above the cutoff line. Guess that's good enough.
+# Palette: Your tier is... just above the cutoff line. Guess that's good enough.
 Палетт: Ваш уровень... едва выше порогового. Ладно, сойдёт.
 
-# Original: Here. Take a number.
+# Palette: Here. Take a number.
 Палетт: Вот. Берите номерок.
 
-# Original: 1217... What's this supposed to mean?
+# Ryōshū: 1217... What's this supposed to mean?
 Рёшу: 1217... И что это значит?
 
-# Original: It means there are 1,216 customers ahead of you. Be patient, and I'll be right with you. <i>Eventually.</i>
+# Palette: It means there are 1,216 customers ahead of you. Be patient, and I'll be right with you. <i>Eventually.</i>
 Палетт: Это значит, что перед вами 1216 покупателей. Наберитесь терпения, и я вас обслужу. <i>Когда-нибудь.</i>
 
-# Original: <Ryōshū, wait! Don't S.H.N.C.!>
+# Dante: <Ryōshū, wait! Don't S.H.N.C.!>
 Данте: <Рёшу, стой! Не надо С.Ш.И.К.!>
 
-# Original: <Ask her how long we're supposed to wait.>
+# Dante: <Ask her how long we're supposed to wait.>
 Данте: <Спроси её, сколько нам придётся ждать.>
 
-# Original: If our number is in the thousands, how long will the wait be?
+# Outis: If our number is in the thousands, how long will the wait be?
 Отис: Если наш номер перевалил за тысячу, сколько времени займёт ожидание?
 
-# Original: Not as long as you'd think. Your number should come up after the season changes... about a hundred times?
+# Palette: Not as long as you'd think. Your number should come up after the season changes... about a hundred times?
 Палетт: Не так долго, как вам кажется. Ваша очередь подойдёт, когда сезон сменится... раз сто?
 
-# Original: Hm... We cannot wait that long. Is there anything we can do to convince you otherwise?
+# Outis: Hm... We cannot wait that long. Is there anything we can do to convince you otherwise?
 Отис: Хм... Столько ждать мы не можем. Можем ли мы чем-нибудь убедить вас пойти нам навстречу?
 
-# Original: Nopers. You should've camped out in front of the Dyehouse or something if you wanted it that badly.
+# Palette: Nopers. You should've camped out in front of the Dyehouse or something if you wanted it that badly.
 Палетт: Не-а. Раз уж вам так приспичило, надо было заранее занимать место перед Красильней, ждать ещё до открытия.
 
-# Original: ......
+# Putty: ......
 Патти: ......
 
-# Original: ......
+# Ryōshū: ......
 Рёшу: ......
 
-# Original: Putty! Big sis! I told you not to glare at customers like that.
+# Palette: Putty! Big sis! I told you not to glare at customers like that.
 Палетт: Патти! Старшая сестрёнка! Я же говорила, не сверли покупателей таким взглядом.
 
-# Original: These ones aren't even that obnoxious. Put your leg down.
+# Palette: These ones aren't even that obnoxious. Put your leg down.
 Палетт: Эти ещё не самые противные. Опусти ногу.
 
-# Original: <Ryōshū, can you please stop mulling over where to cut her and help us think of another way to get the dye...?>
+# Dante: <Ryōshū, can you please stop mulling over where to cut her and help us think of another way to get the dye...?>
 Данте: <Рёшу, пожалуйста, хватит прикидывать, куда её рубануть. Лучше помоги нам придумать другой способ добыть краситель...>
 
-# Original: Ryōshū slowly removed her hand from the scabbard. "Putty" followed suit, lowering her pointed leg.
+# Narrator: Ryōshū slowly removed her hand from the scabbard. "Putty" followed suit, lowering her pointed leg.
 Рассказчик: Рёшу медленно убрала руку с ножен. «Патти» последовала её примеру, опустив остроконечную ногу.
 
-# Original: *puff* What's there to think about?
+# Ryōshū: *puff* What's there to think about?
 Рёшу: *затяжка* А что тут думать?
 
-# Original: Let's kill everyone ahead of us in line. There's a shortcut for you.
+# Ryōshū: Let's kill everyone ahead of us in line. There's a shortcut for you.
 Рёшу: Перебьём всех, кто перед нами в очереди. Вот тебе и короткий путь.
 
-# Original: The scabbard rattles as though it were shaking its head.
+# Narrator: The scabbard rattles as though it were shaking its head.
 Рассказчик: Ножны задребезжали, словно качая головой.
 
-# Original: ... You're clearly looking for an excuse to start a bloodbath, as always. Why else would you suggest a massacre like that when it would be more efficient to kill whoever's first in line and take their numbered ticket?
+# Outis: ... You're clearly looking for an excuse to start a bloodbath, as always. Why else would you suggest a massacre like that when it would be more efficient to kill whoever's first in line and take their numbered ticket?
 Отис: ... Как всегда, ты просто ищешь повод устроить кровавую баню. Иначе зачем предлагать такую резню, если куда эффективнее убить первого в очереди и забрать его номерок?
 
-# Original: Heh. There's aesthetics to be enjoyed in irrationality.
+# Ryōshū: Heh. There's aesthetics to be enjoyed in irrationality.
 Рёшу: Хех. В нерациональности есть своя эстетика.
 
-# Original: ... Or just buy the dye from whoever's first in line...?
+# Palette: ... Or just buy the dye from whoever's first in line...?
 Палетт: ... Или просто купить краситель у первого в очереди...?
 
-# Original: <... Agreed. Meursault, ask who has the earliest number.>
+# Dante: <... Agreed. Meursault, ask who has the earliest number.>
 Данте: <... Согласен. Мерсо, спроси, у кого самый первый номер.>
 
-# Original: I wish to know the identity of the individual with the earliest number.
+# Meursault: I wish to know the identity of the individual with the earliest number.
 Мерсо: Я желаю узнать, кому принадлежит самый первый номер.
 
-# Original: Naked of Le Noir. One of the people who came down early and camped out before opening.
+# Palette: Naked of Le Noir. One of the people who came down early and camped out before opening.
 Палетт: Нагому из Ле Нуар. Он из тех, кто спустился пораньше и занял очередь ещё до открытия.
 
-# Original: We're almost done filling up a bucket of dye with the Golden Pus dripping from the Golden Resin. He's probably waiting in the corridor to pick it up.
+# Palette: We're almost done filling up a bucket of dye with the Golden Pus dripping from the Golden Resin. He's probably waiting in the corridor to pick it up.
 Палетт: Мы уже почти наполнили ведро красителем из Золотого Гноя, стекающего с Золотой Смолы. Он, наверное, ждёт в коридоре, когда можно будет его забрать.
 
-# Original: Under current operational conditions, purchasing the Golden Dye from this... "Naked" individual should be the most efficient course of action.
+# Outis: Under current operational conditions, purchasing the Golden Dye from this... "Naked" individual should be the most efficient course of action.
 Отис: В текущих оперативных условиях покупка Золотого Красителя у этого... «Нагого» представляется наиболее эффективным планом действий.
 
-# Original: <I don't think the eyeballs we have will come anywhere close...>
+# Dante: <I don't think the eyeballs we have will come anywhere close...>
 Данте: <Боюсь, наших глазных яблок и близко не хватит...>
 
-# Original: Should our funds prove insufficient, an item of commensurate value may be offered in exchange.
+# Meursault: Should our funds prove insufficient, an item of commensurate value may be offered in exchange.
 Мерсо: В случае нехватки средств можно предложить взамен предмет сопоставимой стоимости.
 
-# Original: <... Let's check what we have with us at the moment.>
+# Dante: <... Let's check what we have with us at the moment.>
 Данте: <... Давайте посмотрим, что у нас сейчас есть с собой.>
 
-# Original: Meursault laid out, one by one, every item we have purchased or obtained thus far.
+# Narrator: Meursault laid out, one by one, every item we have purchased or obtained thus far.
 Рассказчик: Мерсо выложил один за другим все предметы, которые мы успели купить или раздобыть.
 
-# Original: ... A considerable assortment.
+# Outis: ... A considerable assortment.
 Отис: ... Внушительный ассортимент.
 
-# Original: Would selling all of this cover the cost of the Golden Dye?
+# Outis: Would selling all of this cover the cost of the Golden Dye?
 Отис: Если продать всё это, хватит ли нам на Золотой краситель?
 
-# Original: Not even close. Maybe if you found a real sucker and fleeced them for every last eyeball.
+# Palette: Not even close. Maybe if you found a real sucker and fleeced them for every last eyeball.
 Палетт: Даже близко нет. Разве что найдёте какого-нибудь полного простофилю и обдерёте его до последнего глазного яблока.
 
-# Original: <That's a problem... Should we go back to 3F and ask for more eyeballs?>
+# Dante: <That's a problem... Should we go back to 3F and ask for more eyeballs?>
 Данте: <Плохо дело... Может, вернёмся на третий этаж и попросим ещё глазных яблок?>
 
-# Original: It is unlikely they'll be willing to make another significant expenditure when they've already given us quite the stipend.
+# Outis: It is unlikely they'll be willing to make another significant expenditure when they've already given us quite the stipend.
 Отис: Едва ли они согласятся вновь пойти на существенные расходы, ведь они уже выделили нам немалые средства.
 
-# Original: However, if that is your wish, Executive Manager, I, Outis, shall deploy the peerless negotiation techniques I have sharpened through years of service and field-requisition every last eyeball they possess.
+# Outis: However, if that is your wish, Executive Manager, I, Outis, shall deploy the peerless negotiation techniques I have sharpened through years of service and field-requisition every last eyeball they possess.
 Отис: Однако, если таково ваше желание, Исполнительный Менеджер, я, Отис, пущу в ход непревзойдённые навыки ведения переговоров, отточенные за годы службы, и реквизирую на месте все их глазные яблоки до последнего.
 
-# Original: <Th-that won't be necessary. Naked is a member of Le Noir... Maybe he'll lower the price if we show him the Authenticity Certificate.>
+# Dante: <Th-that won't be necessary. Naked is a member of Le Noir... Maybe he'll lower the price if we show him the Authenticity Certificate.>
 Данте: <Н-не надо. Нагой ведь из Ле Нуар... Может, он снизит цену, если мы покажем ему Сертификат подлинности.>
 
-# Original: <Let's find Naked and hear what he has to say. If he's Le Noir, his clothes should make him easy to spot.>
+# Dante: <Let's find Naked and hear what he has to say. If he's Le Noir, his clothes should make him easy to spot.>
 Данте: <Давайте найдём Нагого и выслушаем его. Раз он из Ле Нуар, его будет легко узнать по одежде.>

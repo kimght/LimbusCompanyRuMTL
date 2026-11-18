@@ -1,59 +1,59 @@
-﻿# Original: Were you telling him the truth?
+﻿# Meursault: Were you telling him the truth?
 Мерсо: Ты сказал ему правду?
 
-# Original: ... I dunno. But... I want it to be true.
+# Pwie: ... I dunno. But... I want it to be true.
 Буфи: ...Не знаю. Но... я хочу, чтобы это было правдой.
 
-# Original: …….
+# Meursault: …….
 Мерсо: …….
 
-# Original: <color=#ebcaa2>Surprisingly enough, that little thing is telling the truth.</color>
+# Narrator: <color=#ebcaa2>Surprisingly enough, that little thing is telling the truth.</color>
 Рассказчик: <color=#ebcaa2>Как ни странно, эта кроха говорит правду.</color>
 
-# Original: <color=#ebcaa2>Ever since it was born, the great cycle that had once disappeared from the Grand Magasin... has returned.</color>
+# Narrator: <color=#ebcaa2>Ever since it was born, the great cycle that had once disappeared from the Grand Magasin... has returned.</color>
 Рассказчик: <color=#ebcaa2>С тех пор как он родился, великий круговорот, некогда исчезнувший из Гран-Магазэна... вернулся.</color>
 
-# Original: <color=#ebcaa2>I suppose B1 will be filled with shells again. Shells housing soft, supple beings.</color>
+# Narrator: <color=#ebcaa2>I suppose B1 will be filled with shells again. Shells housing soft, supple beings.</color>
 Рассказчик: <color=#ebcaa2>Полагаю, B1 снова наполнится раковинами. Раковинами, в которых живут мягкие, податливые существа.</color>
 
-# Original: Ooh... this be the voice of young Meursault's lover, Lady Jeanne?
+# Don Quixote: Ooh... this be the voice of young Meursault's lover, Lady Jeanne?
 Дон Кихот: Ох... Ужели сие голос возлюбленной юного Мерсо, госпожи Жанны?
 
-# Original: <color=#ebcaa2>Fuhu, that's me. Ex-lover, to clarify. Hey, ma puce... I don't always have to be your ex-something, if you ever change your mind.</color>
+# Narrator: <color=#ebcaa2>Fuhu, that's me. Ex-lover, to clarify. Hey, ma puce... I don't always have to be your ex-something, if you ever change your mind.</color>
 Рассказчик: <color=#ebcaa2>Хи-хи, это я. Бывшей возлюбленной, если уж быть совсем точной. Эй, <i>ма пюс</i>... Мне ведь не обязательно навсегда оставаться твоей бывшей, если вдруг передумаешь.</color>
 
-# Original: <color=#ebcaa2>After all, we haven't had real <i>closure</i> yet, hm?</color>
+# Narrator: <color=#ebcaa2>After all, we haven't had real <i>closure</i> yet, hm?</color>
 Рассказчик: <color=#ebcaa2>В конце концов, мы с тобой так и не <i>поставили точку</i>, хм?</color>
 
-# Original: …….
+# Meursault: …….
 Мерсо: …….
 
-# Original: Voice...
+# Pwie: Voice...
 Буфи: Голос...
 
-# Original: <color=#ebcaa2>Oh yes, I am a Voice. Perfect and complete, unlike you.</color>
+# Narrator: <color=#ebcaa2>Oh yes, I am a Voice. Perfect and complete, unlike you.</color>
 Рассказчик: <color=#ebcaa2>О да, я Голос. Совершенный и цельный, в отличие от тебя.</color>
 
-# Original: <color=#ebcaa2>The Rouges seem to have high hopes for you, but... I don't know.</color>
+# Narrator: <color=#ebcaa2>The Rouges seem to have high hopes for you, but... I don't know.</color>
 Рассказчик: <color=#ebcaa2>Ружи, похоже, возлагают на тебя большие надежды, но... не знаю.</color>
 
-# Original: <color=#ebcaa2>I'm afraid you're way too tiny to hold up this crumbling department store. Even the Golden Bough's barely keeping it standing.</color>
+# Narrator: <color=#ebcaa2>I'm afraid you're way too tiny to hold up this crumbling department store. Even the Golden Bough's barely keeping it standing.</color>
 Рассказчик: <color=#ebcaa2>Боюсь, ты слишком крохотный, чтобы удержать этот рассыпающийся торговый центр. Даже Золотая Ветвь еле-еле не даёт ему рухнуть.</color>
 
-# Original: <color=#ebcaa2>Raise it well, ma puce.</color>
+# Narrator: <color=#ebcaa2>Raise it well, ma puce.</color>
 Рассказчик: <color=#ebcaa2>Воспитай его хорошенько, <i>ма пюс</i>.</color>
 
-# Original: <color=#ebcaa2>Though I doubt that little thing could change how this ends.</color>
+# Narrator: <color=#ebcaa2>Though I doubt that little thing could change how this ends.</color>
 Рассказчик: <color=#ebcaa2>Хотя сомневаюсь, что эта кроха сможет изменить финал.</color>
 
-# Original: ... So, according to Miss Jeanne... the Golden Bough is the last thing holding the Grand Magasin together.
+# Hong Lu: ... So, according to Miss Jeanne... the Golden Bough is the last thing holding the Grand Magasin together.
 Хон Лу: ...Значит, если верить госпоже Жанне... Золотая Ветвь — последнее, что скрепляет Гран-Магазэн.
 
-# Original: Then... what would happen to this place if we removed it?
+# Hong Lu: Then... what would happen to this place if we removed it?
 Хон Лу: Тогда... что станет с этим местом, если мы её уберём?
 
-# Original: Hm... Verily, the "resin" sealing the fissures would disappear... whereupon the collapse of the department store would surely follow...
+# Don Quixote: Hm... Verily, the "resin" sealing the fissures would disappear... whereupon the collapse of the department store would surely follow...
 Дон Кихот: Хм... Воистину, «смола», запечатывающая трещины, исчезнет... а засим неминуемо последует обрушение торгового центра...
 
-# Original: Hoh... Would not the liberation of incarcerated N Corp. residents be within reach, then?! 'Twould be a most fortuitous outcome!
+# Don Quixote: Hoh... Would not the liberation of incarcerated N Corp. residents be within reach, then?! 'Twould be a most fortuitous outcome!
 Дон Кихот: Хо... Ужели тогда освобождение заточённых жителей Корпорации N окажется в пределах досягаемости?! Сие было бы исходом наиудачнейшим!

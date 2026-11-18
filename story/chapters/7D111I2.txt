@@ -1,611 +1,611 @@
-﻿# Original: The door is shut.
+﻿# Narrator: The door is shut.
 Рассказчик: Дверь закрыта.
 
-# Original: Something just occurred to me.
+# Narrator: Something just occurred to me.
 Рассказчик: Меня вдруг осенило.
 
-# Original: That a heavy, adamantine door stood between Sancho and I, tightly shut.
+# Narrator: That a heavy, adamantine door stood between Sancho and I, tightly shut.
 Рассказчик: Что между мной и Санчо стояла тяжёлая, несокрушимая дверь, наглухо запертая.
 
-# Original: Whatever I said wouldn't reach her, and she had no wish to open the door. We stood there in a stalemate.
+# Narrator: Whatever I said wouldn't reach her, and she had no wish to open the door. We stood there in a stalemate.
 Рассказчик: Что бы я ни сказал, оно не достигло бы её ушей, а она не желала открывать дверь. Мы оказались в тупике.
 
-# Original: The Sinners would conceal their troubles, shy away from attempts to understand them, but... in the end, they all wanted <i>something</i>.
+# Narrator: The Sinners would conceal their troubles, shy away from attempts to understand them, but... in the end, they all wanted <i>something</i>.
 Рассказчик: Грешники всегда скрывают свои беды, уклоняются от попыток их понять, но... в конце концов, все они чего-то <i>хотят</i>.
 
-# Original: There was this certain faith that I, as their manager, would be able to do something for them.
+# Narrator: There was this certain faith that I, as their manager, would be able to do something for them.
 Рассказчик: Была некая вера в то, что я, как их менеджер, смогу что-то для них сделать.
 
-# Original: Or at least that they would find their wishes granted at the end of each of their flow.
+# Narrator: Or at least that they would find their wishes granted at the end of each of their flow.
 Рассказчик: Или хотя бы в то, что их желания исполнятся в конце каждого их потока.
 
-# Original: Yes. They all had dreams.
+# Narrator: Yes. They all had dreams.
 Рассказчик: Да. У всех у них были мечты.
 
-# Original: He no longer wanted to be an outcast. She wanted to be special. He wanted to confront his past.
+# Narrator: He no longer wanted to be an outcast. She wanted to be special. He wanted to confront his past.
 Рассказчик: Он больше не хотел быть изгоем. Она хотела быть особенной. Он хотел встретиться лицом к лицу со своим прошлым.
 
-# Original: He wanted to change. She wanted to sail onward, unanchored. He wanted to mend the two hearts broken apart.
+# Narrator: He wanted to change. She wanted to sail onward, unanchored. He wanted to mend the two hearts broken apart.
 Рассказчик: Он хотел измениться. Она хотела плыть вперёд, не зная якорей. Он хотел склеить два разбитых сердца.
 
-# Original: And every time, I reached out. I cried out loud each of their dreams to them, and, with some luck, managed to turn them away from the brink.
+# Narrator: And every time, I reached out. I cried out loud each of their dreams to them, and, with some luck, managed to turn them away from the brink.
 Рассказчик: И каждый раз я протягивал руку. Я громко кричал им о каждой их мечте и, с некоторой долей удачи, умудрялся отвести их от края пропасти.
 
-# Original: But... to Don Quixote, whose dream has already ended... Only now do I realize that I have nothing to give her, nothing to tell her.
+# Narrator: But... to Don Quixote, whose dream has already ended... Only now do I realize that I have nothing to give her, nothing to tell her.
 Рассказчик: Но... Дон Кихот, чья мечта уже закончилась... Только сейчас я понимаю, что мне нечего ей дать, нечего сказать.
 
-# Original: My role stopped at breaking through each Sinner's barriers to retrieve their lost dreams, squeezing them past the doors to their hearts that remained open still, no matter how narrow the gaps were.
+# Narrator: My role stopped at breaking through each Sinner's barriers to retrieve their lost dreams, squeezing them past the doors to their hearts that remained open still, no matter how narrow the gaps were.
 Рассказчик: Моя роль заключалась лишь в том, чтобы пробиваться сквозь барьеры каждого Грешника, чтобы воскресить их утраченные мечты, протискивая их через двери их сердец, которые всё ещё оставались открытыми, какими бы узкими ни были щели.
 
-# Original: I have never given them something new to dream about.
+# Narrator: I have never given them something new to dream about.
 Рассказчик: Я никогда не давал им новых поводов мечтать.
 
-# Original: <Don... Quixote...>
+# Dante: <Don... Quixote...>
 Данте: <Дон... Кихот...>
 
-# Original: I'll tell you again. That is not who I am.
+# Sancho: I'll tell you again. That is not who I am.
 Санчо: Повторяю ещё раз. Это не я.
 
-# Original: That fool who used to twinkle her eyes at you, shoving some ridiculous idea of a dream before you is dead.
+# Sancho: That fool who used to twinkle her eyes at you, shoving some ridiculous idea of a dream before you is dead.
 Санчо: Та дурочка, что сверкала глазами, размахивая перед тобой какими-то нелепыми идеями о мечте, мертва.
 
-# Original: ... Has Don Quixote's dream ended?
+# Narrator: ... Has Don Quixote's dream ended?
 Рассказчик: ... Неужели мечта Дон Кихот закончилась?
 
-# Original: Has the dream of the other Don Quixote, who lies there with his body impaled by so many stakes... ended?
+# Narrator: Has the dream of the other Don Quixote, who lies there with his body impaled by so many stakes... ended?
 Рассказчик: Неужели закончилась мечта того другого Дон Кихота, что лежит там, пронзённый множеством кольев?
 
-# Original: I...
+# Narrator: I...
 Рассказчик: Я...
 
-# Original: What if the dream still... continues?
+# Sinclair: What if the dream still... continues?
 Синклер: А что, если мечта всё ещё... продолжается?
 
-# Original: <Sinclair...?>
+# Dante: <Sinclair…?>
 Данте: <Синклер...?>
 
-# Original: My dream...
+# Sancho: My dream...
 Санчо: Моя мечта...
 
-# Original: It ripened and ripened until the rot set in. Thus it fell to the earth and burst.
+# Sancho: It ripened and ripened until the rot set in. Thus it fell to the earth and burst.
 Санчо: Она зрела и зрела, пока не начала гнить. Так она упала на землю и разбилась.
 
-# Original: It is broken. All that remains is the decaying carcass of the dream.
+# Sancho: It is broken. All that remains is the decaying carcass of the dream.
 Санчо: Она сломана. Всё, что осталось — это гниющий труп мечты.
 
-# Original: Sancho's lifeless eyes gaze into the distant hollow, seeing nothing in the futility that extends far beyond the horizon.
+# Narrator: Sancho's lifeless eyes gaze into the distant hollow, seeing nothing in the futility that extends far beyond the horizon.
 Рассказчик: Безжизненный взгляд Санчо устремлён в далёкую пустоту, не видя ничего в бесконечной тщете, простирающейся за горизонт.
 
-# Original: But... Sinclair redirects her gaze toward himself.
+# Narrator: But... Sinclair redirects her gaze toward himself.
 Рассказчик: Но... Синклер направляет её взгляд на себя.
 
-# Original: La Manchaland manifests to devour humans, yeah... but it eventually disappears again.
+# Sinclair: La Manchaland manifests to devour humans, yeah... but it eventually disappears again.
 Синклер: Ла-Манчалэнд появляется, чтобы пожирать людей, да... но в итоге он всегда исчезает снова.
 
-# Original: Look, on one hand, it's trying to hurt us humans. But on the other hand... it keeps trying to hide away, too.
+# Sinclair: Look, on one hand, it's trying to hurt us humans. But on the other hand... it keeps trying to hide away, too.
 Синклер: Смотри, с одной стороны, он пытается навредить нам, людям. Но с другой... он постоянно пытается спрятаться.
 
-# Original: Even as he lies there, his body torn apart by thousands of stakes... he's been trying.
+# Sinclair: Even as he lies there, his body torn apart by thousands of stakes... he's been trying.
 Синклер: Даже когда он лежит там, его тело разорвано тысячами кольев... он всё ещё пытается.
 
-# Original: Perhaps your 'Father'... even he— Maybe he—
+# Sinclair: Perhaps your 'Father'... even he— Maybe he—
 Синклер: Возможно, твой "Отец"... даже он— Может быть, он—
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: This... is what I think we must do.
+# Sinclair: This... is what I think we must do.
 Синклер: Вот... что я думаю мы должны сделать.
 
-# Original: ... We have to go back.
+# Sinclair: ... We have to go back.
 Синклер: ... Мы должны вернуться.
 
-# Original: To the birthplace of that dream.
+# Sinclair: To the birthplace of that dream.
 Синклер: К месту рождения той мечты.
 
-# Original: <…!>
+# Dante: <…!>
 Данте: <…!>
 
-# Original: The tightly shut door suddenly shook.
+# Narrator: The tightly shut door suddenly shook.
 Рассказчик: Наглухо запертая дверь вдруг содрогнулась.
 
-# Original: And in front of it stood Sinclair.
+# Narrator: And in front of it stood Sinclair.
 Рассказчик: И перед ней стоял Синклер.
 
-# Original: A familiar red sign, though incomplete, briefly flickered from his forehead...
+# Narrator: A familiar red sign, though incomplete, briefly flickered from his forehead...
 Рассказчик: Знакомый красный знак, хоть и неполный, на миг мелькнул у него на лбу...
 
-# Original: ... and a blinding white light surrounded him. Sinclair was...
+# Narrator: ... and a blinding white light surrounded him. Sinclair was...
 Рассказчик: ... и его окружил ослепительный белый свет. Синклер был...
 
-# Original: <The Knight of the White Moon.>
+# Dante: <The Knight of the White Moon.>
 Данте: <Рыцарем Белой Луны.>
 
-# Original: ... Bari.
+# Sancho: ... Bari.
 Санчо: ... Бари.
 
-# Original: Ba...ri...
+# Don Quixote: Ba...ri...
 Дон Кихот: Ба...ри...
 
-# Original: I haven't... uttered that name... in such a long time.
+# Don Quixote: I haven't... uttered that name... in such a long time.
 Дон Кихот: Я так давно... не произносил... это имя...
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: A human. At my mansion.
+# Don Quixote: A human. At my mansion.
 Дон Кихот: Человек. В моём особняке.
 
-# Original: A-apologies, your worship. We should never have let her through, but she... she wields all kinds of fantastical weapons. She demanded to be granted audience with you, Father.
+# Genuflecting Bloodfiend: A-apologies, your worship. We should never have let her through, but she... she wields all kinds of fantastical weapons. She demanded to be granted audience with you, Father.
 Рассказчик: П-простите, ваша милость. Мы не должны были её пропускать, но она... она владеет всевозможным фантастическим оружием. Она потребовала аудиенции с вами, Отец.
 
-# Original: A Bloodfiend Hunter, are you? And you've managed to break through my Children's vigilance?
+# Don Quixote: A Bloodfiend Hunter, are you? And you've managed to break through my Children's vigilance?
 Дон Кихот: Охотница на Кровожадов, значит? И тебе удалось прорваться сквозь бдительность моих Детей?
 
-# Original: ... I commend your skill, human. It cannot have been easy.
+# Don Quixote: ... I commend your skill, human. It cannot have been easy.
 Дон Кихот: ... Я восхищён твоим мастерством, человек. Это не могло быть легко.
 
-# Original: So, what is it that you seek from this audience?
+# Don Quixote: So, what is it that you seek from this audience?
 Дон Кихот: Итак, чего ты ищешь от этой аудиенции?
 
-# Original: Is your wish... to be obliterated without a trace? Or is it to join my Family?
+# Don Quixote: Is your wish... to be obliterated without a trace? Or is it to join my Family?
 Дон Кихот: Твоё желание... быть стёртой без следа? Или присоединиться к моей Семье?
 
-# Original: ... Neither.
+# Bari: ... Neither.
 Бари: ... Ни то, ни другое.
 
-# Original: I am here to challenge you to a duel.
+# Bari: I am here to challenge you to a duel.
 Бари: Я здесь, чтобы вызвать вас на дуэль.
 
-# Original: ... A duel.
+# Don Quixote: ... A duel.
 Дон Кихот: ... Дуэль.
 
-# Original: I am not like the other Bloodfiends; I have no interest in killing humans for sport.
+# Don Quixote: I am not like the other Bloodfiends; I have no interest in killing humans for sport.
 Дон Кихот: Я не похож на других Кровожадов; мне не интересно убивать людей ради забавы.
 
-# Original: However, I am also not so generous a Bloodfiend to let a human who dared to walk into her own doom simply saunter away without consequences.
+# Don Quixote: However, I am also not so generous a Bloodfiend to let a human who dared to walk into her own doom simply saunter away without consequences.
 Дон Кихот: Однако я и не настолько щедрый Кровожад, чтобы позволить человеку, осмелившемуся войти на собственную погибель, просто уйти без последствий.
 
-# Original: Humans and Bloodfiends are at war out there. Did you know that?
+# Bari: Humans and Bloodfiends are at war out there. Did you know that?
 Бари: Люди и Кровожады там снаружи воюют. Вы знали об этом?
 
-# Original: Just a pit fight between unquenchable Bloodfiends and humans who learned to transmute their hatred into delight.
+# Don Quixote: Just a pit fight between unquenchable Bloodfiends and humans who learned to transmute their hatred into delight.
 Дон Кихот: Всего лишь драка в яме между ненасытными Кровожадами и людьми, научившимися превращать свою ненависть в наслаждение.
 
-# Original: I care not for such degeneracy.
+# Don Quixote: I care not for such degeneracy.
 Дон Кихот: Меня не волнует такое вырожденство.
 
-# Original: Why do you refuse to take a side?
+# Bari: Why do you refuse to take a side?
 Бари: Почему вы отказываетесь принять чью-либо сторону?
 
-# Original: Should a Family of your might take a side... it would mean the decisive end of the war.
+# Bari: Should a Family of your might take a side... it would mean the decisive end of the war.
 Бари: Если бы Семья вашей мощи встала на чью-то сторону... это означало бы решающий конец войны.
 
-# Original: Haven't I already told you? Or does your fleeting human life require a simpler explanation?
+# Don Quixote: Haven't I already told you? Or does your fleeting human life require a simpler explanation?
 Дон Кихот: Разве я не сказал тебе уже? Или твоя мимолётная человеческая жизнь требует более простого объяснения?
 
-# Original: I would prefer not to dirty my clothes in a pit fight. I refuse to bring myself down to that level.
+# Don Quixote: I would prefer not to dirty my clothes in a pit fight. I refuse to bring myself down to that level.
 Дон Кихот: Я предпочитаю не пачкать свою одежду в яме для драк. Я отказываюсь опускаться до такого уровня.
 
-# Original: ... Is that so.
+# Bari: ... Is that so.
 Бари: ... Вот как.
 
-# Original: I... am here to do one of two things. One, convince you. Or two, should my first option prove unfeasible, slay you.
+# Bari: I... am here to do one of two things. One, convince you. Or two, should my first option prove unfeasible, slay you.
 Бари: Я... здесь, чтобы сделать одно из двух. Первое — убедить вас. Или второе, если первый вариант окажется невыполнимым — убить вас.
 
-# Original: Because you are more dangerous than both of them when you're sitting here and doing nothing.
+# Bari: Because you are more dangerous than both of them when you're sitting here and doing nothing.
 Бари: Потому что вы опаснее их обоих, когда сидите здесь и ничего не делаете.
 
-# Original: So, duel me.
+# Bari: So, duel me.
 Бари: Так что, сразитесь со мной.
 
-# Original: You won't get a chance like this again.
+# Bari: You won't get a chance like this again.
 Бари: Такого шанса у вас больше не будет.
 
-# Original: Because I know exactly what you seek.
+# Bari: Because I know exactly what you seek.
 Бари: Потому что я знаю в точности то, чего вы ищете.
 
-# Original: Aha...
+# Don Quixote: Aha...
 Дон Кихот: Ха...
 
-# Original: Not even I am privy to that knowledge...
+# Don Quixote: Not even I am privy to that knowledge...
 Дон Кихот: Даже я не располагаю этим знанием...
 
-# Original: ... yet a human, who knows me not, who has only met me for the first time today, claims to know that?
+# Don Quixote: ... yet a human, who knows me not, who has only met me for the first time today, claims to know that?
 Дон Кихот: ... и всё же человек, не знающий меня, встретивший меня впервые сегодня, утверждает, что знает это?
 
-# Original: I know you Bloodfiends.
+# Bari: I know you Bloodfiends.
 Бари: Я знаю вас, Кровожадов.
 
-# Original: Those blessed with longer lives than humans, yet cursed to live in greater miseries for every second of that longer life.
+# Bari: Those blessed with longer lives than humans, yet cursed to live in greater miseries for every second of that longer life.
 Бари: Благословлённых более долгой жизнью, чем у людей, но проклятых жить в большем страдании каждую секунду этой долгой жизни.
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: I just changed the carpets of this hall. I do not wish to dirty it with lowly human blood.
+# Don Quixote: I just changed the carpets of this hall. I do not wish to dirty it with lowly human blood.
 Дон Кихот: Я только что сменил ковры в этом зале. Я не желаю пачкать их низкой человеческой кровью.
 
-# Original: Leave, and my Children outside this mansion will deal with you.
+# Don Quixote: Leave, and my Children outside this mansion will deal with you.
 Дон Кихот: Уходи, и мои Дети за пределами этого особняка разберутся с тобой.
 
-# Original: Should you employ your Children to kill me...
+# Bari: Should you employ your Children to kill me...
 Бари: Если вы используете своих Детей, чтобы убить меня...
 
-# Original: You will never learn the source of your suffering. You will remain unchanging, stagnant, steeped in your misery...
+# Bari: You will never learn the source of your suffering. You will remain unchanging, stagnant, steeped in your misery...
 Бари: Вы никогда не узнаете источник своего страдания. Вы останетесь неизменным, застывшим, погрязшим в своём несчастье...
 
-# Original: ... until one day, the memory of this moment returns to you as regret.
+# Bari: ... until one day, the memory of this moment returns to you as regret.
 Бари: ... пока однажды воспоминание об этом моменте не вернётся к вам как сожаление.
 
-# Original: ... Father.
+# Sancho: ... Father.
 Санчо: ... Отец.
 
-# Original: If you would allow me, I will quietly take care of this interloper.
+# Sancho: If you would allow me, I will quietly take care of this interloper.
 Санчо: Если позволите, я тихо разберусь с этим нарушителем.
 
-# Original: Grab your weapon.
+# Bari: Grab your weapon.
 Бари: Возьмите своё оружие.
 
-# Original: Answer my duel...
+# Bari: Answer my duel...
 Бари: Примите мой вызов на дуэль...
 
-# Original: ... and I promise you upon my honor as a Fixer, that I will grant you what you truly seek.
+# Bari: ... and I promise you upon my honor as a Fixer, that I will grant you what you truly seek.
 Бари: ... и я клянусь вам своей честью Корректировщика, что дам вам то, чего вы истинно желаете.
 
-# Original: I can... give you...
+# Bari: I can... give you...
 Бари: Я могу... дать вам...
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: No human, let alone a Bloodfiend, has ever matched me evenly in strength.
+# Don Quixote: No human, let alone a Bloodfiend, has ever matched me evenly in strength.
 Дон Кихот: Ни один человек, не говоря уже о Кровожаде, никогда не сравнялся со мной в силе.
 
-# Original: Then I suppose I shall have the honor of being the first human to do so.
+# Bari: Then I suppose I shall have the honor of being the first human to do so.
 Бари: Тогда, полагаю, у меня будет честь стать первым человеком, кому это удастся.
 
-# Original: ... How intriguing.
+# Don Quixote: ... How intriguing.
 Дон Кихот: ... Как интригующе.
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: The duel continued for three days.
+# Sancho: The duel continued for three days.
 Санчо: Дуэль продолжалась три дня.
 
-# Original: Three days without a victor.
+# Sancho: Three days without a victor.
 Санчо: Три дня без победителя.
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: ... Why not take a brief respite?
+# Sancho: ... Why not take a brief respite?
 Санчо: ... Может, сделаем небольшой перерыв?
 
-# Original: It has been three days.
+# Sancho: It has been three days.
 Санчо: Прошло уже три дня.
 
-# Original: ... Three days?
+# Don Quixote: ... Three days?
 Дон Кихот: ... Три дня?
 
-# Original: Yes, there's been three sunrises and sunsets. I'm quite certain that makes it three days.
+# Sancho: Yes, there's been three sunrises and sunsets. I'm quite certain that makes it three days.
 Санчо: Да, было три рассвета и три заката. Я совершенно уверена, что это составляет три дня.
 
-# Original: But we are yet to decide a victor.
+# Don Quixote: But we are yet to decide a victor.
 Дон Кихот: Но мы ещё не определили победителя.
 
-# Original: ... Too bad.
+# Bari: ... Too bad.
 Бари: ... Жаль.
 
-# Original: At times like these, we must each take enough rest to recover...
+# Bari: At times like these, we must each take enough rest to recover...
 Бари: В такие моменты мы должны отдохнуть и восстановиться...
 
-# Original: ... and duel again at a later date. I will return.
+# Bari: ... and duel again at a later date. I will return.
 Бари: ... и продолжить дуэль позже. Я вернусь.
 
-# Original: You would stop the battle before it ends, allow your enemy to rest... and even promise to reconvene at a later date?
+# Don Quixote: You would stop the battle before it ends, allow your enemy to rest... and even promise to reconvene at a later date?
 Дон Кихот: Ты бы прервала битву до её завершения, позволила врагу отдохнуть... и даже обещаешь вернуться позже?
 
-# Original: Who decided that these odd rules would become laws?
+# Don Quixote: Who decided that these odd rules would become laws?
 Дон Кихот: Кто решил, что эти странные правила станут законами?
 
-# Original: Fixers.
+# Bari: Fixers.
 Бари: Корректировщики.
 
-# Original: It's a law of the Fixers.
+# Bari: It's a law of the Fixers.
 Бари: Это закон Корректировщиков.
 
-# Original: ... Father allowed that human to leave. He did not even sic us Children on her, and that was that.
+# Sancho: ... Father allowed that human to leave. He did not even sic us Children on her, and that was that.
 Санчо: ... Отец позволил той человеческой женщине уйти. Он даже не натравил на неё нас, Детей, и на этом всё.
 
-# Original: Will you truly let her leave, just like that? A human who so insolently warned <i>you</i>, of all Bloodfiends, that she would return?
+# Sancho: Will you truly let her leave, just like that? A human who so insolently warned <i>you</i>, of all Bloodfiends, that she would return?
 Санчо: Вы действительно позволите ей уйти, просто так? Человеку, который так дерзко предупредил <i>вас</i>, из всех Кровожадов, что вернётся?
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: It is their 'law' she says.
+# Don Quixote: It is their 'law' she says.
 Дон Кихот: Это их "закон", говорит она.
 
-# Original: Here she is again, Sancho. Go tell her that your Father is indisposed today and has no time to spare for a duel.
+# Don Quixote: Here she is again, Sancho. Go tell her that your Father is indisposed today and has no time to spare for a duel.
 Дон Кихот: А вот и она снова, Санчо. Иди скажи ей, что твой Отец сегодня занят и не может уделить время дуэли.
 
-# Original: Go tell her yourself.
+# Sancho: Go tell her yourself.
 Санчо: Идите скажите ей сами.
 
-# Original: I am growing tired of this.
+# Sancho: I am growing tired of this.
 Санчо: Мне это надоело.
 
-# Original: What joy does that woman get out of this altercation? She could have at least had the courtesy to arrive at our gates with hands full of refreshments...
+# Don Quixote: What joy does that woman get out of this altercation? She could have at least had the courtesy to arrive at our gates with hands full of refreshments...
 Дон Кихот: Какую радость эта женщина получает от этого противостояния? Могла бы хотя бы иметь вежливость прийти к нашим воротам с руками, полными угощений...
 
-# Original: How should I know?
+# Sancho: How should I know?
 Санчо: Откуда мне знать?
 
-# Original: What I am certain of, is that this intruder will never leave us alone until we open our gates.
+# Sancho: What I am certain of, is that this intruder will never leave us alone until we open our gates.
 Санчо: В чём я уверена, так это в том, что этот нарушитель никогда не оставит нас в покое, пока мы не откроем ворота.
 
-# Original: By the... why did I ever agree to something so vexatious?
+# Don Quixote: By the... why did I ever agree to something so vexatious?
 Дон Кихот: Ну почему... зачем я вообще согласился на что-то столь утомительное?
 
-# Original: It is about time we put an end to this, Father.
+# Sancho: It is about time we put an end to this, Father.
 Санчо: Пора положить этому конец, Отец.
 
-# Original: I find no joy in telling you this, but...
+# Sancho: I find no joy in telling you this, but...
 Санчо: Мне не доставляет радости говорить вам это, но...
 
-# Original: ... It does not befit your reputation to be locked in a duel with a mere human for so long.
+# Sancho: ... It does not befit your reputation to be locked in a duel with a mere human for so long.
 Санчо: ...Вашей репутации не подобает так долго биться в дуэли с простым человеком.
 
-# Original: The other Children are... saying things.
+# Sancho: The other Children are... saying things.
 Санчо: Другие Дети... говорят всякое.
 
-# Original: ... You will understand the pain of dealing with Children when you make Kindreds of your own.
+# Don Quixote: ... You will understand the pain of dealing with Children when you make Kindreds of your own.
 Дон Кихот: ... Ты поймёшь боль общения с Детьми, когда создашь своих собственных Сородичей.
 
-# Original: How many times have I told you? I refuse to do such a thing.
+# Sancho: How many times have I told you? I refuse to do such a thing.
 Санчо: Сколько раз я говорила вам? Я отказываюсь делать такое.
 
-# Original: How harsh you are.
+# Don Quixote: How harsh you are.
 Дон Кихот: Как сурово.
 
-# Original: Worry not. I intend to put an end to this today. I have been planning to do so for a while.
+# Don Quixote: Worry not. I intend to put an end to this today. I have been planning to do so for a while.
 Дон Кихот: Не беспокойся. Я намерен положить этому конец сегодня. Я планировал это уже некоторое время.
 
-# Original: Are you certain that you do not require my assistance?
+# Sancho: Are you certain that you do not require my assistance?
 Санчо: Вы уверены, что вам не нужна моя помощь?
 
-# Original: I should be enough to tip the scales in your favor.
+# Sancho: I should be enough to tip the scales in your favor.
 Санчо: Меня должно быть достаточно, чтобы склонить чашу весов в вашу пользу.
 
-# Original: It is all right.
+# Don Quixote: It is all right.
 Дон Кихот: Всё в порядке.
 
-# Original: This is a duel, is it not? A duel must be fair and just.
+# Don Quixote: This is a duel, is it not? A duel must be fair and just.
 Дон Кихот: Это дуэль, не так ли? Дуэль должна быть честной и справедливой.
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: Is that not what she said last time, verbatim?
+# Sancho: Is that not what she said last time, verbatim?
 Санчо: Разве не это она сказала в прошлый раз, дословно?
 
-# Original: Something about the... laws of Fixers.
+# Sancho: Something about the... laws of Fixers.
 Санчо: Что-то про... законы Корректировщиков.
 
-# Original: ... So, what exactly are Fixers?
+# Sancho: ... So, what exactly are Fixers?
 Санчо: ... Так что же такое Корректировщики?
 
-# Original: ... I do not know.
+# Don Quixote: ... I do not know.
 Дон Кихот: ... Я не знаю.
 
-# Original: That absurd duel continued with no end in sight.
+# Sancho: That absurd duel continued with no end in sight.
 Санчо: Та абсурдная дуэль продолжалась без конца и края.
 
-# Original: And I found myself measuring the time, like some... referee.
+# Sancho: And I found myself measuring the time, like some... referee.
 Санчо: И я обнаружила, что отмеряю время, как какая-то... рефери.
 
-# Original: It is time.
+# Sancho: It is time.
 Санчо: Время.
 
-# Original: Phew~ That was close. I thought we'd finally have a victor in this duel.
+# Bari: Phew~ That was close. I thought we'd finally have a victor in this duel.
 Бари: Фух~ Это было близко. Я думала, у нас наконец-то будет победитель в этой дуэли.
 
-# Original: ... I would like to ask you something.
+# Don Quixote: ... I would like to ask you something.
 Дон Кихот: ... Я хотел бы спросить у тебя кое-что.
 
-# Original: Yeah?
+# Bari: Yeah?
 Бари: Да?
 
-# Original: What, pray... is a Fixer?
+# Don Quixote: What, pray... is a Fixer?
 Дон Кихот: Что же такое... Корректировщик?
 
-# Original: What is this 'Fixer', that has made you so pertinacious and... stubborn?
+# Don Quixote: What is this 'Fixer', that has made you so pertinacious and... stubborn?
 Дон Кихот: Что это за "Корректировщики", которые сделали тебя такой настойчивой и... упрямой?
 
-# Original: You have mentioned their laws on our first bout as well... Is the honor of Fixers so significant that you would wager your life on it?
+# Don Quixote: You have mentioned their laws on our first bout as well... Is the honor of Fixers so significant that you would wager your life on it?
 Дон Кихот: Ты упоминала их законы ещё в нашей первой схватке... Неужели честь Корректировщиков настолько значима, что ты готова поставить на неё свою жизнь?
 
-# Original: ... I can tell you if you want.
+# Bari: ... I can tell you if you want.
 Бари: ... Я могу рассказать тебе, если хочешь.
 
-# Original: And they both simultaneously lowered their weapons.
+# Sancho: And they both simultaneously lowered their weapons.
 Санчо: И они оба одновременно опустили оружие.
 
-# Original: You're looking forward to her arrival now, aren't you? You are <i>waiting</i> for her.
+# Sancho: You're looking forward to her arrival now, aren't you? You are <i>waiting</i> for her.
 Санчо: Вы теперь ждёте её прихода, не так ли? Вы <i>ждёте</i> её.
 
-# Original: The fault lies with the human. How dare she cut off her story short right at the climax?
+# Don Quixote: The fault lies with the human. How dare she cut off her story short right at the climax?
 Дон Кихот: Вина лежит на человеке. Как она смеет обрывать свой рассказ прямо на кульминации?
 
-# Original: Ah, she's here. She's here! Let her in, will you?
+# Don Quixote: Ah, she's here. She's here! Let her in, will you?
 Дон Кихот: Ах, она здесь. Она здесь! Впустишь её?
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: So what happened to that fool whose rope snapped at that exact moment?
+# Sancho: So what happened to that fool whose rope snapped at that exact moment?
 Санчо: Так что случилось с тем дураком, чья верёвка порвалась именно в тот момент?
 
-# Original: No, I must know what happened to the siblings first.
+# Don Quixote: No, I must know what happened to the siblings first.
 Дон Кихот: Нет, сначала я должен узнать, что случилось с братом и сестрой.
 
-# Original: The fool who hung onto a rotten strand of rope fell to the earth, and the siblings lived happily ever after.
+# Bari: The fool who hung onto a rotten strand of rope fell to the earth, and the siblings lived happily ever after.
 Бари: Дурак, державшийся за гнилую верёвку, упал на землю, а брат с сестрой жили долго и счастливо.
 
-# Original: What an exciting tale that was. My hands had grown so sodden from the sheer suspense.
+# Don Quixote: What an exciting tale that was. My hands had grown so sodden from the sheer suspense.
 Дон Кихот: Какая захватывающая история. Мои ладони стали совсем влажными от напряжения.
 
-# Original: ... Sancho.
+# Don Quixote: ... Sancho.
 Дон Кихот: ... Санчо.
 
-# Original: When did you sidle up so close to our conversation?
+# Don Quixote: When did you sidle up so close to our conversation?
 Дон Кихот: Когда ты подкралась так близко к нашему разговору?
 
-# Original: Bari, do you recall the place you told me of upon our last meeting?
+# Don Quixote: Bari, do you recall the place you told me of upon our last meeting?
 Дон Кихот: Бари, помнишь то место, о котором ты рассказывала мне при нашей последней встрече?
 
-# Original: This 'amusement park'.
+# Don Quixote: This 'amusement park'.
 Дон Кихот: Этот "парк развлечений".
 
-# Original: Mhm.
+# Bari: Mhm.
 Бари: Угу.
 
-# Original: Will you speak to me of it again?
+# Don Quixote: Will you speak to me of it again?
 Дон Кихот: Расскажешь мне о нём снова?
 
-# Original: Haah... Father, this is the seventh time—
+# Sancho: Haah... Father, this is the seventh time—
 Санчо: Хаах... Отец, это уже седьмой раз—
 
-# Original: Yet no books on heroic tales ever mention such a thing as an 'amusement park'.
+# Don Quixote: Yet no books on heroic tales ever mention such a thing as an 'amusement park'.
 Дон Кихот: И всё же ни в одной книге о героических сказаниях не упоминается ничего подобного "парку развлечений".
 
-# Original: Well, then? Tell me, describe the sight.
+# Don Quixote: Well, then? Tell me, describe the sight.
 Дон Кихот: Ну же? Расскажи мне, опиши, как это выглядит.
 
-# Original: Children enter there, holding tightly onto their parents' hands.
+# Bari: Children enter there, holding tightly onto their parents' hands.
 Бари: Дети входят туда, крепко держась за руки родителей.
 
-# Original: What of their expressions?
+# Don Quixote: What of their expressions?
 Дон Кихот: А как насчёт их выражений лиц?
 
-# Original: Practically radiant with the happiest, brightest smiles in the world.
+# Bari: Practically radiant with the happiest, brightest smiles in the world.
 Бари: Практически сияют самыми счастливыми, яркими улыбками в мире.
 
-# Original: All wear pretty headbands or elaborate masks.
+# Bari: All wear pretty headbands or elaborate masks.
 Бари: Все носят красивые ободки или замысловатые маски.
 
-# Original: And they play such catchy, exciting music all year-round.
+# Bari: And they play such catchy, exciting music all year-round.
 Бари: И они играют такую заразительную, захватывающую музыку круглый год.
 
-# Original: People dance to the music, too.
+# Bari: People dance to the music, too.
 Бари: Люди тоже танцуют под музыку.
 
-# Original: Its guests are free to do whatever they want.
+# Bari: Its guests are free to do whatever they want.
 Бари: Гости свободны делать всё, что им хочется.
 
-# Original: Enter a game of marksmanship at the shooting range. Explore a spooky haunted mansion.
+# Bari: Enter a game of marksmanship at the shooting range. Explore a spooky haunted mansion.
 Бари: Поучаствовать в соревновании по стрельбе в тире. Исследовать жуткий дом с привидениями.
 
-# Original: I... I can't say I get the point of all this.
+# Sancho: I... I can't say I get the point of all this.
 Санчо: Я... я не могу сказать, что понимаю смысл всего этого.
 
-# Original: What of this... 'ride'?
+# Don Quixote: What of this... 'ride'?
 Дон Кихот: А что насчёт этого... "аттракциона"?
 
-# Original: This is called a carousel. The visitors each ride upon a steed that goes in circles.
+# Bari: This is called a carousel. The visitors each ride upon a steed that goes in circles.
 Бари: Это называется карусель. Посетители садятся каждый на своего скакуна, который движется по кругу.
 
-# Original: They ride on horses only to go in circles? How utterly devoid of meaning.
+# Sancho: They ride on horses only to go in circles? How utterly devoid of meaning.
 Санчо: Они садятся на лошадей только чтобы ездить кругами? Какая полная бессмыслица.
 
-# Original: And this here is called an 'observation wheel'. Humans use it to view the sights from a higher elevation.
+# Bari: And this here is called an 'observation wheel'. Humans use it to view the sights from a higher elevation.
 Бари: А это называется "колесо обозрения". Люди используют его, чтобы смотреть на виды с высоты.
 
-# Original: Not only did they craft a giant, its size thousandfold of humans, but also dare to enter its body? What a splendid method by which one may overcome their fears.
+# Don Quixote: Not only did they craft a giant, its size thousandfold of humans, but also dare to enter its body? What a splendid method by which one may overcome their fears.
 Дон Кихот: Они не только создали гиганта, размером в тысячу раз больше человека, но и осмеливаются входить в его тело? Какой великолепный способ преодолеть свои страхи.
 
-# Original: You are seriously misunderstanding what this is.
+# Sancho: You are seriously misunderstanding what this is.
 Санчо: Вы серьёзно неправильно это понимаете.
 
-# Original: ... I have conceived an idea most ingenious.
+# Don Quixote: ... I have conceived an idea most ingenious.
 Дон Кихот: ... У меня появилась самая остроумнейшая идея.
 
-# Original: ... And this is where you stop listening to him.
+# Sancho: ... And this is where you stop listening to him.
 Санчо: ... И вот после этого его лучше не слушать.
 
-# Original: So she says. Should I?
+# Bari: So she says. Should I?
 Бари: Так она говорит. Мне стоит?
 
-# Original: The pair of you are becoming alike in the worst possible ways.
+# Don Quixote: The pair of you are becoming alike in the worst possible ways.
 Дон Кихот: Вы двое становитесь похожими в худших возможных проявлениях.
 
-# Original: ... I wish to build one myself.
+# Don Quixote: ... I wish to build one myself.
 Дон Кихот: ... Я хочу построить такой сам.
 
-# Original: An 'amusement park', where humans and Bloodfiends can happily coexist.
+# Don Quixote: An 'amusement park', where humans and Bloodfiends can happily coexist.
 Дон Кихот: "Парк развлечений", где люди и Кровожады смогут счастливо сосуществовать.
 
-# Original: I shall call it...
+# Don Quixote: I shall call it...
 Дон Кихот: Я назову его...
 
-# Original: La Manchaland.
+# Don Quixote: La Manchaland.
 Дон Кихот: Ла-Манчалэнд.
 
-# Original: Step by step.
+# Sancho: Step by step.
 Санчо: Шаг за шагом.
 
-# Original: One.
+# Sancho: One.
 Санчо: Один.
 
-# Original: Two.
+# Sancho: Two.
 Санчо: Два.
 
-# Original: Three. I found myself slowly becoming engrossed in her tales.
+# Sancho: Three. I found myself slowly becoming engrossed in her tales.
 Санчо: Три. Я обнаружила, что постепенно увлекаюсь её рассказами.
 
-# Original: That is how his dream... became mine...
+# Sancho: That is how his dream... became mine...
 Санчо: Вот так его мечта... стала моей...
 
-# Original: But it wasn't long...
+# Sancho: But it wasn't long...
 Санчо: Но прошло совсем немного времени...
 
-# Original: ... before it was broken and cast aside.
+# Sancho: ... before it was broken and cast aside.
 Санчо: ... прежде чем она была разбита и отброшена.
 
-# Original: Like my Father.
+# Sancho: Like my Father.
 Санчо: Как мой Отец.
 
-# Original: Yet, there exists an understanding beyond sight.
+# Yi Sang: Yet, there exists an understanding beyond sight.
 И Сан: И всё же существует понимание за пределами зрения.
 
-# Original: Why, why does La Manchaland not exist in perpetuity, but seek to vanish only within hours of its manifestation?
+# Yi Sang: Why, why does La Manchaland not exist in perpetuity, but seek to vanish only within hours of its manifestation?
 И Сан: Почему, почему Ла-Манчалэнд не существует вечно, но стремится исчезнуть всего через несколько часов после своего проявления?
 
-# Original: It can only be your Father's final, lingering conveyance of his will.
+# Yi Sang: It can only be your Father's final, lingering conveyance of his will.
 И Сан: Это может быть только последним сохранившимся выражением воли твоего Отца.
 
-# Original: …….
+# Sancho: …….
 Санчо: …….
 
-# Original: Father gave me Rocinante so that I may embark on an adventure of my own.
+# Sancho: Father gave me Rocinante so that I may embark on an adventure of my own.
 Санчо: Отец дал мне Росинанта, чтобы я могла отправиться в собственное приключение.
 
-# Original: But none of my tales were real. They were all... fake.
+# Sancho: But none of my tales were real. They were all... fake.
 Санчо: Но ни одна из моих историй не была настоящей. Все они были... фальшивыми.
 
-# Original: Once I drank from the River of Oblivion... once I imprisoned myself in a cell of my own making... I spent day after day immersed in these books of 'Fixers'.
+# Sancho: Once I drank from the River of Oblivion... once I imprisoned myself in a cell of my own making... I spent day after day immersed in these books of 'Fixers'.
 Санчо: Когда я испила из Реки Забвения... когда я заточила себя в собственноручно созданную тюремную камеру... я проводила день за днём, погружённая в эти книги о "Корректировщиках".
 
-# Original: And that has tainted my story with vacuous lies and hyperbole.
+# Sancho: And that has tainted my story with vacuous lies and hyperbole.
 Санчо: И это запятнало мою историю пустой ложью и преувеличениями.
 
-# Original: What was it that you have always said to me?
+# Sancho: What was it that you have always said to me?
 Санчо: Что ты всегда говорил мне?
 
-# Original: That it was about time I woke up from my delusions.
+# Sancho: That it was about time I woke up from my delusions.
 Санчо: Что пора мне проснуться от своих заблуждений.
 
-# Original: Yes. I suppose now is the time I came to my senses.
+# Sancho: Yes. I suppose now is the time I came to my senses.
 Санчо: Да. Полагаю, теперь пришло время прийти в чувство.

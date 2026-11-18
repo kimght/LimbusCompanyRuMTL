@@ -1,272 +1,272 @@
-﻿# Original: So, you've yet to handle any Abnormality management work.
+﻿# Gregor: So, you've yet to handle any Abnormality management work.
 Gregor: Итак, ты еще не занимался никакой работой c Аномалиями.
 
-# Original: No, sir! I haven't been... assigned anything yet. That's what, uh, Researcher...
+# Novice Researcher: No, sir! I haven't been... assigned anything yet. That's what, uh, Researcher...
 Novice Researcher: Никак нет, сэр! Мне еще... ничего не поручали. Как сказал, э-э, исследователь...
 
-# Original: Yi Sang.
+# Yi Sang: Yi Sang.
 Yi Sang: И Сан.
 
-# Original: Ah, yes. That's what Researcher Yi Sang told me the other day.
+# Novice Researcher: Ah, yes. That's what Researcher Yi Sang told me the other day.
 Novice Researcher: Ах, да. Как исследователь И Сан сказал мне на днях.
 
-# Original: Hmm... I see. Here, take this.
+# Gregor: Hmm... I see. Here, take this.
 Gregor: Хм... Понятно. На, держи.
 
-# Original: Uh...
+# Novice Researcher: Uh...
 Novice Researcher: Э-э...
 
-# Original: Call it a tradition of sorts. In our team, the individual who has made the most... yes, "aggressive" projection of the day's expected yield buys coffee for everyone in the team.
+# Gregor: Call it a tradition of sorts. In our team, the individual who has made the most... yes, "aggressive" projection of the day's expected yield buys coffee for everyone in the team.
 Gregor: Считай это своего рода традицией. В нашей группе тот, кто сделал наиболее... да, «агрессивный» прогноз ожидаемой выработки за день, покупает всем кофе.
 
-# Original: Amending in the spirit of accuracy, it is the individual who has made the most "far-fetched" projection of the day's expected yield.
+# Faust: Amending in the spirit of accuracy, it is the individual who has made the most "far-fetched" projection of the day's expected yield.
 Faust: Внося поправку ради точности — тот, кто сделал самый «притянутый за уши» прогноз ожидаемой выработки за день.
 
-# Original: I'd rather not argue over semantics when we're effectively saying the same thing.
+# Gregor: I'd rather not argue over semantics when we're effectively saying the same thing.
 Gregor: Я бы предпочел не спорить о семантике, когда мы, по сути, говорим об одном и том же.
 
-# Original: I sense an ulterior motive on your part to obscure the overwhelming margin of error in your calculations.
+# Faust: I sense an ulterior motive on your part to obscure the overwhelming margin of error in your calculations.
 Faust: Я улавливаю с вашей стороны скрытый мотив завуалировать колоссальную погрешность в ваших расчетах.
 
-# Original: ... Take the cup already. My hand's starting to burn.
+# Gregor: ... Take the cup already. My hand's starting to burn.
 Gregor: ...Да бери ты уже стакан. У меня рука сейчас сгорит.
 
-# Original: Oh, sorry!
+# Novice Researcher: Oh, sorry!
 Novice Researcher: Ой, простите!
 
-# Original: In the dim hallway, a coffee vending machine stands out with its conspicuous glow among the few flickering lights.
+# Narrator: In the dim hallway, a coffee vending machine stands out with its conspicuous glow among the few flickering lights.
 Narrator: В тусклом коридоре автомат с кофе выделялся своим приметным свечением на фоне немногочисленных мерцающих ламп.
 
-# Original: The child and the other children—his teammates—are gathered around the coffee machine, each holding a cup as they always do during late-night overtime.
+# Narrator: The child and the other children—his teammates—are gathered around the coffee machine, each holding a cup as they always do during late-night overtime.
 Narrator: Дитя и другие дети — его товарищи по команде — собрались вокруг кофейного автомата, каждый держал в руках стаканчик, как это всегда бывает во время ночных переработок.
 
-# Original: Tonight, there are four of them, with the newly assigned researcher joining the circle.
+# Narrator: Tonight, there are four of them, with the newly assigned researcher joining the circle.
 Narrator: Сегодня ночью их четверо — к кругу присоединился недавно назначенный новый исследователь.
 
-# Original: Miss Faust, perhaps you would want to refrain from provoking our team leader so excessively.
+# Yi Sang: Miss Faust, perhaps you would want to refrain from provoking our team leader so excessively.
 Yi Sang: Госпожа Фауст, возможно, вам стоит воздержаться от столь чрезмерных провокаций в сторону нашего руководителя.
 
-# Original: You are well aware that, were it not for the three procedural errors that have occurred earlier this day, the team leader's calculations would have aligned ideally.
+# Yi Sang: You are well aware that, were it not for the three procedural errors that have occurred earlier this day, the team leader's calculations would have aligned ideally.
 Yi Sang: Вы прекрасно осведомлены, что, если бы не три процедурные ошибки, допущенные ранее сегодня, расчеты руководителя сошлись бы идеально.
 
-# Original: Oh, wait...
+# Novice Researcher: Oh, wait...
 Novice Researcher: Ох, подождите...
 
-# Original: It was me, wasn't it...? The work I did during my training today...
+# Novice Researcher: It was me, wasn't it...? The work I did during my training today...
 Novice Researcher: Это ведь был я, не так ли...? Работа, которую я выполнял сегодня во время обучения...
 
-# Original: Are you not going to take the cup?
+# Gregor: Are you not going to take the cup?
 Gregor: Ты собираешься брать стакан или нет?
 
-# Original: The child casually pressed the coffee into the novice researcher's hands, preemptively stifling the newcomer's apology before it even escaped his lips, then lit up another cigarette.
+# Narrator: The child casually pressed the coffee into the novice researcher's hands, preemptively stifling the newcomer's apology before it even escaped his lips, then lit up another cigarette.
 Narrator: Дитя небрежно всучило кофе в руки нового исследователя, превентивно подавив извинения новичка еще до того, как они успели сорваться с его губ, а затем закурило очередную сигарету.
 
-# Original: Another uncontrollable variable, I suppose. I don't normally factor in mistakes into my calculations regarding projects of this nature. It's my blind spot that these two often exploit to outmaneuver me in our wagers.
+# Gregor: Another uncontrollable variable, I suppose. I don't normally factor in mistakes into my calculations regarding projects of this nature. It's my blind spot that these two often exploit to outmaneuver me in our wagers.
 Gregor: Очередная неконтролируемая переменная, полагаю. Обычно я не учитываю ошибки в своих расчетах, когда речь идет о проектах подобного рода. Это мое слепое пятно, которым эти двое частенько пользуются, чтобы обставить меня в наших пари.
 
-# Original: ... I'm sorry.
+# Novice Researcher: ... I'm sorry.
 Novice Researcher: ...Простите.
 
-# Original: Not really something that warrants your apology, is it?
+# Gregor: Not really something that warrants your apology, is it?
 Gregor: Вряд ли это повод для твоих извинений, не так ли?
 
-# Original: The child took a sip of coffee and studied the newcomer with a calm expression.
+# Narrator: The child took a sip of coffee and studied the newcomer with a calm expression.
 Narrator: Попивая кофе, дитя со спокойным выражением лица изучало новичка.
 
-# Original: That composed gaze stirred a faint hope in the novice researcher—that the Research Team Chief might offer something encouraging, perhaps a remark or two about how everyone has to start somewhere and that mistakes are simply part of the journey. However...
+# Narrator: That composed gaze stirred a faint hope in the novice researcher—that the Research Team Chief might offer something encouraging, perhaps a remark or two about how everyone has to start somewhere and that mistakes are simply part of the journey. However...
 Narrator: Этот невозмутимый взгляд пробудил в новом исследователе слабую надежду на то, что Начальник исследовательской группы скажет что-то ободряющее, возможно, пару слов о том, что всем приходится с чего-то начинать и что ошибки — это просто часть пути. Однако...
 
-# Original: Whether or not you are a natural-born genius is hardly a variable within your control. The fault lies with me for expecting the rest of humanity to perform at my level.
+# Gregor: Whether or not you are a natural-born genius is hardly a variable within your control. The fault lies with me for expecting the rest of humanity to perform at my level.
 Gregor: Являешься ли ты прирожденным гением или нет — вряд ли эта переменная подвластна твоему контролю. Вина лежит на мне за то, что я ожидал от остального человечества результатов моего уровня.
 
-# Original: Oh. I see...
+# Novice Researcher: Oh. I see...
 Novice Researcher: Ох. Понимаю...
 
-# Original: The newcomer could only stand there, stunned into silence. There was not a trace of arrogance in the child's tone—the child's words were delivered so matter-of-factly, as though he were stating some of the most obvious, common-sense facts about the world.
+# Narrator: The newcomer could only stand there, stunned into silence. There was not a trace of arrogance in the child's tone—the child's words were delivered so matter-of-factly, as though he were stating some of the most obvious, common-sense facts about the world.
 Narrator: Новичку оставалось лишь стоять как вкопанному, потеряв дар речи. В голосе дитя не было ни капли высокомерия — его слова произносились настолько обыденно, как если бы оно констатировало одни из самых очевидных, прописных истин об этом мире.
 
-# Original: Pray understand. As you have surely perceived, no ill intent resides in his speech.
+# Yi Sang: Pray understand. As you have surely perceived, no ill intent resides in his speech.
 Yi Sang: Смиренно прошу понять. Как вы наверняка заметили, в его речах нет злого умысла.
 
-# Original: Did it sound as though I were being spiteful?
+# Gregor: Did it sound as though I were being spiteful?
 Gregor: Это прозвучало так, будто я пытался язвить?
 
-# Original: Always.
+# Faust: Always.
 Faust: Как и всегда.
 
-# Original: Hmm... I suppose I'll try to be more mindful of that. If I can be bothered to, that is.
+# Gregor: Hmm... I suppose I'll try to be more mindful of that. If I can be bothered to, that is.
 Gregor: Хм... Полагаю, я постараюсь следить за этим. Если, конечно, мне будет не лень.
 
-# Original: The child smacked his lips and took another sip from the paper cup.
+# Narrator: The child smacked his lips and took another sip from the paper cup.
 Narrator: Дитя причмокнуло губами и сделало еще один глоток из бумажного стаканчика.
 
-# Original: The rest of the team had already heard him say that well over 30 times by now...
+# Narrator: The rest of the team had already heard him say that well over 30 times by now...
 Narrator: К настоящему моменту остальная часть группы слышала от него эти слова уже более тридцати раз...
 
-# Original: Still, they didn't bother pointing it out. They knew, after all, that he was not someone who would change simply because someone suddenly decided to broach the subject of his attitude—which is why they dismissed the child's fleeting introspection with little more than a quiet scoff and decided to move on.
+# Narrator: Still, they didn't bother pointing it out. They knew, after all, that he was not someone who would change simply because someone suddenly decided to broach the subject of his attitude—which is why they dismissed the child's fleeting introspection with little more than a quiet scoff and decided to move on.
 Narrator: Тем не менее, они не стали указывать на это. В конце концов, они знали, что он не из тех, кто изменится только потому, что кто-то вдруг решил затронуть тему его отношения к окружающим, — вот почему они отмахнулись от мимолетного самоанализа дитя лишь тихой усмешкой и решили двигаться дальше.
 
-# Original: They knew that the child could leave a rather unpleasant impression...
+# Narrator: They knew that the child could leave a rather unpleasant impression...
 Narrator: Они знали, что дитя может оставить весьма неприятное впечатление...
 
-# Original: ... but they also knew that it only takes a brief time together for people to realize that he is, in fact, a man with a heart of gold.
+# Narrator: ... but they also knew that it only takes a brief time together for people to realize that he is, in fact, a man with a heart of gold.
 Narrator: ...но также они знали: стоит провести с ним совсем немного времени, и люди осознают, что на самом деле он человек с золотым сердцем.
 
-# Original: And that, if anyone were ever to hear about the past he'd had to live through...
+# Narrator: And that, if anyone were ever to hear about the past he'd had to live through...
 Narrator: И что если бы кто-нибудь когда-нибудь услышал о прошлом, которое ему пришлось пережить...
 
-# Original: ... the unpleasant first impression would melt into sympathy and a quiet wish for his peace of mind.
+# Narrator: ... the unpleasant first impression would melt into sympathy and a quiet wish for his peace of mind.
 Narrator: ...неприятное первое впечатление растаяло бы, сменившись сочувствием и тихим пожеланием ему душевного покоя.
 
-# Original: ... ry.
+# Novice Researcher: ... ry.
 Novice Researcher: ...ите.
 
-# Original: I'm sorry, I'm sorry, I'm so sorry...
+# Novice Researcher: I'm sorry, I'm sorry, I'm so sorry...
 Novice Researcher: Простите, простите, мне очень жаль...
 
-# Original: A few days later...
+# Narrator: A few days later...
 Narrator: Несколько дней спустя...
 
-# Original: The familiar warning siren rang out, followed by the sound of hurried footsteps racing through the research team's hallway.
+# Narrator: The familiar warning siren rang out, followed by the sound of hurried footsteps racing through the research team's hallway.
 Narrator: Раздалась знакомая предупреждающая сирена, за которой последовал звук торопливых шагов, мчащихся по коридору исследовательской группы.
 
-# Original: No need to be so harsh on yourself. Confusing a managerial work with another has happened 3 or 4 times, I'd say, since the establishment of the LCE Department.
+# Gregor: No need to be so harsh on yourself. Confusing a managerial work with another has happened 3 or 4 times, I'd say, since the establishment of the LCE Department.
 Gregor: Не нужно быть к себе столь суровым. Перепутать один тип работы с другим... такое случалось, я бы сказал, раза три или четыре со времени основания Отдела LCE.
 
-# Original: As a point of fact, however, the researchers responsible for those mistakes are no longer with us in this department.
+# Gregor: As a point of fact, however, the researchers responsible for those mistakes are no longer with us in this department.
 Gregor: Однако, ради справедливости стоит отметить, что исследователи, ответственные за эти ошибки, больше не работают с нами в этом отделе.
 
-# Original: Ahh...
+# Novice Researcher: Ahh...
 Novice Researcher: А-а-а...
 
-# Original: While the child and his teammates in E.G.O gears dispatched the Peccatula one by one, the novice researcher could only cower behind them—whether due to inexperience with the newly assigned E.G.O gear, or from sheer panic.
+# Narrator: While the child and his teammates in E.G.O gears dispatched the Peccatula one by one, the novice researcher could only cower behind them—whether due to inexperience with the newly assigned E.G.O gear, or from sheer panic.
 Narrator: Пока дитя и его товарищи в снаряжении ЭГО уничтожали Пеккатул одну за другой, новый исследователь мог лишь съежиться у них за спинами — то ли из-за неопытности в обращении с недавно выданным снаряжением ЭГО, то ли из-за чистой паники.
 
-# Original: Miss Faust. The most rational solution would be for me to handle the Peccatulum Irae.
+# Yi Sang: Miss Faust. The most rational solution would be for me to handle the Peccatulum Irae.
 Yi Sang: Госпожа Фауст. Самым рациональным решением будет доверить Пеккатулу Гнева мне.
 
-# Original: Then I leave it to you.
+# Faust: Then I leave it to you.
 Faust: Тогда оставляю ее на вас.
 
-# Original: It tends to lunge and charge without warning. You'll want to make sure it doesn't reach your junior.
+# Faust: It tends to lunge and charge without warning. You'll want to make sure it doesn't reach your junior.
 Faust: Она склонна делать выпады и бросаться в атаку без предупреждения. Вам следует убедиться, что она не доберется до вашего младшего сотрудника.
 
-# Original: There shall be no such concern...!
+# Yi Sang: There shall be no such concern...!
 Yi Sang: Можете об этом не тревожиться...!
 
-# Original: I'm sorr— No, no, this isn't the time to be saying that...
+# Novice Researcher: I'm sorr— No, no, this isn't the time to be saying that...
 Novice Researcher: Прост— Нет, нет, сейчас не время об этом говорить...
 
-# Original: Good. Glad to see you recognize that. If you've got time for apologies, then use it to observe and learn from your seniors.
+# Gregor: Good. Glad to see you recognize that. If you've got time for apologies, then use it to observe and learn from your seniors.
 Gregor: Хорошо. Рад видеть, что ты это понимаешь. Если у тебя есть время на извинения, используй его, чтобы наблюдать и учиться у старших.
 
-# Original: Don't trouble yourself with what I am doing. It is, in any event, a caliber not easily attained by ordinary minds such as yours.
+# Gregor: Don't trouble yourself with what I am doing. It is, in any event, a caliber not easily attained by ordinary minds such as yours.
 Gregor: Не забивай себе голову тем, что я делаю. Это, в любом случае, уровень, который не так-то легко постичь заурядным умам вроде твоего.
 
-# Original: ... I promise, once this is over, I'll focus on analyzing E.G.O and do better. It's time I learned to carry my own weight...
+# Novice Researcher: ... I promise, once this is over, I'll focus on analyzing E.G.O and do better. It's time I learned to carry my own weight...
 Novice Researcher: ...Обещаю, как только все закончится, я сосредоточусь на анализе ЭГО и буду стараться. Пора бы и мне начать приносить пользу...
 
-# Original: Others will be carrying your body weight if you keep speaking as though you are leaving your last words.
+# Gregor: Others will be carrying your body weight if you keep speaking as though you are leaving your last words.
 Gregor: Приносить кому-то придётся разве что твой труп, если продолжишь говорить так, будто произносишь последние слова.
 
-# Original: Chief Gregor... Ngh! Are you not yet finished?
+# Yi Sang: Chief Gregor... Ngh! Are you not yet finished?
 Yi Sang: Начальник Грегор... Нгх! Вы еще не закончили?
 
-# Original: Almost done here.
+# Gregor: Almost done here.
 Gregor: Уже почти.
 
-# Original: That statement has now been repeated three times... It's growing increasingly unreliable. Current damage rate stands at 23%. Your gear won't hold for long.
+# Faust: That statement has now been repeated three times... It's growing increasingly unreliable. Current damage rate stands at 23%. Your gear won't hold for long.
 Faust: Это утверждение прозвучало уже трижды... Оно становится все менее надежным. Текущий уровень повреждений составляет 23%. Ваше снаряжение долго не выдержит.
 
-# Original: You are overstating the danger. The previous durability test result remained within acceptable parameters up to 57%, didn't it? And... around 41%, I believe, the self-repair mechanism will activate.
+# Gregor: You are overstating the danger. The previous durability test result remained within acceptable parameters up to 57%, didn't it? And... around 41%, I believe, the self-repair mechanism will activate.
 Gregor: Вы преувеличиваете опасность. В прошлый раз результаты теста на прочность оставались в пределах допустимых параметров вплоть до 57%, разве нет? И... где-то на 41%, я полагаю, активируется механизм самовосстановления.
 
-# Original: That test was conducted under controlled laboratory conditions. Its reliability is questionable.
+# Faust: That test was conducted under controlled laboratory conditions. Its reliability is questionable.
 Faust: Этот тест проводился в контролируемых лабораторных условиях. Его достоверность сомнительна.
 
-# Original: Which is why I am out here engaging myself with the task of obtaining real-combat data.
+# Gregor: Which is why I am out here engaging myself with the task of obtaining real-combat data.
 Gregor: Именно поэтому я нахожусь здесь, занимаясь сбором данных в реальных боевых условиях.
 
-# Original: *sigh*
+# Faust: *sigh*
 Faust: *вздох*
 
-# Original: Though Peccatula seldom manage to breach containment by themselves, the interference and influence of other Abnormalities or Distortions make this a rather frequent affair.
+# Narrator: Though Peccatula seldom manage to breach containment by themselves, the interference and influence of other Abnormalities or Distortions make this a rather frequent affair.
 Narrator: Хотя Пеккатулам редко удается нарушить условия содержания самостоятельно, вмешательство и влияние других Аномалий или Искажений делают это довольно частым явлением.
 
-# Original: And on such days... the child busies himself, gathering fresh data for his research.
+# Narrator: And on such days... the child busies himself, gathering fresh data for his research.
 Narrator: И в такие дни... дитя занимает себя сбором свежих данных для своих исследований.
 
-# Original: The terminus of dregs that could not even become Distortions, much less Efflorescing an E.G.O of their own.
+# Gregor: The terminus of dregs that could not even become Distortions, much less Efflorescing an E.G.O of their own.
 Gregor: Конечная станция для отбросов, которые не смогли стать даже Искажениями, не говоря уже о пробуждения своего ЭГО.
 
-# Original: Textual description alone proved sufficient to connect the dots during Class 1 Peccatula Observation...
+# Gregor: Textual description alone proved sufficient to connect the dots during Class 1 Peccatula Observation...
 Gregor: Одного лишь текстового описания оказалось достаточно, чтобы связать все воедино во время Наблюдения за Пеккатулами 1-го класса...
 
-# Original: But from Class 3 onward... would you not agree that the entities appear rather anomalous? The self should have been entirely lost, leaving behind only the manifestation of sins.
+# Gregor: But from Class 3 onward... would you not agree that the entities appear rather anomalous? The self should have been entirely lost, leaving behind only the manifestation of sins.
 Gregor: Но начиная с 3-го класса... вы не согласитесь, что эти сущности выглядят довольно аномально? Собственное "я" должно было быть полностью утрачено, оставив после себя лишь воплощение грехов.
 
-# Original: One can't help but ask what manner of sinful life could possibly give rise to monsters such as these... and as mere byproducts, too.
+# Gregor: One can't help but ask what manner of sinful life could possibly give rise to monsters such as these... and as mere byproducts, too.
 Gregor: Невольно задаешься вопросом: какая же греховная жизнь могла породить подобных монстров... да еще и в качестве простых побочных продуктов.
 
-# Original: Set aside your philosophical musings and lend us your aid first...!
+# Yi Sang: Set aside your philosophical musings and lend us your aid first...!
 Yi Sang: Отбросьте свои философские размышления и сперва окажите нам помощь...!
 
-# Original: Right, right... 91%.
+# Gregor: Right, right... 91%.
 Gregor: Да, да... 91%.
 
-# Original: At any rate, I imagine I will soon arrive at the answer through my own inquiry... we can revisit the subject then.
+# Gregor: At any rate, I imagine I will soon arrive at the answer through my own inquiry... we can revisit the subject then.
 Gregor: В любом случае, я полагаю, что скоро найду ответ путем собственных изысканий... тогда мы сможем вернуться к этой теме.
 
-# Original: Hah...! Might you be arranging another experiment that erodes your own life in the process?
+# Yi Sang: Hah...! Might you be arranging another experiment that erodes your own life in the process?
 Yi Sang: Хах...! Уж не планируете ли вы устроить очередной эксперимент, который попутно губит вашу собственную жизнь?
 
-# Original: <i>'The deceased employee's corpse has been collected and transported to a designated site within the Research Facility.'</i> If my life is to conclude as nothing more than so tedious a line in a death report, I would much rather leave behind a corpus of data bearing my name.
+# Gregor: <i>'The deceased employee's corpse has been collected and transported to a designated site within the Research Facility.'</i> If my life is to conclude as nothing more than so tedious a line in a death report, I would much rather leave behind a corpus of data bearing my name.
 Gregor: <i>«Труп погибшего сотрудника был найден и доставлен в специально отведенное место на территории Исследовательского комплекса».</i> Если моей жизни суждено завершиться не более чем подобной занудной строчкой в отчете о смерти, я бы предпочел оставить после себя массив данных, носящий мое имя.
 
-# Original: T-Team Leader... Someday, I'll develop the same conviction as you...
+# Novice Researcher: T-Team Leader... Someday, I'll develop the same conviction as you...
 Novice Researcher: Р-Руководитель группы... Когда-нибудь я обрету такую же убежденность, как у вас...
 
-# Original: Pay no heed to such words. You have scarcely donned that white coat for long, and already you would make of it a burial shroud... I have no wish to be handed the death report of my junior.
+# Yi Sang: Pay no heed to such words. You have scarcely donned that white coat for long, and already you would make of it a burial shroud... I have no wish to be handed the death report of my junior.
 Yi Sang: Не обращайте внимания на эти слова. Вы едва успели примерить этот белый халат, а уже готовы сделать из него погребальный саван... У меня нет ни малейшего желания однажды получить отчет о смерти моего младшего сотрудника.
 
-# Original: You took the words right out of my mouth, Yi Sang. Don't think I haven't noticed you walking that fine line between fearlessness and foolishness, especially with those Attunement Level experiments...
+# Gregor: You took the words right out of my mouth, Yi Sang. Don't think I haven't noticed you walking that fine line between fearlessness and foolishness, especially with those Attunement Level experiments...
 Gregor: Ты сорвал эти слова прямо у меня с языка, И Сан. Не думай, что я не заметил, как ты ходишь по тонкой грани между бесстрашием и безрассудством, особенно в тех Экспериментах по уровню синхронизации...
 
-# Original: Ahem...
+# Yi Sang: Ahem...
 Yi Sang: Кхм...
 
-# Original: ... If anyone wishes to avoid receiving death reports, it would be me. Ordinary minds should remain within their proper limits. Is that understood?
+# Gregor: ... If anyone wishes to avoid receiving death reports, it would be me. Ordinary minds should remain within their proper limits. Is that understood?
 Gregor: ...Если кто и желает избежать получения отчетов о смерти, так это я. Заурядным умам следует оставаться в отведенных им рамках. Это понятно?
 
-# Original: Damage rate is at 43%...!
+# Faust: Damage rate is at 43%...!
 Faust: Уровень повреждений на 43%...!
 
-# Original: Fine, fine!
+# Gregor: Fine, fine!
 Gregor: Ладно, ладно!
 
-# Original: The scanner soon chimed with an alert. The child rose to his feet, dusting his knees as he cast his eyes upon swarms of Peccatula still surging through the hallway.
+# Narrator: The scanner soon chimed with an alert. The child rose to his feet, dusting his knees as he cast his eyes upon swarms of Peccatula still surging through the hallway.
 Narrator: Вскоре сканер издал предупреждающий сигнал. Дитя поднялось на ноги, отряхивая колени, и бросило взгляд на полчища Пеккатул, все еще рвущихся по коридору.
 
-# Original: Sparks of electric current crackled along his shoulders.
+# Narrator: Sparks of electric current crackled along his shoulders.
 Narrator: По его плечам заискрились разряды электрического тока.
 
-# Original: As always, this sort of discussion is to be kept within the team.
+# Gregor: As always, this sort of discussion is to be kept within the team.
 Gregor: Как и всегда, этот разговор не должен покинуть пределы нашей группы.
 
-# Original: I trust you will keep your mouths shut about it in front of others.
+# Gregor: I trust you will keep your mouths shut about it in front of others.
 Gregor: Надеюсь, вы будете держать языки за зубами перед остальными.
 
-# Original: For all the rotten reputation surrounding the child as a team leader, his team members readily accept him as their chief researcher for two reasons:
+# Narrator: For all the rotten reputation surrounding the child as a team leader, his team members readily accept him as their chief researcher for two reasons:
 Narrator: Несмотря на всю скверную репутацию дитя как руководителя группы, члены команды охотно признают его своим главным исследователем по двум причинам:
 
-# Original: The first is that he's no empty talker—he is, undeniably, a real genius.
+# Narrator: The first is that he's no empty talker—he is, undeniably, a real genius.
 Narrator: Первая — он не простой хвастун, а, несомненно, настоящий гений.
 
-# Original: And the second is that...
+# Narrator: And the second is that...
 Narrator: А вторая заключается в том, что...
 
-# Original: I only allow myself to say these things to you... because you're my team.
+# Gregor: I only allow myself to say these things to you... because you're my team.
 Gregor: Я позволяю себе говорить вам такие вещи только... потому что вы — моя команда.
 
-# Original: ... beneath that frosty veneer, he is someone who cares more deeply for his team than anyone realizes.
+# Narrator: ... beneath that frosty veneer, he is someone who cares more deeply for his team than anyone realizes.
 Narrator: ...под этой ледяной оболочкой скрывается тот, кто заботится о своей команде гораздо сильнее, чем кто-либо может себе представить.

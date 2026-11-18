@@ -1,194 +1,194 @@
-# Original: That... certainly looks convenient. Broken bones heal up in a matter of moments.
+# Gregor: That... certainly looks convenient. Broken bones heal up in a matter of moments.
 Грегор: Это... определенно выглядит удобно. Сломанные кости заживают за считанные мгновения.
 
-# Original: K Corp. provided us with an astronomical sum of research grants to support our research on improving this ampule. Do keep this a secret from Shrenne, please; she might get mad at me about it for three months.
+# Dongrang: K Corp. provided us with an astronomical sum of research grants to support our research on improving this ampule. Do keep this a secret from Shrenne, please; she might get mad at me about it for three months.
 Донран: Корпорация К выделила нам астрономическую сумму исследовательских грантов для поддержки наших исследований по улучшению этой ампулы. Пожалуйста, держите это в секрете от Шренн; она может злиться на меня из-за этого три месяца.
 
-# Original: Hmph... Clock would only wind the thing after we've died, scared of a little hurting.
+# Ryōshū: Hmph... Clock would only wind the thing after we've died, scared of a little hurting.
 Рёшу: Хмф... Часы повернулись бы только после нашей смерти, боясь лишь небольшой боли.
 
-# Original: <……>
+# Dante: <……>
 Данте: <……>
 
-# Original: I think I cracked a bone in my right hand~ Can I get an ampule? It's kinda harder to grip my axe.
+# Rodion: I think I cracked a bone in my right hand~ Can I get an ampule? It's kinda harder to grip my axe.
 Родион: Кажется, я сломала кость в правой руке~ Можно мне ампулу? Мне как-то труднее держать топор.
 
-# Original: Rodya stood in front of a K Corp. drone and extended her right arm.
+# Narrator: Rodya stood in front of a K Corp. drone and extended her right arm.
 Рассказчик: Родя встала перед дроном Корпорации К и протянула правую руку.
 
-# Original: Welcome. K Corp. drones are always there for your health. Administering regeneration ampule...
+# Ampule Helper: Welcome. K Corp. drones are always there for your health. Administering regeneration ampule...
 Помощник по ампулам: Добро пожаловать. Дроны Корпорации К всегда заботятся о вашем здоровье. Вводим регенерационную ампулу...
 
-# Original: ...Cannot administer.
+# Ampule Helper: ...Cannot administer.
 Помощник по ампулам: ...Невозможно ввести.
 
-# Original: Friendly entities of type 3j-54 are eligible for serum injection, but regeneration ampules may only be administered to patients hemorrhaging 1Lr or more of blood. Also, since you have not taken a cross-compatibility test for the ampules, we do not take any responsibility for possible side effects. Thank you.
+# Ampule Helper: Friendly entities of type 3j-54 are eligible for serum injection, but regeneration ampules may only be administered to patients hemorrhaging 1Lr or more of blood. Also, since you have not taken a cross-compatibility test for the ampules, we do not take any responsibility for possible side effects. Thank you.
 Помощник по ампулам: Дружественные существа типа 3j-54 имеют право на инъекцию сыворотки, но регенерационные ампулы могут вводиться только пациентам с кровопотерей 1 литра или более. Кроме того, поскольку вы не прошли тест на перекрестную совместимость с ампулами, мы не несем ответственности за возможные побочные эффекты. Спасибо.
 
-# Original: Wha~? What are you talking about, you want me to cut off an arm or a leg or something?
+# Rodion: Wha~? What are you talking about, you want me to cut off an arm or a leg or something?
 Родион: Что~? О чем ты говоришь, ты хочешь, чтобы я отрезала руку или ногу или что-то в этом роде?
 
-# Original: They're...
+# Sinclair: They're...
 Синклер: Они...
 
-# Original: They're already doing that. Look at the K Corp. staff...
+# Sinclair: They're already doing that. Look at the K Corp. staff...
 Синклер: Они уже делают это. Посмотрите на сотрудников Корпорации К...
 
-# Original: They're cutting up their own limbs... to get the ampule...
+# Sinclair: They're cutting up their own limbs... to get the ampule...
 Синклер: Они режут свои собственные конечности... чтобы получить ампулу...
 
-# Original: It's a necessary requirement. It would be a tremendous financial waste to use regeneration ampules for every little scratch.
+# Samjo: It's a necessary requirement. It would be a tremendous financial waste to use regeneration ampules for every little scratch.
 Самджо: Это необходимое требование. Было бы огромной финансовой тратой использовать регенерационные ампулы для каждой маленькой царапины.
 
-# Original: I hate to make comparisons, but its value is far above the caliber of small firms like yours.
+# Samjo: I hate to make comparisons, but its value is far above the caliber of small firms like yours.
 Самджо: Не хочу проводить сравнения, но их ценность намного выше цены небольших фирм, таких как ваша.
 
-# Original: ……
+# Sinclair: ……
 Синклер: ……
 
-# Original: <Yeesh...>
+# Dante: <Yeesh...>
 Данте: <Ух...>
 
-# Original: <It looks a bit dangerous here. Those machines are too rough... They might get me killed if I'm not careful.>
+# Dante: <It looks a bit dangerous here. Those machines are too rough... They might get me killed if I'm not careful.>
 Данте: <Здесь немного опасно. Эти машины слишком грубые... Они могут убить меня, если я не буду осторожен.>
 
-# Original: <I might wanna stay away from the fray a bit just to be safe...>
+# Dante: <I might wanna stay away from the fray a bit just to be safe...>
 Данте: <Возможно, мне стоит держаться подальше от схватки, чтобы быть в безопасности...>
 
-# Original: Just then, something grazed past my head... I mean, my head with a threatening shrill.
+# Narrator: Just then, something grazed past my head... I mean, my head with a threatening shrill.
 Рассказчик: В этот момент что-то пронеслось возле моей головы... То есть, мимо моей головы с угрожающим свистом.
 
-# Original: <Ah...>
+# Dante: <Ah...>
 Данте: <Ах...>
 
-# Original: Grrr…
+# Ishmael: Grrr…
 Измаил: Гррр…
 
-# Original: Right as another projectile flew at me, Ishmael swiftly stretched her arm to take the hit.
+# Narrator: Right as another projectile flew at me, Ishmael swiftly stretched her arm to take the hit.
 Рассказчик: Как только другой снаряд полетел в меня, Измаил быстро протянула руку, чтобы принять удар.
 
-# Original: Turning to the direction the projectiles came from, I didn't find enemy robots.
+# Narrator: Turning to the direction the projectiles came from, I didn't find enemy robots.
 Рассказчик: Повернувшись в направлении, откуда прилетели снаряды, я не обнаружил вражеских роботов.
 
-# Original: Instead, there was a K Corp. drone glaring with red.
+# Narrator: Instead, there was a K Corp. drone glaring with red.
 Рассказчик: Вместо этого там был дрон Корпорации К, светящийся красным.
 
-# Original: Executive Manager! Are you alright?
+# Outis: Executive Manager! Are you alright?
 Отис: Исполнительный менеджер! Вы в порядке?
 
-# Original: I'm the one who got hit, Outis...
+# Ishmael: I'm the one who got hit, Outis...
 Измаил: Это я получила удар, Отис...
 
-# Original: I should have taken the projectile for you. Curses!
+# Outis: I should have taken the projectile for you. Curses!
 Отис: Я должна была принять снаряд вместо вас. Проклятье!
 
-# Original: Excuse me...
+# Ishmael: Excuse me...
 Измаил: Извините...
 
-# Original: Hah, see what your robots that cost a bomb to make are doing. It fired at an ally!
+# Outis: Hah, see what your robots that cost a bomb to make are doing. It fired at an ally!
 Отис: Ха, посмотрите, что делают ваши роботы, которые стоят бешеных денег. Он выстрелил по союзнику!
 
-# Original: I must object. That was not friendly fire.
+# Samjo: I must object. That was not friendly fire.
 Самджо: Я должен возразить. Это не был дружественный огонь.
 
-# Original: Samjo yelled from behind, raising his hand high.
+# Narrator: Samjo yelled from behind, raising his hand high.
 Рассказчик: Самджо крикнул сзади, подняв руку высоко.
 
-# Original: However... It does appear that exceptions couldn't be fully configured. I apologize for that particular shortcoming.
+# Samjo: However... It does appear that exceptions couldn't be fully configured. I apologize for that particular shortcoming.
 Самджо: Однако... Похоже, что исключения не удалось полностью настроить. Я приношу извинения за этот конкретный недостаток.
 
-# Original: What rubbish are you...
+# Outis: What rubbish are you...
 Отис: Что за чушь ты...
 
-# Original: As you are aware, you could come into this place purely thanks to Mr. Dongrang's whim.
+# Samjo: As you are aware, you could come into this place purely thanks to Mr. Dongrang's whim.
 Самджо: Как вы знаете, вы смогли попасть в это место исключительно благодаря прихоти господина Донрана.
 
-# Original: Having visitors in this place is an extremely rare occurrence, and as such, a factor that wasn't put into consideration.
+# Samjo: Having visitors in this place is an extremely rare occurrence, and as such, a factor that wasn't put into consideration.
 Самджо: Наличие посетителей в этом месте — крайне редкое явление, и, как таковое, фактор, который не был принят во внимание.
 
-# Original: What, ngh... are you talking about?
+# Ishmael: What, ngh... are you talking about?
 Измаил: О чем... нгх... ты говоришь?
 
-# Original: That K Corp's regenerator drones do more than just heal people.
+# Samjo: That K Corp's regenerator drones do more than just heal people.
 Самджо: О том, что регенерационные дроны Корпорации К делают больше, чем просто лечат людей.
 
-# Original: Why... does it look like my body is melting? Can anyone make it... make sense...
+# Ishmael: Why... does it look like my body is melting? Can anyone make it... make sense...
 Измаил: Почему... кажется, что мое тело плавится? Кто-нибудь может объяснить... что происходит...
 
-# Original: <Ishmael!>
+# Dante: <Ishmael!>
 Данте: <Измаил!>
 
-# Original: Normally, K Corp's drones administer regeneration ampules to injured personnel...
+# Samjo: Normally, K Corp's drones administer regeneration ampules to injured personnel...
 Самджо: Обычно дроны Корпорации К вводят регенерационные ампулы раненому персоналу...
 
-# Original: However, it injects a decay ampule to deserters.
+# Samjo: However, it injects a decay ampule to deserters.
 Самджо: Однако дезертирам они вводят ампулу распада.
 
-# Original: <...It shot the decay ampule at me because I was trying to escape the combat zone?>
+# Dante: <...It shot the decay ampule at me because I was trying to escape the combat zone?>
 Данте: <...Он выстрелил в меня ампулой распада, потому что я пытался покинуть зону боя?>
 
-# Original: Ain't that just revolting... Think you can pull off summary executions when there isn't even a war going on?
+# Gregor: Ain't that just revolting... Think you can pull off summary executions when there isn't even a war going on?
 Грегор: Разве это не отвратительно... Думаете, можно устраивать показательные казни, когда даже не идёт войны?
 
-# Original: Yeah, why not just make the drones fight instead?
+# Gregor: Yeah, why not just make the drones fight instead?
 Грегор: Да, почему бы просто не заставить дронов сражаться вместо этого?
 
-# Original: The Nest you're from must have valued human life, am I right?
+# Samjo: The Nest you're from must have valued human life, am I right?
 Самджо: Гнездо, из которого вы пришли, должно быть ценило человеческую жизнь, я прав?
 
-# Original: The value of each drone we have far surpasses that of ten class 2 staff members combined. Do you understand?
+# Samjo: The value of each drone we have far surpasses that of ten class 2 staff members combined. Do you understand?
 Самджо: Ценность каждого нашего дрона намного превышает ценность десяти сотрудников 2-го класса вместе взятых. Вы понимаете?
 
-# Original: ..."You should understand," "you accept it"...
+# Gregor: ..."You should understand," "you accept it"...
 Грегор: ..."Вы должны понимать", "вы должны принять это"...
 
-# Original: I've had crappy coercion shoved in my face too many times, I don't feel like complying anymore.
+# Gregor: I've had crappy coercion shoved in my face too many times, I don't feel like complying anymore.
 Грегор: Мне слишком часто пихали в лицо паршивое принуждение, больше не хочется подчиняться.
 
-# Original: I do understand where it's coming from. There was research that revealed deploying K Corp's drones in simulated battles increased the odds of victory by 23.5 percent.
+# Faust: I do understand where it's coming from. There was research that revealed deploying K Corp's drones in simulated battles increased the odds of victory by 23.5 percent.
 Фауст: Я понимаю, откуда это идет. Было исследование, которое показало, что развертывание дронов Корпорации К в симулированных сражениях увеличивало шансы на победу на 23,5 процента.
 
-# Original: It was a pretty famous paper among scholars.
+# Faust: It was a pretty famous paper among scholars.
 Фауст: Это была довольно известная статья среди ученых.
 
-# Original: Since the old times, deserters who try to flee from battle have been pointed out as greater detractors of morale than the threat of overwhelming oppression or weakness of the leader.
+# Outis: Since the old times, deserters who try to flee from battle have been pointed out as greater detractors of morale than the threat of overwhelming oppression or weakness of the leader.
 Отис: С давних времен дезертиры, пытающиеся бежать с поля боя, считались большими разрушителями морального духа, чем угроза подавляющего угнетения или слабость лидера.
 
-# Original: Public punishments of deserters are a historically proven tactic supported by many examples.
+# Outis: Public punishments of deserters are a historically proven tactic supported by many examples.
 Отис: Публичные наказания дезертиров — это исторически доказанная тактика, подтвержденная многими примерами.
 
-# Original: Tch. Understand it all you like, then.
+# Gregor: Tch. Understand it all you like, then.
 Грегор: Тьфу. Тогда понимайте как хотите.
 
-# Original: <Wait, what are you all talking about?>
+# Dante: <Wait, what are you all talking about?>
 Данте: <Погодите, о чем вы все говорите?>
 
-# Original: <Look at Ishmael, she's... melting down...!>
+# Dante: <Look at Ishmael, she's... melting down...!>
 Данте: <Посмотрите на Измаил, она... плавится...!>
 
-# Original: Ah, apologies for my negligence, Executive Manager.
+# Outis: Ah, apologies for my negligence, Executive Manager.
 Отис: Ах, прошу прощения за мою небрежность, Исполнительный менеджер.
 
-# Original: I failed to consider the suffering you must endure when you turn the clock.
+# Outis: I failed to consider the suffering you must endure when you turn the clock.
 Отис: Я не учла страдания, которые вы должны вынести, когда поворачиваете часы.
 
-# Original: <Wha, that's not what I'm...>
+# Dante: <Wha, that's not what I'm...>
 Данте: <Что, я не об этом...>
 
-# Original: You might want to hurry if that's your concern. Her heart should still be intact in her current state.
+# Faust: You might want to hurry if that's your concern. Her heart should still be intact in her current state.
 Фауст: Вам, возможно, стоит поторопиться, если это вас беспокоит. Ее сердце все еще должно быть целым в ее нынешнем состоянии.
 
-# Original: Manager... What'll... happen to me...
+# Ishmael: Manager... What'll... happen to me...
 Измаил: Менеджер... Что... со мной... будет...
 
-# Original: ……
+# Narrator: ……
 Рассказчик: ……
 
-# Original: The clock's hands turn with agony.
+# Narrator: The clock's hands turn with agony.
 Рассказчик: Стрелки часов поворачиваются с агонией.
 
-# Original: Meanwhile, Yi Sang was staring at empty ampules rolling on the floor.
+# Narrator: Meanwhile, Yi Sang was staring at empty ampules rolling on the floor.
 Рассказчик: Тем временем И Сан смотрел на пустые ампулы, катающиеся по полу.
 
-# Original: ……
+# Yi Sang: ……
 И Сан: ……

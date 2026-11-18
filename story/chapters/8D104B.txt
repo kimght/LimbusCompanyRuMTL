@@ -1,83 +1,83 @@
-﻿# Original: This place... looks like a laboratory.
+﻿# Gregor: This place... looks like a laboratory.
 Грегор: Это место… похоже на лабораторию.
 
-# Original: There's nothing left. Not even a faint blood fragrance.
+# Ryōshū: There's nothing left. Not even a faint blood fragrance.
 Рёшу: Ничего. Даже слабого кровавого аромата.
 
-# Original: Though I sense a scurrying rat.
+# Ryōshū: Though I sense a scurrying rat.
 Рёшу: Хотя чую, что тут шныряет крыса.
 
-# Original: A rat...?
+# ???: A rat...?
 ???: Крыса?..
 
-# Original: Know who you're talking to before you insult them. Who are you?
+# ???: Know who you're talking to before you insult them. Who are you?
 ???: Следи за языком, когда говоришь с другими. Кто вы такие?
 
-# Original: W-we're a different candidate's clan.
+# Sinclair: W-we're a different candidate's clan.
 Синклер: М-мы из клана другого кандидата.
 
-# Original: Hi, I'm Baoyu of the Jia family.
+# Hong Lu: Hi, I'm Baoyu of the Jia family.
 Хон Лу: Здравствуйте, я Баоюй из семьи Цзя.
 
-# Original: Hong Lu extended a placid greeting.
+# Narrator: Hong Lu extended a placid greeting.
 Рассказчик: Хон Лу безмятежно поздоровался.
 
-# Original: I thought you had twelve companions, Jia Baoyu... so what's this Wang guy doing here? You've already made an alliance? A <i>thing</i> like you?
+# ???: I thought you had twelve companions, Jia Baoyu... so what's this Wang guy doing here? You've already made an alliance? A <i>thing</i> like you?
 ???: А я думал, у тебя двенадцать спутников, Цзя Баоюй… так что здесь делает этот Ван? Уже успел заключить союз? Такая <i>шушера</i>, как ты?
 
-# Original: Aha, but we're not allies.
+# Hong Lu: Aha, but we're not allies.
 Хон Лу: Аха, но мы не союзники.
 
-# Original: Doesn't seem like he's buying it. Doubt he ever will.
+# Wang Zhao: Doesn't seem like he's buying it. Doubt he ever will.
 Ван Чжао: Похоже, он не верит. И вряд ли поверит.
 
-# Original: So who is he, Hong Lu?
+# Sinclair: So who is he, Hong Lu?
 Синклер: Так кто он, Хон Лу?
 
-# Original: He's uh... He's... I'm pretty sure he's from the Shi family... So he must be Shi...
+# Hong Lu: He's uh... He's... I'm pretty sure he's from the Shi family... So he must be Shi...
 Хон Лу: Он… э-э… Он… Я почти уверен, что он из семьи Ши… Значит, он, должно быть, Ши…
 
-# Original: Shi...
+# Hong Lu: Shi...
 Хон Лу: Ши…
 
-# Original: There was an awkward silence.
+# Narrator: There was an awkward silence.
 Рассказчик: Повисла неловкая тишина.
 
-# Original: Ahem... Hua... c'mon, man. Hua...
+# ???: Ahem... Hua... c'mon, man. Hua...
 ???: Кхм… Хуа… давай же, парень. Хуа…
 
-# Original: Ah, thanks for the help~ So he's Shi... Hua... something...
+# Hong Lu: Ah, thanks for the help~ So he's Shi... Hua... something...
 Хон Лу: А, спасибо за подсказку~ Значит, он Ши… Хуа… как-то там…
 
-# Original: Good, you're getting there. You're getting warmer. Now, let's—
+# ???: Good, you're getting there. You're getting warmer. Now, let's—
 ???: Хорошо, уже ближе. Уже теплее. А теперь давай…
 
-# Original: What the hell are you guys doing?
+# Ishmael: What the hell are you guys doing?
 Измаил: Какого чёрта вы тут устроили?
 
-# Original: …….
+# ???: …….
 ???: …….
 
-# Original: Forget it, who gives a shit anyway.
+# ???: Forget it, who gives a shit anyway.
 ???: А, плевать, какая к чёрту разница.
 
-# Original: If every candidate indeed has the same number of coins... I should prioritize finding weaker candidates like you to steal from.
+# ???: If every candidate indeed has the same number of coins... I should prioritize finding weaker candidates like you to steal from.
 ???: Если у каждого кандидата действительно одинаковое количество монет… мне следует в первую очередь найти таких слабаков, как вы, и обобрать их.
 
-# Original: It's beyond me where you even got the guts to throw your hat in the ring for the Family Hierarch war outta nowhere.
+# ???: It's beyond me where you even got the guts to throw your hat in the ring for the Family Hierarch war outta nowhere.
 ???: Ума не приложу, откуда у тебя вообще хватило смелости ни с того ни с сего ввязаться в войну за пост Главы Семьи.
 
-# Original: Last I heard, you were roaming the City like some unemployed lout after spending years holed up in Daguanyuan. So what brings you here, huh? Had enough of the City tour?
+# ???: Last I heard, you were roaming the City like some unemployed lout after spending years holed up in Daguanyuan. So what brings you here, huh? Had enough of the City tour?
 ???: Последнее, что я слышал, — ты слонялся по Городу, как какой-то безработный шалопай, после многих лет, проведённых взаперти в Дагуаньюане. Так что тебя сюда привело, а? Насладился экскурсией по Городу?
 
-# Original: Luckily, I never had a moment of boredom. I found so many marvelous and interesting things out there.
+# Hong Lu: Luckily, I never had a moment of boredom. I found so many marvelous and interesting things out there.
 Хон Лу: К счастью, мне ни разу не было скучно. Я повидал множество чудесных и интересных вещей.
 
-# Original: Like, did you know that there are people out there who sleep in roofless rooms?
+# Hong Lu: Like, did you know that there are people out there who sleep in roofless rooms?
 Хон Лу: Например, ты знал, что есть люди, которые спят в комнатах без крыш?
 
-# Original: Asshole, think you're funny...?! I swear, I'm gonna eliminate you here...!
+# ???: Asshole, think you're funny...?! I swear, I'm gonna eliminate you here...!
 ???: Придурок, думаешь, это смешно?! Клянусь, я прикончу тебя прямо здесь!..
 
-# Original: You sure know how to make friends, young master Baoyu.
+# Wang Zhao: You sure know how to make friends, young master Baoyu.
 Ван Чжао: Умеете вы заводить друзей, молодой господин Баоюй.

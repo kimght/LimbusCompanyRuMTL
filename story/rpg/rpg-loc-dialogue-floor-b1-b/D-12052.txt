@@ -1,71 +1,71 @@
-﻿# Original: .......
+﻿# Sous Chef: .......
 Су-шеф: .......
 
-# Original: Something happen? Why the long face?
+# Gregor: Something happen? Why the long face?
 Грегор: Что-то случилось? Чего такая кислая?
 
-# Original: A full-blown disaster... you hear?
+# Sous Chef: A full-blown disaster... you hear?
 Су-шеф: Самая настоящая катастрофа... слышь?
 
-# Original: The one and only surviving larva in storage—it's escaped, you hear...?
+# Sous Chef: The one and only surviving larva in storage—it's escaped, you hear...?
 Су-шеф: Единственная уцелевшая личинка на складе — она сбежала, слышь...?
 
-# Original:  <This... isn't how things went last time...>
+# Dante:  <This... isn't how things went last time...>
 Данте: <Это... в прошлый раз всё было не так...>
 
-# Original: <... Those things can run away?>
+# Dante: <... Those things can run away?>
 Данте: <...Они что, умеют убегать?>
 
-# Original: The only obvious difference from before... was that we had reached B1 much sooner.
+# Narrator: The only obvious difference from before... was that we had reached B1 much sooner.
 Рассказчик: Единственное явное отличие от прошлого раза... в том, что до B1 мы добрались гораздо раньше.
 
-# Original: Well, not the <i>only</i> difference, strictly speaking, I guess...
+# Narrator: Well, not the <i>only</i> difference, strictly speaking, I guess...
 Рассказчик: Хотя, если уж совсем честно, пожалуй, не <i>единственное</i>...
 
-# Original: <What now...?>
+# Dante: <What now...?>
 Данте: <И что теперь...?>
 
-# Original: ... Maybe you should've kept a closer eye on your inventory. Don't you work here?
+# Gregor: ... Maybe you should've kept a closer eye on your inventory. Don't you work here?
 Грегор: ...Может, стоило получше следить за запасами? Ты ведь тут работаешь, нет?
 
-# Original: I... I did keep a proper track, you hear...? Something is just strange, you hear?
+# Sous Chef: I... I did keep a proper track, you hear...? Something is just strange, you hear?
 Су-шеф: Я... я всё как следует учитывала, слышь...? Просто что-то тут не так, слышь?
 
-# Original: Strange enough to spook the fizz off the soda, you hear...? There aren't any ways out of the storage unless you can pass through the walls, you hear?
+# Sous Chef: Strange enough to spook the fizz off the soda, you hear...? There aren't any ways out of the storage unless you can pass through the walls, you hear?
 Су-шеф: Так странно, что аж газировка со страху выдыхается, слышь...? Со склада никак не выбраться, если только не проходить сквозь стены, слышь?
 
-# Original: But... it did get out... Does that mean it can pass through walls...?
+# Pwie: But... it did get out... Does that mean it can pass through walls...?
 Буфи: Но... она ведь выбралась... Значит, она умеет... проходить сквозь стены...?
 
-# Original: I have no idea, you hear...?
+# Sous Chef: I have no idea, you hear...?
 Су-шеф: Понятия не имею, слышь...?
 
-# Original: *whimper* If Boucher ever finds out... I'm going to get demoted to Sous Chef from Sous Chef, you hear? Then I'll be scraping by on watery soda skimmed from the top layer again, you hear...?
+# Sous Chef: *whimper* If Boucher ever finds out... I'm going to get demoted to Sous Chef from Sous Chef, you hear? Then I'll be scraping by on watery soda skimmed from the top layer again, you hear...?
 Су-шеф: *хнык* Если Буше узнает... меня понизят с су-шефа до су-шефа, слышь? И опять придётся перебиваться жиденькой газировкой, которую снимают с самого верха, слышь...?
 
-# Original: Where can we find the larva?
+# Faust: Where can we find the larva?
 Фауст: Где нам найти личинку?
 
-# Original: There's only one place an escaped larva would run to, you hear?
+# Sous Chef: There's only one place an escaped larva would run to, you hear?
 Су-шеф: Сбежавшая личинка может убежать только в одно место, слышь?
 
-# Original: The Shore.
+# Sous Chef: The Shore.
 Су-шеф: На Берег.
 
-# Original: But you must hurry, you hear? That larva's gone there to die while listening to the waves, you hear?
+# Sous Chef: But you must hurry, you hear? That larva's gone there to die while listening to the waves, you hear?
 Су-шеф: Но вам надо спешить, слышь? Эта личинка ушла туда умирать под шум волн, слышь?
 
-# Original: Are you saying there's a <i>beach</i> down here?
+# Gregor: Are you saying there's a <i>beach</i> down here?
 Грегор: Хочешь сказать, тут внизу есть <i>пляж</i>?
 
-# Original: Oh, then that must be where the sand leaking from the opening on the right came from....
+# Dante: <Oh, then that must be where the sand leaking from the opening on the right came from...>
 Данте: <А, так вот откуда песок, который сыплется из прохода справа...>
 
-# Original: Pass through the fish market to find the Shore, you hear?
+# Sous Chef: Pass through the fish market to find the Shore, you hear?
 Су-шеф: Пройдите через Рыбный рынок, и выйдете к Берегу, слышь?
 
-# Original: You go now bring the larva back, you hear? Dead larva is useless, you hear? It has to stay alive, you hear?
+# Sous Chef: You go now bring the larva back, you hear? Dead larva is useless, you hear? It has to stay alive, you hear?
 Су-шеф: Идите и верните личинку, слышь? Мёртвая личинка ни на что не годится, слышь? Она должна остаться живой, слышь?
 
-# Original: Bring the larva back alive, and Boucher will cook it to perfection, you hear? Sizzle sizzle, simmer simmer...
+# Sous Chef: Bring the larva back alive, and Boucher will cook it to perfection, you hear? Sizzle sizzle, simmer simmer...
 Су-шеф: Принесите личинку живой, и Буше приготовит её идеально, слышь? Шкварк-шкварк, буль-буль...

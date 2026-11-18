@@ -1,344 +1,344 @@
-# Original: I think it's this way.
+# Sinclair: I think it's this way.
 Sinclair: Думаю, нам сюда.
 
-# Original: Hmm. This is the only area with lights on... It says "Broadcast Sector."
+# Ishmael: Hmm. This is the only area with lights on... It says "Broadcast Sector."
 Ishmael: Хм. Это единственная зона, где горит свет... Здесь написано: «Сектор Вещания».
 
-# Original: Can someone tell me... coming here was the right decision?
+# Rodion: Can someone tell me... coming here was the right decision?
 Rodion: Кто-нибудь может мне сказать... прийти сюда было правильным решением?
 
-# Original: All the other routes were blocked off save for the one leading to this sector.
+# Meursault: All the other routes were blocked off save for the one leading to this sector.
 Mersault: Все остальные пути были перекрыты, за исключением того, что вёл в этот сектор.
 
-# Original: Looks like we'd have ended up here... one way or the other.
+# Gregor: Looks like we'd have ended up here... one way or the other.
 Gregor: Похоже, мы бы всё равно здесь оказались... так или иначе.
 
-# Original: <It's hard to see anything when it's this dark...>
+# Dante: <It's hard to see anything when it's this dark...>
 Dante: <В такой темноте почти ничего не видно...>
 
-# Original: With most of the power down, the door shouldn't be locked.
+# Ishmael: With most of the power down, the door shouldn't be locked.
 Ishmael: Раз большая часть питания отключена, дверь не должна быть заперта.
 
-# Original: Stop.
+# Loudspeaker: Stop.
 Ezra: Стоять.
 
-# Original: Take another step closer... and you'll be forcing our hand!
+# Loudspeaker: Take another step closer... and you'll be forcing our hand!
 Ezra: Сделаете ещё шаг... и вы вынудите нас действовать!
 
-# Original: A familiar voice boomed from a loudspeaker, delivering a sharp warning.
+# Narrator: A familiar voice boomed from a loudspeaker, delivering a sharp warning.
 Narrator: Знакомый голос прогремел из громкоговорителя, выкрикивая резкое предупреждение.
 
-# Original: This entire area is laden with security landmines. Even if you somehow manage to get past the minefield, you'll have to face the rest of us. I'm warning you—every one of us in here's combat-ready!
+# Loudspeaker: This entire area is laden with security landmines. Even if you somehow manage to get past the minefield, you'll have to face the rest of us. I'm warning you—every one of us in here's combat-ready!
 Ezra: Вся эта зона усеяна охранными минами. Даже если вам как-то удастся миновать минное поле, вам придётся столкнуться с остальными. Предупреждаю — здесь каждый из нас готов к бою!
 
-# Original: And if you think you're stronger than us, we have self-destruct devices. Bombs filled with... super-mini sawteeth... shrapnel...
+# Loudspeaker: And if you think you're stronger than us, we have self-destruct devices. Bombs filled with... super-mini sawteeth... shrapnel...
 Ezra: И если вы думаете, что вы сильнее нас, то у нас есть устройства для самоликвидации. Бомбы, начинённые... шрапнелью... из супер-мини-пил...
 
-# Original: Hold on a sec—what's this supposed to say? "Th... bo..."? The heck? And I thought my handwriting was bad!
+# Loudspeaker: Hold on a sec—what's this supposed to say? "Th... bo..."? The heck? And I thought my handwriting was bad!
 Ezra: Погодите секунду — что тут вообще написано? «Б... бо...»? Какого чёрта? А я ещё думала, что у меня почерк плохой!
 
-# Original: Oh. Here... "Throwing this bomb will result in an explosion that covers a 100-meter radius zone from the detonation point..."
+# Loudspeaker: Oh. Here... "Throwing this bomb will result in an explosion that covers a 100-meter radius zone from the detonation point..."
 Marton: Ох. Вот... «Бросок этой бомбы приведёт к взрыву, который накроет зону радиусом 100 метров от точки детонации...»
 
-# Original: Hey! That's a Taboo violation, you know? At least try to come up with something actually convincing!
+# Loudspeaker: Hey! That's a Taboo violation, you know? At least try to come up with something actually convincing!
 Ezra: Эй! Это же нарушение Табу, ты в курсе? Хотя бы попытайся придумать что-нибудь более убедительное!
 
-# Original: A-anyways! Turn around and walk away right now or we're gonna bury all of you with us under this facility!
+# Loudspeaker: A-anyways! Turn around and walk away right now or we're gonna bury all of you with us under this facility!
 Ezra: В-в любом случае! Разворачивайтесь и уходите прямо сейчас, иначе мы похороним вас вместе с собой под этим комплексом!
 
-# Original: We can hear everything, you know...
+# Sinclair: We can hear everything, you know...
 Sinclair: Вообще-то, нам всё слышно...
 
-# Original: It is highly probable that the bomb is a bluff. Any bomb that falls under the category of explosives... must be "planted" on an object or surface per the rules set by the Head.
+# Faust: It is highly probable that the bomb is a bluff. Any bomb that falls under the category of explosives... must be "planted" on an object or surface per the rules set by the Head.
 Faust: Высока вероятность того, что бомба — это блеф. Любая бомба, попадающая под категорию взрывчатых веществ... должна быть «заложена» на объекте или поверхности согласно правилам, установленным Главой.
 
-# Original: Mm. And that boast of the blast beggars belief. Such a wide radius... is sure to break a bounty of bans and bounds.
+# Yi Sang: Mm. And that boast of the blast beggars belief. Such a wide radius... is sure to break a bounty of bans and bounds.
 Yi Sang: М-м. И похвальба этим подрывом поражает воображение. Столь широкий радиус... несомненно нарушит бездну запретов и ограничений.
 
-# Original: .... Sure, but I wasn't bluffing about the landmines. Take one more step forward... and bolts of overcharged electricity will make barbecue out of you.
+# Loudspeaker: .... Sure, but I wasn't bluffing about the landmines. Take one more step forward... and bolts of overcharged electricity will make barbecue out of you.
 Ezra: .... Конечно, но про мины я не блефовала. Сделайте ещё шаг вперёд... и разряды перегруженного электричества сделают из вас барбекю.
 
-# Original: As the voice behind the microphone began to grow increasingly irritated, it also became even more familiar. I was pretty sure I'd heard it somewhere before...
+# Narrator: As the voice behind the microphone began to grow increasingly irritated, it also became even more familiar. I was pretty sure I'd heard it somewhere before...
 Narrator: Голос за микрофоном начинал звучать всё более раздражённо, и вместе с тем он казался всё более знакомым. Я был почти уверен, что слышал его где-то раньше...
 
-# Original: According to Alyssa, Hohenheim should be around here somewhere.
+# Gregor: According to Alyssa, Hohenheim should be around here somewhere.
 Gregor: По словам Алисы, Хохенхайм должен быть где-то здесь.
 
-# Original: Wait. Did you just say "Alyssa?"
+# Loudspeaker: Wait. Did you just say "Alyssa?"
 Hohenheim: Подождите. Вы только что сказали «Алиса»?
 
-# Original: That voice... It seems we are not mistaken.
+# Faust: That voice... It seems we are not mistaken.
 Faust: Этот голос... Похоже, Фауст не ошиблась.
 
-# Original: Now, I certainly recognized <i>this</i> voice.
+# Narrator: Now, I certainly recognized <i>this</i> voice.
 Narrator: Теперь-то я определённо узнал <i>этот</i> голос.
 
-# Original: That voice I would rather not welcome tells me...
+# A Rather Unwelcoming Voice: That voice I would rather not welcome tells me...
 Hohenheim: Голос, который я бы предпочёл не слышать, говорит мне...
 
-# Original: That these individuals are good to be let through.
+# A Rather Unwelcoming Voice: That these individuals are good to be let through.
 Hohenheim: Что этих личностей можно пропустить.
 
-# Original: That voice Faust would rather not welcome tells Faust that these individuals are good to be approached.
+# Faust: That voice Faust would rather not welcome tells Faust that these individuals are good to be approached.
 Faust: Голос, который Фауст предпочла бы не слышать, говорит Фауст, что к этим личностям можно подойти.
 
-# Original: A heavy thunk, and then...
+# Narrator: A heavy thunk, and then...
 Narrator: Раздался тяжёлый стук, а затем...
 
-# Original: The doors of the Broadcast Sector inched open, but before we could even take a proper look at the people holed up within...
+# Narrator: The doors of the Broadcast Sector inched open, but before we could even take a proper look at the people holed up within...
 Narrator: Двери Сектора Вещания медленно приоткрылись, но прежде чем мы успели толком разглядеть укрывшихся внутри людей...
 
-# Original: Wha...?! You guys! You should've told us sooner!
+# ???: Wha...?! You guys! You should've told us sooner!
 Ezra: Чего?! Это же вы! Могли бы и раньше сказать!
 
-# Original: Remember me?
+# Ezra: Remember me?
 Ezra: Помните меня?
 
-# Original: Oh! It's Miss Ezra!
+# Sinclair: Oh! It's Miss Ezra!
 Sinclair: О! Это же мисс Эзра!
 
-# Original: We came face-to-face with Ezra, who'd video-called us with a plethora of information on Bloodfiends prior to our mission in La Manchaland.
+# Narrator: We came face-to-face with Ezra, who'd video-called us with a plethora of information on Bloodfiends prior to our mission in La Manchaland.
 Narrator: Мы столкнулись лицом к лицу с Эзрой, которая связывалась с нами по видеосвязи и снабдила нас кучей информации о Кровожадах перед нашей миссией в Ла-Манчалэнде.
 
-# Original: Heard you saved the day in La Manchaland!
+# Ezra: Heard you saved the day in La Manchaland!
 Ezra: Слыхала, вы спасли положение в Ла-Манчалэнде!
 
-# Original: And all thanks to yours truly, I bet. So, care to tell me which one's the Bloodfiend Extraordinaire on your team?
+# Ezra: And all thanks to yours truly, I bet. So, care to tell me which one's the Bloodfiend Extraordinaire on your team?
 Ezra: И всё благодаря мне, любимой, я уверена. Ну так как, скажете мне, кто в вашей команде тот самый «Выдающийся Кровожад»?
 
-# Original: Huh? What? Oh... Well, that's...
+# Sinclair: Huh? What? Oh... Well, that's...
 Sinclair: А? Что? О... Ну, это...
 
-# Original: Why don't we skip the pleasantries for now, Ezra.
+# Moses: Why don't we skip the pleasantries for now, Ezra.
 Moses: Давай пока обойдёмся без любезностей, Эзра.
 
-# Original: The next person to show up was Moses.
+# Narrator: The next person to show up was Moses.
 Narrator: Следующей появилась Мозес.
 
-# Original: I saw her in the video call, too... Team Leader at LCD, if memory serves right.
+# Narrator: I saw her in the video call, too... Team Leader at LCD, if memory serves right.
 Narrator: Я тоже видел её во время видеозвонка... Лидер команды LCD, если мне не изменяет память.
 
-# Original: ... Were you the one who threatened us with that nonsense about bombs, Ezra?
+# Ishmael: ... Were you the one who threatened us with that nonsense about bombs, Ezra?
 Ishmael: ...Это ты угрожала нам этим бредом про бомбы, Эзра?
 
-# Original: I mean, what other choice did I have? We were starting to believe that we were the only survivors out here, and then... bam! A dozen or so footsteps rushing into this sector outta nowhere... We couldn't even check who you guys were because the screens are all busted.
+# Ezra: I mean, what other choice did I have? We were starting to believe that we were the only survivors out here, and then... bam! A dozen or so footsteps rushing into this sector outta nowhere... We couldn't even check who you guys were because the screens are all busted.
 Ezra: В смысле, какой у меня был выбор? Мы уже начали верить, что остались здесь единственными выжившими, а потом... бам! С десяток шагов, несущихся в этот сектор из ниоткуда... Мы даже не могли проверить, кто вы такие, потому что все экраны разбиты.
 
-# Original: Ezra gestured toward the blank surveillance screens in the Broadcast Sector with her chin.
+# Narrator: Ezra gestured toward the blank surveillance screens in the Broadcast Sector with her chin.
 Narrator: Эзра кивнула подбородком в сторону погасших мониторов наблюдения в Секторе Вещания.
 
-# Original: For your information, Mister Genius over there is trying to fix the security cameras. He said it's gonna take a while with the power outage, though...
+# Ezra: For your information, Mister Genius over there is trying to fix the security cameras. He said it's gonna take a while with the power outage, though...
 Ezra: К вашему сведению, вон тот мистер Гений пытается починить камеры безопасности. Хотя он сказал, что из-за отключения электричества это займёт какое-то время...
 
-# Original: I didn't expect our paths to cross again for anything good, but I certainly never pictured it happening like this.
+# Hohenheim: I didn't expect our paths to cross again for anything good, but I certainly never pictured it happening like this.
 Hohenheim: Я не ожидал, что наши пути снова пересекутся по какому-то хорошему поводу, но уж точно не представлял, что это произойдёт вот так.
 
-# Original: Underneath the array of monitors Ezra pointed at, we found Hohenheim—looking even more haggard than we remembered—who gave us a faint, unwelcoming nod as he fiddled with a tangle of power circuits.
+# Narrator: Underneath the array of monitors Ezra pointed at, we found Hohenheim—looking even more haggard than we remembered—who gave us a faint, unwelcoming nod as he fiddled with a tangle of power circuits.
 Narrator: Под рядами мониторов, на которые указала Эзра, мы обнаружили Хохенхайма — выглядевшего ещё более изнурённым, чем мы его помнили. Он недружелюбно кивнул нам, копаясь в сплетении силовых кабелей.
 
-# Original: Hello. I'm relieved to see that there aren't any injured among you.
+# Marton: Hello. I'm relieved to see that there aren't any injured among you.
 Marton: Здравствуйте. Я рад видеть, что среди вас нет раненых.
 
-# Original: Marton stepped forth and offered us the greeting Hohenheim chose to skip.
+# Narrator: Marton stepped forth and offered us the greeting Hohenheim chose to skip.
 Narrator: Мартон вышел вперёд и поприветствовал нас вместо Хохенхайма.
 
-# Original: In any case, you say it was Alyssa who let you know of our location? Hmm. If she's not with you, she must be either gravely wounded or already dead.
+# Hohenheim: In any case, you say it was Alyssa who let you know of our location? Hmm. If she's not with you, she must be either gravely wounded or already dead.
 Hohenheim: В любом случае, вы говорите, это Алиса сообщила вам о нашем местоположении? Хм. Раз её нет с вами, она либо тяжело ранена, либо уже мертва.
 
-# Original: Uh... She's badly hurt, yeah. But we're searching for ways to help her.
+# Ishmael: Uh... She's badly hurt, yeah. But we're searching for ways to help her.
 Ishmael: Эм... Она сильно пострадала, да. Но мы ищем способы помочь ей.
 
-# Original: Ishmael gave Hohenheim a blanched look as though she was taken aback by his cold certainty regarding his own subordinate's fate.
+# Narrator: Ishmael gave Hohenheim a blanched look as though she was taken aback by his cold certainty regarding his own subordinate's fate.
 Narrator: Измаил бросила на Хохенхайма похолодевший взгляд, словно была ошеломлена его уверенностью в участи собственной подчинённой.
 
-# Original: "Searching," hmm? You talk as if you're playing a game of scavenger hunt.
+# Hohenheim: "Searching," hmm? You talk as if you're playing a game of scavenger hunt.
 Hohenheim: «Ищете», хм? Говорите так, будто играете в охоту за сокровищами.
 
-# Original: It might have been better to end her misery then and there.
+# Hohenheim: It might have been better to end her misery then and there.
 Hohenheim: Возможно, было бы лучше прекратить её мучения прямо там.
 
-# Original: Wha...? Haven't you seen how we handle things? She's still got a shot. Don't be so quick to throw in the towel.
+# Heathcliff: Wha...? Haven't you seen how we handle things? She's still got a shot. Don't be so quick to throw in the towel.
 Heathcliff: Чё...? Ты видел, как мы ведём дела? У неё ещё есть шанс. Не спеши так быстро сдаваться.
 
-# Original: Please don't misunderstand. Some of these assailants... They seem to enjoy torturing their victims. That's what's keeping our boss on edge...
+# Marton: Please don't misunderstand. Some of these assailants... They seem to enjoy torturing their victims. That's what's keeping our boss on edge...
 Marton: Пожалуйста, не поймите неправильно. Некоторые из нападавших... Кажется, им нравится пытать своих жертв. Именно это держит нашего босса в напряжении...
 
-# Original: Boss and I were near the laboratory when the attack started. There weren't many employees around, and the Broadcast Sector happened to be close by.
+# Marton: Boss and I were near the laboratory when the attack started. There weren't many employees around, and the Broadcast Sector happened to be close by.
 Marton: Мы с боссом были рядом с лабораторией, когда началось нападение. Сотрудников вокруг было немного, а Сектор Вещания оказался поблизости.
 
-# Original: Probably the only reason we were able to find cover here in one piece.
+# Marton: Probably the only reason we were able to find cover here in one piece.
 Marton: Вероятно, это единственная причина, по которой нам удалось добраться до укрытия целыми и невредимыми.
 
-# Original: ... Verily, young Alyssa shall persevere steadfastly.
+# Don Quixote: ... Verily, young Alyssa shall persevere steadfastly.
 Don Quixote: ...Истинно говорю, юная Алиса выстоит непоколебимо.
 
-# Original: We have vowed to return and deliver her from death.
+# Don Quixote: We have vowed to return and deliver her from death.
 Don Quixote: Мы поклялись вернуться и избавить её от смерти.
 
-# Original: ... Thank you. I'm sure Alyssa is... hanging onto your promise.
+# Marton: ... Thank you. I'm sure Alyssa is... hanging onto your promise.
 Marton: ...Спасибо. Я уверен, Алиса... держится за ваше обещание.
 
-# Original: Um, sorry to break up this touching moment... but if you're here, that Color Fixer should be on his way too, right?!
+# Ezra: Um, sorry to break up this touching moment... but if you're here, that Color Fixer should be on his way too, right?!
 Ezra: Эм, извините, что прерываю этот трогательный момент... но если вы здесь, значит, тот Цветной Корректировщик тоже должен быть на подходе, верно?!
 
-# Original: Where the heck is he now? I wonder if he's already off to find the attackers...
+# Ezra: Where the heck is he now? I wonder if he's already off to find the attackers...
 Ezra: Где он сейчас, чёрт возьми? Интересно, не отправился ли он уже разыскивать нападавших...
 
-# Original: ... Ezra.
+# Moses: ... Ezra.
 Moses: ...Эзра.
 
-# Original: Moses, who had been staring at Outis since we came in, turned her gaze toward Ezra.
+# Narrator: Moses, who had been staring at Outis since we came in, turned her gaze toward Ezra.
 Narrator: Мозес, которая пристально смотрела на Отис с самого нашего прихода, перевела взгляд на Эзру.
 
-# Original: Team Leader! If we can regroup with the Red Gaze, I think we'll have more than enough fighting chance even without our baby bee!
+# Ezra: Team Leader! If we can regroup with the Red Gaze, I think we'll have more than enough fighting chance even without our baby bee!
 Ezra: Лидер команды! Если мы сможем воссоединиться с Красным Взором, я думаю, у нас будет более чем достаточно шансов на победу даже без нашего малютки Шершня!
 
-# Original: Yes. But... it would seem that the Red Gaze is not here with them.
+# Moses: Yes. But... it would seem that the Red Gaze is not here with them.
 Moses: Да. Но... похоже, Красного Взора с ними нет.
 
-# Original: Just the look on their faces is enough to confirm that.
+# Moses: Just the look on their faces is enough to confirm that.
 Moses: Одного взгляда на их лица достаточно, чтобы подтвердить это.
 
-# Original: Whaaat?! What the heck are you peeps doing here without him?!
+# Ezra: Whaaat?! What the heck are you peeps doing here without him?!
 Ezra: Че-е-его?! Какого чёрта вы, ребята, тут делаете без него?!
 
-# Original: Ezra's face immediately soured the moment she realized that Vergilius wasn't with us; her voice crashed over us like that of a host shrieking at uninvited guests barging into her home.
+# Narrator: Ezra's face immediately soured the moment she realized that Vergilius wasn't with us; her voice crashed over us like that of a host shrieking at uninvited guests barging into her home.
 Narrator: Лицо Эзры мгновенно скисло, как только она поняла, что Вергилия с нами нет; её голос обрушился на нас, словно крик хозяйки на незваных гостей, вломившихся в её дом.
 
-# Original: It's not like... It's not like we came here on our own because we wanted to...
+# Ishmael: It's not like... It's not like we came here on our own because we wanted to...
 Ishmael: Не то чтобы... Не то чтобы мы пришли сюда сами, потому что хотели...
 
-# Original: Guide bud's held up by an assailant... Ryōshū says she's called the "Thumb Nursefather"... from the House of Spiders...
+# Gregor: Guide bud's held up by an assailant... Ryōshū says she's called the "Thumb Nursefather"... from the House of Spiders...
 Gregor: Наш приятель-проводник задержан нападавшей... Рёшу говорит, её зовут «Отец-воспитатель Большого Пальца»... из Дома Пауков...
 
-# Original: And probably a tough adversary too... just like those who are assaulting the facility.
+# Moses: And probably a tough adversary too... just like those who are assaulting the facility.
 Moses: И, вероятно, это сильный противник... как и те, кто атакует комплекс.
 
-# Original: ... Her combat prowess is not to be underestimated.
+# Outis: ... Her combat prowess is not to be underestimated.
 Outis: ...Её боевое мастерство нельзя недооценивать.
 
-# Original: How is she compared to Euryalos of the Argos Unit?
+# Moses: How is she compared to Euryalos of the Argos Unit?
 Moses: Какова она в сравнении с Эвриалом из отряда Аргос?
 
-# Original: Hmm... Around the same level, I would say...
+# Outis: Hmm... Around the same level, I would say...
 Outis: Хм... Я бы сказала, примерно на том же уровне...
 
-# Original: Wait. You... If you know those names, that means...
+# Outis: Wait. You... If you know those names, that means...
 Outis: Погодите. Вы... Если вы знаете эти имена, значит...
 
-# Original: Moses didn't grace Outis with a reply. Instead, she closed her eyes, seemingly lost in a brief reverie...
+# Narrator: Moses didn't grace Outis with a reply. Instead, she closed her eyes, seemingly lost in a brief reverie...
 Narrator: Мозес не удостоила Отис ответом. Вместо этого она закрыла глаза, казалось, погрузившись в краткое раздумье...
 
-# Original: ... and soon, returned to the subject at hand as if she were done sorting out her thoughts.
+# Narrator: ... and soon, returned to the subject at hand as if she were done sorting out her thoughts.
 Narrator: ...и вскоре вернулась к делу, словно закончив приводить мысли в порядок.
 
-# Original: ... Charon—is she taken hostage?
+# Moses: ... Charon—is she taken hostage?
 Moses: ...Харон — она в заложниках?
 
-# Original: Huh? How did you know that...?
+# Sinclair: Huh? How did you know that...?
 Sinclair: А? Откуда вы это узнали...?
 
-# Original: You mentioned the attacker in the singular. Perhaps just a slip of the tongue, but I suspect it was a single enemy if not a small number.
+# Moses: You mentioned the attacker in the singular. Perhaps just a slip of the tongue, but I suspect it was a single enemy if not a small number.
 Moses: Ты упомянул нападавшего в единственном числе. Возможно, просто оговорка, но я подозреваю, что враг был один или же их было совсем немного.
 
-# Original: Furthermore... Despite coming here without the bus driver, none of you seem particularly convinced that the Red Gaze would be able to quickly dispatch the assailant and join you.
+# Moses: Furthermore... Despite coming here without the bus driver, none of you seem particularly convinced that the Red Gaze would be able to quickly dispatch the assailant and join you.
 Moses: Более того... Несмотря на то, что вы пришли сюда без водителя автобуса, никто из вас не кажется особо уверенным в том, что Красный Взор сможет быстро расправиться с противником и присоединиться к вам.
 
-# Original: …….
+# Outis: …….
 Outis: …….
 
-# Original: Give it to our Team Leader! Just one look is enough for her to figure it all out.
+# Ezra: Give it to our Team Leader! Just one look is enough for her to figure it all out.
 Ezra: Как и ожидалось от нашего Лидера команды! Ей достаточно одного взгляда, чтобы во всём разобраться.
 
-# Original: Anyhoo, did you happen to encounter anyone on your way here?
+# Ezra: Anyhoo, did you happen to encounter anyone on your way here?
 Ezra: В любом случае, вы случайно не встречали кого-нибудь по пути сюда?
 
-# Original: Just some peccatula and manikins... Wait a minute. Why don't <i>we</i> get to ask the questions?
+# Ishmael: Just some peccatula and manikins... Wait a minute. Why don't <i>we</i> get to ask the questions?
 Ishmael: Только пеккатул и манекенов... Погодите-ка. Почему это не <i>мы</i> задаём вопросы?
 
-# Original: Ishmael barely managed to wrest control of the conversation amid the barrage of questions.
+# Narrator: Ishmael barely managed to wrest control of the conversation amid the barrage of questions.
 Narrator: Измаил едва удалось перехватить контроль над беседой в потоке сыпавшихся вопросов.
 
-# Original: You're both from LCD. What are you doing here in the HQ where the LCE is?
+# Ishmael: You're both from LCD. What are you doing here in the HQ where the LCE is?
 Ishmael: Вы обе из LCD. Что вы делаете здесь, в штаб-квартире, где находится LCE?
 
-# Original: Well, about that...
+# Ezra: Well, about that...
 Ezra: Ну, насчёт этого...
 
-# Original: The LCE was supposed to make an important progress report today.
+# Ezra: The LCE was supposed to make an important progress report today.
 Ezra: Сегодня отдел LCE должен был представить важный отчет о проделанной работе.
 
-# Original: Apparently, it's a <i>reeeally</i> important presentation too! We've been receiving bazillions of reminders about how it's a mandatory attendance event and everything... Right, Team Leader? Feels like everyone's overlooking just how <i>reeeally</i> busy our department is!
+# Ezra: Apparently, it's a <i>reeeally</i> important presentation too! We've been receiving bazillions of reminders about how it's a mandatory attendance event and everything... Right, Team Leader? Feels like everyone's overlooking just how <i>reeeally</i> busy our department is!
 Ezra: Судя по всему, это <i>о-о-очень</i> важная презентация! Нам прислали дохрениллиарды напоминаний о том, что это мероприятие с обязательным посещением и всё такое... Верно, Лидер? Такое чувство, будто все забывают, насколько <i>о-о-очень</i> занят наш отдел!
 
-# Original: Sorry to borrow your wording, but it <i>is</i> indeed a <i>reeeally</i> important presentation.
+# Hohenheim: Sorry to borrow your wording, but it <i>is</i> indeed a <i>reeeally</i> important presentation.
 Hohenheim: Извините, что заимствую твою формулировку, но это и впрямь <i>о-о-очень</i> важная презентация.
 
-# Original: Yeah, for you maybe. But my department is also <i>reeeally reeeally</i>...
+# Ezra: Yeah, for you maybe. But my department is also <i>reeeally reeeally</i>...
 Ezra: Ну, для вас, может, и так. Но мой отдел тоже <i>о-о-очень-преочень</i>...
 
-# Original: <Hang on... I don't think that's the crux of the matter right now...>
+# Dante: <Hang on... I don't think that's the crux of the matter right now...>
 Dante: <Погодите... Я не думаю, что сейчас это самое главное...>
 
-# Original: The presentation did not happen. As such, we are unable to assess its importance at the moment.
+# Moses: The presentation did not happen. As such, we are unable to assess its importance at the moment.
 Moses: Презентация не состоялась. В связи с этим мы не можем оценить её важность в данный момент.
 
-# Original: Whatever is the case, the event was what required us LCD members to be present here at the LCE Department.
+# Moses: Whatever is the case, the event was what required us LCD members to be present here at the LCE Department.
 Moses: Как бы то ни было, именно это мероприятие требовало присутствия нас, членов LCD, здесь, в отделе LCE.
 
-# Original: And there's one more thing... Allow me to introduce the newest addition to the LCD.
+# Moses: And there's one more thing... Allow me to introduce the newest addition to the LCD.
 Moses: И ещё кое-что... Позвольте представить вам новое пополнение в LCD.
 
-# Original: Yeah, our team has grown in size! Take that!
+# Ezra: Yeah, our team has grown in size! Take that!
 Ezra: Да, наша команда выросла в размерах! Выкусите!
 
-# Original: I was told you'd met before.
+# Moses: I was told you'd met before.
 Moses: Мне сказали, вы уже встречались раньше.
 
-# Original: A familiar silhouette stepped forward from the opposite side—someone we did not expect to encounter here of all places.
+# Narrator: A familiar silhouette stepped forward from the opposite side—someone we did not expect to encounter here of all places.
 Narrator: С противоположной стороны выступил знакомый силуэт — тот, кого мы никак не ожидали встретить именно здесь.
 
-# Original: I regret that we must always meet in the midst of plights such as this. I trust you have been well?
+# Aeng-du: I regret that we must always meet in the midst of plights such as this. I trust you have been well?
 Aeng-du: Сожалею, что мы вечно встречаемся посреди подобных невзгод. Надеюсь, вы были в добром здравии?
 
-# Original: Miss Aeng-du! It's been too long.
+# Hong Lu: Miss Aeng-du! It's been too long.
 Hong Lu: Мисс Энду! Давно не виделись.
 
-# Original: Is Mister Bamboo-hatted Kim... still in recovery?
+# Hong Lu: Is Mister Bamboo-hatted Kim... still in recovery?
 Hong Lu: Господин Ким в Бамбуковой Шляпе... всё ещё восстанавливается?
 
-# Original: Mm. My mentor's flesh... has long since healed, but it will take some time until his mind regains its former tranquility. However long the wait, endure it I must.
+# Aeng-du: Mm. My mentor's flesh... has long since healed, but it will take some time until his mind regains its former tranquility. However long the wait, endure it I must.
 Aeng-du: М-м. Тело моего наставника... уже давно исцелилось, но пройдёт немало времени, прежде чем его разум обретёт былое спокойствие. Сколько бы ни пришлось ждать, я должна вытерпеть это.
 
-# Original: I have faith that he will recover in due time. Until then, in silence shall I atone for the transgression I have committed...
+# Aeng-du: I have faith that he will recover in due time. Until then, in silence shall I atone for the transgression I have committed...
 Aeng-du: Я верю, что со временем он поправится. А до тех пор я буду в молчании искупать совершённое мною прегрешение...
 
-# Original: ... Aeng-du appeared to be referring to how she ran Bamboo-hatted Kim through with her sword under the Monolith's Distorting influence.
+# Narrator: ... Aeng-du appeared to be referring to how she ran Bamboo-hatted Kim through with her sword under the Monolith's Distorting influence.
 Narrator: ...Энду, судя по всему, имела в виду то, как она пронзила Кима в Бамбуковой Шляпе своим мечом под влиянием Искажения Монолита.
 
-# Original: Still, I'm glad you seem to be adjusting well to life at LCD.
+# Sinclair: Still, I'm glad you seem to be adjusting well to life at LCD.
 Sinclair: И всё же, я рад, что вы, кажется, хорошо приспособились к жизни в LCD.
 
-# Original: Sinclair caught the shadow flickering across Aeng-du's face and swiftly stepped up to lighten the mood.
+# Narrator: Sinclair caught the shadow flickering across Aeng-du's face and swiftly stepped up to lighten the mood.
 Narrator: Синклер заметил тень, промелькнувшую на лице Энду, и поспешил вмешаться, чтобы разрядить обстановку.
 
-# Original: I would say I was taken in, but I am deeply grateful regardless. My mentor and I have nowhere left to call home...
+# Aeng-du: I would say I was taken in, but I am deeply grateful regardless. My mentor and I have nowhere left to call home...
 Aeng-du: Я бы сказала, что меня приютили, но я в любом случае глубоко благодарна. Нам с наставником больше нечего называть домом...
 
-# Original: But someday... we will...
+# Aeng-du: But someday... we will...
 Aeng-du: Но когда-нибудь... мы...
 
-# Original: ... return to S Corp. together.
+# Aeng-du: ... return to S Corp. together.
 Aeng-du: ...вместе вернёмся в Корпорацию S.
 
-# Original: Looks like she's trying her best to fit in too.
+# Ishmael: Looks like she's trying her best to fit in too.
 Ishmael: Похоже, она тоже изо всех сил старается вписаться в команду.
 
-# Original: It's always hard to get settled in no matter where you start from.
+# Gregor: It's always hard to get settled in no matter where you start from.
 Gregor: Всегда трудно обустроиться на новом месте, с чего бы ты ни начинал.
 
-# Original: Now that we've all grown acquainted with one another...
+# Moses: Now that we've all grown acquainted with one another...
 Moses: Теперь, когда мы все познакомились друг с другом...
 
-# Original: Let us move on to the issue at hand.
+# Moses: Let us move on to the issue at hand.
 Moses: Давайте перейдём к насущному вопросу.

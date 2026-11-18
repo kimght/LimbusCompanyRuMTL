@@ -1,89 +1,89 @@
-﻿# Original: In regards to every activity, involvement of unnecessary emotions and personal judgment is to be wasteful.
+﻿# Meursault: In regards to every activity, involvement of unnecessary emotions and personal judgment is to be wasteful.
 Мерсо: Касательно любой деятельности, проявление излишних эмоций и личных суждений является расточительством.
 
-# Original: Hm... I'm gonna need you to elaborate on that.
+# Sinclair: Hm... I'm gonna need you to elaborate on that.
 Синклер: Хм-м... Не мог бы ты пояснить?
 
-# Original: Then I will share an excerpt from Sinclair's exchange with the manager, thirty-two days ago. Begin quote:
+# Meursault: Then I will share an excerpt from Sinclair's exchange with the manager, thirty-two days ago. Begin quote:
 Мерсо: В таком случае, я приведу отрывок из разговора Синклера с менеджером, состоявшегося тридцать два дня назад. Начало цитаты:
 
-# Original: Huh? Thirty-two days ago? What—
+# Sinclair: Huh? Thirty-two days ago? What—
 Синклер: А? Тридцать два дня назад? Что?..
 
-# Original: "Uhm, uh... excuse me, Dante... I'm sorry to have to um, ask you this, but... most of us are fatally wounded, so... can you please turn the clock just one more time?"
+# Meursault: "Uhm, uh... excuse me, Dante... I'm sorry to have to um, ask you this, but... most of us are fatally wounded, so... can you please turn the clock just one more time?"
 Мерсо: «Э-эм, э... простите, Данте... Мне жаль, что приходится, эм, просить вас, но... большинство из нас смертельно ранены, так что... не могли бы вы отмотать время ещё разочек?»
 
-# Original: End quote.
+# Meursault: End quote.
 Мерсо: Конец цитаты.
 
-# Original: Unnecessary interjections weighed down your request.
+# Meursault: Unnecessary interjections weighed down your request.
 Мерсо: Излишние междометия утяжеляли вашу просьбу.
 
-# Original: ... Wow, that's pretty bad.
+# Jia Xichun: ... Wow, that's pretty bad.
 Цзя Сичунь: ...Ого, это и правда довольно скверно.
 
-# Original: Uh, did... did I really stutter that badly?
+# Sinclair: Uh, did... did I really stutter that badly?
 Синклер: Э-э, я... я и вправду так сильно заикался?
 
-# Original: It is a waste of time to involve emotions when delivering unfavorable news.
+# Meursault: It is a waste of time to involve emotions when delivering unfavorable news.
 Мерсо: Проявление эмоций при сообщении неблагоприятных вестей — пустая трата времени.
 
-# Original: The same message could have been delivered with merely two words:
+# Meursault: The same message could have been delivered with merely two words:
 Мерсо: То же самое сообщение можно было передать всего двумя словами:
 
-# Original: "We failed."
+# Meursault: "We failed."
 Мерсо: «Мы провалились».
 
-# Original: …!
+# Sinclair: …!
 Синклер: …!
 
-# Original: Let us commence field practice.
+# Meursault: Let us commence field practice.
 Мерсо: Приступим к полевой практике.
 
-# Original: Do not ask me a single question for the next five minutes.
+# Meursault: Do not ask me a single question for the next five minutes.
 Мерсо: В течение следующих пяти минут не задавайте мне ни единого вопроса.
 
-# Original: Huh...? Well, okay. Sure, seems easy enough...
+# Sinclair: Huh...? Well, okay. Sure, seems easy enough...
 Синклер: А?.. Ну, ладно. Конечно, вроде несложно...
 
-# Original: <i>Gnnuugh...!</i>
+# Meursault: <i>Gnnuugh...!</i>
 Мерсо: <i>Гннуух!..</i>
 
-# Original: Suddenly, Meursault let out a cry as he clutched his chest, then fell to the floor.
+# Narrator: Suddenly, Meursault let out a cry as he clutched his chest, then fell to the floor.
 Рассказчик: Внезапно Мерсо вскрикнул, схватившись за грудь, и упал на пол.
 
-# Original: A-are you okay?!
+# Sinclair: A-are you okay?!
 Синклер: В-вы в порядке?!
 
-# Original: <Meursault, you okay?>
+# Dante: <Meursault, you okay?>
 Данте: <Мерсо, ты в порядке?>
 
-# Original: His eyes snapped open.
+# Narrator: His eyes snapped open.
 Рассказчик: Он резко открыл глаза.
 
-# Original: Task failed. Five minutes have not passed.
+# Meursault: Task failed. Five minutes have not passed.
 Мерсо: Задание провалено. Пять минут ещё не закончились.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: ... You're cheating...
+# Sinclair: ... You're cheating...
 Синклер: ...Это нечестно...
 
-# Original: This reminds me.
+# Meursault: This reminds me.
 Мерсо: Это мне кое-что напомнило.
 
-# Original: Of <i>the incident</i> Sinclair had so desperately wished to hide.
+# Meursault: Of <i>the incident</i> Sinclair had so desperately wished to hide.
 Мерсо: О <i>том инциденте</i>, который Синклер так отчаянно хотел скрыть.
 
-# Original: ... What?! The what who wished to what?!
+# Sinclair: ... What?! The what who wished to what?!
 Синклер: ...Что?! Какой «что», кто хотел «что»?!
 
-# Original: Despite your belief that no one would ever find out your secret, there was one person who got to the bottom of <i>the incident</i>.
+# Meursault: Despite your belief that no one would ever find out your secret, there was one person who got to the bottom of <i>the incident</i>.
 Мерсо: Несмотря на вашу уверенность, что никто и никогда не узнает ваш секрет, нашёлся один человек, который докопался до сути <i>того инцидента</i>.
 
-# Original: Come on, just what did you see—!?
+# Sinclair: Come on, just what did you see—!?
 Синклер: Да ну тебя, что ты там увидел-то?!
 
-# Original: Failed again.
+# Meursault: Failed again.
 Мерсо: Снова провал.

@@ -1,491 +1,491 @@
-﻿# Original: <... Right, I think we can conclude our consultation session here.>
+﻿# Dante: <... Right, I think we can conclude our consultation session here.>
 Данте: <... Хорошо, думаю, на этом мы можем завершить нашу консультационную сессию.>
 
-# Original: I've been holding regular consultations with the Sinners for a while now.
+# Narrator: I've been holding regular consultations with the Sinners for a while now.
 Рассказчик: Я уже какое-то время провожу регулярные консультации с Грешниками.
 
-# Original: My session with Heathcliff ended earlier than I'd expected.
+# Narrator: My session with Heathcliff ended earlier than I'd expected.
 Рассказчик: Моя сессия с Хитклифом закончилась раньше, чем я ожидал.
 
-# Original: <So... what are you writing in that notebook?>
+# Dante: <So... what are you writing in that notebook?>
 Данте: <Так... что ты пишешь в этом блокноте?>
 
-# Original: Oh, this?
+# Heathcliff: Oh, this?
 Хитклиф: А, это?
 
-# Original: I thought writing 'em down could come in handy later. In case I have to remember something.
+# Heathcliff: I thought writing 'em down could come in handy later. In case I have to remember something.
 Хитклиф: Подумал, что записи в нем могут пригодиться позже. На случай, если надо будет что-то вспомнить.
 
-# Original: Heathcliff's been holding that notebook in his hands ever since this session started...
+# Narrator: Heathcliff's been holding that notebook in his hands ever since this session started...
 Рассказчик: Хитклиф держал этот блокнот в руках с самого начала сессии...
 
-# Original: It didn't seem like he was making a full record of our entire conversation; it was more like he was writing things down if they seemed worthy of remembering.
+# Narrator: It didn't seem like he was making a full record of our entire conversation; it was more like he was writing things down if they seemed worthy of remembering.
 Рассказчик: Похоже, он не делал полной записи всего нашего разговора; скорее, он записывал вещи, которые казались достойными запоминания.
 
-# Original: <Are you writing about... Catherine?>
+# Dante: <Are you writing about... Catherine?>
 Данте: <Ты пишешь о... Кэтрин?>
 
-# Original: Won't deny that that's a part of it.
+# Heathcliff: Won't deny that that's a part of it.
 Хитклиф: Не буду отрицать, что там есть часть этого.
 
-# Original: His expression becomes inscrutably complex upon hearing her name; he breathes in a lungful of air and lets out a deep sigh.
+# Narrator: His expression becomes inscrutably complex upon hearing her name; he breathes in a lungful of air and lets out a deep sigh.
 Рассказчик: Его выражение лица становится непостижимо сложным, когда услышав её имя; он вдыхает полной грудью и глубоко вздыхает.
 
-# Original: He smiles awkwardly before sliding his notebook across the desk in my direction.
+# Narrator: He smiles awkwardly before sliding his notebook across the desk in my direction.
 Рассказчик: Он неловко улыбается, прежде чем подвинуть свой блокнот через стол в мою сторону.
 
-# Original: I take a quick glance at the pages. Its contents are as disorganized and chaotic as his handwriting...
+# Narrator: I take a quick glance at the pages. Its contents are as disorganized and chaotic as his handwriting...
 Рассказчик: Я быстро просматриваю страницы. Их содержимое такое же неорганизованное и хаотичное, как и его почерк...
 
-# Original: But...
+# Narrator: But...
 Рассказчик: Но...
 
-# Original: I also notice that several of those disorganized notes are records of his memories with Catherine, scribbled next to notes of significant moments in our journey. Records of memories he doesn't want to lose.
+# Narrator: I also notice that several of those disorganized notes are records of his memories with Catherine, scribbled next to notes of significant moments in our journey. Records of memories he doesn't want to lose.
 Рассказчик: Я также замечаю, что несколько из этих неорганизованных заметок - это записи его воспоминаний с Кэтрин, нацарапанные рядом с заметками о значимых моментах нашего путешествия. Записи воспоминаний, которые он не хочет потерять.
 
-# Original: ... Well, it ain't nothing important.
+# Heathcliff: ... Well, it ain't nothing important.
 Хитклиф: ... Ну, там особо ничего важного.
 
-# Original: Right, if we're done here, I'm off.
+# Heathcliff: Right, if we're done here, I'm off.
 Хитклиф: Ладно, если мы закончили, я пошёл.
 
-# Original: Heathcliff takes the notebook and leaves the room. I catch a glimpse of his bitter expression as he steps through the doorway.
+# Narrator: Heathcliff takes the notebook and leaves the room. I catch a glimpse of his bitter expression as he steps through the doorway.
 Рассказчик: Хитклиф берёт блокнот и выходит из комнаты. Я замечаю его горькое выражение лица, когда он проходит через дверной проём.
 
-# Original: ... It isn't long before Rodya practically bursts through the door.
+# Narrator: ... It isn't long before Rodya practically bursts through the door.
 Рассказчик: ... Вскоре после этого Родя практически врывается в дверь.
 
-# Original: Hey, saw Heathcliff leaving the room just now and thought it was my turn. That was a pretty quick meeting, huh?
+# Rodion: Hey, saw Heathcliff leaving the room just now and thought it was my turn. That was a pretty quick meeting, huh?
 Родион: Эй, увидела Хитклифа, выходящего из комнаты только что, и подумала, что настала моя очередь. У вас была довольно быстрая встреча, да?
 
-# Original: <Yeah, we didn't really talk about much.>
+# Dante: <Yeah, we didn't really talk about much.>
 Данте: <Да, мы особо ни о чём не говорили.>
 
-# Original: I dunno what's gotten into him lately. He's been so... tame?
+# Rodion: I dunno what's gotten into him lately. He's been so... tame?
 Родион: Не знаю, что на него нашло в последнее время. Он стал таким... спокойным?
 
-# Original: <Well, I'm not complaining... Why don't you take a seat, Rodya?>
+# Dante: <Well, I'm not complaining... Why don't you take a seat, Rodya?>
 Данте: <Ну, я не жалуюсь... Почему бы тебе не присесть, Родя?>
 
-# Original: Rodya hummed cheerfully as she sat down. She really didn't seem too different from her usual self.
+# Narrator: Rodya hummed cheerfully as she sat down. She really didn't seem too different from her usual self.
 Рассказчик: Родя весело замурлыкала, садясь. Она действительно не казалась слишком отличной от своего обычного состояния.
 
-# Original: Our 'consultations' usually consisted of some minor chitchat and watching her munch on some snacks, but...
+# Narrator: Our 'consultations' usually consisted of some minor chitchat and watching her munch on some snacks, but...
 Рассказчик: Наши "консультации" обычно состояли из небольшой болтовни и наблюдения за тем, как она хрустит закусками, но...
 
-# Original: <Hey, so... I think there's something we have to talk about today.>
+# Dante: <Hey, so... I think there's something we have to talk about today.>
 Данте: <Эй, так... Я думаю, есть кое-что, о чём нам нужно поговорить сегодня.>
 
-# Original: Y-yeah? Ooh, you're so serious today. What's up~?
+# Rodion: Y-yeah? Ooh, you're so serious today. What's up~?
 Родион: Д-да? Ооо, ты сегодня такой серьёзный. Что случилось~?
 
-# Original: <Do you remember what you asked me when we were dealing with the Case of Timekilling Time, Rodya?>
+# Dante: <Do you remember what you asked me when we were dealing with the Case of Timekilling Time, Rodya?>
 Данте: <Ты помнишь, о чём ты меня спрашивала, когда мы разбирались с Делом об Времени, Убивающем Время, Родя?>
 
-# Original: ... I dunno, what'd I say?
+# Rodion: ... I dunno, what'd I say?
 Родион: ... Не знаю, что я сказала?
 
-# Original: A *lot*.
+# Narrator: A *lot*.
 Рассказчик: *Многое*.
 
-# Original: Rodya carefully looks away, her fingers fiddling with the snacks prepared for these consultations. I'm starting to grow uncertain whether this is a good time to bring this up when she's still so obviously evasive about it.
+# Narrator: Rodya carefully looks away, her fingers fiddling with the snacks prepared for these consultations. I'm starting to grow uncertain whether this is a good time to bring this up when she's still so obviously evasive about it.
 Рассказчик: Родя осторожно отводит взгляд, её пальцы теребят закуски, приготовленные для этих консультаций. Я начинаю сомневаться, подходящее ли это время, чтобы поднимать эту тему, когда она всё ещё так очевидно уклоняется от неё.
 
-# Original: I really don't want the mood to get as frosty as it did during the investigation...
+# Narrator: I really don't want the mood to get as frosty as it did during the investigation...
 Рассказчик: Я действительно не хочу, чтобы атмосфера стала такой же холодной, как во время расследования...
 
-# Original: ... but this overly chipper, chatty attitude is just a bandage haphazardly pulled over a scar that still hurts, isn't it?
+# Narrator: ... but this overly chipper, chatty attitude is just a bandage haphazardly pulled over a scar that still hurts, isn't it?
 Рассказчик: ... но это чрезмерно бодрое, болтливое поведение - просто наспех наложенная повязка на шрам, который всё ещё болит, не так ли?
 
-# Original: I sit there, looking at Rodya and her fabricated smile. I have to ask.
+# Narrator: I sit there, looking at Rodya and her fabricated smile. I have to ask.
 Рассказчик: Я сижу там, глядя на Родю и её наигранную улыбку. Я должен спросить.
 
-# Original: Yeah. This is exactly what these consultations are for. What better time to do this than now?
+# Narrator: Yeah. This is exactly what these consultations are for. What better time to do this than now?
 Рассказчик: Да. Именно для этого и нужны эти консультации. Какое лучшее время для этого, чем сейчас?
 
-# Original: <I'm talking about the time you asked me about Sonya. About what would've happened if you—>
+# Dante: <I'm talking about the time you asked me about Sonya. About what would've happened if you—>
 Данте: <Я говорю о том времени, когда ты спрашивала меня о Соне. О том, что бы случилось, если бы ты—>
 
-# Original: ... The alarm had to choose this precise moment, when I finally gathered enough courage to bring this up... to go off.
+# Narrator: ... The alarm had to choose this precise moment, when I finally gathered enough courage to bring this up... to go off.
 Рассказчик: ... Сигнализация должна была выбрать именно этот момент, когда я наконец набрал достаточно смелости, чтобы поднять эту тему... чтобы сработать.
 
-# Original: <…!>
+# Dante: <…!>
 Данте: <…!>
 
-# Original: <Wait, that was...!>
+# Dante: <Wait, that was...!>
 Данте: <Подожди, это было...!>
 
-# Original: I reflexively get to my feet at the blaring alarm.
+# Narrator: I reflexively get to my feet at the blaring alarm.
 Рассказчик: Я рефлекторно встаю на ноги при звуке оглушительной сигнализации.
 
-# Original: A few seconds later, I hear someone tapping on the bus PA system.
+# Narrator: A few seconds later, I hear someone tapping on the bus PA system.
 Рассказчик: Через несколько секунд я слышу, как кто-то стучит по системе громкой связи автобуса.
 
-# Original: And not long after that, a brief *bzzt* plays from the speaker installed in my room.
+# Narrator: And not long after that, a brief *bzzt* plays from the speaker installed in my room.
 Рассказчик: И вскоре после этого из динамика, установленного в моей комнате, раздаётся короткое *бззт*.
 
-# Original: Aa-ah. Aa-ah. Testing. Announcing from the driver's seat: all units taking R&R on the bus must assemble in the hallway ASAP.
+# Outis: Aa-ah. Aa-ah. Testing. Announcing from the driver's seat: all units taking R&R on the bus must assemble in the hallway ASAP.
 Отис: Аа-ах. Аа-ах. Проверка. Объявление с места водителя: всем подразделениям, отдыхающим в автобусе, немедленно собраться в коридоре.
 
-# Original: I repeat. All units taking R&R on the bus—
+# Outis: I repeat. All units taking R&R on the bus—
 Отис: Повторяю. Всем подразделениям, отдыхающим в автобусе—
 
-# Original: ... Driver's seat, Charon's seat.
+# Charon: ... Driver's seat, Charon's seat.
 Харон: ... Место водителя, место Харон.
 
-# Original: Augh, stop pulling me! I am in the process of relaying a very important announcement!
+# Outis: Augh, stop pulling me! I am in the process of relaying a very important announcement!
 Отис: Аух, прекрати меня тянуть! Я в процессе передачи очень важного объявления!
 
-# Original: Stop getting in the way between Charon and Mephi.
+# Charon: Stop getting in the way between Charon and Mephi.
 Харон: Прекрати вставать между Харон и Мефи.
 
-# Original: Haaah...
+# Vergilius: Haaah...
 Вергилий: Хааах...
 
-# Original: Vergilius' deep sigh was the last thing we heard from the bus' PA system before Charon and Outis' brief squabble came to an abrupt end.
+# Narrator: Vergilius' deep sigh was the last thing we heard from the bus' PA system before Charon and Outis' brief squabble came to an abrupt end.
 Рассказчик: Глубокий вздох Вергилия был последним, что мы услышали из системы громкой связи автобуса, прежде чем короткая перепалка Харона и Отис резко прекратилась.
 
-# Original: My, a new Backdoors thingie? That's what the alarm usually means, right?
+# Rodion: My, a new Backdoors thingie? That's what the alarm usually means, right?
 Родион: Боже, новая штучка Задних Дверей? Обычно сигнализация означает это, верно?
 
-# Original: <Let's see... I'm gonna guess that this one's for a Refraction Railway...?>
+# Dante: <Let's see... I'm gonna guess that this one's for a Refraction Railway...?>
 Данте: <Давай подумаем... Я предполагаю, что эта для Железной Дороги Преломления...?>
 
-# Original: Bleh, not a fan of those Railways. They're so exhausting...
+# Rodion: Bleh, not a fan of those Railways. They're so exhausting...
 Родион: Бее, не фанатка этих Железных Дорог. Они такие утомительные...
 
-# Original: Rodya grumbles for a moment before rising from her seat.
+# Narrator: Rodya grumbles for a moment before rising from her seat.
 Рассказчик: Родя ворчит мгновение, прежде чем подняться со своего места.
 
-# Original: Kinda seems like she's trying to smoothly maneuver away from answering my question...
+# Narrator: Kinda seems like she's trying to smoothly maneuver away from answering my question...
 Рассказчик: Кажется, она пытается плавно уклониться от ответа на мой вопрос...
 
-# Original: Whatcha standing around for, Dante? C'mon, aren'tcha going to see what's going on?
+# Rodion: Whatcha standing around for, Dante? C'mon, aren'tcha going to see what's going on?
 Родион: Чего ты стоишь, Данте? Давай, разве ты не хочешь посмотреть, что происходит?
 
-# Original: <Um... Yeah, I'm coming.>
+# Dante: <Um... Yeah, I'm coming.>
 Данте: <Эм... Да, я уже иду.>
 
-# Original: I leave my empty consultation notes behind and follow Rodya out to the hallway.
+# Narrator: I leave my empty consultation notes behind and follow Rodya out to the hallway.
 Рассказчик: Я оставляю свои пустые консультационные заметки и следую за Родей в коридор.
 
-# Original: Out to a very crowded hallway.
+# Narrator: Out to a very crowded hallway.
 Рассказчик: В очень переполненный коридор.
 
-# Original: The murmur rises and rises; the Sinners were each sharing their ideas as to what this alarm might be for.
+# Narrator: The murmur rises and rises; the Sinners were each sharing their ideas as to what this alarm might be for.
 Рассказчик: Шум нарастает и нарастает; Грешники делились своими идеями о том, для чего может быть эта сигнализация.
 
-# Original: I-it's got to be the Refraction Railway this time, right?
+# Sinclair: I-it's got to be the Refraction Railway this time, right?
 Синклер: Д-должно быть, на этот раз это Железная Дорога Преломления, верно?
 
-# Original: Yep. Line 4, most likely... huh. This is gonna suck, isn't it?
+# Gregor: Yep. Line 4, most likely... huh. This is gonna suck, isn't it?
 Грегор: Ага. Скорее всего, Линия 4... хм. Это будет отстойно, не так ли?
 
-# Original: Atten-tion! The Executive Manager has arrived!
+# Outis: Atten-tion! The Executive Manager has arrived!
 Отис: Внима-ние! Прибыл Исполнительный Менеджер!
 
-# Original: Ahem. I have assembled your forces already in a timely manner.
+# Outis: Ahem. I have assembled your forces already in a timely manner.
 Отис: Кхм. Я уже собрала ваши силы своевременно.
 
-# Original: <T-thanks.>
+# Dante: <T-thanks.>
 Данте: <С-спасибо.>
 
-# Original: Welcome, Dante.
+# Faust: Welcome, Dante.
 Фауст: Добро пожаловать, Данте.
 
-# Original: <I heard the radio... Is it a Refraction Railway this time?>
+# Dante: <I heard the radio... Is it a Refraction Railway this time?>
 Данте: <Я слышал радио... На этот раз Железная Дорога Преломления?>
 
-# Original: Yes. The fourth line of the Refraction Railway, to be exact.
+# Faust: Yes. The fourth line of the Refraction Railway, to be exact.
 Фауст: Да. Четвёртая линия Железной Дороги Преломления, если быть точной.
 
-# Original: Hey, I think they're getting used to this.
+# Rodion: Hey, I think they're getting used to this.
 Родион: Эй, я думаю, они привыкают к этому.
 
-# Original: ... W.T.H.A.W.G.I.
+# Ryōshū: ... W.T.H.A.W.G.I.
 Рёшу: ... К.Ч.В.М.У.В.
 
-# Original: "Woe! 'Tis a Hearkening At—"
+# Don Quixote: "Woe! 'Tis a Hearkening At—"
 Дон Кихот: "Какая Чума! 'Вы Можете Уз—"
 
-# Original: "When... The Hell..."
+# Gregor: "When... The Hell..."
 Грегор: "Когда... Чёрт Возьми..."
 
-# Original: It appears that she is requesting information pertinent to our schedule regarding our entry to the Railway.
+# Yi Sang: It appears that she is requesting information pertinent to our schedule regarding our entry to the Railway.
 И Сан: Кажется, она запрашивает информацию, касающуюся нашего расписания относительно нашего входа в Железную Дорогу.
 
-# Original: To be exact, I think she's asking... "When the hell are we going in?"
+# Sinclair: To be exact, I think she's asking... "When the hell are we going in?"
 Синклер: Если быть точным, я думаю, она спрашивает... "Когда, чёрт возьми, мы уже войдём?"
 
-# Original: Ryōshū, who had been listening with a knitted brow as each Sinner hazarded their guesses, appeared to have finally found peace.
+# Narrator: Ryōshū, who had been listening with a knitted brow as each Sinner hazarded their guesses, appeared to have finally found peace.
 Рассказчик: Рёшу, которая слушала с нахмуренными бровями, пока каждый Грешник пытался угадать, казалось, наконец обрела покой.
 
-# Original: Sinclair was right on the money.
+# Narrator: Sinclair was right on the money.
 Рассказчик: Синклер попал в самую точку.
 
-# Original: Hey, at least Gregor and Yi Sang got half of that right, too...
+# Narrator: Hey, at least Gregor and Yi Sang got half of that right, too...
 Рассказчик: Эй, по крайней мере, Грегор и И Сан тоже угадали половину...
 
-# Original: The bus alarms weren't the only things growing increasingly familiar to us. The Sinners were really getting to know one another as well.
+# Narrator: The bus alarms weren't the only things growing increasingly familiar to us. The Sinners were really getting to know one another as well.
 Рассказчик: Не только сигнализации автобуса становились всё более знакомыми для нас. Грешники действительно узнавали друг друга всё лучше.
 
-# Original: <Well, let's go check it out right now.>
+# Dante: <Well, let's go check it out right now.>
 Данте: <Ну, давайте пойдём и проверим прямо сейчас.>
 
-# Original: Then I shall open the gates!
+# Don Quixote: Then I shall open the gates!
 Дон Кихот: Тогда я открою врата!
 
-# Original: The door opens with a creak, and a bright blue light fills my vision.
+# Narrator: The door opens with a creak, and a bright blue light fills my vision.
 Рассказчик: Дверь открывается со скрипом, и яркий синий свет заполняет моё поле зрения.
 
-# Original: The blue ambiance almost seems to drop the temperature of the entire room.
+# Narrator: The blue ambiance almost seems to drop the temperature of the entire room.
 Рассказчик: Синяя атмосфера, кажется, почти понижает температуру всей комнаты.
 
-# Original: Another Railway Line, completely different from Line 3 and its orange hue.
+# Narrator: Another Railway Line, completely different from Line 3 and its orange hue.
 Рассказчик: Ещё одна Линия Железной Дороги, совершенно отличная от Линии 3 и её оранжевого оттенка.
 
-# Original: Manager Esquire, behold! These curtains, these masks... I say, visions of par-tay lay before us, forsooth!
+# Don Quixote: Manager Esquire, behold! These curtains, these masks... I say, visions of par-tay lay before us, forsooth!
 Дон Кихот: Сэр Менеджер, узрите! Эти занавесы, эти маски... Я глаголю, видения вечеринки лежат пред нами, воистину!
 
-# Original: <Masks?>
+# Dante: <Masks?>
 Данте: <Маски?>
 
-# Original: I follow Don Quixote, who had run off on her own again, with my eyes. It was as she said; the walls were lined with various masks, each wearing different expressions.
+# Narrator: I follow Don Quixote, who had run off on her own again, with my eyes. It was as she said; the walls were lined with various masks, each wearing different expressions.
 Рассказчик: Я следую взглядом за Дон Кихот, которая снова убежала сама по себе. Как она и сказала; стены были увешаны различными масками, каждая с разным выражением.
 
-# Original: I wonder if this has something to do with the theme of enemies we're about to meet here...
+# Narrator: I wonder if this has something to do with the theme of enemies we're about to meet here...
 Рассказчик: Интересно, имеет ли это какое-то отношение к теме врагов, с которыми мы здесь столкнёмся...
 
-# Original: Ooooh?! Hie thee hither, one and all! Here is a woman, her appearance a spitting image of Lady Outis!
+# Don Quixote: Ooooh?! Hie thee hither, one and all! Here is a woman, her appearance a spitting image of Lady Outis!
 Дон Кихот: Оооох?! Поспешите сюда, все и каждый! Здесь женщина, её внешность - точная копия Леди Отис!
 
-# Original: ... What?
+# Outis: ... What?
 Отис: ... Что?
 
-# Original: There was urgency in her voice. I quickly ran to where Don Quixote was with the other Sinners in tow.
+# Narrator: There was urgency in her voice. I quickly ran to where Don Quixote was with the other Sinners in tow.
 Рассказчик: В её голосе слышалась настойчивость. Я быстро побежал туда, где была Дон Кихот, с остальными Грешниками позади.
 
-# Original: And there she was, an exact copy of Outis, standing before us.
+# Narrator: And there she was, an exact copy of Outis, standing before us.
 Рассказчик: И вот она, точная копия Отис, стояла перед нами.
 
-# Original: ... I hope this isn't anything serious...
+# Narrator: ... I hope this isn't anything serious...
 Рассказчик: ... Надеюсь, это не что-то серьёзное...
 
-# Original: Woah... she wasn't kidding.
+# Gregor: Woah... she wasn't kidding.
 Грегор: Вау... она не шутила.
 
-# Original: I-I hope this isn't a lure left behind by an Abnormality or something like that...
+# Sinclair: I-I hope this isn't a lure left behind by an Abnormality or something like that...
 Синклер: Я-я надеюсь, это не приманка, оставленная какой-нибудь Аномалией или чем-то в этом роде...
 
-# Original: Oi. How about we don't tempt fate, lad?
+# Heathcliff: Oi. How about we don't tempt fate, lad?
 Хитклиф: Эй. Может, не будем испытывать судьбу, дружище?
 
-# Original: Hm. But she's quiet, unlike Outis. And shrouded in a weird shadow.
+# Hong Lu: Hm. But she's quiet, unlike Outis. And shrouded in a weird shadow.
 Хон Лу: Хм. Но она тихая, в отличие от Отис. И окутана странной тенью.
 
-# Original: Woaah~ Look, here's one that looks just like me~!
+# Hong Lu: Woaah~ Look, here's one that looks just like me~!
 Хон Лу: Воооу~ Смотрите, вон там одна, которая выглядит точно как я~!
 
-# Original: Hong Lu stood next to a humanoid shape that mimicked every move he made.
+# Narrator: Hong Lu stood next to a humanoid shape that mimicked every move he made.
 Рассказчик: Хон Лу встал рядом с человекоподобной фигурой, которая повторяла каждое его движение.
 
-# Original: When he raised his hands, the shape raised its hands. When he closed his eyes, the shape closed its eyes.
+# Narrator: When he raised his hands, the shape raised its hands. When he closed his eyes, the shape closed its eyes.
 Рассказчик: Когда он поднимал руки, фигура поднимала руки. Когда он закрывал глаза, фигура закрывала глаза.
 
-# Original: Right, almost like a shadow with the darkness and its mimicry...
+# Narrator: Right, almost like a shadow with the darkness and its mimicry...
 Рассказчик: Точно, почти как тень посреди ночи и её подражанием...
 
-# Original: <Wait, that... that looks like one of Hong Lu's Identities.>
+# Dante: <Wait, that... that looks like one of Hong Lu's Identities.>
 Данте: <Подождите, эта... эта выглядит как одна из Идентичностей Хон Лу.>
 
-# Original: I notice two, three more humanoid shadows standing nearby.
+# Narrator: I notice two, three more humanoid shadows standing nearby.
 Рассказчик: Я замечаю ещё две, три человекоподобные тени, стоящие поблизости.
 
-# Original: What on earth is going on?
+# Narrator: What on earth is going on?
 Рассказчик: Что, чёрт возьми, происходит?
 
-# Original: We'd be much better off if they were some byproduct of an Abnormality. However, if they are clones...
+# Outis: We'd be much better off if they were some byproduct of an Abnormality. However, if they are clones...
 Отис: Нам было бы гораздо лучше, если бы они были каким-то побочным продуктом Аномалии. Однако, если они клоны...
 
-# Original: We must move swiftly to exterminate them, Executive Manager.
+# Outis: We must move swiftly to exterminate them, Executive Manager.
 Отис: Мы должны действовать быстро, чтобы уничтожить их, Исполнительный Менеджер.
 
-# Original: I request that you immediately order us to prepare for battle.
+# Outis: I request that you immediately order us to prepare for battle.
 Отис: Я прошу вас немедленно отдать приказ о подготовке к бою.
 
-# Original: <Gimme a sec, I'll ask Faust first if—>
+# Dante: <Gimme a sec, I'll ask Faust first if—>
 Данте: <Дай-ка секунду, я сначала спрошу Фауст, если—>
 
-# Original: No! You must make a judgment call at this instant! If they are indeed clones, then the Head will—!
+# Outis: No! You must make a judgment call at this instant! If they are indeed clones, then the Head will—!
 Отис: Нет! Вы должны принять решение прямо сейчас! Если они действительно клоны, то тогда Глава будет—!
 
-# Original: This isn't the first time she's asked to make a decision like this, but...
+# Narrator: This isn't the first time she's asked to make a decision like this, but...
 Рассказчик: Это не первый раз, когда она просит принять такое решение, но...
 
-# Original: ... she's never been this serious or adamant about it before.
+# Narrator: ... she's never been this serious or adamant about it before.
 Рассказчик: ... она никогда не была такой серьезной или настойчивой в этом раньше.
 
-# Original: Yi Sang noticed the tension and quickly stepped in between the two of us.
+# Narrator: Yi Sang noticed the tension and quickly stepped in between the two of us.
 Рассказчик: И Сан заметил напряжение и быстро встал между нами.
 
-# Original: Miss Faust... would you kindly share what you know of this phenomenon?
+# Yi Sang: Miss Faust... would you kindly share what you know of this phenomenon?
 И Сан: Мисс Фауст... не могли бы вы любезно поделиться тем, что вы знаете об этом явлении?
 
-# Original: Yes. This entity is not a clone.
+# Faust: Yes. This entity is not a clone.
 Фауст: Да. Эта сущность не является клоном.
 
-# Original: Therefore, even if a week were to pass, the Head will not mobilize.
+# Faust: Therefore, even if a week were to pass, the Head will not mobilize.
 Фауст: Следовательно, даже если пройдёт неделя, Глава не примет меры.
 
-# Original: Faust nodded sagely as though she had just learned something new, before looking in my direction.
+# Narrator: Faust nodded sagely as though she had just learned something new, before looking in my direction.
 Рассказчик: Фауст мудро кивнула, словно только что узнала что-то новое, прежде чем посмотреть в мою сторону.
 
-# Original: Right, she probably wants me to explain what this is. I quickly blurted out the first thing that came to my mind.
+# Narrator: Right, she probably wants me to explain what this is. I quickly blurted out the first thing that came to my mind.
 Рассказчик: Точно, она, вероятно, хочет, чтобы я объяснил, что это такое. Я быстро выпалил первое, что пришло мне в голову.
 
-# Original: <... That one feels like a Peccatulum.>
+# Dante: <... That one feels like a Peccatulum.>
 Данте: <... Это похоже на Пеккатулу.>
 
-# Original: ... I wasn't completely sure, but that's the feeling I've so grown used to sensing whenever we encountered the Peccatula.
+# Narrator: ... I wasn't completely sure, but that's the feeling I've so grown used to sensing whenever we encountered the Peccatula.
 Рассказчик: ... Я не был полностью уверен, но это то чувство, к которому я так привык, когда мы сталкивались с Пеккатулами.
 
-# Original: A Peccatulum...
+# Outis: A Peccatulum...
 Отис: Пеккатула...
 
-# Original: It's blindly mimicking whatever Hong Lu is doing. I'm not sure if it has much, or anything, in the way of consciousness or ego. It doesn't look like a one-to-one copy of him, either.
+# Ishmael: It's blindly mimicking whatever Hong Lu is doing. I'm not sure if it has much, or anything, in the way of consciousness or ego. It doesn't look like a one-to-one copy of him, either.
 Измаил: Она слепо подражает всему, что делает Хон Лу. Я не уверена, есть ли у неё подобие или что-либо в плане сознания или эго. Она также не выглядит один-в-один, как его точная копия.
 
-# Original: Please becalm yourself, Miss Outis. It appears that aught has unnerved you.
+# Yi Sang: Please becalm yourself, Miss Outis. It appears that aught has unnerved you.
 И Сан: Прошу вас, успокойтесь, мисс Отис. Кажется, нечто вас встревожило.
 
-# Original: Outis bows, embarrassment apparent but her head cleared with relief.
+# Narrator: Outis bows, embarrassment apparent but her head cleared with relief.
 Рассказчик: Отис кланяется, очевидно смущаясь, но её голова явно прояснилась с облегчением.
 
-# Original: My deepest apologies, Executive Manager. I should not have acted in such an unsightly manner before you.
+# Outis: My deepest apologies, Executive Manager. I should not have acted in such an unsightly manner before you.
 Отис: Мои глубочайшие извинения, Исполнительный Менеджер. Я не должна была действовать таким неподобающим образом перед вами.
 
-# Original: Clearly, I still have a lot to learn about the Sinners. Every instance of these moments seem to unveil something new.
+# Narrator: Clearly, I still have a lot to learn about the Sinners. Every instance of these moments seem to unveil something new.
 Рассказчик: Очевидно, мне ещё многое нужно узнать о Грешниках. Каждый случай в такие моменты, кажется, раскрывают что-то новое.
 
-# Original: I was trying to get a better read on Outis' expression when Heathcliff suddenly asked a question out loud.
+# Narrator: I was trying to get a better read on Outis' expression when Heathcliff suddenly asked a question out loud.
 Рассказчик: Я пытался лучше прочитать выражение лица Отис, когда Хитклиф вдруг громко задал вопрос.
 
-# Original: Uh... I thought them 'Peccatula' are supposed to look like monsters, innit?
+# Heathcliff: Uh... I thought them 'Peccatula' are supposed to look like monsters, innit?
 Хитклиф: Э... Я думал, что эти "Пеккатулы" должны выглядеть как монстры, разве нет?
 
-# Original: Distortions and the Peccatula must not be judged on a reference based on 'common sense', such as their physical appearance.
+# Faust: Distortions and the Peccatula must not be judged on a reference based on 'common sense', such as their physical appearance.
 Фауст: Искажения и Пеккатулы не должны оцениваться на основе "здравого смысла", такого как их физический вид.
 
-# Original: B-but do you think we can handle them?
+# Sinclair: B-but do you think we can handle them?
 Синклер: Н-но вы думаете, мы сможем с ними справиться?
 
-# Original: Oh, yeah. If they're going to swarm us like they did at the manor, or if they manage to somehow copy Vergilius... that's going to be a problem.
+# Ishmael: Oh, yeah. If they're going to swarm us like they did at the manor, or if they manage to somehow copy Vergilius... that's going to be a problem.
 Измаил: О, да. Если они собираются роиться вокруг нас, как они это делали в поместье, или если они каким-то образом сумеют скопировать Вергилия... то это будет проблемой.
 
-# Original: Recall the Railways of Refraction we have suffered ere this one's arrival. It should not present before us a foe we cannot defeat. Yet the process shall be as grueling as it always has been, I suspect.
+# Yi Sang: Recall the Railways of Refraction we have suffered ere this one's arrival. It should not present before us a foe we cannot defeat. Yet the process shall be as grueling as it always has been, I suspect.
 И Сан: Вспомните Железные Дороги Преломления, которые мы пережили до прибытия этой. Она не должна представлять перед нами врага, которого мы не можем победить. Однако процесс будет таким же изнурительным, как и всегда, я подозреваю.
 
-# Original: Faust is aware that this entity is a Peccatulum of Envy... Peccatulum Invidiae. Considering the strengths of the Peccatula we have faced thus far, it is unlikely that we will encounter enemies too far beyond our ability to defeat.
+# Faust: Faust is aware that this entity is a Peccatulum of Envy... Peccatulum Invidiae. Considering the strengths of the Peccatula we have faced thus far, it is unlikely that we will encounter enemies too far beyond our ability to defeat.
 Фауст: Фауст осведомлена, что эта сущность является Пеккатулой Зависти... Пеккатула Инвидиа. Учитывая силы Пеккатул, с которыми мы сталкивались до сих пор, маловероятно, что мы встретим врагов, слишком далеко выходящих за пределы наших возможностей победить.
 
-# Original: Mm. The lack of precise tiered labeling system means that it is difficult for one to make a subjective judgment.
+# Meursault: Mm. The lack of precise tiered labeling system means that it is difficult for one to make a subjective judgment.
 Мерсо: Мм. Отсутствие точной многоуровневой системы риска означает, что будет трудно вынести субъективное суждение.
 
-# Original: Speaking of which, what's the ETA on the new Risk Levels and Classifications for the Peccatula and Distortions?
+# Ishmael: Speaking of which, what's the ETA on the new Risk Levels and Classifications for the Peccatula and Distortions?
 Измаил: Кстати говоря, какова ожидаемая дата появления новых Уровней Риска и Классификаций для Пеккатул и Искажений?
 
-# Original: The LCD has informed us that they have made significant progress regarding that project. It is likely that further details will be shared once they become more concrete.
+# Faust: The LCD has informed us that they have made significant progress regarding that project. It is likely that further details will be shared once they become more concrete.
 Фауст: LCD проинформировала нас, что они добились значительного прогресса в отношении этого проекта. Вероятно, дальнейшие детали будут предоставлены, когда они станут более конкретными.
 
-# Original: Ah, that's good to know~
+# Hong Lu: Ah, that's good to know~
 Хон Лу: Ах, это хорошие новости~
 
-# Original: Oops! Looks like the Peccatula are running away all of a sudden.
+# Hong Lu: Oops! Looks like the Peccatula are running away all of a sudden.
 Хон Лу: Упс! Похоже, Пеккатулы вдруг начали убегать.
 
-# Original: As we stood there talking to one another, a Peccatulum that resembles Hong Lu suddenly shoved him to the side and began sprinting elsewhere.
+# Narrator: As we stood there talking to one another, a Peccatulum that resembles Hong Lu suddenly shoved him to the side and began sprinting elsewhere.
 Рассказчик: Пока мы стояли там, разговаривая друг с другом, Пеккатула, похожая на Хон Лу, вдруг толкнула его в сторону и начала быстро куда-то убегать.
 
-# Original: What the hell, mate?! Don't just sit there and gawk at 'em when they're all leggin' it!
+# Heathcliff: What the hell, mate?! Don't just sit there and gawk at 'em when they're all leggin' it!
 Хитклиф: Какого чёрта, приятель?! Не сиди просто так и пялься на них, когда они все разбегаются кто куда!
 
-# Original: Heathcliff also sprinted after the figure, but he soon came to a sudden stop before starting to slowly back away.
+# Narrator: Heathcliff also sprinted after the figure, but he soon came to a sudden stop before starting to slowly back away.
 Рассказчик: Хитклиф тоже побежал за фигурой, но вскоре он внезапно остановился и начал медленно отступать.
 
-# Original: Oh, blimey...
+# Heathcliff: Oh, blimey...
 Хитклиф: О, чёрт...
 
-# Original: A subway train slides into the platform with a loud horn.
+# Narrator: A subway train slides into the platform with a loud horn.
 Рассказчик: Поезд метро въезжает на платформу с громким гудком.
 
-# Original: Past the windows I see... a subway car filled to the brim with purple shadows.
+# Narrator: Past the windows I see... a subway car filled to the brim with purple shadows.
 Рассказчик: За окнами я вижу... вагон метро, заполненный до краёв фиолетовыми тенями.
 
-# Original: ... Shadows in the shape of the Sinners.
+# Narrator: ... Shadows in the shape of the Sinners.
 Рассказчик: ... Тенями в форме Грешников.
 
-# Original: Huh... That's... that's a lot of 'em.
+# Gregor: Huh... That's... that's a lot of 'em.
 Грегор: Хах... Это же... их тут целая куча.
 
-# Original: Ugh... I think I recognized like three shadows that look just like me...
+# Sinclair: Ugh... I think I recognized like three shadows that look just like me...
 Синклер: Угх... Кажется, я узнал около трёх теней, которые выглядят точно как я...
 
-# Original: That ridiculous sight was enough to stop us all dead in our tracks, allowing the Peccatulum to board the subway car...
+# Narrator: That ridiculous sight was enough to stop us all dead in our tracks, allowing the Peccatulum to board the subway car...
 Рассказчик: Этого абсурдного зрелища было достаточно, чтобы остановить нас всех на месте, позволяя Пеккатуле сесть в вагон метро...
 
-# Original: And the door shut behind him.
+# Narrator: And the door shut behind him.
 Рассказчик: После чего дверь захлопнулась за ним.
 
-# Original: I sense... aught in the way of disquietude from this Refraction Railway.
+# Yi Sang: I sense... aught in the way of disquietude from this Refraction Railway.
 И Сан: Я чувствую... нечто вроде беспокойства от этой Железной Дороги Преломления.
 
-# Original: Fellas, there's another one coming this way!
+# Gregor: Fellas, there's another one coming this way!
 Грегор: Ребята, сюда едет ещё один!
 
-# Original: As soon as the subway train carrying the Peccatula leave the station, a new one begins to roll in.
+# Narrator: As soon as the subway train carrying the Peccatula leave the station, a new one begins to roll in.
 Рассказчик: Как только поезд метро, перевозящий Пеккатул, покидает станцию, ещё один начинает подъезжать.
 
-# Original: To my relief, this one doesn't look like it's packed to the brim with shadow people.
+# Narrator: To my relief, this one doesn't look like it's packed to the brim with shadow people.
 Рассказчик: К моему облегчению, этот не выглядит так, будто он набит до отказа теневыми людьми.
 
-# Original: <But... what is that?>
+# Dante: <But... what is that?>
 Данте: <Но... что это?>
 
-# Original: <There are curtains, and... masks? I don't remember seeing anything like that on the last Railways we challenged.>
+# Dante: <There are curtains, and... masks? I don't remember seeing anything like that on the last Railways we challenged.>
 Данте: <Там занавески и... маски? Я не помню, чтобы видел что-то подобное на последних Железных Дорогах, которые мы проходили.>
 
-# Original: How uninspired.
+# Ryōshū: How uninspired.
 Рёшу: Как неоригинально.
 
-# Original: Hey, I didn't notice it earlier 'cuz of all that mess with clones and everything, but... doesn't that train look much more elaborate than what we've seen before?
+# Rodion: Hey, I didn't notice it earlier 'cuz of all that mess with clones and everything, but... doesn't that train look much more elaborate than what we've seen before?
 Родион: Эй, я не заметила этого раньше из-за всей этой суматохи с клонами и всем прочим, но... разве этот поезд не выглядит гораздо более изысканным, чем те, что мы видели раньше?
 
-# Original: Right~ It's adorned with all kinds of decorations.
+# Hong Lu: Right~ It's adorned with all kinds of decorations.
 Хон Лу: Верно~ Он украшен всевозможными декорациями.
 
-# Original: Just as the Sinners were gawking at the ostentatiousness that was this train, something burst forth from the train car door.
+# Narrator: Just as the Sinners were gawking at the ostentatiousness that was this train, something burst forth from the train car door.
 Рассказчик: Как раз когда Грешники таращились на вычурность этого поезда, что-то вырвалось из двери вагона.
 
-# Original: Aah-woagh! H-huh, did that thing just roll out a carpet for us...?
+# Sinclair: Aah-woagh! H-huh, did that thing just roll out a carpet for us...?
 Синклер: Аа-воах! Х-хм, это что, эта штука только что развернула для нас ковёр...?
 
-# Original: <It's like something's inviting us in there...>
+# Dante: <It's like something's inviting us in there...>
 Данте: <Как будто что-то приглашает нас туда...>
 
-# Original: I ill like such manner of invitation...
+# Yi Sang: I ill like such manner of invitation...
 И Сан: Мне не нравится такого рода приглашение...
 
-# Original: I agreed with Yi Sang. This isn't an invitation I'm happy to jump at, but...
+# Narrator: I agreed with Yi Sang. This isn't an invitation I'm happy to jump at, but...
 Рассказчик: Я согласился с И Саном. Это не то приглашение, которому я рад сразу же последовать, но...
 
-# Original: ... I'm sure we'll face even worse things in our journey. I'll take every chance we get to strengthen the Sinners.
+# Narrator: ... I'm sure we'll face even worse things in our journey. I'll take every chance we get to strengthen the Sinners.
 Рассказчик: ... я уверен, что в нашем путешествии, мы столкнёмся с вещами ещё хуже. Я воспользуюсь каждым шансом, который у нас есть, чтобы усилить Грешников.
 
-# Original: <... Let's go.>
+# Dante: <... Let's go.>
 Данте: <... Пойдёмте.>
 
-# Original: I took my first steps onto the carpet...
+# Narrator: I took my first steps onto the carpet...
 Рассказчик: Я сделал свои первые шаги на ковёр...
 
-# Original: ... and boarded the subway train.
+# Narrator: ... and boarded the subway train.
 Рассказчик: ... и сел в вагон метро.

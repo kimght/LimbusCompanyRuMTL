@@ -1,494 +1,494 @@
-﻿# Original: Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks.
+﻿# Saude: Now… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks.
 Сод: Что же… В этой миссии мы, по сути, подадим вам всё на тарелочке с голубой каёмочкой. От вас лишь потребуется открыть рты пошире и проглотить свои простые задачи.
 
-# Original: Check the documents in this envelope, and do exactly, preciiiiisely as the papers say.
+# Saude: Check the documents in this envelope, and do exactly, preciiiiisely as the papers say.
 Сод: Прочтите документы из этого пакета и делайте прямо, в то-о-очности то, что в них прописано.
 
-# Original: The way Saude dragged out that vowel needled me a bit, but I decided not to argue.
+# Narrator: The way Saude patronizingly dragged out that vowel needled me a bit, but I decided not to argue.
 Рассказчик: То, как Сод протянула эту гласную, немного меня задело, но я предпочёл не возражать.
 
-# Original: Even if I did, the ticking of a clock would be all she’d hear.
+# Narrator: Besides, even if I did, all she'd hear would be the ticking of a clock.
 Рассказчик: Да и если бы я даже сделал это, то она всё равно бы услышала только тиканье часов.
 
-# Original: There’s not a lot of joining together at all in this “joint operation”, is there? You’re just telling us to follow from behind.
+# Gregor: There’s hardly any joining forces in this so-called "joint operation," is there? You’re basically ordering us to stick to your tail.
 Грегор: А не маловато ли в этой "совместной операции", собственно, самой совместной работы? Вы ж буквально говорите нам следовать гуськом за вами.
 
-# Original: This is insulting. Are they taking us for lubbers or what?
+# Ishmael: This is downright insulting. Are they taking us for pushovers or what?
 Измаил: Оскорбительно. Они нас за увальней что ли держат?
 
-# Original: Look, Manager, we’ve got to put our foot down and…
+# Ishmael: Look, Manager, we’ve got to put our foot down and…
 Измаил: Менеджер, послушайте, нам надо твёрдо встать на своём…
 
-# Original: And…
+# Ishmael: And…
 Измаил: И…
 
-# Original: …do as they say, I guess?
+# Ishmael: ... do as they say, I guess?
 Измаил: …пожалуй, послушаться их?
 
-# Original: <Huh?>
+# Dante: <Huh?>
 Данте: <Хах?>
 
-# Original: …The documents they gave us. They’re flawless.
+# Ishmael: ... The documents they gave us—they’re flawless.
 Измаил: …Документы, что они нам дали. Они безупречны.
 
-# Original: Look at this. It has routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous.
+# Ishmael: Look at this. There are routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous.
 Измаил: Взгляните. Тут полностью расписаны все варианты развития событий — вообще всё. Я уже целую вечность не видела настолько чёткого и тщательно проработанного плана.
 
-# Original: Mhm, surely. This is certainly indicative of their knowledge in writing up proper plans of operation.
+# Outis: Mhm, precisely. This is certainly indicative of their knowledge and experience in drafting proper plans of operation.
 Отис: Мхм, действительно. Это определённо свидетельствует о их познаниях в составлении надлежащих планов для операции.
 
-# Original: Ah, this isn’t to say that it holds a candle to the level of forethought you display, Manager.
+# Outis: Ah, this isn’t to say that it holds a candle to the level of forethought you display, Executive Manager.
 Отис: Ах, но они, разумеется, и рядом не стоят с продемонстрированным Вами уровнем предусмотрительности, менеджер.
 
-# Original: Convinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation.
+# Narrator: Convinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation.
 Рассказчик: Убеждённый похвалой Измаил, я открыл пакет и внимательно прочёл сводку операции.
 
-# Original: The goal could be summarized as the following:
+# Narrator: Put simply, the objective of the mission could be summed up as follows:
 Рассказчик: Резюмируя цели, мы бы пришли к следующему:
 
-# Original: ‘Reach the top floor of the casino.’
+# Narrator: "Operation Reach-the-Top-Floor."
 Рассказчик: <i>"Добраться до верхнего этажа казино."</i>
 
-# Original: The main reason behind organizing this plan was the first-place prize for the table game to be held today.
+# Narrator: What really motivated the plan was the first-place prize up for grabs in today's table game.
 Рассказчик: Основной причиной организации всего этого плана стал главный приз, разыгрываемый сегодня за столом.
 
-# Original: According to the papers, winning the competition held on the top floor of the casino is the only way to gain access to the area with the Golden Bough.
+# Narrator: According to the briefing document, the only way to access the area containing the Golden Bough is to win the competition on the casino's top floor.
 Рассказчик: Согласно бумагам, единственным способом попасть на территорию с Золотой ветвью была победа в игре, проводимой на верхнем этаже.
 
-# Original: Four Syndicates that jointly bid on the casino will be playing in this game of chance…
+# Narrator: The game will bring together four Syndicates that jointly bid on the casino,
 Рассказчик: В этой азартной игре ставки поставят четыре синдиката…
 
-# Original: Of the four… We will be using the name of the infamous…
+# Narrator: and of those four, the name we are to take is that of the infamous...
 Рассказчик: И из четырёх… Мы возьмём имя самой бесславной…
 
-# Original: <Tingtang Gang?>
+# Dante: <Tingtang Gang?>
 Данте: <Банда «Бом-боб»?>
 
-# Original: A name doesn’t necessarily reflect the nature of an organization. That’s a shallow prejudice.
+# Faust: A name doesn’t necessarily represent the nature of an organization. Believing otherwise is nothing more than shallow prejudice.
 Фауст: Название не обязано отражать суть организации. Это простые предрассудки.
 
-# Original: It is unideal for one to choose to see things through the tinted lens that is bias.
+# Yi Sang: It is unideal for one to choose to see things through the tinted lens that is bias.
 И Сан: Это так неидеально – смотреть на мир через тонированные линзы предвзятости.
 
-# Original: <…Right.>
+# Dante: <... Right.>
 Данте: <…И то правда.>
 
-# Original: …Back to the plan, we’ll disguise as the boss of the ‘Tingtang Gang’ and win that game of chance.
+# Narrator: ... Anyway, back to the plan: masquerade as the boss of the "Tingtang Gang" and win the gamble.
 Рассказчик: …Возвращаясь к плану — мы займём место босса банды «Бом-боб» и примем участие в игре.
 
-# Original: Afterwards, we have to go to the underground floors where the Golden Bough lies.
+# Narrator: Afterward, proceed to the underground floors to find the Golden Bough.
 Рассказчик: После, мы спустимся на подземные этажи, где и покоится Золотая ветвь.
 
-# Original: Leading up to the game, we’ll use the items and clothing we can find in pawnshops to disguise as our given roles, enter the casino, and wait for the team on the top floor to win the game.
+# Narrator: Until then, we are to make use of the pawnshop's items and clothing to slip into the casino undercover, blend in as either a VIP patron or a dealer per our assigned roles, and wait for the top-floor team to win the game and give the go-ahead.
 Рассказчик: До начала игры же мы воспользуемся одеждой и вещами, которые сможем найти в ломбардах, чтобы вжиться в выданные нам роли, войти в казино и дождаться, пока команда на верхнем этаже не победит в игре.
 
-# Original: That’s about it for the outline of this plan, I think…
+# Narrator: That’s about it for the outline of this plan, I think…
 Рассказчик: Думаю, на этом обрисовка плана заканчивается…
 
-# Original: Hey, wait a second. Won’t this entire thing fall apart if our player doesn’t win?
+# Narrator: No, hold on... Won’t this entire thing fall apart if our player loses the game?
 Рассказчик: Эй, секунду. Разве это всё не пойдёт на смарку, если наш игрок проиграет?
 
-# Original: We’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors.
+# Saude: We’ve prepared fake identification as well—just in case the casino security decides to run random inspections on visitors.
 Сод: Мы подготовили и поддельные удостоверения личностей. На случай, если охрана казино решит провести выборочную проверку посетителей.
 
-# Original: Alright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?
+# Gregor: Sure, that’s all fine and dandy… But how do you plan to win that game on the top floor?
 Грегор: Ладно, это всё, конечно, классно и до блеска вылизано… Но каким образом вы собираетесь выиграть на верхнем этаже?
 
-# Original: What do you think our outfits are for?
+# Effie: What do you think these getups are for?
 Эффи: А ты думаешь почему мы так вырядились?
 
-# Original: We practiced for months to pass off as bona fide croupiers.
+# Effie: We practiced for months to pass off as bona fide croupiers.
 Эффи: Мы месяцами тренировались, чтобы сойти за настоящих крупье.
 
-# Original: We’ll give you good luck. The game is in your bag, all you need is a pair of functioning eyes.
+# Effie: We'll make sure the winning hands come your way. The game's already in the bag—all you need is a working pair of eyes.
 Эффи: Мы вам поможем. Игра уже у вас в кармане, потребуется только пара функционирующих глаз.
 
-# Original: Effie mumbled the last part to himself again while casting a sidelong scowl at our group.
+# Narrator: "Yeah, a <i>working</i> pair of eyes," Effie repeated under his breath, giving us a brief but pointed side-eye.
 Рассказчик: Эффи ещё раз пробубнил последнюю часть себе под нос, бросив косой хмурый взгляд на нашу группу.
 
-# Original: He’s making it painfully obvious he has no faith in us.
+# Narrator: He’s making it painfully obvious he has zero faith in us.
 Рассказчик: Он всем своим видом показывает, что не верит в нас.
 
-# Original: And how are we gonna take the place of the Tingtang Gang’s boss?
+# Gregor: And how exactly are we gonna take the place of the Tingtang Gang’s boss?
 Грегор: И как вы планируете потеснить босса банды «Бом-боб»?
 
-# Original: We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef.
+# Saude: We’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef.
 Сод: Мы подсыпем снотворное в еду из казино. Детали с шеф-поваром уже улажены.
 
-# Original: Sedatives…
+# Yi Sang: Sedatives…
 И Сан: Снотворное…
 
-# Original: Saude and Effie winked at each other.
+# Narrator: Saude and Effie shot each other a knowing wink.
 Рассказчик: Сод и Эффи подмигнули друг другу.
 
-# Original: It was a gesture demonstrating that the two were ideal partners, able to tell each other’s thoughts just from exchanging glances.
+# Narrator: That brief exchange alone spoke volumes—it was clear that they considered themselves the perfect duo who needed no words to understand one another.
 Рассказчик: Этот жест был словно отражением того, что эти двое были идеальными партнёрами, способными прочитать мысли друг друга лишь мельком переглянувшись.
 
-# Original: Hey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~
+# Saude: Sir~ you wouldn't mind if we took a look at the items on display, would you? From this side to <i>all the way</i> over there.
 Сод: Эй, дорогой ростовщик~ Мы бы взглянули на товар с этой и вон той витрин~
 
-# Original: Hyes? Oh! No yeah, sure, of course. Please take your time, ma’am.
+# Pawnbroker: Yes? Oh! Sure, sure. Take all the time you need, ma'am!
 Ростовщик: Уэ? Ох! Ага, да, разумеется. Минуточку, мэм.
 
-# Original: The pawnbroker’s attitude took a sharp turn from disdainful to kowtowing.
+# Narrator: In a heartbeat, the pawnbroker's disdain melted into kowtowing. The old man bowed so deeply that his head was almost level with the floor.
 Рассказчик: Ростовщик резко переменился в лице, начав пресмыкаться.
 
-# Original: Now then, let’s take what we need from the display.
+# Saude: Now then, let’s take what we need from the display.
 Сод: Ну что ж, возьмём то, что нам может понадобиться.
 
-# Original: Oh my! This is a Guppcha Designer Brooch, isn’t it?
+# Hong Lu: Oh my! This one here—it's a Guppcha Designer Brooch, isn't it?
 Хон Лу: О боже! Это же дизайнерская брошь Гупча?
 
-# Original: Hyah~ What discerning eyes you have there, sir. This beaut is the mainstay of our shop’s catalogue. Only 10 of those were ever made, so its worth is positively un­—
+# Pawnbroker: Ah! You've truly got the eyes of a connoisseur, sir. This piece is our shop's pride and joy. Only 10 were ever made, so it's no surprise that people are willing to pay whatever price is called fo—
 Ростовщик: Да~ А у вас глаз намётан, сэр. Эта красота — достояние нашего магазина. Таких брошей было произведено всего десять штук, так что она невероятно це—
 
-# Original: My dog used to have one of these on its collar whenever we took it out for walkies. It’s so nice to see something that brings back pleasant memories!
+# Hong Lu: My dog used to have one of these on its collar whenever we took it out for walkies. It’s so nice to see something that brings back pleasant memories!
 Хон Лу: Моя собачка носила такую же на ошейнике, когда мы с ней выходили на прогулки. Так приятно увидеть что-то подобное, навевает приятные воспоминания!
 
-# Original: ……
+# Pawnbroker: ……
 Ростовщик: ……
 
-# Original: I’m down for these cowhide gloves. Whoever had ‘em must’ve been a fashionista~
+# Rodion: I’m down for these cowhide gloves. Whoever had ‘em must’ve been a fashionista~
 Родион: Согласна на эти воловьи перчатки. Уж не знаю, чьи они были, но выглядят весьма моднявенько~
 
-# Original: Please take items that suit what’s written in the envelopes. You have roles to play.
+# Saude: Please stick to the items listed in the envelopes. You have roles to play.
 Сод: Пожалуйста, берите только то, что подходит тому, что было указано в пакетах Придерживайтесь своих ролей.
 
-# Original: Pardon, but the envelope I have received says “janitor”, this must be an error of some sort!
+# Don Quixote: Prithee, the envelope I have received sayeth “janitor.” Surely this is a most grievous error!
 Дон Кихот: Извините, но на пакете, полученном мною, написано "уборщик", это, должно быть, какая-то ошибка!
 
-# Original: Okay, it’s good and all, but… Do you have the money to pay for all this?
+# Gregor: Okay, it’s good and all, but… Do you have the money to pay for all this?
 Грегор: Ладно, это всё, конечно, славно… Но они-то смогут за нас заплатить?
 
-# Original: Worrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’.
+# Effie: That kind of hand-wringing over budget's way above your pay grade, isn't it? Don't stress. One swipe of this "Black Card" can buy you anything you can imagine.
 Эффи: Печёшься о расходах? Ты нас за второсортных наёмников что ли принимаешь? Я могу себе ни в чём не отказывать с этой "чёрной картой".
 
-# Original: Dante! What’s this about?! You told me we can’t have prime beef ‘cause we don’t have the budget!
+# Rodion: Dante! You've got some explaining to do! I remember you telling me we can’t have prime-cut beef ‘cause we don’t have the budget!
 Родион: Данте! Как это понимать?! Ты же мне говорил, что мы не можем заказать первоклассного мясца потому, что у нас бюджет по нулям!
 
-# Original: So the rumors were true that teams with notable performance are given a company card with no spending limit.
+# Faust: So the rumors were true—teams with standout performance are issued no-limit cards.
 Фауст: Видимо, слухи о том, что командам с выдающимися результатами выделяют корпоративные карты без ограничения расходов, оказались правдой.
 
-# Original: While everyone was shocked by the proven existence of the fabled Black Card…
+# Narrator: While everyone was shocked by the proven existence of the fabled Black Card…
 Рассказчик: Пока все были шокированы доказательством существования чёрной карты…
 
-# Original: A loud voice came from outside.
+# Narrator: A loud voice boomed in from outside the shop.
 Рассказчик: Снаружи донёсся громкий голос.
 
-# Original: Oi, dotard! Didn’t I say ya payment was due today?
+# Rustic-sounding Tingtanger: Heya, old fart! Didn’t I say ya payment was due today?
 Член банды Бом-бом: Эй, маразматик! Я те разве не говорил, что платить сёдня надо?
 
-# Original: Someone who clearly belongs to a vicious Syndicate entered the pawnshop.
+# Narrator: A man who, even at first glance, clearly belonged to a vicious Syndicate swaggered into the pawnshop.
 Рассказчик: Кто-то, явно относящийся не к самому дружелюбному синдикату, зашёл в ломбард.
 
-# Original: P-Please… give me one more chance. I swear I’ll have the money ready.
+# Pawnbroker: P-please… give me one more chance. I swear I’ll have the money ready the next time you visit.
 Ростовщик: П-пожалуйста… дайте отсрочку. Клянусь, я разыщу деньги.
 
-# Original: One more? Can’t ya do basic math? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?
+# Rustic-sounding Tingtanger: One more chance? Can’t ya do basic math, ya old coot? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?
 Член банды Бом-бом: Ещё одну? В математике не сечёшь? Каждый раз одно и то ж городишь! Босс не будет в восторге от того, что я на такую чепуху время трачу, ясно?
 
-# Original: I-I’m just a frail old man standing on doddery feet, there’s really nothing you’ll get out of shaking me down…!
+# Pawnbroker: I-I’m just a weak, frail old man. There’s really nothing you’ll gain by shaking me down...!
 Ростовщик: Я-я немощный старичок на дряхленьких ножках, в-вам всё равно нечего будет у меня забрать…!
 
-# Original: Pleading with an overtly loud voice, the pawnbroker looked at us.
+# Narrator: Pleading in an exaggeratedly loud voice, the pawnbroker flicked a glance at us from the corner of his eye.
 Рассказчик: Умоляя нарочито громко, ростовщик посмотрел на нас.
 
-# Original: Eh? Ya talking back now? Yeah, go on then, get mad! I won’t feel so guilty that way!
+# Rustic-sounding Tingtanger: Eh? Got a mouth on ya now, do ya? Yeah, that's it—lose ya shit and show me what ya can do! It'll make me feel a whole lot less guilty about havin' to do this to ya!
 Член банды Бом-бом: Э? Дерзить удумал? Ну, лады, раздраконил! Даже вмазать тебе уже не стыдно!
 
-# Original: In a way, he looked like he was covertly begging us to help him, based on his expression.
+# Narrator: The way the old man looked at us seemed to waver between outright frustration and an unspoken demand for immediate assistance.
 Рассказчик: Судя по его выражению лица, казалось, что он молит нас о помощи.
 
-# Original: The Sinners’ attention was naturally drawn to the ongoing row.
+# Narrator: All the noise of the ongoing row now began to draw the attention of the Sinners.
 Рассказчик: Грешники же, разумеется, с головой погрузились в разворачивающийся перед ними скандал.
 
-# Original: What’re ya lookin’ at? Ya think I’m playing?!
+# Rustic-sounding Tingtanger: The hell ya lookin' at? Mind your own business!
 Член банды Бом-бом: На чё вылупились? Думаете шучу?
 
-# Original: Gee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?
+# Ishmael: Wow... that was so cliché that I couldn’t even be bothered to reply. Would it kill for these dicks to be creative for once?
 Измаил: Боже… Так заезженно, что аж отвечать не хочется. Почему люди так неизобретательны в разбрасывании колкостями?
 
-# Original: Shouldn’t we… help out, maybe?
+# Sinclair: Shouldn't we help out...? Maybe...?
 Синклер: Может… нам как-то помочь?
 
-# Original: Unlike Ishmael, who scoffed at the goon, Sinclair anxiously glanced over.
+# Narrator: Unlike Ishmael, who scoffed at the goon without a care, Sinclair turned an anxious glance his way.
 Рассказчик: В отличии от Измаил, посмеивающейся над бандитом, Синклер оглядывался с тревогой.
 
-# Original: We have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society.
+# Saude: It is what it is. The Backstreets play by their own rules, and that's what maintains the complex web of their society.
 Сод: Тут мы бессильны, у Подворотен свои порядки и устои. Нам лучше не тревожить хитросплетения их общества.
 
-# Original: Outsiders like us will only cause a bigger scene if we try to step in.
+# Saude: Outsiders like us will only cause a bigger scene if we try to step in.
 Сод: Чужаки, вроде нас, сделают только хуже, если попытаются вмешаться.
 
-# Original: Pleased by the Sinners choosing to stay away, the goon continued with the extortion.
+# Narrator: Satisfied by the Sinners' decision to stay out of it, the goon carried on with the shakedown.
 Рассказчик: Довольный, что Грешники предпочли остаться в стороне, бандит продолжил вымогательство.
 
-# Original: Hmph, if y’ain’t got money, why don’t ya pay your dues in that instead? We keep telling you.
+# Rustic-sounding Tingtanger: Hmph, if y’ain’t got money, why don’t ya pay your dues another way instead? Not the first time we gave ya the chance.
 Член банды Бом-бом: Хпф, коль бабок нет, может расплатишься тем самым? С тобой уже базарили об этом.
 
-# Original: A-Anything but that… Please…
+# Pawnbroker: A-anything but that... I'm begging you!
 Ростовщик: Ч-что угодно, но только не… Пожалуйста…
 
-# Original: <…Is it really okay to leave them be?>
+# Dante: <... Are we really going to leave them be?>
 Данте: <…Нам точно надо пускать это на самотёк?>
 
-# Original: Shall I settle the dispute for them so it does not bother you, Manager?
+# Outis: May I step in if this situation displeases you, Executive Manager?
 Отис: Мне урегулировать спор за них, чтобы он вас не беспокоил, менеджер?
 
-# Original: What does that toughster mean by “that”, anyway?
+# Gregor: Anyhow... what did that thug mean by "another way"?
 Грегор: А что вообще этот громила подразумевал под "тем самым"?
 
-# Original: …A currency more valuable than money exists in this District.
+# Faust: ... A currency more valuable than money exists in this District.
 Фауст: …В этом Районе существует куда более ценная валюта, нежели деньги.
 
-# Original: It’s well known that J Corp’s Singularity is a powerful security technology capable of locking anything.
+# Faust: It is a known fact that J Corp.’s Singularity is a powerful security technology capable of locking anything.
 Фауст: Общеизвестно, что сингулярность корпорации J – мощная защитная технология, способная запереть что угодно.
 
-# Original: What is less known, however, is the extensive cultural and historical background of the Backstreets of Nest J that lead to the Singularity’s creation.
+# Faust: What is less known, however, is the extensive cultural and historical background of the corporation's Backstreets that has led to the Singularity’s creation.
 Фауст: Однако, мало кто знает, что к созданию сингулярности привела широкая культурно-историческая подоплёка Подворотен Гнезда J.
 
-# Original: H, history…? Are you seriously about to lecture us here and now…? I was never told about any mandatory education when I joined this company!
+# Heathcliff: H-history…? You really gonna start lecturin' us right now, right here? I didn't sign up for a bloody school!
 Хитклиф: И-историческая…? Ты нам реально щас начнёшь лекцию зачитывать…? Меня при найме в компанию ни о каком получении образования не предупреждали!
 
-# Original: In spite of the opposition, Faust went on with her explanation.
+# Narrator: In spite of Heathcliff's heated opposition, Faust went on with her explanation.
 Рассказчик: Не придав возражениям никакого значения, Фауст продолжила своё объяснение.
 
-# Original: Here, a technology exists to extract ‘wishpower’ from people.
+# Faust: Here in J Corp., they utilize a technology to extract something called "Wishpower" from people.
 Фауст: Так вот, существует технология, извлекающая "силу желаний" из людей.
 
-# Original: Though it’s not widely known outside this District since it didn’t quite have the generality to be recognized as a Singularity.
+# Faust: However, it remains largely unknown beyond this District as it lacks sufficient generality to be classified as a Singularity.
 Фауст: Впрочем, она не получила такой широкой известности за пределами этого Района ввиду того, что не обладает достаточной мощностью, чтобы быть признанной как сингулярность.
 
-# Original: In essence, it’s processing ‘luck’ into a commodity that can be traded. Like a form of money.
+# Faust: In simpler terms, it is a way to process "luck" into a commodity that can be traded like currency.
 Фауст: По сути, она преобразовывает "удачу" в оборачиваемый товар. Своего рода форму денег.
 
-# Original: It brought forth the need for a way to stop others from forcibly extracting this wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today.
+# Faust: The existence of such a technology consequently brought forth the need for a means to stop others from forcibly extracting Wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today.
 Фауст: Это породило необходимость противодействовать насильственному извлечению силы желаний, приведя к созданию охранной технологии, которая, в конечном счёте, стала известной нам сингулярностью.
 
-# Original: Gee-wee, Faust~ Must be tiring having to teach these dunces in ways they can get it.
+# Effie: Gee-wee, Faust~ Must be tiring, having to dumb everything down for these thickheads.
 Эффи: Боже, Фауст~ Разжёвывать всё этим тугодумам, должно быть, крайне утомительно.
 
-# Original: It’s fine, this was within my anticipated scenario.
+# Faust: It’s fine. This was well within my anticipated scenario.
 Фауст: Не переживай, это в рамках моего спрогнозированного сценария.
 
-# Original: I don’t like the way you say that…
+# Heathcliff: The way you're talking is proper pissin' me off.
 Хитклиф: Не нравится мне как ты об этом говоришь…
 
-# Original: Come on now, gather the items to help with your disguises so we can leave.
+# Saude: All right, pick out the items you need from the display and let's get out of here.
 Сод: Так, берите всё, что надо для маскировки, и мы пойдём отсюда.
 
-# Original: Saude flapped the document full of scheduled plans to emphasize that we’d be busy.
+# Narrator: Saude waved the schedule-packed document at us as if to make a point that we had no time to spare.
 Рассказчик: Сод помахала документом, исписанным чёткими планами, будто подчёркивая, что у нас не так много времени.
 
-# Original: We’re salaried workers, not “heroes” fighting for justice.
+# Saude: We’re salaried workers, not “heroes” fighting for justice, okay?
 Сод: Мы наёмные рабочие, а не борющиеся за справедливость "герои".
 
-# Original: <Wait… Not that word…!>
+# Dante: <Wait… Not that word…!>
 Данте: <Погоди-ка… <b>Только не это…!</b>>
 
-# Original: A bad feeling rushing through my head prompted me to count the Sinners I could see.
+# Narrator: A sudden flash of dread rushed through my mind, urging me to make sure that every Sinner was in my sight.
 Рассказчик: Дурное предчувствие, пронёсшееся сквозь моё сознание, заставило меня пересчитать всех грешников в поле моего зрения.
 
-# Original: <That… does not align with a certain someone’s… beliefs…>
+# Dante: <That... isn't exactly in step with a certain someone's... principles...>
 Данте: <Это… не сходится… с кое-чьими убеждениями…>
 
-# Original: And it’s one that would severely provoke her principles…!
+# Narrator: And it’s the kind of thinking that would severely provoke her!
 Рассказчик: И это идёт вразрез её принципам…!
 
-# Original: …!
+# Ishmael: …!
 Измаил: …!
 
-# Original: Ishmael seems to have noticed what I meant, and hurriedly looked around.
+# Narrator: Ishmael seems to have noticed what I meant and hurriedly looked around.
 Рассказчик: Измаил, кажется, догадалась о чём я думал, и быстро оглянулась.
 
-# Original: Thou darest try to pilfer the valuables of others? This behavior can only be seen as wholehearted villainy!
+# Don Quixote: Dost thou presume to purloin the treasures of others? Verily, this deed is naught but utter villainy!
 Дон Кихот: Как смеешь ты красть чужие ценности? Сей поступок — это неоспоримое злодейство!
 
-# Original: <Oh no…! Don Quixote…!>
+# Dante: <Oh no…! Don Quixote…!>
 Данте: <О нет…! Дон Кихот…!>
 
-# Original: But it was a moment too late.
+# Narrator: I tried to stop her, but it was a moment too late.
 Рассказчик: Но было уже слишком поздно.
 
-# Original: Don Quixote had already sprinted forward and was swinging her lance at the Tingtanger who gripped the pawnbroker by the collar.
+# Narrator: Don Quixote had already bolted forward, swinging her lance at the Tingtanger who was gripping the pawnbroker by the collar.
 Рассказчик: Дон Кихот уже рванула вперёд и замахнулась своим копьём на Бом-бобовца, державшего ростовщика за грудки.
 
-# Original: WHACK!
+# Narrator: <i>BONK!</i>
 Рассказчик: БАМ!
 
-# Original: Caught completely unaware, the goon was hit right on the head with the blunt side of her lance.
+# Narrator: She caught the goon completely off-guard, and the blunt end of her lance struck him squarely on the head.
 Рассказчик: Застигнутого врасплох бандита ударили тупой стороной копья прямо по голове.
 
-# Original: Knocked out on the floor in a frisky swing, the fainted goon became the center of attention for all of us inside the pawnshop for a solid minute.
+# Narrator: He dropped to the floor with a discordantly whimsical smack, and everyone in the pawnshop watched his unconscious heap for a solid minute.
 Рассказчик: Вырубившийся от резкого удара и распластавшийся по полу бандит на целую минуту стал центром внимания всех находившихся в ломбарде.
 
-# Original: ……
+# Saude: ……
 Сод: ……
 
-# Original: Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here.
+# Faust: Ah, for your information, keeping the Sinners in check is not part of my job description. That would be the responsibility of <i>this</i> employee.
 Фауст: Ах, к вашему сведению, контролировать грешников не входит в мои должностные обязанности. Этим должен заниматься он.
 
-# Original: <Don’t give me that look. There’s nothing in my abilities to keep her under control…>
+# Dante: <Don’t give me that look. What was I even supposed to do there...?>
 Данте: <Не смотрите на меня так. Я ничегошеньки не могу сделать, чтобы держать её в узде…>
 
-# Original: I couldn’t stop myself from defending my position even when I was aware that my voice wouldn’t reach anyone besides the Sinners.
+# Narrator: I knew my words—my voice—wouldn't carry beyond the Sinners, but that didn't stop me from arguing my case anyway.
 Рассказчик: Я не мог прекратить отстаивать свою позицию, даже осознавая, что мой голос никто, кроме грешников, не услышит.
 
-# Original: Oh well. It’s not like my defense would’ve made them look any less baffled towards me if they could hear it.
+# Narrator: Then again, even if Saude and Effie could hear me protest, I doubt it would've done anything to mitigate their slack-jawed bafflement.
 Рассказчик: Ладно. Даже если бы они могли слышать мои оправдания, кажется, это бы не сделало их менее озадаченными в мой адрес.
 
-# Original: Oooh…!
+# Pawnbroker: Oooh…!
 Ростовщик: О-о-ох…!
 
-# Original: The pawnbroker was the only one chuffed by this turn of events.
+# Narrator: The pawnbroker was the only one delighted by this turn of events.
 Рассказчик: Только ростовщик был доволен таким развитием событий.
 
-# Original: Great work, ma’am. Serves that hooligan right! But I’ll say, you could’ve whopped ‘em a tad harder, maybe.
+# Pawnbroker: Hah! Serves him right! But I've gotta say, you could've smacked his head a tad harder.
 Ростовщик: Отличная работа, мэм. Так этому хулигану и надо! Но скажу, что могли и посильнее бы его огреть.
 
-# Original: Vergilius advised me that while I am free to deliver justice unto villains, I must do so without unduly involving irrevelants in our mission! Thus, I showed moderation!
+# Don Quixote: Vergilius did counsel me that though I am free to mete out justice upon villains, I must do so without involving those who are irrelevant to the mission! 'Tis why I did temper my hand!
 Дон Кихот: Вергилий предостерёг меня, что пусть я и вольна вершить правосудие над злодеями, я должна воздержаться от чрезмерно неуместных для нашей миссии действий! Сим образом я проявила сдержанность!
 
-# Original: Her proud expression never looked so provoking.
+# Narrator: That self-satisfied, proud look on her face grated on my nerves like never before.
 Рассказчик: Её гордое выражение лица ещё никогда не выглядело настолько вызывающим.
 
-# Original: <Uh-huh. So you remembered his words and still leapt forward?>
+# Dante: <Uh-huh. So you knew exactly what he told you and still went charging in anyway?>
 Данте: <Ух-хах. То есть, ты держала его слова в уме и всё равно влезла?>
 
-# Original: ‘Twas a necessary action to stay true to my creed. Please understand my virtuous violence!
+# Don Quixote: Verily, 'twas a deed compelled by mine own creed. I beseech thee to understand the virtue in this act of violence!
 Дон Кихот: Сие было необходимо, чтобы остаться верной своему кредо! Пожалуйста, поймите мою добродетельную жестокость!
 
-# Original: Not to kill the mood, but… That ruffian isn’t actually dead, right?
+# Pawnbroker: Not to kill the mood, but… That ruffian isn’t actually dead, is he...?
 Ростовщик: Не хочу вас расстраивать, но… Этот негодяй же не мёртв, так?
 
-# Original: I thought you wanted her to get straight to wallops, old sport?
+# Gregor: Pretty sure you wished he'd gotten it worse back there, old man.
 Грегор: Я думал, что ты хотел, чтобы она его чуть ли не по стенке размазала, старина?
 
-# Original: I did, I did… But things would get fairly complicated if the Yurodiviye showed up, you know.
+# Pawnbroker: I did, I did… But it'd cause me problems in more ways than one if the Yurodiviye got mixed up in this.
 Ростовщик: Конечно, конечно… Но если вдруг объявятся Юродивые, то дело будет плохо.
 
-# Original: The Yurodiviye? What are they doing here… No, forget that, why are you worrying about them?
+# Rodion: The Yurodiviye? What would they show up here...? No, wait—why are you even worried about them in the first place?
 Родион: Юродивые? Что они тут забыли… Ладно, забудьте, почему они вас так беспокоят?
 
-# Original: Not up to date with the news, are you, ma’am? They’ve been causing trouble here for months now.
+# Pawnbroker: Not up to date with the news, are you, ma’am? They’ve been causing trouble here for months now.
 Ростовщик: Вы новостей не слышали, мэм? Они уже несколько месяцев кошмарят тут всех.
 
-# Original: Are they villains as well?!
+# Don Quixote: Are they villains as well?!
 Дон Кихот: Не уж-то и они злодеи?!
 
-# Original: Oh, they’re villains to us humble merchants for sure. They were going on about, what was it, roughing up greedy peddlers keeping money to themselves, and giving it to those who need it. Distributing something, they said…
+# Pawnbroker: Oh yes, they're villains all right to small-time shopkeepers like us. They're always going on about, what was it? Shaking down money-grubbing merchants and giving the take to people in need. Some kind of "distribution," they called it...
 Ростовщик: О, для нас, скромных купцов, они те ещё злодеи. Болтают как славно бы было избить жадин-торговцев, гребущих деньги лишь для себя, и раздать их тем, кто в них нуждается. Распределение чего-то, что-то в этом вроде…
 
-# Original: The redistribution of wealth.
+# Meursault: The redistribution of wealth.
 Мерсо: Перераспределение богатств.
 
-# Original: Aah~ That’s it, yes. Those scoundrels are robbing us poor saps of what little wealth we have. And they don’t even do the dirty work themselves, it’s always the local brutes they send. Can you believe it?
+# Pawnbroker: Aah~ That’s it, yes. Those scoundrels are robbing us poor saps of what little wealth we have. And they don’t even do the dirty work themselves—it’s always the local brutes they send. Can you believe it?
 Ростовщик: А-а-а~ Да-да, именно оно. Эти мерзавцы отнимают у нас, бедняков, то немногое, что у нас есть. Они даже не сами этим занимаются, а посылают местных бандитов делать за них всю грязную работу. Представляете?
 
-# Original: Anyhoo, life has been hard for us because of those self-righteous bunches. Looked like they were here to find something at first, but all they do now is squeeze money outta us…
+# Pawnbroker: Life's been hard for us with those self-righteous thugs turning the streets upside-down. It seemed like they were here searching for something at first, but all they do now is squeeze money outta us...
 Ростовщик: Нам в любом случае приходится несладко из-за этих самодовольных банд. Поначалу казалось, что они пришли сюда в поисках чего-то, а по итогу начали выжимать из нас день…
 
-# Original: …Ah! I-I just realized, shouldn’t we take our leave now? More toughies from the Tingtang Gang might be coming this way.
+# Rodion: … Ah! I-I just realized, shouldn’t we be taking off now? More Tingtang Gang bruisers could be headed this way.
 Родион: …А! Я-я тут только что подумала, а не пора ли нам уходить? А то сюда наверняка сейчас вломятся ещё громилы из банды «Бом-боб».
 
-# Original: It seemed like Rodya deliberately cut off the pawnbroker in a hurry, but I had little time to think about the implications.
+# Narrator: It seemed like Rodya deliberately cut off the pawnbroker in a hurry, but I had little time to think about the whys and wherefores.
 Рассказчик: Кажется, Родя специально в спешке перебила ростовщика, но у меня не было времени на то, чтобы оценить последствия.
 
-# Original: The gang member Don Quixote had knocked out began to flinch as though to get back up soon.
+# Narrator: The gang member Don Quixote had knocked out started to twitch. Clearly, he wasn't going to be out for much longer.
 Рассказчик: Член банды, которого вырубила Дон Кихот, зашевелился, будто пытаясь встать.
 
-# Original: Sigh, what a hassle… You’re making the problem bigger than it had to be.
+# Effie: *sigh* What a headache... Now you made the problem bigger than it had to be.
 Эффи: Эх, ну и морока… Как вы только умудряетесь делать ситуации всё хуже и хуже.
 
-# Original: Hey, Muffin and Sablé, was it? Don’t be so tart now. There are plenty of pawnshops around here, right? We can always find a different—
+# Gregor: Hey, Muffin and Sablé, was it? Don’t be so tart now. There are plenty of pawnshops around here, right? We can always find another—
 Грегор: Эй, как вас там, Маффин и Сабле? Кончайте с колкостями. Тут же полно ломбардов, разве нет? Можем просто пойти в другой—
 
-# Original: It’s Effie and Saude. Please don’t mistake our names for confections.
+# Saude: It’s Effie and Saude. Please don’t mistake our names for confections.
 Сод: Вообще-то Эффи и Сод. Пожалуйста, не путай наши имена со сладостями.
 
-# Original: And your statement that there are plenty of pawnshops in the vicinity won’t mean much…
+# Saude: And yes, you're right in pointing out that there are plenty of pawnshops in the vicinity...
 Сод: А что касается твоего замечания, то толку от соседних ломбардов не будет, если…
 
-# Original: …When said pawnshops notice the trouble happening here and close…
+# Saude: ... but what you don't seem to get is that every last one of them will close up once they hear about what happened here.
 Сод: …Они заметят, что намечается какая-то заварушка, и позакрываются…
 
-# Original: <Don Quixote…!>
+# Dante: <Don Quixote…!>
 Данте: <Дон Кихот…!>
 
-# Original: I’m getting tired of lecturing these idiots on every little thing. We should just leave.
+# Effie: I’m getting fed up with having to spell every little thing out for these idiots. Let's just be on our way.
 Эффи: Я уже устал читать этим идиотам нотации за каждую мелочь. Нам пора идти.
 
-# Original: Right as I tried to leave, someone wearing similar thuggish clothes to the one we’d just knocked out—with a face that looked just as rough—stormed into the shop.
+# Narrator: Just as we were about to leave, a figure dressed much like the one we'd knocked out—with a face just as menacing—stormed into the shop.
 Рассказчик: Едва мы попытались уйти, как в лавку ворвался похожая на вырубленного нами бандюгана, фигура в такой же одежде, (да и лицо его было такое же грубое).
 
-# Original: Ayo, codger, have you seen our li’l—
+# Chest-puffing Tingtanger: Ayo, codger, have you seen our li’l—
 Член банды Бом-бом: Эй, старик, не видел нашего—
 
-# Original: Wee slimmy! Just what’s going on here?!
+# Chest-puffing Tingtanger: Wee Slimmy! Just what’s going on here?!
 Член банды Бом-бом: Твою ж етить! Чё тут произошло?!
 
-# Original: We did our best to pretend to be innocent customers who just happened to be in the pawnshop at the wrong time.
+# Narrator: We tried our hardest to pass ourselves off as innocent customers who just happened to be in the pawnshop at the worst possible time.
 Рассказчик: Мы сделали всё возможное, чтобы прикинуться обычными покупателями, оказавшимися не в том месте и не в то время.
 
-# Original: However, in an unfortunate concurrence of events, the goon came back to senses…
+# Narrator: And of course, as luck would have it, the knocked-out thug began to come to his senses...
 Рассказчик: Однако, так уж к несчастью совпало, громила начал приходить в себя…
 
-# Original: Who did this?! Tell me now! That bean is gonna regret the day they grew stems!
+# Chest-puffing Tingtanger: Where's the motherfucker who did this to ya?! Tell me! That bean's gonna regret the day they grew stems!
 Член банды Бом-бом: Кто это сделал?! Говори давай! Эти бобы пожалеют о дне, когда пустили свои стебельки!
 
-# Original: Gnh… O… Over there…
+# Chest-puffing Tingtanger: Nngh… O… Over there…
 Член банды Бом-бом: Гх… Т… ты, там…
 
-# Original: That red… timepuss…
+# Chest-puffing Tingtanger: That red… clockhead...
 Член банды Бом-бом: Красный… часоёб…
 
-# Original: The direction that finger was pointing was simply too unambiguous for me to pretend otherwise.
+# Narrator: The direction his finger was pointing at was far too clear for me to play dumb.
 Рассказчик: Направление, в которое указывал палец, было слишком однозначным, чтобы у меня была возможность увильнуть.
 
-# Original: Plus, there’s no point in denying that I was meant by “red timepuss”, as I’m sure there would be literally no one else matching that description in this entire District.
+# Narrator: And honestly, there was no getting around it. "Red clockhead" was too distinctive—there wouldn't be a single other person in this entire District who'd even come close to that description.
 Рассказчик: Да и нет смысла притворяться, что под "красным часоёбом", не подразумевают именно меня, потому что я буквально единственный во всём Районе, кто подходит под это описание.
 
-# Original: Just so you don’t get the wrong idea, I have nothing to do with these people or what happened here. I was just about to bring a towel to cool this poor fellow’s head.
+# Pawnbroker: Just so you don’t get the wrong idea, I have nothing to do with these people or what happened here. I was just about to go get some ice and a towel for that bump on the poor fellow's head.
 Ростовщик: Чтобы не возникло недопониманий, я ни к этим людям, ни к произошедшему отношения не имею. Я только хотел принести этому бедняге прохладное полотенце для головы.
 
-# Original: That smarmy gaffer…
+# Heathcliff: That smarmy gaffer…
 Хитклиф: Этот лживый старикан…
 
-# Original: I had no expectations for him in the first place, but that man really has a shaky reed for his backbone.
+# Ishmael: I didn't expect this geezer to hold his ground, but he's really got a shaky reed for a backbone.
 Измаил: Я, конечно, не возлагала на него особых надежд, но не думала, что он так быстро переобуется.
 
-# Original: Although the pawnbroker switching sides in a heartbeat and the finger-pointing clock slander—over something I wasn’t responsible for, too—hurt me a little, I was determined to stand firm.
+# Narrator: Although it stung a bit to see the pawnbroker sell us out at the drop of a hat, not to mention having to endure the thug's barrage of insults—one of them a clock-related slur, too—over something I wasn’t even responsible for, I was determined to keep my cool...
 Рассказчик: И хотя ростовщик в мгновение ока переметнулся на другую сторону, переложив всю вину на меня, — за то, к чему я вообще даже был не причастен, — что ранило меня, я был намерен продолжать стоять на своём.
 
-# Original: Jah… Frijolitos over there… Stop. Freeze in your tracks.
+# Chest-puffing Tingtanger: Jah… Frijolitos over there… Stop. Freeze where you are.
 Член банды Бом-бом: Хэй… Ты, боб… Харе. Стой на месте.
 
-# Original: Mostly because it was clear that we had to run right now.
+# Narrator: ... because it was clear as day that we're going to have to hightail it out of here <i>right now</i>.
 Рассказчик: По большей части потому, что было ясно, что нам пора бежать.
 
-# Original: If I kept letting small things bother me, I would be reduced to a pulp sooner rather than later.
+# Narrator: If I kept letting every trivial thing get under my skin, it wouldn't be long before I got beaten up to a pulp.
 Рассказчик: Если продолжу отвлекаться на мелочи, то из меня крайне скоро сделают пюре.
 
-# Original: Bah. No need to run. Let’s just kill them all and be done with it.
+# Ryōshū: Bah. No need to run. Let’s just kill them all and be done with it.
 Рёшу: Бэх. Нет нужды бежать. Давайте просто прирежем их и дело с концом.
 
-# Original: What’s next? You’re going to wipe out the whole Syndicate?
+# Effie: Oh, sure, what's next? Why don't you take out the whole Syndicate while you're at it?
 Эффи: А дальше-то что? Весь синдикат перерубите?
 
-# Original: Heh. That doesn’t sound too bad.
+# Ryōshū: Heh. Sounds like a plan.
 Рёшу: Хех. А что, звучит неплохо.
 
-# Original: The forces of evil must be uprooted with haste in order to raise the banner of justice high!
+# Don Quixote: The forces of evil must be swiftly uprooted, that the banner of justice may be lifted up high!
 Дон Кихот: Силы зла нужно уничтожить на корню, чтобы высоко поднять знамя справедливости над ними!
 
-# Original: Uh, so, is there seriously no one on your team who’s in their right mind?
+# Effie: Is there even a single person on your team who's actually in their right mind?
 Эффи: Ух, так у вас и вправду в команде нет ни одного здравомыслящего человека?
 
-# Original: Ishmael looked insulted by this remark and seemed to be thinking of a counterargument, but the Tingtang goons arming themselves were a more pressing matter.
+# Narrator: Ishmael bristled at the offending remark and seemed ready to snap back, but to me, the sight of Tingtang goons readying their weapons was a more pressing matter.
 Рассказчик: Измаил, кажется, была крайне оскорблена этим замечанием и собиралась возразить, но вооружённые громилы "Бом-боба" оказались куда более насущной проблемой.
 
-# Original: <Let’s just…>
+# Dante: <First, let's…>
 Данте: <Давайте для начала…>
 
-# Original: <Let’s get outta here first!>
+# Dante: <... let's get the heck outta here!>
 Данте: <Просто выберемся отсюда!>

@@ -1,11 +1,11 @@
-﻿# Original: <color=#cf0000>Desire. Then it shall be donned.</color>
+﻿# Narrator: <color=#cf0000>Desire. Then it shall be donned.</color>
 Повествователь: <color=#cf0000>Возжелайте. И тогда облачитесь.</color>
 
-# Original: <There's a Voice here, too... Though it's different from the one we heard earlier.>
+# Dante: <There's a Voice here, too... Though it's different from the one we heard earlier.>
 Данте: <Здесь тоже есть Голос... Но не тот, что мы слышали раньше.>
 
-# Original: According to Miss Jeanne, it seems like each faction has a... guiding "Voice," who is, in truth, a "Giant." This voice probably belongs to one of them, too.
+# Sinclair: According to Miss Jeanne, it seems like each faction has a... guiding "Voice," who is, in truth, a "Giant." This voice probably belongs to one of them, too.
 Синклер: Судя по словам госпожи Жанны, у каждой фракции есть... направляющий её «Голос», который на самом деле — «Гигант». Наверное, этот голос тоже принадлежит одному из них.
 
-# Original: A classic manipulation tactic. It bolsters solidarity within a faction by instilling its population with the entrenched in-group-versus-out-group mentality.
+# Outis: A classic manipulation tactic. It bolsters solidarity within a faction by instilling its population with the entrenched in-group-versus-out-group mentality.
 Отис: Классический приём манипуляции. Он укрепляет сплочённость фракции, укореняя в сознании её членов деление на «своих» и «чужих».

@@ -1,236 +1,236 @@
-# Original: <i><color=#cf0000>There is a clew of thread, raveled of a single strand whose beginning is its end.</i></color>
+# Narrator: <i><color=#cf0000>There is a clew of thread, raveled of a single strand whose beginning is its end.</i></color>
 Narrator: <i><color=#cf0000>Существует клубок ниток, свитый из единой нити, начало которой — её конец.</i></color>
 
-# Original: <i><color=#cf0000>Moments become wefts and warps that criss-cross into a weave,</i></color>
+# Narrator: <i><color=#cf0000>Moments become wefts and warps that criss-cross into a weave,</i></color>
 Narrator: <i><color=#cf0000>Мгновения становятся утком и основой, что переплетаются в полотно,</i></color>
 
-# Original: <i><color=#cf0000>and the flow of time spools in a single spot.</i></color>
+# Narrator: <i><color=#cf0000>and the flow of time spools in a single spot.</i></color>
 Narrator: <i><color=#cf0000>и поток времени наматывается в одной точке.</i></color>
 
-# Original: Go on, read it.
+# ???: Go on, read it.
 Yoshihide: Давай, прочти это.
 
-# Original: Uh... Ryō... shū...?
+# ???: Uh... Ryō... shū...?
 ???: Э-э... Рё... шу...?
 
-# Original: <i><color=#cf0000>From the echo of your first cry to the whisper of your last breath,</i></color>
+# Narrator: <i><color=#cf0000>From the echo of your first cry to the whisper of your last breath,</i></color>
 Narrator: <i><color=#cf0000>От эха твоего первого крика до шёпота твоего последнего вздоха,</i></color>
 
-# Original: <i><color=#cf0000>in the heart of every moment, my eyes catch a glimpse of you.</i></color>
+# Narrator: <i><color=#cf0000>in the heart of every moment, my eyes catch a glimpse of you.</i></color>
 Narrator: <i><color=#cf0000>в сердце каждого мига мой взор ловит твой образ.</i></color>
 
-# Original: No... That's not how you read those letters...
+# ???: No... That's not how you read those letters...
 Yoshihide: Нет... Эти буквы читаются не так...
 
-# Original: "Yoshihide." That's how you say it.
+# ???: "Yoshihide." That's how you say it.
 Yoshihide: «Ёшихидэ». Вот как это произносится.
 
-# Original: "Ryō-shū!"
+# ???: "Ryō-shū!"
 ???: «Рё-шу!»
 
-# Original: It's prettier and easier!
+# ???: It's prettier and easier!
 ???: Так красивее и проще!
 
-# Original: <i><color=#cf0000>Dear lost child of mine, should the way back home elude you...</i></color>
+# Narrator: <i><color=#cf0000>Dear lost child of mine, should the way back home elude you...</i></color>
 Narrator: <i><color=#cf0000>Дорогое моё потерянное дитя, если путь домой ускользнёт от тебя...</i></color>
 
-# Original: <i><color=#cf0000>Follow the thread back to the very first knot that hurt the most.</i></color>
+# Narrator: <i><color=#cf0000>Follow the thread back to the very first knot that hurt the most.</i></color>
 Narrator: <i><color=#cf0000>Следуй по нити назад, к самому первому узлу, что причинил больше всего боли.</i></color>
 
-# Original: <i><color=#cf0000>Where the quivering stops,</i></color>
+# Narrator: <i><color=#cf0000>Where the quivering stops,</i></color>
 Narrator: <i><color=#cf0000>Там, где дрожь прекратится,</i></color>
 
-# Original: <i><color=#cf0000>that is where you will find me.</i></color>
+# Narrator: <i><color=#cf0000>that is where you will find me.</i></color>
 Narrator: <i><color=#cf0000>там ты найдёшь меня.</i></color>
 
-# Original: Today's the day.
+# Marton: Today's the day.
 Marton: Сегодня тот самый день.
 
-# Original: Today's the day indeed. Boss, are you—
+# Alyssa: Today's the day indeed. Boss, are you—
 Alyssa: Действительно, тот самый день. Босс, вы...
 
-# Original: Hold. Please, don't ask me if I am "nervous." Only ordinary, unremarkable researchers with a particularly low level of confidence in their own material ever get "nervous."
+# Hohenheim: Hold. Please, don't ask me if I am "nervous." Only ordinary, unremarkable researchers with a particularly low level of confidence in their own material ever get "nervous."
 Hohenheim: Стоять. Пожалуйста, не спрашивай меня, «нервничаю» ли я. Только обычные, ничем не примечательные исследователи с особо низким уровнем уверенности в собственном деле вообще когда-либо «нервничают».
 
-# Original: Your unfinished query has reminded me of the last academic assembly—there was this fellow who simply could not stop their hands from shaking with the frequency of 5 oscillations every 3 seconds, even after taking an entire fistful of Tranquility Boluses. What a miserable sight that was.
+# Hohenheim: Your unfinished query has reminded me of the last academic assembly—there was this fellow who simply could not stop their hands from shaking with the frequency of 5 oscillations every 3 seconds, even after taking an entire fistful of Tranquility Boluses. What a miserable sight that was.
 Hohenheim: Твой незавершённый вопрос напомнил мне о последнем научном собрании — там был один тип, который никак не мог унять дрожь в руках с частотой 5 колебаний каждые 3 секунды, даже после того, как принял целую горсть Болюсов Безмятежности. Какое жалкое было зрелище.
 
-# Original: Oh, of course, perhaps the fear that the attendees may not possess the intelligence to comprehend even half of my presentation may source a reasonable level of anxiety, potent enough to make my legs tremble somewhat. But I have been quite relieved of that concern after you reviewed my materials; if both of you were able to understand it, then the audience should have no problem following the... general narrative.
+# Hohenheim: Oh, of course, perhaps the fear that the attendees may not possess the intelligence to comprehend even half of my presentation may source a reasonable level of anxiety, potent enough to make my legs tremble somewhat. But I have been quite relieved of that concern after you reviewed my materials; if both of you were able to understand it, then the audience should have no problem following the... general narrative.
 Hohenheim: О, конечно, возможно, опасение, что присутствующим может не хватить интеллекта, дабы постичь хотя бы половину моей презентации, способно вызвать резонный уровень тревоги, достаточно сильный, чтобы мои ноги слегка задрожали. Но я в значительной степени избавился от этого беспокойства после того, как вы ознакомились с моими материалами; если уж вы оба смогли их понять, то у аудитории не должно возникнуть проблем с тем, чтобы уловить... хотя бы общую идею.
 
-# Original: At least you won't be dosing the audience chock-full of your verbal sedative this time.
+# Marton: At least you won't be dosing the audience chock-full of your verbal sedative this time.
 Marton: По крайней мере, в этот раз вы не будете пичкать аудиторию своим вербальным успокоительным под завязку.
 
-# Original: On another note... have you any clue as to why our cooperation request for additional research is still pending approval?
+# Hohenheim: On another note... have you any clue as to why our cooperation request for additional research is still pending approval?
 Hohenheim: К слову о другом... есть ли какие-нибудь новости о том, почему наш запрос о сотрудничестве для дополнительных исследований всё ещё ожидает одобрения?
 
-# Original: ... LCA R&D Team has repeatedly denied our request. Apparently, we're to focus solely on our present research...
+# Alyssa: ... LCA R&D Team has repeatedly denied our request. Apparently, we're to focus solely on our present research...
 Alyssa: ... Команда исследований и разработок LCA неоднократно отклоняла наш запрос. Судя по всему, нам приказано сосредоточиться исключительно на текущем исследовании...
 
-# Original: A rather narrow-minded bunch, aren't they? Do we know specifically who denied our requests?
+# Hohenheim: A rather narrow-minded bunch, aren't they? Do we know specifically who denied our requests?
 Hohenheim: Довольно узколобая компания, не так ли? Нам известно, кто именно отклонил наши запросы?
 
-# Original: ... The assistant manager who simply could not stop their hands from shaking, even after taking an entire fistful of Tranquility Boluses. It seems pretty obvious that they're <i>still</i> carrying the grudge from when you scoffed at them.
+# Alyssa: ... The assistant manager who simply could not stop their hands from shaking, even after taking an entire fistful of Tranquility Boluses. It seems pretty obvious that they're <i>still</i> carrying the grudge from when you scoffed at them.
 Alyssa: ... Тот самый заместитель управляющего, который никак не мог унять дрожь в руках, даже после целой горсти Болюсов Безмятежности. Кажется очевидным, что он <i>всё ещё</i> таит обиду за то, как вы над ним насмехались.
 
-# Original: ... Is that so?
+# Hohenheim: ... Is that so?
 Hohenheim: ... Вот как?
 
-# Original: Well, they'll have no choice but to approve our request after this presentation. Our present research has already progressed beyond the point of satisfaction, after all.
+# Hohenheim: Well, they'll have no choice but to approve our request after this presentation. Our present research has already progressed beyond the point of satisfaction, after all.
 Hohenheim: Что ж, у них не останется иного выбора, кроме как одобрить наш запрос после этой презентации. В конце концов, наше текущее исследование уже продвинулось дальше точки удовлетворения.
 
-# Original: Of course, Boss. Of course...
+# Alyssa: Of course, Boss. Of course...
 Alyssa: Конечно, Босс. Конечно...
 
-# Original: ... This won't do. Though the motivation behind my additional research request was to sate a personal curiosity, I have no doubts in my mind that it will end up benefiting the company's bottom line.
+# Hohenheim: ... This won't do. Though the motivation behind my additional research request was to sate a personal curiosity, I have no doubts in my mind that it will end up benefiting the company's bottom line.
 Hohenheim: ... Так не пойдёт. Хотя мотивацией для моего запроса о дополнительном исследовании было удовлетворение личного любопытства, я ничуть не сомневаюсь, что в итоге это пойдёт на пользу прибыли компании.
 
-# Original: Marton, do you have our additional research proposal with you? Even the LCA will have no recourse but to approve it once they see the projected gains from its success.
+# Hohenheim: Marton, do you have our additional research proposal with you? Even the LCA will have no recourse but to approve it once they see the projected gains from its success.
 Hohenheim: Мартон, наше предложение по дополнительному исследованию у тебя? Даже у LCA не останется иного выхода, кроме как одобрить его, когда они увидят прогнозируемую выгоду от его успеха.
 
-# Original: Ah, that... I left it back at the research hall. Didn't think we'd need it today.
+# Marton: Ah, that... I left it back at the Research Hall. Didn't think we'd need it today.
 Marton: А, это... Я оставил его в исследовательском зале. Не думал, что оно понадобится нам сегодня.
 
-# Original: A successful outcome of that research should also be able to boost the efficiency of our electrical systems. I'm sure the need for more power is a mutual concern—we already have precious little to spare with how much energy our present research consumes.
+# Hohenheim: A successful outcome of that research should also be able to boost the efficiency of our electrical systems. I'm sure the need for more power is a mutual concern—we already have precious little to spare with how much energy our present research consumes.
 Hohenheim: Успешный исход этого исследования также должен повысить эффективность наших электрических систем. Уверен, потребность в дополнительной мощности — наша общая забота; у нас и так осталось ничтожно мало ресурсов, учитывая, сколько энергии потребляет наше текущее исследование.
 
-# Original: Yeah, we know. We even had to conduct our experiments in the freezing cold because we rerouted power from the heating system to save electricity. Well, I stayed toasty thanks to my E.G.O gear, but still...
+# Alyssa: Yeah, we know. We even had to conduct our experiments in the freezing cold because we rerouted power from the heating system to save electricity. Well, I stayed toasty thanks to my E.G.O gear, but still...
 Alyssa: Да, мы знаем. Нам даже пришлось проводить эксперименты на морозе, потому что мы перенаправили энергию из системы отопления для экономии электричества. Ну, я-то не замерзла благодаря своему ЭГО-снаряжению, но всё же...
 
-# Original: Anyways, I'll go grab the proposal. You two should focus on the presentation prep.
+# Alyssa: Anyways, I'll go grab the proposal. You two should focus on the presentation prep.
 Alyssa: В любом случае, я схожу за предложением. А вы двое сосредоточьтесь на подготовке к презентации.
 
-# Original: Re... Requesting support. This is LCE Department, Co... Corridor YS-4. Requesting immediate support. The situation's... a Code... Code... Gah...
+# Frightened Researcher: Re... Requesting support. This is LCE Department, Co... Corridor YS-4. Requesting immediate support. The situation's... a Code... Code... Gah...
 Frightened Researcher: За... Запрашиваю поддержку. Это Отдел LCE, Ко... Коридор YS-4. Запрашиваю немедленную поддержку. Ситуация... Код... Код... Гх...
 
-# Original: Apologies. I didn't wish to so unnecessarily cut him off, but... as it seems he passed out... let me be the messenger instead. Though I won't bother with the fancy code-speak...
+# ???: Apologies. I didn't wish to so unnecessarily cut him off, but... as it seems he passed out... let me be the messenger instead. Though I won't bother with the fancy code-speak...
 Rien: Прошу прощения. Я не хотел столь бестактно его обрывать, но... раз уж он, похоже, отключился... позвольте мне вместо него передать сообщение. Хотя я не стану утруждать себя вычурным кодовым лексиконом...
 
-# Original: "The situation here is... entirely hopeless."... was probably what he wished to say.
+# ???: "The situation here is... entirely hopeless."... was probably what he wished to say.
 Rien: «Ситуация здесь... совершенно безнадёжна»... — вероятно, именно это он и хотел сказать.
 
-# Original: A few hours later...
+# Narrator: A few hours later...
 Narrator: Спустя несколько часов...
 
-# Original: ... A good deal of time had passed since we'd said our heartfelt farewells to Jia Xichun, yet we still remained stuck in Hongyuan.
+# Narrator: ... A good deal of time had passed since we'd said our heartfelt farewells to Jia Xichun, yet we still remained stuck in Hongyuan.
 Narrator: ... Прошло немало времени с тех пор, как мы сердечно попрощались с Цзя Сичунь, однако мы всё ещё оставались в Хунъюане.
 
-# Original: You sure we're settin' off today? Reckon you got the date wrong?
+# Heathcliff: You sure we're settin' off today? Reckon you got the date wrong?
 Heathcliff: Ты уверен, что мы выдвигаемся сегодня? Сдаётся мне, ты с датой ошибся?
 
-# Original: I'm pretty sure I didn't... But even Saude's late, and she was supposed to get Vergilius and Pilot...
+# Sinclair: I'm pretty sure I didn't... But even Saude's late, and she was supposed to get Vergilius and Pilot...
 Sinclair: Я почти уверен, что нет... Но даже Сод опаздывает, а она должна была забрать Вергилия и Пилота...
 
-# Original: Right ahead lies the road that leads straight out of Hongyuan. Given Saude's memo telling us to drive out here with a truck, there should be no room for error this time.
+# Outis: Right ahead lies the road that leads straight out of Hongyuan. Given Saude's memo telling us to drive out here with a truck, there should be no room for error this time.
 Outis: Прямо впереди лежит дорога, ведущая прямиком из Хунъюаня. Учитывая записку Сод, в которой нам велели приехать сюда на грузовике, на этот раз ошибки быть не должно.
 
-# Original: I sure hope that's the case.
+# Ishmael: I sure hope that's the case.
 Ishmael: Очень на это надеюсь.
 
-# Original: When we left Daguanyuan earlier, the guards at the gate actually asked me what time we'd be coming back. They probably think we've taken up permanent residence here at H Corp.
+# Ishmael: When we left Daguanyuan earlier, the guards at the gate actually asked me what time we'd be coming back. They probably think we've taken up permanent residence here at H Corp.
 Ishmael: Когда мы уходили из Дагуаньюаня ранее, стражники у ворот вообще-то спросили меня, когда мы вернёмся. Наверное, они думают, что мы осели здесь в Корпорации H на постоянной основе.
 
-# Original: ... Not surprising. After saying goodbyes left and right, not to mention two farewell banquets—we're still sitting here on our butts without any sign of leaving...
+# Gregor: ... Not surprising. After saying goodbyes left and right, not to mention two farewell banquets—we're still sitting here on our butts without any sign of leaving...
 Gregor: ... Неудивительно. После всех этих прощаний направо и налево, не говоря уже о двух прощальных банкетах — мы всё ещё просиживаем тут задницы без малейшего намёка на отъезд...
 
-# Original: Exactly. By now, Verg should've appeared out of nowhere with his usual, "Time to move on to our next destination, Dante..." like he always does!
+# Rodion: Exactly. By now, Verg should've appeared out of nowhere with his usual, "Time to move on to our next destination, Dante..." like he always does!
 Rodion: Вот именно. К этому времени Верг уже должен был появиться из ниоткуда со своим обычным: «Пора двигаться к следующему пункту назначения, Данте...», как он всегда и делает!
 
-# Original: Then Charon would say, "Off we go, Mephi. Vroom-vroom"... It's been forever since I heard her last!
+# Rodion: Then Charon would say, "Off we go, Mephi. Vroom-vroom"... It's been forever since I heard her last!
 Rodion: И тогда Харон сказала бы: «Поехали, Мефи. Врум-врум»... Сто лет её не слышала!
 
-# Original: I don't think there was ever a time Vergilius was gone this long.
+# Hong Lu: I don't think there was ever a time Vergilius was gone this long.
 Hong Lu: Не припомню, чтобы Вергилий отсутствовал так долго.
 
-# Original: The breach of contract may have led to extra workload for him, but even so, his prolonged absence remains unusual.
+# Meursault: The breach of contract may have led to extra workload for him, but even so, his prolonged absence remains unusual.
 Mersault: Нарушение контракта могло привести к дополнительной нагрузке для него, но даже в этом случае его столь долгое отсутствие остаётся необычным.
 
-# Original: All this, just because he went out of his way to help us...?
+# Sinclair: All this, just because he went out of his way to help us...?
 Sinclair: И всё это только потому, что он изо всех сил старался помочь нам...?
 
-# Original: Not necessarily.
+# Faust: Not necessarily.
 Faust: Не обязательно.
 
-# Original: While it is true that the penalty incurred from breaching the contract yet remains, the LCC's operation in H Corp., which he was assisting with, was immediately concluded following Jia Xichun's inauguration as the Family Hierarch.
+# Faust: While it is true that the penalty incurred from breaching the contract yet remains, the LCC's operation in H Corp., which he was assisting with, was immediately concluded following Jia Xichun's inauguration as the Family Hierarch.
 Faust: Хотя верно то, что штраф, наложенный за нарушение контракта, всё ещё в силе, операция LCC в Корпорации H, которой он содействовал, была немедленно завершена после инаугурации Цзя Сичунь в качестве Главы Семьи.
 
-# Original: Hmm... I fail to think of any other reason apart from that.
+# Yi Sang: Hmm... I fail to think of any other reason apart from that.
 Yi Sang: Хм... Мне не удаётся помыслить об иной причине, помимо этой.
 
-# Original: <Vergilius and Charon would always be away whenever we traveled to a new place... but yeah, never for this long.>
+# Dante: <Vergilius and Charon would always be away whenever we traveled to a new place... but yeah, never for this long.>
 Dante: <Вергилий и Харон всегда отлучались, когда мы отправлялись в новое место... но да, никогда их не было так долго.>
 
-# Original: Maybe he's just off doing whatever he usually does when spending time with Charon...?
+# Sinclair: Maybe he's just off doing whatever he usually does when spending time with Charon...?
 Sinclair: Может, он просто занимается тем, чем обычно занимается, проводя время с Харон...?
 
-# Original: Everyone turned to look at Faust.
+# Narrator: Everyone turned to look at Faust.
 Narrator: Все повернулись и посмотрели на Фауст.
 
-# Original: At this point, there is no information that can be shared regarding Vergilius's absence.
+# Faust: At this point, there is no information that can be shared regarding Vergilius's absence.
 Faust: На данный момент нет никакой информации, которой можно было бы поделиться относительно отсутствия Вергилия.
 
-# Original: <... Maybe we can ask Vergilius when he gets here?>
+# Dante: <... Maybe we can ask Vergilius when he gets here?>
 Dante: <... Может, спросим Вергилия, когда он придёт?>
 
-# Original: You honestly reckon he'd say a word about where he was? That bloke only ever tells us where to go, never where he's off to.
+# Heathcliff: You honestly reckon he'd say a word about where he was? That bloke only ever tells us where to go, never where he's off to.
 Heathcliff: Ты правда думаешь, что этот тип скажет хоть слово о том, где он был? Он нам только говорит, куда ехать, но никогда — куда сам шляется.
 
-# Original: Verily! And never hath he deigned to bring any of us on his ice cream trips... save young Charon!
+# Don Quixote: Verily! And never hath he deigned to bring any of us on his ice cream trips... save young Charon!
 Don Quixote: Воистину! И никогда не соизволил он взять кого-либо из нас в свои поездки за мороженым... кроме юной Харон!
 
-# Original: Hooh! Perchance, his path is that of a culinary journey to sample the unique specialties of each District—
+# Don Quixote: Hooh! Perchance, his path is that of a culinary journey to sample the unique specialties of each District—
 Don Quixote: О-о! Быть может, его путь — это кулинарное странствие, дабы вкусить уникальные деликатесы каждого Района —
 
-# Original: Be serious for one second, lass. This ain't a foodie tour.
+# Heathcliff: Be serious for one second, lass. This ain't a foodie tour.
 Heathcliff: Будь серьёзнее хоть секунду, девчуля. Это тебе не гастрономический тур.
 
-# Original: ... Aside from guiding our path...
+# Faust: ... Aside from guiding our path...
 Faust: ... Помимо того, что он направляет наш путь...
 
-# Original: ... it may simply be that Vergilius has a path of his own to walk.
+# Faust: ... it may simply be that Vergilius has a path of his own to walk.
 Faust: ... возможно, у Вергилия просто есть свой собственный путь, который он должен пройти.
 
-# Original: <…….>
+# Dante: <…….>
 Dante: <…….>
 
-# Original: I've got no idea what his path would even look like.
+# Narrator: I've got no idea what his path would even look like.
 Narrator: Понятия не имею, как вообще мог бы выглядеть его путь.
 
-# Original: We're only here to follow the journey as guided by Vergilius... We know neither the path he has walked, nor the path he seeks to walk.
+# Narrator: We're only here to follow the journey as guided by Vergilius... We know neither the path he has walked, nor the path he seeks to walk.
 Narrator: Мы здесь лишь для того, чтобы следовать маршруту, указанному Вергилием... Мы не знаем ни пути, который он прошёл, ни пути, по которому он стремится идти.
 
-# Original: I wonder if he'll ever share his history with us one day.
+# Narrator: I wonder if he'll ever share his history with us one day.
 Narrator: Интересно, поделится ли он когда-нибудь с нами своей историей.
 
-# Original: I 'spose he's bein' his usual absentee self, but... that don't explain why Saude ain't here, does it?
+# Heathcliff: I 'spose he's bein' his usual absentee self, but... that don't explain why Saude ain't here, does it?
 Heathcliff: Положим, он в своём репертуаре, опять где-то пропадает, но... это не объясняет, почему Сод до сих пор нет, не так ли?
 
-# Original: We've been late plenty of times, yeah. But it ain't like the lass to keep us hangin'.
+# Heathcliff: We've been late plenty of times, yeah. But it ain't like the lass to keep us hangin'.
 Heathcliff: Мы и сами частенько опаздывали, да. Но на эту малую не похоже, чтобы она заставляла нас ждать.
 
-# Original: Maybe there's been a change of plans?
+# Rodion: Maybe there's been a change of plans?
 Rodion: Может, планы изменились?
 
-# Original: ... When an operative goes dark without warning...
+# Outis: ... When an operative goes dark without warning...
 Outis: ... Когда оперативник перестаёт выходить на связь без предупреждения...
 
-# Original: ... it's usually due to an unforeseen variable, not a change of plans.
+# Outis: ... it's usually due to an unforeseen variable, not a change of plans.
 Outis: ... это обычно происходит из-за непредвиденной переменной, а не из-за смены планов.
 
-# Original: As if to prove Outis right, someone forcefully yanks the truck's door open.
+# Narrator: As if to prove Outis right, someone forcefully yanks the truck's door open.
 Narrator: Словно подтверждая слова Отис, чья-то рука с силой распахивает дверь грузовика.
 
-# Original: <Saude...!>
+# Dante: <Saude...!>
 Dante: <Сод...!>
 
-# Original: Holy— What happened to you?!
+# Rodion: Holy— What happened to you?!
 Rodion: Боже... Что с тобой случилось?!
 
-# Original: Saude stumbled into the truck, short of breath. She was bleeding and covered in wounds both minor and serious—her eyes glistened with wild anxiety.
+# Narrator: Saude stumbled into the truck, short of breath. She was bleeding and covered in wounds both minor and serious—her eyes glistened with wild anxiety.
 Narrator: Сод ввалилась в грузовик, тяжело дыша. Она была вся в крови и покрыта ранами, как мелкими, так и серьёзными — в её глазах блестела дикая тревога.
 
-# Original: A broken pistol hung from her waist. It was impossible not to notice the still-fresh gashes and wounds on her.
+# Narrator: A broken pistol hung from her waist. It was impossible not to notice the still-fresh gashes and wounds on her.
 Narrator: С её пояса свисал сломанный пистолет. Невозможно было не заметить всё ещё свежие порезы и раны на её теле.
 
-# Original: The first thing that caught my attention, however, was the stump right where her left arm used to be.
+# Narrator: The first thing that caught my attention, however, was the stump right where her left arm used to be.
 Narrator: Однако первое, что бросилось мне в глаза, — это культя прямо там, где должна была быть её левая рука.

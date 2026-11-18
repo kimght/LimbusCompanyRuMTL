@@ -1,134 +1,134 @@
-﻿# Original: One thing before I hand over the goods. You don't need the larva, do you? You need just the Golden Cocoon?
+﻿# Boucher: One thing before I hand over the goods. You don't need the larva, do you? You need just the Golden Cocoon?
 Буше: Кое-что уточню, прежде чем отдать товар. Личинка вам не нужна, верно? Только Золотой кокон?
 
-# Original: Correct.
+# Meursault: Correct.
 Мерсо: Верно.
 
-# Original: Excellent.
+# Boucher: Excellent.
 Буше: Прекрасно.
 
-# Original: Through the window, we saw Boucher's mouth splitting open into a toothy grin as he began hacking into the ingredients the Sous Chef had brought him.
+# Narrator: Through the window, we saw Boucher's mouth splitting open into a toothy grin as he began hacking into the ingredients the Sous Chef had brought him.
 Рассказчик: Сквозь окошко мы увидели, как рот Буше расплылся в зубастой ухмылке, когда он принялся рубить ингредиенты, принесённые Су-шефом.
 
-# Original: Take it, guests. The Golden Cocoon you requested.
+# Boucher: Take it, guests. The Golden Cocoon you requested.
 Буше: Забирайте, гости. Золотой кокон, как вы и просили.
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <... Is it... <i>crying?</i>>
+# Dante: <... Is it... <i>crying?</i>>
 Данте: <... Он что... <i>плачет?</i>>
 
-# Original: Ugh... Not the most pleasant sound in the world, is it?
+# Gregor: Ugh... Not the most pleasant sound in the world, is it?
 Грегор: Ух... Не самый приятный звук на свете, да?
 
-# Original: Why would it be? The dish was only just born. To come into the world is to be swallowed by terror, and terror is such a lonely thing—which is, naturally, accompanied by weeping.
+# Boucher: Why would it be? The dish was only just born. To come into the world is to be swallowed by terror, and terror is such a lonely thing—which is, naturally, accompanied by weeping.
 Буше: А с чего ему быть приятным? Блюдо только что родилось. Появиться на свет — значит быть поглощённым ужасом, а ужас всегда одинок. И потому, разумеется, не обходится без плача.
 
-# Original: ... In any case, I must begin preparing for service. I would prefer that you leave if you have no further business here.
+# Boucher: ... In any case, I must begin preparing for service. I would prefer that you leave if you have no further business here.
 Буше: ... В любом случае, мне пора начинать подготовку к подаче. Если больше дел ко мне нет, прошу вас уйти.
 
-# Original: Thanks for the win-win deal, you hear?
+# Sous Chef: Thanks for the win-win deal, you hear?
 Су-шеф: Спасибо за сделку — и вам, и нам хорошо, слышь?
 
-# Original: And here's a little something on the house, you hear?
+# Sous Chef: And here's a little something on the house, you hear?
 Су-шеф: А вот вам ещё кое-что за счёт заведения, слышь?
 
-# Original: Huh? On the house?
+# Gregor: Huh? On the house?
 Грегор: А? За счёт заведения?
 
-# Original: You can have one cup of soda, you hear? It's from the tail end of this season, so it's not as fizzy... but the flavor's all there, you hear?
+# Sous Chef: You can have one cup of soda, you hear? It's from the tail end of this season, so it's not as fizzy... but the flavor's all there, you hear?
 Су-шеф: Можете взять стаканчик газировки, слышь? Она с самого конца этого сезона, так что уже не особо шипит... но вкус весь на месте, слышь?
 
-# Original: In other words... the equivalent of flat soda pop.
+# Gregor: In other words... the equivalent of flat soda pop.
 Грегор: Иными словами... местный аналог выдохшейся газировки.
 
-# Original: Thank you.
+# Faust: Thank you.
 Фауст: Спасибо.
 
-# Original: Are there no remaining tasks on this floor?
+# Faust: Are there no remaining tasks on this floor?
 Фауст: На этом этаже больше не осталось задач?
 
-# Original: <They said the cocoon could be spun into a skein on B2, so... yeah, we're done here.>
+# Dante: <They said the cocoon could be spun into a skein on B2, so... yeah, we're done here.>
 Данте: <Нам сказали, что на B2 из кокона можно спрясть моток, так что... да, здесь мы закончили.>
 
-# Original: I saw a passage farther down the corridor that should take you fellas below.
+# Gregor: I saw a passage farther down the corridor that should take you fellas below.
 Грегор: Я видел проход подальше по коридору. Через него вы, ребята, вроде как сможете спуститься.
 
-# Original: We will proceed now to the lower end of the corridor.
+# Meursault: We will proceed now to the lower end of the corridor.
 Мерсо: Теперь мы проследуем в нижний конец коридора.
 
-# Original: Wait—can I at least take a small sip of the soda before you head down? I'm thirsty after all this walking...
+# Gregor: Wait—can I at least take a small sip of the soda before you head down? I'm thirsty after all this walking...
 Грегор: Погоди — можно я хоть глоточек газировки сделаю, прежде чем вы пойдёте вниз? От всей этой ходьбы пить захотелось...
 
-# Original: Odd. You should not be able to feel thirst as a "real" sensation in the Symbolic, Herr Gregor.
+# Faust: Odd. You should not be able to feel thirst as a "real" sensation in the Symbolic, Herr Gregor.
 Фауст: Странно. В Символическом вы не должны испытывать жажду как «реальное» ощущение, герр Грегор.
 
-# Original: No, I—come on, I just feel that way, okay?
+# Gregor: No, I—come on, I just feel that way, okay?
 Грегор: Да я не... ну хватит, просто мне так кажется, ясно?
 
-# Original: Anyway, let's try the free drink before we go.
+# Gregor: Anyway, let's try the free drink before we go.
 Грегор: В общем, давайте попробуем бесплатное угощение, прежде чем идти.
 
-# Original: Faust is also curious about the soda's flavor.
+# Faust: Faust is also curious about the soda's flavor.
 Фауст: Фауст тоже любопытно, какова эта газировка на вкус.
 
-# Original: <I can't drink it anyway, so the three of you can have it .>
+# Dante: <I can't drink it anyway, so the three of you can have it .>
 Данте: <Я всё равно не могу её пить, так что поделите на троих.>
 
-# Original: ... I will decline, Manager.
+# Meursault: ... I will decline, Manager.
 Мерсо: ... Я откажусь, Менеджер.
 
-# Original: Eh...? But why? Thought we eat the... what was it, the "feeling" of it in here...
+# Gregor: Eh...? But why? Thought we eat the... what was it, the "feeling" of it in here...
 Грегор: Э?.. Это ещё почему? Мы же тут едим... как там было, «ощущение» еды...
 
-# Original: Which means you could taste the meal you remember best if you will it. Isn't that worth a try?
+# Gregor: Which means you could taste the meal you remember best if you will it. Isn't that worth a try?
 Грегор: Значит, если захочешь, можешь ощутить вкус еды, которая запомнилась тебе лучше всего. Разве не стоит попробовать?
 
-# Original: That is precisely why I cannot consume it.
+# Meursault: That is precisely why I cannot consume it.
 Мерсо: Именно поэтому я и не могу её употребить.
 
-# Original: Its flavor might approximate the value of the food preserved in my memory with near-perfect accuracy,
+# Meursault: Its flavor might approximate the value of the food preserved in my memory with near-perfect accuracy,
 Мерсо: Возможно, её вкус с почти абсолютной точностью приблизится к ценности той еды, что сохранилась в моей памяти,
 
-# Original: but it would not be the same.
+# Meursault: but it would not be the same.
 Мерсо: но это будет не то же самое.
 
-# Original: I don't know, not sure the flavor has to retain real "worth."
+# Gregor: I don't know, not sure the flavor has to retain real "worth."
 Грегор: Не знаю. Не уверен, что вкус обязан сохранять какую-то настоящую «ценность».
 
-# Original: Something's "worth" changes depending on how you feel about it at that moment, right?
+# Gregor: Something's "worth" changes depending on how you feel about it at that moment, right?
 Грегор: Ведь «ценность» чего угодно меняется в зависимости от того, как ты к этому относишься в этот момент, верно?
 
-# Original: For some folks... that's enough. More than enough, I'd say.
+# Gregor: For some folks... that's enough. More than enough, I'd say.
 Грегор: Кому-то... и этого хватает. Я бы сказал, более чем.
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: I understand your point fully. However...
+# Meursault: I understand your point fully. However...
 Мерсо: Я полностью понимаю вашу мысль. Однако...
 
-# Original: I do not believe I am presently capable of it.
+# Meursault: I do not believe I am presently capable of it.
 Мерсо: Не думаю, что в настоящий момент я на это способен.
 
-# Original: Hey, don't drink it if you don't want to—I'm not trying to press the matter here. Just sharing my thoughts, that's all.
+# Gregor: Hey, don't drink it if you don't want to—I'm not trying to press the matter here. Just sharing my thoughts, that's all.
 Грегор: Слушай, не хочешь — не пей. Я же не заставляю. Просто поделился своими мыслями, вот и всё.
 
-# Original: ... It cannot be helped.
+# Faust: ... It cannot be helped.
 Фауст: ... Ничего не поделаешь.
 
-# Original: What surprised me, though, was that Meursault didn't push back with his usual obstinate demeanor in this exchange. At least not as much as he normally would.
+# Narrator: What surprised me, though, was that Meursault didn't push back with his usual obstinate demeanor in this exchange. At least not as much as he normally would.
 Рассказчик: Но меня удивило, что в этом разговоре Мерсо не стал возражать с привычным упрямством. Во всяком случае, упирался он куда меньше обычного.
 
-# Original: Maybe Gregor's opinion got across to him after all?
+# Narrator: Maybe Gregor's opinion got across to him after all?
 Рассказчик: Может, слова Грегора всё-таки до него дошли?
 
-# Original: Perhaps Gregor is right. It's not the flavor itself that matters.
+# Narrator: Perhaps Gregor is right. It's not the flavor itself that matters.
 Рассказчик: Возможно, Грегор прав. Дело не в самом вкусе.
 
-# Original: What we call "nostalgia" is probably something reconstructed around the memories we found pleasant.
+# Narrator: What we call "nostalgia" is probably something reconstructed around the memories we found pleasant.
 Рассказчик: То, что мы называем «ностальгией», наверное, воссоздаётся вокруг приятных нам воспоминаний.
 
-# Original: Memories fade with time. If they don't—if painful memories linger with clarity at all times... Perhaps "nostalgia" is never to be.
+# Narrator: Memories fade with time. If they don't—if painful memories linger with clarity at all times... Perhaps "nostalgia" is never to be.
 Рассказчик: Со временем воспоминания тускнеют. А если нет — если болезненные воспоминания всегда остаются ясными... Возможно, тогда «ностальгии» никогда и не возникнет.

@@ -1,41 +1,41 @@
-﻿# Original: *puff* She went through the wall again.
+﻿# Ryōshū: *puff* She went through the wall again.
 Рёшу: *пффф* Опять ушла сквозь стену.
 
-# Original: ... I'd much rather converse with Jeanne's disembodied voice than run into that woman again.
+# Outis: ... I'd much rather converse with Jeanne's disembodied voice than run into that woman again.
 Отис: ... Я уж лучше поговорю с бестелесным голосом Жанны, чем ещё раз встречусь с этой женщиной.
 
-# Original: <color=#ebcaa2>My, my. Did you miss my voice that badly?</color>
+# Narrator: <color=#ebcaa2>My, my. Did you miss my voice that badly?</color>
 Рассказчик: <color=#ebcaa2>Надо же. Неужели ты так соскучилась по моему голосу?</color>
 
-# Original: You seem to be fond of making an appearance without so much as a hint. Do you just enjoy playing god, or have you been indulging yourself for so long that it's become who you are?
+# Outis: You seem to be fond of making an appearance without so much as a hint. Do you just enjoy playing god, or have you been indulging yourself for so long that it's become who you are?
 Отис: Похоже, вам нравится появляться без малейшего предупреждения. Просто любите играть в бога или так давно себе в этом потакаете, что уже иначе не можете?
 
-# Original: Why the "surprise visit"? Are you not already watching our every move from wherever it is you're lazing around?
+# Outis: Why the "surprise visit"? Are you not already watching our every move from wherever it is you're lazing around?
 Отис: К чему этот «неожиданный визит»? Разве вы и без того не следите за каждым нашим шагом, где бы вы там ни бездельничали?
 
-# Original: <color=#ebcaa2>Oh, hardly. I've been so busy that I missed most of what you were saying just now.</color>
+# Narrator: <color=#ebcaa2>Oh, hardly. I've been so busy that I missed most of what you were saying just now.</color>
 Рассказчик: <color=#ebcaa2>О, вовсе нет. Я была так занята, что почти всё из сказанного вами сейчас пропустила.</color>
 
-# Original: <color=#ebcaa2>So... Who were you having such a delightful conversation with?</color>
+# Narrator: <color=#ebcaa2>So... Who were you having such a delightful conversation with?</color>
 Рассказчик: <color=#ebcaa2>Так... С кем же вы вели столь приятную беседу?</color>
 
-# Original: Kromer.
+# Meursault: Kromer.
 Мерсо: С Кромер.
 
-# Original: <color=#ebcaa2>.......</color>
+# Narrator: <color=#ebcaa2>.......</color>
 Рассказчик: <color=#ebcaa2>.......</color>
 
-# Original: <color=#ebcaa2>Who? Sorry, you cut out.</color>
+# Narrator: <color=#ebcaa2>Who? Sorry, you cut out.</color>
 Рассказчик: <color=#ebcaa2>С кем? Прости, звук пропал.</color>
 
-# Original: <color=#ebcaa2>Must be the speaker messing up again... eh, it does that sometimes. Can I call you back later, ma puce?</color>
+# Narrator: <color=#ebcaa2>Must be the speaker messing up again... eh, it does that sometimes. Can I call you back later, ma puce?</color>
 Рассказчик: <color=#ebcaa2>Наверное, опять динамик барахлит... эх, с ним такое бывает. Можно я перезвоню тебе позже, <i>ма пюс</i>?</color>
 
-# Original: Yes.
+# Meursault: Yes.
 Мерсо: Да.
 
-# Original: <color=#ebcaa2>*chuckle* Ever the gentleman.</color>
+# Narrator: <color=#ebcaa2>*chuckle* Ever the gentleman.</color>
 Рассказчик: <color=#ebcaa2>*хе-хе* Как всегда, джентльмен.</color>
 
-# Original: <... We should get going as well.>
+# Dante: <... We should get going as well.>
 Данте: <... Нам тоже пора идти.>

@@ -1,482 +1,482 @@
-﻿# Original: <This hardly looks like a village… It’s more like the ruins of one, isn’t it?>
+﻿# Dante: <This hardly looks like a village… It’s more like the ruins of one, isn’t it?>
 Данте: <Это вряд ли можно назвать деревней… Больше похоже на руины, не так ли?>
 
-# Original: It doesn’t seem like they’ve done any proper upkeep to the place… not in a while, at least.
+# Amiya: It doesn’t seem like they’ve done any proper upkeep to the place… not in a while, at least.
 Амия: Похоже, этим местом давно не занимались... по крайней мере, в последнее время.
 
-# Original: ... They're really here, living together.
+# Skadi: ... They're really here, living together.
 Скади: ...Они и правда здесь, живут вместе.
 
-# Original: The strange buildings tell the stories of former prosperity from a bygone era.
+# Narrator: The strange buildings tell the stories of former prosperity from a bygone era.
 Рассказчик: Странные строения рассказывают истории о былом процветании ушедшей эпохи.
 
-# Original: Our steps leave no footprints on the wet, muddy ground; on it, I see a rotting sign marked with the name <i>Faro Muerto</i>.
+# Narrator: Our steps leave no footprints on the wet, muddy ground; on it, I see a rotting sign marked with the name <i>Faro Muerto</i>.
 Рассказчик: Наши шаги не оставляют следов на влажной, грязной земле; на ней я вижу гниющий указатель с названием <i>«Фаро Муэрто»</i>.
 
-# Original: Everywhere I look in this village, I see evidence of long, silent abandonment.
+# Narrator: Everywhere I look in this village, I see evidence of long, silent abandonment.
 Рассказчик: Куда бы я ни посмотрел в этой деревне, я вижу свидетельства долгого, безмолвного запустения.
 
-# Original: We don’t see these kinds of abandoned-looking ruins often in the City, either.
+# Ishmael: We don’t see these kinds of abandoned-looking ruins often in the City, either.
 Измаил: Даже в Городе нечасто встретишь такие заброшенные руины.
 
-# Original: Well, yeah. There's always someone or something out there waiting to capitalize on that free real estate, be it a Syndicate or a corporation, and fix it up. Better than this, at least.
+# Gregor: Well, yeah. There's always someone or something out there waiting to capitalize on that free real estate, be it a Syndicate or a corporation, and fix it up. Better than this, at least.
 Грегор: Ну да. Вечно найдётся кто-то, кто захочет нажиться на халявной недвижимости, будь то Синдикат или Корпорация, и приведёт её в порядок. В больший порядок, чем это, по крайней мере.
 
-# Original: <So, where are the Sinners?>
+# Dante: <So, where are the Sinners?>
 Данте: <Так где же Грешники?>
 
-# Original: Ahh~ There’s a clearing down there, where—
+# Hong Lu: Ahh~ There’s a clearing down there, where—
 Хон Лу: Ах-х~ Вон там внизу площадь, где...
 
-# Original: We were entrapped betwixt a twain of great ships, narrowing, winds against our sail...!
+# ???: We were entrapped betwixt a twain of great ships, narrowing, winds against our sail...!
 Дон Кихот: Мы были зажаты меж двух великих кораблей, что сближались, и ветер дул против наших парусов!..
 
-# Original: Ooooh...!
+# Townsfolk: Ooooh...!
 Рассказчик: О-о-о!..
 
-# Original: And that is when young Ishmael boomed, her command most resonant!
+# ???: And that is when young Ishmael boomed, her command most resonant!
 Дон Кихот: И тогда юная Измаил прогремела, её команда прозвучала громогласно!
 
-# Original: <... Say no more.>
+# Dante: <... Say no more.>
 Данте: <...Больше ни слова.>
 
-# Original: I didn't even have to try to search for them. That unmistakably sonorous and familiar voice, echoing triumphantly between the empty buildings...
+# Narrator: I didn't even have to try to search for them. That unmistakably sonorous and familiar voice, echoing triumphantly between the empty buildings...
 Рассказчик: Мне даже не пришлось их искать. Этот безошибочно звучный и знакомый голос, триумфально разносившийся эхом между пустыми зданиями...
 
-# Original: That's Don Quixote's voice when she's sharing her adventurous tales.
+# Narrator: That's Don Quixote's voice when she's sharing her adventurous tales.
 Рассказчик: Это голос Дон Кихот, когда она делится своими приключенческими рассказами.
 
-# Original: There she was, standing atop a low podium like an actor on stage, regaling a group of people in rags with tales of our adventures like a traveling thespian.
+# Narrator: There she was, standing atop a low podium like an actor on stage, regaling a group of people in rags with tales of our adventures like a traveling thespian.
 Рассказчик: Вот она, стоит на невысоком помосте, словно актёр на сцене, и потчует группу людей в лохмотьях историями о наших приключениях, будто странствующий комедиант.
 
-# Original: ANSWERS, YE DOGS!! OARSMEN!!! ‘Tis the moment I, Ishmael, the first mate of vessel Mephistopheles, shall navi—aaaugh!
+# Don Quixote: ANSWERS, YE DOGS!! OARSMEN!!! ‘Tis the moment I, Ishmael, the first mate of vessel Mephistopheles, shall navi—aaaugh!
 Дон Кихот: ОТВЕЧАЙТЕ, ПСЫ! ГРЕБЦЫ!!! Настал тот миг, когда я, Измаил, первый помощник судна «Мефистофель», поведу... а-а-агх!
 
-# Original: Stop! Hold—hold on! Just what do you think you’re doing!?
+# Ishmael: Stop! Hold—hold on! Just what do you think you’re doing!?
 Измаил: Прекрати! Стой... постой! Что ты, по-твоему, творишь?!
 
-# Original: Mmphh! Young Ishmael! Unhand my mouth, for I was just about to regale them with the most fantastic tale of adventures at the Great La—gasp! Manager Esquire!!
+# Don Quixote: Mmphh! Young Ishmael! Unhand my mouth, for I was just about to regale them with the most fantastic tale of adventures at the Great La—gasp! Manager Esquire!!
 Дон Кихот: Ммпф! Юная Измаил! Отпусти мой рот, ибо я как раз собиралась поведать им самую фантастическую историю о приключениях на Великом Оз... кха! Сэр Менеджер!
 
-# Original: Verily, thou hast return’d with Manager Esquire safely in tow!
+# Don Quixote: Verily, thou hast return’d with Manager Esquire safely in tow!
 Дон Кихот: Воистину, ты вернулась, благополучно доставив Сэра Менеджера!
 
-# Original: Wha!? They found Clockhead?
+# Heathcliff: Wha!? They found Clockhead?
 Хитклиф: Чего?! Они нашли Часоголового?
 
-# Original: A burning c-clock for a head…?!
+# Villager: A burning c-clock for a head…?!
 Селянин: Г-горящие часы вместо головы?..
 
-# Original: When I was a child, I heard a story about a legendary Sarkaz with a flaming head...
+# Villager: When I was a child, I heard a story about a legendary Sarkaz with a flaming head...
 Селянин: В детстве я слышала историю о легендарном Сарказе с пылающей головой...
 
-# Original: Why would someone like that visit our humble village...?
+# Villager: Why would someone like that visit our humble village...?
 Селянин: Зачем кому-то вроде него посещать нашу скромную деревню?..
 
-# Original: Mm. While their exterior may carry elements that inspire fear in some, there is no cause for alarm.
+# Meursault: Mm. While their exterior may carry elements that inspire fear in some, there is no cause for alarm.
 Мерсо: Хм. Хотя их внешность и может внушать некоторым страх, причин для беспокойства нет.
 
-# Original: Y-yeah. They might look like that, but they’re Dante, our manager. And the rest are…
+# Sinclair: Y-yeah. They might look like that, but they’re Dante, our manager. And the rest are…
 Синклер: Д-да. Они так выглядят, но это Данте, наш менеджер. А остальные...
 
-# Original: …….
+# Skadi: …….
 Скади: …….
 
-# Original: Oh, hello.
+# Amiya: Oh, hello.
 Амия: О, здравствуйте.
 
-# Original: I-I’m sorry, who are you two!?
+# Sinclair: I-I’m sorry, who are you two!?
 Синклер: П-простите, а вы двое кто?!
 
-# Original: They're two very nice people who helped us find Dante. This is Miss Amiya, leader of Rhodes Island,
+# Hong Lu: They're two very nice people who helped us find Dante. This is Miss Amiya, leader of Rhodes Island,
 Хон Лу: Это два очень приятных человека, которые помогли нам найти Данте. Это мисс Амия, лидер Родос Айленд,
 
-# Original: and this is Miss Skadi, their Operator. They’ll be coming along with us for a little while~
+# Hong Lu: and this is Miss Skadi, their Operator. They’ll be coming along with us for a little while~
 Хон Лу: а это мисс Скади, их Оперативник. Они некоторое время побудут с нами~
 
-# Original: Eh? With us?
+# Heathcliff: Eh? With us?
 Хитклиф: А? С нами?
 
-# Original: We believe that the dimensional door, which we at Rhodes Island are investigating, has something to do with why you suddenly woke up here in Iberia…
+# Amiya: We believe that the dimensional door, which we at Rhodes Island are investigating, has something to do with why you suddenly woke up here in Iberia…
 Амия: Мы полагаем, что пространственная дверь, которую мы в Родос Айленд расследуем, как-то связана с тем, почему вы внезапно очнулись здесь, в Иберии...
 
-# Original: As Amiya was bringing the Sinners up to speed...
+# Narrator: As Amiya was bringing the Sinners up to speed...
 Рассказчик: Пока Амия вводила Грешников в курс дела...
 
-# Original: Ahh...
+# Villager: Ahh...
 Селянин: Ах...
 
-# Original: ... the villagers, who were staring at us curiously, approached us.
+# Narrator: ... the villagers, who were staring at us curiously, approached us.
 Рассказчик: ...селяне, с любопытством смотревшие на нас, подошли ближе.
 
-# Original: Did our conversation manage to convince them that we’re not a threat? I sure hope so.
+# Narrator: Did our conversation manage to convince them that we’re not a threat? I sure hope so.
 Рассказчик: Неужели наш разговор убедил их, что мы не представляем угрозы? Очень на это надеюсь.
 
-# Original: Ah… you are friends of our saviors.
+# Villager: Ah… you are friends of our saviors.
 Селянин: Ах... вы друзья наших спасителей.
 
-# Original: Saviors?
+# Skadi: Saviors?
 Скади: Спасителей?
 
-# Original: Verily, ‘tis quite the grand title; yet that is indeed the word by which we addressed!
+# Don Quixote: Verily, ‘tis quite the grand title; yet that is indeed the word by which we addressed!
 Дон Кихот: Воистину, это весьма громкий титул; однако именно так нас и нарекли!
 
-# Original: To be more precise, by ‘saviors’, they are referring only to Faust and Outis.
+# Meursault: To be more precise, by ‘saviors’, they are referring only to Faust and Outis.
 Мерсо: Если быть точным, под «спасителями» они подразумевают только Фауст и Отис.
 
-# Original: Faust gave me a light nod when we made eye contact, but… I could tell that her lips were drawing a very, very subtle smiling arc.
+# Narrator: Faust gave me a light nod when we made eye contact, but… I could tell that her lips were drawing a very, very subtle smiling arc.
 Рассказчик: Фауст легонько кивнула мне, когда мы встретились взглядами, но... я заметил, как её губы сложились в очень, очень тонкую улыбку.
 
-# Original: <So… I’m guessing something did happen.>
+# Dante: <So… I’m guessing something did happen.>
 Данте: <Значит... полагаю, что-то всё-таки произошло.>
 
-# Original: They were quite mistrustful upon our initial arrival.
+# Yi Sang: They were quite mistrustful upon our initial arrival.
 И Сан: Они отнеслись к нам с большим недоверием, когда мы только прибыли.
 
-# Original: What business do outsiders have here?
+# ???: What business do outsiders have here?
 Фабий: Что чужакам здесь нужно?
 
-# Original: W-what if they’re from the Inquisition?
+# Villager: W-what if they’re from the Inquisition?
 Селянин: А-а что, если они из Инквизиции?
 
-# Original: Oh, oh no, what do we do? After all we went through to get here…
+# Villager: Oh, oh no, what do we do? After all we went through to get here…
 Селянин: Ох, нет-нет, что же нам делать? После всего, через что мы прошли, чтобы добраться сюда...
 
-# Original: Calm yourselves, everyone. None of them are carrying what appears to be their scriptures or lamps... let's first try to see who they are.
+# ???: Calm yourselves, everyone. None of them are carrying what appears to be their scriptures or lamps... let's first try to see who they are.
 Фабий: Успокойтесь, все. Ни у кого из них нет ничего похожего на их священные писания или лампы... давайте сперва попробуем выяснить, кто они.
 
-# Original: Man, I don’t think they’re gonna trust us anytime soon.
+# Gregor: Man, I don’t think they’re gonna trust us anytime soon.
 Грегор: М-да, не думаю, что они нам в ближайшее время доверятся.
 
-# Original: They're all old curmudgeons. Let's S.T.N.C. Then P.T.S.D.
+# Ryōshū: They're all old curmudgeons. Let's S.T.N.C. Then P.T.S.D.
 Рёшу: Сборище старых хрычей. Давайте С.Ш.И.К. Потом О.И.С.
 
-# Original: You can’t do that, Ryōshū! We can’t pillage their storage depots… it looks like they already have it hard enough as it is…
+# Sinclair: You can’t do that, Ryōshū! We can’t pillage their storage depots… it looks like they already have it hard enough as it is…
 Синклер: Нельзя так, Рёшу! Мы не можем ограбить их склады... похоже, им и так уже достаточно тяжело...
 
-# Original: I don’t think S.T.N.C is a good way to get started, either.
+# Hong Lu: I don’t think S.T.N.C is a good way to get started, either.
 Хон Лу: Не думаю, что и С.Ш.И.К. — это хорошее начало.
 
-# Original: Should we just find help elsewhere? Just look at how thin their arms are.
+# Rodion: Should we just find help elsewhere? Just look at how thin their arms are.
 Родион: Может, поищем помощи в другом месте? Только посмотрите, какие у них худые руки.
 
-# Original: I don’t think they’re in any shape to help us out.
+# Rodion: I don’t think they’re in any shape to help us out.
 Родион: Не думаю, что они в состоянии нам помочь.
 
-# Original: Perhaps we could inquire as to our whereabouts ere we are to decide our lodging.
+# Yi Sang: Perhaps we could inquire as to our whereabouts ere we are to decide our lodging.
 И Сан: Быть может, нам стоит осведомиться о нашем местоположении, прежде чем решать вопрос о ночлеге.
 
-# Original: While the landscape is certainly reminiscent of U Corp.’s…
+# Yi Sang: While the landscape is certainly reminiscent of U Corp.’s…
 И Сан: Хотя пейзаж определённо напоминает владения Корпорации U...
 
-# Original: But I don’t recall seeing or learning about any place that looks like this, though I can’t say I’ve been to every corner of U Corp.
+# Ishmael: But I don’t recall seeing or learning about any place that looks like this, though I can’t say I’ve been to every corner of U Corp.
 Измаил: Но я не припоминаю, чтобы видела или изучала какое-либо место, похожее на это, хотя и не могу сказать, что была в каждом уголке Корпорации U.
 
-# Original: I ask again. What business do outsiders have here?
+# ???: I ask again. What business do outsiders have here?
 Фабий: Я спрашиваю снова. Что чужакам здесь нужно?
 
-# Original: Their fingers are tightening around the grips of their weapons. Prolonged silence will most likely turn this into a hostile encounter.
+# Meursault: Their fingers are tightening around the grips of their weapons. Prolonged silence will most likely turn this into a hostile encounter.
 Мерсо: Их пальцы крепче сжимают рукояти оружия. Продолжительное молчание, скорее всего, приведёт к враждебному столкновению.
 
-# Original: We can’t have that! H-hi, we’re from Limbus Company. We’re—
+# Sinclair: We can’t have that! H-hi, we’re from Limbus Company. We’re—
 Синклер: Этого нельзя допустить! П-привет, мы из Компании Лимбус. Мы...
 
-# Original: FIXERS OF JUSTICE!!!
+# Don Quixote: FIXERS OF JUSTICE!!!
 Дон Кихот: КОРРЕКТИРОВЩИКИ СПРАВЕДЛИВОСТИ!!!
 
-# Original: Yeah, that. Fixers of Ju— Oi, don’t you know when to keep it down?!
+# Heathcliff: Yeah, that. Fixers of Ju— Oi, don’t you know when to keep it down?!
 Хитклиф: Ага, это. Корректировщики Справ... Эй, ты не знаешь, когда надо помолчать?!
 
-# Original: Fixers…?
+# ???: Fixers…?
 Фабий: Корректировщики?..
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: That over there—it's a ship blueprint, isn't it? Are you looking to repair a vessel, by any chance? All these construction materials seem to suggest so.
+# Outis: That over there—it's a ship blueprint, isn't it? Are you looking to repair a vessel, by any chance? All these construction materials seem to suggest so.
 Отис: Вон то — это чертёж корабля, не так ли? Вы собираетесь чинить судно? Судя по всем этим строительным материалам, это так.
 
-# Original: Chief...!
+# Villager: Chief...!
 Селянин: Староста!..
 
-# Original: … This does not concern you. It’s not something a mere outsider can understand—
+# Village Chief: … This does not concern you. It’s not something a mere outsider can understand—
 Фабий: ...Это вас не касается. Чужаку этого не понять...
 
-# Original: Curious, I've never seen an energy source like this before. Have you run the tests to rule out any stability issues?
+# Outis: Curious, I've never seen an energy source like this before. Have you run the tests to rule out any stability issues?
 Отис: Любопытно, я никогда не видела такого источника энергии. Вы проводили тесты на предмет проблем со стабильностью?
 
-# Original: It seems to power the heat exchanger via some method comparable to the utilization of fusion energy. Have you any thoughts on this, Miss Faust?
+# Yi Sang: It seems to power the heat exchanger via some method comparable to the utilization of fusion energy. Have you any thoughts on this, Miss Faust?
 И Сан: Похоже, он питает теплообменник методом, сравнимым с использованием термоядерной энергии. У вас есть какие-нибудь мысли на этот счёт, мисс Фауст?
 
-# Original: The general design structure is somewhat old-fashioned, but there certainly are inspired parts to this design, particularly with the usage of the core energy source. While its stability would need to be further studied... this technology seems to be incredibly energy-efficient.
+# Faust: The general design structure is somewhat old-fashioned, but there certainly are inspired parts to this design, particularly with the usage of the core energy source. While its stability would need to be further studied... this technology seems to be incredibly energy-efficient.
 Фауст: Общая конструкция несколько старомодна, но в этом проекте определённо есть вдохновляющие элементы, особенно в использовании основного источника энергии. Хотя его стабильность потребует дальнейшего изучения... эта технология кажется невероятно энергоэффективной.
 
-# Original: …!
+# Village Chief: …!
 Фабий: !..
 
-# Original: Y-you identified all that merely by glancing at this blueprint?
+# Village Chief: Y-you identified all that merely by glancing at this blueprint?
 Фабий: В-вы определили всё это, лишь взглянув на чертёж?
 
-# Original: … You must be the village chief, then?
+# Outis: … You must be the village chief, then?
 Отис: ...Тогда вы, должно быть, староста деревни?
 
-# Original: If so, I have a proposition for you.
+# Outis: If so, I have a proposition for you.
 Отис: Если так, у меня есть к вам предложение.
 
-# Original: In return for assisting in their ship repair, we were promised a ride on their vessel. Miss Faust has theorized that perhaps, by going out to sea, we may be able to find a way to return to whence we came.
+# Yi Sang: In return for assisting in their ship repair, we were promised a ride on their vessel. Miss Faust has theorized that perhaps, by going out to sea, we may be able to find a way to return to whence we came.
 И Сан: В обмен на помощь в починке их корабля нам пообещали место на судне. Мисс Фауст предположила, что, возможно, выйдя в море, мы сможем найти способ вернуться туда, откуда пришли.
 
-# Original: <...! Does that mean we can find a way back somewhere out there in the sea?>
+# Dante: <...! Does that mean we can find a way back somewhere out there in the sea?>
 Данте: <..! Это значит, что где-то там, в море, мы можем найти путь назад?>
 
-# Original: Nothing is certain yet, Dante.
+# Faust: Nothing is certain yet, Dante.
 Фауст: Пока ничего нельзя сказать наверняка, Данте.
 
-# Original: At this moment, we are working based on... a hunch.
+# Faust: At this moment, we are working based on... a hunch.
 Фауст: На данный момент мы действуем, основываясь на... догадке.
 
-# Original: <A hunch?>
+# Dante: <A hunch?>
 Данте: <Догадке?>
 
-# Original: Sensing the implicit omen in her choice of words, I slowly turned around to look at Faust... who nodded solemnly in response.
+# Narrator: Sensing the implicit omen in her choice of words, I slowly turned around to look at Faust... who nodded solemnly in response.
 Рассказчик: Почувствовав скрытое дурное предзнаменование в её выборе слов, я медленно обернулся к Фауст... которая в ответ торжественно кивнула.
 
-# Original: ... If we're really in a different world, even her Gesellschaft has to be...
+# Narrator: ... If we're really in a different world, even her Gesellschaft has to be...
 Рассказчик: ...Если мы действительно в другом мире, то даже её Гезельшафт должен быть...
 
-# Original: ... No issues were encountered in the repair process.
+# Faust: ... No issues were encountered in the repair process.
 Фауст: ...В процессе ремонта проблем не возникло.
 
-# Original: Faust smiles faintly as she looks around, then she pulls me in by my hems. She whispers in a low voice.
+# Narrator: Faust smiles faintly as she looks around, then she pulls me in by my hems. She whispers in a low voice.
 Рассказчик: Фауст слабо улыбается, оглядываясь по сторонам, а затем тянет меня за край одежды. Она говорит тихим шёпотом.
 
-# Original: My connection to Gesellschaft is currently operating at a suboptimal level, Dante.
+# Faust: My connection to Gesellschaft is currently operating at a suboptimal level, Dante.
 Фауст: Моя связь с Гезельшафтом в настоящее время работает не на оптимальном уровне, Данте.
 
-# Original: <So, it's still... connected, at least?>
+# Dante: <So, it's still... connected, at least?>
 Данте: <Значит, она всё ещё... есть, по крайней мере?>
 
-# Original: Indeed, it is. However, even exchanges of simple information are taking up to dozens of hours by current calculation.
+# Faust: Indeed, it is. However, even exchanges of simple information are taking up to dozens of hours by current calculation.
 Фауст: Именно так. Однако, по текущим расчётам, даже обмен простой информацией занимает до нескольких десятков часов.
 
-# Original: <Is this a WARP train situation? Because we're in a different dimension?>
+# Dante: <Is this a WARP train situation? Because we're in a different dimension?>
 Данте: <Это как с ВАРП поездом? Потому что мы в другом измерении?>
 
-# Original: The cause should be identical. We have been connected to an unidentified, unpredictable dimension.
+# Faust: The cause should be identical. We have been connected to an unidentified, unpredictable dimension.
 Фауст: Причина должна быть та же. Мы оказались связаны с неопознанным, непредсказуемым измерением.
 
-# Original: However, Faust is aware that the pathway to our original dimension is yet to close this time, unlike the situation back aboard the WARP train.
+# Faust: However, Faust is aware that the pathway to our original dimension is yet to close this time, unlike the situation back aboard the WARP train.
 Фауст: Однако Фауст известно, что на этот раз путь в наше родное измерение ещё не закрылся, в отличие от ситуации на борту ВАРП поезда.
 
-# Original: <So, to get back to where we came from…>
+# Dante: <So, to get back to where we came from…>
 Данте: <Значит, чтобы вернуться туда, откуда мы пришли...>
 
-# Original: Indeed. Traveling through the ‘pathway’ is the most feasible solution.
+# Faust: Indeed. Traveling through the ‘pathway’ is the most feasible solution.
 Фауст: Именно. Пройти через «путь» — самое реальное решение.
 
-# Original: <And from that, you came up with the whole plan to repair the ship and sail out to the sea?>
+# Dante: <And from that, you came up with the whole plan to repair the ship and sail out to the sea?>
 Данте: <И исходя из этого, ты придумала весь этот план по ремонту корабля и выходу в море?>
 
-# Original: Yes, well. I am also a genius, after all.
+# Faust: Yes, well. I am also a genius, after all.
 Фауст: Да, что ж. В конце концов, я гений.
 
-# Original: <Amiya conjectured that we probably came through a dimensional door of sorts… Looks like that dimensional door might be what Faust is looking for.>
+# Dante: <Amiya conjectured that we probably came through a dimensional door of sorts… Looks like that dimensional door might be what Faust is looking for.>
 Данте: <Амия предположила, что мы, вероятно, прошли через какую-то пространственную дверь... Похоже, эта дверь и есть то, что ищет Фауст.>
 
-# Original: With high likelihood, yes.
+# Faust: With high likelihood, yes.
 Фауст: С высокой вероятностью, да.
 
-# Original: ... At least there’s a way back. I find myself calming down a little.
+# Narrator: ... At least there’s a way back. I find myself calming down a little.
 Рассказчик: ...По крайней мере, путь назад есть. Я чувствую, как немного успокаиваюсь.
 
-# Original: <Oh! Speaking of which, when do you think you can wrap up the repair job?>
+# Dante: <Oh! Speaking of which, when do you think you can wrap up the repair job?>
 Данте: <О! Кстати говоря, как думаете, когда вы сможете закончить ремонт?>
 
-# Original: As fortune should have it, a majority of the most time-consuming parts of the repair have already been completed by the locals.
+# Outis: As fortune should have it, a majority of the most time-consuming parts of the repair have already been completed by the locals.
 Отис: По счастливой случайности, большинство самых трудоёмких частей ремонта уже выполнено местными жителями.
 
-# Original: It shouldn’t take us more than a day or two to get its core parts shipshape again, Executive Manager.
+# Outis: It shouldn’t take us more than a day or two to get its core parts shipshape again, Executive Manager.
 Отис: Нам понадобится не больше дня или двух, чтобы привести в порядок его основные части, Исполнительный менеджер.
 
-# Original: <We’ll be staying here a few more days, then… How did you manage last night?>
+# Dante: <We’ll be staying here a few more days, then… How did you manage last night?>
 Данте: <Значит, мы останемся здесь ещё на пару дней… Как вы провели прошлую ночь?>
 
-# Original: Well... like I said earlier, we've been keeping ourselves busy looking for you this whole time. We took turns helping with the repairs and resting, but... I doubt any of us got a proper night's rest.
+# Gregor: Well... like I said earlier, we've been keeping ourselves busy looking for you this whole time. We took turns helping with the repairs and resting, but... I doubt any of us got a proper night's rest.
 Грегор: Ну... как я уже говорил, мы всё это время были заняты твоими поисками. Мы по очереди помогали с ремонтом и отдыхали, но... сомневаюсь, что кто-то из нас нормально выспался.
 
-# Original: Still... we weren't cold, thanks to the villagers who kept the fire going for us all night.
+# Sinclair: Still... we weren't cold, thanks to the villagers who kept the fire going for us all night.
 Синклер: И всё же... нам не было холодно, спасибо жителям, которые всю ночь поддерживали для нас огонь.
 
-# Original: Not to mention how they helped us a ton with that local map they drew us. Oh, also—chief handed us this earlier, what's it for?
+# Rodion: Not to mention how they helped us a ton with that local map they drew us. Oh, also—chief handed us this earlier, what's it for?
 Родион: Не говоря уже о том, как сильно они нам помогли с той местной картой, что они нарисовали. О, ещё — староста передал нам вот это, для чего оно?
 
-# Original: Ah... looks like a sack to collect water. Give it here, I know how to get that installed.
+# Ishmael: Ah... looks like a sack to collect water. Give it here, I know how to get that installed.
 Измаил: А... похоже на мешок для сбора воды. Давай сюда, я знаю, как его установить.
 
-# Original: It must be to repay Miss Faust and Miss Outis's efforts at repairing their ship, yet... the service they provide us is certainly quite generous, even when taking the transactional nature into account.
+# Yi Sang: It must be to repay Miss Faust and Miss Outis's efforts at repairing their ship, yet... the service they provide us is certainly quite generous, even when taking the transactional nature into account.
 И Сан: Должно быть, это в благодарность за усилия мисс Фауст и мисс Отис по починке их корабля, однако... их услуги, безусловно, весьма щедры, даже с учётом делового характера наших отношений.
 
-# Original: <They're really giving us the best treatment they can, huh...>
+# Dante: <They're really giving us the best treatment they can, huh...>
 Данте: <Они и правда оказывают нам самый лучший приём, на который способны, да?..>
 
-# Original: As for food, we managed to fill ourselves with some cookies and bread Rodya keeps in her pockets. Didn’t want to eat into their food supply when they’re already pretty tight, you know…?
+# Sinclair: As for food, we managed to fill ourselves with some cookies and bread Rodya keeps in her pockets. Didn’t want to eat into their food supply when they’re already pretty tight, you know…?
 Синклер: Что до еды, мы смогли подкрепиться печеньем и хлебом, которые Родя держит в карманах. Не хотелось посягать на их запасы, когда у них и так всё довольно скудно, понимаете?..
 
-# Original: ... She carries enough cookies and bread for twelve people?
+# Narrator: ... She carries enough cookies and bread for twelve people?
 Рассказчик: ...Она носит с собой печенье и хлеб на двенадцать человек?
 
-# Original: They did offer us some nosh, those dried fish-things, but... we refused. I ain't about takin' food from the needy.
+# Heathcliff: They did offer us some nosh, those dried fish-things, but... we refused. I ain't about takin' food from the needy.
 Хитклиф: Они предлагали нам перекусить, эту свою вяленую рыбу, но... мы отказались. Я не собираюсь отбирать еду у нуждающихся.
 
-# Original: …….
+# Skadi: …….
 Скади: …….
 
-# Original: No need to concern yourselves so much with our hospitality.
+# Village Chief: No need to concern yourselves so much with our hospitality.
 Фабий: Не стоит так беспокоиться о нашем гостеприимстве.
 
-# Original: You have done more than enough to earn your keep.
+# Village Chief: You have done more than enough to earn your keep.
 Фабий: Вы сделали более чем достаточно, чтобы заслужить своё место здесь.
 
-# Original: I turned around to look at the source of that low, rumbling voice, and saw an old man in an outfit that seemed to distinguish itself amongst the other villagers.
+# Narrator: I turned around to look at the source of that low, rumbling voice, and saw an old man in an outfit that seemed to distinguish itself amongst the other villagers.
 Рассказчик: Я обернулся на источник этого низкого, рокочущего голоса и увидел старика в одежде, которая, казалось, выделяла его среди других селян.
 
-# Original: There you are, chief. Is there a place for us to stay the night?
+# Outis: There you are, chief. Is there a place for us to stay the night?
 Отис: А вот и вы, староста. Найдётся ли для нас место, чтобы переночевать?
 
-# Original: Mm… we do have places to shelter from the misty humidity, at the very least.
+# Village Chief: Mm… we do have places to shelter from the misty humidity, at the very least.
 Фабий: Хм… у нас, по крайней мере, есть где укрыться от туманной сырости.
 
-# Original: There is an empty building there, so feel free to occupy it for the night.
+# Village Chief: There is an empty building there, so feel free to occupy it for the night.
 Фабий: Там есть пустующее здание, так что можете занять его на ночь.
 
-# Original: Ooh… are you sure? I mean, I don’t mind sleeping in the streets myself.
+# Gregor: Ooh… are you sure? I mean, I don’t mind sleeping in the streets myself.
 Грегор: О-о... вы уверены? Я-то не против и на улице поспать.
 
-# Original: Hey, speak for yourself! I’ve been looking forward to sleeping with a roof over my head since like, yesterday.
+# Rodion: Hey, speak for yourself! I’ve been looking forward to sleeping with a roof over my head since like, yesterday.
 Родион: Эй, говори за себя! Я со вчерашнего дня мечтаю поспать под крышей над головой.
 
-# Original: You’ll catch cold sleeping in the elements in this environment. Which is fine by me for the rest of you, but we cannot afford to have the Executive Manager or our honored guests suffer that fate.
+# Outis: You’ll catch a cold sleeping in the elements in this environment. Which is fine by me for the rest of you, but we cannot afford to have the Executive Manager or our honored guests suffer that fate.
 Отис: Вы простудитесь, если будете спать на открытом воздухе в таких условиях. За остальных мне всё равно, но мы не можем допустить, чтобы такая участь постигла Исполнительного менеджера или наших почётных гостей.
 
-# Original: H-honored guests!?
+# Amiya: H-honored guests!?
 Амия: П-почётных гостей?!
 
-# Original: Heh. I heard what happened from the four who left in search of the Executive Manager.
+# Outis: Heh. I heard what happened from the four who left in search of the Executive Manager.
 Отис: Хех. Я слышала, что произошло, от тех четверых, что отправились на поиски Исполнительного менеджера.
 
-# Original: First, I would like to begin by imparting my infinite gratitude to you for finding and rescuing the Executive Manager.
+# Outis: First, I would like to begin by imparting my infinite gratitude to you for finding and rescuing the Executive Manager.
 Отис: Прежде всего, я хотела бы выразить вам свою безграничную благодарность за то, что вы нашли и спасли Исполнительного менеджера.
 
-# Original: I hear that you are a leader at a pharmaceutical company—this acquaintance shall certainly come in handy, in case our stay becomes significantly prolonged, ha ha!
+# Outis: I hear that you are a leader at a pharmaceutical company—this acquaintance shall certainly come in handy, in case our stay becomes significantly prolonged, ha ha!
 Отис: Я слышала, вы возглавляете фармацевтическую компанию — это знакомство определённо пригодится, если наше пребывание здесь значительно затянется, ха-ха!
 
-# Original: I'm just surprised by her boldness to say something so materialistic when they're standing right there...
+# Ishmael: I'm just surprised by her boldness to say something so materialistic when they're standing right there...
 Измаил: Я просто поражена её наглости — говорить такие меркантильные вещи прямо им в лицо...
 
-# Original: …….
+# Amiya: …….
 Амия: …….
 
-# Original: Can I stay in your village too, chief?
+# Amiya: Can I stay in your village too, chief?
 Амия: Могу я тоже остаться в вашей деревне, староста?
 
-# Original: The village chief took a brief glance at the hems by her right wrist, then nodded.
+# Narrator: The village chief took a brief glance at the hems by her right wrist, then nodded.
 Рассказчик: Староста деревни бросил короткий взгляд на её правое запястье, а затем кивнул.
 
-# Original: ... Welcome to Faro Muerto. You are welcome to stay for as long as you want.
+# Village Chief: ... Welcome to Faro Muerto. You are welcome to stay for as long as you want.
 Фабий: ...Добро пожаловать в Фаро Муэрто. Можете оставаться столько, сколько захотите.
 
-# Original: And please, do let me know if you find yourselves without food. Our food supply may be tight indeed, but we have enough to share with those who helped repair the vessel.
+# Village Chief: And please, do let me know if you find yourselves without food. Our food supply may be tight indeed, but we have enough to share with those who helped repair the vessel.
 Фабий: И, пожалуйста, дайте мне знать, если у вас не будет еды. Наши запасы, может, и скудны, но у нас хватит, чтобы поделиться с теми, кто помог чинить судно.
 
-# Original: Ooh... ya better not go back on your word later! Heh heh... I wonder what kind of local delicacies await... Dried fish like they were eating earlier, maybe?
+# Rodion: Ooh... ya better not go back on your word later! Heh heh... I wonder what kind of local delicacies await... Dried fish like they were eating earlier, maybe?
 Родион: О-о... смотрите, не заберите потом свои слова обратно! Хе-хе... интересно, какие местные деликатесы нас ждут... Может, вяленая рыба, как та, что они ели?
 
-# Original: Hey, chief.
+# Skadi: Hey, chief.
 Скади: Эй, староста.
 
-# Original: What is it?
+# Village Chief: What is it?
 Фабий: Что такое?
 
-# Original: Just how are you surviving out here, <i>by the sea</i>?
+# Skadi: Just how are you surviving out here, <i>by the sea</i>?
 Скади: Как именно вы выживаете здесь, <i>у моря</i>?
 
-# Original: Mm… perhaps the question of 'how' we are surviving may be somewhat misdirected.
+# Village Chief: Mm… perhaps the question of 'how' we are surviving may be somewhat misdirected.
 Фабий: Хм… возможно, вопрос «как» мы выживаем, несколько неверно поставлен.
 
-# Original: For we are only pursuing every possible avenue 'because' we must survive.
+# Village Chief: For we are only pursuing every possible avenue 'because' we must survive.
 Фабий: Ибо мы лишь ищем все возможные пути, «потому что» мы должны выжить.
 
-# Original: …….
+# Skadi: …….
 Скади: …….
 
-# Original: The chief responds to Skadi's perceived hostility with a hearty smile. After leaving some firewood for the night, he left.
+# Narrator: The chief responds to Skadi's perceived hostility with a hearty smile. After leaving some firewood for the night, he left.
 Рассказчик: Староста отвечает на кажущуюся враждебность Скади радушной улыбкой. Оставив немного дров на ночь, он ушёл.
 
-# Original: I’m going. Can’t learn much more from here.
+# Skadi: I’m going. Can’t learn much more from here.
 Скади: Я ухожу. Больше здесь ничего не узнать.
 
-# Original: Huh? You going somewhere at this hour?
+# Gregor: Huh? You going somewhere at this hour?
 Грегор: А? Ты куда-то собралась в такой час?
 
-# Original: …….
+# Skadi: …….
 Скади: …….
 
-# Original: <Skadi, does this have something to do with the coast…?>
+# Dante: <Skadi, does this have something to do with the coast…?>
 Данте: <Скади, это как-то связано с побережьем..?>
 
-# Original: <I remember what you said before we got to the village. Something about how coasts are hardly good places to live in.>
+# Dante: <I remember what you said before we got to the village. Something about how coasts are hardly good places to live in.>
 Данте: <Я помню, что ты сказала, прежде чем мы добрались до деревни. Что-то о том, что побережья — не лучшее место для жизни.>
 
-# Original: Dante wants to know if… this has something to do with the coast?
+# Amiya: Dante wants to know if… this has something to do with the coast?
 Амия: Данте хочет знать... это как-то связано с побережьем?
 
-# Original: … You.
+# Skadi: … You.
 Скади: ...Ты.
 
-# Original: Do you understand the Ægir language?
+# Skadi: Do you understand the Ægir language?
 Скади: Ты понимаешь эгирский язык?
 
-# Original: <Ægir language…? Uh… no…?>
+# Dante: <Ægir language…? Uh… no…?>
 Данте: <Эгирский язык..? Э-э... нет..?>
 
-# Original: Dante. Skadi just spoke in Ægirian.
+# Amiya: Dante. Skadi just spoke in Ægirian.
 Амия: Данте. Скади только что говорила на эгирском.
 
-# Original: I couldn’t understand a word of Skadi and the chief's conversation because I don’t speak Ægirian.
+# Amiya: I couldn’t understand a word of Skadi and the chief's conversation because I don’t speak Ægirian.
 Амия: Я не поняла ни слова из разговора Скади и старосты, потому что не говорю на эгирском.
 
-# Original: ... It may only be that there were enough lexical similarity between one of the City's languages and the language Skadi spoke in for them to comprehend the meaning.
+# Faust: ... It may only be that there were enough lexical similarity between one of the City's languages and the language Skadi spoke in for them to comprehend the meaning.
 Фауст: ...Возможно, лишь то, что между одним из языков Города и языком, на котором говорила Скади, было достаточно лексического сходства, чтобы он понял смысл.
 
-# Original: … Weird coincidence.
+# Skadi: … Weird coincidence.
 Скади: ...Странное совпадение.
 
-# Original: Anyway, I have some things to look into. Something you’re all too slow to see.
+# Skadi: Anyway, I have some things to look into. Something you’re all too slow to see.
 Скади: В любом случае, мне нужно кое-что проверить. Кое-что, что вы все слишком медленно замечаете.
 
-# Original: ... You still have to tell us about it later.
+# Amiya: ... You still have to tell us about it later.
 Амия: ...Ты всё равно должна будешь рассказать нам об этом позже.
 
-# Original: Please remember you’re not on a solo mission, Skadi. This is a team effort from Rhodes Island.
+# Amiya: Please remember you’re not on a solo mission, Skadi. This is a team effort from Rhodes Island.
 Амия: Пожалуйста, помни, что ты не на одиночной миссии, Скади. Это командная работа Родос Айленд.
 
-# Original: … Will do.
+# Skadi: … Will do.
 Скади: ...Будет сделано.
 
-# Original: Skadi nodded lightly before leaping off into the night, out of our sights.
+# Narrator: Skadi nodded lightly before leaping off into the night, out of our sights.
 Рассказчик: Скади слегка кивнула, прежде чем прыгнуть в ночь и скрыться из виду.
 
-# Original: <I’m kinda worried…>
+# Dante: <I’m kinda worried…>
 Данте: <Я как-то волнуюсь...>
 
-# Original: She’s not the best with people, but… she’s also pretty thoughtful. She’ll be okay.
+# Amiya: She’s not the best with people, but… she’s also pretty thoughtful. She’ll be okay.
 Амия: Она не очень хорошо ладит с людьми, но... она также довольно вдумчива. С ней всё будет в порядке.
 
-# Original: Ah! Should we head inside? The sun's starting to set already.
+# Amiya: Ah! Should we head inside? The sun's starting to set already.
 Амия: Ах! Может, зайдём внутрь? Солнце уже садится.
 
-# Original: <O-oh, yeah. We can probably just pick an unlit building and stay the night there, right?>
+# Dante: <O-oh, yeah. We can probably just pick an unlit building and stay the night there, right?>
 Данте: <О-ой, да. Мы, наверное, можем просто выбрать неосвещённое здание и остаться там на ночь, да?>
 
-# Original: Trying our best to ignore the mood that was starting to turn awkward, we made our way into a nearby unoccupied building.
+# Narrator: Trying our best to ignore the mood that was starting to turn awkward, we made our way into a nearby unoccupied building.
 Рассказчик: Стараясь изо всех сил не обращать внимания на атмосферу, которая становилась всё более неловкой, мы направились в ближайшее незанятое здание.

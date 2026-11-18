@@ -1,29 +1,29 @@
-﻿# Original: A sound resembling the rumble of a train comes from beyond the door.
+﻿# Narrator: A sound resembling the rumble of a train comes from beyond the door.
 Рассказчик: Из-за двери доносится звук, похожий на грохот поезда.
 
-# Original: As I move closer to investigate, the light leaking through the gap grows steadily brighter.
+# Narrator: As I move closer to investigate, the light leaking through the gap grows steadily brighter.
 Рассказчик: Я подхожу ближе, чтобы разобраться, и свет, пробивающийся сквозь щель, становится всё ярче.
 
-# Original: <Aaargh!!>
+# Dante: <Aaargh!!>
 Данте: <А-а-а!!>
 
-# Original: ...! Executive Manager!
+# Outis: ...! Executive Manager!
 Отис: ...! Исполнительный Менеджер!
 
-# Original: Are you unharmed?! What did you see?
+# Outis: Are you unharmed?! What did you see?
 Отис: Вы не пострадали?! Что вы увидели?
 
-# Original: <I heard something like a train... and then this huge flash of light came through...>
+# Dante: <I heard something like a train... and then this huge flash of light came through...>
 Данте: <Я услышал что-то похожее на поезд... а потом оттуда хлынул ослепительный свет...>
 
-# Original: Outis scrutinizes every inch of the gap, then points as though she has found something.
+# Narrator: Outis scrutinizes every inch of the gap, then points as though she has found something.
 Рассказчик: Отис тщательно осматривает каждый сантиметр щели, а затем указывает на что-то, словно сделала находку.
 
-# Original: Something is lodged inside. Meursault, can you remove it?
+# Outis: Something is lodged inside. Meursault, can you remove it?
 Отис: Внутри что-то застряло. Мерсо, можешь извлечь?
 
-# Original: I can.
+# Meursault: I can.
 Мерсо: Могу.
 
-# Original: Meursault removes an eyeball from the gap.
+# Narrator: Meursault removes an eyeball from the gap.
 Рассказчик: Мерсо извлекает из щели глазное яблоко.

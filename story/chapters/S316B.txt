@@ -1,77 +1,77 @@
-﻿# Original: Okay, what should we do now? If we move quietly, we might be able to pass by the other Inquisitors unnoticed.
+﻿# Ishmael: Okay, what should we do now? If we move quietly, we might be able to pass by the other Inquisitors unnoticed.
 Измаил: Хорошо, а что нам теперь делать? Если будем идти тихо, то сможем незаметно проскользнуть мимо остальных инквизиторов.
 
-# Original: Dante… I… I’d like to apologize in advance.
+# Sinclair: Dante… I… I’d like to apologize in advance.
 Синклер: Данте… Я… хотел бы заранее извиниться перед вами.
 
-# Original: As you know… I’m not as experienced with fighting like the others…
+# Sinclair: As you know… I’m not as experienced with fighting like the others…
 Синклер: Как вы уже знаете… Я не так опытен в сражениях, как другие…
 
-# Original: Our foes might jab me in the heart over and over for that…
+# Sinclair: Our foes might jab me in the heart over and over for that…
 Синклер: Поэтому они могут протыкать мою грудь вновь и вновь…
 
-# Original: Will you… bear that for me?
+# Sinclair: Will you… bear that for me?
 Синклер: Вы же сможете… выдержать это?
 
-# Original: Sinclair was trembling so badly that it’d be pitiful for anyone to witness.
+# Narrator: Sinclair was trembling so badly that it’d be pitiful for anyone to witness.
 Рассказчик: Синклер дрожал настолько сильно, что любому увидевшему это стало бы его жалко.
 
-# Original: I could tell he was desperately trying to suppress his fear.
+# Narrator: I could tell he was desperately trying to suppress his fear.
 Рассказчик: Можно было сказать наверняка, что он искренне старался подавить свой страх.
 
-# Original: It wouldn’t be the first time Sinclair has died. Whenever he bit the dust, I made sure to bring him back.
+# Narrator: It wouldn’t be the first time Sinclair has died. Whenever he bit the dust, I made sure to bring him back.
 Рассказчик: Синклер умирает уже не в первый раз. И вновь и вновь я возвращаю его к жизни.
 
-# Original: But today, he’s newly asking for my understanding. He looked determined to confront them directly even if it means he’ll die again and again.
+# Narrator: But today, he’s newly asking for my understanding. He looked determined to confront them directly even if it means he’ll die again and again.
 Рассказчик: Однако именно сегодня он впервые просит моего понимания. Он решился столкнуться с ними напрямую, даже если это значит, что ему придётся снова и снова умирать.
 
-# Original: A feeling quite unlike the fright a usual battle evokes…
+# Narrator: A feeling quite unlike the fright a usual battle evokes…
 Рассказчик: Этот страх отличен от привычного в бою…
 
-# Original: Maybe he’s holding the kind of fear that comes with a certain courage.
+# Narrator: Maybe he’s holding the kind of fear that comes with a certain courage.
 Рассказчик: Возможно то был страх, идущий вместе с толикой храбрости.
 
-# Original: In that case…
+# Narrator: In that case…
 Рассказчик: И в таком случае…
 
-# Original: <Are you scared, Sinclair?>
+# Dante: <Are you scared, Sinclair?>
 Данте: <Ты напуган, Синклер?>
 
-# Original: …!
+# Sinclair: …!
 Синклер: …!
 
-# Original: Sinclair suddenly turned around and gave me a startled look.
+# Narrator: Sinclair suddenly turned around and gave me a startled look.
 Рассказчик: Синклер вдруг обернулся ко мне, испуганно глядя на меня.
 
-# Original: <Hmm? Did I say something weird?>
+# Dante: <Hmm? Did I say something weird?>
 Данте: <М? Я сказал что-то не то?>
 
-# Original: No, it’s just… I was reminded of a friend who asked me the same question.
+# Sinclair: No, it’s just… I was reminded of a friend who asked me the same question.
 Синклер: Нет, просто… Вспомнил друга, который однажды задал мне тот же вопрос.
 
-# Original: Sinclair opened his mouth after a brief pause. His voice cracked.
+# Narrator: Sinclair opened his mouth after a brief pause. His voice cracked.
 Рассказчик: После недолгой тишины, Синклер вновь открыл рот. Его голос дрожал.
 
-# Original: …I agree with what Heathcliff said.
+# Sinclair: …I agree with what Heathcliff said.
 Синклер: …Я согласен с Хитклифом.
 
-# Original: Prosthetic head or not, you would’ve been the same person regardless, Dante.
+# Sinclair: Prosthetic head or not, you would’ve been the same person regardless, Dante.
 Синклер: Протезированная голова у вас или нет — вы останетесь тем же человеком.
 
-# Original: I guess the same could be said for my family.
+# Sinclair: I guess the same could be said for my family.
 Синклер: И то же самое можно было и сказать про мою семью.
 
-# Original: <Thanks, Sinclair.>
+# Dante: <Thanks, Sinclair.>
 Данте: <Спасибо, Синклер.>
 
-# Original: …Hoo.
+# Sinclair: …Hoo.
 Синклер: …Фух.
 
-# Original: It’s nothing. I can’t have you be too thankful when I’m about to make you suffer by throwing my life away. Haha.
+# Sinclair: It’s nothing. I can’t have you be too thankful when I’m about to make you suffer by throwing my life away. Haha.
 Синклер: Да не за что. Вам ни к чему меня благодарить, когда я собираюсь заставить вас мучиться от количества собственных смертей. Аха-ха.
 
-# Original: Just as I realized that I forgot to ask what he said in response to the same question his friend had…
+# Narrator: Just as I realized that I forgot to ask what he said in response to the same question his friend had…
 Рассказчик: И только я осознал, что забыл спросить, каков же был его ответ на вопрос того друга…
 
-# Original: Sinclair had already charged into the fray.
+# Narrator: Sinclair had already charged into the fray.
 Рассказчик: Синклер уже помчался в бой.

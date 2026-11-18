@@ -1,299 +1,299 @@
-# Original: It's too dark to see... What is that?
+# Sinclair: It's too dark to see... What is that?
 Синклер: Слишком темно, чтобы что-то разглядеть... Что это такое?
 
-# Original: It's been stopped for a moment because of the commotion, right?
+# Dongrang: It's been stopped for a moment because of the commotion, right?
 Донран: Из-за суматохи всё на мгновение остановилось, верно?
 
-# Original: Yes, as intruders might come up... so Director Alfonso has ordered to halt the operation for the moment...
+# Samjo: Yes, as intruders might come up... so Director Alfonso has ordered to halt the operation for the moment...
 Самджо: Да, поскольку могут появиться нарушители... Директор Альфонсо приказала приостановить операцию на некоторое время...
 
-# Original: No, no, that just won't do. The losses caused in that brief moment will be tremendous, Samjo.
+# Dongrang: No, no, that just won't do. The losses caused in that brief moment will be tremendous, Samjo.
 Донран: Нет, нет, так не пойдет. Потери, вызванные этой короткой паузой, будут огромны, Самджо.
 
-# Original: Scratch that... What IS that thing?!
+# Rodion: Scratch that... What IS that thing?!
 Родион: Забудь об этом... Что ЭТО за штука?!
 
-# Original: Ah, you see... This thing cries in our stead.
+# Dongrang: Ah, you see... This thing cries in our stead.
 Донран: А, видите ли... Эта штука плачет вместо нас.
 
-# Original: So I always look at it with gratitude and pity.
+# Dongrang: So I always look at it with gratitude and pity.
 Донран: Поэтому я всегда смотрю на неё с благодарностью и жалостью.
 
-# Original: I see now... That's what Ran told me about.
+# ???: I see now... That's what Ran told me about.
 Донбек: Теперь я понимаю... Вот о чём мне говорила Ран.
 
-# Original: The voice of a person we've been desperately looking for was heard.
+# Narrator: The voice of a person we've been desperately looking for was heard.
 Рассказчик: Прозвучал голос человека, которого мы так отчаянно искали.
 
-# Original: Its source was right in front of us.
+# Narrator: Its source was right in front of us.
 Рассказчик: Его источник был прямо перед нами.
 
-# Original: Some kind of translucent veil seemed to drop as she rose...
+# Narrator: Some kind of translucent veil seemed to drop as she rose...
 Рассказчик: Казалось, что какая-то прозрачная вуаль спала, когда она поднялась...
 
-# Original: And Dongbaek was looking at us.
+# Narrator: And Dongbaek was looking at us.
 Рассказчик: И Донбек смотрела на нас.
 
-# Original: Ahh~ I've been wondering how, and now I know the answer.
+# Dongrang: Ahh~ I've been wondering how, and now I know the answer.
 Донран: А-а~ Я всё гадал, как же это произошло, и теперь я знаю ответ.
 
-# Original: How our security was so easily breached, how we kept losing track of you, and how you kept vanishing...
+# Dongrang: How our security was so easily breached, how we kept losing track of you, and how you kept vanishing...
 Донран: Как наша система безопасности была так легко нарушена, как мы постоянно теряли вас из виду, и как вы продолжали исчезать...
 
-# Original: You had the 'veil'. Ah, it was so simple, why couldn't I think of it sooner?
+# Dongrang: You had the 'veil'. Ah, it was so simple, why couldn't I think of it sooner?
 Донран: У вас была "вуаль". Ах, это было так просто, почему я не подумал об этом раньше?
 
-# Original: 'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?
+# Heathcliff: 'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?
 Хитклиф: "Вуаль"? Что это еще за хрень... Ах, вы, ублюдки, снова начали говорить о вещах, которые знаете только вы, да?
 
-# Original: You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer.
+# Ishmael: You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer.
 Измаил: Ты, может, и сможешь жить в Городе нормально, но явно не годишься на роль Корректировщика.
 
-# Original: Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along.
+# Faust: Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along.
 Фауст: Большинству людей трудно понять или разобраться в источнике каждой технологии в их жизни, поэтому они отказываются от этой затеи и просто кивают в ответ.
 
-# Original: Pretending to know. It's an essential skill for making your life in the City bearable.
+# Faust: Pretending to know. It's an essential skill for making your life in the City bearable.
 Фауст: Притворяться знающим. Это необходимый навык, чтобы сделать жизнь в Городе терпимой.
 
-# Original: …Ahem.
+# Ishmael: …Ahem.
 Измаил: ...Кхм.
 
-# Original: ……
+# Dongbaek: ……
 Донбек: ......
 
-# Original: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
+# Dongrang: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
 Донран: Это дорогой предмет на основе Сингулярности, который могут позволить себе только известные Корректировщики, руководители Крыльев или самые богатые классы... Даже если я спрошу, как ты его получила, ты ведь не ответишь, верно?
 
-# Original: Is what I'm seeing the truth behind regeneration ampules?
+# Dongbaek: Is what I'm seeing the truth behind regeneration ampules?
 Донбек: Является ли то, что я вижу, правдой, стоящей за регенерационными ампулами?
 
-# Original: ...Yes, that's right. The source of the ampules you're hellbent on destroying.
+# Dongrang: ...Yes, that's right. The source of the ampules you're hellbent on destroying.
 Донран: ...Да, верно. Источник ампул, которые ты так стремишься уничтожить.
 
-# Original: What do you... Destroy?
+# Samjo: What do you... Destroy?
 Самджо: Что ты... Уничтожить?
 
-# Original: Let me ask you a question: Don't you know how many lives these ampules can save?
+# Samjo: Let me ask you a question: Don't you know how many lives these ampules can save?
 Самджо: Позволь задать тебе вопрос: Разве ты не знаешь, сколько жизней могут спасти эти ампулы?
 
-# Original: These regeneration ampules don't simply regenerate the body.
+# Dongbaek: These regeneration ampules don't simply regenerate the body.
 Донбек: Эти регенерационные ампулы не просто восстанавливают тело.
 
-# Original: These tears can kill as easily as they can save.
+# Dongbaek: These tears can kill as easily as they can save.
 Донбек: Эти слезы могут убивать так же легко, как и спасать.
 
-# Original: Hah... Are you trying to suggest that these tears kill people?
+# Samjo: Hah... Are you trying to suggest that these tears kill people?
 Самджо: Ха... Ты пытаешься утверждать, что эти слезы убивают людей?
 
-# Original: I have nothing more to say to you if you won't believe me even after seeing it happen several times already.
+# Dongbaek: I have nothing more to say to you if you won't believe me even after seeing it happen several times already.
 Донбек: Мне больше нечего тебе сказать, если ты не поверишь мне даже после того, как уже несколько раз видел это своими глазами.
 
-# Original: Fine then, will you concede if I prove their safety by walking into this pool?
+# Samjo: Fine then, will you concede if I prove their safety by walking into this pool?
 Самджо: Хорошо, тогда ты признаешь свою неправоту, если я докажу их безопасность, войдя в этот резервуар?
 
-# Original: What?
+# Dongbaek: What?
 Донбек: Что?
 
-# Original: Don't slander Mr. Dongrang with your baseless claims. Countless people have recovered from life-threatening conditions thanks to this technology.
+# Samjo: Don't slander Mr. Dongrang with your baseless claims. Countless people have recovered from life-threatening conditions thanks to this technology.
 Самджо: Не смей клеветать на господина Донрана своими беспочвенными заявлениями. Благодаря этой технологии бесчисленное множество людей излечились от опасных для жизни состояний.
 
-# Original: I've been injected with it once myself.
+# Samjo: I've been injected with it once myself.
 Самджо: Однажды мне самому сделали инъекцию.
 
-# Original: My neck broke while diving, but the regeneration ampule helped me recover from the brink of death. It was one of the reasons I applied for K Corp. as soon as I became an adult, but that's not the point here.
+# Samjo: My neck broke while diving, but the regeneration ampule helped me recover from the brink of death. It was one of the reasons I applied for K Corp. as soon as I became an adult, but that's not the point here.
 Самджо: Я сломал шею во время ныряния, но регенерационная ампула помогла мне восстановиться, когда я был на грани смерти. Это была одна из причин, по которой я подал заявку в Корпорацию К, как только стал взрослым, но сейчас речь не об этом.
 
-# Original: W-What are you doing, Mr. Samjo?
+# Rodion: W-What are you doing, Mr. Samjo?
 Родион: Ч-что вы делаете, господин Самджо?
 
-# Original: My childhood dream was to be a competitive swimmer in the Nest. I can dive from this height no problem.
+# Samjo: My childhood dream was to be a competitive swimmer in the Nest. I can dive from this height no problem.
 Самджо: В детстве я мечтал стать профессиональным пловцом в Гнезде. Я могу нырнуть с этой высоты без проблем.
 
-# Original: I thought it was being a baseball star...
+# Rodion: I thought it was being a baseball star...
 Родион: А я думала, что вы мечтали стать бейсбольной звездой...
 
-# Original: Haha, you're overdoing it again, Samjo. You don't have to go through the trouble. It's okay, so just stay here.
+# Dongrang: Haha, you're overdoing it again, Samjo. You don't have to go through the trouble. It's okay, so just stay here.
 Донран: Ха-ха, ты снова перестарался, Самджо. Тебе не нужно так стараться. Всё в порядке, просто оставайся здесь.
 
-# Original: It's no trouble at all. You worked on the ampule yourself.
+# Samjo: It's no trouble at all. You worked on the ampule yourself.
 Самджо: Это вовсе не проблема. Вы же ведь сами работали над ампулой.
 
-# Original: Mr. Dongrang, Director Alfonso... and countless other researchers worked for years to perfect K Corp's regeneration ampules.
+# Samjo: Mr. Dongrang, Director Alfonso... and countless other researchers worked for years to perfect K Corp's regeneration ampules.
 Самджо: Господин Донран, директор Альфонсо... и бесчисленные другие исследователи годами работали над совершенствованием регенерационных ампул Корпорации K.
 
-# Original: I could only be here because I trust this technology. I'm proud of it.
+# Samjo: I could only be here because I trust this technology. I'm proud of it.
 Самджо: Я могу быть здесь только потому, что доверяю этой технологии. Я горжусь ею.
 
-# Original: I'll be back in a minute.
+# Samjo: I'll be back in a minute.
 Самджо: Я вернусь через минуту.
 
-# Original: ...Wait, Samjo?
+# Dongrang: ...Wait, Samjo?
 Донран: ...Подожди, Самджо?
 
-# Original: Samjo took his glasses off and jumped into the vat containing the tears.
+# Narrator: Samjo took his glasses off and jumped into the vat containing the tears.
 Рассказчик: Самджо снял очки и прыгнул в чан, содержащий слезы.
 
-# Original: Small bubbles rose from where he dove, but a few seconds later, no sound could be heard from the vat.
+# Narrator: Small bubbles rose from where he dove, but a few seconds later, no sound could be heard from the vat.
 Рассказчик: Маленькие пузырьки поднялись оттуда, куда он нырнул, но через несколько секунд из чана не доносилось ни звука.
 
-# Original: Ah...
+# Dongrang: Ah...
 Донран: Ах...
 
-# Original: Oh dear, what a bother. Samjo never knew about the unrefined tears.
+# Dongrang: Oh dear, what a bother. Samjo never knew about the unrefined tears.
 Донран: О боже, какая неприятность. Самджо никогда не знал о неочищенных слезах.
 
-# Original: We won't be able to salvage his body. Still... It's fortunate that he remained proud of us until the end.
+# Dongrang: We won't be able to salvage his body. Still... It's fortunate that he remained proud of us until the end.
 Донран: Мы не сможем достать его тело. Тем не менее... Хорошо, что он до конца оставался гордым за нас.
 
-# Original: ...What did you just say?
+# Sinclair: ...What did you just say?
 Синклер: ...Что вы только что сказали?
 
-# Original: Mr. Samjo's was a case of success from a humble upbringing. I like that sort of person.
+# Dongrang: Mr. Samjo's was a case of success from a humble upbringing. I like that sort of person.
 Донран: Господин Самджо был примером успеха из скромных начал. Мне нравятся такие люди.
 
-# Original: Fellows who are hired by Wings even though their qualifications are far below the Wings' requirements tend to be loyal to their employers.
+# Dongrang: Fellows who are hired by Wings even though their qualifications are far below the Wings' requirements tend to be loyal to their employers.
 Донран: Ребята, которых нанимают Крылья, несмотря на то, что их квалификация намного ниже требований Крыльев, как правило, лояльны к своим работодателям.
 
-# Original: What? Wasn't he a Nest-born...
+# Heathcliff: What? Wasn't he a Nest-born...
 Хитклиф: Что? Разве он не родился в Гнезде...
 
-# Original: Right, you do know that being from the Nest doesn't grant you a free pass to the Wings, right?
+# Dongrang: Right, you do know that being from the Nest doesn't grant you a free pass to the Wings, right?
 Донран: Верно, ты ведь знаешь, что происхождение из Гнезда не дает тебе свободного пропуска в Крылья, так?
 
-# Original: ……
+# Yi Sang: ……
 И Сан: ......
 
-# Original: What's happening? Why isn't Mr. Samjo coming back?
+# Sinclair: What's happening? Why isn't Mr. Samjo coming back?
 Синклер: Что происходит? Почему господин Самджо не возвращается?
 
-# Original: What does the unprocessed liquid do, Dongrang?
+# Yi Sang: What does the unprocessed liquid do, Dongrang?
 И Сан: Что делает необработанная жидкость, Донран?
 
-# Original: The tears' function is to revert things to how they were originally.
+# Dongrang: The tears' function is to revert things to how they were originally.
 Донран: Функция слез – возвращать вещи в их первоначальное состояние.
 
-# Original: The regeneration ampules available now are a product of numerous refining processes.
+# Dongrang: The regeneration ampules available now are a product of numerous refining processes.
 Донран: Регенерационные ампулы, доступные сейчас, – это продукт многочисленных процессов очистки.
 
-# Original: When a person who has lost an arm takes the ampule, they'll remember having the arm as its original state.
+# Dongrang: When a person who has lost an arm takes the ampule, they'll remember having the arm as its original state.
 Донран: Когда человек, потерявший руку, принимает ампулу, он вспомнит, какой рука была в её изначальном состоянии.
 
-# Original: When someone with a dent in the head takes the ampule, their head will be restored to the shape they remember to be how it originally was.
+# Dongrang: When someone with a dent in the head takes the ampule, their head will be restored to the shape they remember to be how it originally was.
 Донран: Когда кто-то с вмятиной на голове принимает ампулу, его голова восстановится до формы, которую он помнит как изначальную.
 
-# Original: What about those people in the Lobotomy branch... who died like bugs...
+# Gregor: What about those people in the Lobotomy branch... who died like bugs...
 Грегор: А как насчет тех людей в филиале Лоботомии... которые умерли как тараканы...
 
-# Original: They were all under a trance, so to speak.
+# Yi Sang: They were all under a trance, so to speak.
 И Сан: Они все были в трансе, так сказать.
 
-# Original: By repeatedly playing the voice that says 'you are a bug' in a sealed, otherwise silent room... the image of bugs will be instilled in the subconscious.
+# Yi Sang: By repeatedly playing the voice that says 'you are a bug' in a sealed, otherwise silent room... the image of bugs will be instilled in the subconscious.
 И Сан: Постоянно воспроизводя голос, говорящий "ты букашка" в запечатанной, иначе тихой комнате... образ насекомых будет внедрен в подсознание.
 
-# Original: Indeed. It becomes more effective with the step of refining and diluting it with ideas of human concepts.
+# Dongrang: Indeed. It becomes more effective with the step of refining and diluting it with ideas of human concepts.
 Донран: Действительно. Это становится более эффективным с этапом очистки и разбавления идеями человеческих концепций.
 
-# Original: But, when a drop of tear that lacks any kind of interpretation touches someone...
+# Dongrang: But, when a drop of tear that lacks any kind of interpretation touches someone...
 Донран: Но когда капля слезы, лишенная какой-либо интерпретации, касается кого-то...
 
-# Original: They'd be reverted all the way back... to the original form of humanity.
+# Dongrang: They'd be reverted all the way back... to the original form of humanity.
 Донран: Они будут возвращены назад... к изначальной форме человечества.
 
-# Original: The... original form?
+# Gregor: The... original form?
 Грегор: Изначальная... форма?
 
-# Original: Or should I say it helps you go back to that state?
+# Dongrang: Or should I say it helps you go back to that state?
 Донран: Или, может быть, стоит сказать, что она помогает вернуться в то состояние?
 
-# Original: Although it tries... it doesn't seem to be capable of making a person fully reach that state.
+# Dongrang: Although it tries... it doesn't seem to be capable of making a person fully reach that state.
 Донран: Хотя она пытается... кажется, она не способна полностью привести человека в это состояние.
 
-# Original: It consequently removes pain, but, well...
+# Dongrang: It consequently removes pain, but, well...
 Донран: В результате она устраняет боль, но, ну...
 
-# Original: So, are you satisfied, Dongbaek? You were right, and Samjo probably turned into the original form of humanity or something like that in the vat of tears. Congratulations. Now, what do you really want?
+# Dongrang: So, are you satisfied, Dongbaek? You were right, and Samjo probably turned into the original form of humanity or something like that in the vat of tears. Congratulations. Now, what do you really want?
 Донран: Итак, ты удовлетворена, Донбек? Ты была права, и Самджо, вероятно, превратился в изначальную форму человечества или что-то в этом роде в чане со слезами. Поздравляю. Теперь, чего ты действительно хочешь?
 
-# Original: ……
+# Dongbaek: ……
 Донбек: ......
 
-# Original: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
+# Dongbaek: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
 Донбек: Сингулярность. Навсегда уничтожить её и всё, что с ней связано, используя сжигатель концептов.
 
-# Original: Concept incinerator, huh. You'll use it again?
+# Dongrang: Concept incinerator, huh. You'll use it again?
 Донран: Сжигатель концептов, да? Ты снова его используешь?
 
-# Original: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
+# Dongrang: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
 Донран: Итак, Донбек... Допустим, тебе удастся вернуться в эпоху небытия... Что дальше?
 
-# Original: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
+# Dongrang: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
 Донран: Рубить деревья, строить хижины, делать одежду из кожи... Это тот образ жизни, которого ты хочешь?
 
-# Original: Mourning the lost lives of trees and animals you've killed?
+# Dongrang: Mourning the lost lives of trees and animals you've killed?
 Донран: Оплакивать потерянные жизни деревьев и животных, которых ты убила?
 
-# Original: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
+# Dongrang: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
 Донран: Послушай, Донбек... С таким отношением... ты будешь не более чем примитивным любителем. Ты действительно уверена, что этого хочешь?
 
-# Original: You... always ask stupid questions, then and now.
+# Dongbaek: You... always ask stupid questions, then and now.
 Донбек: Ты... всегда задаешь глупые вопросы, и тогда, и сейчас.
 
-# Original: We decided to use vile technology as tools to get rid of their vile creators.
+# Dongbaek: We decided to use vile technology as tools to get rid of their vile creators.
 Донбек: Мы решили использовать отвратительные технологии как инструменты, чтобы избавиться от их отвратительных создателей.
 
-# Original: Thus, no one can remain in the future we envision.
+# Dongbaek: Thus, no one can remain in the future we envision.
 Донбек: Таким образом, никто не сможет остаться в будущем, которое мы представляем.
 
-# Original: That's why we could be free. From the obsession with survival.
+# Dongbaek: That's why we could be free. From the obsession with survival.
 Донбек: Вот почему мы могли быть свободными. От одержимости выживанием.
 
-# Original: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
+# Dongrang: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
 Донран: Ха-ха, о чем ты говоришь? Так ты не представляла будущее; ты просто не можешь отпустить прошлое.
 
-# Original: Both of you... Stop this.
+# Yi Sang: Both of you... Stop this.
 И Сан: Вы оба... Прекратите это.
 
-# Original: I don't want old feuds repeating before my eyes.
+# Yi Sang: I don't want old feuds repeating before my eyes.
 И Сан: Я не хочу, чтобы старые распри повторялись перед моими глазами.
 
-# Original: Yi Sang, you look fine.
+# Dongbaek: Yi Sang, you look fine.
 Донбек: И Сан, похоже ты в порядке.
 
-# Original: You say it like you're relieved. Didn't you want him...
+# Gregor: You say it like you're relieved. Didn't you want him...
 Грегор: Ты говоришь так, будто испытываешь облегчение. Разве ты не хотела, чтобы он...
 
-# Original: You're right. I wanted him to die.
+# Dongbaek: You're right. I wanted him to die.
 Донбек: Ты прав. Я хотела, чтобы он умер.
 
-# Original: But I'm sure he wished for the same.
+# Dongbaek: But I'm sure he wished for the same.
 Донбек: Но я уверена, что он желал того же.
 
-# Original: He wouldn't resist while it dug into his heart.
+# Dongbaek: He wouldn't resist while it dug into his heart.
 Донбек: Он бы не сопротивлялся, пока оно вгрызалось в его сердце.
 
-# Original: It was unpleasant. It felt like I was granting your wish.
+# Dongbaek: It was unpleasant. It felt like I was granting your wish.
 Донбек: Это было неприятно. Казалось, будто я исполняю твое желание.
 
-# Original: ……
+# Yi Sang: ……
 И Сан: ......
 
-# Original: Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?
+# Gregor: Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?
 Грегор: Мне кажется, у вас обоих не все дома. Вы думаете, что сталкивание кого-то с обрыва можно оправдать тем, что этот человек колебался?
 
-# Original: Hesi— Haah, why don't we hear it from the person himself, then?
+# Dongbaek: Hesi— Haah, why don't we hear it from the person himself, then?
 Донбек: Коле— Хаах, почему бы нам тогда не услышать это от него самого?
 
-# Original: ...I have no words to say.
+# Yi Sang: ...I have no words to say.
 И Сан: ...Мне нечего сказать.
 
-# Original: This conversation is over, then.
+# Dongbaek: This conversation is over, then.
 Донбек: Тогда этот разговор окончен.
 
-# Original: I'm frankly glad it is.
+# Dongbaek: I'm frankly glad it is.
 Донбек: Честно говоря, я рада этому.
 
-# Original: I'll take this opportunity to kill two of my old companions with my own hands.
+# Dongbaek: I'll take this opportunity to kill two of my old companions with my own hands.
 Донбек: Я воспользуюсь этой возможностью, чтобы убить двух моих старых товарищей собственными руками.
 
-# Original: Then I'll seize and burn the Singularity.
+# Dongbaek: Then I'll seize and burn the Singularity.
 Донбек: Затем я захвачу и сожгу Сингулярность.

@@ -1,119 +1,119 @@
-# Original: Shrenne, you've got shrapnel wounds, are you sure you don't want to use an ampule?
+# Dongrang: Shrenne, you've got shrapnel wounds, are you sure you don't want to use an ampule?
 Донран: Шренн, у тебя осколочные ранения, ты уверена, что не хочешь использовать ампулу?
 
-# Original: I'm fine...
+# Shrenne: I'm fine...
 Шренн: Я в порядке...
 
-# Original: That Shrenne fella... She's looking kinda blank-faced, is she okay?
+# Gregor: That Shrenne fella... She's looking kinda blank-faced, is she okay?
 Грегор: Эта Шренн... У неё какое-то отсутствующее выражение лица, с ней всё нормально?
 
-# Original: Blank-faced... Hah, of course not. She couldn't be so carefree.
+# Gregor: Blank-faced... Hah, of course not. She couldn't be so carefree.
 Грегор: Отсутствующее... Ха, конечно нет. Она не может быть такой беззаботной.
 
-# Original: ……
+# Outis: ……
 Отис: ……
 
-# Original: This makes it evident.
+# Outis: This makes it evident.
 Отис: Это очевидно.
 
-# Original: The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us.
+# Outis: The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us.
 Отис: Террористы давно ушли. Остались только жаждущие крови убийцы, одержимые идеей убить нас.
 
-# Original: I've made my judgement. Hey, what do you think?
+# Outis: I've made my judgement. Hey, what do you think?
 Отис: Я приняла решение. Эй, что ты думаешь?
 
-# Original: Outis nudged her head at Meursault.
+# Narrator: Outis nudged her head at Meursault.
 Рассказчик: Отис кивнула головой в сторону Мерсо.
 
-# Original: I agree with it.
+# Meursault: I agree with it.
 Мерсо: Я согласен с этим.
 
-# Original: Wha, what are you two talking about?
+# Sinclair: Wha, what are you two talking about?
 Синклер: Ч-что? О чём вы двое говорите?
 
-# Original: There's a traitor in our ranks. No doubt remains in the matter.
+# Meursault: There's a traitor in our ranks. No doubt remains in the matter.
 Мерсо: Среди нас есть предатель. В этом не осталось сомнений.
 
-# Original: It's thanks to this spy that our course and plans were leaked from the moment we departed.
+# Meursault: It's thanks to this spy that our course and plans were leaked from the moment we departed.
 Мерсо: Именно благодаря этому шпиону наш курс и планы были раскрыты с момента нашего отбытия.
 
-# Original: To prevent further damage, it is right to dispose of them here and now.
+# Meursault: To prevent further damage, it is right to dispose of them here and now.
 Мерсо: Чтобы предотвратить дальнейший ущерб, правильно будет избавиться от него здесь и сейчас.
 
-# Original: Traitor.
+# Narrator: Traitor.
 Рассказчик: Предатель.
 
-# Original: I blankly watched as he brought up a concept foreign to me.
+# Narrator: I blankly watched as he brought up a concept foreign to me.
 Рассказчик: Я безучастно наблюдал, как он поднял тему, которая была мне чужда.
 
-# Original: As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.
+# Outis: As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.
 Отис: Поскольку маловероятно, что это кто-то из нас, разумно будет подозревать прихвостней вашего института.
 
-# Original: This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...
+# Outis: This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...
 Отис: Эту миссию нужно прервать, Исполнительный менеджер. Позволить себе быть вовлеченными в этот абсурд...
 
-# Original: I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...
+# Samjo: I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...
 Самджо: Меня возмущает ваше обвинение. Вы серьёзно подозреваете нас? Могу вас заверить, что мы доверяем друг другу больше, чем вы, люди, которые даже не проработали вместе и года...
 
-# Original: Samjo argued, flashes of light furiously bouncing off his glasses.
+# Narrator: Samjo argued, flashes of light furiously bouncing off his glasses.
 Рассказчик: Самджо спорил, яростно сверкая очками.
 
-# Original: No, Samjo. Their hypothesis sounds plausible. I would've said the same.
+# Dongrang: No, Samjo. Their hypothesis sounds plausible. I would've said the same.
 Донран: Нет, Самджо. Их гипотеза звучит правдоподобно. Я бы сказал то же самое.
 
-# Original: ……
+# Samjo: ……
 Самджо: ……
 
-# Original: You have something to say, don't you?
+# Dongrang: You have something to say, don't you?
 Донран: Тебе есть что сказать, не так ли?
 
-# Original: Mr. Dongrang...
+# Samjo: Mr. Dongrang...
 Самджо: Мистер Донран...
 
-# Original: That group of Fixers haven't used regeneration ampules a single time since they came in here.
+# Outis: That group of Fixers haven't used regeneration ampules a single time since they came in here.
 Отис: Эта группа Корректировщиков ни разу не использовала ампулы регенерации с тех пор, как они сюда вошли.
 
-# Original: Any sane combatant would kill to have those.
+# Outis: Any sane combatant would kill to have those.
 Отис: Любой здравомыслящий боец убил бы за такие.
 
-# Original: There is one more thing.
+# Meursault: There is one more thing.
 Мерсо: Есть ещё кое-что.
 
-# Original: When we encountered Ran...
+# Meursault: When we encountered Ran...
 Мерсо: Когда мы столкнулись с Ран...
 
-# Original: They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.
+# Meursault: They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.
 Мерсо: Они заранее держались от неё на расстоянии. Единственное объяснение - они уже знали, что будет взрыв.
 
-# Original: Oh, bother... Why not consider the possibility that my intuition is just that keen?
+# Niko: Oh, bother... Why not consider the possibility that my intuition is just that keen?
 Нико: Ох, боже... Почему бы не рассмотреть возможность того, что моя интуиция просто настолько острая?
 
-# Original: What if we weren't using the ampules because these buddies and I are built healthy?
+# Niko: What if we weren't using the ampules because these buddies and I are built healthy?
 Нико: Что, если мы не использовали ампулы, потому что мы с приятелями просто в отличной форме?
 
-# Original: Hm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it.
+# Dongrang: Hm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it.
 Донран: Хм... Я принёс таблетку правды на всякий случай. Я поверю тебе, если ты скажешь то же самое после её приёма.
 
-# Original: Truth tablet? That red thing? How can I take that suspicious-looking drug...?
+# Niko: Truth tablet? That red thing? How can I take that suspicious-looking drug...?
 Нико: Таблетка правды? Та красная штука? Как я могу принять этот подозрительный на вид препарат...?
 
-# Original: Sorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses.
+# Dongrang: Sorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses.
 Донран: Прости, а у тебя был выбор? Как странно, будь я на твоём месте, я бы принял таблетку... или придумал бы более отчаянные оправдания.
 
-# Original: You're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed.
+# Dongrang: You're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed.
 Донран: Вы так охотно упускаете шансы очистить себя от подозрений, что почти напрашиваетесь на то, чтобы вас убили.
 
-# Original: ...Or did you decide to kill us all and get away with it?
+# Dongrang: ...Or did you decide to kill us all and get away with it?
 Донран: ...Или вы решили убить нас всех и уйти безнаказанными?
 
-# Original: I thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac.
+# Niko: I thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac.
 Нико: Я думал, работа исследователя - писать научные статьи... а ты тут сочиняешь художественную литературу, безумный маньяк.
 
-# Original: Niko raised his weapon and pointed it at us.
+# Narrator: Niko raised his weapon and pointed it at us.
 Рассказчик: Нико поднял оружие и направил его на нас.
 
-# Original: Showing your true selves now that you're cornered, eh?
+# Heathcliff: Showing your true selves now that you're cornered, eh?
 Хитклиф: Показываете своё истинное лицо теперь, когда вас загнали в угол, а?
 
-# Original: I even taught you my secret to winning at the slot machines, and this is how you return the favor?
+# Niko: I even taught you my secret to winning at the slot machines, and this is how you return the favor?
 Нико: Я даже научил вас своему секрету выигрыша в игровых автоматах, и вот как вы возвращаете долги?

@@ -1,127 +1,127 @@
-﻿# Original: <You know we only have two chances left, right, team?>
+﻿# Dante: <You know we only have two chances left, right, team?>
 Данте: <Вы же понимаете? У нас осталось только две попытки.>
 
-# Original: <How about we start with Meursault’s, made by following the formula to a tee?>
+# Dante: <How about we start with Meursault’s, made by following the formula to a tee?>
 Данте: <Может, попробуем предложить ему, что мы готовили с Мерсо, ни на йоту не отступая от рецепта?>
 
-# Original: Prepared with pinpoint precision, Meursault’s dish looked like a picture in a cookbook come to life.
+# Narrator: Prepared with pinpoint precision, Meursault’s dish looked like a picture in a cookbook come to life.
 Рассказчик: Блюдо Мерсо выглядело словно иллюстрация из повареной книги, которой не было позволено ни малейшей вариации или изменения рецепта.
 
-# Original: <Right, we have something that looks like an actual serving, so that’s a good start.>
+# Dante: <Right, we have something that looks like an actual serving, so that’s a good start.>
 Данте: <Ура, впервые мы видим то, что хотя бы похоже на блюдо.>
 
-# Original: ……
+# Eunbong’s Bar & Fryers Owner: ……
 Хозяин бара
 "У Ынбон": ……
 
-# Original: After having a taste of Meursault’s work, the restaurant owner quietly savored it, contemplating for a while.
+# Narrator: After having a taste of Meursault’s work, the restaurant owner quietly savored it, contemplating for a while.
 Рассказчик: Попробовав блюдо Мерсо, хозяин бара некоторое время сидел над ним, словно провалившись в глубокие раздумия.
 
-# Original: ……
+# Eunbong’s Bar & Fryers Owner: ……
 Хозяин бара
 "У Ынбон": ……
 
-# Original: Gagaga… Gigigi… Gugugu…
+# Eunbong’s Bar & Fryers Owner: Gagaga… Gigigi… Gugugu…
 Хозяин бара
 "У Ынбон": Кух-ах-ух… Кудах… Ку-ку-кух…
 
-# Original: <“I had to ruminate on this dish for a long time. It was an excellent serving in all tangible ways—the smell, the taste, the presentation. Yet, I felt that it was still missing something I couldn’t quite describe with words.”>
+# Dante: <“I had to ruminate on this dish for a long time. It was an excellent serving in all tangible ways—the smell, the taste, the presentation. Yet, I felt that it was still missing something I couldn’t quite describe with words.”>
 Данте: <"Над этим блюдом я не смог не призадуматься. У него идеальный аромат, превосходный вкус и не менее совершенная подача. Но всё же, ему чего-то не хватает. Чего-то, что я не могу облечь в слова.">
 
-# Original: Gegegeh… Gogogo…
+# Eunbong’s Bar & Fryers Owner: Gegegeh… Gogogo…
 Хозяин бара
 "У Ынбон": Ке-ке-ке… Ко-ко-ко…
 
-# Original: <“And that… was professionalism as a cook. An ironic smidgen of a blemish within perfection…”>
+# Dante: <“And that… was professionalism as a cook. An ironic smidgen of a blemish within perfection…”>
 Данте: <"Это… блюдо профессионального шеф-повара. Совершенство, но как бы то ни было парадоксально, это ощущение внутренней пустоты…">
 
-# Original: ……
+# Eunbong’s Bar & Fryers Owner: ……
 Хозяин бара
 "У Ынбон": ……
 
-# Original: <“That is why this dish cannot get a pass, unfortunately.”>
+# Dante: <“That is why this dish cannot get a pass, unfortunately.”>
 Данте: <"С прискорбием сообщаю, что оно также не подходит.">
 
-# Original: He suddenly started sounding like a posh judge…
+# Ishmael: He suddenly started sounding like a posh judge…
 Измаил: Он словно резко стал ресторанным критиком…
 
-# Original: Someone tug the mask off that blighter’s head. The only thing distorted ‘bout him might be his crooked attitude.
+# Heathcliff: Someone tug the mask off that blighter’s head. The only thing distorted ‘bout him might be his crooked attitude.
 Хитклиф: Кто-нить, стащите с этого ублюдка его маску. Видать, искажённый — значит "не в своём уме".
 
-# Original: …Je m’avoue vaincu.
+# Meursault: …Je m’avoue vaincu.
 Мерсо: …Признаю своё поражение.
 
-# Original: Nevertheless, I hold no regrets over this battle.
+# Meursault: Nevertheless, I hold no regrets over this battle.
 Мерсо: Однако, я принимаю его без сожалений.
 
-# Original: <At least the chickens aren’t bum-rushing us this time.>
+# Dante: <At least the chickens aren’t bum-rushing us this time.>
 Данте: <Но в этот раз цыплята не нападают на нас?>
 
-# Original: With only one chance left, Outis brought her dish to the table.
+# Narrator: With only one chance left, Outis brought her dish to the table.
 Рассказчик: И когда у нас осталась последняя попытка, Отис поставила перед хозяином бара своё блюдо.
 
-# Original: <It looks neat. Nothing too fancy, but still simple and clean.>
+# Dante: <It looks neat. Nothing too fancy, but still simple and clean.>
 Данте: <Оно смотрится аккуратно. Не роскошно, но вполне неплохо.>
 
-# Original: <What are these couple of needles on the dish for, Outis? They look like a clock’s hands.>
+# Dante: <What are these couple of needles on the dish for, Outis? They look like a clock’s hands.>
 Данте: <Мадам Отис, что значат стрелки часов на блюде?>
 
-# Original: They are a simple decoration I added in tribute to you, Executive Manager.
+# Outis: They are a simple decoration I added in tribute to you, Executive Manager.
 Отис: Я слегка украсила его в вашу честь, менеджер.
 
-# Original: <Ooo…! I’d give bonus points if I could.>
+# Dante: <Ooo…! I’d give bonus points if I could.>
 Данте: <О-о…! Жаль, я не смогу дать тебе дополнительные баллы.>
 
-# Original: Ugh…
+# Ishmael: Ugh…
 Измаил: …Эм…
 
-# Original: ……
+# Eunbong’s Bar & Fryers Owner: ……
 Хозяин бара
 "У Ынбон": ……
 
-# Original: !!!
+# Eunbong’s Bar & Fryers Owner: !!!
 Хозяин бара
 "У Ынбон": !!!
 
-# Original: The comment that followed from the owner was too sensational for me to put into words.
+# Narrator: The comment that followed from the owner was too sensational for me to put into words.
 Рассказчик: Хозяин заведения был настолько тронут, что слова в моей голове заменились отрывками его воспоминаний.
 
-# Original: You’re such a mess! What are you doing with that freaky mask on your head?
+# Owner’s Momma: You’re such a mess! What are you doing with that freaky mask on your head?
 Рассказчик: Что ты творишь! Почему ты натянул странную маску на голову?
 
-# Original: Back in your momma’s day, we grinned and bore with all sorts of nonsense! How are you gonna live through this unforgiving world if you get all heartbroken over something so small? Get it together already…
+# Owner’s Momma: Back in your momma’s day, we grinned and bore with all sorts of nonsense! How are you gonna live through this unforgiving world if you get all heartbroken over something so small? Get it together already…
 Рассказчик: Вот во времена твоей маменьки~ Чего только с нами не происходило, но я прорывалась дальше! Как ты собираешься жить в этом ужасном мире, если тебя выбил из колеи такой пустяк? Ты правда…
 
-# Original: My mother… was always like that.
+# Narrator: My mother… was always like that.
 Рассказчик: Моя мать… Всегда была такой.
 
-# Original: Rather than kind and caring words, she would scold me with her nitpicky lectures.
+# Narrator: Rather than kind and caring words, she would scold me with her nitpicky lectures.
 Рассказчик: Всю свою жизнь я не слышал ни единого ласкового слова; она только ворчала на меня.
 
-# Original: She was so particular about chicken, too, rarely touching a piece that anybody else would take in a heartbeat…
+# Narrator: She was so particular about chicken, too, rarely touching a piece that anybody else would take in a heartbeat…
 Рассказчик: И даже моя курица, что нравилась всем остальным, не вызывала у неё никакой улыбки…
 
-# Original: Running this restaurant, I had forgotten something important.
+# Narrator: Running this restaurant, I had forgotten something important.
 Рассказчик: Когда я начал готовить курицу, я забыл кое-что важное.
 
-# Original: I…
+# Narrator: I…
 Рассказчик: Я…
 
-# Original: Oh, mother…
+# Eunbong’s Bar & Fryers Owner: Oh, mother…
 Хозяин бара
 "У Ынбон": Мама…
 
-# Original: <Now’s our chance! The Distortion or whatever on him is weakening!>
+# Dante: <Now’s our chance! The Distortion or whatever on him is weakening!>
 Данте: <Сейчас! Искажение хозяина бара ослабевает!>
 
-# Original: Look at this! Some kind of door has appeared next to him!
+# Sinclair: Look at this! Some kind of door has appeared next to him!
 Синклер: Взгляните! Перед хозяином бара появилась какая-то дверь!
 
-# Original: Should we go through it?
+# Sinclair: Should we go through it?
 Синклер: Стоит ли нам войти туда?
 
-# Original: What made Outie’s dish stand out anyway?
+# Rodion: What made Outie’s dish stand out anyway?
 Родион: Но что такого в блюде Отеньки, что он так растрогался?
 
-# Original: Let us march, soldiers. May we see the end of this.
+# Outis: Let us march, soldiers. May we see the end of this.
 Отис: Заходим, ребята. Пройдём с ним до самого конца.

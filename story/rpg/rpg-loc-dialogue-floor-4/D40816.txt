@@ -1,23 +1,23 @@
-﻿# Original: <... Are you... afraid too, Meursault?>
+﻿# Dante: <... Are you... afraid too, Meursault?>
 Данте: <... Ты тоже... боишься, Мерсо?>
 
-# Original: I am, Manager.
+# Meursault: I am, Manager.
 Мерсо: Да, Менеджер.
 
-# Original: <Was there a specific reason, or...>
+# Dante: <Was there a specific reason, or...>
 Данте: <На то была какая-то конкретная причина, или...>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: It began when we were nearing a year since my mother...
+# Meursault: It began when we were nearing a year since my mother...
 Мерсо: Всё началось, когда миновал почти год с того дня, как моя мать...
 
-# Original: ... had first begun her tearful wailing.
+# Meursault: ... had first begun her tearful wailing.
 Мерсо: ... впервые разразилась горестными рыданиями.
 
-# Original: Meursault tinkers with the chain link binding his belt together. <i>Clink.</i>
+# Narrator: Meursault tinkers with the chain link binding his belt together. <i>Clink.</i>
 Рассказчик: Мерсо теребит звено цепи, скрепляющей его пояс. <i>Звяк.</i>
 
-# Original: Then, silence fell around us.
+# Narrator: Then, silence fell around us.
 Рассказчик: Затем вокруг нас воцарилась тишина.

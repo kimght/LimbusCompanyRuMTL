@@ -1,419 +1,419 @@
-﻿# Original: So she's the one we were supposed to meet here at the station...
+﻿# Narrator: So she's the one we were supposed to meet here at the station...
 Рассказчик: Значит, это она, та, с кем мы должны были встретиться здесь на станции...
 
-# Original: My, my... what an honor this is, to meet the Red Gaze himself in the flesh.
+# ???: My, my... what an honor this is, to meet the Red Gaze himself in the flesh.
 Цезара: Боже мой... какая честь встретить самого Красного Взора во плоти.
 
-# Original: Everyone, I am pleased to meet you all. I am Cesara, Head Manager of P Corp. Archival Department.
+# Cesara: Everyone, I am pleased to meet you all. I am Cesara, Head Manager of P Corp. Archival Department.
 Цезара: Всем привет, рада познакомиться. Я Цезара, главный менеджер Архивного отдела Корпорации P.
 
-# Original: Archival Department? So you are... bookkeepers, then?
+# Outis: Archival Department? So you are... bookkeepers, then?
 Отис: Архивный отдел? Так вы... хранители записей, получается?
 
-# Original: In a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists.
+# Cesara: In a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists.
 Цезара: В некотором смысле, да. Это довольно значимый отдел внутри Корпорации P, независимо от того, как другие Крылья относятся к своим архивистам.
 
-# Original: If a bigwig like the Head Manager of such an important Department is here to see us herself, then... boy, I guess we really are putting our names out there.
+# Gregor: If a bigwig like the Head Manager of such an important Department is here to see us herself, then... boy, I guess we really are putting our names out there.
 Грегор: Если такая шишка, как главный менеджер столь важного отдела, лично пришла к нам, то... да, похоже, мы действительно начинаем заявлять о себе.
 
-# Original: Not an entirely incorrect assessment. I did hear some things about you and Limbus Company through the word of mouth.
+# Cesara: Not an entirely incorrect assessment. I did hear some things about you and Limbus Company through the word of mouth.
 Цезара: Не совсем неверная оценка. Я действительно кое-что слышала о вас и Компании Лимбус благодаря сарафанному радио.
 
-# Original: What was it...? Ah, yes. A medium-sized enterprise with its employees gladly braving death to see a contract to its end. All just to obtain these... 'Golden Boughs'.
+# Cesara: What was it...? Ah, yes. A medium-sized enterprise with its employees gladly braving death to see a contract to its end. All just to obtain these... 'Golden Boughs'.
 Цезара: Что там было...? Ах, да. Предприятие средних размеров, сотрудники которого с радостью бросают вызов смерти, чтобы исполнить контракт. И всё ради получения этих... "Золотых Ветвей".
 
-# Original: That's true, I guess, but...
+# Gregor: That's true, I guess, but...
 Грегор: Это правда, наверное, но...
 
-# Original: <Hey, she's actually making us sound pretty impressive, huh...?>
+# Dante: <Hey, she's actually making us sound pretty impressive, huh...?>
 Данте: <Эй, в её устах мы действительно звучим довольно впечатляюще, а...?>
 
-# Original: For-sooth! I, and my dearest compatriots, have vanquished countless evils through all kinds of hardships and deadly foes! Braved death, indeed.
+# Don Quixote: For-sooth! I, and my dearest compatriots, have vanquished countless evils through all kinds of hardships and deadly foes! Braved death, indeed.
 Дон Кихот: Воистину! Я и мои дражайшие соратники одолели бесчисленное множество зол, пройдя через всевозможные невзгоды и смертельных врагов! Бросили вызов смерти, и впрямь.
 
-# Original: The other Sinners were more confused than impressed by her description, but it was clear from Don Quixote's practically twinkling eyes that she was immensely infatuated by it.
+# Narrator: The other Sinners were more confused than impressed by her description, but it was clear from Don Quixote's practically twinkling eyes that she was immensely infatuated by it.
 Рассказчик: Остальные Грешники были скорее озадачены, чем впечатлены её описанием, но по практически сверкающим глазам Дон Кихот было ясно, что она была им безмерно очарована.
 
-# Original: We did receive a brief of this contract.
+# Vergilius: We did receive a brief of this contract.
 Вергилий: Мы получили краткое изложение этого контракта.
 
-# Original: A particularly stubborn Urban Nightmare case, which all kinds of Fixers have failed to rout despite their repeated attempts.
+# Vergilius: A particularly stubborn Urban Nightmare case, which all kinds of Fixers have failed to rout despite their repeated attempts.
 Вергилий: Особо упорный случай Городского Кошмара, с которым не смогли справиться всевозможные Корректировщики, несмотря на их неоднократные попытки.
 
-# Original: Correct.
+# Cesara: Correct.
 Цезара: Верно.
 
-# Original: I doubt it is customary for the Head Manager of an entire department to greet every no-name Fixer Office looking to make a name for themselves.
+# Vergilius: I doubt it is customary for the Head Manager of an entire department to greet every no-name Fixer Office looking to make a name for themselves.
 Вергилий: Сомневаюсь, что приветствовать каждый безымянный офис Корректировщиков, стремящийся сделать себе имя, является нормой для главного менеджера целого отдела.
 
-# Original: Correct again.
+# Cesara: Correct again.
 Цезара: И снова верно.
 
-# Original: And seeing how you've gone to the lengths to privately deliver this particular contract to our hands...
+# Vergilius: And seeing how you've gone to the lengths to privately deliver this particular contract to our hands...
 Вергилий: И учитывая, что вы приложили все усилия, чтобы лично передать этот конкретный контракт в наши руки...
 
-# Original: ... this isn't a simple Urban Nightmare eradication contract, is it?
+# Vergilius: ... this isn't a simple Urban Nightmare eradication contract, is it?
 Вергилий: ... это не простая ликвидация Городского Кошмара, не так ли?
 
-# Original: I sense that your expectations of us extend beyond simply defeating it.
+# Vergilius: I sense that your expectations of us extend beyond simply defeating it.
 Вергилий: Я чувствую, что ваши ожидания от нас выходят за рамки обычной победы над ним.
 
-# Original: There must be a particular task you're expecting us to 'brave death' for, given your emphasis.
+# Vergilius: There must be a particular task you're expecting us to 'brave death' for, given your emphasis.
 Вергилий: Должно быть какое-то конкретное задание, ради которого вы ожидаете, что мы "бросим вызов смерти", учитывая как вы сделали на этом акцент.
 
-# Original: ... Hm. What an odd feeling. I wasn't going to hide it from you anyway, but... it feels as though you're reading me like an open book.
+# Cesara: ... Hm. What an odd feeling. I wasn't going to hide it from you anyway, but... it feels as though you're reading me like an open book.
 Цезара: ... Хм. Какое странное чувство. Я и не собиралась это от вас скрывать, но... такое ощущение, будто вы читаете меня словно открытую книгу.
 
-# Original: We stared in dumbfounded silence as Vergilius effortlessly cut through the hoops to get to the core of the contract.
+# Narrator: We stared in dumbfounded silence as Vergilius effortlessly cut through the hoops to get to the core of the contract.
 Рассказчик: Мы уставились в ошеломлённом молчании, когда Вергилий без особых усилий добрался до сути контракта.
 
-# Original: Yes. Your people were quite blunt about this when you contacted us first. That there's this 'Golden Bough' somewhere near our eradication target.
+# Cesara: Yes. Your people were quite blunt about this when you contacted us first. That there's this 'Golden Bough' somewhere near our eradication target.
 Цезара: Да. Ваши люди были довольно прямолинейны в этом вопросе, когда впервые связались с нами. Что где-то рядом с нашей целью ликвидации находится эта "Золотая Ветвь".
 
-# Original: My, I was so astonished when I picked up that call. Your people refused to answer our questions, refused to tell us what those 'Golden Boughs' are, insisted that we let your people inside the zone to confirm the exact coordinates... I almost thought it was a prank call or something.
+# Cesara: My, I was so astonished when I picked up that call. Your people refused to answer our questions, refused to tell us what those 'Golden Boughs' are, insisted that we let your people inside the zone to confirm the exact coordinates... I almost thought it was a prank call or something.
 Цезара: Боже, я была так поражена, когда приняла тот звонок. Ваши люди отказывались отвечать на наши вопросы, отказывались рассказывать, что такое эти "Золотые Ветви", настаивали на том, чтобы мы пустили ваших людей в зону для подтверждения точных координат... Я почти подумала, что это розыгрыш или что-то в этом роде.
 
-# Original: I believe we also made you an offer you couldn't refuse.
+# Vergilius: I believe we also made you an offer you couldn't refuse.
 Вергилий: Полагаю, мы также сделали вам предложение, от которого вы не смогли отказаться.
 
-# Original: ... Haah. I don't know if it's a particularly versatile agent or a very proactive intelligence department, but your company has some serious intel gathering capabilities.
+# Cesara: ... Haah. I don't know if it's a particularly versatile agent or a very proactive intelligence department, but your company has some serious intel gathering capabilities.
 Цезара: ... Хаах. Не знаю, то ли это был особенно разносторонний агент, то ли очень активный разведывательный отдел, но у вашей компании серьёзные возможности по сбору информации.
 
-# Original: Cesara let out a deep sigh and leaned against a wall, her shoulders slumping slightly.
+# Narrator: Cesara let out a deep sigh and leaned against a wall, her shoulders slumping slightly.
 Рассказчик: Цезара глубоко вздохнула и прислонилась к стене, слегка опустив плечи.
 
-# Original: So what exactly are we eradicating this time?
+# Ishmael: So what exactly are we eradicating this time?
 Измаил: Так что именно мы ликвидируем на этот раз?
 
-# Original: Given that we have hopeful Fixers queuing up to join the mission... what, is an escaped Abnormality wreaking havoc somewhere like last time? Or is it a Distortion, because if it is—
+# Ishmael: Given that we have hopeful Fixers queuing up to join the mission... what, is an escaped Abnormality wreaking havoc somewhere like last time? Or is it a Distortion, because if it is—
 Измаил: Учитывая, что есть целая очередь желающих присоединиться к миссии Корректировщиков... что, сбежавшая Аномалия где-то устроила хаос, как в прошлый раз? Или это Искажение, потому что если это оно—
 
-# Original: Cesara wordlessly stared at Ishmael as she began to rapid-fire her list of questions.
+# Narrator: Cesara wordlessly stared at Ishmael as she began to rapid-fire her list of questions.
 Рассказчик: Цезара молча уставилась на Измаил, когда та начала быстро выпаливать свой список вопросов.
 
-# Original: Oh, uh... ah, right. Forgot to explain. So Abnormalities and Distortions are the kind of 'monsters' that may look similar at first glance—
+# Ishmael: Oh, uh... ah, right. Forgot to explain. So Abnormalities and Distortions are the kind of 'monsters' that may look similar at first glance—
 Измаил: О, э... ах, точно. Забыла объяснить. Так вот, Аномалии и Искажения – это виды "монстров", которые на первый взгляд могут выглядеть похоже—
 
-# Original: ... If only our problem was just another monster to deal with.
+# Cesara: ... If only our problem was just another monster to deal with.
 Цезара: ... Если бы только наша проблема была просто ещё одним монстром, с которым нужно разобраться.
 
-# Original: Something had caught my eye immediately after we arrived at this place.
+# Narrator: Something had caught my eye immediately after we arrived at this place.
 Рассказчик: Кое-что привлекло моё внимание сразу же после того, как мы прибыли в это место.
 
-# Original: <The missing persons flyers...>
+# Dante: <The missing persons flyers...>
 Данте: <Объявления о пропавших людях...>
 
-# Original: Countless flyers, each in search of a different person, were taped to the pillars inside the station.
+# Narrator: Countless flyers, each in search of a different person, were taped to the pillars inside the station.
 Рассказчик: Бесчисленные листовки, каждая о поисках разных людей, были приклеены к столбам внутри станции.
 
-# Original: Looks like people of P Corp. are randomly going missing in no discernible age or gender patterns.
+# Narrator: Looks like people of P Corp. are randomly going missing in no discernible age or gender patterns.
 Рассказчик: Похоже, люди из Корпорации P пропадают без вести случайным образом, без видимых закономерностей по возрасту или полу.
 
-# Original: Cesara, realizing that we were staring at the wall of missing person flyers, began.
+# Narrator: Cesara, realizing that we were staring at the wall of missing person flyers, began.
 Рассказчик: Цезара, заметив, что мы смотрим на стену с объявлениями о пропавших людях, начала.
 
-# Original: As you can see, the flyers are all old, faded, and tattered to the point where the papers are starting to peel off.
+# Cesara: As you can see, the flyers are all old, faded, and tattered to the point where the papers are starting to peel off.
 Цезара: Как видите, все листовки старые, выцветшие и потрёпанные до такой степени, что бумага начинает отклеиваться.
 
-# Original: ... Which means that none of them have returned home safely.
+# Cesara: ... Which means that none of them have returned home safely.
 Цезара: ... Это означает, что никто из них не вернулся домой в целости и сохранности.
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: So we're not dealing with an entity, then...
+# Outis: So we're not dealing with an entity, then...
 Отис: Получается, мы имеем дело не с сущностью...
 
-# Original: ... It is a phenomenon.
+# Outis: ... It is a phenomenon.
 Отис: ... Это явление.
 
-# Original: The land where the happiest smiles bloom.
+# Cesara: The land where the happiest smiles bloom.
 Цезара: Место, где расцветают самые счастливые улыбки.
 
-# Original: The 'amusement park' of fables and legends, La Manchaland.
+# Cesara: The 'amusement park' of fables and legends, La Manchaland.
 Цезара: "Парк развлечений" из сказок и легенд, Ла-Манчалэнд.
 
-# Original: La Manchaland...
+# Sinclair: La Manchaland...
 Синклер: Ла-Манчалэнд...
 
-# Original: More than several dozen people have been reported missing. But the real number is likely much higher.
+# Cesara: More than several dozen people have been reported missing. But the real number is likely much higher.
 Цезара: Пропавшими без вести были объявлены более нескольких десятков человек. Но реальное число, вероятно, намного выше.
 
-# Original: Most of the guests who visited La Manchaland, which mysteriously materialized two months ago at the Backstreets of P Corp... are still trapped within.
+# Cesara: Most of the guests who visited La Manchaland, which mysteriously materialized two months ago at the Backstreets of P Corp... are still trapped within.
 Цезара: Большинство гостей, посетивших Ла-Манчалэнд, который таинственным образом материализовался два месяца назад в Подворотнях Корпорации P... всё ещё заперты внутри.
 
-# Original: They have gone 'missing', thou sayest? Yet how can that be? 'Tis against the nature of amusement parks to be so full of horror, not joy...!
+# Don Quixote: They have gone 'missing', thou sayest? Yet how can that be? 'Tis against the nature of amusement parks to be so full of horror, not joy...!
 Дон Кихот: Ты рекла, что они "пропали без вести"? Однако как такое может быть? Сие противно природе парков развлечений быть столь полными ужаса, а не радости...!
 
-# Original: I simply did not have enough manpower under my authority to deal with this. It was designated an Urban Plague three days after its first appearance, and now it's been escalated to an Urban Nightmare.
+# Cesara: I simply did not have enough manpower under my authority to deal with this. It was designated an Urban Plague three days after its first appearance, and now it's been escalated to an Urban Nightmare.
 Цезара: У меня просто не было достаточно людей в моём распоряжении, чтобы с этим справиться. Через три дня после первого появления, его обозначили как Городскую Чуму, а теперь ситуация обострилась до Городского Кошмара.
 
-# Original: Curious. If it is a mere Urban Nightmare, not even a Star of the City, then shouldn't P Corp. be able to easily handle this on its own?
+# Vergilius: Curious. If it is a mere Urban Nightmare, not even a Star of the City, then shouldn't P Corp. be able to easily handle this on its own?
 Вергилий: Любопытно. Если это всего лишь Городской Кошмар, даже не Звезда Города, то разве Корпорация P не может легко справиться с этим самостоятельно?
 
-# Original: Mm... that's the thing. The other departments aren't really interested in this phenomenon, which means that the Martial Department won't be sending their elite employees to handle this case.
+# Cesara: Mm... that's the thing. The other departments aren't really interested in this phenomenon, which means that the Martial Department won't be sending their elite employees to handle this case.
 Цезара: Мм... в том-то и дело. Другие отделы не особо заинтересованы в этом явлении, а это значит, что Боевой отдел не отправит своих элитных сотрудников для решения этого дела.
 
-# Original: Wha— Yet wherefore? Wherefore doth P Corp. not deploy their elite forces to swiftly vanquish this risk to the lives of the innocent?!
+# Don Quixote: Wha— Yet wherefore? Wherefore doth P Corp. not deploy their elite forces to swiftly vanquish this risk to the lives of the innocent?!
 Дон Кихот: Что— Однако почему? Отчего Корпорация P не направляет свои элитные силы, дабы стремительно одолеть сию угрозу жизням невинных?!
 
-# Original: Don Quixote was now completely and emotionally invested in this gripping tale of tragedy that our client was sharing.
+# Narrator: Don Quixote was now completely and emotionally invested in this gripping tale of tragedy that our client was sharing.
 Рассказчик: Дон Кихот теперь была полностью и эмоционально вовлечена в эту захватывающую трагедию, которой делился наш клиент.
 
-# Original: ... Cesara seemed to be enjoying Don Quixote's excessive, almost theatrical reaction.
+# Narrator: ... Cesara seemed to be enjoying Don Quixote's excessive, almost theatrical reaction.
 Рассказчик: ... Цезаре, казалось, нравилась чрезмерная, почти театральная реакция Дон Кихот.
 
-# Original: Because the phenomenon only affects the Backstreets.
+# Cesara: Because the phenomenon only affects the Backstreets.
 Цезара: Потому что это явление затрагивает только Подворотни.
 
-# Original: Imagine if it happened somewhere within the Nest; squadrons of elite agents from the Compression Department would've descended the moment it manifested.
+# Cesara: Imagine if it happened somewhere within the Nest; squadrons of elite agents from the Compression Department would've descended the moment it manifested.
 Цезара: Представьте, если бы это произошло где-нибудь в Гнезде; эскадроны элитных агентов из Отдела Компрессии сошли бы в тот же момент, как только оно проявилось.
 
-# Original: That's enough beating around the bush, Head Manager Cesara. What more are you hiding?
+# Vergilius: That's enough beating around the bush, Head Manager Cesara. What more are you hiding?
 Вергилий: Достаточно ходить вокруг да около, главный менеджер Цезара. Что ещё вы скрываете?
 
-# Original: It would've been a walk in the park for someone of your status and station to requisition agents from a different department.
+# Vergilius: It would've been a walk in the park for someone of your status and station to requisition agents from a different department.
 Вергилий: Для человека вашего статуса и положения было бы проще простого затребовать агентов из другого отдела.
 
-# Original: So, explain. Why did you really go through the trouble of hiring Limbus Company?
+# Vergilius: So, explain. Why did you really go through the trouble of hiring Limbus Company?
 Вергилий: Итак, объясните. Почему вы действительно пошли на такие хлопоты, чтобы нанять Компанию Лимбус?
 
-# Original: Yes, yes. My, you really are unrelenting.
+# Cesara: Yes, yes. My, you really are unrelenting.
 Цезара: Да, да. Боже, вы действительно неумолимы.
 
-# Original: Fine. I confess. The goal of our department...
+# Cesara: Fine. I confess. The goal of our department...
 Цезара: Хорошо. Признаюсь. Цель нашего отдела...
 
-# Original: ... isn't the eradication of La Manchaland.
+# Cesara: ... isn't the eradication of La Manchaland.
 Цезара: ... не уничтожение Ла-Манчалэнда.
 
-# Original: <... Huh?>
+# Dante: <... Huh?>
 Данте: <... А?>
 
-# Original: Now, you will soon be heading into La Manchaland with the other Fixers.
+# Cesara: Now, you will soon be heading into La Manchaland with the other Fixers.
 Цезара: Итак, вскоре вы отправитесь в Ла-Манчалэнд вместе с другими Корректировщиками.
 
-# Original: A piece of advice, if you will; do not let the other Fixers know that you are here to find the Golden Bough.
+# Cesara: A piece of advice, if you will; do not let the other Fixers know that you are here to find the Golden Bough.
 Цезара: Вот вам совет, если позволите; не дайте другим Корректировщикам узнать, что вы ищите Золотую Ветвь.
 
-# Original: If they were to somehow find out that there is this mysterious artifact called the 'Golden Bough' hidden somewhere within that zone...
+# Cesara: If they were to somehow find out that there is this mysterious artifact called the 'Golden Bough' hidden somewhere within that zone...
 Цезара: Если они каким-то образом узнают, что где-то в этой зоне спрятан этот загадочный артефакт под названием "Золотая Ветвь"...
 
-# Original: ... it could start attracting unwanted attention from Fixers who consider it a bounty separate from the eradication reward. No need to stir the pot, hm?
+# Cesara: ... it could start attracting unwanted attention from Fixers who consider it a bounty separate from the eradication reward. No need to stir the pot, hm?
 Цезара: ... это может привлечь нежелательное внимание Корректировщиков, которые сочтут его бонусной наградой помимо вознаграждения за ликвидацию. Нет нужды мутить воду, хм?
 
-# Original: And I'm sure you are all savvy enough to know that it would be wise to keep quiet about the true objective of our department... if you know what I mean.
+# Cesara: And I'm sure you are all savvy enough to know that it would be wise to keep quiet about the true objective of our department... if you know what I mean.
 Цезара: И я уверена, что вы все достаточно умны, чтобы понимать, что было бы мудро молчать о истинной цели нашего отдела... если вы понимаете, о чём я.
 
-# Original: I hear you loud and clear. Let's keep this hush-hush between P Corp. and Limbus Company, we both get what we want, and we can go our separate ways once this business is over. No fuss, no muss. Did I get that right?
+# Ishmael: I hear you loud and clear. Let's keep this hush-hush between P Corp. and Limbus Company, we both get what we want, and we can go our separate ways once this business is over. No fuss, no muss. Did I get that right?
 Измаил: Я вас прекрасно поняла. Давайте сохраним это в тайне между Корпорацией P и Компанией Лимбус, мы оба получим то, что хотим, и сможем разойтись, как только это дело закончится. Без шума и пыли. Я правильно поняла?
 
-# Original: That's a pretty good summary.
+# Cesara: That's a pretty good summary.
 Цезара: Это довольно хорошее краткое изложение.
 
-# Original: Who do you think we are? I can tell you right now that, when it comes to OPSEC—
+# Outis: Who do you think we are? I can tell you right now that, when it comes to OPSEC—
 Отис: За кого вы нас принимаете? Могу вам сразу сказать, что когда дело доходит до оперативной безопасности—
 
-# Original: ... some of us might fall slightly behind.
+# Outis: ... some of us might fall slightly behind.
 Отис: ... некоторые из нас могут немного отставать.
 
-# Original: It's about time we got to the point. We're only attracting more unwanted eyes by lingering here.
+# Vergilius: It's about time we got to the point. We're only attracting more unwanted eyes by lingering here.
 Вергилий: Пора переходить к сути. Мы только привлекаем больше нежелательных взглядов, задерживаясь здесь.
 
-# Original: ... That's true.
+# Cesara: ... That's true.
 Цезара: ... Это правда.
 
-# Original: Here is your mission. Enter La Manchaland. Find the thing—or someone—that created La Manchaland, and bring it to me.
+# Cesara: Here is your mission. Enter La Manchaland. Find the thing—or someone—that created La Manchaland, and bring it to me.
 Цезара: Вот ваша миссия. Войдите в Ла-Манчалэнд. Найдите что-то—или кого-то—кто создал Ла-Манчалэнд, и приведите его ко мне.
 
-# Original: Or someone...?
+# Outis: Or someone...?
 Отис: Или кого-то...?
 
-# Original: "The thing—or someone" is too insufficient a description. We do not even know if what we seek is made of organic or inorganic material.
+# Meursault: "The thing—or someone" is too insufficient a description. We do not even know if what we seek is made of organic or inorganic material.
 Мерсо: "Что-то—или кто-то" слишком недостаточное описание. Мы даже не знаем, состоит ли то, что мы ищем, из органического или неорганического материала.
 
-# Original: So why do you need the... thing... person... who created La Manchaland? Shouldn't eradicating it be enough?
+# Sinclair: So why do you need the... thing... person... who created La Manchaland? Shouldn't eradicating it be enough?
 Синклер: Так зачем вам нужна... вещь... человек... кто создал Ла-Манчалэнд? Разве недостаточно просто уничтожить его?
 
-# Original: ... Hah.
+# Cesara: ... Hah.
 Цезара: ... Хах.
 
-# Original: Cesara's eyes twinkled for a brief moment as they lingered on Sinclair.
+# Narrator: Cesara's eyes twinkled for a brief moment as they lingered on Sinclair.
 Рассказчик: Глаза Цезары на мгновение заблестели, когда она задержала взгляд на Синклере.
 
-# Original: D-did I say something wrong...?
+# Sinclair: D-did I say something wrong...?
 Синклер: Я-я сказал что-то не так...?
 
-# Original: I don't know. I suppose I was flabbergasted by your boldness of daring to ask a question like that.
+# Cesara: I don't know. I suppose I was flabbergasted by your boldness of daring to ask a question like that.
 Цезара: Не знаю. Полагаю, я была ошеломлена вашей смелостью задавать такой вопрос.
 
-# Original: Notice how I'm not asking you why you're looking for the Golden Boughs?
+# Cesara: Notice how I'm not asking you why you're looking for the Golden Boughs?
 Цезара: Заметьте, как я не спрашиваю вас, почему вы ищете Золотые Ветви?
 
-# Original: Ahh...
+# Sinclair: Ahh...
 Синклер: Ахх...
 
-# Original: Well, it's not like a big secret or anything.
+# Cesara: Well, it's not like a big secret or anything.
 Цезара: Ну, не то чтобы это был большой секрет или что-то в этом роде.
 
-# Original: If you really do want to know, here it is. I just want whoever, or whatever it is behind this case to be held responsible for the damages they've caused.
+# Cesara: If you really do want to know, here it is. I just want whoever, or whatever it is behind this case to be held responsible for the damages they've caused.
 Цезара: Если вы действительно хотите знать, то вот оно. Я просто хочу, чтобы кто бы или что бы ни стояло за этим делом, понесло ответственность за причинённый ущерб.
 
-# Original: Mm, forsooth! A villain who hath committed such wicked atrocity deserveth a punishment most fitting!
+# Don Quixote: Mm, forsooth! A villain who hath committed such wicked atrocity deserveth a punishment most fitting!
 Дон Кихот: Мм, воистину! Злодей, совершивший столь гнусное злодеяние, заслуживает наказания наиболее подобающего!
 
-# Original: And as a little bonus, I get to put some achievements under my belt to give my department a little push to rise above the others. I could use some promotion right about now, you know.
+# Cesara: And as a little bonus, I get to put some achievements under my belt to give my department a little push to rise above the others. I could use some promotion right about now, you know.
 Цезара: И в качестве небольшого бонуса я получу возможность добавить несколько достижений в свой послужной список, чтобы дать моему отделу небольшой толчок для возвышения над другими. Мне бы сейчас не помешало повышение, знаете ли.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: ... I suppose it doesn't matter whether we accept your proposition or not. You must have already reached an agreement with the top brass of our company.
+# Outis: ... I suppose it doesn't matter whether we accept your proposition or not. You must have already reached an agreement with the top brass of our company.
 Отис: ... Полагаю, не имеет значения, примем мы ваше предложение или нет. Вы уже, должно быть, достигли соглашения с высшим руководством нашей компании.
 
-# Original: ... Right. But what if, after kickin' the phenomenon's arse, we don't bother bringin' in the bloke who made that bizarre amusement park?
+# Heathcliff: ... Right. But what if, after kickin' the phenomenon's arse, we don't bother bringin' in the bloke who made that bizarre amusement park?
 Хитклиф: ... Верно. Но что, если после того, как мы надерём задницу этому явлению, мы не станем утруждать себя поимкой чувака, создавшего этот причудливый парк развлечений?
 
-# Original: What'll you do then?
+# Heathcliff: What'll you do then?
 Хитклиф: Что вы тогда сделаете?
 
-# Original: Heathcliff spoke crassly, but it was a reasonable question.
+# Narrator: Heathcliff spoke crassly, but it was a reasonable question.
 Рассказчик: Хитклиф говорил грубо, но это был разумный вопрос.
 
-# Original: After all, there was also a chance that we could *fail* to bring the culprit here, even if we wanted to.
+# Narrator: After all, there was also a chance that we could *fail* to bring the culprit here, even if we wanted to.
 Рассказчик: В конце концов, существовала также вероятность того, что мы могли *не суметь* привести виновника сюда, даже если бы захотели.
 
-# Original: Well, then I suppose we'll start looking into what these 'Golden Boughs' are, even if we won't get our hands on them immediately.
+# Cesara: Well, then I suppose we'll start looking into what these 'Golden Boughs' are, even if we won't get our hands on them immediately.
 Цезара: Что ж, в таком случае я полагаю, мы начнём выяснять, что такое эти "Золотые Ветви", даже если мы не сможем получить их сразу.
 
-# Original: Hah. So you'll start getting in our way if we don't bring you what you want, is that it?
+# Outis: Hah. So you'll start getting in our way if we don't bring you what you want, is that it?
 Отис: Ха. Значит, вы начнёте вставлять нам палки в колёса, если мы не принесём вам то, что вы хотите, так?
 
-# Original: It would be a rather unnecessary and cost-ineffective research investment, of course, but you just might force our hand if you don't do as we requested.
+# Cesara: It would be a rather unnecessary and cost-ineffective research investment, of course, but you just might force our hand if you don't do as we requested.
 Цезара: Это было бы довольно ненужное и неэффективное с точки зрения затрат исследовательское вложение, конечно, но вы можете вынудить нас, если не сделаете, как мы просим.
 
-# Original: Besides... While La Manchaland is only an Urban Nightmare at the moment, its threat level is rising exponentially. This means that more and more people in the City are beginning to catch wind of this case.
+# Cesara: Besides... While La Manchaland is only an Urban Nightmare at the moment, its threat level is rising exponentially. This means that more and more people in the City are beginning to catch wind of this case.
 Цезара: Кроме того... Хотя Ла-Манчалэнд в настоящее время является лишь Городским Кошмаром, уровень его угрозы растёт в геометрической прогрессии. Это означает, что всё больше и больше людей в Городе начинают узнавать об этом деле.
 
-# Original: Numerous Fixers from all over the City are gathering here at this very moment to eradicate La Manchaland, to demonstrate my point.
+# Cesara: Numerous Fixers from all over the City are gathering here at this very moment to eradicate La Manchaland, to demonstrate my point.
 Цезара: Мою точку зрения подкрепляет тот факт, что многочисленные Корректировщики со всего Города уже собираются здесь в этот самый момент, чтобы уничтожить Ла-Манчалэнд.
 
-# Original: So, you're saying that we're not your only option.
+# Ishmael: So, you're saying that we're not your only option.
 Измаил: Значит, вы говорите, что мы не единственный ваш вариант.
 
-# Original: Mhm, who doesn't love fame and fortune? We could always get a truckload of willing participants if we wanted to.
+# Cesara: Mhm, who doesn't love fame and fortune? We could always get a truckload of willing participants if we wanted to.
 Цезара: Угу, кто не любит славу и богатство? Мы всегда можем получить кучу желающих, если захотим.
 
-# Original: Oh, and maybe, just maybe, some Fixers among them may find themselves becoming particularly interested in these Golden Boughs. I swear, these precious artifacts must have a particular smell that attracts Fixers like bees to honey.
+# Cesara: Oh, and maybe, just maybe, some Fixers among them may find themselves becoming particularly interested in these Golden Boughs. I swear, these precious artifacts must have a particular smell that attracts Fixers like bees to honey.
 Цезара: О, и может быть, просто может быть, некоторые Корректировщики среди них могут проявить особый интерес к этим Золотым Ветвям. Клянусь, эти драгоценные артефакты должны иметь особый запах, который привлекает Корректировщиков, как пчёл к мёду.
 
-# Original: ... Got it. You want this mission taken care of before the phenomenon attracts too much attention.
+# Ishmael: ... Got it. You want this mission taken care of before the phenomenon attracts too much attention.
 Измаил: ... Поняла. Вы хотите, чтобы эта миссия была выполнена до того, как явление привлечёт слишком много внимания.
 
-# Original: Oh, you're cutting right through the fluff again!
+# Cesara: Oh, you're cutting right through the fluff again!
 Цезара: О, и снова вы зрите в корень!
 
-# Original: Anyways, you got that right. Isn't it so fortunate how we both seem to be under the impression that what each of us is looking for won't be of much use to the other? For now, at least?
+# Cesara: Anyways, you got that right. Isn't it so fortunate how we both seem to be under the impression that what each of us is looking for won't be of much use to the other? For now, at least?
 Цезара: В любом случае, вы правильно поняли. Разве не так удачно, что мы, кажется, находимся под впечатлением, что то, что каждый из нас ищет, не будет особо полезно другому? По крайней мере, на данный момент?
 
-# Original: I suppose that is why you're keeping the nature of those Golden Boughs discreet, and that is why we're keeping it on the down low about what created La Manchaland.
+# Cesara: I suppose that is why you're keeping the nature of those Golden Boughs discreet, and that is why we're keeping it on the down low about what created La Manchaland.
 Цезара: Полагаю, именно поэтому вы держите в секрете природу этих Золотых Ветвей, и именно поэтому мы держим в тайне информацию о том, что создало Ла-Манчалэнд.
 
-# Original: Agreed. The more eyes observe an info, the less value it has. Like run-of-the-mill mass-produced products.
+# Ryōshū: Agreed. The more eyes observe an info, the less value it has. Like run-of-the-mill mass-produced products.
 Рёшу: Согласна. Чем больше глаз наблюдают за информацией, тем меньше её ценность. Как массовая продукция.
 
-# Original: Haah... of course it's all work talk. I got excited for a sec thinkin' we were about to get some nice souvenirs.
+# Rodion: Haah... of course it's all work talk. I got excited for a sec thinkin' we were about to get some nice souvenirs.
 Родион: Хаах... конечно, всё сводится к рабочим разговорам. А я на секунду воодушевилась, подумав, что мы собираемся получить какие-нибудь хорошие сувениры.
 
-# Original: We have very high expectations for every single one of you.
+# Cesara: We have very high expectations for every single one of you.
 Цезара: У нас очень высокие ожидания от каждого из вас.
 
-# Original: After all, you're all willing to die for this, aren't you?
+# Cesara: After all, you're all willing to die for this, aren't you?
 Цезара: В конце концов, вы все готовы умереть за это, не так ли?
 
-# Original: <She keeps saying that...>
+# Dante: <She keeps saying that...>
 Данте: <Она продолжает это повторять...>
 
-# Original: This is what every single one of our contracts has been like.
+# Narrator: This is what every single one of our contracts has been like.
 Рассказчик: Вот так и выглядит каждый наш контракт.
 
-# Original: Our stability and safety go out the window the moment a mission begins in earnest.
+# Narrator: Our stability and safety go out the window the moment a mission begins in earnest.
 Рассказчик: Стабильность и безопасность вылетают в окно в тот момент, когда миссия начинается всерьёз.
 
-# Original: We share nothing but our cold goals and objectives, not exchanging anything deeper than the shallowest transactions.
+# Narrator: We share nothing but our cold goals and objectives, not exchanging anything deeper than the shallowest transactions.
 Рассказчик: Мы разделяем лишь наши холодные цели и задачи, не обмениваясь ничем глубже самых поверхностных транзакций.
 
-# Original: I'd grown to accept this as an inevitability, but...
+# Narrator: I'd grown to accept this as an inevitability, but...
 Рассказчик: Я привык принимать это как неизбежность, но...
 
-# Original: ... I do know that this is... probably not the right way.
+# Narrator: ... I do know that this is... probably not the right way.
 Рассказчик: ... я знаю, что это... вероятно, не правильный путь.
 
-# Original: AHEM!
+# Don Quixote: AHEM!
 Дон Кихот: КХЕМ!
 
-# Original: Amidst the dull and resigned eyes of the other Sinners, Don Quixote's eyes alone burned with passionate fire.
+# Narrator: Amidst the dull and resigned eyes of the other Sinners, Don Quixote's eyes alone burned with passionate fire.
 Рассказчик: Среди тусклых и смирившихся глаз других Грешников, лишь глаза Дон Кихот горели страстным огнём.
 
-# Original: Thou mayest put thy faith in us, Head Manager Cesara!
+# Don Quixote: Thou mayest put thy faith in us, Head Manager Cesara!
 Дон Кихот: Ты можешь возложить на нас свою веру, главный менеджер Цезара!
 
-# Original: I, Don Quixote, and my compatriots here at Limbus Company shall put an end to the terrible reign of this 'La Manchaland', and rescue every single victim it hath claimed!
+# Don Quixote: I, Don Quixote, and my compatriots here at Limbus Company shall put an end to the terrible reign of this 'La Manchaland', and rescue every single victim it hath claimed!
 Дон Кихот: Я, Дон Кихот, и мои соратники здесь, в Компании Лимбус, положим конец ужасному правлению этого "Ла-Манчалэнда" и спасём каждую жертву, которую он забрал!
 
-# Original: And mark my words; we shall pinch this vile rascal who created La Manchaland by the collar and present them before thee! Prithee, smite them with the hammer of justice in everyone's stead.
+# Don Quixote: And mark my words; we shall pinch this vile rascal who created La Manchaland by the collar and present them before thee! Prithee, smite them with the hammer of justice in everyone's stead.
 Дон Кихот: И помяни мое слово; мы схватим этого мерзкого негодяя, создавшего Ла-Манчалэнд, за шиворот и представим пред тобою! Молю, порази его молотом правосудия от имени всех.
 
-# Original: My, my...! You certainly know how to inspire confidence. That's more than I could say for the vast majority of Fixers I've known!
+# Cesara: My, my...! You certainly know how to inspire confidence. That's more than I could say for the vast majority of Fixers I've known!
 Цезара: Боже, боже...! Вы определённо знаете, как вселить уверенность. Это больше, чем я могла бы сказать о подавляющем большинстве Корректировщиков, которых я знала!
 
-# Original: Sniff... I, Don Quixote, shall battle valiantly and honorably; thus shall my name be forever etched in the halls of P Corp....!
+# Don Quixote: Sniff... I, Don Quixote, shall battle valiantly and honorably; thus shall my name be forever etched in the halls of P Corp....!
 Дон Кихот: Всхлип... Я, Дон Кихот, буду сражаться доблестно и с честью; так моё имя будет навеки высечено в залах Корпорации P....!
 
-# Original: Don Quixote was bouncing up and down like she was prepared to stand at Cesara's beck and call.
+# Narrator: Don Quixote was bouncing up and down like she was prepared to stand at Cesara's beck and call.
 Рассказчик: Дон Кихот подпрыгивала вверх и вниз, словно была готова стоять по стойке смирно по первому зову Цезары.
 
-# Original: Please stop...
+# Heathcliff: Please stop...
 Хитклиф: Пожалуйста, прекрати...
 
-# Original: This woman certainly wasted no time figuring out how to turn her into putty in her hands...
+# Outis: This woman certainly wasted no time figuring out how to turn her into putty in her hands...
 Отис: Эта женщина определённо не теряла времени даром, выясняя, как превратить её в податливую массу в своих руках...
 
-# Original: It really ain't that difficult to see how the lass works, to be fair...
+# Heathcliff: It really ain't that difficult to see how the lass works, to be fair...
 Хитклиф: Честно говоря, не так уж и сложно понять, как работает эта девчонка...
 
-# Original: Well, then! Shall we get a move on?
+# Cesara: Well, then! Shall we get a move on?
 Цезара: Ну что ж! Может, двинемся дальше?
 
-# Original: Let us depart! Lead the way, Lady Cesara!
+# Don Quixote: Let us depart! Lead the way, Lady Cesara!
 Дон Кихот: Отправимся же! Веди нас, Леди Цезара!
 
-# Original: Oh, I'm sorry. Sadly, I can't go there with you.
+# Cesara: Oh, I'm sorry. Sadly, I can't go there with you.
 Цезара: О, мне жаль. К сожалению, я не могу пойти туда с вами.
 
-# Original: Please head to the location marked on this piece of paper.
+# Cesara: Please head to the location marked on this piece of paper.
 Цезара: Пожалуйста, направляйтесь к месту, отмеченному на этом листке бумаги.
 
-# Original: Yet wherefore?! A journey on thy lonesome shall be so dreary, no?
+# Don Quixote: Yet wherefore?! A journey on thy lonesome shall be so dreary, no?
 Дон Кихот: Но отчего?! Разве путешествие в одиночестве не будет столь унылым, нет?
 
-# Original: Isn't it obvious? If we show up at the Fixers' gathering with the Head Manager of a whole department in tow, we'll attract more eyes than superstars on a red carpet.
+# Ishmael: Isn't it obvious? If we show up at the Fixers' gathering with the Head Manager of a whole department in tow, we'll attract more eyes than superstars on a red carpet.
 Измаил: Разве не очевидно? Если мы появимся на собрании Корректировщиков с главным менеджером целого отдела в качестве сопровождения, мы привлечём больше взглядов, чем суперзвёзды на красной дорожке.
 
-# Original: Yep. I'm sure they'll sniff out our connection to P Corp. at a glance...
+# Rodion: Yep. I'm sure they'll sniff out our connection to P Corp. at a glance...
 Родион: Ага. Уверена, они учуют нашу связь с Корпорацией P с первого взгляда...
 
-# Original: Yet... are not stars of... super variety a good goal to strive for?
+# Don Quixote: Yet... are not stars of... super variety a good goal to strive for?
 Дон Кихот: Однако... разве звёзды... супер-разновидности не являются достойной целью, к которой стоит стремиться?
 
-# Original: Don Quixote... this might come as news to you, but sometimes words can mean more than one thing at a time...
+# Gregor: Don Quixote... this might come as news to you, but sometimes words can mean more than one thing at a time...
 Грегор: Дон Кихот... это может стать для тебя новостью, но иногда слова могут означать больше одной вещи одновременно...
 
-# Original: Here's a pass that'll let you move freely between the Backstreets and the Nest of P Corp. Do note that it's a work visa, however, so it won't last forever.
+# Cesara: Here's a pass that'll let you move freely between the Backstreets and the Nest of P Corp. Do note that it's a work visa, however, so it won't last forever.
 Цезара: Вот пропуск, который позволит вам свободно перемещаться между Подворотнями и Гнездом Корпорации P. Обратите внимание, что это рабочая виза, поэтому она не будет действовать вечно.
 
-# Original: Hmm... If they can just hand out something so important this easily, I can't imagine why her department won't be able to handle it themselves...
+# Sinclair: Hmm... If they can just hand out something so important this easily, I can't imagine why her department won't be able to handle it themselves...
 Синклер: Хмм... Если они могут так легко раздавать нечто столь важное, я не могу представить, почему её отдел не сможет справиться с этим самостоятельно...
 
-# Original: Sinclair was still quietly suspicious, but that small doubt was practically buried in the brief commotion that followed as Sinners gathered in front of Cesara to receive their visa.
+# Narrator: Sinclair was still quietly suspicious, but that small doubt was practically buried in the brief commotion that followed as Sinners gathered in front of Cesara to receive their visa.
 Рассказчик: Синклер всё ещё тихо подозревал что-то, но это маленькое сомнение практически затерялось в кратком волнении, которое последовало, когда Грешники собрались перед Цезарой, чтобы получить свои визы.

@@ -1,203 +1,203 @@
-# Original: What have you done to this manor?
+# Outis: What have you done to this manor?
 Отис: Что вы сделали с этим поместьем?
 
-# Original: I did not... tamper with the manor myself. I have not once been anywhere near the subject of workshops or engineering in my life; I am but a sheltered child of the esteemed Edgar Family. How would I have the capacity to do the modifications myself?
+# Linton: I did not... tamper with the manor myself. I have not once been anywhere near the subject of workshops or engineering in my life; I am but a sheltered child of the esteemed Edgar Family. How would I have the capacity to do the modifications myself?
 Линтон: Я... сам не вмешивался в поместье. Я ни разу в жизни не имел дела с мастерскими или инженерией; я всего лишь избалованный ребенок из уважаемой семьи Эдгар. Как бы у меня хватило способностей самому произвести модификации?
 
-# Original: All I have done is... make a few investments in a separate organization that worked on the construction.
+# Linton: All I have done is... make a few investments in a separate organization that worked on the construction.
 Линтон: Всё, что я сделал... это вложил средства в отдельную организацию, которая занималась строительством.
 
-# Original: They were introduced to me as a group that was once a part of this... Syndicate called 'the Ring'.
+# Linton: They were introduced to me as a group that was once a part of this... Syndicate called 'the Ring'.
 Линтон: Их представили мне как группу, которая когда-то была частью этого... Синдиката под названием "Безымянный Палец".
 
-# Original: ... Hah.
+# Ryōshū: ... Hah.
 Рёшу: ... Хах.
 
-# Original: The Ring...? Didn't the Dead Rabbits guy say something about being plucked by the Ring?
+# Rodion: The Ring...? Didn't the Dead Rabbits guy say something about being plucked by the Ring?
 Родион: Безымянный Палец...? Разве тот парень из Мёртвых Кроликов не говорил что-то о том, что его выдернул Безымянный Палец?
 
-# Original: What the hell are you doing... bringing those blighters here...?
+# Heathcliff: What the hell are you doing... bringing those blighters here...?
 Хитклиф: Какого чёрта ты творишь... привёл этих мерзавцев сюда...?
 
-# Original: I don't know... I never really cared much about the details of how this manor was modified. If my brother found out what I was doing, he would have tried to kill me... but I cared not.
+# Linton: I don't know... I never really cared much about the details of how this manor was modified. If my brother found out what I was doing, he would have tried to kill me... but I cared not.
 Линтон: Я не знаю... Меня никогда особо не волновали детали того, как модифицировали это поместье. Если бы мой брат узнал, чем я занимаюсь, он бы попытался меня убить... но мне было всё равно.
 
-# Original: How did you even come across the Golden Bough? It's...
+# Ishmael: How did you even come across the Golden Bough? It's...
 Измаил: Как ты вообще получил Золотую Ветвь? Это...
 
-# Original: ... impossible for a private individual to acquire the Golden Boughs? Indeed. But the Edgar Family is a family of vast means.
+# Linton: ... impossible for a private individual to acquire the Golden Boughs? Indeed. But the Edgar Family is a family of vast means.
 Линтон: ... невозможно для частного лица приобрести Золотые Ветви? Действительно. Но семья Эдгар – это семья с обширными средствами.
 
-# Original: When my eldest brother left, most of the family fortune became mine. I quite enjoyed the affluence. One could say that it's the only thing of my possession that I liked. Though I have spent most of it... procuring... the Golden Bough... Cough...
+# Linton: When my eldest brother left, most of the family fortune became mine. I quite enjoyed the affluence. One could say that it's the only thing of my possession that I liked. Though I have spent most of it... procuring... the Golden Bough... Cough...
 Линтон: Когда мой старший брат ушёл, большая часть семейного состояния стала моей. Я весьма наслаждался этим богатством. Можно сказать, что это единственное в моём владении, что мне нравилось. Хотя я потратил большую часть... на приобретение... Золотой Ветви... Кхе...
 
-# Original: Linton was coughing harshly between every couple of words. It seemed as though he was pushing himself just to finish a sentence.
+# Narrator: Linton was coughing harshly between every couple of words. It seemed as though he was pushing himself just to finish a sentence.
 Рассказчик: Линтон жёстко кашлял после каждой пары слов. Казалось, что он из последних сил пытается закончить предложение.
 
-# Original: It wasn't that the battles had been grueling; it was merely that he was someone of a frailer constitution.
+# Narrator: It wasn't that the battles had been grueling; it was merely that he was someone of a frailer constitution.
 Рассказчик: Дело было не в том, что бои были изнурительными; просто он был человеком более слабого телосложения.
 
-# Original: The Edgar Family... I believe that I have once espied that name in the Fixers Monthly magazines... Mayhaps...?
+# Don Quixote: The Edgar Family... I believe that I have once espied that name in the Fixers Monthly magazines... Mayhaps...?
 Дон Кихот: Семья Эдгар... Полагаю, я однажды узрела сие имя в журналах "Ежемесячник Корректировщика"... Быть может...?
 
-# Original: Haah... what have I got to say to a bloke who looks like he belongs in the infirmary?
+# Heathcliff: Haah... what have I got to say to a bloke who looks like he belongs in the infirmary?
 Хитклиф: Хаах... что мне сказать парню, которому самое место в больнице?
 
-# Original: Just tell me what happened to... Catherine. That's all I'm asking.
+# Heathcliff: Just tell me what happened to... Catherine. That's all I'm asking.
 Хитклиф: Просто скажи мне, что случилось с... Кэтрин. Это всё, о чём я прошу.
 
-# Original: Do you really think that you even deserve to meddle in my family's affairs...? To meddle in this business between me and... my wife?
+# Linton: Do you really think that you even deserve to meddle in my family's affairs...? To meddle in this business between me and... my wife?
 Линтон: Ты действительно думаешь, что у тебя есть право вмешиваться в дела моей семьи...? Вмешиваться в эти отношения между мной и... моей женой?
 
-# Original: Don't talk like that to me, dammit! What, are you trying to flaunt those words at me or something...?!
+# Heathcliff: Don't talk like that to me, dammit! What, are you trying to flaunt those words at me or something...?!
 Хитклиф: Не смей так со мной разговаривать, чёрт возьми! Что, пытаешься похвастаться передо мной этими словами, что ли...?!
 
-# Original: We were married. De facto, de jure.
+# Linton: We were married. De facto, de jure.
 Линтон: Мы были женаты. Де-факто и де-юре.
 
-# Original: I was Catherine's lawfully wedded husband, and we lived under the same roof. We built a family together.
+# Linton: I was Catherine's lawfully wedded husband, and we lived under the same roof. We built a family together.
 Линтон: Я был законным мужем Кэтрин, и мы жили под одной крышей. Мы создали семью вместе.
 
-# Original: …….
+# Heathcliff: …….
 Хитклиф: …….
 
-# Original: Right, 'husband'. I suppose you will never know how it feels to be called that... am I wrong?
+# Linton: Right, 'husband'. I suppose you will never know how it feels to be called that... am I wrong?
 Линтон: Верно, "муж". Полагаю, ты никогда не узнаешь, каково это – когда тебя так называют... я не ошибаюсь?
 
-# Original: It's only expected at this point, is it not? Who in their right mind would leave everything behind just to be with some... poor Backstreets vagrant... like you...? Cough.
+# Linton: It's only expected at this point, is it not? Who in their right mind would leave everything behind just to be with some... poor Backstreets vagrant... like you...? Cough.
 Линтон: Это ведь ожидаемо, не так ли? Кто в здравом уме оставит всё позади только ради какого-то... бедного бродяги из Подворотен... вроде тебя...? Кхе.
 
-# Original: ... I told you to stop provoking me.
+# Heathcliff: ... I told you to stop provoking me.
 Хитклиф: ... Я же сказал тебе перестать меня провоцировать.
 
-# Original: It's... Agh. Dammit...
+# Heathcliff: It's... Agh. Dammit...
 Хитклиф: Это... Агх. Чёрт...
 
-# Original: Heathcliff fell silent for a moment. What Linton said hurt him so much that he could not even come up with a rebuttal.
+# Narrator: Heathcliff fell silent for a moment. What Linton said hurt him so much that he could not even come up with a rebuttal.
 Рассказчик: Хитклиф на мгновение замолчал. То, что сказал Линтон, так сильно задело его, что он даже не мог придумать, что возразить.
 
-# Original: Linton continued, somewhat emboldened by his silence.
+# Narrator: Linton continued, somewhat emboldened by his silence.
 Рассказчик: Линтон продолжил, немного осмелев от его молчания.
 
-# Original: You were the first to leave her, yes... but I assure you, it was certainly for the better.
+# Linton: You were the first to leave her, yes... but I assure you, it was certainly for the better.
 Линтон: Ты первым оставил её, да... но уверяю тебя, это определённо было к лучшему.
 
-# Original: Because she would have... left you first if you hadn't. Because she would have grown tired of you!
+# Linton: Because she would have... left you first if you hadn't. Because she would have grown tired of you!
 Линтон: Потому что она бы... первой оставила тебя, если бы ты этого не сделал. Потому что она бы устала от тебя!
 
-# Original: Tired... of me...?
+# Heathcliff: Tired... of me...?
 Хитклиф: Устала... от меня...?
 
-# Original: Linton. You said that on purpose, didn't you?
+# Catherine: Linton. You said that on purpose, didn't you?
 Кэтрин: Линтон. Ты сказал это нарочно, не так ли?
 
-# Original: What do you mean?
+# Linton: What do you mean?
 Линтон: Что ты имеешь в виду?
 
-# Original: Just now. You provoked Heathcliff. So that you'll anger that boy, so that he'll attack you first.
+# Catherine: Just now. You provoked Heathcliff. So that you'll anger that boy, so that he'll attack you first.
 Кэтрин: Только что. Ты спровоцировал Хитклифа. Чтобы разозлить этого мальчика, чтобы он первым напал на тебя.
 
-# Original: No! I never said anything to him. You see, I was just talking to Hindley.
+# Linton: No! I never said anything to him. You see, I was just talking to Hindley.
 Линтон: Нет! Я ничего ему не говорил. Видишь ли, я просто разговаривал с Хиндли.
 
-# Original: Besides, let's be honest. Just look at him. His unkempt hair, the rags he's wearing... He's laughable, isn't he?
+# Linton: Besides, let's be honest. Just look at him. His unkempt hair, the rags he's wearing... He's laughable, isn't he?
 Линтон: Кроме того, давай будем честными. Просто посмотри на него. Его неопрятные волосы, лохмотья, в которые он одет... Разве он не смешон?
 
-# Original: Do you even know what you've done? Hindley will thrash that boy once you leave! Do you understand?
+# Catherine: Do you even know what you've done? Hindley will thrash that boy once you leave! Do you understand?
 Кэтрин: Ты хоть понимаешь, что ты наделал? Хиндли отколотит этого мальчика, как только ты уйдёшь! Ты понимаешь?
 
-# Original: No, no!
+# Linton: No, no!
 Линтон: Нет, нет!
 
-# Original: Quit your weeping, Linton! You have no idea how unhappy your tears make me.
+# Catherine: Quit your weeping, Linton! You have no idea how unhappy your tears make me.
 Кэтрин: Прекрати реветь, Линтон! Ты не представляешь, какой несчастной меня делают твои слёзы.
 
-# Original: Linton tortures Heathcliff like that on purpose.
+# Narrator: Linton tortures Heathcliff like that on purpose.
 Рассказчик: Линтон специально так мучает Хитклифа.
 
-# Original: Every time my brother speaks ill of Heathcliff, he giggles with him or mutters in agreement. As if he wants Heathcliff to hear.
+# Narrator: Every time my brother speaks ill of Heathcliff, he giggles with him or mutters in agreement. As if he wants Heathcliff to hear.
 Рассказчик: Каждый раз, когда мой брат плохо отзывается о Хитклифе, он хихикает вместе с ним или бормочет в знак согласия. Как будто он хочет, чтобы Хитклиф это услышал.
 
-# Original: And Heathcliff would always attack Linton. Because he is an impulsive child.
+# Narrator: And Heathcliff would always attack Linton. Because he is an impulsive child.
 Рассказчик: И Хитклиф всегда нападает на Линтона. Потому что он импульсивный ребёнок.
 
-# Original: Why can't the people I love... also love one another?
+# Narrator: Why can't the people I love... also love one another?
 Рассказчик: Почему люди, которых я люблю... не могут любить друг друга?
 
-# Original: Linton. You love me, don't you?
+# Catherine: Linton. You love me, don't you?
 Кэтрин: Линтон. Ты ведь любишь меня, не так ли?
 
-# Original: Of course, dear Catherine.
+# Linton: Of course, dear Catherine.
 Линтон: Конечно, дорогая Кэтрин.
 
-# Original: Then how far are you willing to go for love?
+# Narrator: Then how far are you willing to go for love?
 Рассказчик: Тогда как далеко ты готов зайти ради любви?
 
-# Original: What does 'love' mean to you?
+# Narrator: What does 'love' mean to you?
 Рассказчик: Что для тебя значит "любовь"?
 
-# Original: ... If you truly love me, then...
+# Narrator: ... If you truly love me, then...
 Рассказчик: ... Если ты действительно любишь меня, тогда...
 
-# Original: ... perhaps you could bring Heathcliff back to me?
+# Narrator: ... perhaps you could bring Heathcliff back to me?
 Рассказчик: ... возможно, ты мог бы вернуть мне Хитклифа?
 
-# Original: ... That... diary...!
+# Linton: ... That... diary...!
 Линтон: ... Этот... дневник...!
 
-# Original: You can... read it...?
+# Linton: You can... read it...?
 Линтон: Ты... можешь его читать...?
 
-# Original: Linton looked downright pathetic. He was gasping for air with every breath, trying to read the open diary.
+# Narrator: Linton looked downright pathetic. He was gasping for air with every breath, trying to read the open diary.
 Рассказчик: Линтон выглядел совершенно жалко. Он задыхался с каждым вздохом, пытаясь прочитать открытый дневник.
 
-# Original: It was a wretched sight; the rapier in his hand clattered pitifully to the floor.
+# Narrator: It was a wretched sight; the rapier in his hand clattered pitifully to the floor.
 Рассказчик: Это было прискорбное зрелище; рапира в его руке жалобно звякнула об пол.
 
-# Original: Yeah. As you can plainly see yourself.
+# Heathcliff: Yeah. As you can plainly see yourself.
 Хитклиф: Да. Как ты сам можешь ясно видеть.
 
-# Original: When I tried to read it, it was full of nothing but pages upon pages of ink stains...
+# Linton: When I tried to read it, it was full of nothing but pages upon pages of ink stains...
 Линтон: Когда я пытался его прочитать, он был полон ничем, кроме как страниц полных чернильных пятен...
 
-# Original: So why does it refuse me but not...
+# Linton: So why does it refuse me but not...
 Линтон: Так почему же она отвергает меня, но не...
 
-# Original: ... Hah.
+# Linton: ... Hah.
 Линтон: ... Хах.
 
-# Original: Catherine... this is your answer, then?
+# Linton: Catherine... this is your answer, then?
 Линтон: Кэтрин... это твой ответ, значит?
 
-# Original: I no longer know if I even have the right to stand in your way.
+# Linton: I no longer know if I even have the right to stand in your way.
 Линтон: Я больше не знаю, есть ли у меня даже право стоять на вашем пути.
 
-# Original: Linton closes his eyes for a moment, and backs away from us.
+# Narrator: Linton closes his eyes for a moment, and backs away from us.
 Рассказчик: Линтон на мгновение закрывает глаза и отступает от нас.
 
-# Original: He activates a button somewhere within the fireplace, and...
+# Narrator: He activates a button somewhere within the fireplace, and...
 Рассказчик: Он активирует кнопку где-то в камине, и...
 
-# Original: ... the fireplace opens, loud with the sound of moving mechanical parts. Before us appears a long staircase leading downstairs.
+# Narrator: ... the fireplace opens, loud with the sound of moving mechanical parts. Before us appears a long staircase leading downstairs.
 Рассказчик: ... камин открывается, громко звуча движущимися механическими частями. Перед нами появляется длинная лестница, ведущая вниз.
 
-# Original: …….
+# Linton: …….
 Линтон: …….
 
-# Original: He is watching us with a hollow, dejected look.
+# Narrator: He is watching us with a hollow, dejected look.
 Рассказчик: Он наблюдает за нами с пустым, подавленным взглядом.
 
-# Original: Master Linton...
+# Nelly: Master Linton...
 Нелли: Господин Линтон...
 
-# Original: This staircase leads to the basement...? What the hell were you doing down there...?
+# Ishmael: This staircase leads to the basement...? What the hell were you doing down there...?
 Измаил: Эта лестница ведёт в подвал...? Какого чёрта ты там делал...?
 
-# Original: All I can say is that... I have been preparing to invite a new guest.
+# Linton: All I can say is that... I have been preparing to invite a new guest.
 Линтон: Всё, что я могу сказать... я готовился пригласить нового гостя.
 
-# Original: Descend. Whatever appears before you, whatever transpires...
+# Linton: Descend. Whatever appears before you, whatever transpires...
 Линтон: Спускайтесь. Что бы ни предстало перед вами, что бы ни произошло...
 
-# Original: ... it shall all be as Catherine willed.
+# Linton: ... it shall all be as Catherine willed.
 Линтон: ... всё это будет так, как того пожелала Кэтрин.

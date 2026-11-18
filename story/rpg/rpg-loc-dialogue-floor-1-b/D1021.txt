@@ -1,128 +1,128 @@
-﻿# Original: <There you are, Meursault! I knew you'd be here.>
+﻿# Dante: <There you are, Meursault! I knew you'd be here.>
 Данте: <Вот ты где, Мерсо! Я знал, что найду тебя здесь.>
 
-# Original: I am.
+# Meursault: I am.
 Мерсо: Да, я здесь.
 
-# Original: What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!
+# Rodion: What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!
 Родион: Ну ты даёшь, Мер! Мог бы хоть сделать вид, что удивился. Мы ж тебя спасать пришли!
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: I quietly communicated in a way that only Meursault could hear.
+# Narrator: I quietly communicated in a way that only Meursault could hear.
 Рассказчик: Я заговорил тихо, так, чтобы меня слышал только Мерсо.
 
-# Original: <Meursault, do you...>
+# Dante: <Meursault, do you...>
 Данте: <Мерсо, ты...>
 
-# Original: <... remember everything?>
+# Dante: <... remember everything?>
 Данте: <...всё помнишь?>
 
-# Original: Yes. I remember every event following my entry to the Grand Magasin Sisyphe, including the events on the second floor.
+# Meursault: Yes. I remember every event following my entry to the Grand Magasin Sisyphe, including the events on the second floor.
 Мерсо: Да. Я помню всё, что произошло с момента моего входа в Гран-Магазэн Сизиф, включая события на втором этаже.
 
-# Original: <I don't think the other Sinners do, though.>
+# Dante: <I don't think the other Sinners do, though.>
 Данте: <А вот остальные Грешники, похоже, не помнят.>
 
-# Original: I have heard that the Grand Magasin periodically conducts a <i>reset</i> of its stock, internally designated "Liquidation."
+# Meursault: I have heard that the Grand Magasin periodically conducts a <i>reset</i> of its stock, internally designated "Liquidation."
 Мерсо: Мне доводилось слышать, что Гран-Магазэн периодически проводит <i>сброс</i> товарных запасов, именуемый во внутренней терминологии «Ликвидацией».
 
-# Original: <Right... A "reset"...>
+# Dante: <Right... A "reset"...>
 Данте: <Точно... «Сброс»...>
 
-# Original: <Okay, so now that we have a second chance... Do you think, if we were to make different choices this time around, we could secure the Golden Bough and escape the Grand Magasin?>
+# Dante: <Okay, so now that we have a second chance... Do you think, if we were to make different choices this time around, we could secure the Golden Bough and escape the Grand Magasin?>
 Данте: <Ладно, раз у нас теперь есть второй шанс... Как думаешь, если в этот раз мы поступим иначе, получится добыть Золотую Ветвь и выбраться из Гран-Магазэна?>
 
-# Original: There is no way to know that at the present.
+# Meursault: There is no way to know that at the present.
 Мерсо: На данный момент это невозможно знать.
 
-# Original: However, some things have carried over through the Liquidation.
+# Meursault: However, some things have carried over through the Liquidation.
 Мерсо: Однако кое-что сохранилось после Ликвидации.
 
-# Original: <Like what?>
+# Dante: <Like what?>
 Данте: <Например?>
 
-# Original: Every item we have purchased from the shops on each floor.
+# Meursault: Every item we have purchased from the shops on each floor.
 Мерсо: Все предметы, приобретённые нами в магазинах на каждом этаже.
 
-# Original: <The eyeballs, too? Good. At least we have that.>
+# Dante: <The eyeballs, too? Good. At least we have that.>
 Данте: <И глазные яблоки тоже? Хорошо. Хоть что-то.>
 
-# Original: And... this as well, Manager.
+# Meursault: And... this as well, Manager.
 Мерсо: И... ещё вот это, Менеджер.
 
-# Original: With his usual, stoic cadence, Meursault produced a piece of torn flesh. It was wreathed in a golden glow.
+# Narrator: With his usual, stoic cadence, Meursault produced a piece of torn flesh. It was wreathed in a golden glow.
 Рассказчик: С обычной своей невозмутимостью Мерсо достал кусок разорванной плоти. Его окутывало золотое сияние.
 
-# Original: <Kinda looks like...>
+# Dante: <Kinda looks like...>
 Данте: <Похоже на...>
 
-# Original: <... a piece of that <i>thing</i> the Rouges created in the Luxury Hall. That must be where it's from.>
+# Dante: <... a piece of that <i>thing</i> the Rouges created in the Luxury Hall. That must be where it's from.>
 Данте: <...кусок той <i>штуки</i>, которую Ружи создали в Элитном Зале. Наверное, оттуда он и взялся.>
 
-# Original: It is likely a vestige of what emerged when we tore through what they called "the Cradle."
+# Meursault: It is likely a vestige of what emerged when we tore through what they called "the Cradle."
 Мерсо: Вероятно, это остаток того, что появилось, когда мы прорвались сквозь то, что они называли «Колыбелью».
 
-# Original: <... Um, it's faint, but I think it's beating. Like a heart...>
+# Dante: <... Um, it's faint, but I think it's beating. Like a heart...>
 Данте: <...Эм, еле заметно, но, кажется, он бьётся. Как сердце...>
 
-# Original: Hey, hey! Whatcha two gossiping about over there?
+# Rodion: Hey, hey! Whatcha two gossiping about over there?
 Родион: Эй-эй! Вы чего там шушукаетесь?
 
-# Original: <N-no, we weren't gossiping. We were just... having a very normal reunion, y'know?>
+# Dante: <N-no, we weren't gossiping. We were just... having a very normal reunion, y'know?>
 Данте: <Н-нет, мы не шушукаемся. Мы просто... совершенно нормально радуемся встрече, понимаешь?>
 
-# Original: <Right, Meursault? Aw, you have no idea how glad I am to see you again!>
+# Dante: <Right, Meursault? Aw, you have no idea how glad I am to see you again!>
 Данте: <Правда, Мерсо? Ох, ты даже не представляешь, как я рад снова тебя видеть!>
 
-# Original: ... Correct.
+# Meursault: ... Correct.
 Мерсо: ...Верно.
 
-# Original: ...?
+# Ishmael: ...?
 Измаил: ...?
 
-# Original: We'd better keep this on the down low from the Sinners for now, at least until I can put this troubling hunch to rest. Thankfully, Meursault seems to have picked up on my reluctance to share.
+# Narrator: We'd better keep this on the down low from the Sinners for now, at least until I can put this troubling hunch to rest. Thankfully, Meursault seems to have picked up on my reluctance to share.
 Рассказчик: Пожалуй, пока лучше не говорить об этом Грешникам — по крайней мере, пока я не развею это тревожное предчувствие. К счастью, Мерсо, похоже, понял, что я не хочу этим делиться.
 
-# Original: Who are you people?
+# Mimosa: Who are you people?
 Мимоза: Вы кто такие?
 
-# Original: Back off. I found this material first. Finders keepers. It belongs to our store now.
+# Mimosa: Back off. I found this material first. Finders keepers. It belongs to our store now.
 Мимоза: Отойдите. Этот материал я нашла первой. Что упало, то пропало. Теперь он принадлежит нашему магазину.
 
-# Original: "Material"...? Um... Look, this dude is our... uh, "colleague." Can we have him back, please?
+# Rodion: "Material"...? Um... Look, this dude is our... uh, "colleague." Can we have him back, please?
 Родион: «Материал»...? Эм... Слушай, этот чувак — наш... э-э, «коллега». Можно нам его обратно, а?
 
-# Original: "Colleague"... Hm. I've heard that word before. Is it a brand name?
+# Mimosa: "Colleague"... Hm. I've heard that word before. Is it a brand name?
 Мимоза: «Коллега»... Хм. Где-то я уже слышала это слово. Это название какого-то бренда?
 
-# Original: Uh...
+# Rodion: Uh...
 Родион: Э-э...
 
-# Original: From what we've seen of this place so far... I don't know if common sense is all that reliable in here.
+# Ishmael: From what we've seen of this place so far... I don't know if common sense is all that reliable in here.
 Измаил: Судя по тому, что мы тут уже повидали... не уверена, что здесь можно полагаться на здравый смысл.
 
-# Original: When you said he belongs to your store... does that mean you're gonna put him to work?
+# Ishmael: When you said he belongs to your store... does that mean you're gonna put him to work?
 Измаил: Вы сказали, что он принадлежит вашему магазину... Вы что, собираетесь заставить его работать?
 
-# Original: No. We have more than enough staff for this shop. It's the material that's in shortage.
+# Mimosa: No. We have more than enough staff for this shop. It's the material that's in shortage.
 Мимоза: Нет. Персонала в нашем магазине более чем достаточно. Не хватает материала.
 
-# Original: Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?
+# Ishmael: Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?
 Измаил: Материала...? А, ясно. Значит, вы хотите, э-э... одолжить форму Мерсо...?
 
-# Original: You strangers are impossible to communicate with. I'm at my wits' end here...
+# Mimosa: You strangers are impossible to communicate with. I'm at my wits' end here...
 Мимоза: С вами, чужаками, невозможно разговаривать. У меня уже никакого терпения не осталось...
 
-# Original: The employee gave us an exasperated look.
+# Narrator: The employee gave us an exasperated look.
 Рассказчик: Сотрудница посмотрела на нас с раздражением.
 
-# Original: I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?
+# Mimosa: I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?
 Мимоза: Я же сказала: у нас нехватка материала. <i>Материала</i>. Что тут непонятного?
 
-# Original: Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!
+# Mimosa: Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!
 Мимоза: Вы разве не слышали объявление? Тренд снова сменился. Пройдёт несколько сезонов, и в моде будет что-то новое. Вот поэтому нам — и этому магазину — всегда будет нужно больше материала!
 
-# Original: I get that, <i>I get that</i>, but what the hell does that have to do with—
+# Ishmael: I get that, <i>I get that</i>, but what the hell does that have to do with—
 Измаил: Да поняла я, <i>поняла</i>, но какое, чёрт возьми, это имеет отношение к—

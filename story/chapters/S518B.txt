@@ -1,230 +1,230 @@
-# Original: <So something's been bothering me...>
+# Dante: <So something's been bothering me...>
 Данте: <Кое-что меня беспокоит...>
 
-# Original: <Wasn't it weird how they all seemed so... certain?>
+# Dante: <Wasn't it weird how they all seemed so... certain?>
 Данте: <Разве не странно, что они все казались такими... уверенными?>
 
-# Original: <That if we kept going this way, we'd run into some other huge disaster?>
+# Dante: <That if we kept going this way, we'd run into some other huge disaster?>
 Данте: <Что если мы продолжим двигаться в этом направлении, то столкнемся с еще одной огромной катастрофой?>
 
-# Original: It is nothing of note, manager. It is but a byproduct of their firm belief in their advantage over us.
+# Meursault: It is nothing of note, manager. It is but a byproduct of their firm belief in their advantage over us.
 Мерсо: Это ничего не значит, менеджер. Это лишь побочный продукт их твердой веры в свое преимущество над нами.
 
-# Original: I have observed an oddity, however. They had installed numerous spikes on the lower side of their ship's hull.
+# Meursault: I have observed an oddity, however. They had installed numerous spikes on the lower side of their ship's hull.
 Мерсо: Однако я заметил одну странность. На нижней части корпуса их корабля было установлено множество шипов.
 
-# Original: Are they not for ramming into other vessels? I have heard that such tactics were occasionally used in naval combat.
+# Outis: Are they not for ramming into other vessels? I have heard that such tactics were occasionally used in naval combat.
 Отис: Разве они не для тарана других судов? Я слышала, что такая тактика иногда использовалась в морских сражениях.
 
-# Original: They were installed far too low in the water to be useful as a means of ramming another ship. It can be extrapolated from the metal's level of corrosion that the spikes, concentrated on the keel of the boat, have been installed recently.
+# Meursault: They were installed far too low in the water to be useful as a means of ramming another ship. It can be extrapolated from the metal's level of corrosion that the spikes, concentrated on the keel of the boat, have been installed recently.
 Мерсо: Они были установлены слишком низко в воде, чтобы быть полезными как средство тарана другого корабля. Судя по уровню коррозии металла, можно сделать вывод, что шипы, сконцентрированные на киле лодки, были установлены недавно.
 
-# Original: How did you see the keel of the boat...?
+# Outis: How did you see the keel of the boat...?
 Отис: Как ты вообще увидел киль лодки...?
 
-# Original: The water was clearer up close than it appeared from a distance.
+# Meursault: The water was clearer up close than it appeared from a distance.
 Мерсо: Вблизи вода была чище, чем казалась издалека.
 
-# Original: Mm~ Maybe they were trying to stop something from climbing up to the ship?
+# Hong Lu: Mm~ Maybe they were trying to stop something from climbing up to the ship?
 Хон Лу: Мм~ Может быть, они пытались помешать чему-то забраться на корабль?
 
-# Original: Can't imagine that any fish would swim blindly into the keel of a boat. They're not birds crashing into windows.
+# Gregor: Can't imagine that any fish would swim blindly into the keel of a boat. They're not birds crashing into windows.
 Грегор: Не могу представить, чтобы какая-нибудь рыба вслепую врезалась в киль лодки. Они же не птицы, бьющиеся в окна.
 
-# Original: Maybe it was nothing~ Y'know how superstitious pirates can be. What if it's like a good luck charm?
+# Rodion: Maybe it was nothing~ Y'know how superstitious pirates can be. What if it's like a good luck charm?
 Родион: Может быть, это просто ничего не значит~ Знаете же, какими суеверными могут быть пираты. Что если это что-то вроде талисмана на удачу?
 
-# Original: Mmh... Maybe we should've let Assistant Manager Pilot tag along.
+# Gregor: Mmh... Maybe we should've let Assistant Manager Pilot tag along.
 Грегор: Ммх... Может, нам стоило взять с собой Помощника Менеджера Пилота.
 
-# Original: Know anything about this, Frau Faust?
+# Gregor: Know anything about this, Frau Faust?
 Грегор: Знаешь что-нибудь об этом, фрау Фауст?
 
-# Original: No pertinent information has been updated.
+# Faust: No pertinent information has been updated.
 Фауст: Никакой актуальной информации не поступало.
 
-# Original: The most we could do is to ensure that we do not violate any laws of the Great Lake.
+# Faust: The most we could do is to ensure that we do not violate any laws of the Great Lake.
 Фауст: Максимум, что мы можем сделать, это убедиться, что мы не нарушаем никаких законов Великого Озера.
 
-# Original: Thus continued our journey to the Lobotomy Corp. Branch with the variable coordinates Pilot gave us...
+# Narrator: Thus continued our journey to the Lobotomy Corp. Branch with the variable coordinates Pilot gave us...
 Рассказчик: Так продолжалось наше путешествие к филиалу Корпорации Лоботомия с переменными координатами, которые дал нам Пилот...
 
-# Original: ... Paranoia of the unknown weighing heavily on our shoulders.
+# Narrator: ... Paranoia of the unknown weighing heavily on our shoulders.
 Рассказчик: ... Паранойя перед неизвестным тяжело давила на наши плечи.
 
-# Original: After an indeterminate amount of time...
+# Narrator: After an indeterminate amount of time...
 Рассказчик: Спустя неопределенное количество времени...
 
-# Original: ... Outis, we will have to steer the ship portside.
+# Faust: ... Outis, we will have to steer the ship portside.
 Фауст: ... Отис, нам придется повернуть корабль на левый борт.
 
-# Original: ... What?
+# Outis: ... What?
 Отис: ... Что?
 
-# Original: Outis, who was looking out ahead from the bow of the ship, whipped around. Whatever Faust said seemed to have hit her unexpectedly.
+# Narrator: Outis, who was looking out ahead from the bow of the ship, whipped around. Whatever Faust said seemed to have hit her unexpectedly.
 Рассказчик: Отис, которая смотрела вперед с носа корабля, резко обернулась. То, что сказала Фауст, похоже, застало ее врасплох.
 
-# Original: Hey. It hasn't been an hour since you told us that we'll have to cross this zone in a straight line.
+# Outis: Hey. It hasn't been an hour since you told us that we'll have to cross this zone in a straight line.
 Отис: Эй. Не прошло и часа с тех пор, как ты сказала нам, что мы должны пересечь эту зону по прямой линии.
 
-# Original: We are falling short of our target speed. At our current rate, we will be struck by the next zone's Waves as soon as we exit here.
+# Faust: We are falling short of our target speed. At our current rate, we will be struck by the next zone's Waves as soon as we exit here.
 Фауст: Мы не достигли плановой скорости. При текущем темпе нас накроют Волны следующей зоны, как только мы выйдем отсюда.
 
-# Original: Is that the damned law of this zone?
+# Outis: Is that the damned law of this zone?
 Отис: Это чертов закон этой зоны?
 
-# Original: Indeed.
+# Faust: Indeed.
 Фауст: Разумеется.
 
-# Original: Though our encounter with the pirates was rapidly resolved, we still fell behind schedule. The variable coordinates now points to a different route.
+# Faust: Though our encounter with the pirates was rapidly resolved, we still fell behind schedule. The variable coordinates now points to a different route.
 Фауст: Хотя наша встреча с пиратами была быстро разрешена, мы все же отстали от графика. Переменные координаты теперь указывают на другой маршрут.
 
-# Original: ... How much time are we going to have to waste here?
+# Outis: ... How much time are we going to have to waste here?
 Отис: ... Сколько времени мы потеряем?
 
-# Original: According to the variable coordinates... the necessary roundabout path will cost us three more days.
+# Faust: According to the variable coordinates... the necessary roundabout path will cost us three more days.
 Фауст: Согласно переменным координатам... необходимый обходной путь займет у нас еще три дня.
 
-# Original: ... Huh.
+# Outis: ... Huh.
 Отис: ... Хм.
 
-# Original: Outis bit her lip with discontent before suddenly turning in my direction.
+# Narrator: Outis bit her lip with discontent before suddenly turning in my direction.
 Рассказчик: Отис недовольно закусила губу, прежде чем внезапно повернуться в мою сторону.
 
-# Original: Executive Manager, I have a genius plan. A plan that will not only accelerate this operation but also increase the chances of securing and rescuing the lives of the LCCB Agents.
+# Outis: Executive Manager, I have a genius plan. A plan that will not only accelerate this operation but also increase the chances of securing and rescuing the lives of the LCCB Agents.
 Отис: Исполнительный Менеджер, у меня есть гениальный план. План, который не только ускорит эту операцию, но и увеличит шансы на обеспечение безопасности и спасение жизней агентов LCCB.
 
-# Original: If we were to waste three more days at sea, there is very little guarantee for their well-being.
+# Outis: If we were to waste three more days at sea, there is very little guarantee for their well-being.
 Отис: Если мы потеряем еще три дня в море, гарантий их благополучия будет очень мало.
 
-# Original: <Well... What's the plan?>
+# Dante: <Well... What's the plan?>
 Данте: <Ну... Что за план?>
 
-# Original: ... We keep going forward.
+# Outis: ... We keep going forward.
 Отис: ... Мы продолжаем двигаться вперед.
 
-# Original: With that, Outis slowly raised the acceleration lever.
+# Narrator: With that, Outis slowly raised the acceleration lever.
 Рассказчик: С этими словами Отис медленно повысила мощность на рычаге ускорения.
 
-# Original: …!
+# Faust: …!
 Фауст: …!
 
-# Original: What?
+# Ishmael: What?
 Измаил: Что?
 
-# Original: ... Hm.
+# Vergilius: ... Hm.
 Вергилий: ... Хм.
 
-# Original: Are you nuts? We'd be sailing right into the Waves, you know that?
+# Ishmael: Are you nuts? We'd be sailing right into the Waves, you know that?
 Измаил: Ты с ума сошла? Мы же поплывем прямо на Волны, ты это понимаешь?
 
-# Original: I know what the Waves are, swabbie. I'm not as ignorant of the Great Lake as you might think. You've had plenty of experience weathering and conquering Waves as well, haven't you?
+# Outis: I know what the Waves are, swabbie. I'm not as ignorant of the Great Lake as you might think. You've had plenty of experience weathering and conquering Waves as well, haven't you?
 Отис: Я знаю, что такое Волны, юнга. Я не настолько невежественна в отношении Великого Озера, как ты можешь думать. У тебя ведь тоже есть богатый опыт преодоления и покорения Волн, не так ли?
 
-# Original: Yeah! But that's because they were unavoidable! Because we lacked enough information to take the roundabout path! I've never sailed knowingly into the Waves before.
+# Ishmael: Yeah! But that's because they were unavoidable! Because we lacked enough information to take the roundabout path! I've never sailed knowingly into the Waves before.
 Измаил: Да! Но это было потому, что их нельзя было избежать! Потому что у нас не было достаточно информации, чтобы пойти в обход! Я никогда не плавала навстречу Волнам сознательно.
 
-# Original: But you still prevailed, didn't you?
+# Outis: But you still prevailed, didn't you?
 Отис: Но ты все равно справлялась, не так ли?
 
-# Original: .......
+# Ishmael: .......
 Измаил: .......
 
-# Original: And that was when you didn't have someone to bring you back. I say that this is well within our capabilities.
+# Outis: And that was when you didn't have someone to bring you back. I say that this is well within our capabilities.
 Отис: И это было тогда, когда у тебя не было никого, кто мог бы вернуть тебя. Я считаю, что это вполне в наших силах.
 
-# Original: Besides, there is the added benefit of accelerating our mission, and the higher possibility of rescue that the Executive Manager and a few underlings wanted.
+# Outis: Besides, there is the added benefit of accelerating our mission, and the higher possibility of rescue that the Executive Manager and a few underlings wanted.
 Отис: Кроме того, есть дополнительное преимущество в ускорении нашей миссии и более высокая вероятность спасения, чего хотели бы Исполнительный Менеджер и некоторые подчиненные.
 
-# Original: It was clear to me that you, Ishmael, weren't so happy with how slow our progress has been. What is it? Did you suddenly gain a yearning for a three-day sunbathing break?
+# Outis: It was clear to me that you, Ishmael, weren't so happy with how slow our progress has been. What is it? Did you suddenly gain a yearning for a three-day sunbathing break?
 Отис: Мне было ясно, что ты, Измаил, не очень довольна тем, как медленно мы продвигаемся. Что такое? Ты вдруг захотела трехдневный перерыв для загара?
 
-# Original: Instead of responding to Outis's sarcastic remark, Ishmael squinted in the direction the boat was speeding in.
+# Narrator: Instead of responding to Outis's sarcastic remark, Ishmael squinted in the direction the boat was speeding in.
 Рассказчик: Вместо того чтобы ответить на саркастическое замечание Отис, Измаил прищурилась в направлении, куда мчалась лодка.
 
-# Original: The tides… the odor… the speed… the color… that Lake over there is… the Blue Whirling Lake of Murk and Fish-Reek. I haven't suffered its Waves before, but I know many ships that have. Many of which are now lying at the bottom of that Lake.
+# Ishmael: The tides… the odor… the speed… the color… that Lake over there is… the Blue Whirling Lake of Murk and Fish-Reek. I haven't suffered its Waves before, but I know many ships that have. Many of which are now lying at the bottom of that Lake.
 Измаил: Течения... запах... скорость... цвет... то Озеро впереди... это Синее Кружащееся Озеро Мрака и Рыбной Вони. Я не испытывала его Волн раньше, но знаю много кораблей, которые испытали. Многие из них теперь лежат на дне того Озера.
 
-# Original: Fine. As long as we don't join them.
+# Outis: Fine. As long as we don't join them.
 Отис: Хорошо. Главное, чтобы мы к ним не присоединились.
 
-# Original: W-what if we just went to take a quick look… And if we feel like it's too much for us, we can just go back the way we came from… Right?
+# Sinclair: W-what if we just went to take a quick look… And if we feel like it's too much for us, we can just go back the way we came from… Right?
 Синклер: А-а что если мы просто поплывем, чтобы быстро взглянуть... И если почувствуем, что это слишком для нас, мы просто вернемся тем же путем, каким пришли... Верно?
 
-# Original: Go back the— There is no such thing… as going back in this Lake!
+# Ishmael: Go back the— There is no such thing… as going back in this Lake!
 Измаил: Вернемся— На этом Озере нет такой вещи... как возвращение!
 
-# Original: Your decision, Dante?
+# Faust: Your decision, Dante?
 Фауст: Ваше решение, Данте?
 
-# Original: <... Let's try following Outis' plan.>
+# Dante: <... Let's try following Outis' plan.>
 Данте: <... Давайте попробуем следовать плану Отис.>
 
-# Original: Understood. Crossing the zone's borders to the target Lake.
+# Faust: Understood. Crossing the zone's borders to the target Lake.
 Фауст: Понятно. Пересекаем границы зоны в направлении целевого Озера.
 
-# Original: You've got to be kidding me... Haah. Outis, you better be right...
+# Ishmael: You've got to be kidding me... Haah. Outis, you better be right...
 Измаил: Ты должно быть шутишь... Хаах. Отис, лучше бы тебе оказаться правой...
 
-# Original: As soon as those words left Ishmael's mouth, there was a flash in the sky.
+# Narrator: As soon as those words left Ishmael's mouth, there was a flash in the sky.
 Рассказчик: Как только эти слова слетели с губ Измаил, в небе сверкнула молния.
 
-# Original: <Thunder...?>
+# Dante: <Thunder...?>
 Данте: <Гром...?>
 
-# Original: ... It's really starting to pour.
+# Hong Lu: ... It's really starting to pour.
 Хон Лу: ... Действительно начинает лить как из ведра.
 
-# Original: We're in the eye of the storm.
+# Ryōshū: We're in the eye of the storm.
 Рёшу: Мы в эпицентре бури.
 
-# Original: <Wait... But the sky was clear just moments ago! How could this...?>
+# Dante: <Wait... But the sky was clear just moments ago! How could this...?>
 Данте: <Подождите... Но небо было ясным всего мгновение назад! Как это...?>
 
-# Original: The Waves are already here, manager.
+# Ishmael: The Waves are already here, manager.
 Измаил: Волны уже здесь, менеджер.
 
-# Original: ... Hm. That was an entertaining display.
+# Vergilius: ... Hm. That was an entertaining display.
 Вергилий: ... Хм. Это было занимательное зрелище.
 
-# Original: Charon, this seems like a good opportunity to test that function.
+# Vergilius: Charon, this seems like a good opportunity to test that function.
 Вергилий: Харон, похоже, это хорошая возможность проверить ту функцию.
 
-# Original: Ok. Switching to Endure mode.
+# Charon: Ok. Switching to Endure mode.
 Харон: Хорошо. Переключаюсь в режим Живучести.
 
-# Original: That's when reality began to sink in.
+# Narrator: That's when reality began to sink in.
 Рассказчик: Именно тогда реальность начала доходить до сознания.
 
-# Original: What had happened to, what happens to, and what will happen to everyone and everything that entered this Lake without preparation for what's to come.
+# Narrator: What had happened to, what happens to, and what will happen to everyone and everything that entered this Lake without preparation for what's to come.
 Рассказчик: Что случилось, что происходит и что произойдет со всеми и всем, что вошло в это Озеро без подготовки к тому, что грядет.
 
-# Original: <What should… What do we do now, Ishmael?>
+# Dante: <What should… What do we do now, Ishmael?>
 Данте: <Что нам... Что нам теперь делать, Измаил?>
 
-# Original: … There's this adage that every greenhorn sailor of the Great Lake hears before they set their first sail.
+# Ishmael: … There's this adage that every greenhorn sailor of the Great Lake hears before they set their first sail.
 Измаил: … Есть такая поговорка, которую слышит каждый зеленый моряк Великого Озера, прежде чем отправиться в свое первое плавание.
 
-# Original: 'There is but one thing you can count on if you find yourself in an unfamiliar Lake whose Waves are alien to you.'
+# Ishmael: 'There is but one thing you can count on if you find yourself in an unfamiliar Lake whose Waves are alien to you.'
 Измаил: "Есть лишь одна вещь, на которую ты можешь рассчитывать, если окажешься в незнакомом Озере, чьи Волны тебе чужды."
 
-# Original: A colossal wave rises to its crest before us.
+# Narrator: A colossal wave rises to its crest before us.
 Рассказчик: Перед нами поднимается колоссальная волна, достигая своего гребня.
 
-# Original: ... S.I.C. Ready your weapons if you want to delay the inevitable.
+# Ryōshū: ... S.I.C. Ready your weapons if you want to delay the inevitable.
 Рёшу: ... С.О.К. Приготовьте оружие, если хотите отсрочить неизбежное.
 
-# Original: 'It's not your sailing prowess, your far-seeing eyes of a pathfinder, or the unbreakable bond between you and your mates.'
+# Ishmael: 'It's not your sailing prowess, your far-seeing eyes of a pathfinder, or the unbreakable bond between you and your mates.'
 Измаил: "Дело не в твоём мастерстве мореплавания, не в твоих зорких глазах первопроходца, или даже нерушимой связи между тобой и твоими товарищами."
 
-# Original: 'Many sailors fail to endure this trial and instead choose to become sacrifices to the depths of the Lake.'
+# Ishmael: 'Many sailors fail to endure this trial and instead choose to become sacrifices to the depths of the Lake.'
 Измаил: "Многие моряки не выдерживают этого испытания и вместо этого выбирают стать жертвами глубин Озера."
 
-# Original: Huh? S-something's climbing onto our ship?!
+# Sinclair: Huh? S-something's climbing onto our ship?!
 Синклер: А? Ч-что-то забирается на наш корабль?!
 
-# Original: 'Trust nothing but your own resolve to hold steadfast in the face of terror, in the face of calamity.'
+# Ishmael & Outis: 'Trust nothing but your own resolve to hold steadfast in the face of terror, in the face of calamity.'
 Рассказчик: "Доверяй только своей решимости твердо стоять перед лицом ужаса, перед лицом бедствия."
 
-# Original: 'Though the raging Lake may remain indifferent to the will of your meager existence.'
+# Ishmael: 'Though the raging Lake may remain indifferent to the will of your meager existence.'
 Измаил: "Хоть бушующее Озеро может остаться равнодушным к воле твоего ничтожного существования."

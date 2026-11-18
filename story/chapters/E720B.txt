@@ -1,326 +1,326 @@
-﻿# Original: S-Saude?!
+﻿# Gregor: S-Saude?!
 Грегор: С-Сод?!
 
-# Original: And hey, Pilot… right? You’re...
+# Ishmael: And hey, Pilot… right? You’re...
 Измаил: И эй, Пилот... верно? Ты...
 
-# Original: What’s wrong? It’s like you're all looking at a ghost. Pilot, didn’t you tell me that you shared my news with them the last time?
+# Saude: What’s wrong? It’s like you're all looking at a ghost. Pilot, didn’t you tell me that you shared my news with them the last time?
 Сод: Что не так? Такое ощущение, будто призрака увидели. Пилот, разве ты не говорил, что в прошлый раз передал им новости?
 
-# Original: I-I did! I sure did, ma’am!
+# Pilot: I-I did! I sure did, ma’am!
 Пилот: Я-я передал! Точно передал, мэм!
 
-# Original: Oh…! Yeah! He did!
+# Gregor: Oh…! Yeah! He did!
 Грегор: А...! Да! Передал!
 
-# Original: The Sinners each recovered from the initial shock of seeing them again...
+# Narrator: The Sinners each recovered from the initial shock of seeing them again...
 Рассказчик: Грешники постепенно оправились от первоначального шока при виде её...
 
-# Original: ... and soon, their faces began to bloom with relieved smiles.
+# Narrator: ... and soon, their faces began to bloom with relieved smiles.
 Рассказчик: ...и вскоре на их лицах расцвели облегчённые улыбки.
 
-# Original: Well, good to see that things haven’t changed much around here.
+# Saude: Well, good to see that things haven’t changed much around here.
 Сод: Что ж, приятно видеть, что здесь мало что изменилось.
 
-# Original: <Saude… We’re so glad to see you’re okay.>
+# Dante: <Saude… We’re so glad to see you’re okay.>
 Данте: <Сод... Мы так рады видеть, что с тобой всё в порядке.>
 
-# Original: Tick-tock to you, too. Good to see your gears are turning just fine.
+# Saude: Tick-tock to you, too. Good to see your gears are turning just fine.
 Сод: И тебе тоже тик-так. Рада видеть, что твои шестерёнки всё так же крутятся.
 
-# Original: Saude smiled with a familiar grin. She did not seem to have changed much since the last time we met, save for a few minor differences.
+# Narrator: Saude smiled with a familiar grin. She did not seem to have changed much since the last time we met, save for a few minor differences.
 Рассказчик: Сод улыбнулась знакомой улыбкой. Она, похоже, мало изменилась с нашей последней встречи, не считая нескольких мелочей.
 
-# Original: Her outfit and her badge, for example.
+# Narrator: Her outfit and her badge, for example.
 Рассказчик: Например, её формы и значка.
 
-# Original: Last I recall, you were promoted, yes? Allow me to congratulate you.
+# Outis: Last I recall, you were promoted, yes? Allow me to congratulate you.
 Отис: Насколько я помню, вас повысили, верно? Позвольте поздравить.
 
-# Original: Uhm... yeah, ha ha.
+# Saude: Uhm... yeah, ha ha.
 Сод: Эм... да, ха-ха.
 
-# Original: Or the hints of melancholy, hanging from her smile and flickering in her eyes.
+# Narrator: Or the hints of melancholy, hanging from her smile and flickering in her eyes.
 Рассказчик: Или намёков на печаль, застывших в её улыбке и мелькающих в глазах.
 
-# Original: Hey...!
+# Gregor: Hey...!
 Грегор: Эй...!
 
-# Original: I am merely congratulating her on her promotion and offering a recognition of her excellent accomplishments. I don’t see what your problem is here.
+# Outis: I am merely congratulating her on her promotion and offering a recognition of her excellent accomplishments. I don’t see what your problem is here.
 Отис: Я всего лишь поздравляю её с повышением и отмечаю её выдающиеся достижения. Не вижу, в чём тут проблема.
 
-# Original: But we all know the meaning that promotion carries...
+# Gregor: But we all know the meaning that promotion carries...
 Грегор: Но мы все знаем, что значит это повышение...
 
-# Original: Indeed, and it is very profound. After all, what meaning is there to a promotion attained without spilling some blood?
+# Outis: Indeed, and it is very profound. After all, what meaning is there to a promotion attained without spilling some blood?
 Отис: Действительно, и это очень глубокий смысл. В конце концов, какой смысл в повышении, полученном без пролития крови?
 
-# Original: You… you’re a real piece of work…
+# Gregor: You… you’re a real piece of work…
 Грегор: Ты... ну ты и кусок...
 
-# Original: Let me ask you something, then. If everyone behaves like you do around her, tiptoeing around the facts, keeping it hush-hush about what happened, where’s she going to get the bare minimum of the recognition and the consolation she deserves?
+# Outis: Let me ask you something, then. If everyone behaves like you do around her, tiptoeing around the facts, keeping it hush-hush about what happened, where’s she going to get the bare minimum of the recognition and the consolation she deserves?
 Отис: Позволь спросить тебя кое о чём. Если все будут вести себя как ты, ходить на цыпочках вокруг фактов, замалчивать произошедшее, как она получит хотя бы минимум признания и утешения, которых заслуживает?
 
-# Original: …….
+# Gregor: …….
 Грегор: …….
 
-# Original: Hush-hush would’ve been nice. I’ve even overheard some of them whisper that I let my partner die just so I can snag a promotion.
+# Saude: Hush-hush would’ve been nice. I’ve even overheard some of them whisper that I let my partner die just so I can snag a promotion.
 Сод: Замалчивание было бы неплохо. Я даже слышала, как некоторые шептались, что я позволила напарнику умереть, чтобы получить повышение.
 
-# Original: So, in that regard… I appreciate that, Outis.
+# Saude: So, in that regard… I appreciate that, Outis.
 Сод: Так что в этом плане... я ценю это, Отис.
 
-# Original: … Hm.
+# Outis: … Hm.
 Отис: ... Хм.
 
-# Original: If we're being technical, I did die... except my brain was intact. Not even K Corp.'s regenerative ampules could've revived me if it wasn't.
+# Saude: If we're being technical, I did die... except my brain was intact. Not even K Corp.'s regenerative ampules could've revived me if it wasn't.
 Сод: Если быть точной, я действительно умерла... только мой мозг остался цел. Даже регенеративные ампулы К-Корпорации не смогли бы оживить меня, если бы не это.
 
-# Original: ...! Then did Effie also—
+# Sinclair: ...! Then did Effie also—
 Синклер: ...! Значит, Эффи тоже—
 
-# Original: Apparently they went right for Effie's head when they stabbed him with a prosthetic.
+# Saude: Apparently they went right for Effie's head when they stabbed him with a prosthetic.
 Сод: Похоже, они целились Эффи прямо в голову, когда пронзили его протезом.
 
-# Original: ... According to the coroner's autopsy.
+# Saude: ... According to the coroner's autopsy.
 Сод: ... Согласно заключению патологоанатома.
 
-# Original: …….
+# Sinclair: …….
 Синклер: …….
 
-# Original: K Corp. ampules... Life Insurance... neither of them can revive someone with a damaged brain.
+# Ishmael: K Corp. ampules... Life Insurance... neither of them can revive someone with a damaged brain.
 Измаил: Ампулы К-Корпорации... Страхование Жизни... ни то, ни другое не может оживить того, чей мозг повреждён.
 
-# Original: ... It is what it is.
+# Saude: ... It is what it is.
 Сод: ... Что есть, то есть.
 
-# Original: Anyways, anyways. Let’s not dwell on the depressing stuff.
+# Saude: Anyways, anyways. Let’s not dwell on the depressing stuff.
 Сод: Ладно, ладно. Давайте не будем зацикливаться на депрессивных вещах.
 
-# Original: We’re here for work, let’s get some work done. So let’s talk about work, okay? Pilot?
+# Saude: We’re here for work, let’s get some work done. So let’s talk about work, okay? Pilot?
 Сод: Мы здесь по работе, давайте работать. Так что поговорим о деле, хорошо? Пилот?
 
-# Original: Uh! Yes ma’am!
+# Pilot: Uh! Yes ma’am!
 Пилот: Ух! Да, мэм!
 
-# Original: W-well, lessee here. Coincidentally, I happened to make friends with a feller who has ties to the Jia family! So I brought’em over!
+# Pilot: W-well, lessee here. Coincidentally, I happened to make friends with a feller who has ties to the Jia family! So I brought’em over!
 Пилот: Н-ну, значится так. По счастливой случайности я подружился с одним человечком, у которого есть связи с семьёй Цзя! Вот я его и привёл!
 
-# Original: …….
+# Saude: …….
 Сод: …….
 
-# Original: Hey, … i-is that everything?
+# Gregor: Hey, … i-is that everything?
 Грегор: Эй, ... э-это всё?
 
-# Original: Y-yessir. Briefing over.
+# Pilot: Y-yessir. Briefing over.
 Пилот: Д-да, сэр. Брифинг окончен.
 
-# Original: Just as everyone was reeling in stunned silence at the least informative, least helpful briefing we ever had the displeasure of sitting through...
+# Narrator: Just as everyone was reeling in stunned silence at the least informative, least helpful briefing we ever had the displeasure of sitting through...
 Рассказчик: Пока все пребывали в ошеломлённом молчании после самого неинформативного и бесполезного брифинга, который нам когда-либо приходилось выслушивать...
 
-# Original: ... Ishmael was the first to catch herself. She looked up at Saude.
+# Narrator: ... Ishmael was the first to catch herself. She looked up at Saude.
 Рассказчик: ...Измаил первой пришла в себя. Она подняла взгляд на Сод.
 
-# Original: ... Saude, can we rely on you for some elaboration here?
+# Ishmael: ... Saude, can we rely on you for some elaboration here?
 Измаил: ...Сод, можно мы попросим тебя немного прояснить ситуацию?
 
-# Original: The briefing was a good demonstration of the necessity of educating the 'Five Ws and One H' principle.
+# Meursault: The briefing was a good demonstration of the necessity of educating the 'Five Ws and One H' principle.
 Мерсо: Этот брифинг наглядно продемонстрировал необходимость обучения методу пяти 'Почему' и одного 'Как'.
 
-# Original: Haha. Looks like we’ll have a <i>lot</i> to discuss once we get back, Pilot.
+# Saude: Haha. Looks like we’ll have a <i>lot</i> to discuss once we get back, Pilot.
 Сод: Хаха. Похоже, нам предстоит <i>много</i> обсудить, когда вернёмся, Пилот.
 
-# Original: Uhh… Did I do somethin’ wrong?!
+# Pilot: Uhh… Did I do somethin’ wrong?!
 Пилот: Ээ... Я что-то не так сделал?!
 
-# Original: Shh. Shh! Pilot, buddy, just stop. You're digging yourself a deeper hole with every word.
+# Gregor: Shh. Shh! Pilot, buddy, just stop. You're digging yourself a deeper hole with every word.
 Грегор: Тсс. Тсс! Пилот, дружище, просто замолчи. Ты с каждым словом копаешь себе яму всё глубже.
 
-# Original: Gregor quickly leaned in to warn Pilot, but it was likely too late. A nigh-unnoticeable crease had already formed between Saude's brows.
+# Narrator: Gregor quickly leaned in to warn Pilot, but it was likely too late. A nigh-unnoticeable crease had already formed between Saude's brows.
 Рассказчик: Грегор быстро наклонился, чтобы предупредить Пилота, но было уже поздно. Между бровями Сод уже появилась едва заметная морщинка.
 
-# Original: ... Prior to commencing this high-priority operation, it was necessary for us to find individuals with connections to H Corp.
+# Saude: ... Prior to commencing this high-priority operation, it was necessary for us to find individuals with connections to H Corp.
 Сод: ...Перед началом этой высокоприоритетной операции нам было необходимо найти людей со связями в Корпорации H.
 
-# Original: So we as the Preliminary Observation Unit were put to the task, and... we managed to establish a connection with an individual.
+# Saude: So we as the Preliminary Observation Unit were put to the task, and... we managed to establish a connection with an individual.
 Сод: Поэтому нашему Отделу Предварительного Наблюдения поручили эту задачу, и... нам удалось установить связь с одним человеком.
 
-# Original: Ooh~ Someone from my family?
+# Hong Lu: Ooh~ Someone from my family?
 Хон Лу: О-о-о~ Кто-то из моей семьи?
 
-# Original: No. We tried, but your family proved to be a rather difficult nut to crack. However, as we were wasting our precious time with all of our leads, Pilot pursued an unconventional method to establish this connection.
+# Saude: No. We tried, but your family proved to be a rather difficult nut to crack. However, as we were wasting our precious time with all of our leads, Pilot pursued an unconventional method to establish this connection.
 Сод: Нет. Мы пытались, но твоя семья оказалась крепким орешком. Однако, пока мы теряли драгоценное время со всеми нашими зацепками, Пилот использовал нестандартный метод для установления этой связи.
 
-# Original: I really didn't hold back on compliments then, and this is how you...
+# Saude: I really didn't hold back on compliments then, and this is how you...
 Сод: Я тогда действительно не скупилась на похвалу, и вот как ты...
 
-# Original: Nnh...
+# Pilot: Nnh...
 Пилот: Ннх...
 
-# Original: Hm. Our collaborator is a former employee of the Jia family. After leaving the family, he now runs a lodging business.
+# Saude: Hm. Our collaborator is a former employee of the Jia family. After leaving the family, he now runs a lodging business.
 Сод: Хм. Наш сотрудник — бывший работник семьи Цзя. После ухода из семьи он теперь управляет гостиничным бизнесом.
 
-# Original: Then it is likely that he is far removed from the family politics; less motivation for him to attack us due to conflicting interests.
+# Outis: Then it is likely that he is far removed from the family politics; less motivation for him to attack us due to conflicting interests.
 Отис: Значит, вероятно, он далёк от семейной политики; меньше мотивации напасть на нас из-за конфликта интересов.
 
-# Original: Yes. And according to Pilot's report, he still regards the Jia family positively.
+# Saude: Yes. And according to Pilot's report, he still regards the Jia family positively.
 Сод: Да. И согласно отчёту Пилота, он до сих пор положительно относится к семье Цзя.
 
-# Original: How can I not, considering the blessings they have given me?
+# ???: How can I not, considering the blessings they have given me?
 Рассказчик: Как же иначе, учитывая благословения, которые они мне даровали?
 
-# Original: An unfamiliar voice butted into the conversation, as though to continue Saude's explanations.
+# Narrator: An unfamiliar voice butted into the conversation, as though to continue Saude's explanations.
 Рассказчик: Незнакомый голос вклинился в разговор, словно продолжая объяснения Сод.
 
-# Original: I humbly present myself before the fellowship of young master Baoyu. Please, call me Qingtao.
+# Qingtao: I humbly present myself before the fellowship of young master Baoyu. Please, call me Qingtao.
 Цинтао: Смиренно представляюсь перед свитой молодого господина Баоюя. Прошу, зовите меня Цинтао.
 
-# Original: He greeted us in a most polite fashion before bringing his hands together in an odd motion.
+# Narrator: He greeted us in a most polite fashion before bringing his hands together in an odd motion.
 Рассказчик: Он поприветствовал нас самым учтивым образом, после чего соединил руки в странном жесте.
 
-# Original: <... Oh, is this how people greet each other here?>
+# Dante: <... Oh, is this how people greet each other here?>
 Данте: <...О, это так здесь люди приветствуют друг друга?>
 
-# Original: Yep, it's called the 'baoquan gesture'. Bringing fist and palm together to express respect and peace toward the receiver.
+# Hong Lu: Yep, it's called the 'baoquan gesture'. Bringing fist and palm together to express respect and peace toward the receiver.
 Хон Лу: Ага, это называется жест "баоцюань". Соединение кулака и ладони выражает уважение и мир к тому, кого приветствуют.
 
-# Original: Aha! Knights greet one another by shaking their hands for the selfsame purpose. Forsooth, thou art indeed one possessed of a chivalrous spirit!
+# Don Quixote: Aha! Knights greet one another by shaking their hands for the selfsame purpose. Forsooth, thou art indeed one possessed of a chivalrous spirit!
 Дон Кихот: Аха! Рыцари приветствуют друг друга рукопожатием с той же самой целью. Воистину, ты обладаешь поистине рыцарским духом!
 
-# Original: Ah, indeed! Much did I worry about the qualities of people young master has surrounded himself with, but I see that he is in company of those wise in the ways of the west.
+# Qingtao: Ah, indeed! Much did I worry about the qualities of people young master has surrounded himself with, but I see that he is in company of those wise in the ways of the west.
 Цинтао: Ах, воистину! Много беспокоился я о качествах людей, коими окружил себя молодой господин, но вижу, что он в обществе тех, кто мудр в обычаях запада.
 
-# Original: I prostrate myself before the vast breadth of your knowledge! What grand generosity it is, to open ajar the waterways of wisdom to quench my barren lands.
+# Qingtao: I prostrate myself before the vast breadth of your knowledge! What grand generosity it is, to open ajar the waterways of wisdom to quench my barren lands.
 Цинтао: Простираюсь ниц пред необъятной широтой ваших познаний! Сколь великодушно с вашей стороны приоткрыть водные пути мудрости, дабы напоить мои иссохшие земли.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: <... Something feels familiar about this.>
+# Dante: <... Something feels familiar about this.>
 Данте: <...В этом есть что-то знакомое.>
 
-# Original: Nah, she's been getting less and less verbose with bootlicking these days... not like this guy, for sure.
+# Rodion: Nah, she's been getting less and less verbose with bootlicking these days... not like this guy, for sure.
 Родион: Не, она в последнее время всё меньше и меньше подлизывается... не то что этот тип, это точно.
 
-# Original: <That's true. He's kinda like... how should I put this, uh... a bit much.>
+# Dante: <That's true. He's kinda like... how should I put this, uh... a bit much.>
 Данте: <Это правда. Он как бы... как бы это сказать, эм... немного чересчур.>
 
-# Original: What are you guys talking about...?
+# Sinclair: What are you guys talking about...?
 Синклер: О чём вы вообще говорите...?
 
-# Original: Communicating only by the sound a ticking clock... this is something I had already known ahead of time, yet...
+# Qingtao: Communicating only by the sound a ticking clock... this is something I had already known ahead of time, yet...
 Цинтао: Общение лишь звуками тикающих часов... я знал об этом заранее, однако же...
 
-# Original: ... what a most curious exchange to behold in person! Brief this journey may be, yet I shall find myself thoroughly entertained in its entirety! Ha ha!
+# Qingtao: ... what a most curious exchange to behold in person! Brief this journey may be, yet I shall find myself thoroughly entertained in its entirety! Ha ha!
 Цинтао: ...столь удивительный диалог наблюдать воочию! Пусть коротко сие путешествие, но я найду в нём неисчерпаемый источник развлечений! Ха-ха!
 
-# Original: Maybe it's the subtle sprinkle of disrespect that reminds you of the usual flavor...
+# Rodion: Maybe it's the subtle sprinkle of disrespect that reminds you of the usual flavor...
 Родион: Может, эта лёгкая примесь неуважения напоминает привычный вкус...
 
-# Original: ... Wait, is this about me? You dare...!?
+# Outis: ... Wait, is this about me? You dare...!?
 Отис: ...Погодите, это обо мне? Как вы смеете...!?
 
-# Original: Ahem...
+# Saude: Ahem...
 Сод: Кхм...
 
-# Original: Was all that bootlicking she did supposed to be a source of pride for her or something...?
+# Narrator: Was all that bootlicking she did supposed to be a source of pride for her or something...?
 Рассказчик: Неужели всё это подхалимство было для неё предметом гордости...?
 
-# Original: Outis shook her head with clear distaste and strode toward me.
+# Narrator: Outis shook her head with clear distaste and strode toward me.
 Рассказчик: Отис с явным отвращением покачала головой и направилась ко мне.
 
-# Original: We are nothing alike, Executive Manager!
+# Outis: We are nothing alike, Executive Manager!
 Отис: Мы совершенно не похожи, Исполнительный Менеджер!
 
-# Original: Never have I once said such empty flattery in your presence, filled with nothing but hot air and superlatives—!
+# Outis: Never have I once said such empty flattery in your presence, filled with nothing but hot air and superlatives—!
 Отис: Никогда я не говорила в вашем присутствии такой пустой лести, наполненной лишь горячим воздухом и превосходными степенями—!
 
-# Original: I'll leave the guidance of these Backstreets to him. Well, looks like this is where—
+# Saude: I'll leave the guidance of these Backstreets to him. Well, looks like this is where—
 Сод: Я оставлю роль проводника по этим Подворотням ему. Что ж, похоже, здесь—
 
-# Original: Saude fell silent, her eyes lingering on Vergilius who stood somewhat apart from the rest of us.
+# Narrator: Saude fell silent, her eyes lingering on Vergilius who stood somewhat apart from the rest of us.
 Рассказчик: Сод замолчала, её взгляд задержался на Вергилии, который стоял немного в стороне от остальных.
 
-# Original: So I finally get to meet the Red Gaze, in the flesh. I've been looking forward to this day for a long time.
+# Saude: So I finally get to meet the Red Gaze, in the flesh. I've been looking forward to this day for a long time.
 Сод: Так я наконец-то встречаю Красного Взора во плоти. Я долго ждала этого дня.
 
-# Original: ... Effie would've loved to be here.
+# Saude: ... Effie would've loved to be here.
 Сод: ...Эффи бы очень хотел здесь быть.
 
-# Original: M-manager...
+# Pilot: M-manager...
 Пилот: М-менеджер...
 
-# Original: …….
+# Vergilius: …….
 Вергилий: …….
 
-# Original: Vergilius seemed to sense her lingering gaze, and walked toward us after nodding slightly in her direction.
+# Narrator: Vergilius seemed to sense her lingering gaze, and walked toward us after nodding slightly in her direction.
 Рассказчик: Вергилий, похоже, почувствовал её пристальный взгляд и направился к нам, слегка кивнув в её сторону.
 
-# Original: Manager Saude.
+# Vergilius: Manager Saude.
 Вергилий: Менеджер Сод.
 
-# Original: Let's not make this any longer than it has to be. I'm not happy to be helping you with your businesses—I'd much rather put this behind me as soon as possible.
+# Vergilius: Let's not make this any longer than it has to be. I'm not happy to be helping you with your businesses—I'd much rather put this behind me as soon as possible.
 Вергилий: Давайте не будем затягивать. Я не в восторге от того, что помогаю вам с вашими делами — я бы предпочёл покончить с этим как можно скорее.
 
-# Original: Oh, please! It's our historic first collaborative operation, isn't it? Can't you spare a little more time with us~?
+# Saude: Oh, please! It's our historic first collaborative operation, isn't it? Can't you spare a little more time with us~?
 Сод: Ой, да ладно! Это же наша историческая первая совместная операция, разве нет? Неужели ты не можешь уделить нам немного больше времени~?
 
-# Original: The guide bud's... actually doing something? That guy?
+# Gregor: The guide bud's... actually doing something? That guy?
 Грегор: Этот приятель-гид... правда что-то делает? Этот тип?
 
-# Original: Yes. Unfortunately, LCC has our own business to take care of today, so I won't be accompanying the LCB this time. And the Red Gaze will be helping us out to get it done.
+# Saude: Yes. Unfortunately, LCC has our own business to take care of today, so I won't be accompanying the LCB this time. And the Red Gaze will be helping us out to get it done.
 Сод: Да. К сожалению, у LCC сегодня свои дела, так что я не буду сопровождать LCB в этот раз. А Красный взор поможет нам их выполнить.
 
-# Original: Taking Mephi there. Vroom-vroom.
+# Charon: Taking Mephi there. Vroom-vroom.
 Харон: Везём Мефи туда. Врум-врум.
 
-# Original: Hm... maybe it's not that unfortunate, now that I think about it. I feel like every mission with the LCB's always been an uphill battle to get anything done...
+# Saude: Hm... maybe it's not that unfortunate, now that I think about it. I feel like every mission with the LCB's always been an uphill battle to get anything done...
 Сод: Хм... может быть, это и не так уж печально, теперь когда подумать. Такое чувство, что каждая миссия с LCB всегда была борьбой в гору, чтобы хоть что-то сделать...
 
-# Original: W-well, you see... back then, we were...
+# Rodion: W-well, you see... back then, we were...
 Родион: Н-ну, понимаете... тогда мы были...
 
-# Original: Ha ha, just messing with you. I'm sure we'll have another chance to work together again.
+# Saude: Ha ha, just messing with you. I'm sure we'll have another chance to work together again.
 Сод: Ха-ха, просто шучу. Уверена, у нас ещё будет шанс поработать вместе.
 
-# Original: Boss, we don't got much time...!
+# Pilot: Boss, we don't got much time...!
 Пилот: Босс, у нас мало времени...!
 
-# Original: Wait, before you go... I think you owe us some explanation, Vergilius.
+# Ishmael: Wait, before you go... I think you owe us some explanation, Vergilius.
 Измаил: Подожди, прежде чем уйдёшь... думаю, ты должен нам объяснение, Вергилий.
 
-# Original: ... I will leave the details to miss Faust. I am quite busy.
+# Vergilius: ... I will leave the details to miss Faust. I am quite busy.
 Вергилий: ...Я оставлю детали мисс Фауст. Я довольно занят.
 
-# Original: Very well.
+# Faust: Very well.
 Фауст: Очень хорошо.
 
-# Original: Vergilius turned around and left toward Mephistopheles with an oddly disgruntled expression.
+# Narrator: Vergilius turned around and left toward Mephistopheles with an oddly disgruntled expression.
 Рассказчик: Вергилий развернулся и направился к Мефистофелю с несколько раздражённым выражением лица.
 
-# Original: Well, then. I'll see you around.
+# Saude: Well, then. I'll see you around.
 Сод: Что ж, тогда. Увидимся.
 
-# Original: N-next time, I'll show y'all! I'll show you that I can carry my own weight!
+# Pilot: N-next time, I'll show y'all! I'll show you that I can carry my own weight!
 Пилот: В-в следующий раз я вам покажу! Покажу, что могу нести свою ношу!
 
-# Original: Y-you know, oh boy, the last time we met I really was so darn pathetic...
+# Pilot: Y-you know, oh boy, the last time we met I really was so darn pathetic...
 Пилот: З-знаете, боже, в прошлый раз я был таким жалким...
 
-# Original: Pilot. Competence is shown through action, not words.
+# Saude: Pilot. Competence is shown through action, not words.
 Сод: Пилот. Компетентность доказывается делами, а не словами.
 
-# Original: Saude and Pilot gave us a light nod before following Vergilius.
+# Narrator: Saude and Pilot gave us a light nod before following Vergilius.
 Рассказчик: Сод и Пилот слегка кивнули нам, прежде чем последовать за Вергилием.
 
-# Original: Some Sinners opened their mouths to speak, hesitated, then closed them again. We let them go without a word.
+# Narrator: Some Sinners opened their mouths to speak, hesitated, then closed them again. We let them go without a word.
 Рассказчик: Некоторые Грешники открыли рты, чтобы что-то сказать, заколебались, потом закрыли их снова. Мы отпустили их без слова.
 
-# Original: Perhaps we didn't know what we could say to not make this an awkward farewell.
+# Narrator: Perhaps we didn't know what we could say to not make this an awkward farewell.
 Рассказчик: Возможно, мы не знали, что можно сказать, чтобы не сделать это прощание неловким.
 
-# Original: Very well. Please, this way.
+# Qingtao: Very well. Please, this way.
 Цинтао: Превосходно. Прошу, следуйте за мной.
 
-# Original: Or maybe we were simply mindful of this guy who was responsible for the quality of our stay.
+# Narrator: Or maybe we were simply mindful of this guy who was responsible for the quality of our stay.
 Рассказчик: Или, может быть, мы просто считались с этим парнем, от которого зависело качество нашего пребывания.

@@ -1,17 +1,17 @@
-﻿# Original: <color=#ebcaa2>Your attention, please.</color>
+﻿# Narrator: <color=#ebcaa2>Your attention, please.</color>
 Рассказчик: <color=#ebcaa2>Просим вашего внимания.</color>
 
-# Original: <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>
+# Narrator: <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>
 Рассказчик: <color=#ebcaa2>Рады сообщить, что ваш Уровень престижа повысился.</color>
 
-# Original: <color=#ebcaa2>At Grand Magasin Sisyphe, customers who spend more are awarded a status worthy of their patronage. We encourage you to continue shopping and work your way toward our highest tiers.</color>
+# Narrator: <color=#ebcaa2>At Grand Magasin Sisyphe, customers who spend more are awarded a status worthy of their patronage. We encourage you to continue shopping and work your way toward our highest tiers.</color>
 Рассказчик: <color=#ebcaa2>В Гран-Магазэне Сизиф покупатели, которые тратят больше, удостаиваются статуса, достойного их вклада. Приглашаем вас продолжать покупки и продвигаться к высшим Уровням престижа.</color>
 
-# Original: <color=#ebcaa2>We invite you to prove what you are worth by consuming to your hearts' content. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>
+# Narrator: <color=#ebcaa2>We invite you to prove what you are worth by consuming to your hearts' content. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>
 Рассказчик: <color=#ebcaa2>Предлагаем вам доказать, чего вы стоите, потребляя в своё удовольствие. Благодарим вас за выбор Гран-Магазэна Сизиф и желаем приятных покупок.</color>
 
-# Original: <Huh. Looks like our rank went up.>
+# Dante: <Huh. Looks like our rank went up.>
 Данте: <Хм. Похоже, наш Уровень престижа повысился.>
 
-# Original: <I've got no idea what's changed, though... or what new perks come with it.>
+# Dante: <I've got no idea what's changed, though... or what new perks come with it.>
 Данте: <Только понятия не имею, что изменилось... и какие новые привилегии это даёт.>

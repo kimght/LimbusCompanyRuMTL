@@ -1,20 +1,20 @@
-﻿# Original: The Needlekin are chattering seriously.
+﻿# Narrator: The Needlekin are chattering seriously.
 Рассказчик: Иглолюды о чём-то серьёзно тараторят.
 
-# Original: Needlekin to the front wants pass word! Keep waiting.
+# Queueing Needlekin: Needlekin to the front wants pass word! Keep waiting.
 Иглолюд из очереди: Иглолюду впереди нужно слово! Ждём.
 
-# Original: Needlekin to the front's front wants pass word! Keep waiting.
+# Queueing Needlekin: Needlekin to the front's front wants pass word! Keep waiting.
 Иглолюд из очереди: Иглолюду впереди-впереди нужно слово! Ждём.
 
-# Original: What are you waiting for?
+# Pwie: What are you waiting for?
 Буфи: А чего... вы ждёте?
 
-# Original: Stranger to the front asks! What are we waiting for?
+# Queueing Needlekin: Stranger to the front asks! What are we waiting for?
 Иглолюд из очереди: Посторонний спрашивает, передать вперёд! Чего мы ждём?
 
-# Original: Stranger to the front's front asks! What are we waiting for?
+# Queueing Needlekin: Stranger to the front's front asks! What are we waiting for?
 Иглолюд из очереди: Посторонний спрашивает, передать вперёд-вперёд! Чего мы ждём?
 
-# Original: <…>
+# Dante: <…>
 Данте: <…>

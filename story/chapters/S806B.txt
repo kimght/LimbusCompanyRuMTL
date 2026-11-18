@@ -1,587 +1,587 @@
-﻿# Original: Entering <ruby=Grand Flower Hall>Dahuating</ruby>(大花廳) now!
+﻿# Palanquin Bearer: Entering <ruby=Grand Flower Hall>Dahuating</ruby>(大花廳) now!
 Носильщик паланкина: Прибываем в <ruby=Большой Цветочный Зал>Дахуатин</ruby>(大花廳)!
 
-# Original: It wasn't long before our arrival to a new place within Daguanyuan was made known by the palanquin bearer's sonorous announcement.
+# Narrator: It wasn't long before our arrival to a new place within Daguanyuan was made known by the palanquin bearer's sonorous announcement.
 Рассказчик: Вскоре о нашем прибытии в новое место Дагуаньюаня возвестил зычный голос носильщика паланкина.
 
-# Original: More buildings...? What's Dahuating mean, anyway?
+# Heathcliff: More buildings...? What's Dahuating mean, anyway?
 Хитклиф: Ещё здания?.. И что вообще значит Дахуатин?
 
-# Original: Mmm~ Grand Flower Hall, so I think you could call it a place for banquets?
+# Hong Lu: Mmm~ Grand Flower Hall, so I think you could call it a place for banquets?
 Хон Лу: Мм-м~ Большой Цветочный Зал, так что, думаю, его можно назвать местом для банкетов?
 
-# Original: Huh... So you host banquets in this... village-sized 'venue'...?
+# Gregor: Huh... So you host banquets in this... village-sized 'venue'...?
 Грегор: Ха… Так вы устраиваете банкеты в этом… «заведении» размером с деревню?..
 
-# Original: I-is that a lake over there?
+# Sinclair: I-is that a lake over there?
 Синклер: Э-это там озеро?
 
-# Original: Nope, it's a pond~
+# Hong Lu: Nope, it's a pond~
 Хон Лу: Не-а, это пруд~
 
-# Original: A p-pond...? Daaamn...
+# Gregor: A p-pond...? Daaamn...
 Грегор: П-пруд?.. Чёёёрт…
 
-# Original: Once we arrive, we will find ourselves a welcoming party for Xichun and me.
+# Hong Lu: Once we arrive, we will find ourselves a welcoming party for Xichun and me.
 Хон Лу: По прибытии нас с Сичунь будет ждать приветственная встреча.
 
-# Original: Rodya, you should be able to stuff yourself to your heart's content this time. It's been a while, hasn’t it~?
+# Hong Lu: Aha! Rodya, you should be able to stuff yourself to your heart's content this time. It's been a while, hasn’t it~?
 Хон Лу: Родя, в этот раз ты сможешь наесться до отвала. Давненько такого не было, да~?
 
-# Original: I don’t think I’ve been this excited in a long time…
+# Rodion: I don’t think I’ve been this excited in a long time…
 Родион: Кажется, я давно так не радовалась…
 
-# Original: Whoa... Is that a ship over there? You have a <i>ship</i>?
+# Ishmael: Whoa... Is that a ship over there? You have a <i>ship</i>?
 Измаил: Ого… Это что, корабль там? У вас есть <i>корабль</i>?
 
-# Original: Aha, yep~ We'd sometimes go out boating.
+# Hong Lu: Aha, yep~ We'd sometimes go out boating.
 Хон Лу: Ага, да~ Мы иногда катались на лодках.
 
-# Original: Oh, and Xichun's building is right across that pond!
+# Hong Lu: Oh, and Xichun's building is right across that pond!
 Хон Лу: О, а здание Сичунь находится прямо за этим прудом!
 
-# Original: <You each get a building of your own?>
+# Dante: <You each get a building of your own?>
 Данте: <У каждого из вас по собственному зданию?>
 
-# Original: Yes, we do. So when I first departed from Hongyuan, I found the concept of an entire family living under the same roof so fascinating.
+# Hong Lu: Yes, we do. So when I first departed from Hongyuan, I found the concept of an entire family living under the same roof so fascinating.
 Хон Лу: Да, именно так. Поэтому, когда я впервые покинул Хунъюань, мысль о том, что целая семья живёт под одной крышей, показалась мне такой удивительной.
 
-# Original: Alas… ‘twould be quite the challenge for thy family to see one another.
+# Don Quixote: Alas… ‘twould be quite the challenge for thy family to see one another.
 Дон Кихот: Увы… должно быть, великая это задача для твоей семьи — видеться друг с другом.
 
-# Original: And that's exactly why we each get a building.
+# Hong Lu: And that's exactly why we each get a building.
 Хон Лу: Именно поэтому у каждого из нас по зданию.
 
-# Original: ... Are we even talking about the same thing here?
+# Ishmael: ... Are we even talking about the same thing here?
 Измаил: …Мы вообще об одном и том же говорим?
 
-# Original: Alack for woe! We could have merrily enjoyed our vacaciones at young Hong Lu’s residence all along?!
+# Don Quixote: Alack for woe! We could have merrily enjoyed our vacaciones at young Hong Lu’s residence all along?!
 Дон Кихот: О горе! Мы могли бы всё это время весело проводить наши <i>вакасионес</i> в резиденции юного Хон Лу?!
 
-# Original: That wouldn’t have worked, Don Quixote. When I left home, grandmother and the elders really impressed upon me that...
+# Hong Lu: That wouldn’t have worked, Don Quixote. When I left home, grandmother and the elders really impressed upon me that...
 Хон Лу: Это бы не сработало, Дон Кихот. Когда я уезжал из дома, бабушка и старейшины особо наказывали мне, что…
 
-# Original: ... "The footsteps shall eventually bring you home when the time is right; thus, witness, and only witness, as much of the world as you may before you make your return."
+# Hong Lu: ... "The footsteps shall eventually bring you home when the time is right; thus, witness, and only witness, as much of the world as you may before you make your return."
 Хон Лу: …«Когда придёт время, шаги сами приведут тебя домой; а пока — наблюдай, и только наблюдай, увидь как можно больше мира, прежде чем вернёшься».
 
-# Original: ... I was wondering when that would be… but time really slipped through our fingers, and just like that... it brought me here.
+# Hong Lu: ... I was wondering when that would be… but time really slipped through our fingers, and just like that... it brought me here.
 Хон Лу: …Я всё гадал, когда же это случится… но время и вправду утекло меж пальцев, и вот так просто… привело меня сюда.
 
-# Original: Most Sinners did not welcome their turn. Some of them were even terrified of it.
+# Narrator: Most Sinners did not welcome their turn. Some of them were even terrified of it.
 Рассказчик: Большинство Грешников не радовались своей очереди. Некоторые из них даже ужасались ей.
 
-# Original: Sometimes, they had to confront what they'd been avoiding all their lives.
+# Narrator: Sometimes, they had to confront what they'd been avoiding all their lives.
 Рассказчик: Иногда им приходилось сталкиваться с тем, чего они избегали всю жизнь.
 
-# Original: And for some, important things that were once forgotten or lost were waiting for their return.
+# Narrator: And for some, important things that were once forgotten or lost were waiting for their return.
 Рассказчик: А некоторых ждали важные вещи, некогда забытые или утерянные.
 
-# Original: But their reluctance is really not surprising at all.
+# Narrator: But their reluctance is really not surprising at all.
 Рассказчик: Но их нежелание совсем не удивительно.
 
-# Original: I don't think I'd welcome an opportunity to get my memories back with open arms if it was thrust upon me out of nowhere, especially if I was getting dragged there against my will.
+# Narrator: I don't think I'd welcome an opportunity to get my memories back with open arms if it was thrust upon me out of nowhere, especially if I was getting dragged there against my will.
 Рассказчик: Не думаю, что я бы с распростёртыми объятиями приветствовал возможность вернуть свои воспоминания, если бы мне её навязали из ниоткуда, особенно если бы меня тащили туда против моей воли.
 
-# Original: But despite the fact that it couldn't be more obvious that his turn had arrived, Hong Lu was as tranquil as he always was.
+# Narrator: But despite the fact that it couldn't be more obvious that his turn had arrived, Hong Lu was as tranquil as he always was.
 Рассказчик: Но несмотря на то, что его очередь, очевидно, настала, Хон Лу был как всегда спокоен.
 
-# Original: He's always been able to remain aloof no matter what happens. Maybe it won’t be different this time, either.
+# Narrator: He's always been able to remain aloof no matter what happens. Maybe it won’t be different this time, either.
 Рассказчик: Ему всегда удавалось оставаться отстранённым, что бы ни случилось. Может, и в этот раз ничего не изменится.
 
-# Original: But even so... can I judge that so hastily?
+# Narrator: But even so... can I judge that so hastily?
 Рассказчик: Но даже так… могу ли я судить об этом столь поспешно?
 
-# Original: Young Master Baoyu of the Jia family has returned!
+# Palanquin Bearer: Young Master Baoyu of the Jia family has returned!
 Носильщик паланкина: Молодой господин Баоюй из семьи Цзя вернулся!
 
-# Original: Again, with the palanquin bearer's deep, full-throated pronouncement of our arrival, the door opened.
+# Narrator: Again, with the palanquin bearer's deep, full-throated pronouncement of our arrival, the door opened.
 Рассказчик: Снова, под громогласное объявление носильщика о нашем прибытии, дверь отворилась.
 
-# Original: Here we are. You must all be so tired! Come in, come in~
+# Hong Lu: Here we are. You must all be so tired! Come in, come in~
 Хон Лу: Мы на месте. Вы все, должно быть, так устали! Входите, входите~
 
-# Original: Leaving behind the Sinners, who were still reeling from the astronomical level of opulence at display, Hong Lu bounced lightly off the palanquin and moseyed into the building.
+# Narrator: Leaving behind the Sinners, who were still reeling from the astronomical level of opulence at display, Hong Lu bounced lightly off the palanquin and moseyed into the building.
 Рассказчик: Оставив позади Грешников, всё ещё ошарашенных астрономическим уровнем выставленной напоказ роскоши, Хон Лу легко спрыгнул с паланкина и неспешно вошёл в здание.
 
-# Original: Quite the…
+# Yi Sang: Quite the…
 И Сан: Какая…
 
-# Original: ... lightfooted steps he take, unhindered by excitement nor trepidation…
+# Yi Sang: ... lightfooted steps he take, unhindered by excitement nor trepidation…
 И Сан: …лёгкая поступь, не обременённая ни восторгом, ни тревогой…
 
-# Original: Right...?
+# Sinclair: Right...?
 Синклер: Правда?..
 
-# Original: Rich boy’s got nothin’ to fear 'cos he’s used to this kind of poshness, that’s all this is.
+# Heathcliff: Rich boy’s got nothin’ to fear 'cos he’s used to this kind of poshness, that’s all this is.
 Хитклиф: Богатенькому сынку нечего бояться, он привык к такой роскоши, вот и всё.
 
-# Original: Verily, this may be a subtle expression of that teensy part of him that longeth to see his family again!
+# Don Quixote: Verily, this may be a subtle expression of that teensy part of him that longeth to see his family again!
 Дон Кихот: Воистину, это может быть тонким проявлением той крохотной частицы его души, что жаждет снова увидеть свою семью!
 
-# Original: Once we all left the palanquin...
+# Narrator: Once we all left the palanquin...
 Рассказчик: Как только мы все покинули паланкин…
 
-# Original: I find myself beset by overwhelming vastitudes and objects of great magnitude...
+# Yi Sang: I find myself beset by overwhelming vastitudes and objects of great magnitude...
 И Сан: Меня обуревают всепоглощающие просторы и предметы великой величины…
 
-# Original: Just how many servants do they have…?
+# Ishmael: Just how many servants do they have…?
 Измаил: Да сколько у них слуг?..
 
-# Original: Ah, grandmother will visit us once Xu hour(戌時) arrives.
+# Hong Lu: Ah, grandmother will visit us once Xu hour(戌時) arrives.
 Хон Лу: Ах, бабушка навестит нас, когда наступит час Сюй (戌時).
 
-# Original: The banquet will start then, I think.
+# Hong Lu: The banquet will start then, I think.
 Хон Лу: Думаю, тогда и начнётся банкет.
 
-# Original: <'Xu hour'...?>
+# Dante: <'Xu hour'...?>
 Данте: <«Час Сюй»?..>
 
-# Original: The ‘Xu hour’ refers to the time between 19:00 and 21:00. This is a unique time system used in certain regions of the east.
+# Faust: The ‘Xu hour’ refers to the time between 19:00 and 21:00. This is a unique time system used in certain regions of the east.
 Фауст: «Час Сюй» обозначает время между 19:00 и 21:00. Это уникальная система исчисления времени, используемая в некоторых регионах востока.
 
-# Original: In addition...
+# Faust: In addition...
 Фауст: Кроме того…
 
-# Original: ... it would be best to remember that Hong Lu's grandmother, Jia Mu, is the Hierarch of Daguanyuan. It would not be an incorrect assessment to see her as the ruler of Hongyuan.
+# Faust: ... it would be best to remember that Hong Lu's grandmother, Jia Mu, is the Hierarch of Daguanyuan. It would not be an incorrect assessment to see her as the ruler of Hongyuan.
 Фауст: …лучше помнить, что бабушка Хон Лу, Цзя Му, является Главой Дагуаньюаня. Будет верным считать её правительницей Хунъюаня.
 
-# Original: Your relative is... the head of a Wing, I see.
+# Outis: Your relative is... the head of a Wing, I see.
 Отис: Ваша родственница… глава Крыла, понятно.
 
-# Original: Yes. Though she'll be handing that over to the next heir pretty soon.
+# Hong Lu: Yes. Though she'll be handing that over to the next heir pretty soon.
 Хон Лу: Да. Хотя она довольно скоро передаст этот пост следующему наследнику.
 
-# Original: Why now? What does she seek to achieve by abdicating at this precise time?
+# Outis: Why now? What does she seek to achieve by abdicating at this precise time?
 Отис: Почему именно сейчас? Чего она стремится достичь, отрекаясь от власти в этот самый момент?
 
-# Original: Outis, as she probably saw an ulterior motive behind every move, inquired.
+# Narrator: Outis, as she probably saw an ulterior motive behind every move, inquired.
 Рассказчик: Отис, вероятно, видя скрытый мотив в каждом шаге, задала вопрос.
 
-# Original: She's been saying that her time would eventually come, that she's carried this responsibility for too long.
+# Hong Lu: She's been saying that her time would eventually come, that she's carried this responsibility for too long.
 Хон Лу: Она говорила, что её время в конце концов придёт, что она слишком долго несла эту ответственность.
 
-# Original: I bet she’d be pretty shocked to hear that you’ll be taking part in the Family Hierarch war.
+# Ishmael: I bet she’d be pretty shocked to hear that you’ll be taking part in the Family Hierarch war.
 Измаил: Держу пари, она будет весьма шокирована, узнав, что ты примешь участие в войне за пост Главы Семьи.
 
-# Original: Hehe, I don't know about that. Maybe she'll take it well.
+# Hong Lu: Hehe, I don't know about that. Maybe she'll take it well.
 Хон Лу: Хе-хе, не знаю. Может, она воспримет это хорошо.
 
-# Original: There's never been a reason for me to bother participating, but... there wasn't a reason for me to not, either.
+# Hong Lu: There's never been a reason for me to bother participating, but... there wasn't a reason for me to not, either.
 Хон Лу: У меня никогда не было причин утруждать себя участием, но… и причин не участвовать тоже не было.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: Huh? Hey, there’s Xichun and Wei over there. Looks like they both arrived safely.
+# Sinclair: Huh? Hey, there’s Xichun and Wei over there. Looks like they both arrived safely.
 Синклер: А? Эй, там Сичунь и Вэй. Похоже, они оба благополучно добрались.
 
-# Original: Jia Xichun, who arrived before us, shot us the briefest glance… before looking away with exaggerated disinterest.
+# Narrator: Jia Xichun, who arrived before us, shot us the briefest glance… before looking away with exaggerated disinterest.
 Рассказчик: Цзя Сичунь, прибывшая раньше нас, бросила на нас мимолётный взгляд… прежде чем отвернуться с преувеличенным безразличием.
 
-# Original: X-Xichun just turned her back on us…
+# Sinclair: X-Xichun just turned her back on us…
 Синклер: С-Сичунь только что отвернулась от нас…
 
-# Original: Well, didn’t take long for things to become super awkward…
+# Ishmael: Well, didn’t take long for things to become super awkward…
 Измаил: Ну, недолго же всё оставалось крайне неловким…
 
-# Original: Oo, we must capture this opportunity to seat ourselves adjacent to young Xichun!
+# Don Quixote: Oo, we must capture this opportunity to seat ourselves adjacent to young Xichun!
 Дон Кихот: О-о, мы должны воспользоваться этой возможностью, чтобы сесть рядом с юной Цзя Сичунь!
 
-# Original: Too late... We are forever banned from ever getting anywhere near her...
+# Gregor: Too late... We are forever banned from ever getting anywhere near her...
 Грегор: Слишком поздно… Нам навсегда запрещено приближаться к ней…
 
-# Original: Yet wherefore...?
+# Don Quixote: Yet wherefore...?
 Дон Кихот: Но почему же?..
 
-# Original: We are no longer Jia Xichun's faction.
+# Faust: We are no longer Jia Xichun's faction.
 Фауст: Мы больше не фракция Цзя Сичунь.
 
-# Original: Her hostility is to be expected.
+# Faust: Her hostility is to be expected.
 Фауст: Её враждебность ожидаема.
 
-# Original: Things have changed.
+# Meursault: Things have changed.
 Мерсо: Обстоятельства изменились.
 
-# Original: Us versus them. In-group versus out-group.
+# Meursault: Us versus them. In-group versus out-group.
 Мерсо: Мы против них. Свои против чужих.
 
-# Original: Deception and treachery are natural parts of war.
+# Outis: Deception and treachery are natural parts of war.
 Отис: Обман и предательство — естественные составляющие войны.
 
-# Original: An ally of today may as well become an enemy tomorrow…
+# Outis: An ally of today may as well become an enemy tomorrow…
 Отис: Сегодняшний союзник вполне может стать завтрашним врагом…
 
-# Original: And that’s a funny way to say “I don't have any friends”...
+# Ishmael: And that’s a funny way to say “I don't have any friends”...
 Измаил: Забавный способ сказать: «У меня нет друзей»…
 
-# Original: What did you just—
+# Outis: What did you just—
 Отис: Что ты только что—
 
-# Original: Ah, there are my parents.
+# Hong Lu: Ah, there are my parents.
 Хон Лу: Ах, вот и мои родители.
 
-# Original: H-hold on, we’re just walkin’ right up to ‘em? Blimey, at least tell us their names!
+# Heathcliff: H-hold on, we’re just walkin’ right up to ‘em? Blimey, at least tell us their names!
 Хитклиф: П-погоди, мы так просто к ним подойдём? Чёрт, хоть имена их скажи!
 
-# Original: Aha. Father's name is Zheng of the Jia family. And in Daguanyuan, they call my mother Lady Wang.
+# Hong Lu: Aha. Father's name is Zheng of the Jia family. And in Daguanyuan, they call my mother Lady Wang.
 Хон Лу: Ага. Отца зовут Чжэн из семьи Цзя. А в Дагуаньюане мою мать называют госпожа Ван.
 
-# Original: I greet you for the first time since my departure.
+# Hong Lu: I greet you for the first time since my departure.
 Хон Лу: Приветствую вас впервые с момента моего отъезда.
 
-# Original: …….
+# Jia Zheng: …….
 Цзя Чжэн: …….
 
-# Original: Baoyu of the Jia family has returned home.
+# Hong Lu: Baoyu of the Jia family has returned home.
 Хон Лу: Баоюй из семьи Цзя вернулся домой.
 
-# Original: ... You're early.
+# Jia Zheng: ... You're early.
 Цзя Чжэн: …Ты рано.
 
-# Original: Bao… Dear Baoyu… it has been too many years…
+# Lady Wang: Bao… Dear Baoyu… it has been too many years…
 Госпожа Ван: Бао… Дорогой Баоюй… столько лет прошло…
 
-# Original: To see you again after so long, I... it is so good to see your face.
+# Lady Wang: To see you again after so long, I... it is so good to see your face.
 Госпожа Ван: Увидеть тебя снова после столь долгой разлуки, я… так рада видеть твоё лицо.
 
-# Original: Oh… I don’t know what I should even say…
+# Lady Wang: Oh… I don’t know what I should even say…
 Госпожа Ван: Ох… Я даже не знаю, что сказать…
 
-# Original: The father, Jia Zheng's eyes dart nervously between us and Hong Lu.
+# Narrator: The father, Jia Zheng's eyes dart nervously between us and Hong Lu.
 Рассказчик: Отец, Цзя Чжэн, нервно переводил взгляд с нас на Хон Лу.
 
-# Original: Meanwhile, his mother gingerly brings him in for a careful embrace as though she was in the presence of something so utterly, deeply moving. It was... more than the pure joy of reunion.
+# Narrator: Meanwhile, his mother gingerly brings him in for a careful embrace as though she was in the presence of something so utterly, deeply moving. It was... more than the pure joy of reunion.
 Рассказчик: Тем временем его мать осторожно заключила его в объятия, словно находилась в присутствии чего-то столь глубоко, до слёз трогательного. Это было… больше, чем просто радость воссоединения.
 
-# Original: So they're Hong Lu's parents...
+# Narrator: So they're Hong Lu's parents...
 Рассказчик: Так это родители Хон Лу…
 
-# Original: Thank you so much for your hospitality. You have certainly spared no expenses.
+# Hong Lu: Thank you so much for your hospitality. You have certainly spared no expenses.
 Хон Лу: Большое спасибо за ваше гостеприимство. Вы определённо не поскупились на расходы.
 
-# Original: So… who are these people you've come here with…?
+# Lady Wang: So… who are these people you've come here with…?
 Госпожа Ван: Так… кто эти люди, с которыми ты пришёл?..
 
-# Original: While there aren’t too many of them, they are my friends I made out in the world.
+# Hong Lu: While there aren’t too many of them, they are my friends I made out in the world.
 Хон Лу: Их не так уж много, но это мои друзья, которых я обрёл в миру.
 
-# Original: ... At least he’s not introducing us as his 'lackeys' like a certain someone I know.
+# Ishmael: ... At least he’s not introducing us as his 'lackeys' like a certain someone I know.
 Измаил: …По крайней мере, он не представляет нас как своих «прихвостней», в отличие от одного моего знакомого.
 
-# Original: Oi, that's—! Agh… ahem.
+# Heathcliff: Oi, that's—! Agh… ahem.
 Хитклиф: Эй, это!.. Кхм…
 
-# Original: Hong Lu’s mother slowly turns around to look at us.
+# Narrator: Hong Lu’s mother slowly turns around to look at us.
 Рассказчик: Мать Хон Лу медленно повернулась, чтобы посмотреть на нас.
 
-# Original: I mean, it’s a weird thing to say, but…
+# Narrator: I mean, it’s a weird thing to say, but…
 Рассказчик: То есть, это странно говорить, но…
 
-# Original: … somehow, it almost felt like she was looking down at each of us, one by one.
+# Narrator: … somehow, it almost felt like she was looking down at each of us, one by one.
 Рассказчик: …почему-то казалось, будто она оглядывает каждого из нас сверху вниз, одного за другим.
 
-# Original: I am so glad to meet you all. Baoyu’s always been such a stubborn child… I’m sure he was quite the handful to accompany you on your journeys. I hope you can still embrace him despite every—
+# Lady Wang: I am so glad to meet you all. Baoyu’s always been such a stubborn child… I’m sure he was quite the handful to accompany you on your journeys. I hope you can still embrace him despite every—
 Госпожа Ван: Я так рада познакомиться со всеми вами. Баоюй всегда был таким упрямым ребёнком… Уверена, с ним было немало хлопот в ваших путешествиях. Надеюсь, вы всё ещё сможете принять его, несмотря на всё—
 
-# Original: Stubborn? Hong Lu?
+# Ishmael: Stubborn? Hong Lu?
 Измаил: Упрямым? Хон Лу?
 
-# Original: Hmmmh...
+# Jia Zheng: Hmmmh...
 Цзя Чжэн: Хмммх…
 
-# Original: …….
+# Lady Wang: …….
 Госпожа Ван: …….
 
-# Original: Whatever it was she said, they don't seem all too happy to hear that...
+# Narrator: Whatever it was she said, they don't seem all too happy to hear that...
 Рассказчик: Что бы она ни сказала, они, похоже, не слишком рады это слышать…
 
-# Original: Dear Baoyu…
+# Lady Wang: Dear Baoyu…
 Госпожа Ван: Дорогой Баоюй…
 
-# Original: Why do you allow your friends to call you by that name? What of your noble, blessed name, bestowed upon you by the revered Xianren, our elders...?
+# Lady Wang: Why do you allow your friends to call you by that name? What of your noble, blessed name, bestowed upon you by the revered Xianren, our elders...?
 Госпожа Ван: Почему ты позволяешь своим друзьям называть тебя этим именем? А как же твоё благородное, благословенное имя, дарованное тебе почтенными Сяньжэнь, нашими старейшинами?..
 
-# Original: What? What’s goin’ on with her…?
+# Heathcliff: What? What’s goin’ on with her…?
 Хитклиф: Что? Что это с ней...?
 
-# Original: Hong Lu reached out and, gently yet indifferently, held his mother’s violently trembling hands.
+# Narrator: Hong Lu reached out and, gently yet indifferently, held his mother’s violently trembling hands.
 Рассказчик: Хон Лу протянул руку и мягко, но безразлично, сжал яростно дрожащие руки матери.
 
-# Original: Of course I would, mother.
+# Hong Lu: Of course I would, mother.
 Хон Лу: Конечно, позволю, матушка.
 
-# Original: Because the name is too noble indeed.
+# Hong Lu: Because the name is too noble indeed.
 Хон Лу: Потому что имя и впрямь слишком благородно.
 
-# Original: Oh...! Ah, ah. Yes. It is not a name that any rabble should so heedlessly speak…
+# Lady Wang: Oh...! Ah, ah. Yes. It is not a name that any rabble should so heedlessly speak…
 Госпожа Ван: Ох!.. Ах, ах. Да. Это не то имя, которое всякий сброд должен так бездумно произносить…
 
-# Original: Of course, of course…
+# Lady Wang: Of course, of course…
 Госпожа Ван: Конечно, конечно…
 
-# Original: Oh, do you also have an old name and a new name?
+# Gregor: Oh, do you also have an old name and a new name?
 Грегор: О, у тебя тоже есть старое и новое имя?
 
-# Original: Well, don’tcha remember~? Back in P Corp., Wei called Hong Lu ‘young master Baoyu’.
+# Rodion: Well, don’tcha remember~? Back in P Corp., Wei called Hong Lu ‘young master Baoyu’.
 Родион: Ну, разве не помнишь~? В Корпорации P Вэй называл Хон Лу «молодой господин Баоюй».
 
-# Original: Also, remember how he announced himself before that duel on the day we arrived at H Corp.? He introduced himself as 'Baoyu of the Jia family'. I thought it was a pseudonym back then though, given the circumstances.
+# Ishmael: Also, remember how he announced himself before that duel on the day we arrived at H Corp.? He introduced himself as 'Baoyu of the Jia family'. I thought it was a pseudonym back then though, given the circumstances.
 Измаил: А ещё, помните, как он представился перед той дуэлью в день нашего прибытия в Корпорацию H? Он назвался «Баоюй из семьи Цзя». Я тогда подумала, что это псевдоним, учитывая обстоятельства.
 
-# Original: Well... it ain't like us callin' your real name's gonna cheapen its 'nobility', or whatever... tsk.
+# Heathcliff: Well... it ain't like us callin' your real name's gonna cheapen its 'nobility', or whatever... tsk.
 Хитклиф: Ну… не то чтобы от того, что мы называем твоё настоящее имя, его «благородство» как-то уменьшится, или что там ещё… тск.
 
-# Original: Hehe, it’s just a name, so you can say it as many times as you want and it won't depreciate in whatever value it has. Oh, but some people do actually believe that it does, I suppose.
+# Hong Lu: Hehe, it’s just a name, so you can say it as many times as you want and it won't depreciate in whatever value it has. Oh, but some people do actually believe that it does, I suppose.
 Хон Лу: Хе-хе, это всего лишь имя, так что можете произносить его сколько угодно, и оно не обесценится, какой бы ни была его ценность. О, но некоторые люди, полагаю, действительно верят, что это так.
 
-# Original: It was… wise of you to refrain from using that name.
+# Jia Zheng: It was… wise of you to refrain from using that name.
 Цзя Чжэн: Это было… мудро с твоей стороны воздержаться от использования этого имени.
 
-# Original: Right, right. To let your precious name be known among the plebeian populace is to encourage knives in the dark to strike. Even here, too...
+# Lady Wang: Right, right. To let your precious name be known among the plebeian populace is to encourage knives in the dark to strike. Even here, too...
 Госпожа Ван: Верно, верно. Позволить твоему драгоценному имени стать известным среди простонародья — значит навлечь на себя удар ножом из-за угла. Даже здесь, тоже…
 
-# Original: It is as your mother says. Were your true name to be made known, any individual with a passing connection to H Corp. would have easily connected you to Hongyuan.
+# Faust: It is as your mother says. Were your true name to be made known, any individual with a passing connection to H Corp. would have easily connected you to Hongyuan.
 Фауст: Всё так, как говорит ваша мать. Стань ваше истинное имя известным, любой человек, имеющий хоть какую-то связь с Корпорацией H, легко связал бы вас с Хунъюанем.
 
-# Original: It is said that most names are repositories of their keepers' origins.
+# Yi Sang: It is said that most names are repositories of their keepers' origins.
 И Сан: Говорят, большинство имён — хранители происхождения своих носителей.
 
-# Original: In the eastern region of the City, when the parents name their children, they imbue them with meaning; it carries their wish for their children's place and use in the world.
+# Yi Sang: In the eastern region of the City, when the parents name their children, they imbue them with meaning; it carries their wish for their children's place and use in the world.
 И Сан: В восточном регионе Города, когда родители дают имена своим детям, они вкладывают в них смысл; оно несёт их пожелание о месте и предназначении их детей в мире.
 
-# Original: … You. What’s your name mean?
+# Ryōshū: … You. What’s your name mean?
 Рёшу: …Ты. Что значит твоё имя?
 
-# Original: My name… My name is a culmination of wishes, not only those of my parents, but those of many more.
+# Hong Lu: My name… My name is a culmination of wishes, not only those of my parents, but those of many more.
 Хон Лу: Моё имя… Моё имя — это кульминация желаний, не только моих родителей, но и многих других.
 
-# Original: It means that I was born with a precious jade.
+# Hong Lu: It means that I was born with a precious jade.
 Хон Лу: Оно означает, что я был рождён с драгоценным нефритом.
 
-# Original: Jia Baoyu…
+# Ishmael: Jia Baoyu…
 Измаил: Цзя Баоюй…
 
-# Original: Tsk, awful. Hong Lu’s better.
+# Ryōshū: Tsk, awful. Hong Lu’s better.
 Рёшу: Тск, ужасно. Хон Лу лучше.
 
-# Original: <size=80%>At least try to whisper!</size>
+# Sinclair: <size=80%>At least try to whisper!</size>
 Синклер: <size=80%>Хотя бы попытайся говорить шёпотом!</size>
 
-# Original: Eugh, I’ll call the rich boy however I want to. If I'm ever forced to call 'im ‘young master Baoyu~’ or some servile shite like that, I’d rather take a punch or two from the guide.
+# Heathcliff: Eugh, I’ll call the rich boy however I want to. If I'm ever forced to call 'im ‘young master Baoyu~’ or some servile shite like that, I’d rather take a punch or two from the guide.
 Хитклиф: Тьфу, я буду называть этого богатенького сынка как захочу. Если меня когда-нибудь заставят называть его «молодой господин Баоюй~» или какой-нибудь подобной холопской хренью, я лучше пару раз получу от гида.
 
-# Original: I could <i>feel</i> the horrified gaze of the servants staring at us.
+# Narrator: I could <i>feel</i> the horrified gaze of the servants staring at us.
 Рассказчик: Я буквально <i>чувствовал</i> на себе испуганные взгляды слуг.
 
-# Original: Hehe. I don’t mind, so please continue to call me Hong Lu if you want.
+# Hong Lu: Hehe. I don’t mind, so please continue to call me Hong Lu if you want.
 Хон Лу: Хе-хе. Я не против, так что, пожалуйста, продолжайте называть меня Хон Лу, если хотите.
 
-# Original: Please seat yourselves, honored guests. The food will be served soon.
+# Reticent Servant: Please seat yourselves, honored guests. The food will be served soon.
 Сдержанный Слуга: Прошу садиться, почтенные гости. Скоро подадут еду.
 
-# Original: Oi... what's all this?
+# Heathcliff: Oi... what's all this?
 Хитклиф: Ой… что это всё?
 
-# Original: Do they actually expect us to eat all this?
+# Ishmael: Do they actually expect us to eat all this?
 Измаил: Они что, действительно ожидают, что мы всё это съедим?
 
-# Original: <... I don’t think I’ve ever been intimidated by food before.>
+# Dante: <... I don’t think I’ve ever been intimidated by food before.>
 Данте: <…Не думаю, что еда когда-либо внушала мне такой трепет.>
 
-# Original: There was, quite literally, a mountain of dishes on the table—I was starting to wonder if the purpose of these dishes was more to flaunt their wealth than to feed us a reasonable amount of food.
+# Narrator: There was, quite literally, a mountain of dishes on the table—I was starting to wonder if the purpose of these dishes was more to flaunt their wealth than to feed us a reasonable amount of food.
 Рассказчик: На столе была, в буквальном смысле, гора блюд — я начал сомневаться, не состояла ли цель этих яств больше в том, чтобы выставить напоказ их богатство, чем накормить нас разумным количеством еды.
 
-# Original: What a feast! I can ask for re... refills, right? Ehehe...
+# Rodion: What a feast! I can ask for re... refills, right? Ehehe...
 Родион: Какой пир! Я могу попросить до… добавки, да? Эхе-хе…
 
-# Original: Huh? Um, yes...
+# Reticent Servant: Huh? Um, yes...
 Сдержанный Слуга: А? Эм, да…
 
-# Original: <Anyway, what's up with those empty seats over there? Are we still killing time for some guests to arrive...?>
+# Dante: <Anyway, what's up with those empty seats over there? Are we still killing time for some guests to arrive...?>
 Данте: <Кстати, что насчёт тех пустых мест? Мы всё ещё тянем время, ожидая прибытия каких-то гостей?..>
 
-# Original: Mm…
+# Hong Lu: Mm…
 Хон Лу: Мм…
 
-# Original: I don’t think so. They’re probably seats for my older siblings somewhere in Daguanyuan. They probably just didn’t want to attend.
+# Hong Lu: I don’t think so. They’re probably seats for my older siblings somewhere in Daguanyuan. They probably just didn’t want to attend.
 Хон Лу: Не думаю. Вероятно, это места для моих старших братьев и сестёр, где-то в Дагуаньюане. Они, наверное, просто не захотели приходить.
 
-# Original: This is a banquet to welcome me, after all. I’m sure they believe it’s a waste of time to attend.
+# Hong Lu: This is a banquet to welcome me, after all. I’m sure they believe it’s a waste of time to attend.
 Хон Лу: В конце концов, это банкет в мою честь. Уверен, они считают это пустой тратой времени.
 
-# Original: Man, they better be on some real busy schedule to miss this…
+# Gregor: Man, they better be on some real busy schedule to miss this…
 Грегор: Чувак, у них должно быть действительно очень плотное расписание, чтобы пропустить такое…
 
-# Original: Jia Mu, venerated be her presence, graces us!
+# Reticent Servant: Jia Mu, venerated be her presence, graces us!
 Сдержанный Слуга: Почтеннейшая Цзя Му жалует нас своим присутствием!
 
-# Original: Jia Mu, venerated be her presence, graces us!
+# Refined Servant: Jia Mu, venerated be her presence, graces us!
 Утончённый Слуга: Почтеннейшая Цзя Му жалует нас своим присутствием!
 
-# Original: With the announcement, utter silence quickly devoured the busy hubbub of the banquet...
+# Narrator: With the announcement, utter silence quickly devoured the busy hubbub of the banquet...
 Рассказчик: С этим объявлением полная тишина быстро поглотила оживлённый гул банкета…
 
-# Original: Those who were sitting quickly rose to their feet and bowed, while those who were standing knelt down on all fours, their backs bent so low that their foreheads were nearly touching the floor.
+# Narrator: Those who were sitting quickly rose to their feet and bowed, while those who were standing knelt down on all fours, their backs bent so low that their foreheads were nearly touching the floor.
 Рассказчик: Сидевшие быстро поднялись на ноги и поклонились, а стоявшие опустились на четвереньки, их спины согнулись так низко, что лбы почти касались пола.
 
-# Original: And the woman walking out from between them, the crowd itself parting down the middle from her sheer presence...
+# Narrator: And the woman walking out from between them, the crowd itself parting down the middle from her sheer presence...
 Рассказчик: И женщина, идущая между ними, сама толпа расступалась перед ней от одного её присутствия…
 
-# Original: Oh, there's grandmother.
+# Hong Lu: Oh, there's grandmother.
 Хон Лу: О, а вот и бабушка.
 
-# Original: ... was Hong Lu's grandmother, the Family Hierarch of H Corp., and its Chief Executive Director.
+# Narrator: ... was Hong Lu's grandmother, the Family Hierarch of H Corp., and its Chief Executive Director.
 Рассказчик: …была бабушка Хон Лу, Глава Семьи Корпорации H и её Главный исполнительный директор.
 
-# Original: Jia Mu's presence was at once warm, gentle, yet immense and overwhelming, like a personification of an insurmountable mountain.
+# Narrator: Jia Mu's presence was at once warm, gentle, yet immense and overwhelming, like a personification of an insurmountable mountain.
 Рассказчик: Присутствие Цзя Му было одновременно тёплым, нежным, но при этом огромным и подавляющим, словно она была олицетворением непреодолимой горы.
 
-# Original: We are graced by your presence, venerable Jia Mu.
+# Crowd: We are graced by your presence, venerable Jia Mu.
 Рассказчик: Мы удостоены вашей милости, почтеннейшая Цзя Му.
 
-# Original: We are graced by your presence, venerable Jia Mu.
+# Lady Wang: We are graced by your presence, venerable Jia Mu.
 Госпожа Ван: Мы удостоены вашей милости, почтеннейшая Цзя Му.
 
-# Original: W-whuh? Should we bow, too?
+# Rodion: W-whuh? Should we bow, too?
 Родион: Ч-что? Нам тоже кланяться?
 
-# Original: I don’t think you could bow any lower with your face halfway in the bowl, so you should be fine... probably...?
+# Gregor: I don’t think you could bow any lower with your face halfway in the bowl, so you should be fine... probably...?
 Грегор: Не думаю, что ты сможешь поклониться ниже, уткнувшись лицом наполовину в миску, так что с тобой всё должно быть в порядке… наверное?..
 
-# Original: S-she’s surrounded by Heishou too, I think.
+# Sinclair: S-she’s surrounded by Heishou too, I think.
 Синклер: Е-её ещё и Хэйшоу окружают, кажется.
 
-# Original: <Guys, everything’s gonna be fine as long as we don’t do anything stupid…>
+# Dante: <Guys, everything’s gonna be fine as long as we don’t do anything stupid…>
 Данте: <Ребята, всё будет хорошо, пока мы не делаем ничего глупого…>
 
-# Original: As everyone was bowing before Jia Mu, awed and humbled...
+# Narrator: As everyone was bowing before Jia Mu, awed and humbled...
 Рассказчик: Пока все кланялись Цзя Му, благоговея и смиряясь…
 
-# Original: ... only Hong Lu looked straight at Jia Mu without bowing.
+# Narrator: ... only Hong Lu looked straight at Jia Mu without bowing.
 Рассказчик: …только Хон Лу смотрел прямо на Цзя Му, не кланяясь.
 
-# Original: Then, he got up from his seat and walked toward her.
+# Narrator: Then, he got up from his seat and walked toward her.
 Рассказчик: Затем он поднялся со своего места и направился к ней.
 
-# Original: It has been a while, grandmother.
+# Hong Lu: It has been a while, grandmother.
 Хон Лу: Давно не виделись, бабушка.
 
-# Original: Please ascend, young master Baoyu.
+# Jia Mu's Servant: Please ascend, young master Baoyu.
 Безразличный Слуга: Прошу подойти, молодой господин Баоюй.
 
-# Original: It seemed that a special permission was needed to even stand next to her, as Hong Lu was allowed to approach her only after the servant gave him the go ahead.
+# Narrator: It seemed that a special permission was needed to even stand next to her, as Hong Lu was allowed to approach her only after the servant gave him the go ahead.
 Рассказчик: Казалось, даже чтобы стоять рядом с ней, требовалось особое разрешение, поскольку Хон Лу позволили приблизиться только после того, как служанка дала ему знак.
 
-# Original: Little Baoyu.
+# Jia Mu: Little Baoyu.
 Цзя Му: Маленький Баоюй.
 
-# Original: You must have walked and toiled tirelessly on your journey home.
+# Jia Mu: You must have walked and toiled tirelessly on your journey home.
 Цзя Му: Должно быть, ты устал, изрядно потрудившись на пути домой.
 
-# Original: Not at all, grandmother. I was able to learn so many new things, thanks to everyone who treated me so nicely.
+# Hong Lu: Not at all, grandmother. I was able to learn so many new things, thanks to everyone who treated me so nicely.
 Хон Лу: Вовсе нет, бабушка. Я смог узнать столько нового, благодаря всем, кто так хорошо ко мне относился.
 
-# Original: Had you sought to master the art of learning, no master, regardless of pursuit, would have been out of our reach; you could have learned much in the halls of erudition from them.
+# Jia Mu: Had you sought to master the art of learning, no master, regardless of pursuit, would have been out of our reach; you could have learned much in the halls of erudition from them.
 Цзя Му: Если бы ты стремился овладеть искусством учения, любой мастер, независимо от его сферы, был бы в пределах нашей досягаемости; ты мог бы многому научиться у них в залах эрудиции.
 
-# Original: Yet the world taught from sheets of paper are simply that—words on paper.
+# Jia Mu: Yet the world taught from sheets of paper are simply that—words on paper.
 Цзя Му: Однако мир, познанный по бумажным листам, — это всего лишь слова на бумаге.
 
-# Original: We wished that you, dear Baoyu, would learn more of the secular world, to not let flow betwixt your fingers the time that is given to you.
+# Jia Mu: We wished that you, dear Baoyu, would learn more of the secular world, to not let flow betwixt your fingers the time that is given to you.
 Цзя Му: Мы желали, чтобы ты, дорогой Баоюй, больше узнал о светском мире, чтобы не упускал меж пальцев данное тебе время.
 
-# Original: I know this opportunity was more than what I deserved, grandmother.
+# Hong Lu: I know this opportunity was more than what I deserved, grandmother.
 Хон Лу: Я знаю, что эта возможность была больше, чем я заслуживал, бабушка.
 
-# Original: I appreciate your return all the same, that you have deigned to return before me ere my abdication of the great responsibility.
+# Jia Mu: I appreciate your return all the same, that you have deigned to return before me ere my abdication of the great responsibility.
 Цзя Му: Я всё равно ценю твоё возвращение, что ты соизволил вернуться ко мне до моего отречения от великой ответственности.
 
-# Original: Verily, it appeareth that young Hong Lew shigned onto Limbews Chompany ash a gran churismo of shorts! Mmhm.
+# Don Quixote: Verily, it appeareth that young Hong Lew shigned onto Limbews Chompany ash a gran churismo of shorts! Mmhm.
 Дон Кихот: Воиштину, похоше, юный Хон Ву жаписался в Комханию «Лимвус» как в швоего рода гран чуризмо! М-м-м.
 
-# Original: Gran chewrismo? Whash' shaat?
+# Rodion: Gran chewrismo? Whash' shaat?
 Родион: Гран чюризмо? Што эшо шакое?
 
-# Original: … Can the two of you stop babbling with your mouths full?
+# Outis: … Can the two of you stop babbling with your mouths full?
 Отис: …Вы двое, не могли бы перестать болтать с набитыми ртами?
 
-# Original: Young masters of families moooooost eminent are oft sent out to the world on a grand tour—thus coined was this practice 'gran turismo', if thou wilt—afore they are to commence their public activities!
+# Don Quixote: Young masters of families moooooost eminent are oft sent out to the world on a grand tour—thus coined was this practice 'gran turismo', if thou wilt—afore they are to commence their public activities!
 Дон Кихот: Молодых господ из знатнейших семей часто отправляют в мир в большое турне — так и назвали эту практику «гран туризмо», если угодно — прежде чем они начнут свою общественную деятельность!
 
-# Original: Mm. The purpose is to learn the varied experiences that cannot be gained from books, to grow familiar with the world outside.
+# Meursault: Mm. The purpose is to learn the varied experiences that cannot be gained from books, to grow familiar with the world outside.
 Мерсо: Мм. Цель — получить разнообразный опыт, который нельзя извлечь из книг, познакомиться с внешним миром.
 
-# Original: I hear that you have met with Xichun in the world not long ago?
+# Jia Mu: I hear that you have met with Xichun in the world not long ago?
 Цзя Му: Я слышала, ты не так давно встречался с Сичунь в миру?
 
-# Original: I have.
+# Hong Lu: I have.
 Хон Лу: Да, встречался.
 
-# Original: A bright child, she is. Well-prepared to take on the challenges of the Family Hierarch Evaluations, I presume.
+# Jia Mu: A bright child, she is. Well-prepared to take on the challenges of the Family Hierarch Evaluations, I presume.
 Цзя Му: Она способное дитя. Полагаю, хорошо подготовлена к испытаниям Оценок на пост Главы Семьи.
 
-# Original: I agree. I am sure Xichun will wisely overcome the trials.
+# Hong Lu: I agree. I am sure Xichun will wisely overcome the trials.
 Хон Лу: Согласен. Уверен, Сичунь мудро преодолеет все испытания.
 
-# Original: Indeed.
+# Jia Mu: Indeed.
 Цзя Му: Именно так.
 
-# Original: Have you paid visit to the revered elders, then?
+# Jia Mu: Have you paid visit to the revered elders, then?
 Цзя Му: Ты навестил почтенных старейшин?
 
-# Original: ... I will, soon.
+# Hong Lu: ... I will, soon.
 Хон Лу: …Скоро навещу.
 
-# Original: Lady Wang, ascend here as well.
+# Jia Mu: Lady Wang, ascend here as well.
 Цзя Му: Госпожа Ван, подойдите и вы сюда.
 
-# Original: With your mercy, Jia Mu, of course...
+# Lady Wang: With your mercy, Jia Mu, of course...
 Госпожа Ван: С вашего позволения, Цзя Му, конечно…
 
-# Original: Hong Lu’s mother hurried up to where Jia Mu stood.
+# Narrator: Hong Lu’s mother hurried up to where Jia Mu stood.
 Рассказчик: Мать Хон Лу поспешила туда, где стояла Цзя Му.
 
-# Original: It must cause your heart great distress to have your one and only son depart his home, to wander the world beyond the hedges.
+# Jia Mu: It must cause your heart great distress to have your one and only son depart his home, to wander the world beyond the hedges.
 Цзя Му: Должно быть, ваше сердце сильно терзалось от того, что ваш единственный сын покинул дом, чтобы странствовать по миру за его пределами.
 
-# Original: O-of course not, Jia Mu…
+# Lady Wang: O-of course not, Jia Mu…
 Госпожа Ван: Ч-что вы, Цзя Му…
 
-# Original: Oh, I am simply so glad that my son, Baoyu...
+# Lady Wang: Oh, I am simply so glad that my son, Baoyu...
 Госпожа Ван: О, я просто так рада, что мой сын, Баоюй…
 
-# Original: … has returned as a man who can now more than carry his own weight... And unharmed, too...
+# Lady Wang: … has returned as a man who can now more than carry his own weight... And unharmed, too...
 Госпожа Ван: …вернулся мужчиной, который теперь более чем способен постоять за себя… И невредимым к тому же…
 
-# Original: Thus, dear Baoyu…
+# Lady Wang: Thus, dear Baoyu…
 Госпожа Ван: Посему, дорогой Баоюй…
 
-# Original: I don’t mean to rush, but… when are you planning to depart again?
+# Lady Wang: I don’t mean to rush, but… when are you planning to depart again?
 Госпожа Ван: Я не хочу торопить, но… когда ты планируешь снова уехать?
 
-# Original: Nothing has been decided yet, mother.
+# Hong Lu: Nothing has been decided yet, mother.
 Хон Лу: Ещё ничего не решено, матушка.
 
-# Original: I see… I-I am simply concerned that, were your stay here to be prolonged, perhaps you might fade before your duties are completed.
+# Lady Wang: I see… I-I am simply concerned that, were your stay here to be prolonged, perhaps you might fade before your duties are completed.
 Госпожа Ван: Понимаю… Я-я просто беспокоюсь, что, если твоё пребывание здесь затянется, возможно, ты увянешь, прежде чем твои обязанности будут выполнены.
 
-# Original: Complete your duties and return soon, so that the… agreement Jia Mu has so graciously made for us is fulfilled, hmm?
+# Lady Wang: Complete your duties and return soon, so that the… agreement Jia Mu has so graciously made for us is fulfilled, hmm?
 Госпожа Ван: Выполни свои обязанности и возвращайся скорее, чтобы… соглашение, которое Цзя Му так милостиво заключила для нас, было исполнено, хм?
 
-# Original: Indeed.
+# Jia Mu: Indeed.
 Цзя Му: Именно так.
 
-# Original: Lose not, forget not.
+# Jia Mu: Lose not, forget not.
 Цзя Му: Не теряй, не забывай.
 
-# Original: You are our family's one and only jade.
+# Jia Mu: You are our family's one and only jade.
 Цзя Му: Ты — единственный нефрит нашей семьи.
 
-# Original: Dear Baoyu, our peerless treasure, tarry not overlong in this mundane world; leave when the time is right, and fulfill your worth.
+# Jia Mu: Dear Baoyu, our peerless treasure, tarry not overlong in this mundane world; leave when the time is right, and fulfill your worth.
 Цзя Му: Дорогой Баоюй, наше несравненное сокровище, не задерживайся слишком долго в этом бренном мире; уезжай, когда придёт время, и исполни своё предназначение.
 
-# Original: …….
+# Hong Lu: …….
 Хон Лу: …….
 
-# Original: Okay, grandmother. Mother.
+# Hong Lu: Okay, grandmother. Mother.
 Хон Лу: Хорошо, бабушка. Матушка.

@@ -1,621 +1,621 @@
-﻿# Original: Okay! And that about wraps up the Middle's Corridor.
+﻿# Alan: Okay! And that about wraps up the Middle's Corridor.
 Алан: Отлично! И на этом, пожалуй, мы закончили с Коридором Среднего.
 
-# Original: Thanks to you folks, we managed to cut the door cataloging workload by 80%! I really appreciate everyone going the extra mile to check each and every door, too. Made my life a whole lot easier.
+# Alan: Thanks to you folks, we managed to cut the door cataloging workload by 80%! I really appreciate everyone going the extra mile to check each and every door, too. Made my life a whole lot easier.
 Алан: Благодаря вам, ребята, нам удалось сократить работу по каталогизации дверей на 80%! Я также очень ценю, что вы приложили дополнительные усилия и проверили каждую без исключения дверь. Это здорово облегчило мне жизнь.
 
-# Original: It's all thanks to the Manager's excellent strategization.
+# Outis: It's all thanks to the Manager's excellent strategization.
 Отис: Всё это исключительно благодаря превосходной стратегии Менеджера.
 
-# Original: Next up, the Thumb's Corridor. ... But we actually found a lot of intel lying around there, so we just need you to check some of the doors in its basement.
+# Alan: Next up, the Thumb's Corridor. ... But we actually found a lot of intel lying around there, so we just need you to check some of the doors in its basement.
 Алан: На очереди Коридор Большого. ...Но на самом деле мы нашли там кучу разбросанных разведданных, так что вам нужно будет проверить лишь несколько дверей в его подвале.
 
-# Original: <Intel...?>
+# Dante: <Intel...?>
 Данте: <Разведданные...?>
 
-# Original: The manager expresses interest in the aforementioned "intel."
+# Faust: The manager expresses interest in the aforementioned "intel."
 Фауст: Менеджер выражает интерес к вышеупомянутым «разведданным».
 
-# Original: Ah, that. In the Thumb's Corridor, we came across a bundle of papers detailing the comings and goings of the Thumb's members and the orders they were carrying. Whoever wrote the logs has been diligently keeping them updated—the last entry was written not so long ago.
+# Alan: Ah, that. In the Thumb's Corridor, we came across a bundle of papers detailing the comings and goings of the Thumb's members and the orders they were carrying. Whoever wrote the logs has been diligently keeping them updated—the last entry was written not so long ago.
 Алан: Ах, это. В Коридоре Большого мы наткнулись на пачку бумаг, где подробно описывались перемещения членов Большого и приказы, которые они выполняли. Кто бы ни вёл эти журналы, он усердно их обновлял — последняя запись была сделана не так давно.
 
-# Original: While the contents of the notes weren't all that interesting, they helped us get an idea of where each door in that Corridor leads to.
+# Alan: While the contents of the notes weren't all that interesting, they helped us get an idea of where each door in that Corridor leads to.
 Алан: Хотя содержание самих записей было не таким уж и интересным, они помогли нам получить представление о том, куда ведёт каждая дверь в этом Коридоре.
 
-# Original: ... Valencina's shitty scrap papers.
+# Ryōshū: ... Valencina's shitty scrap papers.
 Рёшу: ...Дерьмовая макулатура Валенсины.
 
-# Original: She'd been keeping up with that useless shit this whole time? Hah.
+# Ryōshū: She'd been keeping up with that useless shit this whole time? Hah.
 Рёшу: Она всё это время продолжала вести это бесполезное дерьмо? Ха.
 
-# Original: <Useless shit?>
+# Dante: <Useless shit?>
 Данте: <Бесполезное дерьмо?>
 
-# Original: *puff* Remnants of her desperate search for a thread to cling to.
+# Ryōshū: *puff* Remnants of her desperate search for a thread to cling to.
 Рёшу: *затяжка* Остатки её отчаянных поисков ниточки, за которую можно зацепиться.
 
-# Original: You found one of her "backup ticket" hoards.
+# Ryōshū: You found one of her "backup ticket" hoards.
 Рёшу: Вы нашли один из её тайников с «запасными билетиками».
 
-# Original: I've marked any doors that need work with a drone—there should be about three or four of them. While you guys do that, I've got some leftover work to take care of over here, so...
+# Alan: I've marked any doors that need work with a drone—there should be about three or four of them. While you guys do that, I've got some leftover work to take care of over here, so...
 Алан: Я пометил с помощью дрона все двери, над которыми нужно поработать — их должно быть около трёх или четырёх. Пока вы, ребята, этим занимаетесь, у меня тут осталась кое-какая работёнка, так что...
 
-# Original: I've been noticing this throughout our interactions,
+# Narrator: I've been noticing this throughout our interactions,
 Рассказчик: Я замечал это во время всего нашего общения,
 
-# Original: but whenever anything irrelevant to his work came up, Alan seemed to have a way of unhearing and maneuvering right past it as though he didn't even register what was said.
+# Narrator: but whenever anything irrelevant to his work came up, Alan seemed to have a way of unhearing and maneuvering right past it as though he didn't even register what was said.
 Рассказчик: но каждый раз, когда всплывало что-то, не относящееся к его работе, Алан словно пропускал это мимо ушей и ловко обходил стороной, как будто даже не фиксируя сказанное.
 
-# Original: Recalling our conversation with Cesara back at P Corp., that deeply uncurious indifference might just be one of the essential personality traits to go on as a corporate employee in the City.
+# Narrator: Recalling our conversation with Cesara back at P Corp., that deeply uncurious indifference might just be one of the essential personality traits to go on as a corporate employee in the City.
 Рассказчик: Вспоминая наш разговор с Цезарой в Корпорации P, это глубоко нелюбопытное безразличие вполне может оказаться одной из важнейших черт характера для выживания корпоративного сотрудника в Городе.
 
-# Original: Understood. We will explore the areas past the marked doors and return here.
+# Faust: Understood. We will explore the areas past the marked doors and return here.
 Фауст: Поняла. Мы исследуем области за отмеченными дверями и вернёмся сюда.
 
-# Original: Thanks a ton. Well, then...
+# Alan: Thanks a ton. Well, then...
 Алан: Огромное спасибо. Что ж, тогда...
 
-# Original: With Alan returning to where the other Wayfarer Company employees were huddled around, we decided to follow the Corridor to the left.
+# Narrator: With Alan returning to where the other Wayfarer Company employees were huddled around, we decided to follow the Corridor to the left.
 Рассказчик: Пока Алан возвращался туда, где толпились остальные сотрудники Компании Вэйфарер, мы решили пойти по Коридору налево.
 
-# Original: <Hey, there's someone in there. More of the Ring, maybe...?>
+# Dante: <Hey, there's someone in there. More of the Ring, maybe...?>
 Данте: <Эй, там кто-то есть. Может быть, ещё кто-то из Безымянного...?>
 
-# Original: Going by their silhouettes, they're unlikely to be members of the Ring.
+# Outis: Going by their silhouettes, they're unlikely to be members of the Ring.
 Отис: Судя по силуэтам, вряд ли это члены Безымянного.
 
-# Original: C'mon, lady. Get outta my way so I can see.
+# Kira: C'mon, lady. Get outta my way so I can see.
 Кира: Да ладно, леди. Подвинься, чтобы я могла посмотреть.
 
-# Original: Uh... It's the Detective, some stubbly guy I don't know, and... that annoyingly airy dude.
+# Kira: Uh... It's the Detective, some stubbly guy I don't know, and... that annoyingly airy dude.
 Кира: Эм... Это Детектив, какой-то незнакомый небритый чел и... этот раздражающе ветреный тип.
 
-# Original: Sounds like Moses, Gregor, and Hong Lu, respectively...?
+# Narrator: Sounds like Moses, Gregor, and Hong Lu, respectively...?
 Рассказчик: Звучит как Мозес, Грегор и Хон Лу, соответственно...?
 
-# Original: The trio's conversation grew clearer the closer I approached them.
+# Narrator: The trio's conversation grew clearer the closer I approached them.
 Рассказчик: Разговор этой троицы становился всё отчётливее по мере того, как я к ним приближался.
 
-# Original: You okay, fella? You bumped your head earlier.
+# Gregor: You okay, fella? You bumped your head earlier.
 Грегор: Ты в порядке, парень? Ты там ударился головой недавно.
 
-# Original: Ha ha... Fine as a fiddle! It was just a minor fall.
+# Hong Lu: Ha ha... Fine as a fiddle! It was just a minor fall.
 Хон Лу: Ха-ха... В полном порядке! Это было лишь небольшое падение.
 
-# Original: ... This is the third time it's occurred.
+# Moses: ... This is the third time it's occurred.
 Мозес: ...Подобное происходит уже в третий раз.
 
-# Original: We ought to discuss this issue with the manager once this consultation is over.
+# Moses: We ought to discuss this issue with the manager once this consultation is over.
 Мозес: Нам следует обсудить эту проблему с менеджером, как только эта консультация закончится.
 
-# Original: ... I think I'm seeing a bump on the side of Hong Lu's head.
+# Narrator: ... I think I'm seeing a bump on the side of Hong Lu's head.
 Рассказчик: ...Кажется, я вижу шишку на голове Хон Лу.
 
-# Original: Anyway, you know what to do, right? If, at any moment, you see signs of—
+# Gregor: Anyway, you know what to do, right? If, at any moment, you see signs of—
 Грегор: В любом случае, вы знаете, что делать, да? Если в какой-то момент вы заметите признаки...
 
-# Original: Don't worry, Gregor.
+# Hong Lu: Don't worry, Gregor.
 Хон Лу: Не волнуйтесь, Грегор.
 
-# Original: You made it through the explanation and the footage both. You're going to be fine again—I believe in you.
+# Hong Lu: You made it through the explanation and the footage both. You're going to be fine again—I believe in you.
 Хон Лу: Вы справились и с объяснением, и с просмотром тех записей. С вами снова всё будет хорошо — я верю в вас.
 
-# Original: Look at you now. We're right where it happened, but your arm is stable. See?
+# Hong Lu: Look at you now. We're right where it happened, but your arm is stable. See?
 Хон Лу: Посмотрите на себя сейчас. Мы как раз там, где всё произошло, но ваша рука в норме. Видите?
 
-# Original: *puff* Ironically, fear tends to grow most unmitigated when it is distant and unseen.
+# Moses: *puff* Ironically, fear tends to grow most unmitigated when it is distant and unseen.
 Мозес: *затяжка* По иронии судьбы, страх разрастается сильнее всего, когда он далёк и невидим.
 
-# Original: I understand what you might be worried about, but... I don't see even the earliest portents of it.
+# Moses: I understand what you might be worried about, but... I don't see even the earliest portents of it.
 Мозес: Я понимаю, о чём ты можешь волноваться, но... я не вижу даже малейших предвестников этого.
 
-# Original: So don't hesitate to share the unfiltered thoughts that arise while you're in here.
+# Moses: So don't hesitate to share the unfiltered thoughts that arise while you're in here.
 Мозес: Так что не стесняйся делиться всеми мыслями без фильтров, которые возникают, пока ты здесь.
 
-# Original: .......
+# Gregor: .......
 Грегор: .......
 
-# Original: I know what I saw in the footage, but I'm still having a hard time believing it. Or, I don't know—maybe I'm just avoiding the truth when it's staring me right in the face.
+# Gregor: I know what I saw in the footage, but I'm still having a hard time believing it. Or, I don't know—maybe I'm just avoiding the truth when it's staring me right in the face.
 Грегор: Я знаю, что я видел на записи, но мне всё ещё трудно в это поверить. Или, не знаю... может, я просто бегу от правды, когда она смотрит мне прямо в лицо.
 
-# Original: My case is nothing like Don Quixote's. She just needs to keep her shoes on, and it's all good and dandy for her, isn't it? Things don't work out that way... for me.
+# Gregor: My case is nothing like Don Quixote's. She just needs to keep her shoes on, and it's all good and dandy for her, isn't it? Things don't work out that way... for me.
 Грегор: Мой случай совершенно не похож на ситуацию Дон Кихот. Ей просто нужно не снимать свои ботинки, и для неё всё будет прекрасно, не так ли? А вот у меня... всё работает не так.
 
-# Original: ... Whatever they're talkin' about sounds hella deep, guys.
+# Kira: ... Whatever they're talkin' about sounds hella deep, guys.
 Кира: ...О чём бы они там ни говорили, звучит капец как глубоко, народ.
 
-# Original: Ya sure about eavesdropping on him like this?
+# Kira: Ya sure about eavesdropping on him like this?
 Кира: Вы уверены, что норм вот так подслушивать?
 
-# Original: <Uhm...>
+# Dante: <Uhm...>
 Данте: <Эм...>
 
-# Original: ... That geezer's always weirdly cagey about himself. Maybe now's our chance to... learn more about 'im.
+# Heathcliff: ... That geezer's always weirdly cagey about himself. Maybe now's our chance to... learn more about 'im.
 Хитклиф: ...Этот старикан вечно какой-то странно скрытный насчёт себя. Может, это наш шанс... узнать о нём побольше.
 
-# Original: He's sharing such an I.S. about himself for once. Why walk away?
+# Ryōshū: He's sharing such an I.S. about himself for once. Why walk away?
 Рёшу: Он в кои-то веки делится такими И.И. о себе. Зачем уходить?
 
-# Original: Don Quixote gives a nonsensical interpretation of Ryōshū's acronym as Kira rolls her eyes out of exasperation.
+# Narrator: Don Quixote gives a nonsensical interpretation of Ryōshū's acronym as Kira rolls her eyes out of exasperation.
 Рассказчик: Дон Кихот выдаёт совершенно бессмысленную расшифровку аббревиатуры Рёшу, в то время как Кира раздражённо закатывает глаза.
 
-# Original: Between the bickering Sinners and Kira, however, Outis stands in silence with an inscrutable look on her face. She is listening to the exchange between Moses and Gregor like a woman possessed.
+# Narrator: Between the bickering Sinners and Kira, however, Outis stands in silence with an inscrutable look on her face. She is listening to the exchange between Moses and Gregor like a woman possessed.
 Рассказчик: Однако среди перепирающихся Грешников и Киры Отис стоит в тишине с непроницаемым выражением лица. Она слушает разговор Мозес и Грегора словно одержимая.
 
-# Original: <... Okay. Let's keep listening, then.>
+# Dante: <... Okay. Let's keep listening, then.>
 Данте: <...Ладно. Тогда давайте продолжим слушать.>
 
-# Original: Outis was right. Dammit, she was right all along.
+# Gregor: Outis was right. Dammit, she was right all along.
 Грегор: Отис была права. Чёрт возьми, она всё это время была права.
 
-# Original: The War isn't over. It never was. And it can't ever be over as long as this... fucking joke of a gift stays attached to my arm.
+# Gregor: The War isn't over. It never was. And it can't ever be over as long as this... fucking joke of a gift stays attached to my arm.
 Грегор: Война не окончена. И никогда не была. И она никогда не закончится, пока этот... сраный "подарок" остаётся прикреплённым к моей руке.
 
-# Original: ... Barbed words.
+# Moses: ... Barbed words.
 Мозес: ...Колкие слова.
 
-# Original: Now, let's revisit a question you couldn't answer while the footage was playing... Hopefully, it's become easier to answer now.
+# Moses: Now, let's revisit a question you couldn't answer while the footage was playing... Hopefully, it's become easier to answer now.
 # You've been using that arm to fight just fine so far. How?
 Мозес: А теперь давай вернёмся к вопросу, на который ты не смог ответить во время просмотра записи... Надеюсь, сейчас тебе будет легче дать на него ответ. До сих пор ты прекрасно использовал эту руку в бою. Каким образом?
 
-# Original: *puff*
+# Gregor: *puff*
 Грегор: *затяжка*
 
-# Original: ... I don't mind fighting hostiles or enemies. I'm... not the kind of person who worries about people trying to kill me.
+# Gregor: ... I don't mind fighting hostiles or enemies. I'm... not the kind of person who worries about people trying to kill me.
 Грегор: ...Я не против сражаться с противниками или врагами. Я... не из тех, кто переживает из-за того, что кто-то пытается меня убить.
 
-# Original: But killing my comrades, that's—that changes things, doesn't it? I can't even control it. There's nothing I can do to even brace for it. It's... unstoppable. Like... some kind of time bomb counting down to unleash a disease you never know when its symptoms'll set off.
+# Gregor: But killing my comrades, that's—that changes things, doesn't it? I can't even control it. There's nothing I can do to even brace for it. It's... unstoppable. Like... some kind of time bomb counting down to unleash a disease you never know when its symptoms'll set off.
 Грегор: Но убийство моих товарищей, это... это меняет дело, не так ли? Я даже не могу это контролировать. Я ничего не могу сделать, чтобы хоть как-то к этому подготовиться. Это... невозможно остановить. Словно... какая-то бомба замедленного действия, отсчитывающая время до вспышки болезни, и ты никогда не знаешь, когда проявятся её симптомы.
 
-# Original: Even Heathcliff, who was always the first to step up when people began to spiral into self-hatred...
+# Narrator: Even Heathcliff, who was always the first to step up when people began to spiral into self-hatred...
 Рассказчик: Даже Хитклиф, который всегда был первым, кто вмешивался, когда кто-то начинал погрязать в ненависти к себе...
 
-# Original: ... stood in conflicted silence, his lips drawing a hard, straight line.
+# Narrator: ... stood in conflicted silence, his lips drawing a hard, straight line.
 Рассказчик: ...стоял в противоречивом молчании, плотно сжав губы в тонкую прямую линию.
 
-# Original: Besides, Gregor wasn't wrong in that, at present, there wasn't any way to stop his transformation should it occur again.
+# Narrator: Besides, Gregor wasn't wrong in that, at present, there wasn't any way to stop his transformation should it occur again.
 Рассказчик: Кроме того, Грегор был прав в том, что в настоящее время нет никакого способа остановить его трансформацию, если она произойдёт снова.
 
-# Original: We've still got a good chunk of the journey left, and eventually, we'll have to—
+# Narrator: We've still got a good chunk of the journey left, and eventually, we'll have to—
 Рассказчик: У нас осталась ещё добрая часть пути, и в конечном итоге нам придётся...
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: <i>No matter what lurks in the pasts of us Sinners...</i>
+# Outis: <i>No matter what lurks in the pasts of us Sinners...</i>
 Отис: <i>Что бы ни скрывалось в прошлом нас, Грешников...</i>
 
-# Original: <i>Even if they have killed hundreds, thousands—no, tens of thousands of innocent people? Will you still... embrace them?</i>
+# Outis: <i>Even if they have killed hundreds, thousands—no, tens of thousands of innocent people? Will you still... embrace them?</i>
 Отис: <i>Даже если они убили сотни, тысячи... нет, десятки тысяч невинных людей? Вы всё равно... примете их?</i>
 
-# Original: ... We'll eventually have to confront an even darker, bleaker truth of the War.
+# Narrator: ... We'll eventually have to confront an even darker, bleaker truth of the War.
 Рассказчик: ...В конечном итоге нам придётся столкнуться с ещё более тёмной, ещё более мрачной правдой о Войне.
 
-# Original: Can I really trust Gregor not to crumble under that inevitable pressure?
+# Narrator: Can I really trust Gregor not to crumble under that inevitable pressure?
 Рассказчик: Могу ли я действительно доверять Грегору, надеясь, что он не сломается под этим неизбежным давлением?
 
-# Original: I see. You're afraid you'll end up hurting us.
+# Hong Lu: I see. You're afraid you'll end up hurting us.
 Хон Лу: Я понимаю. Вы боитесь, что в итоге навредите нам.
 
-# Original: Well, that's... At first, I thought I couldn't give a hoot whether or not I accidentally murdered some of you.
+# Gregor: Well, that's... At first, I thought I couldn't give a hoot whether or not I accidentally murdered some of you.
 Грегор: Ну, это... Поначалу я думал, что мне было бы совершенно плевать, убью ли я случайно кого-то из вас или нет.
 
-# Original: It's a bit... saddening to hear that.
+# Hong Lu: It's a bit... saddening to hear that.
 Хон Лу: Немного... грустно это слышать.
 
-# Original: You know how it is, Hong Lu. We—the bus team—didn't exactly get off to a rocking good start.
+# Gregor: You know how it is, Hong Lu. We—the bus team—didn't exactly get off to a rocking good start.
 Грегор: Ну ты же понимаешь, как всё было, Хон Лу. Мы — команда автобуса — начали, скажем так, не с самой лучшей ноты.
 
-# Original: But through our journey, I've begun to think of you all as my comrades. And I was okay with that because...
+# Gregor: But through our journey, I've begun to think of you all as my comrades. And I was okay with that because...
 Грегор: Но по мере нашего путешествия я начал воспринимать всех вас как своих товарищей. И я был спокоен на этот счёт, потому что...
 
-# Original: Because I had too much faith in my own weakness.
+# Gregor: Because I had too much faith in my own weakness.
 Грегор: Потому что слишком сильно верил в собственную слабость.
 
-# Original: When I realized that I'd grown so weak that I couldn't even take down some Backstreets thug with this arm, I was... relieved.
+# Gregor: When I realized that I'd grown so weak that I couldn't even take down some Backstreets thug with this arm, I was... relieved.
 Грегор: Когда я понял, что стал настолько слаб, что с этой рукой не могу одолеть даже какого-то бандита из Подворотен, я испытал... облегчение.
 
-# Original: Imagine that. The same arm—my arm. A weapon that stabbed the heart out of countless people during the Smoke War.
+# Gregor: Imagine that. The same arm—my arm. A weapon that stabbed the heart out of countless people during the Smoke War.
 Грегор: Только представь. Та же самая рука — моя рука. Оружие, которое пронзило сердца бесчисленного множества людей во время Дымовой войны.
 
-# Original: I'll be honest, when that Hohenheim fella said that I was an "exception," the thought alone made me hope.
+# Gregor: I'll be honest, when that Hohenheim fella said that I was an "exception," the thought alone made me hope.
 Грегор: Буду честен, когда тот тип Хохенхайм сказал, что я — «исключение», одна только эта мысль дала мне надежду.
 
-# Original: "Exception." A potential to be harmless, weaker than even a noncombatant like Yi Sang. It made me hope for a life that... didn't sound so bad.
+# Gregor: "Exception." A potential to be harmless, weaker than even a noncombatant like Yi Sang. It made me hope for a life that... didn't sound so bad.
 Грегор: «Исключение». Потенциальная возможность быть безвредным, быть слабее даже такого некомбатанта, как И Сан. Это заставило меня надеяться на жизнь, которая... звучала не так уж и плохо.
 
-# Original: We all know how that went though, don't we? Blew up in the worst possible way.
+# Gregor: We all know how that went though, don't we? Blew up in the worst possible way.
 Грегор: Но мы все знаем, к чему это привело, не так ли? Всё полетело к чертям самым худшим образом.
 
-# Original: And after all that... I just couldn't bring myself to fight again. Because I no longer know when this fear would eat me up again—because I'm constantly afraid of this damn "gift" manifesting again.
+# Gregor: And after all that... I just couldn't bring myself to fight again. Because I no longer know when this fear would eat me up again—because I'm constantly afraid of this damn "gift" manifesting again.
 Грегор: И после всего этого... Я просто не мог заставить себя снова сражаться. Потому что я больше не знаю, когда этот страх вновь пожрёт меня — потому что я постоянно боюсь, что этот проклятый «дар» опять проявит себя.
 
-# Original: .......
+# Moses: .......
 Мозес: .......
 
-# Original: The same fear you've carried all this time.
+# Moses: The same fear you've carried all this time.
 Мозес: Тот же самый страх, что ты нёс в себе всё это время.
 
-# Original: How did you endure it before?
+# Moses: How did you endure it before?
 Мозес: Как ты справлялся с этим раньше?
 
-# Original: .......
+# Gregor: .......
 Грегор: .......
 
-# Original: Badly. Barely. Holding on to the idea that the living's gotta live on, and nothing else.
+# Gregor: Badly. Barely. Holding on to the idea that the living's gotta live on, and nothing else.
 Грегор: Плохо. Едва-едва. Цепляясь за мысль о том, что живые должны продолжать жить, и ничего больше.
 
-# Original: Hah. This really brings me back years. The memories are so clear that it's like they all happened yesterday.
+# Gregor: Hah. This really brings me back years. The memories are so clear that it's like they all happened yesterday.
 Грегор: Ха. Это реально возвращает меня на годы назад. Воспоминания настолько свежи, будто всё это было вчера.
 
-# Original: ... *sigh* Best you kick me off the bus before push comes to—
+# Gregor: ... *sigh* Best you kick me off the bus before push comes to—
 Грегор: ... *вздох* Лучше вам вышвырнуть меня из автобуса до того, как дело дойдёт до...
 
-# Original: That can't be the answer, Gregor.
+# Hong Lu: That can't be the answer, Gregor.
 Хон Лу: Это не может быть ответом, Грегор.
 
-# Original: You can walk away, but the danger of our journey won't leave with you. Dante and the rest of us will still be facing an endless repeat of peril.
+# Hong Lu: You can walk away, but the danger of our journey won't leave with you. Dante and the rest of us will still be facing an endless repeat of peril.
 Хон Лу: Вы можете уйти, но опасности нашего путешествия не уйдут вместе с вами. Данте и все остальные по-прежнему будут сталкиваться с бесконечной чередой угроз.
 
-# Original: And it's not like leaving the bus will bring peace to your heart.
+# Hong Lu: And it's not like leaving the bus will bring peace to your heart.
 Хон Лу: Да и не похоже, что уход из автобуса принесёт покой вашему сердцу.
 
-# Original: Our deaths can be reversed should an accident occur... even if it comes at the cost of Dante's suffering. The same can't be said for most people in the City.
+# Hong Lu: Our deaths can be reversed should an accident occur... even if it comes at the cost of Dante's suffering. The same can't be said for most people in the City.
 Хон Лу: Нашу смерть можно обернуть вспять в случае непредвиденного обстоятельства... даже если это происходит ценой страданий Данте. Того же нельзя сказать о большинстве людей в Городе.
 
-# Original: .......
+# Gregor: .......
 Грегор: .......
 
-# Original: *chuckle* Now that's something I never expected to hear from you.
+# Gregor: *chuckle* Now that's something I never expected to hear from you.
 Грегор: *смешок* Вот уж чего я никак не ожидал от тебя услышать.
 
-# Original: I guess you're right. If we're seeing this through to any kind of end, this would be the place to do so. Not many places in the City have some warmth to them like this one does.
+# Gregor: I guess you're right. If we're seeing this through to any kind of end, this would be the place to do so. Not many places in the City have some warmth to them like this one does.
 Грегор: Полагаю, ты прав. Если мы собираемся довести всё это до какого-никакого конца, то это самое подходящее место. В Городе не так уж много мест, где есть хоть немного такого же тепла.
 
-# Original: Boy, this consultation thing's pretty embarrassing.
+# Gregor: Boy, this consultation thing's pretty embarrassing.
 Грегор: Боже, вся эта консультация — жуткая неловкость.
 
-# Original: I mean, it's not like I was forced to go through something as traumatizing as yours, Hong Lu.
+# Gregor: I mean, it's not like I was forced to go through something as traumatizing as yours, Hong Lu.
 Грегор: Я имею в виду, не то чтобы мне пришлось пройти через что-то настолько же травмирующее, как тебе, Хон Лу.
 
-# Original: Truth be told... I'm not some special case. Everyone who participated in that war must've gone through more or less the same experience—Miss Moses, Outis, and even Valencina, that piece of work.
+# Gregor: Truth be told... I'm not some special case. Everyone who participated in that war must've gone through more or less the same experience—Miss Moses, Outis, and even Valencina, that piece of work.
 Грегор: По правде говоря... Я не какой-то там особый случай. Каждый, кто участвовал в той войне, должно быть, прошёл более или менее через тот же самый опыт: мисс Мозес, Отис и даже эта сучка Валенсина.
 
-# Original: We can't attach a number to our misfortunes as if they're something to be measured.
+# Hong Lu: We can't attach a number to our misfortunes as if they're something to be measured.
 Хон Лу: Мы не можем присваивать нашим несчастьям цифры, будто их можно как-то измерить.
 
-# Original: When I fled from my past, I tried my hardest to avert my eyes from it. But you, Gregor... you're not like me. Every few steps that distanced you from the past, you'd come to a pause to spare a look toward the path you had walked.
+# Hong Lu: When I fled from my past, I tried my hardest to avert my eyes from it. But you, Gregor... you're not like me. Every few steps that distanced you from the past, you'd come to a pause to spare a look toward the path you had walked.
 Хон Лу: Когда я сбежал от своего прошлого, я изо всех сил старался отвести от него взгляд. Но вы, Грегор... вы не такой, как я. Каждые несколько шагов, что отделяли вас от прошлого, вы останавливались, чтобы бросить взгляд на тот путь, который прошли.
 
-# Original: All those years I let slip by, all those that slipped you by are dotted with fathoms of suffering that are both ineffable and beyond measure.
+# Hong Lu: All those years I let slip by, all those that slipped you by are dotted with fathoms of suffering that are both ineffable and beyond measure.
 Хон Лу: Все те годы, что я упустил, все те, что упустили вы, усеяны пучинами страданий, которые одновременно неописуемы и безмерны.
 
-# Original: *puff* Different experiences, different pain.
+# Moses: *puff* Different experiences, different pain.
 Мозес: *затяжка* Разный опыт, разная боль.
 
-# Original: Still, if there's one thing common to everyone, it's that trauma leaves aftereffects that linger for a long time.
+# Moses: Still, if there's one thing common to everyone, it's that trauma leaves aftereffects that linger for a long time.
 Мозес: И всё же, если у всех и есть что-то общее, так это то, что травма оставляет последствия, которые сохраняются на долгое время.
 
-# Original: ... What're yours?
+# Gregor: ... What're yours?
 Грегор: ...А у вас какие?
 
-# Original: I... dislike loud noises and people who talk too much.
+# Moses: I... dislike loud noises and people who talk too much.
 Мозес: Я... не люблю громкие звуки и людей, которые слишком много болтают.
 
-# Original: They sound too much like the cacophony of the War, like screaming comrades who resented me even as they lay dying—and the wounds they left in my heart bled me dry.
+# Moses: They sound too much like the cacophony of the War, like screaming comrades who resented me even as they lay dying—and the wounds they left in my heart bled me dry.
 Мозес: Они слишком сильно напоминают мне какофонию Войны, вопли моих товарищей, которые презирали меня даже когда умирали, — и раны, которые они оставили в моём сердце, обескровили меня.
 
-# Original: Mmm... But I thought you were fond of Miss Ezra, Miss Moses?
+# Hong Lu: Mmm... But I thought you were fond of Miss Ezra, Miss Moses?
 Хон Лу: Ммм... Но я думал, вы привязаны к мисс Эзре, мисс Мозес?
 
-# Original: ... I've talked too much.
+# Moses: ... I've talked too much.
 Мозес: ...Я сказала слишком много.
 
-# Original: That aside...
+# Moses: That aside...
 Мозес: Отбросим это...
 
-# Original: Haven't you heard your fill? Might as well come out from that corner you're hiding in.
+# Moses: Haven't you heard your fill? Might as well come out from that corner you're hiding in.
 Мозес: Вы ещё не наслушались? Можете выходить из того угла, в котором прячетесь.
 
-# Original: Aw man, they knew we've been dropping eaves this whole time?
+# Kira: Aw man, they knew we've been dropping eaves this whole time?
 Кира: Блин, они всё это время знали, что мы греем уши?
 
-# Original: <Uhh... I was actually waiting for just the right time to come out and say a few words, but I couldn't find an appropriate moment to—>
+# Dante: <Uhh... I was actually waiting for just the right time to come out and say a few words, but I couldn't find an appropriate moment to—>
 Данте: <Эм... Вообще-то я ждал подходящего момента, чтобы выйти и сказать пару слов, но никак не мог найти подходящую минуту, чтобы...>
 
-# Original: Ah, well... I would've had to share this with Manager Bud or the rest of you fellas sooner or later, so I don't really mind. But...
+# Gregor: Ah, well... I would've had to share this with Manager Bud or the rest of you fellas sooner or later, so I don't really mind. But...
 Грегор: А, ну... Мне бы всё равно рано или поздно пришлось поделиться этим с Менеджером или с остальными из вас, так что я не особо возражаю. Но...
 
-# Original: What's <i>she</i> doing here...?
+# Gregor: What's <i>she</i> doing here...?
 Грегор: А <i>она</i>-то что тут делает...?
 
-# Original: T.A.
+# Ryōshū: T.A.
 Рёшу: В.П.
 
-# Original: Hmm... Temporary... Ally?
+# Hong Lu: Hmm... Temporary... Ally?
 Хон Лу: Хмм... Временная... Подруга?
 
-# Original: No. Temporary Accompaniment.
+# Ryōshū: No. Temporary Accompaniment.
 Рёшу: Нет. Временная Прислуга.
 
-# Original: Don't be an asshole. I'm working my ass off to help you guys.
+# Kira: Don't be an asshole. I'm working my ass off to help you guys.
 Кира: Не будь говнючкой. Я жопу рву, чтобы вам помочь.
 
-# Original: Fuhu... Pleased to make your acquaintance.
+# Hong Lu: Fuhu... Pleased to make your acquaintance.
 Хон Лу: Фуху... Рад знакомству.
 
-# Original: *puff* You're right on time.
+# Moses: *puff* You're right on time.
 Мозес: *затяжка* Вы как раз вовремя.
 
-# Original: I've been working on a theory, but I don't have all the clues to be absolutely certain. A word from someone in the know may immensely improve my confidence in the theory.
+# Moses: I've been working on a theory, but I don't have all the clues to be absolutely certain. A word from someone in the know may immensely improve my confidence in the theory.
 Мозес: Я тут работала над одной теорией, но у меня нет всех улик, чтобы быть абсолютно уверенной. Слово от кого-то осведомлённого может в разы укрепить мою уверенность в ней.
 
-# Original: Kira. Do you know which "door" the Thumb's Nursefather was most attached to?
+# Moses: Kira. Do you know which "door" the Thumb's Nursefather was most attached to?
 Мозес: Кира. Ты не знаешь, к какой «двери» Отец-воспитатель Большого была привязана больше всего?
 
-# Original: Huh? No. Duh.
+# Kira: Huh? No. Duh.
 Кира: А? Нет. Ясен пень.
 
-# Original: ... "Duh?" That supposed to be obvious?
+# Heathcliff: ... "Duh?" That supposed to be obvious?
 Хитклиф: ...«Ясен пень»? С хрена ли это очевидно?
 
-# Original: Didn't you guys all see her? Ya think I'd just chat up a scary lady like that?
+# Kira: Didn't you guys all see her? Ya think I'd just chat up a scary lady like that?
 Кира: Вы что, не видели её? Думаете, я бы стала вот так просто болтать с такой жуткой тёткой?
 
-# Original: Dude, she was beating the everloving shit out of Lucio every time I saw them together.
+# Kira: Dude, she was beating the everloving shit out of Lucio every time I saw them together.
 Кира: Чувак, она выбивала всё дерьмо из Лучио каждый раз, когда я видела их вместе.
 
-# Original: Oh yeah, he went down fighting you guys to the end, huh?
+# Kira: Oh yeah, he went down fighting you guys to the end, huh?
 Кира: О, да, он ведь до конца с вами дрался, да?
 
-# Original: *sigh*
+# Gregor: *sigh*
 Грегор: *вздох*
 
-# Original: Yeah. Said stuff about her generosity and all that and fought 'til he died.
+# Heathcliff: Yeah. Said stuff about her generosity and all that and fought 'til he died.
 Хитклиф: Ага. Плёл что-то о её великодушии и всём таком и бился, пока не сдох.
 
-# Original: Damn, that's unexpected.
+# Kira: Damn, that's unexpected.
 Кира: Блин, вот уж не ожидала.
 
-# Original: Being real for a sec here, I thought he was totally gonna swap sides.
+# Kira: Being real for a sec here, I thought he was totally gonna swap sides.
 Кира: Если честно, я вообще думала, что он стопудово переобуется.
 
-# Original: Really? That lad?
+# Heathcliff: Really? That lad?
 Хитклиф: Серьёзно? Этот пацан?
 
-# Original: And why is that?
+# Ryōshū: And why is that?
 Рёшу: И с чего бы это?
 
-# Original: Y'know, the vibes. You guys don't know 'cuz you haven't seen him long without the scary lady always looming over him.
+# Kira: Y'know, the vibes. You guys don't know 'cuz you haven't seen him long without the scary lady always looming over him.
 Кира: Ну, знаете, вайбы такие. Вы не знаете, потому что не видели его долго без этой страшной тётки, постоянно нависающей над ним.
 
-# Original: .......
+# Lucio: .......
 Лучио: .......
 
-# Original: What's up? Gonna stab 'er right in the spine?
+# Kira: What's up? Gonna stab 'er right in the spine?
 Кира: Что такое? Собираешься пырнуть её прямо в спину?
 
-# Original: ...! You...
+# Lucio: ...! You...
 Лучио: ...! Ты...
 
-# Original: Look, I think you might be training wrong 'cuz, like, you're not improving as much as you should from all that grind. Lemme show ya what I learned 'bout sword swings from this comic book—
+# Kira: Look, I think you might be training wrong 'cuz, like, you're not improving as much as you should from all that grind. Lemme show ya what I learned 'bout sword swings from this comic book—
 Кира: Слушай, мне кажется, ты как-то неправильно тренируешься, типа, от всей этой зубрёжки ты ни фига не прогрессируешь. Давай я покажу тебе, что узнала о взмахах мечом из одного комикса...
 
-# Original: That is not how my master has instructed me.
+# Lucio: That is not how my master has instructed me.
 Лучио: Моя госпожа учила меня не этому.
 
-# Original: The Textbook cannot be permitted to have even a single deviation if it means to repay the debt it owes her.
+# Lucio: The Textbook cannot be permitted to have even a single deviation if it means to repay the debt it owes her.
 Лучио: Учебник не может позволить себе ни единого отклонения, если это необходимо, чтобы отплатить ей свой долг.
 
-# Original: Why're you so obsessed with all that crap anyway? Ya don't even like that old lady.
+# Kira: Why're you so obsessed with all that crap anyway? Ya don't even like that old lady.
 Кира: Почему ты вообще так помешан на всей этой фигне? Тебе же даже не нравится эта старая грымза.
 
-# Original: .......
+# Lucio: .......
 Лучио: .......
 
-# Original: But... you're not so different from me in that regard, are you?
+# Lucio: But... you're not so different from me in that regard, are you?
 Лучио: Но... в этом отношении ты не так уж сильно от меня отличаешься, верно?
 
-# Original: B-bro, the heck ya talkin' about? I love my papa.
+# Kira: B-bro, the heck ya talkin' about? I love my papa.
 Кира: Б-братан, ты вообще о чём? Я люблю своего папу.
 
-# Original: Seriously, I thought things were gonna crash and burn before Yoshihide even came home.
+# Kira: Seriously, I thought things were gonna crash and burn before Yoshihide even came home.
 Кира: Серьёзно, я думала, что всё полетит к чертям собачьим ещё до того, как Ёшихидэ вернётся домой.
 
-# Original: Hah. Suppose "Textbook" and I had that in common.
+# Ryōshū: Hah. Suppose "Textbook" and I had that in common.
 Рёшу: Ха. Полагаю, у нас с «Учебником» было кое-что общее.
 
-# Original: Hm. If this one doesn't know, let me redirect that question toward you, Sinner Ryōshū.
+# Moses: Hm. If this one doesn't know, let me redirect that question toward you, Sinner Ryōshū.
 Мозес: Хм. Если эта не знает, позвольте мне переадресовать этот вопрос тебе, Грешница Рёшу.
 
-# Original: Hopefully this touches upon one of your more intact memories. Do you know which of these "doors" the Thumb Nursefather showed particular attachment to? Or the door she used most often?
+# Moses: Hopefully this touches upon one of your more intact memories. Do you know which of these "doors" the Thumb Nursefather showed particular attachment to? Or the door she used most often?
 Мозес: Надеюсь, это затронет одно из твоих более-менее целых воспоминаний. Ты знаешь, к какой из этих «дверей» Отец-воспитатель Большого проявляла особую привязанность? Или дверь, которой она пользовалась чаще всего?
 
-# Original: Why ask me?
+# Ryōshū: Why ask me?
 Рёшу: Почему ты спрашиваешь меня?
 
-# Original: ... Fine. Yes, I do remember. Don't even need Clock's help to piece it back together.
+# Ryōshū: ... Fine. Yes, I do remember. Don't even need Clock's help to piece it back together.
 Рёшу: ...Ладно. Да, я помню. Даже помощь Часов не понадобится, чтобы собрать всё воедино.
 
-# Original: It's that one.
+# Ryōshū: It's that one.
 Рёшу: Вот эта.
 
-# Original: The door with metal pieces dangling from it.
+# Ryōshū: The door with metal pieces dangling from it.
 Рёшу: Дверь со свисающими металлическими деталями.
 
-# Original: Holy shit, I almost died out there...
+# Valencina: Holy shit, I almost died out there...
 Валенсина: Срань господня, я там чуть не сдохла...
 
-# Original: Son of a bitch, a fucking fly... Where did those G Corp. fucks even drag those gross pests from?
+# Valencina: Son of a bitch, a fucking fly... Where did those G Corp. fucks even drag those gross pests from?
 Валенсина: Сукин сын, ебучая муха... Откуда вообще эти ублюдки из Корпорации G притащили этих мерзких тварей?
 
-# Original: M-Mom...? Are you okay...?
+# Yoshihide: M-Mom...? Are you okay...?
 Ёшихидэ: М-мама...? Ты в порядке...?
 
-# Original: Do I <i>look</i> okay to you, Ticket?
+# Valencina: Do I <i>look</i> okay to you, Ticket?
 Валенсина: Я <i>похожа</i> на ту, кто в порядке, Билетик?
 
-# Original: N-no, not really...
+# Yoshihide: N-no, not really...
 Ёшихидэ: Н-нет, не очень...
 
-# Original: Ha... I'm fine. You know I don't break easy.
+# Valencina: Ha... I'm fine. You know I don't break easy.
 Валенсина: Ха... Я в порядке. Ты же знаешь, меня так просто не сломать.
 
-# Original: You should've been there to see me tear the head off that G Corp. vermin, Ticket.
+# Valencina: You should've been there to see me tear the head off that G Corp. vermin, Ticket.
 Валенсина: Тебе стоило видеть, как я оторвала голову этой жучаре из Корпорации G, Билетик.
 
-# Original: But Mom, you're... your leg's bleeding a lot...
+# Yoshihide: But Mom, you're... your leg's bleeding a lot...
 Ёшихидэ: Но мама, ты... у тебя нога сильно кровоточит...
 
-# Original: *tzzt*
+# Radio: *tzzt*
 Радио: *тззт*
 
-# Original: Here comes another mission. Boy, they really can't do shit without me, huh? So much for a break.
+# Valencina: Here comes another mission. Boy, they really can't do shit without me, huh? So much for a break.
 Валенсина: А вот и очередная миссия. Блин, они реально ни хрена без меня сделать не могут, а? Вот тебе и перерыв.
 
-# Original: The fuck is this?
+# Valencina: The fuck is this?
 Валенсина: Это что за хрень?
 
-# Original: B-bandages... for you...
+# Yoshihide: B-bandages... for you...
 Ёшихидэ: Б-бинты... для тебя...
 
-# Original: ... Is this kid serious? They've got truckloads of expensive treatments on the ready to patch me up the moment I get back to the fiel—Well, okay. Never mind that.
+# Valencina: ... Is this kid serious? They've got truckloads of expensive treatments on the ready to patch me up the moment I get back to the fiel—Well, okay. Never mind that.
 Валенсина: ...Этот ребёнок серьёзно? У них там наготове грузовики с дорогими лекарствами, чтобы залатать меня в тот момент, когда я вернусь на по— Ну ладно. Проехали.
 
-# Original: Hey, this works.
+# Valencina: Hey, this works.
 Валенсина: Эй, а это работает.
 
-# Original: Mom...?
+# Yoshihide: Mom...?
 Ёшихидэ: Мама...?
 
-# Original: Sit tight and don't start any trouble. I'll teach you some sword techniques once I'm back.
+# Valencina: Sit tight and don't start any trouble. I'll teach you some sword techniques once I'm back.
 Валенсина: Сиди смирно и не нарывайся на неприятности. Как вернусь, научу тебя паре приёмов с мечом.
 
-# Original: ... Must've been her years in the Smoke War.
+# Moses: ... Must've been her years in the Smoke War.
 Мозес: ...Должно быть, это были её годы в Дымовой войне.
 
-# Original: Yeah. Fighting in the War took a lot out of her and left her perpetually exhausted.
+# Ryōshū: Yeah. Fighting in the War took a lot out of her and left her perpetually exhausted.
 Рёшу: Да. Сражения на Войне выжимали из неё все соки и оставляли её в состоянии вечного истощения.
 
-# Original: But she marched to every battle with a smile. Stopped drinking. Stopped beating me, too.
+# Ryōshū: But she marched to every battle with a smile. Stopped drinking. Stopped beating me, too.
 Рёшу: Но в каждую битву она шла с улыбкой. Бросила пить. И бить меня тоже перестала.
 
-# Original: Like a blissful idiot who forgot that she was still neck-deep in the inescapable pit called the House of Spiders.
+# Ryōshū: Like a blissful idiot who forgot that she was still neck-deep in the inescapable pit called the House of Spiders.
 Рёшу: Словно блаженная идиотка, которая забыла, что она всё ещё по уши в неизбежной яме под названием Дом Пауков.
 
-# Original: <.......>
+# Dante: <.......>
 Данте: <.......>
 
-# Original: Well, the ironic peace didn't last.
+# Ryōshū: Well, the ironic peace didn't last.
 Рёшу: Что ж, иронично, но мир продлился недолго.
 
-# Original: Some time after the War ended, someone she called the "Consigliere" of the Thumb visited the House of Spiders as a tutor.
+# Ryōshū: Some time after the War ended, someone she called the "Consigliere" of the Thumb visited the House of Spiders as a tutor.
 Рёшу: Через некоторое время после окончания Войны кто-то, кого она называла «Консильери» Большого, посетила Дом Пауков в качестве наставника.
 
-# Original: And that's when she went right back to drinking herself into a shit-faced stupor day after day.
+# Ryōshū: And that's when she went right back to drinking herself into a shit-faced stupor day after day.
 Рёшу: И именно тогда она снова стала напиваться до усрачки день за днём.
 
-# Original: The beatings returned, and so did the edge in her profanities.
+# Ryōshū: The beatings returned, and so did the edge in her profanities.
 Рёшу: Побои вернулись, как и яд в её ругательствах.
 
-# Original: It was pathetic.
+# Ryōshū: It was pathetic.
 Рёшу: Это было жалкое зрелище.
 
-# Original: Hold on... Why, though? Sure, I was on the losing side...
+# Gregor: Hold on... Why, though? Sure, I was on the losing side...
 Грегор: Погодите-ка... Но почему? Конечно, я был на проигравшей стороне...
 
-# Original: ... but wasn't Valencina on the <i>winning</i> side? A war hero, at that.
+# Gregor: ... but wasn't Valencina on the <i>winning</i> side? A war hero, at that.
 Грегор: ...но разве Валенсина не была на <i>победившей</i> стороне? Ещё и героем войны, к тому же.
 
-# Original: .......
+# Moses: .......
 Мозес: .......
 
-# Original: Ever heard of the regulation that prevents Smoke War participants from moving into I Corp. and K Corp. Nests?
+# Moses: Ever heard of the regulation that prevents Smoke War participants from moving into I Corp. and K Corp. Nests?
 Мозес: Вы когда-нибудь слышали о правиле, которое запрещает участникам Дымовой войны переезжать в Гнёзда Корпорации I и Корпорации K?
 
-# Original: .......
+# Outis: .......
 Отис: .......
 
-# Original: The common thread between these post-war rules is that they make the lives of veterans difficult. Dubious rules that don't discriminate between winners and losers.
+# Moses: The common thread between these post-war rules is that they make the lives of veterans difficult. Dubious rules that don't discriminate between winners and losers.
 Мозес: Общей чертой всех этих послевоенных правил является то, что они усложняют жизнь ветеранам. Сомнительные правила, которые не делают различий между победителями и проигравшими.
 
-# Original: <I see... There must've been things going on behind the scenes there, too.>
+# Dante: <I see... There must've been things going on behind the scenes there, too.>
 Данте: <Понимаю... Там, должно быть, тоже происходило много чего за кулисами.>
 
-# Original: But... doesn't that mean that Backdoor'll drop us into a trench they dug during the War?
+# Heathcliff: But... doesn't that mean that Backdoor'll drop us into a trench they dug during the War?
 Хитклиф: Но... разве это не значит, что Задняя дверь забросит нас прямо в траншею, которую они вырыли во время Войны?
 
-# Original: Yes, and Gregor will be the one to open it.
+# Moses: Yes, and Gregor will be the one to open it.
 Мозес: Да, и Грегор будет тем, кто её откроет.
 
-# Original: Wait, me?
+# Gregor: Wait, me?
 Грегор: Погодите, я?
 
-# Original: Yes. Others can do it for you, but what would be the point?
+# Moses: Yes. Others can do it for you, but what would be the point?
 Мозес: Да. Другие могут сделать это за тебя, но какой тогда в этом смысл?
 
-# Original: ... You sure this won't just end up giving him more nightmares? I don't see how this helps him in any way.
+# Heathcliff: ... You sure this won't just end up giving him more nightmares? I don't see how this helps him in any way.
 Хитклиф: ...Ты уверена, что это не принесёт ему лишь очередную порцию кошмаров? Я не вижу, как это вообще может ему помочь.
 
-# Original: We do not have any means to treat whatever it is that slumbers within his arm.
+# Moses: We do not have any means to treat whatever it is that slumbers within his arm.
 Мозес: У нас нет никаких средств, чтобы вылечить то, что дремлет в его руке.
 
-# Original: However, I would surmise that the underlying cause of his sudden transformation wasn't the arm itself.
+# Moses: However, I would surmise that the underlying cause of his sudden transformation wasn't the arm itself.
 Мозес: Однако я осмелюсь предположить, что первопричиной его внезапной трансформации была вовсе не рука.
 
-# Original: Then... what?
+# Heathcliff: Then... what?
 Хитклиф: Тогда... что?
 
-# Original: It's trauma. His arm took control <i>after</i> his psyche was crushed by the weight of the unspeakable memories coming back to haunt him.
+# Moses: It's trauma. His arm took control <i>after</i> his psyche was crushed by the weight of the unspeakable memories coming back to haunt him.
 Мозес: Это травма. Его рука взяла контроль <i>после того</i>, как его психика была раздавлена тяжестью невыразимых воспоминаний, вновь вернувшихся преследовать его.
 
-# Original: It's not because the arm went berserk that he started reliving his painful past—it's the other way around. Isn't that so?
+# Moses: It's not because the arm went berserk that he started reliving his painful past—it's the other way around. Isn't that so?
 Мозес: Он начал заново переживать своё болезненное прошлое не потому, что его рука впала в неистовство, — всё как раз наоборот. Разве не так?
 
-# Original: If you can come to understand that the War is really over, and that what others say, no matter how closely they echo the past, is not necessarily aimed at you...
+# Moses: If you can come to understand that the War is really over, and that what others say, no matter how closely they echo the past, is not necessarily aimed at you...
 Мозес: Если ты сможешь понять, что Война действительно закончена, и что то, что говорят другие, какими бы отголосками прошлого оно ни было, не обязательно направлено на тебя...
 
-# Original: ... then you may be able to loosen your grip on the fear and anxiety that your arm could metamorphose at any moment.
+# Moses: ... then you may be able to loosen your grip on the fear and anxiety that your arm could metamorphose at any moment.
 Мозес: ...тогда, возможно, ты сможешь ослабить хватку того страха и тревоги, что твоя рука может преобразиться в любой момент.
 
-# Original: .......
+# Gregor: .......
 Грегор: .......
 
-# Original: While her suggestion may seem blunt, it is one of the basic treatment principles of M Corp.'s psychotherapy centers.
+# Faust: While her suggestion may seem blunt, it is one of the basic treatment principles of M Corp.'s psychotherapy centers.
 Фауст: Хоть её предложение и может показаться резким, это один из базовых принципов лечения в психотерапевтических центрах Корпорации M.
 
-# Original: *puff* Fine. Then...
+# Gregor: *puff* Fine. Then...
 Грегор: *затяжка* Ладно. Тогда...
 
-# Original: ... guess I'll open it up.
+# Gregor: ... guess I'll open it up.
 Грегор: ...пожалуй, я её открою.
 
-# Original: Gregor walked up to the door, grabbed its handle, then paused—taking slow, deep breaths.
+# Narrator: Gregor walked up to the door, grabbed its handle, then paused—taking slow, deep breaths.
 Рассказчик: Грегор подошёл к двери, схватился за ручку, а затем остановился — делая медленные, глубокие вдохи.
 
-# Original: And with one arm, he gently opened the door.
+# Narrator: And with one arm, he gently opened the door.
 Рассказчик: И одной рукой он осторожно открыл дверь.
 
-# Original: <i>Why are you running? You should be taking the lead on the front lines with our G Corp. banner held high!</i>
+# Tomah: <i>Why are you running? You should be taking the lead on the front lines with our G Corp. banner held high!</i>
 Тома: <i>Почему ты бежишь? Ты должен вести нас за собой на передовой, высоко подняв знамя нашей Корпорации G!</i>
 
-# Original: <i>I-I don’t wanna die!</i>
+# Kind Citizen: <i>I-I don’t wanna die!</i>
 Добрый гражданин: <i>Я-я не хочу умирать!</i>
 
-# Original: <i>*chuckle* It’s nice to have a place to go back to.</i>
+# Yuri: <i>*chuckle* It’s nice to have a place to go back to.</i>
 Юри: <i>*смешок* Как же хорошо, когда есть куда вернуться.</i>
 
-# Original: <i>Oh, right. Happy 15th birthday!</i>
+# Hermann: <i>Oh, right. Happy 15th birthday!</i>
 Герман: <i>Ах да. С пятнадцатилетием!</i>
 
-# Original: <i>But you can't possibly have the cheek to call me cruel.</i>
+# Valencina: <i>But you can't possibly have the cheek to call me cruel.</i>
 Валенсина: <i>Но у тебя не хватит наглости назвать меня жестокой.</i>
 
-# Original: <i>You G Corp. pests were far more messed up than I ever was! Ripping people apart, cannibalizing them—you were nothing but a swarm of fucked-up monsters!</i>
+# Valencina: <i>You G Corp. pests were far more messed up than I ever was! Ripping people apart, cannibalizing them—you were nothing but a swarm of fucked-up monsters!</i>
 Валенсина: <i>Вы, паразиты из Корпорации G, были куда более поехавшими, чем я! Разрывали людей на части, жрали их заживо — вы были не чем иным, как роем ебанутых монстров!</i>
 
-# Original: I thought I'd woken up from the dream,
+# Gregor: I thought I'd woken up from the dream,
 Грегор: Я думал, что очнулся от сна,
 
-# Original: but I was still...
+# Gregor: but I was still...
 Грегор: но я всё ещё...

@@ -1,239 +1,239 @@
-﻿# Original: <color=#cc2424>Nay, tease me not, jest me not as though my venture is one for fools.</color>
+﻿# Narrator: <color=#cc2424>Nay, tease me not, jest me not as though my venture is one for fools.</color>
 Рассказчик: <color=#cc2424>Нет, не дразни меня, не шути, будто моя затея – удел глупцов.</color>
 
-# Original: <color=#cc2424>I have already explained that you do not know of true adventure.</color>
+# Narrator: <color=#cc2424>I have already explained that you do not know of true adventure.</color>
 Рассказчик: <color=#cc2424>Я уже объяснял, что ты не ведаешь истинного приключения.</color>
 
-# Original: <color=#cc2424>We shall soon walk a path of suffering, its intensity unprecedented and monumental.</color>
+# Narrator: <color=#cc2424>We shall soon walk a path of suffering, its intensity unprecedented and monumental.</color>
 Рассказчик: <color=#cc2424>Вскоре мы пройдём путь страданий, интенсивность которых будет беспрецедентной и монументальной.</color>
 
-# Original: <color=#cc2424>Do you not see the grand gate of adventure risen, unlatched before us?</color>
+# Narrator: <color=#cc2424>Do you not see the grand gate of adventure risen, unlatched before us?</color>
 Рассказчик: <color=#cc2424>Разве ты не видишь величественные врата приключений, что поднялись и отворились перед нами?</color>
 
-# Original: <color=#cc2424>Thus, silence your prattling and resume the preparations; let us leave posthaste.</color>
+# Narrator: <color=#cc2424>Thus, silence your prattling and resume the preparations; let us leave posthaste.</color>
 Рассказчик: <color=#cc2424>Посему, прекрати свою болтовню и возобновим приготовления; отправимся немедля.</color>
 
-# Original: <color=#ffef23>…….</color>
+# Narrator: <color=#ffef23>…….</color>
 Рассказчик: <color=#ffef23>…….</color>
 
-# Original: <color=#ffef23>... This is quite odd, however.</color>
+# Narrator: <color=#ffef23>... This is quite odd, however.</color>
 Рассказчик: <color=#ffef23>... Однако, это весьма странно.</color>
 
-# Original: <color=#ffef23>……. </color>
+# Narrator: <color=#ffef23>……. </color>
 Рассказчик: <color=#ffef23>……. </color>
 
-# Original: <color=#ffef23>Since when was Rocinante given the gift of speech?</color>
+# Narrator: <color=#ffef23>Since when was Rocinante given the gift of speech?</color>
 Рассказчик: <color=#ffef23>С каких это пор Росинант обрёл дар речи?</color>
 
-# Original: While we had our reservations, we took the path Sansón opened for us and made it to the next Area.
+# Narrator: While we had our reservations, we took the path Sansón opened for us and made it to the next Area.
 Рассказчик: Несмотря на наши сомнения, мы пошли по пути, открытому Сансоном, и добрались до следующей Зоны.
 
-# Original: I'm worried about Xichun and the other Fixers. They were assigned Area 2, right? I hope they're alright...
+# Sinclair: I'm worried about Xichun and the other Fixers. They were assigned Area 2, right? I hope they're alright...
 Синклер: Я беспокоюсь о Сичунь и других Корректировщиках. Им ведь поручили Зону 2, верно? Надеюсь, с ними всё в порядке...
 
-# Original: Xichun will be okay, I'm sure. Oh, that reminds me... I have a funny family in-joke to share...
+# Hong Lu: Xichun will be okay, I'm sure. Oh, that reminds me... I have a funny family in-joke to share...
 Хон Лу: С Сичунь всё будет хорошо, я уверен. О, это напомнило мне... У нас есть забавная семейная шутка...
 
-# Original: Oho, let's hear it.
+# Gregor: Oho, let's hear it.
 Грегор: Ого, давай послушаем.
 
-# Original: It goes like this. Any of our siblings who managed to survive on their own up to the age of thirteen in our household will probably be a-okay even if they were to be tossed out to the middle of the Outskirts! Hehe...
+# Hong Lu: It goes like this. Any of our siblings who managed to survive on their own up to the age of thirteen in our household will probably be a-okay even if they were to be tossed out to the middle of the Outskirts! Hehe...
 Хон Лу: Она звучит так. Любой из наших братьев и сестёр, кто сумел дожить до тринадцати лет в нашем доме, вероятно, будет в порядке, даже если его бросить посреди Окраин! Хе-хе...
 
-# Original: ... Ahm. Okay, we should hurry. I bet Area 2's just as bad... if not worse, than Area 1. If something bad were to happen to your sister in front your eyes—
+# Gregor: ... Ahm. Okay, we should hurry. I bet Area 2's just as bad... if not worse, than Area 1. If something bad were to happen to your sister in front your eyes—
 Грегор: ... Эхм. Ладно, нам стоит поторопиться. Держу пари, Зона 2 такая же плохая... если не хуже, чем Зона 1. Если что-то плохое случится с твоей сестрой на твоих глазах—
 
-# Original: Then I will gather her remains and lay them in her final resting place when I return home, whenever that may be.
+# Hong Lu: Then I will gather her remains and lay them in her final resting place when I return home, whenever that may be.
 Хон Лу: Тогда я соберу её останки и положу их в последнее пристанище, когда вернусь домой, когда бы это ни случилось.
 
-# Original: Xichun would have done the same for me.
+# Hong Lu: Xichun would have done the same for me.
 Хон Лу: Сичунь сделала бы то же самое для меня.
 
-# Original: ... Yeah?
+# Gregor: ... Yeah?
 Грегор: ... Да?
 
-# Original: ... Anyways~ Whew! Ain't this place a bit drafty, fellas?
+# Gregor: ... Anyways~ Whew! Ain't this place a bit drafty, fellas?
 Грегор: ... В любом случае~ Фух! Ребята, а не слишком ли тут прохладно?
 
-# Original: This place feels very different from Area 1.
+# Narrator: This place feels very different from Area 1.
 Рассказчик: Это место сильно отличается от Зоны 1.
 
-# Original: Unlike Area 1, which was extremely gaudy and overtly decorated...
+# Narrator: Unlike Area 1, which was extremely gaudy and overtly decorated...
 Рассказчик: В отличие от Зоны 1, которая была чрезмерно яркой и вычурно украшенной...
 
-# Original: ... this place is teeming with ominous, depressing silence.
+# Narrator: ... this place is teeming with ominous, depressing silence.
 Рассказчик: ... это место наполнено зловещей, гнетущей тишиной.
 
-# Original: Yeah. This place is... how should I put it... It's eerily quiet. Almost spooky, even...
+# Ishmael: Yeah. This place is... how should I put it... It's eerily quiet. Almost spooky, even...
 Измаил: Да. Это место... как бы это сказать... Здесь жутко тихо. Даже немного пугающе...
 
-# Original: Welp, I hope this is the good kind of quiet~
+# Rodion: Welp, I hope this is the good kind of quiet~
 Родион: Ну, надеюсь, это хорошая тишина~
 
-# Original: Y'know, what if it's just quiet down here because the Fixers who made it here first already took out all the Bloodfiends?
+# Rodion: Y'know, what if it's just quiet down here because the Fixers who made it here first already took out all the Bloodfiends?
 Родион: Знаете, вот если бы здесь было так тихо, по причине того, что Корректировщики, которые первыми сюда добрались, уже разобрались со всеми Кровожадами?
 
-# Original: <It is pretty suffocating to just sit here, not knowing who won the fight... or if there even was a fight.>
+# Dante: <It is pretty suffocating to just sit here, not knowing who won the fight... or if there even was a fight.>
 Данте: <Просто сидеть здесь довольно угнетающе, не зная, кто победил в битве... и была ли вообще битва.>
 
-# Original: Let's try not to get added to that wall of missing persons posters...
+# Gregor: Let's try not to get added to that wall of missing persons posters...
 Грегор: Давайте постараемся не попасть на ту стену с объявлениями о пропавших людях...
 
-# Original: How much time do we have until La Manchaland closes?
+# Sinclair: How much time do we have until La Manchaland closes?
 Синклер: Сколько у нас времени до закрытия Ла-Манчалэнда?
 
-# Original: Five hours, by my estimation.
+# Yi Sang: Five hours, by my estimation.
 И Сан: Пять часов, по моим подсчётам.
 
-# Original: Nice, nice. I'd say we're moving at a decent pace. Hey, what if we're the first group that managed to activate their Area's device?
+# Rodion: Nice, nice. I'd say we're moving at a decent pace. Hey, what if we're the first group that managed to activate their Area's device?
 Родион: Отлично, отлично. Я бы сказала, мы движемся в неплохом темпе. Эй, а что если мы первая группа, которой удалось активировать устройство в своей Зоне?
 
-# Original: Well, we did suffer some losses...
+# Ishmael: Well, we did suffer some losses...
 Измаил: Ну, мы понесли некоторые потери...
 
-# Original: Losses? I believe we've only pruned a traitor in our midst.
+# Outis: Losses? I believe we've only pruned a traitor in our midst.
 Отис: Потери? Я считаю, что мы лишь избавились от предателя в наших рядах.
 
-# Original: Yet... aught sits ill at the back of my mind still.
+# Yi Sang: Yet... aught sits ill at the back of my mind still.
 И Сан: И всё же... что-то всё ещё тревожит меня.
 
-# Original: It was not as though we passed the first Area by our own will and effort; it was the command of the man in his magician's outfit by which we were 'made' to pass through.
+# Yi Sang: It was not as though we passed the first Area by our own will and effort; it was the command of the man in his magician's outfit by which we were 'made' to pass through.
 И Сан: Мы прошли первую Зону не по своей воле и не своими усилиями; это было повеление человека в наряде волшебника, по которому нам 'позволили' пройти.
 
-# Original: Well... he was a pretty weird Bloodfiend.
+# Rodion: Well... he was a pretty weird Bloodfiend.
 Родион: Ну... он был довольно странным Кровожадом.
 
-# Original: R-right? And... I couldn't quite tell what it was, but there was something familiar about him...
+# Sinclair: R-right? And... I couldn't quite tell what it was, but there was something familiar about him...
 Синклер: В-верно? И... я не могу точно сказать, что именно, но в нём было что-то знакомое...
 
-# Original: Something familiar? Hm, I guess he did seem kinda similar to Ryōshū, in that artsy-fartsy way.
+# Rodion: Something familiar? Hm, I guess he did seem kinda similar to Ryōshū, in that artsy-fartsy way.
 Родион: Что-то знакомое? Хм, думаю, он немного напоминал Рёшу, в этом своём артистично-вычурном стиле.
 
-# Original: …….
+# Ryōshū: …….
 Рёшу: …….
 
-# Original: Ryōshū quietly let out a cloud of smoke. It briefly lingered midair before turning into a bizarre shape.
+# Narrator: Ryōshū quietly let out a cloud of smoke. It briefly lingered midair before turning into a bizarre shape.
 Рассказчик: Рёшу тихо выпустила облачко дыма. Оно на мгновение зависло в воздухе, прежде чем принять причудливую форму.
 
-# Original: T-that's cute... is that a cat-shaped plume?
+# Sinclair: T-that's cute... is that a cat-shaped plume?
 Синклер: М-мило... это облачко в форме кошки?
 
-# Original: Hoo... It's you. Weeping and sniveling.
+# Ryōshū: Hoo... It's you. Weeping and sniveling.
 Рёшу: Хм... Это ты. Плачущий и хнычущий.
 
-# Original: An expression of the consequences, should you mistranslate me in the future.
+# Ryōshū: An expression of the consequences, should you mistranslate me in the future.
 Рёшу: Выражение последствий, если ты неверно переведёшь меня в будущем.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: Ooh...? Huh, this place is pretty neat.
+# Gregor: Ooh...? Huh, this place is pretty neat.
 Грегор: Ооо...? Хм, а это место довольно занятное.
 
-# Original: <Ooh, what is it?>
+# Dante: <Ooh, what is it?>
 Данте: <Ооо, что там?>
 
-# Original: Look here, on the map. They have an infirmary.
+# Gregor: Look here, on the map. They have an infirmary.
 Грегор: Посмотри сюда, на карту. У них есть медпункт.
 
-# Original: 'Guests injured on a ride, guests who need a moment to calm down, or any Bloodfiends who are in urgent need of blood, you can find help here!'...
+# Gregor: 'Guests injured on a ride, guests who need a moment to calm down, or any Bloodfiends who are in urgent need of blood, you can find help here!'...
 Грегор: 'Гости, получившие травмы на аттракционе, гости, которым нужно время, чтобы успокоиться, или любые Кровожады, срочно нуждающиеся в крови, могут найти здесь помощь!'...
 
-# Original: Huh, ain't that awfully nice of them.
+# Gregor: Huh, ain't that awfully nice of them.
 Грегор: Хм, как мило с их стороны.
 
-# Original: They said that La Manchaland was intended to be where Bloodfiends and humans can peacefully, happily coexist.
+# Sinclair: They said that La Manchaland was intended to be where Bloodfiends and humans can peacefully, happily coexist.
 Синклер: Они говорили, что Ла-Манчалэнд был задуман как место, где Кровожады и люди могут мирно и счастливо сосуществовать.
 
-# Original: Maybe... a long, long time ago... it really did work for a while. At least according to the descriptions on this map.
+# Sinclair: Maybe... a long, long time ago... it really did work for a while. At least according to the descriptions on this map.
 Синклер: Может быть... очень, очень давно... это действительно какое-то время работало. По крайней мере, судя по описаниям на этой карте.
 
-# Original: Nonsense! 'Twould be an impossible task, most evidently!
+# Don Quixote: Nonsense! 'Twould be an impossible task, most evidently!
 Дон Кихот: Чепуха! Это, несомненно, невыполнимая задача!
 
-# Original: An adventure such as this cannot possibly exist in any tale of Don Quixote. A place to coexist with villains...? Pah, absurd...
+# Don Quixote: An adventure such as this cannot possibly exist in any tale of Don Quixote. A place to coexist with villains...? Pah, absurd...
 Дон Кихот: Приключение подобного рода не может существовать ни в одной из историй о Дон Кихот. Место для сосуществования со злодеями...? Пфф, абсурд...
 
-# Original: Hmm, this subject doth remind me of a case Lord Siegfried had once resolved.
+# Don Quixote: Hmm, this subject doth remind me of a case Lord Siegfried had once resolved.
 Дон Кихот: Хмм, эта тема напоминает мне об одном деле, которое некогда разрешил лорд Зигфрид.
 
-# Original: A battle atop a bridge, it was! Back then, the villains suggested a compromise most devious, not unlike the one suggested by the wicked ones who inhabit this place.
+# Don Quixote: A battle atop a bridge, it was! Back then, the villains suggested a compromise most devious, not unlike the one suggested by the wicked ones who inhabit this place.
 Дон Кихот: То была битва на мосту! Тогда злодеи предложили весьма коварный компромисс, мало чем отличающийся от того, что предлагают нечестивцы, населяющие это место.
 
-# Original: They sought to seduce him with promises of riches and power, to have him stand with them!
+# Don Quixote: They sought to seduce him with promises of riches and power, to have him stand with them!
 Дон Кихот: Они пытались соблазнить его обещаниями богатства и власти, чтобы он встал на их сторону!
 
-# Original: Yet Lord Siegfried refused to bend his knee!
+# Don Quixote: Yet Lord Siegfried refused to bend his knee!
 Дон Кихот: Но лорд Зигфрид отказался преклонить колено!
 
-# Original: He answered their suggestion with but a mighty socking against the villain's jaw...!
+# Don Quixote: He answered their suggestion with but a mighty socking against the villain's jaw...!
 Дон Кихот: Он ответил на их предложение лишь могучим ударом в челюсть злодея...!
 
-# Original: Oh, that one-hour edit of the 'battle'? Wasn't it pretty obvious that it was staged—
+# Ishmael: Oh, that one-hour edit of the 'battle'? Wasn't it pretty obvious that it was staged—
 Измаил: О, та часовая нарезка "битвы"? Разве не было очевидно, что это постанова—
 
-# Original: ... and declared thusly!
+# Don Quixote: ... and declared thusly!
 Дон Кихот: ... и объявил так!
 
-# Original: 'Thou shan't make a purchasable product of I, Siegfried, with thy contemptible money!'
+# Don Quixote: 'Thou shan't make a purchasable product of I, Siegfried, with thy contemptible money!'
 Дон Кихот: 'Не превратить тебе меня, Зигфрида, в продукт на продажу своими презренными деньгами!'
 
-# Original: AND! Fired off his super special laser beam cannon at the villain! ZWAAAAAHHHH—
+# Don Quixote: AND! Fired off his super special laser beam cannon at the villain! ZWAAAAAHHHH—
 Дон Кихот: И! Выпустил свой суперособый лазерный луч в злодея! ЗВААААХХХ—
 
-# Original: Attention, men.
+# Outis: Attention, men.
 Отис: Внимание, бойцы.
 
-# Original: ... A timely intervention from Outis put a stop to Don Quixote's story.
+# Narrator: ... A timely intervention from Outis put a stop to Don Quixote's story.
 Рассказчик: ... Своевременное вмешательство Отис прервало рассказ Дон Кихот.
 
-# Original: There are remains of Bloodbags strewn about in close proximity to this attraction.
+# Outis: There are remains of Bloodbags strewn about in close proximity to this attraction.
 Отис: Поблизости от этого аттракциона разбросаны останки Кровососов.
 
-# Original: It's called... let's see. 'Haunted: Bloody Mary'...
+# Outis: It's called... let's see. 'Haunted: Bloody Mary'...
 Отис: Он называется... давайте посмотрим. 'Призрак: Кровавая Мэри'...
 
-# Original: Hm. Is this one of those, uh, 'haunted mansion' attractions?
+# Rodion: Hm. Is this one of those, uh, 'haunted mansion' attractions?
 Родион: Хм. Это один из тех, эм, аттракционов-"домов с привидениями"?
 
-# Original: Hey, Sinclair. Do ya think these haunted mansions have actual—
+# Rodion: Hey, Sinclair. Do ya think these haunted mansions have actual—
 Родион: Эй, Синклер. Как думаешь, в этих домах с привидениями есть настоящие—
 
-# Original: S-stop right there! Hey, my parents took me to an amusement park too, okay? S-so don't think you can use this to tease me or scare me like—
+# Sinclair: S-stop right there! Hey, my parents took me to an amusement park too, okay? S-so don't think you can use this to tease me or scare me like—
 Синклер: С-стоп! Эй, мои родители тоже водили меня в парки развлечений, ясно? Т-так что не думай, что можешь использовать это, чтобы подразнить меня или напугать, как—
 
-# Original: ... It was a genuine question. I've never been to an amusement park, you know.
+# Rodion: ... It was a genuine question. I've never been to an amusement park, you know.
 Родион: ... Это был искренний вопрос. Я никогда не была в парках развлечений, знаешь ли.
 
-# Original: Ahh...
+# Yi Sang: Ahh...
 И Сан: Ах...
 
-# Original: I-I'm sorry.
+# Sinclair: I-I'm sorry.
 Синклер: П-прости.
 
-# Original: Eh, don'tcha worry about it! So, do these places actually have ghosts or nah?
+# Rodion: Eh, don'tcha worry about it! So, do these places actually have ghosts or nah?
 Родион: Эй, не волнуйся об этом! Так что, в этих местах действительно есть привидения или нет?
 
-# Original: I-I'm fairly sure they have some pretty cheap-looking animatronics or mannequins at worst.
+# Sinclair: I-I'm fairly sure they have some pretty cheap-looking animatronics or mannequins at worst.
 Синклер: Я-я почти уверен, что там в худшем случае есть довольно дешёво выглядящие аниматроники или манекены.
 
-# Original: As attractions of that category often admit guests of all ages, including children, they do not place real paranatural entities such as ghosts inside them. However, they often install various tools and visual effects to stimulate fear responses in their guests.
+# Meursault: As attractions of that category often admit guests of all ages, including children, they do not place real paranatural entities such as ghosts inside them. However, they often install various tools and visual effects to stimulate fear responses in their guests.
 Мерсо: Поскольку аттракционы этой категории часто принимают посетителей всех возрастов, включая детей, они не размещают внутри реальные паранормальные сущности, такие как призраки. Однако они часто устанавливают различные инструменты и визуальные эффекты для стимуляции реакции страха у своих гостей.
 
-# Original: Yeah, these are usually family attractions.
+# Sinclair: Yeah, these are usually family attractions.
 Синклер: Да, обычно это семейные аттракционы.
 
-# Original: <color=#cc2424>Where's your family? Your siblings?</color>
+# Narrator: <color=#cc2424>Where's your family? Your siblings?</color>
 Рассказчик: <color=#cc2424>Где твоя семья? Твои братья и сёстры?</color>
 
-# Original: <color=#ffef23>I never had anyone, not even on the day I was born. I've only known... the cold... the loneliness...</color>
+# Narrator: <color=#ffef23>I never had anyone, not even on the day I was born. I've only known... the cold... the loneliness...</color>
 Рассказчик: <color=#ffef23>У меня никогда никого не было, даже в день моего рождения. Я знала только... холод... одиночество...</color>
 
-# Original: <color=#cc2424>Then let me…</color>
+# Narrator: <color=#cc2424>Then let me…</color>
 Рассказчик: <color=#cc2424>Тогда позволь мне…</color>
 
-# Original: <color=#cc2424>... grant you the will to live.</color>
+# Narrator: <color=#cc2424>... grant you the will to live.</color>
 Рассказчик: <color=#cc2424>... даровать тебе волю к жизни.</color>
 
-# Original: <color=#cc2424>The family I shall grant you will forever be by your side. Come with me.</color>
+# Narrator: <color=#cc2424>The family I shall grant you will forever be by your side. Come with me.</color>
 Рассказчик: <color=#cc2424>Семья, которую я тебе дарую, будет всегда рядом с тобой. Иди со мной.</color>

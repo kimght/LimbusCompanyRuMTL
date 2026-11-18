@@ -1,143 +1,143 @@
-﻿# Original: ...Yes, I have visual confirmation.
+﻿# Faust: ...Yes, I have visual confirmation.
 Фауст: …Да, это подтверждено.
 
-# Original: Reporting: Gregor on proximity protection has successfully neutralized the hostiles.
+# Faust: Reporting: Gregor on proximity protection has successfully neutralized the hostiles.
 Фауст: Сообщаю: Грегор, в порядке исполнения обязанностей по личной защите, успешно нейтрализовал противников.
 
-# Original: The child was busy communicating with someone else on the line.
+# Narrator: The child was busy communicating with someone else on the line.
 Рассказчик: Дитя было занято разговором с кем-то по средству связи.
 
-# Original: She did not forget to diligently observe her surroundings while doing so, of course.
+# Narrator: She did not forget to diligently observe her surroundings while doing so, of course.
 Рассказчик: В течении разговора, однако, оно ни на секунду не отвлекалось от обстановки вокруг.
 
-# Original: Relaying to Rodion and Heathcliff. Reporting in a situation from proximity protection. Please continue to be on guard for hostile reinforcements.
+# Faust: Relaying to Rodion and Heathcliff. Reporting in a situation from proximity protection. Please continue to be on guard for hostile reinforcements.
 Фауст: Родя, передайте информацию Хитклифу. Стали происходить ситуации, затрагивающие личную безопасность клиентов. Пожалуйста, отслеживайте возможное подкрепление вражеских сил.
 
-# Original: This is appointed-persons protection. Acknowledged~
+# Rodion: This is appointed-persons protection. Acknowledged~
 Родион: Защита определённых лиц, вас поняли~
 
-# Original: Ugh, hey! Don't eat all the donuts, leave some for me!
+# Rodion: Ugh, hey! Don't eat all the donuts, leave some for me!
 Родион: Эй, стой! Все пончики-то не ешь, мне оставь!
 
-# Original: ...If you need extra provisions, you may report the costs as additional expenses.
+# Faust: ...If you need extra provisions, you may report the costs as additional expenses.
 Фауст: …Если вам нужна дополнительная провизия, можете подать запрос о дополнительных затратах.
 
-# Original: Ooh! You serious? Gotcha~ Signing off!
+# Rodion: Ooh! You serious? Gotcha~ Signing off!
 Родион: О-о! Реально? Понятненько~ Конец связи!
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: Did you just sigh, Faust?
+# Ishmael: Did you just sigh, Faust?
 Измаил: Это сейчас раздражение было в вашем вздохе, Фауст?
 
-# Original: No. Faust merely exhaled more forcefully for a moment.
+# Faust: No. Faust merely exhaled more forcefully for a moment.
 Фауст: Нет. Дыхание Фауст просто лишь на мгновение стало интенсивнее.
 
-# Original: I'm not saying that there's anything wrong with that, it's just... it's been a while since you've shown a genuine reaction to anything.
+# Ishmael: I'm not saying that there's anything wrong with that, it's just... it's been a while since you've shown a genuine reaction to anything.
 Измаил: Я под этим ничего не хочу сказать… Но просто давно не видела, чтобы вы имели подлинную реакцию на что-либо.
 
-# Original: The other child snickered before producing a notepad.
+# Narrator: The other child snickered before producing a notepad.
 Рассказчик: Дитя слегка хихикнуло и достало блокнот.
 
-# Original: ...There is no need to record something like this, Ishmael.
+# Faust: ...There is no need to record something like this, Ishmael.
 Фауст: …Нет необходимости записывать всё это, Измаил.
 
-# Original: It's our job to observe and record every event during a territory protection contract, isn't it?
+# Ishmael: It's our job to observe and record every event during a territory protection contract, isn't it?
 Измаил: Разве это не наша работа — отслеживать и фиксировать всё, что происходит во время территориальной защиты?
 
-# Original: I am not some observation target.
+# Faust: I am not some observation target.
 Фауст: Я не являюсь целью защиты…
 
-# Original: Hey, Don Quixote is on the move.
+# Ishmael: Hey, Don Quixote is on the move.
 Измаил: А-а, Дон Кихот в движении.
 
-# Original: ...Hm.
+# Faust: ...Hm.
 Фауст: …Хм.
 
-# Original: While the other child scribbled in her notepad, this child breathed warily and began to fiddle with the panel in her hands.
+# Narrator: While the other child scribbled in her notepad, this child breathed warily and began to fiddle with the panel in her hands.
 Рассказчик: Пока другое дитя что-то писало в своём блокноте, это дитя с подозрением вздохнуло и сразу же начало возиться с терминалом в руке.
 
-# Original: To Sinclair. Have you noticed any suspicious individuals entering the territory?
+# Faust: To Sinclair. Have you noticed any suspicious individuals entering the territory?
 Фауст: Синклер, вами были замечены подозрительные лица, что зашли на периметр?
 
-# Original: Uh... That's uh...
+# Sinclair: Uh... That's uh...
 Синклер: А-а… Ну…
 
-# Original: Don Quixote is advancing... somewhere.
+# Faust: Don Quixote is advancing... somewhere.
 Фауст: Нами замечено передвижение Дон Кихот… в неопределённом направлении.
 
-# Original: T–that's, uh, she thought some people were tailing our client, so she said we should follow them.
+# Sinclair: T–that's, uh, she thought some people were tailing our client, so she said we should follow them.
 Синклер: П-просто ей… показалось, будто за клиентом увязался хвост, и она сказала, что стоит проследовать за ними.
 
-# Original: And I... agree with her. We're the Zwei, our client's shield.
+# Sinclair: And I... agree with her. We're the Zwei, our client's shield.
 Синклер: И я с ней… я с ней согласен. Мы «Цвай»… щиты для наших клиентов.
 
-# Original: The client has already made contact with the hostiles. They appear to be forces from outside the territory...
+# Faust: The client has already made contact with the hostiles. They appear to be forces from outside the territory...
 Фауст: Клиент уже вошёл в контакт с вражескими силами. А упомянутая вами сторона оценивается как вторженцы со стороны…
 
-# Original: Oh, someone's moving in on Don Quixote's position.
+# Ishmael: Oh, someone's moving in on Don Quixote's position.
 Измаил: О, в том месте, где сейчас Дон Кихот, кто-то двигается.
 
-# Original: ...Sinclair, immediately move to Don Quixote's position and provide support. Section 6, follow the plan and focus on neutralizing any and all external forces.
+# Faust: ...Sinclair, immediately move to Don Quixote's position and provide support. Section 6, follow the plan and focus on neutralizing any and all external forces.
 Фауст: …Синклер, сию же секунду направляйтесь в сторону Дон Кихот и окажите ей поддержку. Шестая секция, на вас будет нейтрализация вторгающихся со стороны сил.
 
-# Original: Ah! That fast... Roger that!
+# Sinclair: Ah! That fast... Roger that!
 Синклер: Ого, так быстро… Да! Вас понял!
 
-# Original: ...This turned out to be a pretty big operation, huh?
+# Ishmael: ...This turned out to be a pretty big operation, huh?
 Измаил: …Эта операция становится всё закрученнее и закрученнее.
 
-# Original: While a joint operation isn't strictly uncommon, it's not quotidian, either.
+# Faust: While a joint operation isn't strictly uncommon, it's not quotidian, either.
 Фауст: Совместные операции не так уж и редки, но и не распространены.
 
-# Original: If sections 4, 5, and 6 are all being deployed at once, it is most likely because there will be a conflict of an equivalent scale.
+# Faust: If sections 4, 5, and 6 are all being deployed at once, it is most likely because there will be a conflict of an equivalent scale.
 Фауст: Причина созыва четвёртой, пятой и шестой секции весьма вероятно скрывалась в ожидании соразмерного конфликта.
 
-# Original: For example...
+# Faust: For example...
 Фауст: Например, существует вероятность, что…
 
-# Original: Huh, speak of the devil.
+# Ishmael: Huh, speak of the devil.
 Измаил: Ха, помяни дьявола.
 
-# Original: Indeed. Such occurrences would warrant it.
+# Faust: Indeed. Such occurrences would warrant it.
 Фауст: Воистину. Может произойти это.
 
-# Original: What could the two children have seen?
+# Narrator: What could the two children have seen?
 Рассказчик: На что же могли смотреть эти дети?
 
-# Original: It must be the horde of hostile forces ganging up on the customer, or "client" as they call them.
+# Narrator: It must be the horde of hostile forces ganging up on the customer, or "client" as they call them.
 Рассказчик: Наверное… они заметили целую толпу негодяев, собирающуюся навалять их заказчику или же, как они его называют, "клиенту".
 
-# Original: I have visual confirmation of overwhelming hostile forces converging in the area. Faust, commencing on-the-ground protection.
+# Faust: I have visual confirmation of overwhelming hostile forces converging in the area. Faust, commencing on-the-ground protection.
 Фауст: Визуально подтверждаю наличие чрезмерного увеличения количества вражеских сил в близлежащей территории. Фауст переходит к защите в ближнем бою.
 
-# Original: Understood. Please direct further reports to Ishmael's side.
+# Faust: Understood. Please direct further reports to Ishmael's side.
 Фауст: Принято. Прошу дальнейшую информацию предоставлять Измаил.
 
-# Original: Disconnecting from the comms, the child threw on the Zwei's coat.
+# Narrator: Disconnecting from the comms, the child threw on the Zwei's coat.
 Рассказчик: Отключившись от связи, дитя накинуло на себя пальто «Цвай».
 
-# Original: When she arrived, every corner of the alleway was already filled with enemies.
+# Narrator: When she arrived, every corner of the alleyway was already filled with enemies.
 Рассказчик: Когда оно прибыло на место, переулок уже просто кишел врагами.
 
-# Original: *Beep*
+# Narrator: *Beep*
 Рассказчик: Бип.
 
-# Original: Are you... from the Zwei?
+# Shady Dealer: Are you... from the Zwei?
 Рассказчик: Ты что ль… из «Цвай»?
 
-# Original: Correct. We are the shield of our client.
+# Faust: Correct. We are the shield of our client.
 Фауст: Верно, мы щиты для наших клиентов.
 
-# Original: Where the hell are you Zwei bastards even coming from... Mess 'er up!
+# Shady Dealer: Where the hell are you Zwei bastards even coming from... Mess 'er up!
 Рассказчик: Да откуда они вообще берутся… Разберитесь с ней!
 
-# Original: The child took up her Zweihänder handily, as though it was an extension of her arm...
+# Narrator: The child took up her Zweihänder handily, as though it was an extension of her arm...
 Рассказчик: Дитя подняло свой цвайхендер так, будто тот был продолжением её руки…
 
-# Original: Faust, moving to protect.
+# Faust: Faust, moving to protect.
 Фауст: Фауст начинает миссию по защите.
 
-# Original: ...and muttered impassively before charging forward.
+# Narrator: ...and muttered impassively before charging forward.
 Рассказчик: …Сказало дитя сухо, но при этом как ни в чём ни бывало, после чего пошло в атаку.

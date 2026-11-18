@@ -1,68 +1,68 @@
-﻿# Original: ... Jeanne. I would like to know more about the conditions to triggering the Liquidation event.
+﻿# Meursault: ... Jeanne. I would like to know more about the conditions to triggering the Liquidation event.
 Мерсо: ...Жанна. Я хотел бы подробнее узнать об условиях, при которых запускается Ликвидация.
 
-# Original: <color=#ebcaa2>Fuhu, ma puce... This is the first time you've decided to call me in here.</color>
+# Narrator: <color=#ebcaa2>Fuhu, ma puce... This is the first time you've decided to call me in here.</color>
 Рассказчик: <color=#ebcaa2>Хи-хи, <i>ма пюс</i>... Ты впервые сам решил позвать меня сюда.</color>
 
-# Original: <color=#ebcaa2>The answer is pretty simple, actually. When the Grand Magasin stops producing Canned Experiences that meet its quality standards, when its output is reduced to useless dregs no one would buy... that's when Liquidation occurs.</color>
+# Narrator: <color=#ebcaa2>The answer is pretty simple, actually. When the Grand Magasin stops producing Canned Experiences that meet its quality standards, when its output is reduced to useless dregs no one would buy... that's when Liquidation occurs.</color>
 Рассказчик: <color=#ebcaa2>Ответ, вообще-то, довольно простой. Когда Гран-Магазэн перестаёт выпускать Консервированный опыт, который отвечает его стандартам качества, когда вся продукция превращается в никому не нужные объедки... вот тогда и наступает Ликвидация.</color>
 
-# Original: ... Does the Liquidation process entail rewinding time?
+# Meursault: ... Does the Liquidation process entail rewinding time?
 Мерсо: ...Включает ли процесс Ликвидации откат времени?
 
-# Original: <color=#ebcaa2>Nope. Time loops are more trouble than they're worth—gotta make arrangements with T Corp., somehow secure a consistent and massive supply of energy... It's especially impractical now that we can't rely on Lobotomy Corporation for that last part, what with its downfall and all.</color>
+# Narrator: <color=#ebcaa2>Nope. Time loops are more trouble than they're worth—gotta make arrangements with T Corp., somehow secure a consistent and massive supply of energy... It's especially impractical now that we can't rely on Lobotomy Corporation for that last part, what with its downfall and all.</color>
 Рассказчик: <color=#ebcaa2>Не-а. От временных петель больше хлопот, чем пользы: надо договариваться с Корпорацией T, как-то обеспечивать стабильные и большие поставки энергии... А теперь, когда на Корпорацию Лоботомия в последнем вопросе не положишься, раз уж она пала, это и вовсе непрактично.</color>
 
-# Original: <color=#ebcaa2>Instead, Grand Magasin Sisyphe has chosen to simply... wipe the memories of every customer imprisoned within. It's a relatively simple process, not to mention much, much cheaper. It's a total system reboot, if you will.</color>
+# Narrator: <color=#ebcaa2>Instead, Grand Magasin Sisyphe has chosen to simply... wipe the memories of every customer imprisoned within. It's a relatively simple process, not to mention much, much cheaper. It's a total system reboot, if you will.</color>
 Рассказчик: <color=#ebcaa2>Поэтому Гран-Магазэн Сизиф решил просто... стирать память всем покупателям, запертым внутри. Процесс сравнительно несложный и к тому же намного, намного дешевле. Полная перезагрузка системы, если угодно.</color>
 
-# Original: <It's just a memory wipe...? So that's why we didn't lose our purchases or the Prestige Tier.>
+# Dante: <It's just a memory wipe...? So that's why we didn't lose our purchases or the Prestige Tier.>
 Данте: <Всего лишь стирание памяти...? Так вот почему мы не лишились покупок и Уровня престижа.>
 
-# Original: <color=#ebcaa2>Unfortunately, we can't do a complete reset, which would bring the Grand Magasin back to its very beginning...</color>
+# Narrator: <color=#ebcaa2>Unfortunately, we can't do a complete reset, which would bring the Grand Magasin back to its very beginning...</color>
 Рассказчик: <color=#ebcaa2>К сожалению, полный сброс, который вернул бы Гран-Магазэн к самому началу, нам недоступен...</color>
 
-# Original: <color=#ebcaa2>The seats of all four Giants need to be filled for that process.</color>
+# Narrator: <color=#ebcaa2>The seats of all four Giants need to be filled for that process.</color>
 Рассказчик: <color=#ebcaa2>Для этого нужно, чтобы все четыре места Гигантов были заняты.</color>
 
-# Original: <color=#ebcaa2>With the present vacancy among the Giants... we've only been able to reset up to a certain point in time, which means that the Canned Experience production rate hasn't been able to match our potential output for a while.</color>
+# Narrator: <color=#ebcaa2>With the present vacancy among the Giants... we've only been able to reset up to a certain point in time, which means that the Canned Experience production rate hasn't been able to match our potential output for a while.</color>
 Рассказчик: <color=#ebcaa2>Пока среди Гигантов пустует место... мы можем откатываться только до определённого момента, а значит, производство Консервированного опыта уже давно не дотягивает до наших полных возможностей.</color>
 
-# Original: <color=#ebcaa2>Oh, and don't you two worry—I made sure that only you and your... Manager with that extraordinary hairdo can hear my voice, since you two are trying to keep this between us. Aren't I so thoughtful?</color>
+# Narrator: <color=#ebcaa2>Oh, and don't you two worry—I made sure that only you and your... Manager with that extraordinary hairdo can hear my voice, since you two are trying to keep this between us. Aren't I so thoughtful?</color>
 Рассказчик: <color=#ebcaa2>Ах да, не волнуйтесь, вы двое: я позаботилась, чтобы мой голос слышали только ты и твой... Менеджер с этой потрясающей причёской, раз уж вы хотите, чтобы всё осталось между нами. Правда, я очень заботливая?</color>
 
-# Original: <... I appreciate that.>
+# Dante: <... I appreciate that.>
 Данте: <...Спасибо за это.>
 
-# Original: The Manager expresses their appreciation.
+# Meursault: The Manager expresses their appreciation.
 Мерсо: Менеджер выражает свою признательность.
 
-# Original: <color=#ebcaa2>Fuhu. I do have a piece of advice for a polite clock like you...</color>
+# Narrator: <color=#ebcaa2>Fuhu. I do have a piece of advice for a polite clock like you...</color>
 Рассказчик: <color=#ebcaa2>Хи-хи. У меня есть совет для таких вежливых часов, как ты...</color>
 
-# Original: <color=#ebcaa2>I see that you're trying to make different choices from your last attempt, but let me save you the time and effort: it won't matter.</color>
+# Narrator: <color=#ebcaa2>I see that you're trying to make different choices from your last attempt, but let me save you the time and effort: it won't matter.</color>
 Рассказчик: <color=#ebcaa2>Я вижу, ты пытаешься поступать иначе, чем в прошлый раз, но позволь сберечь тебе время и силы: это ничего не изменит.</color>
 
-# Original: <color=#ebcaa2>What do you think the end of the Grand Magasin will look like, ma puce?</color>
+# Narrator: <color=#ebcaa2>What do you think the end of the Grand Magasin will look like, ma puce?</color>
 Рассказчик: <color=#ebcaa2>Как думаешь, каким будет конец Гран-Магазэна, <i>ма пюс</i>?</color>
 
-# Original: ... I do not know. I am only following the Manager's judgment.
+# Meursault: ... I do not know. I am only following the Manager's judgment.
 Мерсо: ...Я не знаю. Я лишь следую суждению Менеджера.
 
-# Original: <color=#ebcaa2>But it's <i>your</i> judgment that I'm curious about.</color>
+# Narrator: <color=#ebcaa2>But it's <i>your</i> judgment that I'm curious about.</color>
 Рассказчик: <color=#ebcaa2>Но мне любопытно <i>твоё</i> суждение.</color>
 
-# Original: <color=#ebcaa2>Fine. Then let me free that judgment trapped behind your teeth, since you're being annoyingly tight-lipped about it.</color>
+# Narrator: <color=#ebcaa2>Fine. Then let me free that judgment trapped behind your teeth, since you're being annoyingly tight-lipped about it.</color>
 Рассказчик: <color=#ebcaa2>Ладно. Раз уж ты, к моей досаде, держишь язык за зубами, давай я сама выпущу это суждение наружу.</color>
 
-# Original: <color=#ebcaa2>"This Grand Magasin has a predetermined end."</color>
+# Narrator: <color=#ebcaa2>"This Grand Magasin has a predetermined end."</color>
 Рассказчик: <color=#ebcaa2>«Конец этого Гран-Магазэна предопределён».</color>
 
-# Original: <color=#ebcaa2>"We can keep searching, keep trying, keep struggling—but it won't change how it ends. Which makes everything we're doing... everything we're racking our brains to solve... simply pointless."</color>
+# Narrator: <color=#ebcaa2>"We can keep searching, keep trying, keep struggling—but it won't change how it ends. Which makes everything we're doing... everything we're racking our brains to solve... simply pointless."</color>
 Рассказчик: <color=#ebcaa2>«Можно сколько угодно искать, пытаться, бороться — финал от этого не изменится. А значит, всё, что мы делаем... всё, над чем ломаем голову... попросту бессмысленно».</color>
 
-# Original: …….
+# Meursault: …….
 Мерсо: …….
 
-# Original: <color=#ebcaa2>Hey, why don't you... go on a shopping spree instead? Make yourself stand out to the world. Come on, you're in a department store for heaven's sake!</color>
+# Narrator: <color=#ebcaa2>Hey, why don't you... go on a shopping spree instead? Make yourself stand out to the world. Come on, you're in a department store for heaven's sake!</color>
 Рассказчик: <color=#ebcaa2>Слушай, а почему бы тебе вместо этого... не пройтись по магазинам как следует? Покажи себя миру. Ну же, ты ведь, в конце концов, в торговом центре!</color>

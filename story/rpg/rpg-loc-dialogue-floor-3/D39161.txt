@@ -1,35 +1,35 @@
-﻿# Original: W-wait, isn't this just straight-up thievery?
+﻿# Sinclair: W-wait, isn't this just straight-up thievery?
 Синклер: П-погодите, разве это не самое настоящее воровство?
 
-# Original: A more accurate designation for this strategy would be "field requisition tactics."
+# Outis: A more accurate designation for this strategy would be "field requisition tactics."
 Отис: Более точным обозначением этой стратегии будет «тактика полевой реквизиции».
 
-# Original: <color=#ebcaa2>I don't know, this strategy probably falls under the designation we call "larceny" here.</color>
+# Narrator: <color=#ebcaa2>I don't know, this strategy probably falls under the designation we call "larceny" here.</color>
 Рассказчик: <color=#ebcaa2>Не знаю, у нас такая стратегия, пожалуй, подпадает под определение «хищения».</color>
 
-# Original: ... *cough*
+# Outis: ... *cough*
 Отис: ... *кхм*
 
-# Original: <Wait, we're not allowed to take eyeballs from cash registers? What about all those Mannequins we kill—I mean, "helped to the exit"?>
+# Sinclair: <Wait, we're not allowed to take eyeballs from cash registers? What about all those Mannequins we kill—I mean, "helped to the exit"?>
 Синклер: <Погодите, нам нельзя брать глазные яблоки из касс? А как же все те Манекены, которых мы уби… то есть «проводили к выходу»?>
 
-# Original: <color=#ebcaa2>Fuhu, you mean "criminal damage to property"?</color>
+# Narrator: <color=#ebcaa2>Fuhu, you mean "criminal damage to property"?</color>
 Рассказчик: <color=#ebcaa2>Фу-ху, ты об «умышленном повреждении имущества»?</color>
 
-# Original: There are no criminal designations or legal framework for punishment for such behavior in the Grand Magasin, Manager.
+# Meursault: There are no criminal designations or legal framework for punishment for such behavior in the Grand Magasin, Manager.
 Мерсо: В Гран-Магазэне подобное поведение не квалифицируется как преступление, и правовые основания для наказания отсутствуют, Менеджер.
 
-# Original: <color=#ebcaa2>*scoff* You're no fun. Why would you tell them that?</color>
+# Narrator: <color=#ebcaa2>*scoff* You're no fun. Why would you tell them that?</color>
 Рассказчик: <color=#ebcaa2>*фыркает* С тобой никакого веселья. Зачем ты им это сказал?</color>
 
-# Original: <color=#ebcaa2>Take it. It doesn't belong to anyone, anyway.</color>
+# Narrator: <color=#ebcaa2>Take it. It doesn't belong to anyone, anyway.</color>
 Рассказчик: <color=#ebcaa2>Бери. Всё равно они ничьи.</color>
 
-# Original: <color=#ebcaa2>And you...</color>
+# Narrator: <color=#ebcaa2>And you...</color>
 Рассказчик: <color=#ebcaa2>А ты...</color>
 
-# Original: <color=#ebcaa2>Still haven't figured out jokes, have you?</color>
+# Narrator: <color=#ebcaa2>Still haven't figured out jokes, have you?</color>
 Рассказчик: <color=#ebcaa2>Так и не научился понимать шутки, да?</color>
 
-# Original: ..."Field requisitioned" some eyeballs.
+# Narrator: ..."Field requisitioned" some eyeballs.
 Рассказчик: ...Мы провели «полевую реквизицию» нескольких глазных яблок.

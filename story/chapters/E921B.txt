@@ -1,296 +1,296 @@
-﻿# Original: Ah... I know who you're looking for.
+﻿# Bakery Owner: Ah... I know who you're looking for.
 Хозяйка пекарни: А-а... Я знаю, кого вы ищете.
 
-# Original: The owner of the bakery was a woman holding the same wicker basket as the one in the photograph. She took one glance at the picture I held up for her and gave a quick nod.
+# Narrator: The owner of the bakery was a woman holding the same wicker basket as the one in the photograph. She took one glance at the picture I held up for her and gave a quick nod.
 Рассказчик: Хозяйкой пекарни оказалась женщина с точно такой же плетёной корзиной, как на фотографии. Она бросила один взгляд на снимок, который я ей показал, и быстро кивнула.
 
-# Original: This man... he works in Cannery-17 right next. He's a regular.
+# Bakery Owner: This man... he works in Cannery-17 right next. He's a regular.
 Хозяйка пекарни: Этот человек... он работает на Консервном заводе-17 по соседству. Он мой постоянный покупатель.
 
-# Original: He used to drop by every morning to buy sandwiches to share with his coworkers. Haven't seen him around lately, though.
+# Bakery Owner: He used to drop by every morning to buy sandwiches to share with his coworkers. Haven't seen him around lately, though.
 Хозяйка пекарни: Раньше он заходил каждое утро за сэндвичами, чтобы поделиться с коллегами. Правда, в последнее время я его что-то не видела.
 
-# Original: And those coworkers, I assume they were wearing the same uniform?
+# Outis: And those coworkers, I assume they were wearing the same uniform?
 Отис: И эти коллеги, полагаю, носили ту же форму?
 
-# Original: Asking the question on my behalf, Outis showed the baker another photograph.
+# Narrator: Asking the question on my behalf, Outis showed the baker another photograph.
 Рассказчик: Задав этот вопрос от моего имени, Отис показала пекарю другую фотографию.
 
-# Original: Probably? He was always wearing one, too. I'd guess it's the Cannery uniform.
+# Bakery Owner: Probably? He was always wearing one, too. I'd guess it's the Cannery uniform.
 Хозяйка пекарни: Наверное? Он и сам всегда в такой ходил. Думаю, это форма Консервного завода.
 
-# Original: This confirms our lead, Executive Manager. A few inquiries at that Cannery should bring us to the information we need.
+# Outis: This confirms our lead, Executive Manager. A few inquiries at that Cannery should bring us to the information we need.
 Отис: Это подтверждает нашу зацепку, Исполнительный Менеджер. Несколько вопросов на том Консервном заводе должны привести нас к нужным сведениям.
 
-# Original: <Yeah, you're right. But...>
+# Dante: <Yeah, you're right. But...>
 Данте: <Да, ты права. Но...>
 
-# Original: <... It's just that she doesn't seem very concerned at all. She's one of the people in the photos that weren't affected by the Distortion, right? Thought she'd be a close acquaintance...>
+# Dante: <... It's just that she doesn't seem very concerned at all. She's one of the people in the photos that weren't affected by the Distortion, right? Thought she'd be a close acquaintance...>
 Данте: <...Просто она, кажется, совсем не переживает. Она ведь одна из тех людей на фото, кого не затронуло Искажение, верно? Я думал, они близкие знакомые...>
 
-# Original: Allow me to verify, Executive Manager.
+# Outis: Allow me to verify, Executive Manager.
 Отис: Позвольте мне проверить это, Исполнительный Менеджер.
 
-# Original: Do you know the name of this regular you spoke of?
+# Outis: Do you know the name of this regular you spoke of?
 Отис: Знаете ли вы имя этого постоянного покупателя, о котором говорили?
 
-# Original: His name? Am I supposed to know that?
+# Bakery Owner: His name? Am I supposed to know that?
 Хозяйка пекарни: Его имя? С чего бы мне его знать?
 
-# Original: Though I wasn't expecting her to actually know his name, the apathy evident in her voice gave me pause.
+# Narrator: Though I wasn't expecting her to actually know his name, the apathy evident in her voice gave me pause.
 Рассказчик: Хотя я и не ожидал, что она действительно знает его имя, явное равнодушие в её голосе заставило меня насторожиться.
 
-# Original: He took a photo of you. Wouldn't it be reasonable to assume that you're well-acquainted with him?
+# Outis: He took a photo of you. Wouldn't it be reasonable to assume that you're well-acquainted with him?
 Отис: Он сфотографировал вас. Разве не разумно предположить, что вы хорошо с ним знакомы?
 
-# Original: Oh, that.
+# Bakery Owner: Oh, that.
 Хозяйка пекарни: О, вы об этом.
 
-# Original: The baker's demeanor changed when Outis pressed the point. She gave a strange, unsettling smile before pulling something from her apron pocket.
+# Narrator: The baker's demeanor changed when Outis pressed the point. She gave a strange, unsettling smile before pulling something from her apron pocket.
 Рассказчик: Поведение пекаря изменилось, стоило Отис настоять на своём. Она странно, пугающе улыбнулась, а затем достала что-то из кармана фартука.
 
-# Original: A thin and round... can-like object.
+# Narrator: A thin and round... can-like object.
 Рассказчик: Тонкий круглый... предмет, похожий на жестянку.
 
-# Original: He said he'd give me five of these Canned Experiences for free if I let him take my picture. Even said he'd throw in the Docugraph of the building of my choice!
+# Bakery Owner: He said he'd give me five of these Canned Experiences for free if I let him take my picture. Even said he'd throw in the Docugraph of the building of my choice!
 Хозяйка пекарни: Он пообещал бесплатно дать мне пять банок Консервированного опыта, если я разрешу себя сфотографировать. Даже сказал, что накинет докуграф любого здания на мой выбор!
 
-# Original: He Docugraphs buildings, right? I hear he even takes work trips to the Nest every now and then. So I asked him to get me a Docugraph of this lovely mansion I saw by the Nest suburbs.
+# Bakery Owner: He Docugraphs buildings, right? I hear he even takes work trips to the Nest every now and then. So I asked him to get me a Docugraph of this lovely mansion I saw by the Nest suburbs.
 Хозяйка пекарни: Он ведь делает докуграфы зданий, верно? Слышала, он даже время от времени ездит по работе в Гнездо. Вот я и попросила его раздобыть мне докуграф того прелестного особняка, который приметила на окраине Гнезда.
 
-# Original: I know I'll never get to afford a beautiful place like that... But this way, I could at least <i>experience</i> what it's like. And gosh, it was... everything I'd ever hoped for... Hehe...
+# Bakery Owner: I know I'll never get to afford a beautiful place like that... But this way, I could at least <i>experience</i> what it's like. And gosh, it was... everything I'd ever hoped for... Hehe...
 Хозяйка пекарни: Знаю, мне никогда не накопить на такое прекрасное место... Но так я могла бы хотя бы <i>испытать</i>, каково это. И боже, это было... именно то, о чём я всегда мечтала... Хе-хе...
 
-# Original: I couldn't quite put my finger on it, but there was a distinct eeriness to that dreamy, blissful smile on the baker's face that sent a chill down my spine.
+# Narrator: I couldn't quite put my finger on it, but there was a distinct eeriness to that dreamy, blissful smile on the baker's face that sent a chill down my spine.
 Рассказчик: Не могу объяснить почему, но в этой мечтательной, блаженной улыбке на лице пекаря сквозила отчётливая жуть, от которой у меня мурашки побежали по спине.
 
-# Original: Ahem...
+# Outis: Ahem...
 Отис: Кхм...
 
-# Original: Uhm... Young Meursault...
+# Don Quixote: Uhm... Young Meursault...
 Дон Кихот: Хм... Юный Мерсо...
 
-# Original: Are these Canned Experiences truly possessed of such marvels? To pluck all semblance of reason from one's countenance...?
+# Don Quixote: Are these Canned Experiences truly possessed of such marvels? To pluck all semblance of reason from one's countenance...?
 Дон Кихот: Неужто сии банки Консервированного опыта поистине таят в себе подобные чудеса? Дабы лишить лик человеческий всякого подобия разума...?
 
-# Original: They maintain high demand across the City. District 14 is only one of several markets.
+# Meursault: They maintain high demand across the City. District 14 is only one of several markets.
 Мерсо: На них держится высокий спрос по всему Городу. Район 14 — лишь один из нескольких рынков сбыта.
 
-# Original: Dost thou mean... that those who indulge in Canned Experiences may experience venturing on an expedition to the Great Lake and bungee jumping off the summit of that skyscraper yonder as they remain seated where they are?
+# Don Quixote: Dost thou mean... that those who indulge in Canned Experiences may experience venturing on an expedition to the Great Lake and bungee jumping off the summit of that skyscraper yonder as they remain seated where they are?
 Дон Кихот: Неужто ты имеешь в виду... что те, кто предаются Консервированному опыту, вольны пережить поход к Великому Озеру и прыжок на тарзанке с вершины вон того небосвода, не покидая своего места?
 
-# Original: They may. However...
+# Meursault: They may. However...
 Мерсо: Могут. Однако...
 
-# Original: Oho...! A magicked can, allowing one to pursue any dream the heart may conceive! Verily, I confess mine own soul... is much tempted...
+# Don Quixote: Oho...! A magicked can, allowing one to pursue any dream the heart may conceive! Verily, I confess mine own soul... is much tempted...
 Дон Кихот: Охо...! Волшебная жестянка, дозволяющая следовать за любой мечтой, кою помыслит сердце! Истинно признаюсь, душа моя... весьма искушена...
 
-# Original: ... it differs from pursuing a dream.
+# Meursault: ... it differs from pursuing a dream.
 Мерсо: ...это отличается от следования за мечтой.
 
-# Original: Hmm?
+# Don Quixote: Hmm?
 Дон Кихот: Хм?
 
-# Original: Mass-produced Canned Experiences are made from base Experience Batter mixed with various modified information. The resulting end product enables intense stimulation through altered memory. Therefore, it is unlike the "dream" as expressed by Don Quixote.
+# Meursault: Mass-produced Canned Experiences are made from base Experience Batter mixed with various modified information. The resulting end product enables intense stimulation through altered memory. Therefore, it is unlike the "dream" as expressed by Don Quixote.
 Мерсо: Массово производимый Консервированный опыт изготавливается из базового Теста опыта, смешанного с различной изменённой информацией. Конечный продукт обеспечивает сильную стимуляцию посредством искажённых воспоминаний. Следовательно, это не похоже на «мечту» в понимании Дон Кихот.
 
-# Original: A piece of memory refined along the numerous processing stages of the Canneries' production lines is not equivalent to genuine experience. Meaning, the usage of "experience" in her previous statement must also be amended.
+# Meursault: A piece of memory refined along the numerous processing stages of the Canneries' production lines is not equivalent to genuine experience. Meaning, the usage of "experience" in her previous statement must also be amended.
 Мерсо: Фрагмент воспоминания, очищенный на многочисленных этапах обработки производственных линий консервных заводов, не эквивалентен подлинному опыту. Значит, употребление слова «испытать» в её предыдущем высказывании также должно быть исправлено.
 
-# Original: Memories altered for intense simulation... That does sound quite shady.
+# Ishmael: Memories altered for intense simulation... That does sound quite shady.
 Измаил: Воспоминания, изменённые ради сильной стимуляции... Звучит весьма сомнительно.
 
-# Original: Hmm... How doth this cast a shade upon the boons granted by the can? Adventures and tales are, forsooth, inclined toward a little grandeur!
+# Don Quixote: Hmm... How doth this cast a shade upon the boons granted by the can? Adventures and tales are, forsooth, inclined toward a little grandeur!
 Дон Кихот: Хм... Каким же образом сие бросает тень на благость, даруемую сею жестянкой? Приключениям и сказаниям, воистину, свойственна толика величия!
 
-# Original: It is because the memories provided by Canned Experiences are extremely vivid.
+# Meursault: It is because the memories provided by Canned Experiences are extremely vivid.
 Мерсо: Причина в том, что воспоминания, предоставляемые Консервированным опытом, чрезвычайно реалистичны.
 
-# Original: Statistics have shown that users of cans interpret them as authentic experiences and become dependent on them.
+# Meursault: Statistics have shown that users of cans interpret them as authentic experiences and become dependent on them.
 Мерсо: Статистика показывает, что потребители банок воспринимают их как подлинный опыт и попадают в зависимость от них.
 
-# Original: A possible cause of the formation of dependence patterns is that Canned Experiences allow one to feel as if one has achieved a dream that is, in reality, impossible.
+# Meursault: A possible cause of the formation of dependence patterns is that Canned Experiences allow one to feel as if one has achieved a dream that is, in reality, impossible.
 Мерсо: Вероятной причиной формирования моделей зависимости является то, что Консервированный опыт позволяет человеку почувствовать, будто он осуществил мечту, которая в реальности неосуществима.
 
-# Original: Art thou implying... that the users are made content with devouring forged dreams stored in instant-use cans?
+# Don Quixote: Art thou implying... that the users are made content with devouring forged dreams stored in instant-use cans?
 Дон Кихот: Неужто ты клонишь к тому... что потребители довольствуются пожиранием поддельных грёз, сокрытых в банках быстрого приготовления?
 
-# Original: Worse still, the user may no longer strive to chase dreams in the waking world,
+# Yi Sang: Worse still, the user may no longer strive to chase dreams in the waking world,
 И Сан: Что ещё прискорбнее, потребитель может оставить тщетные попытки гнаться за мечтами наяву,
 
-# Original: for the sweeter and more splendidly a dream is embellished, the more impossible it will appear to be grasped with one's own hands.
+# Yi Sang: for the sweeter and more splendidly a dream is embellished, the more impossible it will appear to be grasped with one's own hands.
 И Сан: ибо чем слаще и пышнее приукрашена мечта, тем более недостижимой будет она казаться для рук собственных.
 
-# Original: ... To become a cause for surrender, instead of inciting one to march forth...! Verily, doth it not annul the significance of dreaming itself, if the resultant dream rouseth not the spirit to gallop toward it?!
+# Don Quixote: ... To become a cause for surrender, instead of inciting one to march forth...! Verily, doth it not annul the significance of dreaming itself, if the resultant dream rouseth not the spirit to gallop toward it?!
 Дон Кихот: ...Стать поводом для отречения вместо того, дабы побудить к походу вперёд!.. Воистину, не умаляет ли сие значимость самого мечтания, ежели рождённая мечта не пробуждает дух лететь к ней во весь опор?!
 
-# Original: Whether that annuls its significance, I cannot know.
+# Meursault: Whether that annuls its significance, I cannot know.
 Мерсо: Умаляет ли это её значимость, мне неизвестно.
 
-# Original: But they sell well.
+# Meursault: But they sell well.
 Мерсо: Но продаются они хорошо.
 
-# Original: .......
+# Don Quixote: .......
 Дон Кихот: .......
 
-# Original: So? How much will you be buying?
+# Bakery Owner: So? How much will you be buying?
 Хозяйка пекарни: Ну так что? Сколько будете брать?
 
-# Original: Buy what?
+# Ishmael: Buy what?
 Измаил: Брать что?
 
-# Original: You came barging in with all these questions, and I was patient enough to answer them politely, wasn't I? Don't you think you owe me a sale or two?
+# Bakery Owner: You came barging in with all these questions, and I was patient enough to answer them politely, wasn't I? Don't you think you owe me a sale or two?
 Хозяйка пекарни: Вы заявились сюда со всеми своими расспросами, и я была достаточно терпелива, чтобы вежливо на них ответить, не так ли? Не думаете, что задолжали мне покупку-другую?
 
-# Original: You're not about to leave without buying a single loaf after crowding up my bakery and scaring off my customers, are you...?
+# Bakery Owner: You're not about to leave without buying a single loaf after crowding up my bakery and scaring off my customers, are you...?
 Хозяйка пекарни: Вы ведь не собираетесь уйти, не купив ни единой буханки, после того как столпились в моей пекарне и распугали всех покупателей, а...я?
 
-# Original: ... Her case was on point, actually. With our whole group gathered around, the passersby gave us a wide berth and hurried on, whispering among themselves. Nobody was about to come in and buy bread like that.
+# Narrator: ... Her case was on point, actually. With our whole group gathered around, the passersby gave us a wide berth and hurried on, whispering among themselves. Nobody was about to come in and buy bread like that.
 Рассказчик: ...Вообще-то, тут она была права. Из-за того что мы столпились всей гурьбой, прохожие обходили нас за версту и поспешно удалялись, перешёптываясь между собой. Никто бы не решился зайти за хлебом в такой обстановке.
 
-# Original: C'mon, lady! I practically cleared your shelf already, didn't I?
+# Rodion: C'mon, lady! I practically cleared your shelf already, didn't I?
 Родион: Да ладно тебе, хозяюшка! Я же практически опустошила твою полку, разве нет?
 
-# Original: ... You did? Where the hell are you keepin' all that, then?
+# Heathcliff: ... You did? Where the hell are you keepin' all that, then?
 Хитклиф: ...Опустошила? И где ты, чёрт подери, всё это прячешь?
 
-# Original: Do ya even gotta ask? 'Course I had some already! And the rest is safely tucked in my coat pockets so we can all share later~
+# Rodion: Do ya even gotta ask? 'Course I had some already! And the rest is safely tucked in my coat pockets so we can all share later~
 Родион: А то ты сам не знаешь! Кое-что я уже, конечно же, съела! А остальное надёжно спрятано по карманам пальто, чтобы мы потом поделиться со всеми~
 
-# Original: <So you already ate some...>
+# Dante: <So you already ate some...>
 Данте: <Так ты успела что-то съесть...>
 
-# Original: <Let's buy a little more. It's true we scared off the other customers.>
+# Dante: <Let's buy a little more. It's true we scared off the other customers.>
 Данте: <Давайте купим ещё немного. Мы и вправду распугали остальных покупателей.>
 
-# Original: ... Understood. Given that the expense is made to facilitate this operation, the lack of prior budgeting should not pose a problem.
+# Faust: ... Understood. Given that the expense is made to facilitate this operation, the lack of prior budgeting should not pose a problem.
 Фауст: ...Фауст поняла. Учитывая, что расходы совершаются для содействия данной операции, отсутствие предварительного бюджета не должно стать проблемой.
 
-# Original: Oh, nice! Sesame rice bun for me, please.
+# Bamboo-hatted Kim: Oh, nice! Sesame rice bun for me, please.
 Ким в бамбуковой шляпе: О, отлично! Мне рисовую булочку с кунжутом, пожалуйста.
 
-# Original: <?!>
+# Dante: <?!>
 Данте: <?!>
 
-# Original: ... It was Kim. He really did have a knack for making an entrance at the least expected moments.
+# Narrator: ... It was Kim. He really did have a knack for making an entrance at the least expected moments.
 Рассказчик: ...Это был Ким. У него и вправду был талант появляться в самые неожиданные моменты.
 
-# Original: Hey, Mister! Where have ya been this whole time?!
+# Ezra: Hey, Mister! Where have ya been this whole time?!
 Эзра: Эй, дядька! Где тебя вообще носило всё это время?!
 
-# Original: Wait, wait.
+# Bamboo-hatted Kim: Wait, wait.
 Ким в бамбуковой шляпе: Погоди, погоди.
 
-# Original: ...?
+# Ezra: ...?
 Эзра: ...?
 
-# Original: Be cross with me all you like, but just give me a moment.
+# Bamboo-hatted Kim: Be cross with me all you like, but just give me a moment.
 Ким в бамбуковой шляпе: Злись на меня сколько влезет, но дай мне секунду.
 
-# Original: Ezra paused, waiting in puzzled anticipation...
+# Narrator: Ezra paused, waiting in puzzled anticipation...
 Рассказчик: Эзра замерла, в недоумении ожидая...
 
-# Original: ... only for Kim to take a sesame rice bun from the baker's hands and chomp into it.
+# Narrator: ... only for Kim to take a sesame rice bun from the baker's hands and chomp into it.
 Рассказчик: ...только ради того, чтобы Ким взял рисовую булочку с кунжутом из рук пекаря и впился в неё зубами.
 
-# Original: ... All right. I'm ready.
+# Bamboo-hatted Kim: ... All right. I'm ready.
 Ким в бамбуковой шляпе: ...Всё. Я готов.
 
-# Original: Frickin' waste of bread!
+# Ezra: Frickin' waste of bread!
 Эзра: Грёбаная пустая трата хлеба!
 
-# Original: Gah...!
+# Bamboo-hatted Kim: Gah...!
 Ким в бамбуковой шляпе: Кха...!
 
-# Original: Ezra's angry fist drove straight into Kim's solar plexus, folding him to the ground like a crumpled sack of potatoes as he rolled away.
+# Narrator: Ezra's angry fist drove straight into Kim's solar plexus, folding him to the ground like a crumpled sack of potatoes as he rolled away.
 Рассказчик: Яростный кулак Эзры влетел прямо в солнечное сплетение Кима, согнув его пополам, словно измятый мешок картошки, и тот покатился прочь.
 
-# Original: ... At this rate, the owner might start charging us for the whole bakery next, roof and all. Best get away from here.
+# Narrator: ... At this rate, the owner might start charging us for the whole bakery next, roof and all. Best get away from here.
 Рассказчик: ...Такими темпами хозяйка скоро потребует с нас плату за всю пекарню целиком, включая крышу. Лучше убираться отсюда.
 
-# Original: Manager.
+# Meursault: Manager.
 Мерсо: Менеджер.
 
-# Original: Meursault approached me as we walked down the street, with Ezra and Kim still squabbling behind us.
+# Narrator: Meursault approached me as we walked down the street, with Ezra and Kim still squabbling behind us.
 Рассказчик: Мерсо подошёл ко мне, пока мы шли по улице, а Эзра и Ким всё ещё препирались позади.
 
-# Original: He was holding a roll of something brown and tightly coiled.
+# Narrator: He was holding a roll of something brown and tightly coiled.
 Рассказчик: В руках он держал плотно смотанный коричневый рулончик чего-то.
 
-# Original: <Hmm...?>
+# Dante: <Hmm...?>
 Данте: <Хм...?>
 
-# Original: I have completed development of the film, per your instruction.
+# Meursault: I have completed development of the film, per your instruction.
 Мерсо: Я завершил проявление плёнки по вашему поручению.
 
-# Original: <Oh, so this is the film in that canister you were shaking. Uh... Do I just unroll it?>
+# Dante: <Oh, so this is the film in that canister you were shaking. Uh... Do I just unroll it?>
 Данте: <О, так это та плёнка в кассете, которую ты тряс. Эм... Мне просто её размотать?>
 
-# Original: Hold it up against the sun or other sources of light. As it is a reversal film, the images should be visible as they were photographed.
+# Meursault: Hold it up against the sun or other sources of light. As it is a reversal film, the images should be visible as they were photographed.
 Мерсо: Направьте её против солнца или другого источника света. Поскольку это инвертированная плёнка, изображения должны быть видны в том виде, в каком они были запечатлены.
 
-# Original: ... I had no idea what a "reversal film" meant, but I did as he said and unrolled the film.
+# Narrator: ... I had no idea what a "reversal film" meant, but I did as he said and unrolled the film.
 Рассказчик: ...Я понятия не имел, что такое «инвертированная плёнка», но сделал, как он сказал, и размотал её.
 
-# Original: <Okay... I can see it. Huh, That's pretty cool!>
+# Dante: <Okay... I can see it. Huh, That's pretty cool!>
 Данте: <Так... Я вижу. Ого, а это довольно круто!>
 
-# Original: Oh, is it showing? Can I see, too...?
+# Ishmael: Oh, is it showing? Can I see, too...?
 Измаил: О, там что-то видно? Можно мне тоже взглянуть...?
 
-# Original: Move it over a bit. Let me have a look, too.
+# Gregor: Move it over a bit. Let me have a look, too.
 Грегор: Сдвинь чуток. Дай и мне глянуть.
 
-# Original: It was hard to make out the details because the images were too small, but I could still tell the strip was packed with almost identical pictures.
+# Narrator: It was hard to make out the details because the images were too small, but I could still tell the strip was packed with almost identical pictures.
 Рассказчик: Детали было трудно разобрать, так как изображения были слишком мелкими, но я всё же видел, что лента заполнена почти одинаковыми снимками.
 
-# Original: Hmm...? Is this the same person in every shot? In the same pose in all of them?
+# Sinclair: Hmm...? Is this the same person in every shot? In the same pose in all of them?
 Синклер: Хм...? На каждом кадре один и тот же человек? И везде в одинаковой позе?
 
-# Original: Huh, you're right... No, wait a second...
+# Gregor: Huh, you're right... No, wait a second...
 Грегор: Хм, и правда... Нет, погодите секунду...
 
-# Original: See the arm here? The further along the strip you go, the lower it gets...
+# Gregor: See the arm here? The further along the strip you go, the lower it gets...
 Грегор: Видите руку вот здесь? Чем дальше по ленте, тем ниже она опускается...
 
-# Original: Yeah... and the head looks like it's turning to the right.
+# Ishmael: Yeah... and the head looks like it's turning to the right.
 Измаил: Да... и голова будто поворачивается вправо.
 
-# Original: ... Huh?
+# Sinclair: ... Huh?
 Синклер: ...А?
 
-# Original: We were all squinting up at the tiny frames on the film when Sinclair suddenly flinched and went stiff like he'd seen something he shouldn't have.
+# Narrator: We were all squinting up at the tiny frames on the film when Sinclair suddenly flinched and went stiff like he'd seen something he shouldn't have.
 Рассказчик: Мы все щурились, рассматривая крошечные кадры на плёнке, когда Синклер вдруг вздрогнул и застыл как вкопанный, словно увидел то, чего видеть не следовало.
 
-# Original: A second later, all color drained out of his face.
+# Narrator: A second later, all color drained out of his face.
 Рассказчик: Секунду спустя его лицо стало мертвенно-бледным.
 
-# Original: <... Sinclair? What's the matter?>
+# Dante: <... Sinclair? What's the matter?>
 Данте: <...Синклер? Что случилось?>
 
-# Original: This reminds me of... something I learned in school.
+# Sinclair: This reminds me of... something I learned in school.
 Синклер: Это напоминает мне... то, чему нас учили в школе.
 
-# Original: You draw a picture in the corner of a stack of notes or a thick book. In the exact same spot on every page.
+# Sinclair: You draw a picture in the corner of a stack of notes or a thick book. In the exact same spot on every page.
 Синклер: Рисуешь картинку в углу пачки блокнотных листов или толстой книги. На одном и том же месте на каждой странице.
 
-# Original: You start with the arms down. Then you make one small change on each page... nudge the arms up higher and higher... until they're raised all the way up.
+# Sinclair: You start with the arms down. Then you make one small change on each page... nudge the arms up higher and higher... until they're raised all the way up.
 Синклер: Начинаешь с опущенных рук. Затем вносишь одно небольшое изменение на каждой странице... приподнимаешь руки всё выше и выше... пока они не поднимутся до самого верха.
 
-# Original: And when you flip the pages fast enough, the drawings stop looking like separate images. The still figure starts moving.
+# Sinclair: And when you flip the pages fast enough, the drawings stop looking like separate images. The still figure starts moving.
 Синклер: И когда ты достаточно быстро перелистываешь страницы, рисунки перестают казаться отдельными картинками. Неподвижная фигура начинает двигаться.
 
-# Original: That class was called... "Introduction to Motion Pictures."
+# Sinclair: That class was called... "Introduction to Motion Pictures."
 Синклер: Этот урок назывался... «Введение в кинематограф».
 
-# Original: I remember the teacher saying... that video footage we watch are all made the same... way...
+# Sinclair: I remember the teacher saying... that video footage we watch are all made the same... way...
 Синклер: Я помню, учитель говорил... что видеозаписи, которые мы смотрим, создаются точно таким же... образом...
 
-# Original: <Are you saying that this is...>
+# Dante: <Are you saying that this is...>
 Данте: <Хочешь сказать, что это...>
 
-# Original: It's a continuous sequence of still images...
+# Outis: It's a continuous sequence of still images...
 Отис: Непрерывная последовательность статичных изображений...
 
-# Original: The arrangement of the frames suggests that this film strip is highly likely to constitute footage—a violation of N Corp.'s Taboo.
+# Meursault: The arrangement of the frames suggests that this film strip is highly likely to constitute footage—a violation of N Corp.'s Taboo.
 Мерсо: Расположение кадров позволяет предположить, что данная киноплёнка с высокой долей вероятности представляет собой видеозапись — а это нарушение Табу Корпорации N.

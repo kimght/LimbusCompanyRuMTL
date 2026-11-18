@@ -1,95 +1,95 @@
-﻿# Original: Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!
+﻿# ???: Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!
 ???: Слава богу. Меня сюда отправили, приговорив к Наказанию Сизифа, но никто ничего не объясняет! Стоит заговорить об этом месте — в ответ одни загадки и бессмыслица. И я сейчас даже про тех, кто <i>снаружи</i>. А здешние? Ещё и злятся, ворчат, что у меня здравого смысла нет!
 
-# Original: And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.
+# ???: And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.
 ???: А знаешь что? Один вообще спросил, можно ли пустить меня на материал. Наверное, это у них тут жаргон такой.
 
-# Original: So... when didya get here?
+# Rodion: So... when didya get here?
 Родион: Так... и давно ты тут?
 
-# Original: That's exactly what I'm trying to figure out. There are no clocks here, and they have this weird way of counting days. Oh! Speaking of clocks—you've got one for a head! Could you tell me what time it is now? I know for sure it's been ages since my last meal, but somehow I don't feel hungry...
+# ???: That's exactly what I'm trying to figure out. There are no clocks here, and they have this weird way of counting days. Oh! Speaking of clocks—you've got one for a head! Could you tell me what time it is now? I know for sure it's been ages since my last meal, but somehow I don't feel hungry...
 ???: Вот это я и пытаюсь понять. Часов здесь нет, а дни они как-то странно считают. О! Кстати о часах — у тебя же они вместо головы! Не подскажешь, который сейчас час? Точно знаю, что ел целую вечность назад, но почему-то совсем не голоден...
 
-# Original: <Yup, that's the reaction of someone who just came from the outside world.>
+# Dante: <Yup, that's the reaction of someone who just came from the outside world.>
 Данте: <Ага, вот так и реагирует человек, только что попавший сюда из внешнего мира.>
 
-# Original: Whoa, are those uniforms? You must've belonged to a pretty serious Syndicate. Just what did you do that they decided to throw everyone in here as a package?
+# ???: Whoa, are those uniforms? You must've belonged to a pretty serious Syndicate. Just what did you do that they decided to throw everyone in here as a package?
 ???: Ого, это у вас форма? Вы, наверное, были из какого-то серьёзного Синдиката. Что же вы натворили, раз вас решили сюда всей толпой закинуть?
 
-# Original: Hm, how should I put this... They charged us with "caring a lil' too much about a certain colleague of ours", if that makes sense?
+# Rodion: Hm, how should I put this... They charged us with "caring a lil' too much about a certain colleague of ours", if that makes sense?
 Родион: М-м, как бы объяснить... Нас обвинили в том, что мы «самую малость переборщили с заботой об одном нашем коллеге». Ну, как-то так?
 
-# Original: And you...? What did you do to receive the Penalty?
+# Ishmael: And you...? What did you do to receive the Penalty?
 Измаил: А ты...? Что ты сделал, чтобы получить это Наказание?
 
-# Original: There's this product my friends and I cooked up.
+# ???: There's this product my friends and I cooked up.
 ???: Мы с друзьями тут один товар состряпали.
 
-# Original: ... I assume this "product" was illegal to manufacture in N Corp.
+# Ishmael: ... I assume this "product" was illegal to manufacture in N Corp.
 Измаил: ...Полагаю, производство этого «товара» в Корпорации N запрещено законом.
 
-# Original: Whoa. How did you guess?
+# ???: Whoa. How did you guess?
 ???: Ого. Как ты догадалась?
 
-# Original: ... I mean, it's obvious. Why else would they give you the Sisyphe Penalty?
+# Ishmael: ... I mean, it's obvious. Why else would they give you the Sisyphe Penalty?
 Измаил: ...Да это же очевидно. С чего бы ещё тебя приговаривать к Наказанию Сизифа?
 
-# Original: Wow. You sound exactly like that prosecutor at my trial!
+# ???: Wow. You sound exactly like that prosecutor at my trial!
 ???: Вот это да. Прямо как прокурор на моём процессе говоришь!
 
-# Original: Everyone in the courtroom reprimanded me so hard once my trial began. They said something about how I was sowing confusion and unrest among the residents of N Corp. by distributing products like that...
+# ???: Everyone in the courtroom reprimanded me so hard once my trial began. They said something about how I was sowing confusion and unrest among the residents of N Corp. by distributing products like that...
 ???: Как только суд начался, все в зале принялись меня отчитывать. Говорили что-то о том, что, распространяя такие товары, я сею смуту и беспокойство среди жителей Корпорации N...
 
-# Original: What exactly did you make?
+# Rodion: What exactly did you make?
 Родион: А что именно вы делали?
 
-# Original: Counterfeit Canned Experience. Oh, I'm the one who designed the label, by the way—I've been quite an artist since I was little. Laura was in charge of the contents. It's easy stuff. All you need is some flour, chalk dust, and a pinch of powdered milk. The ratio of the ingredients is where you need to be careful.
+# ???: Counterfeit Canned Experience. Oh, I'm the one who designed the label, by the way—I've been quite an artist since I was little. Laura was in charge of the contents. It's easy stuff. All you need is some flour, chalk dust, and a pinch of powdered milk. The ratio of the ingredients is where you need to be careful.
 ???: Поддельный Консервированный опыт. А, этикетку, кстати, я рисовал — у меня с детства талант к этому делу. За содержимое отвечала Лаура. Там всё просто. Нужно только немного муки, меловой пыли и щепотка сухого молока. Главное — с пропорциями не напортачить.
 
-# Original: Counterfeit Canned Experience...? That's a thing?
+# Ishmael: Counterfeit Canned Experience...? That's a thing?
 Измаил: Поддельный Консервированный опыт...? И такое бывает?
 
-# Original: Huh? Why wouldn't it be? I mean, you only need to make it <i>look</i> the same. Believe me, there are plenty of people in the Backstreets who make a living by making fake Canned Experiences. People can't get enough of anything labeled "experience," after all.
+# ???: Huh? Why wouldn't it be? I mean, you only need to make it <i>look</i> the same. Believe me, there are plenty of people in the Backstreets who make a living by making fake Canned Experiences. People can't get enough of anything labeled "experience," after all.
 ???: А? А почему нет? Главное же, чтобы <i>с виду</i> был как настоящий. Уж поверь, в Подворотнях полно народу живёт на подделках Консервированного опыта. Люди ведь всё, на чём написано «опыт», с руками отрывают.
 
-# Original: Anyway, this is the first time I've experienced the Sisyphe Penalty. Maybe they'll let me out sooner if I can post bail. Bernard said he'd try to raise the money from selling the fake cans.
+# ???: Anyway, this is the first time I've experienced the Sisyphe Penalty. Maybe they'll let me out sooner if I can post bail. Bernard said he'd try to raise the money from selling the fake cans.
 ???: В общем, Наказание Сизифа я отбываю впервые. Может, выпустят пораньше, если смогу внести залог. Бернар сказал, попробует набрать денег на продаже поддельных банок.
 
-# Original: Right... And what happened to your face...? Did they hurt you or something?
+# Ishmael: Right... And what happened to your face...? Did they hurt you or something?
 Измаил: Ясно... А что у тебя с лицом...? Тебя избили или вроде того?
 
-# Original: Oh, I got this from a fire that broke out in the orphanage I grew up in. I couldn't get proper treatment in time what with being an urchin and all, and... well. Bernard has it worse—he's left with a permanent limp. Even worse for Laura. Breathing in smoke really messed up her lungs, so she can't run for too long. Say goodbye to ever working in a Nest with scars like these, right?
+# ???: Oh, I got this from a fire that broke out in the orphanage I grew up in. I couldn't get proper treatment in time what with being an urchin and all, and... well. Bernard has it worse—he's left with a permanent limp. Even worse for Laura. Breathing in smoke really messed up her lungs, so she can't run for too long. Say goodbye to ever working in a Nest with scars like these, right?
 ???: А, это после пожара в приюте, где я вырос. Я ведь беспризорником был, так что вовремя нормально полечиться не удалось, и... ну, вот. Бернару хуже досталось — так и остался хромым. А Лауре так ещё хуже. Дыма надышалась, лёгкие совсем испортила, теперь подолгу бегать не может. С такими шрамами о работе в Гнезде можно и не мечтать, да?
 
-# Original: But hey, at least this prison's pretty snazzy. And I've never seen or heard of a prison where they let you wander around without locking you up in a cell.
+# ???: But hey, at least this prison's pretty snazzy. And I've never seen or heard of a prison where they let you wander around without locking you up in a cell.
 ???: Ну зато тюрьма тут довольно шикарная. Никогда ещё не видел тюрьмы, где можно просто так бродить, а не сидеть взаперти в камере. Да и не слышал о таких.
 
-# Original: The name's Dubois, by the way. People also call me "Scar D."
+# Dubois: The name's Dubois, by the way. People also call me "Scar D."
 Дюбуа: Меня, кстати, Дюбуа зовут. Ещё народ кличет «Шрам Ди».
 
-# Original: This guy...
+# Ishmael: This guy...
 Измаил: Этот парень...
 
-# Original: He has no idea what is happening. Just like us a little while ago...
+# Ishmael: He has no idea what is happening. Just like us a little while ago...
 Измаил: Он понятия не имеет, что происходит. Как и мы совсем недавно...
 
-# Original: I don't know, I... kinda feel bad for him...
+# Rodion: I don't know, I... kinda feel bad for him...
 Родион: Не знаю, мне... его даже жалко как-то...
 
-# Original: And, uh... he's kinda neurotic, too, jumping from one subject to the other.
+# Ishmael: And, uh... he's kinda neurotic, too, jumping from one subject to the other.
 Измаил: И, э-э... он ещё и нервный какой-то. С одного на другое перескакивает.
 
-# Original: By the way... If this is a prison, where are the guards...? Shouldn't jails have wardens or something?
+# Dubois: By the way... If this is a prison, where are the guards...? Shouldn't jails have wardens or something?
 Дюбуа: Кстати... Если это тюрьма, то где охрана...? В тюрьмах ведь должны быть надзиратели или кто-то в этом роде?
 
-# Original: Who knows...
+# Rodion: Who knows...
 Родион: Кто ж знает...
 
-# Original: Oh, and... Do you happen to know how to get upstairs? There might be a phone booth or something up there on the upper floors. I need to call my friends.
+# Dubois: Oh, and... Do you happen to know how to get upstairs? There might be a phone booth or something up there on the upper floors. I need to call my friends.
 Дюбуа: А, и ещё... Вы случайно не знаете, как подняться наверх? На верхних этажах может быть телефонная будка или что-нибудь такое. Мне друзьям позвонить надо.
 
-# Original: We're looking for a way up too.
+# Ishmael: We're looking for a way up too.
 Измаил: Мы тоже ищем путь наверх.
 
-# Original: Oh, I see... Okay. I'll let you know if I manage to find one.
+# Dubois: Oh, I see... Okay. I'll let you know if I manage to find one.
 Дюбуа: А, понятно... Ладно. Если найду, скажу вам.

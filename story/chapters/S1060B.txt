@@ -1,17 +1,17 @@
-﻿# Original: Defendant. State the time when you murdered your mother.
+﻿# Judge: Defendant. State the time when you murdered your mother.
 Судья: Подсудимый. Укажите время, когда вы убили свою мать.
 
-# Original: I killed Mother today. Or maybe it was yesterday.
+# Meursault: I killed Mother today. Or maybe it was yesterday.
 Мерсо: Я убил Маму сегодня. А может быть, вчера.
 
-# Original: Defendant. State your reasons for committing the act.
+# Judge: Defendant. State your reasons for committing the act.
 Судья: Подсудимый. Изложите причины совершённого вами деяния.
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: Answer!
+# Judge: Answer!
 Судья: Отвечайте!
 
-# Original: The sunlight... was overwhelming...
+# Meursault: The sunlight... was overwhelming...
 Мерсо: Свет солнца... был невыносим...

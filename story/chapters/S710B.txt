@@ -1,149 +1,149 @@
-﻿# Original: Earlier, they assigned the gathered Fixers with Areas.
+﻿# Narrator: Earlier, they assigned the gathered Fixers with Areas.
 Рассказчик: Ранее собравшимся Корректировщикам назначили Зоны.
 
-# Original: Ah, looks like we'll be going our separate ways here. Different Area.
+# Romero: Ah, looks like we'll be going our separate ways here. Different Area.
 Ромеро: А, похоже, здесь нам придется разойтись. Разные Зоны.
 
-# Original: Here's hoping we'll both be alive the next time we meet~
+# Romero: Here's hoping we'll both be alive the next time we meet~
 Ромеро: Будем надеяться, что в следующий раз, когда мы встретимся, мы оба будем живы~
 
-# Original: It seemed that the Bloodfiend Hunters were assigned to Area 3, Jia Xichun to Area 2, and us to... Area 1.
+# Narrator: It seemed that the Bloodfiend Hunters were assigned to Area 3, Jia Xichun to Area 2, and us to... Area 1.
 Рассказчик: Похоже, Охотникам на Кровожадов назначили Зону 3, Цзя Сичунь – Зону 2, а нам... Зону 1.
 
-# Original: Heh, pleased to be working with you guys. Name's Hugo.
+# Hugo: Heh, pleased to be working with you guys. Name's Hugo.
 Хьюго: Хех, рад работать с вами, ребята. Меня зовут Хьюго.
 
-# Original: The Fixer from earlier, whose name was Hugo, appeared visibly relieved that he was assigned the same Area as us.
+# Narrator: The Fixer from earlier, whose name was Hugo, appeared visibly relieved that he was assigned the same Area as us.
 Рассказчик: Корректировщик, которого ранее звали Хьюго, выглядел заметно облегченным от того, что ему назначили ту же Зону, что и нам.
 
-# Original: Hey, look what I found. A map of La Manchaland. That's how ya know I'm the ace of the team!
+# Hugo: Hey, look what I found. A map of La Manchaland. That's how ya know I'm the ace of the team!
 Хьюго: Эй, смотрите, что я нашел. Карта Ла-Манчалэнда. Видите, насколько полезный я спутник!
 
-# Original: The ace? You just picked up one of the dozens of papers strewn about the entrance.
+# Ishmael: The ace? You just picked up one of the dozens of papers strewn about the entrance.
 Измаил: Ас? Ты просто поднял одну из десятков бумажек, разбросанных у входа.
 
-# Original: Hm, this is an amusement park brochure with a map on it...
+# Ishmael: Hm, this is an amusement park brochure with a map on it...
 Измаил: Хм, это брошюра парка развлечений с картой на ней...
 
-# Original: Ugh, I don't even want to imagine what those brutish Office guys would've done to me if I got lumped in with them. Who knows, they might've killed me as soon as the gate closed. Or worse, they might've left my name out of the eradication fee recipients. Just awful.
+# Hugo: Ugh, I don't even want to imagine what those brutish Office guys would've done to me if I got lumped in with them. Who knows, they might've killed me as soon as the gate closed. Or worse, they might've left my name out of the eradication fee recipients. Just awful.
 Хьюго: Уф, я даже не хочу представлять, что бы эти грубые ребята из того Офиса сделали со мной, если бы меня сунули к ним. Кто знает, они могли бы убить меня, как только закрылись ворота. Или еще хуже, они могли бы не включить мое имя в список получателей платы за ликвидацию. Просто ужасно.
 
-# Original: So, uh. Who did you guys say you were? Limbus Company... Office? Right?
+# Hugo: So, uh. Who did you guys say you were? Limbus Company... Office? Right?
 Хьюго: Так, э-э. Кем вы, ребята, сказали, что являетесь? Офис... Компания Лимбус? Верно?
 
-# Original: It seemed that he was under the impression that we were one of the numerous no-name Fixer Offices, but I didn't really feel the need to correct him.
+# Narrator: It seemed that he was under the impression that we were one of the numerous no-name Fixer Offices, but I didn't really feel the need to correct him.
 Рассказчик: Казалось, он был под впечатлением, что мы были одним из многочисленных безымянных Офисов Корректировщиков, но я не особо чувствовал необходимость исправлять его.
 
-# Original: Haah, man. Sucks being a small-timer, huh? We always get left out of the good stuff.
+# Hugo: Haah, man. Sucks being a small-timer, huh? We always get left out of the good stuff.
 Хьюго: Хаах, блин. Отстойно быть мелкой сошкой, да? Нас всегда обходят стороной в хороших делах.
 
-# Original: Not like those Cinq or Zwei Association Offices who always get the top billing.
+# Hugo: Not like those Cinq or Zwei Association Offices who always get the top billing.
 Хьюго: Не то что эти Офисы Ассоциации Сэнк или Цвай, которые всегда получают главные роли.
 
-# Original: Nay, 'tis untrue. Every Fixer, honored be their great valor and righteousness, deserveth respect.
+# Don Quixote: Nay, 'tis untrue. Every Fixer, honored be their great valor and righteousness, deserveth respect.
 Дон Кихот: Нет, сие неправда. Каждый Корректировщик, чьи великая доблесть и праведность достойны почтения, заслуживает уважения.
 
-# Original: Long have I dreamt a dream of becoming a Fixer myself.
+# Don Quixote: Long have I dreamt a dream of becoming a Fixer myself.
 Дон Кихот: Долго я грезила мечтой самой стать Корректировщиком.
 
-# Original: A Fixer fixes things; thus, a Fixer is a fixer of injustices, a fixer of the downtrodden fortunes, a fixer of all that is unjust!
+# Don Quixote: A Fixer fixes things; thus, a Fixer is a fixer of injustices, a fixer of the downtrodden fortunes, a fixer of all that is unjust!
 Дон Кихот: Корректировщик корректирует вещи; посему, Корректировщик есть корректор несправедливостей, корректор попранных судеб, корректор всего, что несправедливо!
 
-# Original: Thus, once we survive this encounter with this wicked place hand-in-hand, all shalt re-think their impressions of us Fixers!
+# Don Quixote: Thus, once we survive this encounter with this wicked place hand-in-hand, all shalt re-think their impressions of us Fixers!
 Дон Кихот: Посему, как только мы переживем эту встречу с сим злым местом рука об руку, все пересмотрят свое мнение о нас, Корректировщиках!
 
-# Original: …….
+# Rodion: …….
 Родион: …….
 
-# Original: ... Wh... wherefore art thou giving me such a terrifying look?
+# Don Quixote: ... Wh... wherefore art thou giving me such a terrifying look?
 Дон Кихот: ... П... почему ты смотришь на меня таким ужасающим взглядом?
 
-# Original: Kiddo, what you just said was... You don't just say stuff like "once we survive this"... that's... nevermind...
+# Rodion: Kiddo, what you just said was... You don't just say stuff like "once we survive this"... that's... nevermind...
 Родион: Малышка, то, что ты только что сказала... Не говорят же такие вещи, как "как только мы переживем это"... это... неважно...
 
-# Original: The survivors are...
+# Sinclair: The survivors are...
 Синклер: Пережившие...
 
-# Original: <Okay. Let's go find the... 'device' in Area 1, then.>
+# Dante: <Okay. Let's go find the... 'device' in Area 1, then.>
 Данте: <Ладно. Давайте пойдем искать... 'устройство' в Зоне 1.>
 
-# Original: A glance at the brochure reveals many a kind of 'rides' here. And we are at 'the... pret...ty... and wonder...ful place'. Installed here are rides and attractions called 'Fixer for a Day', 'Fashionista Show'...
+# Yi Sang: A glance at the brochure reveals many a kind of 'rides' here. And we are at 'the... pret...ty... and wonder...ful place'. Installed here are rides and attractions called 'Fixer for a Day', 'Fashionista Show'...
 И Сан: Взгляд на брошюру раскрывает множество видов здешних 'аттракционов'. И мы находимся в 'кра...си...вом и чудес...ном месте'. Здесь установлены аттракционы и развлечения под названием 'Корректировщик на день', 'Модное шоу'...
 
-# Original: All that stuff just sounds like your typical amusement park stuff. It's even got themes.
+# Gregor: All that stuff just sounds like your typical amusement park stuff. It's even got themes.
 Грегор: Все это звучит как типичные вещи для парка развлечений. У них даже есть темы.
 
-# Original: What... rests at the incipience of this place, I must wonder?
+# Yi Sang: What... rests at the incipience of this place, I must wonder?
 И Сан: Что... лежит у истоков сего места, должен я гадать?
 
-# Original: I dunno. But it ain't our business to know, innit?
+# Heathcliff: I dunno. But it ain't our business to know, innit?
 Хитклиф: Не знаю. Но это не наше дело, верно?
 
-# Original: I ask nonetheless, for I must wonder that, shrouded beneath the scars of time...
+# Yi Sang: I ask nonetheless, for I must wonder that, shrouded beneath the scars of time...
 И Сан: Я все же спрашиваю, ибо должен гадать, что, скрытое под шрамами времени...
 
-# Original: ... lies the place of joy it once claimed to be.
+# Yi Sang: ... lies the place of joy it once claimed to be.
 И Сан: ... лежит место радости, каковым оно некогда объявляло себя.
 
-# Original: Laughter, from the heart and unforced...
+# Yi Sang: Laughter, from the heart and unforced...
 И Сан: Смех, от сердца и непринужденный...
 
-# Original: HA... HA... HA...!
+# ???: HA... HA... HA...!
 ???: ХА... ХА... ХА...!
 
-# Original: It begins! It begins again! The eradication party-party!
+# ???: It begins! It begins again! The eradication party-party!
 ???: Начинается! Снова начинается! Вечеринка-вечеринка по ликвидации!
 
-# Original: More humans, more excitement! More exciting-excited humans!
+# Scissors-holding Bloodfiend: More humans, more excitement! More exciting-excited humans!
 Кровожад с ножницами: Больше людей, больше волнения! Больше волнующе-взволнованных людей!
 
-# Original: Oh, if only they held this party more often, three times a day! So I'll send one of you back out there with two days to live.
+# Scissors-holding Bloodfiend: Oh, if only they held this party more often, three times a day! So I'll send one of you back out there with two days to live.
 Кровожад с ножницами: О, если бы они устраивали эту вечеринку чаще, три раза в день! Так что я отправлю одного из вас обратно с двумя днями жизни.
 
-# Original: Go tell the boss who sent you here, that we look forward to their visit later!
+# Scissors-holding Bloodfiend: Go tell the boss who sent you here, that we look forward to their visit later!
 Кровожад с ножницами: Идите, скажите боссу, который послал вас сюда, что мы с нетерпением ждем его визита позже!
 
-# Original: How about this? Tell us where the device is, and I'll kill you painlessly.
+# Outis: How about this? Tell us where the device is, and I'll kill you painlessly.
 Отис: Как насчет такого? Скажи нам, где устройство, и я убью тебя безболезненно.
 
-# Original: Ohoho... I like it! I love it! Splendid! Words so nasty, yet blood so tasty!
+# Scissors-holding Bloodfiend: Ohoho... I like it! I love it! Splendid! Words so nasty, yet blood so tasty!
 Кровожад с ножницами: Охохо... Мне это нравится! Это я люблю! Великолепно! Речи столь гнусные, но кровь столь вкусная!
 
-# Original: Don't be so hasty, though. We've got plenty of events to cover. Fashion shows, popularity contests, oh! How oh-so-exciting! Right?
+# Scissors-holding Bloodfiend: Don't be so hasty, though. We've got plenty of events to cover. Fashion shows, popularity contests, oh! How oh-so-exciting! Right?
 Кровожад с ножницами: Но вы слишком шустрые. Мы должны охватить множество событий. Модные показы, конкурсы популярности, о! Как же о-о-очень-волнительно! Верно?
 
-# Original: So this... is thou hast made mockery of thy guests and Fixers.
+# Don Quixote: So this... is thou hast made mockery of thy guests and Fixers.
 Дон Кихот: Так вот как... ты насмехаешься над своими гостями и Корректировщиками.
 
-# Original: Oh, almost forgot the most important thing.
+# Scissors-holding Bloodfiend: Oh, almost forgot the most important thing.
 Кровожад с ножницами: Ой, чуть не забыла самое важное.
 
-# Original: Can't have you skittering around here looking so unfashionable. You know that, right? Can't have our guests wearing rags that look like they've been stitched together from rat hides. I'll get in trouble!
+# Scissors-holding Bloodfiend: Can't have you skittering around here looking so unfashionable. You know that, right? Can't have our guests wearing rags that look like they've been stitched together from rat hides. I'll get in trouble!
 Кровожад с ножницами: Нельзя позволить вам бегать здесь в таком немодном виде. Вы же это понимаете, верно? Нельзя, чтобы наши гости носили лохмотья, будто сшитые из крысиных шкур. У меня будут неприятности!
 
-# Original: What, all of us...? Hey! Look closer. At least I don't look half bad, right?
+# Rodion: What, all of us...? Hey! Look closer. At least I don't look half bad, right?
 Родион: Что, все мы...? Эй! Посмотри внимательнее. По крайней мере, я выгляжу неплохо, верно?
 
-# Original: We'll dress you all in pretty, pretty dresses and suits...
+# Scissors-holding Bloodfiend: We'll dress you all in pretty, pretty dresses and suits...
 Кровожад с ножницами: Мы оденем вас всех в красивые, красивые платья и костюмы...
 
-# Original: ... put you up for display in the powder room, and nibble you slowly for a week.
+# Scissors-holding Bloodfiend: ... put you up for display in the powder room, and nibble you slowly for a week.
 Кровожад с ножницами: ... выставим вас на обозрение в дамской комнате и будем медленно грызть в течение недели.
 
-# Original: Mmmmm~ where should I taste first? I'm so excited!
+# Scissors-holding Bloodfiend: Mmmmm~ where should I taste first? I'm so excited!
 Кровожад с ножницами: Мммммм~ с чего бы мне начать пробовать? Я так взволнована!
 
-# Original: <Uh, there are a lot of Bloodfiends here. Can you guys handle them?>
+# Dante: <Uh, there are a lot of Bloodfiends here. Can you guys handle them?>
 Данте: <Э-э, здесь много Кровожадов. Вы, ребята, справитесь с ними?>
 
-# Original: Worry not, for naught has put a moratorium on their deaths here.
+# Yi Sang: Worry not, for naught has put a moratorium on their deaths here.
 И Сан: Не беспокойся, ибо ничто не наложило мораторий на их смерть здесь.
 
-# Original: They appear to be much inferior to the one we engaged aboard the train. I believe they are, at best, as strong as that prosthetic Fixer. Most likely weaker.
+# Outis: They appear to be much inferior to the one we engaged aboard the train. I believe they are, at best, as strong as that prosthetic Fixer. Most likely weaker.
 Отис: Они кажутся гораздо слабее того, с которым мы столкнулись на поезде. Я полагаю, они, в лучшем случае, такие же сильные, как тот Корректировщик с протезами. Скорее всего, слабее.
 
-# Original: Jolly good and all that. Let's go smash 'em, then!
+# Heathcliff: Jolly good and all that. Let's go smash 'em, then!
 Хитклиф: Отлично, и все такое. Давайте пойдем и разобьем их!
 
-# Original: With Heathcliff's charge as our signal, the Sinners advanced, leaping into the horde of Bloodfiends.
+# Narrator: With Heathcliff's charge as our signal, the Sinners advanced, leaping into the horde of Bloodfiends.
 Рассказчик: С атаки Хитклифа в качестве сигнала, Грешники двинулись вперед, бросаясь в орду Кровожадов.

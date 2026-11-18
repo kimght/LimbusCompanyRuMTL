@@ -1,230 +1,230 @@
-﻿# Original: <i><color=#5bffde>O the garden's sorrow-bearer, lamenter at the flower-funeral</i></color>
+﻿# Hong Lu: <i><color=#5bffde>O the garden's sorrow-bearer, lamenter at the flower-funeral</i></color>
 Хон Лу: <i><color=#5bffde>О, плакальщица сада, ты на похоронах цветов,</i></color>
 
-# Original: <i><color=#5bffde>Flower-rake in hand, teardrops in eyes,</i></color>
+# Hong Lu: <i><color=#5bffde>Flower-rake in hand, teardrops in eyes,</i></color>
 Хон Лу: <i><color=#5bffde>С лопаткой для цветов в руке, в глазах слеза готова,</i></color>
 
-# Original: <i><color=#5bffde>You carve bloodstained tears upon branches floral.</i></color>
+# Hong Lu: <i><color=#5bffde>You carve bloodstained tears upon branches floral.</i></color>
 Хон Лу: <i><color=#5bffde>Ты кровью слез на ветках чертишь скорбный след.</i></color>
 
-# Original: <i><color=#5bffde>I heard yesternight from the garden a song of grief,</i></color>
+# Hong Lu: <i><color=#5bffde>I heard yesternight from the garden a song of grief,</i></color>
 Хон Лу: <i><color=#5bffde>Я слышал прошлой ночью из сада скорбный плач,</i></color>
 
-# Original: <i><color=#5bffde>An elegy for a flower and a bird departing.</i></color>
+# Hong Lu: <i><color=#5bffde>An elegy for a flower and a bird departing.</i></color>
 Хон Лу: <i><color=#5bffde>Элегию цветку увядшему и птице, что вдаль летит,</i></color>
 
-# Original: <i><color=#5bffde>Availed naught to hold the parting spring,</i></color>
+# Hong Lu: <i><color=#5bffde>Availed naught to hold the parting spring,</i></color>
 Хон Лу: <i><color=#5bffde>Напрасно я весну пытался удержать,</i></color>
 
-# Original: <i><color=#5bffde>Surrendered I become, heeding the endless woe sans relief.</i></color>
+# Hong Lu: <i><color=#5bffde>Surrendered I become, heeding the endless woe sans relief.</i></color>
 Хон Лу: <i><color=#5bffde>Смиряюсь я с тоской безмерной, безутешной.</i></color>
 
-# Original: <color=#9a2d30>Do you understand now, child? There is nothing you can do.</color>
+# Narrator: <color=#9a2d30>Do you understand now, child? There is nothing you can do.</color>
 Рассказчик: <color=#9a2d30>Теперь ты понимаешь, дитя? Ты ничего не можешь изменить.</color>
 
-# Original: <color=#9a2d30>Thus...</color>
+# Narrator: <color=#9a2d30>Thus...</color>
 Рассказчик: <color=#9a2d30>Посему...</color>
 
-# Original: In the silent, windless sands...
+# Narrator: In the silent, windless sands...
 Рассказчик: В безмолвных, безветренных песках...
 
-# Original: ... stood only the desolate ruins of a building, swept through and thoroughly destroyed by a brutal, unstoppable force that was determined to leave nothing in its wake.
+# Narrator: ... stood only the desolate ruins of a building, swept through and thoroughly destroyed by a brutal, unstoppable force that was determined to leave nothing in its wake.
 Рассказчик: ...стояли лишь пустынные руины здания, сметённого и полностью уничтоженного жестокой, неостановимой силой, которая была полна решимости не оставить после себя ничего.
 
-# Original: <i>Remember the day ruin came to the Kong family,</i>
+# Narrator: <i>Remember the day ruin came to the Kong family,</i>
 Рассказчик: <i>Помните день, когда семья Кун познала крах,</i>
 
-# Original: <i>who have brought this destruction upon themselves through their grave transgressions.</i>
+# Narrator: <i>who have brought this destruction upon themselves through their grave transgressions.</i>
 Рассказчик: <i>навлекшая на себя это разрушение своими тяжкими прегрешениями.</i>
 
-# Original: <i>To violate the laws of Hongyuan is no tragedy—as such, it warrants no pity, only humiliation and scorn.</i>
+# Narrator: <i>To violate the laws of Hongyuan is no tragedy—as such, it warrants no pity, only humiliation and scorn.</i>
 Рассказчик: <i>Нарушение законов Хунъюаня — не трагедия, а потому не заслуживает жалости, лишь унижения и презрения.</i>
 
-# Original: <i>This site of history stands as a monument to the inevitability of karma.</i>
+# Narrator: <i>This site of history stands as a monument to the inevitability of karma.</i>
 Рассказчик: <i>Это историческое место стоит как памятник неизбежности кармы.</i>
 
-# Original: So this…
+# Ishmael: So this…
 Измаил: Так это…
 
-# Original: ... is the annihilated Kong family's... building?
+# Ishmael: ... is the annihilated Kong family's... building?
 Измаил: ...здание уничтоженной семьи Кун?
 
-# Original: Ishmael asked Hong Lu, having read the plaque on the building.
+# Narrator: Ishmael asked Hong Lu, having read the plaque on the building.
 Рассказчик: спросила Измаил у Хон Лу, прочитав табличку на здании.
 
-# Original: Yes, it is.
+# Hong Lu: Yes, it is.
 Хон Лу: Да, это оно.
 
-# Original: And it's no longer in use.
+# Hong Lu: And it's no longer in use.
 Хон Лу: И оно больше не используется.
 
-# Original: So everyone inside this building must’ve been…
+# Sinclair: So everyone inside this building must’ve been…
 Синклер: Значит, все, кто был в этом здании, должно быть, были…
 
-# Original: …….
+# Gregor: …….
 Грегор: …….
 
-# Original: What... kind of 'transgressions' could they possibly have committed to deserve to be destroyed like this...?
+# Sinclair: What... kind of 'transgressions' could they possibly have committed to deserve to be destroyed like this...?
 Синклер: Какие... «прегрешения» они могли совершить, чтобы заслужить такое уничтожение?..
 
-# Original: If there was something to lay waste to a building of such magnitude, with such totality, it... cannot have been a mere strife between Syndicates or Fixers. Something must've happened here, nothing less of a war, to leave these ruins behind.
+# Outis: If there was something to lay waste to a building of such magnitude, with such totality, it... cannot have been a mere strife between Syndicates or Fixers. Something must've happened here, nothing less of a war, to leave these ruins behind.
 Отис: Если что-то смогло разрушить здание такого масштаба, с такой полнотой, это... не могла быть простая стычка между Синдикатами или Корректировщиками. Здесь должно было произойти нечто, не меньше войны, чтобы оставить эти руины.
 
-# Original: You’re right. It was unusual, even for the City.
+# Hong Lu: You’re right. It was unusual, even for the City.
 Хон Лу: Вы правы. Это было необычно, даже для Города.
 
-# Original: And that’s because the Head was here.
+# Hong Lu: And that’s because the Head was here.
 Хон Лу: И это потому, что здесь был Глава.
 
-# Original: Hong Lu replies, like it was the most obvious answer to a complicated question.
+# Narrator: Hong Lu replies, like it was the most obvious answer to a complicated question.
 Рассказчик: отвечает Хон Лу, будто это был самый очевидный ответ на сложный вопрос.
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: The... Head.
+# Sinclair: The... Head.
 Синклер: ...Глава.
 
-# Original: So the Kong family… broke a taboo...
+# Ishmael: So the Kong family… broke a Taboo...
 Измаил: Значит, семья Кун… нарушила табу…
 
-# Original: ... And the Sweepers came to clean up anything that was left behind, to erase any sign of whatever it was that violated the taboo.
+# Hong Lu: ... And the Sweepers came to clean up anything that was left behind, to erase any sign of whatever it was that violated the Taboo.
 Хон Лу: ...И пришли Чистильщики, чтобы убрать всё, что осталось, стереть любые следы того, что нарушило табу.
 
-# Original: The Head… must really be a terrifying entity, if the mere mention of it could cause the Sinners to shrink so much. As we were ambling aimlessly with this revelation…
+# Narrator: The Head… must really be a terrifying entity, if the mere mention of it could cause the Sinners to shrink so much. As we were ambling aimlessly with this revelation…
 Рассказчик: Глава… должно быть, действительно ужасающая сущность, если одно его упоминание заставило Грешников так съёжиться. Пока мы бесцельно бродили с этим откровением…
 
-# Original: Welcome, welcome to round 2 of the Evaluation, brave contestants!
+# Host: Welcome, welcome to round 2 of the Evaluation, brave contestants!
 Ведущий: Добро пожаловать, добро пожаловать на второй раунд Оценки, отважные участники!
 
-# Original: … A disembodied but sonorous and excited voice broke the silence through the speakers.
+# Narrator: … A disembodied but sonorous and excited voice broke the silence through the speakers.
 Рассказчик: …Бестелесный, но зычный и возбуждённый голос нарушил тишину из динамиков.
 
-# Original: As there were numerous complaints regarding the possible partiality issues with our previous host, please understand that I will be taking over as the host with the start of the second round...
+# Host: As there were numerous complaints regarding the possible partiality issues with our previous host, please understand that I will be taking over as the host with the start of the second round...
 Ведущий: Поскольку было множество жалоб относительно возможной предвзятости нашего предыдущего ведущего, прошу понять, что я принимаю на себя обязанности ведущего со второго раунда...
 
-# Original: … Looks like this Jia Zheng got kicked off from the host seat.
+# Narrator: … Looks like this Jia Zheng got kicked off from the host seat.
 Рассказчик: …Похоже, этого Цзя Чжэна выпнули с места ведущего.
 
-# Original: Oi, hold on a minute. Up there, are they...
+# Heathcliff: Oi, hold on a minute. Up there, are they...
 Хитклиф: Эй, погоди-ка. Там наверху, они что...
 
-# Original: Hah… Don’t tell me we’ve got a live audience.
+# Heathcliff: Hah… Don’t tell me we’ve got a live audience.
 Хитклиф: Хах… Не говорите мне, что у нас тут живая публика.
 
-# Original: What initially appeared to be a dilapidated rooftop was revealed to be where the spectator seats were installed. They were filled to the brim, to the point where I couldn't spot a single empty seat.
+# Narrator: What initially appeared to be a dilapidated rooftop was revealed to be where the spectator seats were installed. They were filled to the brim, to the point where I couldn't spot a single empty seat.
 Рассказчик: То, что изначально казалось полуразрушенной крышей, оказалось местом установки зрительских трибун. Они были заполнены до отказа, до такой степени, что я не мог заметить ни одного свободного места.
 
-# Original: It would be reasonable to assume that they are indeed spectators, considering the way the seats are arranged.
+# Faust: It would be reasonable to assume that they are indeed spectators, considering the way the seats are arranged.
 Фауст: Разумно предположить, что это действительно зрители, учитывая расположение мест.
 
-# Original: There were some unfortunate troubles in the first round, yes, but hey. This is our once-in-a-lifetime opportunity to watch the Family Hierarch Evaluation live and in person! Is it worth it or what?
+# Host: There were some unfortunate troubles in the first round, yes, but hey. This is our once-in-a-lifetime opportunity to watch the Family Hierarch Evaluation live and in person! Is it worth it or what?
 Ведущий: Да, в первом раунде были некоторые досадные неприятности, но эй! Это наша уникальная возможность посмотреть Оценку на пост Главы Семьи вживую и воочию! Стоит оно того или как?
 
-# Original: We wanted to give as many people as possible the opportunity to witness this history in the making.
+# Host: We wanted to give as many people as possible the opportunity to witness this history in the making.
 Ведущий: Мы хотели дать как можно большему числу людей возможность стать свидетелями того, как творится история.
 
-# Original: Alrighty then! Before we really get the game rolling, please give the contestants a round of applause and cheer! Let them meet this challenge as their best selves!
+# Host: Alrighty then! Before we really get the game rolling, please give the contestants a round of applause and cheer! Let them meet this challenge as their best selves!
 Ведущий: Ну что ж! Прежде чем мы по-настоящему начнём игру, пожалуйста, подарите участникам бурные аплодисменты и поддержите их! Пусть они встретят это испытание во всеоружии!
 
-# Original: YEAAAHHHH!!
+# Audience: YEAAAHHHH!!
 Рассказчик: ДААААААА!!
 
-# Original: Holy mackerel, what a shitshow.
+# Heathcliff: Holy mackerel, what a shitshow.
 Хитклиф: Охренеть, ну и балаган.
 
-# Original: They're sittin' on their arses, poppin' popcorn into their mouths while we're stuck shittin' bricks down here?
+# Heathcliff: They're sittin' on their arses, poppin' popcorn into their mouths while we're stuck shittin' bricks down here?
 Хитклиф: Они там расселись, попкорн жрут, пока мы тут внизу кирпичи откладываем?
 
-# Original: I'm sure they've been placing bets all night.
+# Hong Lu: I'm sure they've been placing bets all night.
 Хон Лу: Уверен, они всю ночь делали ставки.
 
-# Original: Though I doubt many of them bet on us~
+# Hong Lu: Though I doubt many of them bet on us~
 Хон Лу: Хотя сомневаюсь, что многие ставили на нас~
 
-# Original: They'll regret that.
+# Ryōshū: They'll regret that.
 Рёшу: Они пожалеют об этом.
 
-# Original: By the way... we're still indoors, right? Didn't we descend deep into a basement, even if we did ride a lift upward? How come there's a blue sky above us...?
+# Ishmael: By the way... we're still indoors, right? Didn't we descend deep into a basement, even if we did ride a lift upward? How come there's a blue sky above us...?
 Измаил: Кстати... мы всё ещё в помещении, да? Разве мы не спустились глубоко в подвал, даже если потом поднялись на лифте? Откуда над нами голубое небо?..
 
-# Original: Hong Lu explained that we're still within the subterranean area of Hongyuan, but...
+# Narrator: Hong Lu explained that we're still within the subterranean area of Hongyuan, but...
 Рассказчик: Хон Лу объяснил, что мы всё ещё находимся в подземной зоне Хунъюаня, но...
 
-# Original: ... most of the Sinners were having a hard time believing that with the pale blue sky above them.
+# Narrator: ... most of the Sinners were having a hard time believing that with the pale blue sky above them.
 Рассказчик: ...большинству Грешников было трудно в это поверить, глядя на бледно-голубое небо над головой.
 
-# Original: Though this is a practice limited to the affluent class of Hongyuan, many have taken to installing artificial environments within their rooms. In fact, there are several buildings within Daguanyuan decorated in much the same manner. 
+# Faust: Though this is a practice limited to the affluent class of Hongyuan, many have taken to installing artificial environments within their rooms. In fact, there are several buildings within Daguanyuan decorated in much the same manner. 
 Фауст: Хотя это практика, ограниченная состоятельным классом Хунъюаня, многие устанавливают искусственное окружение в своих комнатах. На самом деле, в Дагуаньюане есть несколько зданий, оформленных подобным образом.
 
-# Original: Yes, the road taken to visit the elders is similarly decorated. Always so sunny and green.
+# Hong Lu: Yes, the road taken to visit the elders is similarly decorated. Always so sunny and green.
 Хон Лу: Да, дорога к старейшинам украшена так же. Там всегда так солнечно и зелено.
 
-# Original: And it feels more like the outside than the actual outside.
+# Hong Lu: And it feels more like the outside than the actual outside.
 Хон Лу: И это больше похоже на внешний мир, чем настоящий внешний мир.
 
-# Original: So what's uh... that?
+# Rodion: So what's uh... that?
 Родион: Так что это... там?
 
-# Original: I realized that what Rodya was looking at was a parasol. It was installed in such a random place that I doubted it was actually there for anyone to sit under.
+# Narrator: I realized that what Rodya was looking at was a parasol. It was installed in such a random place that I doubted it was actually there for anyone to sit under.
 Рассказчик: Я понял, что Родя смотрела на пляжный зонт. Он был установлен в таком случайном месте, что я сомневался, будто он действительно предназначен для того, чтобы под ним кто-то сидел.
 
-# Original: Oh, that's a parasol.
+# Hong Lu: Oh, that's a parasol.
 Хон Лу: О, это пляжный зонт.
 
-# Original: I-I know what a parasol is, alright...? I'm asking what that old thing is doing there all on its own?
+# Rodion: I-I know what a parasol is, alright...? I'm asking what that old thing is doing there all on its own?
 Родион: Я-я знаю, что такое пляжный зонт, понятно?.. Я спрашиваю, что эта старая штуковина делает там одна-одинёшенька?
 
-# Original: Mm…
+# Hong Lu: Mm…
 Хон Лу: Мм…
 
-# Original: Hong Lu tilted his head, thinking.
+# Narrator: Hong Lu tilted his head, thinking.
 Рассказчик: Хон Лу склонил голову, задумавшись.
 
-# Original: A real big shot who brought the Claws watched the whole thing from that seat.
+# Hong Lu: A real big shot who brought the Claws watched the whole thing from that seat.
 Хон Лу: Очень большая шишка, которая привела Когтей, наблюдала за всем с того места.
 
-# Original: The four houses left the parasol there because...
+# Hong Lu: The four houses left the parasol there because...
 Хон Лу: Четыре дома оставили зонт там, потому что...
 
-# Original: ... they wanted it to be a lasting reminder. A warning for the remaining houses, too.
+# Hong Lu: ... they wanted it to be a lasting reminder. A warning for the remaining houses, too.
 Хон Лу: ...они хотели, чтобы это было вечным напоминанием. И предупреждением для оставшихся домов.
 
-# Original: Reminder? ... Reminder for what?
+# Sinclair: Reminder? ... Reminder for what?
 Синклер: Напоминанием? ...Напоминанием о чём?
 
-# Original: That we mustn't seek what is not permitted to us.
+# Hong Lu: That we mustn't seek what is not permitted to us.
 Хон Лу: О том, что мы не должны стремиться к тому, что нам не дозволено.
 
-# Original: That we should know our place, live the life we deserve, and part from this world the way we deserve.
+# Hong Lu: That we should know our place, live the life we deserve, and part from this world the way we deserve.
 Хон Лу: Что мы должны знать своё место, жить той жизнью, которой заслуживаем, и покинуть этот мир так, как заслуживаем.
 
-# Original: ... Said the elders.
+# Hong Lu: ... Said the elders.
 Хон Лу: ... Так сказали старейшины.
 
-# Original: Shall we enter, now?
+# Hong Lu: Shall we enter, now?
 Хон Лу: Теперь, войдём?
 
-# Original: While we all gaped about like fish out of water in this unfamiliar environment,
+# Narrator: While we all gaped about like fish out of water in this unfamiliar environment,
 Рассказчик: Пока мы все глазели по сторонам, как рыбы, выброшенные на берег, в этой незнакомой обстановке,
 
-# Original: Hong Lu casually walked ahead of us into the building like he was out on a mundane stroll.
+# Narrator: Hong Lu casually walked ahead of us into the building like he was out on a mundane stroll.
 Рассказчик: Хон Лу небрежно прошёл вперёд нас в здание, словно вышел на обычную прогулку.
 
-# Original: <I know you said you heard it all from the family elders, but...>
+# Dante: <I know you said you heard it all from the family elders, but...>
 Данте: <Знаю, ты сказал, что всё это слышал от старейшин семьи, но...>
 
-# Original: <... you saw everything that happened here, didn't you? All of it.>
+# Dante: <... you saw everything that happened here, didn't you? All of it.>
 Данте: <...ты ведь видел всё, что здесь произошло, не так ли? Всё до конца.>
 
-# Original: Hong Lu paused, then turned around.
+# Narrator: Hong Lu paused, then turned around.
 Рассказчик: Хон Лу остановился, затем обернулся.
 
-# Original: …….
+# Hong Lu: …….
 Хон Лу: …….
 
-# Original: Yes, I probably did.
+# Hong Lu: Yes, I probably did.
 Хон Лу: Да, наверное, видел.
 
-# Original: I'm starting to have less and less idea as to what his smile really means.
+# Narrator: I'm starting to have less and less idea as to what his smile really means.
 Рассказчик: Я всё меньше и меньше понимаю, что на самом деле означает его улыбка.

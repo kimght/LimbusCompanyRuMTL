@@ -1,119 +1,119 @@
-# Original: I don't see...
+# Sinclair: I don't see...
 Sinclair: Я не вижу...
 
-# Original: ... anyone in here.
+# Sinclair: ... anyone in here.
 Sinclair: ... никого.
 
-# Original: All teams have entered the House of Spiders according to plan. All stations, remain on alert for any movements.
+# Radio: All teams have entered the House of Spiders according to plan. All stations, remain on alert for any movements.
 Saude: Все группы вошли в Дом Пауков согласно плану. Всем постам, сохранять бдительность и следить за любыми передвижениями.
 
-# Original: Is everyone... okay?
+# Sinclair: Is everyone... okay?
 Sinclair: Все... в порядке?
 
-# Original: .......
+# Alyssa: .......
 Alyssa: .......
 
-# Original: Not really. Doc said I'll be facing some challenges in my daily life for the next few months.
+# Alyssa: Not really. Doc said I'll be facing some challenges in my daily life for the next few months.
 Alyssa: Не совсем. Док сказал, что в ближайшие несколько месяцев я столкнусь с некоторыми трудностями в повседневной жизни.
 
-# Original: And here I was, looking forward to this rare chance of witnessing the mythical "paid sick leave." I still find it baffling that you've denied yourself that opportunity.
+# Hohenheim: And here I was, looking forward to this rare chance of witnessing the mythical "paid sick leave." I still find it baffling that you've denied yourself that opportunity.
 Hohenheim: А я уж было надеялся стать свидетелем такого редкого явления, как мифический «оплачиваемый больничный». До сих пор сбивает с толку, что вы лишили себя этой возможности.
 
-# Original: To be entirely honest, I am starting to think that you may have gone completely mad.
+# Hohenheim: To be entirely honest, I am starting to think that you may have gone completely mad.
 Hohenheim: Если быть до конца честным, я начинаю думать, что вы, возможно, окончательно сошли с ума.
 
-# Original: What I'm doing may seem completely crazy, but I assure you my sanity's still intact.
+# Alyssa: What I'm doing may seem completely crazy, but I assure you my sanity's still intact.
 Alyssa: То, что я делаю, может показаться полным безумием, но уверяю вас, мой рассудок всё ещё в порядке.
 
-# Original: I would've gone truly insane if I weren't allowed to be a part of this mission, though.
+# Alyssa: I would've gone truly insane if I weren't allowed to be a part of this mission, though.
 Alyssa: Хотя я бы действительно сошла с ума, если бы мне не позволили принять участие в этой миссии.
 
-# Original: ... What did they do with Mister Marton?
+# Sinclair: ... What did they do with Mister Marton?
 Sinclair: ... Что они сделали с мистером Мартоном?
 
-# Original: ... His remains have been retrieved.
+# Radio: ... His remains have been retrieved.
 Saude: ... Его останки удалось извлечь.
 
-# Original: Retrieved? Since when did we become part of District 14?
+# Hohenheim: Retrieved? Since when did we become part of District 14?
 Hohenheim: Извлечь? С каких это пор мы стали частью Района 14?
 
-# Original: Or has Limbus Company suddenly found the scintilla of conscience to give him a proper funeral?
+# Hohenheim: Or has Limbus Company suddenly found the scintilla of conscience to give him a proper funeral?
 Hohenheim: Или у Компании Лимбус вдруг проснулась искра совести, чтобы устроить ему достойные похороны?
 
-# Original: ... Maybe they will, should the two of you return safely.
+# Radio: ... Maybe they will, should the two of you return safely.
 Saude: ... Может быть и устроят, если вы двое вернетесь в целости и сохранности.
 
-# Original: Some time ago, prior to entering the Backdoor
+# Narrator: Some time ago, prior to entering the Backdoor
 Narrator: Некоторое время назад, перед входом в Черный Ход.
 
-# Original: The assignments are final. Ensure that your line-ups are in order.
+# Faust: The assignments are final. Ensure that your line-ups are in order.
 Faust: Назначения окончательны. Убедитесь, что ваши построения в порядке.
 
-# Original: ... I don't like this at all. You can't possibly believe that the current composition of the Executive Manager's squad is equipped to ensure their safety.
+# Outis: ... I don't like this at all. You can't possibly believe that the current composition of the Executive Manager's squad is equipped to ensure their safety.
 Outis: ... Мне это совсем не нравится. Вы ведь не можете всерьез полагать, что текущий состав отряда Исполнительного Менеджера способен обеспечить его безопасность.
 
-# Original: There won't be any issues. Not with Dante's newly awakened power.
+# Faust: There won't be any issues. Not with Dante's newly awakened power.
 Faust: Проблем не возникнет. Не с новообретенной силой Данте.
 
-# Original: Yeah, don'tcha worry! Dante's been training that remote sight ability really hard while the bigwigs were busy holding meetings and dealing with the fallout~ With that and the teleport power to zap us in and out, we'll be a-ok!
+# Rodion: Yeah, don'tcha worry! Dante's been training that remote sight ability really hard while the bigwigs were busy holding meetings and dealing with the fallout~ With that and the teleport power to zap us in and out, we'll be a-ok!
 Rodion: Ага, да не волнуйся ты! Данте усердно тренировал эту способность удаленного зрения, пока большие шишки были заняты совещаниями и разгребанием последствий~ С ней и силой телепортации, способной перекидывать нас туда и обратно, мы будем в полном порядке!
 
-# Original: "Teleportation"... Hm... Indeed.
+# Faust: "Teleportation"... Hm... Indeed.
 Faust: «Телепортации»... Хм... Действительно.
 
-# Original: The way Faust replied seemed to indicate that it was anything but "teleportation," but the tone in her voice declared, in no uncertain terms, that she could not be bothered to elaborate.
+# Narrator: The way Faust replied seemed to indicate that it was anything but "teleportation," but the tone in her voice declared, in no uncertain terms, that she could not be bothered to elaborate.
 Narrator: То, как ответила Фауст, казалось, указывало на то, что это было что угодно, но не «телепортация», однако тон её голоса недвусмысленно давал понять, что она не утрудит себя объяснениями.
 
-# Original: .......
+# Outis: .......
 Outis: .......
 
-# Original: Strange this feels, to be imparting such farewells afore the operation...
+# Yi Sang: Strange this feels, to be imparting such farewells afore the operation...
 Yi Sang: Странно чувство сие — молвить такие прощальные слова пред началом операции...
 
-# Original: I hope we'll be able to meet one another again, safe and sound, once this is over.
+# Hong Lu: I hope we'll be able to meet one another again, safe and sound, once this is over.
 Hong Lu: Надеюсь, мы сможем встретиться снова, целыми и невредимыми, когда всё это закончится.
 
-# Original: Listen, Hong Lu. Bud. You don't say that kinda stuff before going into battle, alright? It usually ends up causing the opposite of the intended effect.
+# Gregor: Listen, Hong Lu. Bud. You don't say that kinda stuff before going into battle, alright? It usually ends up causing the opposite of the intended effect.
 Gregor: Слушай, Хон Лу. Дружище. Не стоит говорить такие вещи перед боем, лады? Обычно это приводит к результату, обратному ожидаемому.
 
-# Original: How about... "What could possibly go wrong?"
+# Gregor: How about... "What could possibly go wrong?"
 Gregor: Как насчет... «Что вообще может пойти не так?»
 
-# Original: Yeah, that's more like it.
+# Gregor: Yeah, that's more like it.
 Gregor: Во, так-то лучше.
 
-# Original: ... Was that supposed to be any better?
+# Ishmael: ... Was that supposed to be any better?
 Ishmael: ... И это должно было прозвучать лучше?
 
-# Original: .......
+# Sinclair: .......
 Sinclair: .......
 
-# Original: Well, it's time. I'll go on ahead.
+# Sinclair: Well, it's time. I'll go on ahead.
 Sinclair: Что ж, пора. Я пойду вперед.
 
-# Original: <Uhh—>
+# Dante: <Uhh—>
 Dante: <Э-э—>
 
-# Original: <Hey, Sinclair...!>
+# Dante: <Hey, Sinclair...!>
 Dante: <Эй, Синклер...!>
 
-# Original: Yeah?
+# Sinclair: Yeah?
 Sinclair: Да?
 
-# Original: <About... about everything that happened... You just...>
+# Dante: <About... about everything that happened... You just...>
 Dante: <Насчет... насчет всего, что случилось... Ты просто...>
 
-# Original: <You just gotta accept... what's done is done.>
+# Dante: <You just gotta accept... what's done is done.>
 Dante: <Ты просто должен принять... что сделано, то сделано.>
 
-# Original: Sinclair paused for a moment, then...
+# Narrator: Sinclair paused for a moment, then...
 Narrator: Синклер на мгновение замер, а затем...
 
-# Original: ... gave a quiet smile.
+# Narrator: ... gave a quiet smile.
 Narrator: ... тихо улыбнулся.
 
-# Original: Okay, I will.
+# Sinclair: Okay, I will.
 Sinclair: Хорошо, я так и сделаю.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......

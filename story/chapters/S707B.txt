@@ -1,236 +1,236 @@
-﻿# Original: W-well, does anybody wanna take a quick stroll around the empty lot while we wait...?
+﻿# Rodion: W-well, does anybody wanna take a quick stroll around the empty lot while we wait...?
 Родион: Н-ну, может, кто-нибудь хочет прогуляться по пустырю, пока мы ждём...?
 
-# Original: After nervously looking around the room, Rodya tried to leave the tent. But Vergilius stopped her.
+# Narrator: After nervously looking around the room, Rodya tried to leave the tent. But Vergilius stopped her.
 Рассказчик: Нервно осмотревшись, Родя попыталась выйти из палатки. Но Вергилий остановил её.
 
-# Original: No, stay. I have something to share.
+# Vergilius: No, stay. I have something to share.
 Вергилий: Нет, останьтесь. Мне нужно кое-чем поделиться.
 
-# Original: Oh, come on. Can't you give her a moment, at least until the mission's over with? I know the lass really botched it this time, but nothing came of it in the end, did it?
+# Heathcliff: Oh, come on. Can't you give her a moment, at least until the mission's over with? I know the lass really botched it this time, but nothing came of it in the end, did it?
 Хитклиф: Да ладно тебе. Неужели ты не можешь дать ей передохнуть, хотя бы пока миссия не закончится? Я знаю, что девчонка на этот раз крупно облажалась, но ведь всё обошлось, верно?
 
-# Original: ... The company has some exclusive information they'd like to share with you. That is the only reason I asked you to stay.
+# Vergilius: ... The company has some exclusive information they'd like to share with you. That is the only reason I asked you to stay.
 Вергилий: ... Компания хочет поделиться с вами эксклюзивной информацией. Это единственная причина, по которой я попросил вас остаться.
 
-# Original: Ah... ahem... Sir... Lord... R-Red Gaze... E-earlier, what I had done...
+# Don Quixote: Ah... ahem... Sir... Lord... R-Red Gaze... E-earlier, what I had done...
 Дон Кихот: Ах... кхм... Господин... Владыка... К-Красный взор... Р-ранее, то, что я сделала...
 
-# Original: ... I won't hold it against you. So be quiet and pay attention.
+# Vergilius: ... I won't hold it against you. So be quiet and pay attention.
 Вергилий: ... Я не держу на тебя зла. Так что замолчи и слушай внимательно.
 
-# Original: Sob... O Red Gaze the illustrious... I swear to pledge mine undying loyalty to thee...
+# Don Quixote: Sob... O Red Gaze the illustrious... I swear to pledge mine undying loyalty to thee...
 Дон Кихот: Хнык... О, славный Красный взор... Клянусь посвятить тебе свою нескончаемую верность...
 
-# Original: Vergilius produced a small tablet and began loading something up on its screen.
+# Narrator: Vergilius produced a small tablet and began loading something up on its screen.
 Рассказчик: Вергилий достал небольшой планшет и начал что-то загружать на экране.
 
-# Original: The one who will now brief us on this exclusive intelligence cannot be with us in person, due to... personal reasons.
+# Vergilius: The one who will now brief us on this exclusive intelligence cannot be with us in person, due to... personal reasons.
 Вергилий: Тот, кто сейчас проведёт для нас брифинг по этим эксклюзивным разведданным, не может присутствовать лично по... личным причинам.
 
-# Original: She wanted me to tell you that she regrets having to deliver the information remotely via this device.
+# Vergilius: She wanted me to tell you that she regrets having to deliver the information remotely via this device.
 Вергилий: Она хотела, чтобы я сказал вам, что она сожалеет о необходимости передавать информацию удалённо через это устройство.
 
-# Original: Hello. One, two, testing. Am I coming through?
+# ???: Hello. One, two, testing. Am I coming through?
 Мозес: Здравствуйте. Раз, два, проверка связи. Меня слышно?
 
-# Original: Huh? Didn't the Hana Fixer ban any unauthorized recordings or video feeds earlier?
+# Ishmael: Huh? Didn't the Hana Fixer ban any unauthorized recordings or video feeds earlier?
 Измаил: А? Разве Корректировщик из Хана не запретил любые несанкционированные записи или видеотрансляции?
 
-# Original: Of course, but we've received prior authorization. Besides, P Corp. is already recording the conversations of every participant in this mission.
+# Vergilius: Of course, but we've received prior authorization. Besides, P Corp. is already recording the conversations of every participant in this mission.
 Вергилий: Разумеется, но мы получили предварительное разрешение. К тому же, Корпорация P уже записывает разговоры каждого участника этой миссии.
 
-# Original: That just sounds like a roundabout way of saying they've got us all bugged.
+# Gregor: That just sounds like a roundabout way of saying they've got us all bugged.
 Грегор: Это звучит как замысловатый способ сказать, что они нас всех прослушивают.
 
-# Original: Of course, the authorization was not free. We had to convince them that the information would be pertinent to capturing the entity at the origin of La Manchaland.
+# Vergilius: Of course, the authorization was not free. We had to convince them that the information would be pertinent to capturing the entity at the origin of La Manchaland.
 Вергилий: Конечно, разрешение было не бесплатным. Нам пришлось убедить их, что информация будет иметь отношение к поимке сущности, являющейся источником Ла-Манчалэнда.
 
-# Original: LCD On-site Investigative Reasoning Team Leader, Moses here. I've been studying and investigating the Distortion phenomenon for a long time. And—
+# Moses: LCD On-site Investigative Reasoning Team Leader, Moses here. I've been studying and investigating the Distortion phenomenon for a long time. And—
 Мозес: Руководитель группы расследований LCD на месте, Мозес. Я долгое время изучала и расследовала феномен Искажения. И—
 
-# Original: That reminds me. We did have a quick call with someone from the LCD back when. She had a pretty bubbly personality, I think, and her name was...
+# Narrator: That reminds me. We did have a quick call with someone from the LCD back when. She had a pretty bubbly personality, I think, and her name was...
 Рассказчик: Это напомнило мне. У нас ведь был короткий разговор с кем-то из LCD некоторое время назад. У неё была довольно жизнерадостная личность, кажется, и её звали...
 
-# Original: Hey, hey! It's me again, Ezra! Been a while!
+# Ezra: Hey, hey! It's me again, Ezra! Been a while!
 Эзра: Эй, эй! Это снова я, Эзра! Давно не виделись!
 
-# Original: Hunting Bloodfiends this time, huh? Don't tell me you were about to jump headfirst into that business without even asking the detec—I mean, our Team Leader! I'm tellin' ya now, she used to bust plenty of Bloodfiend heads back in the day.
+# Ezra: Hunting Bloodfiends this time, huh? Don't tell me you were about to jump headfirst into that business without even asking the detec—I mean, our Team Leader! I'm tellin' ya now, she used to bust plenty of Bloodfiend heads back in the day.
 Эзра: На этот раз охотитесь на Кровожадов, да? Только не говорите, что собирались нырнуть в это дело, даже не спросив детек... в смысле, нашего Руководителя Команды! Говорю вам, она когда-то разбила немало Кровожадских голов.
 
-# Original: You tell 'em how you used to whoop 'em, boss. You'd go sshhhhhh on that smoking pipe, and went whirr! Whirr! And—
+# Ezra: You tell 'em how you used to whoop 'em, boss. You'd go sshhhhhh on that smoking pipe, and went whirr! Whirr! And—
 Эзра: Расскажи им, как ты их колошматила, босс. Ты делала шшшш своей курительной трубкой, а потом вжух! Вжух! И—
 
-# Original: Well, yes. I do have some experience with investigating and battling Bloodfiends. I've even met one of the Bloodfiend Elders... also known as the First Kindreds.
+# Moses: Well, yes. I do have some experience with investigating and battling Bloodfiends. I've even met one of the Bloodfiend Elders... also known as the First Kindreds.
 Мозес: Ну да, у меня есть некоторый опыт в расследовании дел, связанных с Кровожадами, и сражениях с ними. Я даже встречалась с одной из Старейшин Кровожадов... также известных как Первые Сородичи.
 
-# Original: Wait, one of the First Kindreds?
+# Sinclair: Wait, one of the First Kindreds?
 Синклер: Погодите, один из Первых Сородичей?
 
-# Original: Uhh, let's see. The one we fought last time was a Sixth Kindred, and a Seventh Kindred...
+# Sinclair: Uhh, let's see. The one we fought last time was a Sixth Kindred, and a Seventh Kindred...
 Синклер: Эмм, дайте подумать. Тот, с которым мы сражались в прошлый раз, был Шестым Сородичем, а другой был Седьмым Сородичем...
 
-# Original: Well, I don't want to waste your time by talking your ears off about what happened that day, so I'll get straight to the point.
+# Moses: Well, I don't want to waste your time by talking your ears off about what happened that day, so I'll get straight to the point.
 Мозес: Что ж, я не хочу тратить ваше время, рассказывая о том, что произошло в тот день, поэтому перейду сразу к делу.
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: ... Didst thou... slay the First Kindred?
+# Don Quixote: ... Didst thou... slay the First Kindred?
 Дон Кихот: ... Ты... убила Первого Сородича?
 
-# Original: Of course not.
+# Moses: Of course not.
 Мозес: Конечно, нет.
 
-# Original: Yeah, 'cuz she went easy on 'em, I tell ya.
+# Ezra: Yeah, 'cuz she went easy on 'em, I tell ya.
 Эзра: Да, потому что она их пожалела, говорю вам.
 
-# Original: No, the Bloodfiend took mercy on me. Our meeting wasn't as bloody as the scene you might be imagining at the moment.
+# Moses: No, the Bloodfiend took mercy on me. Our meeting wasn't as bloody as the scene you might be imagining at the moment.
 Мозес: Нет, Кровожад проявил ко мне милосердие. Наша встреча не была такой кровавой, как сцена, которую вы, возможно, сейчас себе представляете.
 
-# Original: In fact, she was generous enough to give me a place to sit. And we even had a moment to converse.
+# Moses: In fact, she was generous enough to give me a place to sit. And we even had a moment to converse.
 Мозес: На самом деле, она была достаточно великодушна, чтобы предоставить мне место, где можно присесть. И у нас даже была возможность поговорить.
 
-# Original: What? The Bloodfiend gave you a seat?! You expect me to believe that shite?
+# Heathcliff: What? The Bloodfiend gave you a seat?! You expect me to believe that shite?
 Хитклиф: Что? Кровожад предложил тебе присесть?! Ты ожидаешь, что я поверю в эту чушь?
 
-# Original: Hey! Rude! You do *not* talk to the detec— I mean, our Team Leader like that, capiche?!
+# Ezra: Hey! Rude! You do *not* talk to the detec— I mean, our Team Leader like that, capiche?!
 Эзра: Эй! Как грубо! Ты *не смеешь* так разговаривать с детек... то есть, с нашим Руководителя Команды, понял?!
 
-# Original: Hm, I do understand that the public's perception of Bloodfiends is... far from amicable. But I do know that at least some of them, including the Elder I met, wish for a peaceful coexistence with humans.
+# Moses: Hm, I do understand that the public's perception of Bloodfiends is... far from amicable. But I do know that at least some of them, including the Elder I met, wish for a peaceful coexistence with humans.
 Мозес: Хм, я понимаю, что общественное восприятие Кровожадов... далеко от дружелюбного. Но я знаю, что по крайней мере некоторые из них, включая Старейшину, которую я встретила, желают мирного сосуществования с людьми.
 
-# Original: Back then, I used to be able to state with absolute certainty that the Bloodfiends weren't special, that they were no different from the Distortions I'd faced in the past. Those wells of blood, splashing inside their pupils were my evidence. But when I shared this thought with the Elder, she did not confirm nor deny my assertions.
+# Moses: Back then, I used to be able to state with absolute certainty that the Bloodfiends weren't special, that they were no different from the Distortions I'd faced in the past. Those wells of blood, splashing inside their pupils were my evidence. But when I shared this thought with the Elder, she did not confirm nor deny my assertions.
 Мозес: Тогда я могла с абсолютной уверенностью заявить, что Кровожады не особенные, что они ничем не отличаются от Искажений, с которыми я сталкивалась в прошлом. Эти колодцы крови, плещущиеся в их зрачках, были моим доказательством. Но когда я поделилась этой мыслью со Старейшиной, она не подтвердила и не опровергла мои утверждения.
 
-# Original: But now, I would like to make a correction to my prior theory. Bloodfiends cannot be explained only through the simple lens of viewing them as Distortions.
+# Moses: But now, I would like to make a correction to my prior theory. Bloodfiends cannot be explained only through the simple lens of viewing them as Distortions.
 Мозес: Но сейчас я хотела бы внести поправку в свою предыдущую теорию. Кровожадов нельзя объяснить, просто рассматривая их как Искажения.
 
-# Original: Their essence is similar to that of Distortions, yes. However, we eventually drew the conclusion that the Bloodfiends cannot be filed under that category. Our attempt to 'resolve' a Bloodfiend as one does a Distortion failed.
+# Moses: Their essence is similar to that of Distortions, yes. However, we eventually drew the conclusion that the Bloodfiends cannot be filed under that category. Our attempt to 'resolve' a Bloodfiend as one does a Distortion failed.
 Мозес: Их сущность действительно похожа на сущность Искажений. Однако в итоге мы пришли к выводу, что Кровожадов нельзя отнести к этой категории. Наша попытка "разрешить" Кровожада так же, как это делается с Искажением, потерпела неудачу.
 
-# Original: Studies into their true origin are currently underway.
+# Moses: Studies into their true origin are currently underway.
 Мозес: В настоящее время ведутся исследования их истинного происхождения.
 
-# Original: If your team is looking into the Bloodfiends, I suppose you have some publicly unavailable information to share with the rest of us?
+# Outis: If your team is looking into the Bloodfiends, I suppose you have some publicly unavailable information to share with the rest of us?
 Отис: Если ваша команда изучает Кровожадов, полагаю, у вас есть какая-то недоступная общественности информация, которой вы можете поделиться с остальными?
 
-# Original: ... Yes, I suppose we do.
+# Moses: ... Yes, I suppose we do.
 Мозес: ... Да, думаю, есть.
 
-# Original: I noticed on the video feed that Moses intently, yet briefly, stared at Outis before continuing with her briefing. Maybe they knew each other from somewhere.
+# Narrator: I noticed on the video feed that Moses intently, yet briefly, stared at Outis before continuing with her briefing. Maybe they knew each other from somewhere.
 Рассказчик: Я заметил на видеотрансляции, что Мозес пристально, но коротко посмотрела на Отис, прежде чем продолжить свой брифинг. Может быть, они откуда-то знали друг друга.
 
-# Original: Which brings us to... this. The following is what we learned about Kindreds of true Bloodfiends, those in the same vein as the one you've already encountered. I'm not talking about the ones that manifested as Distortions after the White Nights and Dark Days incident, mind.
+# Moses: Which brings us to... this. The following is what we learned about Kindreds of true Bloodfiends, those in the same vein as the one you've already encountered. I'm not talking about the ones that manifested as Distortions after the White Nights and Dark Days incident, mind.
 Мозес: Что приводит нас к... этому. Далее следует то, что мы узнали о Сородичах настоящих Кровожадов, тех, которые относятся к той же категории, что и тот, с которым вы уже сталкивались. Я не говорю о тех, которые проявились как Искажения после инцидента с Белыми ночами и Тёмными днями.
 
-# Original: It is said that the primogenitor, the very first Bloodfiend, wielded unimaginable power and could embrace countless humans and turn them into their Kindreds. However, starting from the Kindreds of the first generation after the primogenitor, which are referred to as the First Kindreds, they were restricted to creating only two Kindreds of a lower generation in their long existences.
+# Moses: It is said that the primogenitor, the very first Bloodfiend, wielded unimaginable power and could embrace countless humans and turn them into their Kindreds. However, starting from the Kindreds of the first generation after the primogenitor, which are referred to as the First Kindreds, they were restricted to creating only two Kindreds of a lower generation in their long existences.
 Мозес: Говорят, что прародитель, самый первый Кровожад, обладал невообразимой силой и мог обратить бесчисленное количество людей в своих потомков. Однако, начиная с Сородичей первого поколения после прародителя, которых называют Первыми Сородичами, они были ограничены созданием только двух потомков более низкого поколения за всю свою долгую жизнь.
 
-# Original: Something about how they can't just create 'families' willy-nilly, or something like that~ I drew this chart, by the way! Not half bad, huh?
+# Ezra: Something about how they can't just create 'families' willy-nilly, or something like that~ I drew this chart, by the way! Not half bad, huh?
 Эзра: Что-то вроде того, что они не могут просто создавать "семьи" как им вздумается, или что-то в этом роде~ Кстати, эту схему я нарисовала! Неплохо получилось, а?
 
-# Original: Huh, yeah. I think that Cassette guy was pretty disappointed about choosing Sha-sha as his Kindred.
+# Gregor: Huh, yeah. I think that Cassette guy was pretty disappointed about choosing Sha-sha as his Kindred.
 Грегор: Хм, да. Кажется, этот парень-Кассета был довольно разочарован выбором Ша-ша в качестве своего потомка.
 
-# Original: ... Faust finds the inaccuracies in your statement difficult to correct due to their egregious nature.
+# Faust: ... Faust finds the inaccuracies in your statement difficult to correct due to their egregious nature.
 Фауст: ... Фауст сложно исправить неточности в вашем утверждении из-за их вопиющего характера.
 
-# Original: When a Bloodfiend of a higher generation creates a lower-generation Kindred, the one that embraced them is called a 'higher Kindred', while the one that's been embraced is called a 'lower Kindred'. It is often the case that Kindreds higher up the bloodstream wield a much greater power than the ones beneath them.
+# Moses: When a Bloodfiend of a higher generation creates a lower-generation Kindred, the one that embraced them is called a 'higher Kindred', while the one that's been embraced is called a 'lower Kindred'. It is often the case that Kindreds higher up the bloodstream wield a much greater power than the ones beneath them.
 Мозес: Когда Кровожад более высокого поколения создаёт Сородича более низкого поколения, того, кто обратил его, называют "высшим Сородичем", а того, кого обратили, называют "низшим Сородичем". Часто бывает так, что Сородичи, находящиеся выше по кровотоку, обладают гораздо большей силой, чем те, кто находится ниже них.
 
-# Original: You started your sentence with the conditional 'it is often the case'. Therefore, it can be interpreted as a statement that there are cases in which such is not the case.
+# Meursault: You started your sentence with the conditional 'it is often the case'. Therefore, it can be interpreted as a statement that there are cases in which such is not the case.
 Мерсо: Вы начали своё предложение с условного "часто бывает так". Следовательно, это можно интерпретировать как утверждение, что существуют случаи, когда это не так.
 
-# Original: You're right on the money! Just like how each Distortion is different, Bloodfiends are also different in ways—
+# Ezra: You're right on the money! Just like how each Distortion is different, Bloodfiends are also different in ways—
 Эзра: В точку! Так же, как каждое Искажение отличается, Кровожады тоже различаются—
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: —that our Team Leader will explain!
+# Ezra: —that our Team Leader will explain!
 Эзра: —что объяснит наш Руководитель Команды!
 
-# Original: Haah... Yes. Each Bloodfiend's powers and idiosyncrasies often vary depending on the higher Bloodfiend's abilities. However, it is usually impossible for lower Bloodfiends to revolt against someone higher up the bloodstream. While there is no physical barrier stopping them, there is an intense psychological barrier preventing them from doing so.
+# Moses: Haah... Yes. Each Bloodfiend's powers and idiosyncrasies often vary depending on the higher Bloodfiend's abilities. However, it is usually impossible for lower Bloodfiends to revolt against someone higher up the bloodstream. While there is no physical barrier stopping them, there is an intense psychological barrier preventing them from doing so.
 Мозес: Хаах... Да. Способности и особенности каждого Кровожада часто варьируются в зависимости от способностей высшего Кровожада. Однако обычно низшим Кровожадам невозможно восстать против кого-то выше по кровотоку. Хотя физического барьера, препятствующего этому, нет, существует сильный психологический барьер, не позволяющий им это сделать.
 
-# Original: ... Like a parent and their child, huh.
+# Gregor: ... Like a parent and their child, huh.
 Грегор: ... Как у родителя и его ребёнка, да?
 
-# Original: Yes, like parents and their children. Considering that they even call one another with familial terms such as 'Father', 'Mother', and 'Child'... it is no mere metaphor. That is why they call such acts of revolt, going against the bloodstream... 'filial impiety'.
+# Moses: Yes, like parents and their children. Considering that they even call one another with familial terms such as 'Father', 'Mother', and 'Child'... it is no mere metaphor. That is why they call such acts of revolt, going against the bloodstream... 'filial impiety'.
 Мозес: Да, как у родителей и их детей. Учитывая, что они даже называют друг друга семейными терминами, такими как "Отец", "Мать" и "Дитя"... это не просто метафора. Вот почему они называют такие акты восстания, идущие против кровотока... "непочтительностью к предкам".
 
-# Original: Just as how 'blood' becomes their axis of value judgment, so does this idea of the inviolable relationship between family members get imprinted into the core of their very being. Upon being turned, Bloodfiends experience that extreme level of twist in their moral judgment.
+# Moses: Just as how 'blood' becomes their axis of value judgment, so does this idea of the inviolable relationship between family members get imprinted into the core of their very being. Upon being turned, Bloodfiends experience that extreme level of twist in their moral judgment.
 Мозес: Так же, как "кровь" становится их осью ценностных суждений, так и эта идея о нерушимых отношениях между членами семьи впечатывается в самую суть их существа. После обращения Кровожады испытывают значительное искажение своих моральных представлений.
 
-# Original: And that's why the Bloodbags, who are at the bottom rung of the family tree...
+# Sinclair: And that's why the Bloodbags, who are at the bottom rung of the family tree...
 Синклер: И поэтому Кровососы, которые находятся на самой нижней ступени семейного древа...
 
-# Original: Bloodbags are... a different story. Bloodfiends and Bloodbags are the furthest two groups of beings could be from family.
+# Moses: Bloodbags are... a different story. Bloodfiends and Bloodbags are the furthest two groups of beings could be from family.
 Мозес: Кровососы... это другая история. Кровожады и Кровососы — это две наиболее далёкие друг от друга группы существ, какие только могут быть в семье.
 
-# Original: Dregs that failed to become Kindreds. To Bloodfiends, they are... quite literally, portable bags of blood to replenish themselves at times of need.
+# Moses: Dregs that failed to become Kindreds. To Bloodfiends, they are... quite literally, portable bags of blood to replenish themselves at times of need.
 Мозес: Отбросы, которым не удалось стать Сородичами. Для Кровожадов они... буквально, переносные мешки с кровью для пополнения запасов в моменты нужды.
 
-# Original: Detective, I mean... Team Leader, you should mention this too. You know, when I snapped their necks and smashed them right into water—
+# Ezra: Detective, I mean... Team Leader, you should mention this too. You know, when I snapped their necks and smashed them right into water—
 Эзра: Детектив, то есть... Руководитель Команды, ты должна упомянуть и это. Знаешь, когда я сворачивала им шеи и разбивала их прямо о воду—
 
-# Original: Yes. Bloodfiends have an irrationally extreme fear of water. Water doesn't physically harm them, but every Bloodfiend I have seen thus far has been afraid of it.
+# Moses: Yes. Bloodfiends have an irrationally extreme fear of water. Water doesn't physically harm them, but every Bloodfiend I have seen thus far has been afraid of it.
 Мозес: Да. Кровожады испытывают иррационально сильный страх перед водой. Вода не причиняет им физического вреда, но каждый Кровожад, которого я видела до сих пор, боялся её.
 
-# Original: Huh? Sounds like an easy solution, then. Can't we just spray them with water to keep 'em off our backs?
+# Rodion: Huh? Sounds like an easy solution, then. Can't we just spray them with water to keep 'em off our backs?
 Родион: А? Звучит как простое решение. Разве мы не можем просто побрызгать на них водой, чтобы держать их подальше?
 
-# Original: Since you're about to visit their den that's crawling with Bloodfiends... good luck finding even a drop of water in there.
+# Moses: Since you're about to visit their den that's crawling with Bloodfiends... good luck finding even a drop of water in there.
 Мозес: Учитывая, что вы собираетесь посетить их логово, кишащее Кровожадами... удачи в поисках хотя бы капли воды там.
 
-# Original: Oh, and I was informed that one of you can 'sense' a Distortion. I learned this through unofficial channels, but I still wished to share.
+# Moses: Oh, and I was informed that one of you can 'sense' a Distortion. I learned this through unofficial channels, but I still wished to share.
 Мозес: О, и мне сообщили, что один из вас может "чувствовать" Искажение. Я узнала об этом по неофициальным каналам, но всё же хотела поделиться.
 
-# Original: <Uh...>
+# Dante: <Uh...>
 Данте: <Эм...>
 
-# Original: Glad to know there's someone else out there who understands this particular sensation.
+# Moses: Glad to know there's someone else out there who understands this particular sensation.
 Мозес: Рада знать, что есть ещё кто-то, кто понимает это особое ощущение.
 
-# Original: I'd very much like to meet you in person one day.
+# Moses: I'd very much like to meet you in person one day.
 Мозес: Я бы очень хотела встретиться с вами лично когда-нибудь.
 
-# Original: Real shame we can't be there to see it for ourselves. Are there any famous Fixers there? I heard earlier that stupid Camille kid'll be there too... Kick his ass for me, won't ya? I tried to pull a prank on him, but the bastard banned me from the chat!
+# Ezra: Real shame we can't be there to see it for ourselves. Are there any famous Fixers there? I heard earlier that stupid Camille kid'll be there too... Kick his ass for me, won't ya? I tried to pull a prank on him, but the bastard banned me from the chat!
 Эзра: Очень жаль, что мы не можем быть там, чтобы увидеть всё своими глазами. Есть ли там какие-нибудь известные Корректировщики? Я слышала ранее, что этот глупый мальчишка Камилл тоже будет там... Надери ему задницу за меня, ладно? Я попыталась подшутить над ним, но этот засранец забанил меня в чате!
 
-# Original: Well, he already kicked one of our asses...
+# Rodion: Well, he already kicked one of our asses...
 Родион: Ну, он уже надрал задницу одному из наших...
 
-# Original: Oh, Vespa! Come on! I told you to hold the line!
+# Ezra: Oh, Vespa! Come on! I told you to hold the line!
 Эзра: О, Веспа! Да ладно! Я же говорила тебе держать оборону!
 
-# Original: It appears that they are partaking in... quite the activity themselves.
+# Yi Sang: It appears that they are partaking in... quite the activity themselves.
 И Сан: Похоже, они сами... весьма активно чем-то занимаются.
 
-# Original: I think we can end the call here, Moses.
+# Vergilius: I think we can end the call here, Moses.
 Вергилий: Думаю, на этом мы можем закончить звонок, Мозес.
 
-# Original: Very well.
+# Moses: Very well.
 Мозес: Хорошо.
 
-# Original: Got any last words of advice?
+# Rodion: Got any last words of advice?
 Родион: Есть какие-нибудь последние слова напутствия?
 
-# Original: Any last words...? Hm.
+# Moses: Any last words...? Hm.
 Мозес: Последние слова...? Хм.
 
-# Original: I once heard that some Kindreds higher up the bloodstream have overcome their fear of water. Blood eventually does get thicker than water, after all. Now, let's see if there's anything I left out...
+# Moses: I once heard that some Kindreds higher up the bloodstream have overcome their fear of water. Blood eventually does get thicker than water, after all. Now, let's see if there's anything I left out...
 Мозес: Я однажды слышала, что некоторые Сородичи выше по кровотоку преодолели свой страх перед водой. В конце концов, кровь со временем становится гуще воды. Теперь, давайте посмотрим, не упустила ли я что-нибудь...
 
-# Original: Ah, I must advise you against underestimating their bloodlust. Because no matter how hungry for blood you think they are…
+# Moses: Ah, I must advise you against underestimating their bloodlust. Because no matter how hungry for blood you think they are…
 Мозес: Ах, я должна предостеречь вас не недооценивать их жажду крови. Потому что, какими голодными до крови вы бы их ни представляли...
 
-# Original: They will be worse.
+# Moses: They will be worse.
 Мозес: Они будут ещё хуже.
 
-# Original: What's that supposed to mean...?
+# Rodion: What's that supposed to mean...?
 Родион: Что это должно значить...?
 
-# Original: With her last words, which left us wondering what they were supposed to mean, the call dropped.
+# Narrator: With her last words, which left us wondering what they were supposed to mean, the call dropped.
 Рассказчик: С этими последними словами, которые заставили нас задуматься об их значении, звонок прервался.

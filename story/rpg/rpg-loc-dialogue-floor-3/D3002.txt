@@ -1,41 +1,41 @@
-﻿# Original: .......
+﻿# Sinclair: .......
 Синклер: .......
 
-# Original: <color=#ebcaa2>Time to bid each other adieu.</color>
+# Narrator: <color=#ebcaa2>Time to bid each other adieu.</color>
 Рассказчик: <color=#ebcaa2>Пора нам попрощаться.</color>
 
-# Original: <color=#ebcaa2>I know you're dying to see me, ma puce, but try to exercise some restraint for now.</color>
+# Narrator: <color=#ebcaa2>I know you're dying to see me, ma puce, but try to exercise some restraint for now.</color>
 Рассказчик: <color=#ebcaa2>Я знаю, тебе не терпится меня увидеть, <i>ма пюс</i>, но пока постарайся сдержаться.</color>
 
-# Original: .......
+# Outis: .......
 Отис: .......
 
-# Original: ... Is she gone?
+# Outis: ... Is she gone?
 Отис: ... Она ушла?
 
-# Original: <color=#ebcaa2>... Am I?</color>
+# Narrator: <color=#ebcaa2>... Am I?</color>
 Рассказчик: <color=#ebcaa2>... Ушла ли?</color>
 
-# Original: ... Tsk. A familiar mischief.
+# Outis: ... Tsk. A familiar mischief.
 Отис: ... Ц. Знакомые выходки.
 
-# Original: <color=#ebcaa2>Sorry, couldn't help myself. It's not often that I get to fool around like this at work. Leaving for real now—tchao!</color>
+# Narrator: <color=#ebcaa2>Sorry, couldn't help myself. It's not often that I get to fool around like this at work. Leaving for real now—tchao!</color>
 Рассказчик: <color=#ebcaa2>Прости, не удержалась. Не так уж часто мне удаётся подурачиться на работе. Теперь точно ухожу — чао!</color>
 
-# Original: What the hell, Meursault?!
+# Sinclair: What the hell, Meursault?!
 Синклер: Какого чёрта, Мерсо?!
 
-# Original: The anger you display is disproportionate to the significance of the matter at hand. The explanation is simple: our romantic intimacy began during my tenure at Sisyphe System. My permanent exile from N Corp. led to the natural dissolution of our relationship.
+# Meursault: The anger you display is disproportionate to the significance of the matter at hand. The explanation is simple: our romantic intimacy began during my tenure at Sisyphe System. My permanent exile from N Corp. led to the natural dissolution of our relationship.
 Мерсо: Проявляемый вами гнев несоразмерен значимости обсуждаемого вопроса. Объяснение простое: наши романтические отношения начались в период моей работы в Системе Сизифа. Моё бессрочное изгнание из Корпорации N привело к их естественному прекращению.
 
-# Original: .......
+# Sinclair: .......
 Синклер: .......
 
-# Original: I'm sorry. It's just that... It's hard to picture you being romantically involved with... anyone.
+# Sinclair: I'm sorry. It's just that... It's hard to picture you being romantically involved with... anyone.
 Синклер: Простите. Просто... Мне трудно представить, что у вас были романтические отношения с... кем бы то ни было.
 
-# Original: Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
+# Meursault: Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
 Мерсо: Наши отношения включали в себя то, чего обычно ожидают от «романтических партнёров».
 
-# Original: We went on dates and spent time together.
+# Meursault: We went on dates and spent time together.
 Мерсо: Мы ходили на свидания и проводили время вместе.

@@ -1,89 +1,89 @@
-﻿# Original: …Dante?
+﻿# Faust: …Dante?
 Фауст: …Данте?
 
-# Original: Mephistopheles doesn’t roar and grumble ahead all day long. Mephisto is an engine that needs rest from time to time, much like how Charon is still a human who needs regular breaks.
+# Narrator: Mephistopheles doesn’t roar and grumble ahead all day long. Mephisto is an engine that needs rest from time to time, much like how Charon is still a human who needs regular breaks.
 Рассказчик: Мефистофель не может ехать всё время. Всё же, Харон всё ещё человек, а Мефистофель — лишь двигатель. И им время от времени нужен отдых.
 
-# Original: <Are you still awake, Ms. Faust?>
+# Dante: <Are you still awake, Ms. Faust?>
 Данте: <Вам не спится, мисс Фауст?>
 
-# Original: There are a few things left to check. As the engine is treated harshly during operation, it needs to be well-maintained while at rest.
+# Faust: There are a few things left to check. As the engine is treated harshly during operation, it needs to be well-maintained while at rest.
 Фауст: Осталось проверить пару моментов. Учитывая, как он изнашивается при работе, важно поддерживать его в хорошем состоянии во время остановок.
 
-# Original: To substantiate her words, Faust carried light tools and a small mechanical device in place of her usual zweihander.
+# Narrator: To substantiate her words, Faust carried light tools and a small mechanical device in place of her usual zweihander.
 Рассказчик: Словно в доказательство собственным словам, вместо привычного цвайхандера Фауст держала в руках несколько инструментов и небольшой механический девайс.
 
-# Original: <You’re working hard.>
+# Dante: <You’re working hard.>
 Данте: <Вы не жалеете сил.>
 
-# Original: This barely counts as work. To witness Faust’s magnum opus cordis being overworked with no time for care takes a greater toll, rather.
+# Faust: This barely counts as work. To witness Faust’s magnum opus cordis being overworked with no time for care takes a greater toll, rather.
 Фауст: Эта работа не требует большого труда. На самом деле, гораздо тяжелее смотреть на перегрузки магнум опуса Фауст без малейшей возможности привести его в порядок.
 
-# Original: She said this after making a light smile…
+# Narrator: She said this after making a light smile…
 Рассказчик: Фауст слегка улыбнулась…
 
-# Original: Do you like this update in particular?
+# Faust: Do you like this update in particular?
 Фауст: Кажется, вам нравится это обновление?
 
-# Original: Faust looked down at me using a handheld device.
+# Narrator: Faust looked down at me using a handheld device.
 Рассказчик: И села подле меня, наблюдая за тем, как я вожусь с небольшим девайсом.
 
-# Original: <Oh… This thing?>
+# Dante: <Oh… This thing?>
 Данте: <А… Это?>
 
-# Original: Yes, I believe previously you weren’t fiddling with it as often.
+# Faust: Yes, I believe previously you weren’t fiddling with it as often.
 Фауст: Да, мне казалось, вы нечасто прибегали к его использованию.
 
-# Original: <It’s nothing much, I was just… making the most of this new feature I’ve needed.>
+# Dante: <It’s nothing much, I was just… making the most of this new feature I’ve needed.>
 Данте: <Не то чтобы… Просто, думаю, мне давно была нужна эта функция.>
 
-# Original: Whenever Faust requests a break for routine maintenance, my ‘LCB-PDA’ also receives updates.
+# Narrator: Whenever Faust requests a break for routine maintenance, my ‘LCB-PDA’ also receives updates.
 Рассказчик: Каждый раз, когда у Фауст появлялся шанс заняться автобусом, я обновлял свой "LCB-КПК".
 
-# Original: The updates occasionally come with additional functions, and this time…
+# Narrator: The updates occasionally come with additional functions, and this time…
 Рассказчик: Иногда обновления добавляют новые функции, и в этот раз…
 
-# Original: …A note? The device didn’t have this functionality until now?
+# Faust: …A note? The device didn’t have this functionality until now?
 Фауст: …Заметки? До этого у вас не было подобной функции?
 
-# Original: <It didn’t, surprisingly enough.>
+# Dante: <It didn’t, surprisingly enough.>
 Данте: <Нет. Я сам был удивлён.>
 
-# Original: <…You didn’t know that? I thought you were omniscient, Faust.>
+# Dante: <…You didn’t know that? I thought you were omniscient, Faust.>
 Данте: <…Вы не знали? Фауст, мне казалось, вы знаете всё.>
 
-# Original: Faust only knows everything that Faust knows.
+# Faust: Faust only knows everything that Faust knows.
 Фауст: Фауст лишь знает всё, что знает Фауст.
 
-# Original: Pardon me for a moment.
+# Faust: Pardon me for a moment.
 Фауст: Что ж, прошу прощения.
 
-# Original: She took a peek at the screen of my tablet.
+# Narrator: She took a peek at the screen of my tablet.
 Рассказчик: Фауст мельком взглянула на экран моего КПК.
 
-# Original: Are you attempting to write an encyclopaedia, Dante?
+# Faust: Are you attempting to write an encyclopaedia, Dante?
 Фауст: Данте, вы пытаетесь написать энциклопедию?
 
-# Original: <I mean… You keep using words I don’t know—stuff like “Fixers” or whatever “Wings” are…>
+# Dante: <I mean… You keep using words I don’t know—stuff like “Fixers” or whatever “Wings” are…>
 Данте: <Нет… Просто вы всё время говорите незнакомые мне слова. Корректировщики там, Крылья…>
 
-# Original: <It might be common vocabulary for you all, but not me…>
+# Dante: <It might be common vocabulary for you all, but not me…>
 Данте: <Может, для вас это и привычные термины…>
 
-# Original: I understand. I do suppose you’ve lost all memory of the City.
+# Faust: I understand. I do suppose you’ve lost all memory of the City.
 Фауст: Понимаю. Вы не помните ничего о Городе.
 
-# Original: <Yep. So I wanna write down most stuff here.>
+# Dante: <Yep. So I wanna write down most stuff here.>
 Данте: <Так и есть. Поэтому я решил записывать всё, с чем успел столкнуться.>
 
-# Original: <And copy down the things I’ve been scribbling on paper while I’m at it…>
+# Dante: <And copy down the things I’ve been scribbling on paper while I’m at it…>
 Данте: <И сейчас я переношу то, что время от времени писал на бумаге…>
 
-# Original: This clock on my shoulders could be replaced with yet another head at any moment. There’s no guarantee the memories I have right now will stay with me.
+# Narrator: This clock on my shoulders could be replaced with yet another head at any moment. There’s no guarantee the memories I have right now will stay with me.
 Рассказчик: Никто не знает, когда я поменяю часы обратно на свою голову. Я не могу быть уверен, что мои воспоминания останутся со мной.
 
-# Original: That’s why I must prepare a backup plan like this.
+# Narrator: That’s why I must prepare a backup plan like this.
 Рассказчик: Так что нужно удостовериться…
 
-# Original: So I don’t forget twice.
+# Narrator: So I don’t forget twice.
 Рассказчик: Что я не забуду всё во второй раз.

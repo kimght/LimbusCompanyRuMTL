@@ -1,86 +1,86 @@
-﻿# Original: Ah... of course. Anything you say.
+﻿# L'Inamovible: Ah... of course. Anything you say.
 Л’Инамовибль: Ах... разумеется. Как скажете.
 
-# Original: The Voice summons you... They are summoning the strangers there to the Luxury Hall. The promised hour of awakening is nigh...
+# L'Inamovible: The Voice summons you... They are summoning the strangers there to the Luxury Hall. The promised hour of awakening is nigh...
 Л’Инамовибль: Голос призывает вас... Он призывает посторонних туда, в Элитный Зал. Обещанный час пробуждения близок...
 
-# Original: We can't even hear that "Voice" of yours. Did they say anything about what they want with us?
+# Outis: We can't even hear that "Voice" of yours. Did they say anything about what they want with us?
 Отис: Мы даже не слышим этот ваш «Голос». Он хоть что-нибудь сказал о том, чего хочет от нас?
 
-# Original: Yeah, that's kinda weird. Shouldn't they be summoning the rest of the Rouges, not us?
+# Sinclair: Yeah, that's kinda weird. Shouldn't they be summoning the rest of the Rouges, not us?
 Синклер: Да, это как-то странно. Разве он не должен призывать остальных Ружей, а не нас?
 
-# Original: We are bound by the rules of the Grand Magasin. Only on special occasions are we permitted to freely traverse between its floors. Only true strangers, whose presence the Fount welcomes, are free to rise and descend.
+# L'Inamovible: We are bound by the rules of the Grand Magasin. Only on special occasions are we permitted to freely traverse between its floors. Only true strangers, whose presence the Fount welcomes, are free to rise and descend.
 Л’Инамовибль: Мы связаны правилами Гран-Магазэна. Лишь в особых случаях нам дозволено свободно переходить с этажа на этаж. Только истинные посторонние, чьё присутствие Источник приветствует, вольны подниматься и спускаться.
 
-# Original: You carry the shard of our cherished one within you. Once you assemble the final piece, they will awaken.
+# L'Inamovible: You carry the shard of our cherished one within you. Once you assemble the final piece, they will awaken.
 Л’Инамовибль: Вы несёте в себе осколок нашего взлелеянного. Когда вы присоедините последний фрагмент, он пробудится.
 
-# Original: Ahh... This is what I sacrificed my eyes for... and let myself be nailed to the ground... All in service of this day...
+# L'Inamovible: Ahh... This is what I sacrificed my eyes for... and let myself be nailed to the ground... All in service of this day...
 Л’Инамовибль: Ах... Вот ради чего я пожертвовала глазами... и позволила пригвоздить себя к полу... Всё ради этого дня...
 
-# Original: Blessed with an eternity of nailed existence to convey the Voice's will to the promised strangers... Ah, what a joyous day... What a joyous day...
+# L'Inamovible: Blessed with an eternity of nailed existence to convey the Voice's will to the promised strangers... Ah, what a joyous day... What a joyous day...
 Л’Инамовибль: Удостоена вечности пригвождённого бытия, дабы передавать волю Голоса обещанным посторонним... Ах, какой радостный день... Какой радостный день...
 
-# Original: Suppose we are to do as this "Voice" asks. Where would we find this "Luxury Hall"?
+# Outis: Suppose we are to do as this "Voice" asks. Where would we find this "Luxury Hall"?
 Отис: Допустим, мы поступим так, как просит этот «Голос». Где нам искать этот «Элитный Зал»?
 
-# Original: <I know where it is. We stopped by the entrance on the second floor earlier.>
+# Dante: <I know where it is. We stopped by the entrance on the second floor earlier.>
 Данте: <Я знаю, где он. Мы уже были у входа на втором этаже.>
 
-# Original: Then the true form of the Voice must be waiting for us there.
+# Sinclair: Then the true form of the Voice must be waiting for us there.
 Синклер: Значит, там нас и ждёт истинный облик Голоса.
 
-# Original: <There was a... cocoon the Rouges were caring for.>
+# Dante: <There was a... cocoon the Rouges were caring for.>
 Данте: <Там был... кокон, за которым ухаживали Ружи.>
 
-# Original: We ripped it open with a nail and killed the thing that crawled out of it.
+# Meursault: We ripped it open with a nail and killed the thing that crawled out of it.
 Мерсо: Мы вскрыли его гвоздём и убили то, что из него выползло.
 
-# Original: <Yeah. Then... the Noirs took over the Grand Magasin... triggering the Liquidation process. Which means...>
+# Dante: <Yeah. Then... the Noirs took over the Grand Magasin... triggering the Liquidation process. Which means...>
 Данте: <Да. А потом... Нуары захватили Гран-Магазэн... и запустили процесс Ликвидации. А это значит...>
 
-# Original: The end of the Grand Magasin we witnessed was ultimate "stagnation."
+# Narrator: The end of the Grand Magasin we witnessed was ultimate "stagnation."
 Рассказчик: Конец Гран-Магазэна, свидетелями которого мы стали, был абсолютным «застоем».
 
-# Original: All lives within the department store were consolidated into a single purpose: to become pillars to perpetuate its existence...
+# Narrator: All lives within the department store were consolidated into a single purpose: to become pillars to perpetuate its existence...
 Рассказчик: Все жизни в торговом центре слились воедино ради одной цели: стать опорами, что продлевают его существование...
 
-# Original: Eternity passed within the Grand Magasin, devoid of any change—even shopping.
+# Narrator: Eternity passed within the Grand Magasin, devoid of any change—even shopping.
 Рассказчик: В Гран-Магазэне прошла вечность — без каких-либо перемен, даже без покупок.
 
-# Original: And as eternity came and went, everything became integrated, seamlessly assimilated with the walls of the Grand Magasin.
+# Narrator: And as eternity came and went, everything became integrated, seamlessly assimilated with the walls of the Grand Magasin.
 Рассказчик: И пока вечность приходила и уходила, всё сливалось воедино, бесследно растворяясь в стенах Гран-Магазэна.
 
-# Original: In the end, not even the smallest stir survived. All was melded into everything and everyone... including us.
+# Narrator: In the end, not even the smallest stir survived. All was melded into everything and everyone... including us.
 Рассказчик: В конце концов не уцелело даже малейшего движения. Всё сплавилось со всем и со всеми... включая нас.
 
-# Original: If only I hadn't ripped open and torn that thing out of the cocoon...
+# Narrator: If only I hadn't ripped open and torn that thing out of the cocoon...
 Рассказчик: Если бы только я не вскрыл тот кокон и не вырвал из него то существо...
 
-# Original: <Let's descend, Meursault.>
+# Dante: <Let's descend, Meursault.>
 Данте: <Спускаемся, Мерсо.>
 
-# Original: You intend to ally with the Rouges as a means of climbing the Grand Magasin.
+# Outis: You intend to ally with the Rouges as a means of climbing the Grand Magasin.
 Отис: Вы намерены заключить союз с Ружами, чтобы подняться по Гран-Магазэну.
 
-# Original: <Yeah. It's kinda hard to explain why, but... I have a feeling that that's what I must do this time.>
+# Dante: <Yeah. It's kinda hard to explain why, but... I have a feeling that that's what I must do this time.>
 Данте: <Да. Сложно объяснить почему, но... у меня такое чувство, что на этот раз я должен поступить именно так.>
 
-# Original: That inexplicable sort of intuition is an indispensable quality in a commander. Those without it... did not survive the War for long, no matter how excellent their other abilities were.
+# Outis: That inexplicable sort of intuition is an indispensable quality in a commander. Those without it... did not survive the War for long, no matter how excellent their other abilities were.
 Отис: Подобное необъяснимое чутьё — незаменимое качество командира. Те, кто им не обладал... долго на Войне не протягивали, какими бы превосходными ни были прочие их способности.
 
-# Original: Looks like this is where we get off. Good work, everyone.
+# Sinclair: Looks like this is where we get off. Good work, everyone.
 Синклер: Похоже, здесь мы выходим. Все молодцы.
 
-# Original: ... In my experience, recognizing the hand of fate doesn't necessarily mean that one can break free from its grip, Executive Manager.
+# Outis: ... In my experience, recognizing the hand of fate doesn't necessarily mean that one can break free from its grip, Executive Manager.
 Отис: ...По моему опыту, заметить руку судьбы ещё не значит вырваться из её хватки, Исполнительный Менеджер.
 
-# Original: <Outis...>
+# Dante: <Outis...>
 Данте: <Отис...>
 
-# Original: Ah. Apologies, I overstepped. I'd witnessed and heard far too many tales of a similar nature that... the present circumstance must've put me in a contemplative mood.
+# Outis: Ah. Apologies, I overstepped. I'd witnessed and heard far too many tales of a similar nature that... the present circumstance must've put me in a contemplative mood.
 Отис: Ах. Прошу прощения, я позволила себе лишнее. Мне довелось увидеть и услышать слишком много похожих историй, так что... нынешние обстоятельства, должно быть, навеяли на меня задумчивость.
 
-# Original: Tsk. I would much rather serve you by your side at all times, Executive Manager... It is regrettable that I won't be able to.
+# Outis: Tsk. I would much rather serve you by your side at all times, Executive Manager... It is regrettable that I won't be able to.
 Отис: Тц. Я бы предпочла служить вам, неотлучно находясь рядом, Исполнительный Менеджер... Жаль, что это невозможно.

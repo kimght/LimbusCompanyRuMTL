@@ -1,47 +1,47 @@
-﻿# Original: Another veteran appeared in the dark, carrying a depressed aura.
+﻿# Narrator: Another veteran appeared from the dark, his gait grim and heavy.
 Рассказчик: Во тьме с мрачным видом появился ещё один ветеран некогда проигранной войны.
 
-# Original: His sparkling old badge seemed to signify a high rank once held.
+# Narrator: He must've been a high-ranking soldier once—despite its age, his badge still gleamed.
 Рассказчик: Судя по сияющему значку, когда-то он имел высокий ранг.
 
-# Original: …Manager Gregor?
+# ???: ... Manager Gregor?
 ???: …Глава секции, Грегор?
 
-# Original: I think I remember that face of yours. But why?
+# Gregor: I think I know your face. But from where?
 Грегор: Кажется, я тебя знаю. Но почему ты выглядишь так знакомо?
 
-# Original: …I was the head manager of your team.
+# Decrepit G Corp. Head Manager: ... I was the head manager of your team.
 Дряхлый глава отдела Корп. G: …Когда-то я был менеджером твоей команды.
 
-# Original: Not only did you desert us, you now have the audacity to take the lives of your old comrades—my subordinates.
+# Decrepit G Corp. Head Manager: It's incredible how a deserter like you has the audacity to kill my men—they were once your own comrades, you know.
 Дряхлый глава отдела Корп. G: Давным-давно, ты сбежал с поля боя, и сейчас убиваешь своих братьев по оружию — моих людей.
 
-# Original: Look, the war ended a decade ago. But, I guess some folks still haven’t let go of their obsolete ranks, huh?
+# Gregor: Look, the war ended a decade ago. Haven't any of you learned to move on from playing soldiers?
 Грегор: Взгляни правде в глаза, война окончена уже как с десяток лет. Вы всё ещё не можете отступить от своих бесполезных рангов?
 
-# Original: Ended? Nothing has ended.
+# Decrepit G Corp. Head Manager: Ended? Nothing has ended.
 Дряхлый глава отдела Корп. G: Окончена? Ничто ещё не окончено.
 
-# Original: Nothing… has ended… dammit…
+# Decrepit G Corp. Head Manager: Nothing... has ended... dammit...
 Дряхлый глава отдела Корп. G: Ничто… чёрт подери… не окончено…
 
-# Original: The war may have been over for you when you deserted G Corp…
+# Decrepit G Corp. Head Manager: The war might've ended for you when you deserted G Corp....
 Дряхлый глава отдела Корп. G: Может, твоя война и закончилась, когда ты сбежал из корпорации G…
 
-# Original: But we’re fighting for our lives on the battlefield to this day.
+# Decrepit G Corp. Head Manager: ... but for the rest of us—we never left the battlefield, even to this day.
 Дряхлый глава отдела Корп. G: Но мы всё ещё стоим посреди поля боя.
 
-# Original: As much as I didn’t want to relate to you this way…
+# Gregor: As much as I'd rather not relate to you this way...
 Грегор: Как бы я не хотел в этом находить с тобой общего…
 
-# Original: I’m not really that different here.
+# Gregor: I’m not really that different here.
 Грегор: Не то чтобы у меня что-то было иначе.
 
-# Original: Then you ought to understand, Gregor.
+# Decrepit G Corp. Head Manager: Then you ought to understand, Manager Gregor.
 Дряхлый глава отдела Корп. G: Значит, ты должен понять, Грегор.
 
-# Original: There is only one verdict that awaits deserters.
+# Decrepit G Corp. Head Manager: Only one verdict awaits deserters.
 Дряхлый глава отдела Корп. G: Лишь одно ожидает пятисотых.
 
-# Original: You say that like it means something… But it’s against company policy to carry out summary execution for personal revenge, my Head Manager.
+# Gregor: You say that like it means something... But it’s against company policy to carry out summary execution for personal revenge, bossman.
 Грегор: Говоришь так, словно сейчас это что-то значит, но… Казнь из личной мести нарушает правила корпорации, мой дорогой менеджер.

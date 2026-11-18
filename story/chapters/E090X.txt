@@ -1,380 +1,380 @@
-# Original: Can I get 7 number 3 bolts?
+# Ishmael: Can I get 7 number 3 bolts?
 Ishmael: Можно мне 7 болтов номер 3?
 
-# Original: Uh... number 3 bolts... ah, bingo. Be right there!
+# Sinclair: Uh... number 3 bolts... ah, bingo. Be right there!
 Sinclair: Э-э... болты номер 3... а, нашёл. Сейчас принесу!
 
-# Original: Hmm... Hmmmmm...
+# Don Quixote: Hmm... Hmmmmm...
 Don Quixote: Хмм... Хммммм...
 
-# Original: Quit lollygaggin' and get crackin', lass! We're swamped here!
+# Heathcliff: Quit lollygaggin' and get crackin', lass! We're swamped here!
 Heathcliff: Хорош ворон считать, берись за дело, девка! У нас тут завал!
 
-# Original: Behold hither! I have espied a combination of cracks that much resembles a Fixer's sigil!
+# Don Quixote: Behold hither! I have espied a combination of cracks that much resembles a Fixer's sigil!
 Don Quixote: Узрите же! Я обнаружила сочетание трещин, весьма напоминающее Знак Корректировщика!
 
-# Original: Oh, that's right enough outta you, you little— Huh?! Did you just weave outta my smack?!
+# Heathcliff: Oh, that's right enough outta you, you little— Huh?! Did you just weave outta my smack?!
 Heathcliff: Ой, ну хватит уже с тебя, мелкая— А?! Ты что, только что увернулась от моей затрещины?!
 
-# Original: Hmph! Thy patterns have become far too predictable!
+# Don Quixote: Hmph! Thy patterns have become far too predictable!
 Don Quixote: Хмф! Твои замахи стали слишком предсказуемы!
 
-# Original: <…….>
+# Dante: <…….>
 Dante: <……>
 
-# Original: About 2 days have passed since we wrapped up Operation Spider Pyre.
+# Narrator: About 2 days have passed since we wrapped up Operation Spider Pyre.
 Narrator: Прошло около двух дней с тех пор, как мы завершили Операцию «Сжигание Паутины».
 
-# Original: The LCE Department was still recovering from the aftermath of the assault, and we were assisting where we could with the restoration efforts.
+# Narrator: The LCE Department was still recovering from the aftermath of the assault, and we were assisting where we could with the restoration efforts.
 Narrator: Отдел LCE всё ещё оправлялся от последствий нападения, и мы помогали с восстановительными работами, где могли.
 
-# Original: Though... I wasn't sure what exactly we were doing here with the Facility Management Team.
+# Narrator: Though... I wasn't sure what exactly we were doing here with the Facility Management Team.
 Narrator: Хотя... я не был до конца уверен, что именно мы делаем здесь, с Командой управления комплексом.
 
-# Original: I hardly expected to see you again so soon after that—some farewell that was.
+# Hohenheim: I hardly expected to see you again so soon after that—some farewell that was.
 Hohenheim: Я едва ли ожидал увидеть вас так скоро после того прощания — хорошо же мы попрощались.
 
-# Original: Well, it can't be helped that the entire Facility Management Team is currently on PTO. We've been loaned some LCCA personnel for the repair project, so let us make do with them.
+# Hohenheim: Well, it can't be helped that the entire Facility Management Team is currently on PTO. We've been loaned some LCCA personnel for the repair project, so let us make do with them.
 Hohenheim: Что ж, ничего не поделаешь — вся Команда управления комплексом сейчас в отпуске. Нам выделили сотрудников LCCA для ремонтных работ, так что придётся обходиться тем, что есть.
 
-# Original: I'm surprised they haven't all been dragged back to office already, what with everything that's happened.
+# Rodion: I'm surprised they haven't all been dragged back to office already, what with everything that's happened.
 Rodion: Удивительно, что их всех ещё не вызвали обратно на работу после всего, что случилось.
 
-# Original: PTO is their right and therefore must be honored. You can't just cancel their time off after signing and approving their requests.
+# Hohenheim: PTO is their right and therefore must be honored. You can't just cancel their time off after signing and approving their requests.
 Hohenheim: Отпуск — это их право, и его необходимо соблюдать. Нельзя просто взять и отменить выходные после того, как заявления были подписаны и одобрены.
 
-# Original: Then why don't we just wait 'til they get back from their vacays~? C'mon, we were busting our butts out there just a few days ago. How 'bout giving us some time off, too?
+# Rodion: Then why don't we just wait 'til they get back from their vacays~? C'mon, we were busting our butts out there just a few days ago. How 'bout giving us some time off, too?
 Rodion: Тогда почему бы нам просто не подождать, пока они вернутся из отпуска~? Ну же, мы пахали без продыху буквально пару дней назад. Может, и нам дадите передышку?
 
-# Original: Not with multiple containment units still blasted wide open. There's no telling when the Abnormalities reduced to their ovate forms will return, you understand.
+# Hohenheim: Not with multiple containment units still blasted wide open. There's no telling when the Abnormalities reduced to their ovate forms will return, you understand.
 Hohenheim: Не тогда, когда несколько камер содержания всё ещё разнесены в щепки. Неизвестно, когда Аномалии, вернувшиеся в яйцевидные формы, снова пробудятся.
 
-# Original: Should we face such a case without the containment units ready to operate, the entities will be wreaking havoc on our facility yet again, and we will all be dragged back to work, like it or not.
+# Hohenheim: Should we face such a case without the containment units ready to operate, the entities will be wreaking havoc on our facility yet again, and we will all be dragged back to work, like it or not.
 Hohenheim: Если такое произойдёт, а камеры содержания не будут готовы к работе, эти сущности опять устроят хаос в нашем комплексе, и нас всех вернут на работу, хотим мы того или нет.
 
-# Original: I would much rather not deal with another containment breach incident so soon... Especially when it's almost certain they will be laying waste to the boxes of snacks we've prepared specifically for your return.
+# Hohenheim: I would much rather not deal with another containment breach incident so soon... Especially when it's almost certain they will be laying waste to the boxes of snacks we've prepared specifically for your return.
 Hohenheim: Я бы предпочёл не иметь дела с ещё одним нарушением условий содержания так скоро... Тем более когда сбежавшие аномалии почти наверняка сожрут все коробки со снеками, которые мы подготовили специально к вашему возвращению.
 
-# Original: ... How many boxes have ya got?
+# Rodion: ... How many boxes have ya got?
 Rodion: ...Сколько коробок?
 
-# Original: 3. All of them 48-by-38-by-34 centimeters in dimension, the largest standard-sized box we have.
+# Hohenheim: 3. All of them 48-by-38-by-34 centimeters in dimension, the largest standard-sized box we have.
 Hohenheim: 3. Все размером 48 на 38 на 34 сантиметра — самый большой стандартный размер коробки, который у нас есть.
 
-# Original: ... We're in.
+# Rodion: ... We're in.
 Rodion: ...Мы в деле.
 
-# Original: Oi, who do you think you are to tell us what to do?
+# Heathcliff: Oi, who do you think you are to tell us what to do?
 Heathcliff: Эй, ты кто такая, чтобы за нас решать?
 
-# Original: Still, there was no point in arguing with Hohenheim when he was right. No need to needlessly drag out restoring the facility and let those Abnormalities loose again.
+# Narrator: Still, there was no point in arguing with Hohenheim when he was right. No need to needlessly drag out restoring the facility and let those Abnormalities loose again.
 Narrator: Тем не менее спорить с Хохенхаймом, когда он прав, не имело смысла. Незачем без нужды затягивать восстановление комплекса и давать Аномалиям вырваться на свободу.
 
-# Original: Besides, Gregor was still... down for the count.
+# Narrator: Besides, Gregor was still... down for the count.
 Narrator: К тому же Грегор всё ещё был... в отключке.
 
-# Original: Alrighty, boys and girls! I got ya some cool drinks, so take a quick breather~
+# Rodion: Alrighty, boys and girls! I got ya some cool drinks, so take a quick breather~
 Rodion: Ну что, мальчики и девочки! Я притащила вам прохладительного, так что сделайте небольшой перерыв~
 
-# Original: You're full o' beans today, ain't ya?
+# Heathcliff: You're full o' beans today, ain't ya?
 Heathcliff: Ты прям цветёшь и пахнешь сегодня, а?
 
-# Original: Hey, what's not to like? They've got snacks I've never even laid my eyes on before! Ooh! And c'mere, look at this...
+# Rodion: Hey, what's not to like? They've got snacks I've never even laid my eyes on before! Ooh! And c'mere, look at this...
 Rodion: Ну а что? Тут такие снеки, каких я в жизни не видела! О-о! А ну идите сюда, посмотрите на это...
 
-# Original: Ta-da! Look what I found, everyone!
+# Rodion: Ta-da! Look what I found, everyone!
 Rodion: Та-да! Смотрите, что я нашла!
 
-# Original: Rodya declared as she triumphantly held up a small can.
+# Narrator: Rodya declared as she triumphantly held up a small can.
 Narrator: Объявила Родя, триумфально подняв маленькую банку.
 
-# Original: What is that?
+# Hong Lu: What is that?
 Hong Lu: Что это?
 
-# Original: I don't... I don't think I've seen that before, either.
+# Sinclair: I don't... I don't think I've seen that before, either.
 Sinclair: Я... я тоже такого раньше не видел.
 
-# Original: Seriously? You never had one of these when you were little? Oh, wait, do they not sell this stuff in the Nests?
+# Rodion: Seriously? You never had one of these when you were little? Oh, wait, do they not sell this stuff in the Nests?
 Rodion: Серьёзно? Вы что, в детстве такое не пили? Ой, подождите, в Гнёздах такое не продаётся, что ли?
 
-# Original: ... Ah? Oh! I know this!
+# Heathcliff: ... Ah? Oh! I know this!
 Heathcliff: ...А? О! Я знаю, что это!
 
-# Original: It's that— It's that shaky-then-drinky thing, innit...?
+# Heathcliff: It's that— It's that shaky-then-drinky thing, innit...?
 Heathcliff: Это же— это же та штука, потряси-и-выпей, да...?
 
-# Original: Yeah! I knew you'd recognize this, Heath!
+# Rodion: Yeah! I knew you'd recognize this, Heath!
 Rodion: Ага! Я так и знала, что ты узнаешь, Хит!
 
-# Original: Hah, you're all like bloody sheltered townies, you know that? Right, take a gander at this!
+# Heathcliff: Hah, you're all like bloody sheltered townies, you know that? Right, take a gander at this!
 Heathcliff: Ха, вы все прямо как тепличные домашние детишки, ей-богу! Ладно, смотрите сюда!
 
-# Original: Uhh, you know, that can's gonna blow up in your face if you keep shaking it like—
+# Ishmael: Uhh, you know, that can's gonna blow up in your face if you keep shaking it like—
 Ishmael: Э-э, знаешь, эта банка тебе в лицо рванёт, если будешь так трясти—
 
-# Original: I know what I'm doin', boatie! Look, I uncap this thing, and... aha! Try a sip!
+# Heathcliff: I know what I'm doin', boatie! Look, I uncap this thing, and... aha! Try a sip!
 Heathcliff: Я знаю, что делаю, морячка! Смотри, я открываю крышку, и... ага! Попробуй глоток!
 
-# Original: ... Eh? It's turned into jelly!
+# Ishmael: ... Eh? It's turned into jelly!
 Ishmael: ...А? Оно превратилось в желе!
 
-# Original: Heathcliff moved from Sinner to Sinner, confidently handing them each a can of well-shaken drinks...
+# Narrator: Heathcliff moved from Sinner to Sinner, confidently handing them each a can of well-shaken drinks...
 Narrator: Хитклиф переходил от Грешника к Грешнику, уверенно вручая каждому банку хорошо взболтанного напитка...
 
-# Original: ... and the Sinners all responded with varying degrees of astonishment, some of them even giving the can a double-take.
+# Narrator: ... and the Sinners all responded with varying degrees of astonishment, some of them even giving the can a double-take.
 Narrator: ...и все Грешники реагировали с различной степенью изумления, а некоторые даже дважды оглядывали банку.
 
-# Original: This is... a condensation of carbonation itself, its structure compressed into pudding-like forms.
+# Yi Sang: This is... a condensation of carbonation itself, its structure compressed into pudding-like forms.
 Yi Sang: Это... конденсация самой газировки, структура которой сжата до пудингообразной формы.
 
-# Original: Wowzers, it's like they took the juice of a fruit and trapped it in tiny bubbles! It's slightly too sweet, but it's tasty nonetheless!
+# Hong Lu: Wowzers, it's like they took the juice of a fruit and trapped it in tiny bubbles! It's slightly too sweet, but it's tasty nonetheless!
 Hong Lu: Ого-го, как будто взяли фруктовый сок и заточили в крошечные пузырьки! Немного слишком сладко, но всё равно вкусно!
 
-# Original: Hyah~ Now <i>this</i> is what I'm talking about! Say, where'dya get these? I couldn't get my hands on this stuff recently.
+# Rodion: Hyah~ Now <i>this</i> is what I'm talking about! Say, where'dya get these? I couldn't get my hands on this stuff recently.
 Rodion: Эх~ Вот это я понимаю! Слушай, где вы их достали? Я в последнее время нигде не могла найти такое.
 
-# Original: As we researchers are all rather positively obsessed with new technology... that fixation translates quite directly to addiction to unique products like these.
+# Hohenheim: As we researchers are all rather positively obsessed with new technology... that fixation translates quite directly to addiction to unique products like these.
 Hohenheim: Поскольку мы, исследователи, все весьма неравнодушны к новым технологиям... эта одержимость довольно напрямую распространяется и на уникальные продукты вроде этих.
 
-# Original: The pleasant flavor gives us a nice extra dose of motivation, of course. Sometimes enough to store them in expensive stasis preservation boxes, just in case we end up craving them in the future.
+# Hohenheim: The pleasant flavor gives us a nice extra dose of motivation, of course. Sometimes enough to store them in expensive stasis preservation boxes, just in case we end up craving them in the future.
 Hohenheim: Приятный вкус даёт нам неплохую дополнительную порцию мотивации, разумеется. Порой достаточную, чтобы хранить их в дорогих стазис-контейнерах на случай, если захочется в будущем.
 
-# Original: According to our findings, the sudden paucity of this product in the mass market was caused primarily by the significant production cuts of its manufacturing plant. Despite the constant demand, it seems that the maintenance costs were far too expensive to maintain it as a large-scale operation.
+# Hohenheim: According to our findings, the sudden paucity of this product in the mass market was caused primarily by the significant production cuts of its manufacturing plant. Despite the constant demand, it seems that the maintenance costs were far too expensive to maintain it as a large-scale operation.
 Hohenheim: Согласно нашим данным, внезапный дефицит этого продукта на массовом рынке был вызван в первую очередь значительным сокращением производства на заводе-изготовителе. Несмотря на постоянный спрос, расходы на обслуживание оказались слишком велики для крупномасштабного производства.
 
-# Original: And you're just givin' these rarities to us?! Blimey, that's actually the nicest thing someone's done for us in a while!
+# Heathcliff: And you're just givin' these rarities to us?! Blimey, that's actually the nicest thing someone's done for us in a while!
 Heathcliff: И вы просто так отдаёте нам такую редкость?! Чёрт возьми, это реально самое приятное, что для нас кто-то делал за последнее время!
 
-# Original: Oi, you ain't half bad, specs... You're goin' up in my list.
+# Heathcliff: Oi, you ain't half bad, specs... You're goin' up in my list.
 Heathcliff: А ты не так уж и плох, очкарик... Поднимаешься в моём рейтинге.
 
-# Original: No need to reevaluate the personability of my character on my account, Assistant. They're from Marton's stash, anyway.
+# Hohenheim: No need to reevaluate the personability of my character on my account, Assistant. They're from Marton's stash, anyway.
 Hohenheim: Нет нужды пересматривать вашу оценку моей личности, Ассистент. Это из запасов Мартона.
 
-# Original: ... *cough* *hack* *wheeze*
+# Heathcliff: ... *cough* *hack* *wheeze*
 Heathcliff: ...*кхе* *кхе* *кха*
 
-# Original: Without an owner to claim them, they were bound to end up collecting dust in a corner of some lost-and-found box. If spirits truly do exist, and if Marton had indeed chosen to haunt this very spot, I'm certain he would have chimed in to say "That seems like the reasonable thing to do, boss."
+# Hohenheim: Without an owner to claim them, they were bound to end up collecting dust in a corner of some lost-and-found box. If spirits truly do exist, and if Marton had indeed chosen to haunt this very spot, I'm certain he would have chimed in to say "That seems like the reasonable thing to do, boss."
 Hohenheim: Лишившись хозяина они бы просто пылились где-нибудь в углу коробки с потерянными вещами. Если духи и вправду существуют, и если бы Мартон решил являться именно в этом месте, уверен, он бы вставил: «Это разумный поступок, шеф».
 
-# Original: ... Once again, he wasn't wrong, but his palpable lack of concern for the feelings of those around him seemed to suggest that there was indeed no reason for us to reconsider his personality.
+# Narrator: ... Once again, he wasn't wrong, but his palpable lack of concern for the feelings of those around him seemed to suggest that there was indeed no reason for us to reconsider his personality.
 Narrator: ...В очередной раз он был прав, но ощутимое отсутствие заботы о чувствах окружающих наводило на мысль, что пересматривать оценку его личности и впрямь не стоит.
 
-# Original: Bloody hell, mate, you could've led with that... *cough* Ow, I think some of that went down the wrong pipe.
+# Heathcliff: Bloody hell, mate, you could've led with that... *cough* Ow, I think some of that went down the wrong pipe.
 Heathcliff: Блин, мужик, мог бы сразу сказать... *кхе* Ох, кажется, что-то не в то горло попало.
 
-# Original: Of course, food's not there to look pretty~ I agree with Hohenheim. After all, what use are all these delicacies if we just let them sit and spoil?
+# Hong Lu: Of course, food's not there to look pretty~ I agree with Hohenheim. After all, what use are all these delicacies if we just let them sit and spoil?
 Hong Lu: Ну конечно, еда — не для красоты~ Я согласен с Хохенхаймом. В конце концов, какой толк от деликатесов, если они просто испортятся?
 
-# Original: Totes~ *gulp* We can't, like *gulp* let these tasties go bad, right? *gulp*
+# Rodion: Totes~ *gulp* We can't, like *gulp* let these tasties go bad, right? *gulp*
 Rodion: Точняк~ *глоток* Мы ведь не можем *глоток* дать вкусняшкам пропасть, верно? *глоток*
 
-# Original: <... Is it that good?>
+# Dante: <... Is it that good?>
 Dante: <...Настолько вкусно?>
 
-# Original: It is good, but not <i>that</i> good, Executive Manager. She is simply a glutton with no regard for flavor.
+# Outis: It is good, but not <i>that</i> good, Executive Manager. She is simply a glutton with no regard for flavor.
 Outis: Вкусно, но не <i>настолько</i>, Исполнительный Менеджер. Она просто обжора, которой всё равно, что есть.
 
-# Original: You know, I do feel pretty bad for Dante every time we get a chance to eat something good... What with being unable to eat and all.
+# Ishmael: You know, I do feel pretty bad for Dante every time we get a chance to eat something good... What with being unable to eat and all.
 Ishmael: Знаете, мне всегда немного жаль Данте, когда нам выпадает шанс поесть чего-нибудь вкусного... Ведь он не может есть.
 
-# Original: <I don't think it's something to feel <i>bad</i> about. ... Still, I'd be lying if I said I wasn't curious.>
+# Dante: <I don't think it's something to feel <i>bad</i> about. ... Still, I'd be lying if I said I wasn't curious.>
 Dante: <Не думаю, что тут есть о чём <i>жалеть</i>. ...Но врать не буду — мне любопытно.>
 
-# Original: Muttering, I looked up to stare at Rodya...
+# Narrator: Muttering, I looked up to stare at Rodya...
 Narrator: Пробормотав это, я поднял взгляд на Родю...
 
-# Original: Ohh yeah... That really hit the spot. Somebody stop me, 'cuz I can't~
+# Rodion: Ohh yeah... That really hit the spot. Somebody stop me, 'cuz I can't~
 Rodion: О-ох да... Прямо в точку. Остановите меня кто-нибудь, потому что я сама не могу~
 
-# Original: ... downing her third can of the drink.
+# Narrator: ... downing her third can of the drink.
 Narrator: ...опустошающую уже третью банку напитка.
 
-# Original: Hm, that reminds me. I had once cobbled together a Gustation Simulator as a hobby project.
+# Hohenheim: Hm, that reminds me. I had once cobbled together a Gustation Simulator as a hobby project.
 Hohenheim: Хм, это напомнило мне. Однажды я собрал Симулятор вкуса в качестве хобби-проекта.
 
-# Original: Gustation Simulator?
+# Ishmael: Gustation Simulator?
 Ishmael: Симулятор вкуса?
 
-# Original: Well, as we must all be aware, energy gel is the most efficient form of sustenance. It is tiny, highly caloric... yet, unfortunately... makes for quite a flavorless gustatory experience.
+# Hohenheim: Well, as we must all be aware, energy gel is the most efficient form of sustenance. It is tiny, highly caloric... yet, unfortunately... makes for quite a flavorless gustatory experience.
 Hohenheim: Что ж, как всем нам известно, питательный гель — наиболее эффективная форма пропитания. Он компактный, высококалорийный... но, к сожалению... абсолютно безвкусный.
 
-# Original: So, I have devised a gadget that, once a food item is placed and scanned in its flavor analyzer, it transfers its exact flavor profile directly to its wearer.
+# Hohenheim: So, I have devised a gadget that, once a food item is placed and scanned in its flavor analyzer, it transfers its exact flavor profile directly to its wearer.
 Hohenheim: Поэтому я разработал устройство, которое, после помещения продукта в анализатор вкуса и его сканирования, передаёт точный вкусовой профиль непосредственно носителю.
 
-# Original: It is rather simple to equip and operate, too. Simply wearing it on your wrist should transfer the flavor information to the wearer, but... Hm, I must have misplaced it.
+# Hohenheim: It is rather simple to equip and operate, too. Simply wearing it on your wrist should transfer the flavor information to the wearer, but... Hm, I must have misplaced it.
 Hohenheim: Оно довольно простое в использовании. Достаточно надеть его на запястье, и вкусовая информация передаётся носителю, но... Хм, кажется, я его где-то потерял.
 
-# Original: I gotta say, that sounds pretty revolutionary for how... dismissive you are about it, like it's some kind of toy you bashed together.
+# Ishmael: I gotta say, that sounds pretty revolutionary for how... dismissive you are about it, like it's some kind of toy you bashed together.
 Ishmael: Должна сказать, для чего-то, к чему ты относишься так... пренебрежительно, будто это игрушка, которую ты наспех склепал, звучит довольно революционно.
 
-# Original: The joy must come from the invention and demonstration of the technology itself; indeed, my fellows would, following the regular illuminators' conferences, cast their erstwhile prime inventions into boxes of miscellanea.
+# Yi Sang: The joy must come from the invention and demonstration of the technology itself; indeed, my fellows would, following the regular illuminators' conferences, cast their erstwhile prime inventions into boxes of miscellanea.
 Yi Sang: Радость, должно быть, заключается в самом изобретении и демонстрации технологии; воистину, мои коллеги, бывало, после очередных конференций просветителей, отправляли свои главные изобретения в коробки с хламом.
 
-# Original: Decent guess, but you're half wrong. I had indeed intended to distribute it to my team, were it not for that single fault.
+# Hohenheim: Decent guess, but you're half wrong. I had indeed intended to distribute it to my team, were it not for that single fault.
 Hohenheim: Неплохая догадка, но наполовину неверная. Я действительно намеревался распространить устройство среди своей команды, если бы не один-единственный недостаток.
 
-# Original: What is that single fault, you ask? When worn for too long, the device would start recognizing even the mere act of breathing as "eating."
+# Hohenheim: What is that single fault, you ask? When worn for too long, the device would start recognizing even the mere act of breathing as "eating."
 Hohenheim: Какой именно, спросите вы? При длительном ношении устройство начинало воспринимать даже обычное дыхание как «приём пищи».
 
-# Original: Every breath I took brought the rush of thick, cloying basque cheesecake flavor onto my tongue. It would normally be a rather scrumptious delicacy, but when it taints the very air I breathe, it inspires nothing but nausea in my mouth—and thanks to that, I ended up uncontrollably emptying the contents of my stomach on the floor.
+# Hohenheim: Every breath I took brought the rush of thick, cloying basque cheesecake flavor onto my tongue. It would normally be a rather scrumptious delicacy, but when it taints the very air I breathe, it inspires nothing but nausea in my mouth—and thanks to that, I ended up uncontrollably emptying the contents of my stomach on the floor.
 Hohenheim: Каждый мой вдох приносил на язык густой, приторный вкус баскского чизкейка. Обычно это весьма изысканное лакомство, но когда этот вкус пропитывает сам воздух, которым ты дышишь, он не вызывает ничего, кроме тошноты — и в результате я неконтролируемо опорожнил содержимое желудка на пол.
 
-# Original: Ew...
+# Ishmael: Ew...
 Ishmael: Фу...
 
-# Original: But perhaps that should not be a problem for subjects who are not coerced to breathe by their autonomic nervous system... such as your manager.
+# Hohenheim: But perhaps that should not be a problem for subjects who are not coerced to breathe by their autonomic nervous system... such as your manager.
 Hohenheim: Но, пожалуй, это не должно быть проблемой для субъектов, которых автономная нервная система не принуждает дышать... таких как ваш менеджер.
 
-# Original: <Ooh... Does that mean I'll finally get to partake in Rodya's food-critiquing session during our next team dinner?>
+# Dante: <Ooh... Does that mean I'll finally get to partake in Rodya's food-critiquing session during our next team dinner?>
 Dante: <О-о... Значит, я наконец-то смогу присоединиться к Родиным дегустационным сессиям на следующем командном ужине?>
 
-# Original: By the looks of it, they seem quite excited about that prospect. Very well, I will begin my search henceforth. Then—
+# Hohenheim: By the looks of it, they seem quite excited about that prospect. Very well, I will begin my search henceforth. Then—
 Hohenheim: Судя по всему, он весьма воодушевлён такой перспективой. Что ж, я начну поиски незамедлительно. Тогда—
 
-# Original: <i>BEEP— BEEP—</i>
+# Narrator: <i>BEEP— BEEP—</i>
 Narrator: <i>БИП— БИП—</i>
 
-# Original: ... Were these alarms connected to this facility as well?
+# Outis: ... Were these alarms connected to this facility as well?
 Outis: ...Эти сигналы тревоги тоже были подключены к этому комплексу?
 
-# Original: Indeed. Every location related to Limbus Company is equipped with relevant devices to detect the arrival of Walpurgis Nights.
+# Faust: Indeed. Every location related to Limbus Company is equipped with relevant devices to detect the arrival of Walpurgis Nights.
 Faust: Разумеется. Каждое помещение, связанное с Компанией Лимбус, оснащено соответствующими устройствами для обнаружения наступления Вальпургиевых ночей.
 
-# Original: Once the familiar green light and the accompanying alarm began to blare, Faust, who had been wordlessly leaning against the wall with her arms crossed, slowly shuffled toward us.
+# Narrator: Once the familiar green light and the accompanying alarm began to blare, Faust, who had been wordlessly leaning against the wall with her arms crossed, slowly shuffled toward us.
 Narrator: Когда знакомый зелёный свет и сопровождающая его сирена начали оглашать помещение, Фауст, до этого молча прислонившаяся к стене со скрещёнными руками, медленно направилась к нам.
 
-# Original: She seemed unusually exhausted, so I thought I might ask her if everything was okay, but...
+# Narrator: She seemed unusually exhausted, so I thought I might ask her if everything was okay, but...
 Narrator: Она выглядела необычно измотанной, и я хотел было спросить, всё ли у неё в порядке, но...
 
-# Original: Have the Corridor repairs progressed enough for us to explore this scenario, Hohenheim?
+# Faust: Have the Corridor repairs progressed enough for us to explore this scenario, Hohenheim?
 Faust: Ремонт Коридора продвинулся достаточно, чтобы мы могли исследовать этот сценарий, Хохенхайм?
 
-# Original: Of course. Contrary to <i>someone</i> who insisted that its frequency is not something we can reliably predict, I had intuited that this odd phenomenon with a taste for green illuminations would be arriving soon, and made the Corridor repairs one of our high-priority goals.
+# Hohenheim: Of course. Contrary to <i>someone</i> who insisted that its frequency is not something we can reliably predict, I had intuited that this odd phenomenon with a taste for green illuminations would be arriving soon, and made the Corridor repairs one of our high-priority goals.
 Hohenheim: Разумеется. В отличие от <i>некоторых</i>, кто настаивал, что частоту этого явления невозможно достоверно предсказать, я интуитивно предположил, что этот странный феномен с пристрастием к зелёному свечению скоро пожалует, и сделал ремонт Коридора одной из приоритетных задач.
 
-# Original: ... I see. Thank you.
+# Faust: ... I see. Thank you.
 Faust: ...Понятно. Спасибо.
 
-# Original: …?
+# Hohenheim: …?
 Hohenheim: …?
 
-# Original: ... maybe now's a bad time.
+# Narrator: ... maybe now's a bad time.
 Narrator: ...наверное, сейчас не лучшее время.
 
-# Original: That response was... indeed most unexpected. Completely breaks the expected behavior patterns.
+# Hohenheim: That response was... indeed most unexpected. Completely breaks the expected behavior patterns.
 Hohenheim: Этот ответ был... в высшей степени неожиданным. Полностью выбивается из ожидаемых моделей поведения.
 
-# Original: Dante, let us enter without delay.
+# Faust: Dante, let us enter without delay.
 Faust: Данте, давай войдём без промедления.
 
-# Original: <Huh? W-well, okay...>
+# Dante: <Huh? W-well, okay...>
 Dante: <А? Н-ну, ладно...>
 
-# Original: It sounded as though Hohenheim muttered something at us at the last second, but his voice was soon devoured by the Sinners and their raucous chatter, accompanied by the slurping noise of drinks guzzled down.
+# Narrator: It sounded as though Hohenheim muttered something at us at the last second, but his voice was soon devoured by the Sinners and their raucous chatter, accompanied by the slurping noise of drinks guzzled down.
 Narrator: Кажется, Хохенхайм пробормотал нам что-то в последний момент, но его голос был быстро поглощён Грешниками и их шумной болтовнёй, сопровождаемой хлюпаньем выпиваемых напитков.
 
-# Original: B.A.O. Depressing.
+# Ryōshū: B.A.O. Depressing.
 Ryōshū: Т.В.С. Тоска.
 
-# Original: Hmmm, yeah. Let's see... we're in the "Welfare Team" section. Maybe it's blue all over because that's their main color?
+# Sinclair: Hmmm, yeah. Let's see... we're in the "Welfare Team" section. Maybe it's blue all over because that's their main color?
 Sinclair: Хмм, да. Посмотрим... мы в секторе «Команды Благосостояния». Может, тут всё синее, потому что это их основной цвет?
 
-# Original: <This place is pretty big, too... Not as big as Central Command, but this place has got a pretty high ceiling.
+# Dante: <This place is pretty big, too... Not as big as Central Command, but this place has got a pretty high ceiling.>
 Dante: <Это место тоже довольно большое... Не такое огромное, как Центральный Командный Отдел, но тут довольно высокие потолки.>
 
-# Original: Couldn't they have changed the actual colors or interior design of this hole...? Different lights, sure, but ain't all these hallways samey-lookin'? It's startin' to get a bit old for me.
+# Heathcliff: Couldn't they have changed the actual colors or interior design of this hole...? Different lights, sure, but ain't all these hallways samey-lookin'? It's startin' to get a bit old for me.
 Heathcliff: Не могли они хоть цвета сменить или интерьер этой дыры...? Другое освещение — ладно, но все эти коридоры одинаковые, нет? Мне уже начинает надоедать.
 
-# Original: I think consistency's a good thing, actually! The Library always throws something new at us every visit, and there were times when we got killed before we even knew what was going on...
+# Sinclair: I think consistency's a good thing, actually! The Library always throws something new at us every visit, and there were times when we got killed before we even knew what was going on...
 Sinclair: Я думаю, единообразие — это хорошо, на самом деле! Библиотека каждый раз подкидывает нам что-то новое, и бывали случаи, когда нас убивали, прежде чем мы успевали понять, что происходит...
 
-# Original: Forsooth! If our lives be forfeit all the same, wouldst thou not say that they are best spent on new experiences?! New experiences such as witnessing a C-Color with our own eyes~
+# Don Quixote: Forsooth! If our lives be forfeit all the same, wouldst thou not say that they are best spent on new experiences?! New experiences such as witnessing a C-Color with our own eyes~
 Don Quixote: Воистину! Коль уж наши жизни всё равно обречены на заклание, не скажешь ли ты, что лучше потратить их на новые переживания?! Новые переживания, такие как узреть Цвет воочию~
 
-# Original: Hasn't that bloke's blue scythe sliced and diced you more than a dozen times, lass? Don't tell me you enjoyed every single one of 'em...
+# Heathcliff: Hasn't that bloke's blue scythe sliced and diced you more than a dozen times, lass? Don't tell me you enjoyed every single one of 'em...
 Heathcliff: Этот тип синей косой тебя уже раз двенадцать покрошил, нет? Не говори мне, что тебе каждый раз нравилось...
 
-# Original: <Hey... I'd appreciate it if you wouldn't consider your lives to be "forfeit all the same"... More death equals more pain for me, you know...?>
+# Dante: <Hey... I'd appreciate it if you wouldn't consider your lives to be "forfeit all the same"... More death equals more pain for me, you know...?>
 Dante: <Эй... был бы благодарен, если бы вы не считали свои жизни «всё равно обречёнными»... Чем больше смертей, тем больше боли для меня, знаете ли...?>
 
-# Original: W-well—
+# Don Quixote: W-well—
 Don Quixote: Н-ну—
 
-# Original: Despite their relative predictability, it is inadvisable to underestimate the former L Corp.'s Ordeals, as they are also characterized by progressively intensifying danger levels.
+# Faust: Despite their relative predictability, it is inadvisable to underestimate the former L Corp.'s Ordeals, as they are also characterized by progressively intensifying danger levels.
 Faust: Несмотря на их относительную предсказуемость, не стоит недооценивать Испытания бывшей L Corp., так как им также свойственно прогрессивное нарастание уровня опасности.
 
-# Original: <Danger levels?>
+# Dante: <Danger levels?>
 Dante: <Уровень опасности?>
 
-# Original: Indeed. The scenarios first began with the Dawn, then it was the Noon, followed by suppression of a WAW Risk Level Abnormality.
+# Faust: Indeed. The scenarios first began with the Dawn, then it was the Noon, followed by suppression of a WAW Risk Level Abnormality.
 Faust: Именно. Сценарии начались с Рассвета, затем последовал Полдень, а после — подавление Аномалии уровня угрозы WAW.
 
-# Original: It is obvious that the Ordeal following our previous encounter would pose a greater level of danger than the Ordeal of Noon.
+# Faust: It is obvious that the Ordeal following our previous encounter would pose a greater level of danger than the Ordeal of Noon.
 Faust: Очевидно, что Испытание, следующее за нашей предыдущей встречей, будет представлять больший уровень опасности, чем Испытание Полудня.
 
-# Original: Ah, you must be referring to the incrementally progressive pressure we had discussed prior, Miss Faust.
+# Yi Sang: Ah, you must be referring to the incrementally progressive pressure we had discussed prior, Miss Faust.
 Yi Sang: А, вы, должно быть, имеете в виду то постепенно нарастающее давление, которое мы обсуждали ранее, мисс Фауст.
 
-# Original: Yes. Following that deductive mode of thinking, this Ordeal must be...
+# Faust: Yes. Following that deductive mode of thinking, this Ordeal must be...
 Faust: Да. Следуя этой дедуктивной логике, это Испытание должно быть...
 
-# Original: ... An Ordeal of Dusk.
+# Faust: ... An Ordeal of Dusk.
 Faust: ...Испытанием Сумерек.
 
-# Original: Blimey... You've certainly got talent for spectacle. Say, you ain't in the habit of stallin', waitin' for dramatic moments to drop important information, are you?
+# Heathcliff: Blimey... You've certainly got talent for spectacle. Say, you ain't in the habit of stallin', waitin' for dramatic moments to drop important information, are you?
 Heathcliff: Ну ты даёшь... У тебя точно талант к зрелищности. Скажи, у тебя нет привычки тянуть время, выжидая драматичный момент, чтобы выложить важную информацию?
 
-# Original: Faust does not care for such useless, vain theatricalities.
+# Faust: Faust does not care for such useless, vain theatricalities.
 Faust: Фауст не интересуется подобными бесполезными, тщеславными театральностями.
 
-# Original: Wha— *cough* I was clearly jokin', lass. You didn't have to be so cross about it.
+# Heathcliff: Wha— *cough* I was clearly jokin', lass. You didn't have to be so cross about it.
 Heathcliff: Чё— *кхе* Я же явно шутил, ну. Не обязательно было так резко.
 
-# Original: …….
+# Faust: …….
 Faust: ……
 
-# Original: ... I should probably sort out a few doubts for Faust to go over in our next consultation session.
+# Narrator: ... I should probably sort out a few doubts for Faust to go over in our next consultation session.
 Narrator: ...Мне, пожалуй, стоит составить список сомнений, чтобы обсудить их с Фауст на следующей консультации.
 
-# Original: <We'd better focus on the Ordeal at hand first... F-Faust? Mind shedding some more light on it?>
+# Dante: <We'd better focus on the Ordeal at hand first... F-Faust? Mind shedding some more light on it?>
 Dante: <Лучше сначала сосредоточиться на текущем Испытании... Ф-Фауст? Не расскажешь поподробнее?>
 
-# Original: The time will be Dusk, and the color is Amber.
+# Faust: The time will be Dusk, and the color is Amber.
 Faust: Время — Сумерки, а цвет — Янтарный.
 
-# Original: The Food Chain is set to appear in this Ordeal.
+# Faust: The Food Chain is set to appear in this Ordeal.
 Faust: В этом Испытании должна появиться Пищевая цепь.
 
-# Original: The Food Chain? As in that whole natural cycle of eat-and-be-eaten?
+# Narrator: The Food Chain? As in that whole natural cycle of eat-and-be-eaten?
 Narrator: Пищевая цепь? Как в том природном цикле «ешь и будь съеден»?
 
-# Original: Ugh... Why...?
+# Rodion: Ugh... Why...?
 Rodion: Фу-у... Почему...?
 
-# Original: Why's it gotta be bugs again?!!
+# Rodion: Why's it gotta be bugs again?!!
 Rodion: Почему опять жуки?!!
 
-# Original: While I was still mulling over what Faust had just said, Rodya—who seemed to have noticed something squirming in the distance—burst into a disgusted, irritated rant...
+# Narrator: While I was still mulling over what Faust had just said, Rodya—who seemed to have noticed something squirming in the distance—burst into a disgusted, irritated rant...
 Narrator: Пока я ещё обдумывал слова Фауст, Родя — заметившая, как что-то копошится вдалеке, — разразилась возмущённой тирадой...
 
-# Original: Ever since last time, it's just been one thing after another trying to gross me out... Is this also supposed to be one of the goals the so-called "scenario" set up?
+# Rodion: Ever since last time, it's just been one thing after another trying to gross me out... Is this also supposed to be one of the goals the so-called "scenario" set up?
 Rodion: С прошлого раза одно за другим только и пытается меня довести до тошноты... Это тоже часть задач, которые ставит этот «сценарий»?
 
-# Original: ... while still holding the can of jelly drink in her hand.
+# Narrator: ... while still holding the can of jelly drink in her hand.
 Narrator: ...всё ещё держа в руке банку желейного напитка.
 
-# Original: Ugh, there it goes. I've completely lost my appetite.
+# Rodion: Ugh, there it goes. I've completely lost my appetite.
 Rodion: Тьфу, вот и всё. Аппетит полностью пропал.
 
-# Original: Either finish chewing before you speak, or wipe that revulsed grimace off your face if you insist on shoveling the jelly down regardless of the creature's sight... One lapse in decorum at a time.
+# Outis: Either finish chewing before you speak, or wipe that revulsed grimace off your face if you insist on shoveling the jelly down regardless of the creature's sight... One lapse in decorum at a time.
 Outis: Либо доедай, прежде чем говорить, либо убери эту гримасу отвращения с лица, если всё равно собираешься запихивать в себя желе при виде этого существа... По одному нарушению этикета за раз.
 
-# Original: Fortunately, Executive Manager, the entity's movement speed appears notably slow. A meticulous distance measuring coupled with a methodical stratagem should allow us to neutralize the target without issue.
+# Outis: Fortunately, Executive Manager, the entity's movement speed appears notably slow. A meticulous distance measuring coupled with a methodical stratagem should allow us to neutralize the target without issue.
 Outis: К счастью, Исполнительный Менеджер, скорость передвижения этого существа заметно невысока. Тщательное измерение дистанции в сочетании с методичной стратегией позволят нам нейтрализовать цель без проблем.
 
-# Original: <... Right. There's no need to rush.>
+# Dante: <... Right. There's no need to rush.>
 Dante: <...Верно. Торопиться незачем.>
 
-# Original: If we can just make sure to move faster than those things do... We should be fine.
+# Narrator: If we can just make sure to move faster than those things do... We should be fine.
 Narrator: Если мы просто убедимся, что двигаемся быстрее этих тварей... всё будет в порядке.

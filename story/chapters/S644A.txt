@@ -1,101 +1,101 @@
-# Original: I'll knock that wretch unconscious! It is one of many lesser-known skills of Butlers to keep their foes neutralized.
+# Nelly: I'll knock that wretch unconscious! It is one of many lesser-known skills of Butlers to keep their foes neutralized.
 Нелли: Я вырублю этого негодяя! Это один из малоизвестных навыков дворецких – обезвреживать своих противников.
 
-# Original: Dante. Our foremost priority should be...
+# Faust: Dante. Our foremost priority should be...
 Фауст: Данте. Наш главный приоритет должен быть...
 
-# Original: ... finding out who it was that showed the Erlking Heathcliff about Heathcliffs and Catherines in every world. The one who opened his eyes to the Mirror Worlds.
+# Faust: ... finding out who it was that showed the Erlking Heathcliff about Heathcliffs and Catherines in every world. The one who opened his eyes to the Mirror Worlds.
 Фауст: ... выяснить, кто показал Хитклифу-Эрлкингу о Хитклифах и Кэтрин во всех мирах. Тот, кто открыл ему глаза на Зеркальные Миры.
 
-# Original: <... I see now. Faust, you only have the potential to know all things... not the knowledge of all things.>
+# Dante: <... I see now. Faust, you only have the potential to know all things... not the knowledge of all things.>
 Данте: <... Теперь я понимаю. Фауст, у тебя есть только лишь потенциал знать всё... но не само знание всего.>
 
-# Original: ... If that statement pertains to me, then yes. But that is—
+# Faust: ... If that statement pertains to me, then yes. But that is—
 Фауст: ... Если это утверждение относится ко мне, то да. Но это—
 
-# Original: <I suppose I'll find out when it's your turn. One thing at a time, Faust. Let's think about this from the very start.>
+# Dante: <I suppose I'll find out when it's your turn. One thing at a time, Faust. Let's think about this from the very start.>
 Данте: <Полагаю, я узнаю, когда придёт твой черёд. Всему своё время, Фауст. Давай подумаем об этом с самого начала.>
 
-# Original: Understood. The very first question we must ask is how Catherine suddenly gained a keen interest in studying the Mirror Worlds. Considering that she had led a relatively normal life before Heathcliff's departure, this behavior seems highly irregular.
+# Faust: Understood. The very first question we must ask is how Catherine suddenly gained a keen interest in studying the Mirror Worlds. Considering that she had led a relatively normal life before Heathcliff's departure, this behavior seems highly irregular.
 Фауст: Понятно. Самый первый вопрос, который мы должны задать – как у Кэтрин внезапно появился такой живой интерес к изучению Зеркальных Миров. Учитывая, что она вела относительно нормальную жизнь до отъезда Хитклифа, такое поведение кажется крайне необычным.
 
-# Original: So it's pretty much a given that there was someone acting behind the scenes, egging her on...
+# Ishmael: So it's pretty much a given that there was someone acting behind the scenes, egging her on...
 Измаил: Так что практически наверняка был кто-то, действовавший за кулисами, подстрекая её...
 
-# Original: Indeed. Someone who handed the mirror to Catherine, leading her to create the laboratory. Someone who had to have invited Erlking Heathcliff to this manor.
+# Faust: Indeed. Someone who handed the mirror to Catherine, leading her to create the laboratory. Someone who had to have invited Erlking Heathcliff to this manor.
 Фауст: Действительно. Кто-то, кто передал зеркало Кэтрин, побудив её создать лабораторию. Кто-то, кто должен был пригласить Хитклифа-Эрлкинга в это поместье.
 
-# Original: It must be someone close to Catherine. Someone who she heavily relied on.
+# Meursault: It must be someone close to Catherine. Someone who she heavily relied on.
 Мерсо: Это должен быть кто-то близкий к Кэтрин. Кто-то, на кого она сильно полагалась.
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: Executive Manager. If you would allow me to voice a few suspicions.
+# Outis: Executive Manager. If you would allow me to voice a few suspicions.
 Отис: Исполнительный Менеджер. Если позволите, я выскажу несколько подозрений.
 
-# Original: Do you recall what Nelly said, when we first discovered the Golden Bough in the basement?
+# Outis: Do you recall what Nelly said, when we first discovered the Golden Bough in the basement?
 Отис: Вы помните, что сказала Нелли, когда мы впервые обнаружили Золотую Ветвь в подвале?
 
-# Original: T-there! Is that the Golden Bough you were looking for...?
+# Nelly: T-there! Is that the Golden Bough you were looking for...?
 Нелли: В-вот! Это та Золотая Ветвь, которую вы искали...?
 
-# Original: <Right... she did say that.>
+# Dante: <Right... she did say that.>
 Данте: <Верно... она действительно это сказала.>
 
-# Original: Executive Manager. She couldn't have known that we were actively seeking the Golden Boughs. We never shared that information with her. The only thing she should have known at that stage is what Catherine's will stated: that she was leaving the Golden Bough to Heathcliff.
+# Outis: Executive Manager. She couldn't have known that we were actively seeking the Golden Boughs. We never shared that information with her. The only thing she should have known at that stage is what Catherine's will stated: that she was leaving the Golden Bough to Heathcliff.
 Отис: Исполнительный Менеджер. Она не могла знать, что мы активно ищем Золотые Ветви. Мы никогда не делились с ней этой информацией. Единственное, что она должна была знать на тот момент, это то, что было указано в завещании Кэтрин: что она оставляет Золотую Ветвь Хитклифу.
 
-# Original: And...
+# Outis: And...
 Отис: И...
 
-# Original: When we encountered the Dead Rabbits in the corridor...
+# Outis: When we encountered the Dead Rabbits in the corridor...
 Отис: Когда мы столкнулись с Мёртвыми Кроликами в коридоре...
 
-# Original: She claimed that the 'word on the street' is that we must be wary of Dead Rabbits with red eyes, but... as you are well aware yourself, in the 'streets', their eyes would not have had any color.
+# Outis: She claimed that the 'word on the street' is that we must be wary of Dead Rabbits with red eyes, but... as you are well aware yourself, in the 'streets', their eyes would not have had any color.
 Отис: Она утверждала, что "на улицах говорят", что мы должны опасаться Мёртвых Кроликов с красными глазами, но... как вы сами хорошо знаете, "на улицах" их глаза не имели бы никакого цвета.
 
-# Original: Right? She wasn't even at an angle where she could see their eyes.
+# Rodion: Right? She wasn't even at an angle where she could see their eyes.
 Родион: Верно? Она даже не находилась под таким углом, чтобы видеть их глаза.
 
-# Original: It can only mean that she was already aware of that fact before we encountered them.
+# Outis: It can only mean that she was already aware of that fact before we encountered them.
 Отис: Это может означать только то, что она уже знала об этом факте до того, как мы с ними столкнулись.
 
-# Original: <Nelly...>
+# Dante: <Nelly...>
 Данте: <Нелли...>
 
-# Original: <Don't let Nelly anywhere near Heathcliff...!>
+# Dante: <Don't let Nelly anywhere near Heathcliff...!>
 Данте: <Не позволяйте Нелли приближаться к Хитклифу...!>
 
-# Original: But we were too late.
+# Narrator: But we were too late.
 Рассказчик: Но мы опоздали.
 
-# Original: Now ascend to the rooftops... Heathcliff.
+# Nelly: Now ascend to the rooftops... Heathcliff.
 Нелли: Теперь поднимайся на крышу... Хитклиф.
 
-# Original: ... Nelly? Why are you talking to him...?
+# Heathcliff: ... Nelly? Why are you talking to him...?
 Хитклиф: ... Нелли? Почему ты разговариваешь с ним...?
 
-# Original: Do you still not understand?
+# Erlking Heathcliff: Do you still not understand?
 Хитклиф из Зеркального Мира: Ты всё ещё не понимаешь?
 
-# Original: It was Nelly who invited me to this manor!
+# Erlking Heathcliff: It was Nelly who invited me to this manor!
 Хитклиф из Зеркального Мира: Это Нелли пригласила меня в это поместье!
 
-# Original: She summoned me here, gave me information I needed to utterly destroy that fool Hindley.
+# Erlking Heathcliff: She summoned me here, gave me information I needed to utterly destroy that fool Hindley.
 Хитклиф из Зеркального Мира: Она вызвала меня сюда, дала мне информацию, необходимую для того, чтобы полностью уничтожить этого дурака Хиндли.
 
-# Original: Oh, and it was Nelly who introduced me to that girl, Isabella.
+# Erlking Heathcliff: Oh, and it was Nelly who introduced me to that girl, Isabella.
 Хитклиф из Зеркального Мира: О, и это Нелли познакомила меня с той девушкой, Изабеллой.
 
-# Original: Do not ask me why, for the answer is quite plain. Because we were both tired of enduring!
+# Erlking Heathcliff: Do not ask me why, for the answer is quite plain. Because we were both tired of enduring!
 Хитклиф из Зеркального Мира: Не спрашивай меня почему, ответ вполне очевиден. Потому что мы оба устали терпеть!
 
-# Original: Erlking Heathcliff, now freed by Nelly's hand...
+# Narrator: Erlking Heathcliff, now freed by Nelly's hand...
 Рассказчик: Хитклиф-Эрлкинг, теперь освобождённый рукой Нелли...
 
-# Original: <NO!>
+# Dante: <NO!>
 Данте: <НЕТ!>
 
-# Original: Disappeared to the rooftop of the manor.
+# Narrator: Disappeared to the rooftop of the manor.
 Рассказчик: Исчез на крыше поместья.

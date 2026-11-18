@@ -1,194 +1,194 @@
-﻿# Original: We quickly moved our conversation into the hideout after defeating the Yurodivy members.
+﻿# Narrator: We quickly moved our conversation into the hideout after defeating the Yurodiviye members.
 Рассказчик: Одолев членов Юродивых, мы продолжили разговор уже внутри их убежища.
 
-# Original: Gah...!
+# Yurodiviye Captain: Gah...!
 Детектив: Угх…
 
-# Original: Surrender and confess.
+# Ryōshū: Surrender and confess.
 Рёшу: Сдайся и сознайся.
 
-# Original: Starting to run low on patience. Might kill you soon.
+# Ryōshū: Starting to run low on patience. Might kill you soon.
 Рёшу: Терпение не резиновое. Скоро тебя прикончу.
 
-# Original: <Ah, no... Looks like Ryōshū's getting tired of playing detective...>
+# Dante: <Ah, no... Looks like Ryōshū's getting tired of playing detective...>
 Данте: <Плохо дело… Кажется, Рёшу уже надоедает играть в детектива…>
 
-# Original: We've surrendered already. Not sure what you want us to confess, either. What, would you like for us to confess that we're the Yurodiviye or something?
+# Yurodiviye Captain: We've surrendered already. Not sure what you want us to confess, either. What, would you like for us to confess that we're the Yurodiviye or something?
 Детектив: Уже сдались. А в чём сознаваться я не знаю. В том, что мы Юродивые?
 
-# Original: We hesitated, unsure if he really was clueless or not. That's when Rodya confidently strode forward and pointed an accusatory finger at the Yurodiviye Captain.
+# Narrator: We hesitated, unsure if he really was clueless or not. That's when Rodya confidently strode forward and pointed an accusatory finger at the Yurodiviye Captain.
 Рассказчик: Пока мы не знали, говорит ли он правду, Родя уверенно вышла вперёд и указала пальцем на главу Юродивых.
 
-# Original: Right, questioning time! You've always hated this Nest's state of affairs, am I right?
+# Rodion: Right, questioning time! You've always hated this Nest's state of affairs, am I right?
 Родион: Так, послушай-ка, вам же не нравятся, как обстоят дела в этом Гнезде, так?
 
-# Original: … Must you really ask?
+# Yurodiviye Captain: … Must you really ask?
 Детектив: …Само собой разумеющееся.
 
-# Original: You like inventing stuff and not registering them to the Tech Agency, don'tcha?
+# Rodion: You like inventing stuff and not registering them to the Tech Agency, don'tcha?
 Родион: И вы ещё делаете изобретения, которые не регистрируете в техамдинистрации… так?
 
-# Original: Again... must you really inquire about something you could discern simply by looking around?
+# Yurodiviye Captain: Again... must you really inquire about something you could discern simply by looking around?
 Детектив: Опять же… достаточно просто осмотреться, чтобы самим сделать выводы?
 
-# Original: Ooh, mind if I take a gander at these inventions?
+# Assistant: Ooh, mind if I take a gander at these inventions?
 Май: О-о, не будете против, если я посмотрю на них?
 
-# Original: Wait, don't just go around touching—
+# Yurodiviye Captain: Wait, don't just go around touching—
 Детектив: Стоп… Нет, вы не можете просто—
 
-# Original: Hm, I see. This hedgehog toy is a time bomb disguised as a plushie. It scans the palm as soon as it enters within a certain proximity range, and if it doesn't recognize the palm as an authorized individual's, it'll shoot out its spines to penetrate the intruder.
+# Assistant: Hm, I see. This hedgehog toy is a time bomb disguised as a stuffie. It scans the palm as soon as it enters within a certain proximity range, and if it doesn't recognize the palm as an authorized individual's, it'll shoot out its spines to penetrate the intruder.
 Май: Хм, вот эта игрушка похожа на ежа, но на самом деле бомба с таймером, да? Она сканирует ладонь, когда та находится в определённом диапазоне действия и, если это неопознанный человек, выпускает во все стороны шипы, нацеленные на протыкание вторженца.
 
-# Original: But you've screwed the parts too tightly down here. You'll do well to remember that mechanical engineering isn't all about tightening the screws as hard as you can; sometimes you need a slightly loose screw or two to make things fit better. And another thing: if I were you, I would've made the spine holes hexagon-shaped, not circular.
+# Assistant: But you've screwed the parts too tightly down here. You'll do well to remember that mechanical engineering isn't all about tightening the screws as hard as you can; sometimes you need a slightly loose screw or two to make things fit better. And another thing: if I were you, I would've made the spine holes hexagon-shaped, not circular.
 Май: Но было бы лучше, если бы вот здесь вы немного ослабили крепёж деталей. В конце концов нельзя забывать, что не всегда нужно намертво скреплять детали друг с другом. А ещё на вашем месте я бы сделал отверстия в стержне не круглой формы, а шестиугольной.
 
-# Original: ... You could tell all that from a quick look? You are certainly no common employee.
+# Yurodiviye Captain: ... You could tell all that from a quick look? You are certainly no common employee.
 Детектив: …Осмотрели лишь раз, а такой анализ провели. Вы явно не простой сотрудник.
 
-# Original: Either way, most of those are experiments, incomplete products. In truth...
+# Yurodiviye Captain: Either way, most of those are experiments, incomplete products. In truth...
 Детектив: В любом случае, большая часть этих изобретений лишь тестовые образцы, работы ещё предстоит много. На самом деле…
 
-# Original: ... In truth, ya like making more dangerous, destructive inventions too, right?
+# Rodion: ... In truth, ya like making more dangerous, destructive inventions too, right?
 Родион: На самом деле, вы и более опасные изобретения делаете, так?
 
-# Original: You really are a persistent one, aren't you? What are you getting at?
+# Yurodiviye Captain: You really are a persistent one, aren't you? What are you getting at?
 Детектив: Какая настырная. К чему ты клонишь?
 
-# Original: And I'm sure these violent inventions eventually led to something that can completely rip someone's time away.
+# Rodion: And I'm sure these violent inventions eventually led to something that can completely rip someone's time away.
 Родион: Тогда вы, наверное, смогли создать изобретение, способное забирать у людей время…
 
-# Original: Wait, I'm... what?
+# Yurodiviye Captain: Wait, I'm... what?
 Детектив: Мы… Что?
 
-# Original: The culprit behind 'The Case of Timekilling Time'...
+# Rodion: The culprit behind 'The Case of Timekilling Time'...
 Родион: Преступники, стоящие за делом о времени, убивающем время...
 
-# Original: ... it's you guys, right?
+# Rodion: ... it's you guys, right?
 Родион: Это же вы, да?
 
-# Original: It's what you do, isn't it? Ya see something that rubs ya the wrong way, so you go ahead and smash it to bits.
+# Rodion: It's what you do, isn't it? Ya see something that rubs ya the wrong way, so you go ahead and smash it to bits.
 Родион: Если вам что-то не нравится, вы непременно с этим разберётесь, даже если придётся предпринять крайние меры, ведь так?
 
-# Original: That's a bit of a logical leap, isn't it? Who do you think we Yurodiviye are?
+# Yurodiviye Captain: That's a bit of a logical leap, isn't it? Who do you think we Yurodiviye are?
 Детектив: Слишком торопишься с выводами. Ты за кого Юродивых принимаешь?
 
-# Original: Sounds like this friend of yours in the Yurodiviye really messed up big time in the past, hmm? Did he do something drastically violent?
+# Assistant: Sounds like this pal of yours in the Yurodiviye really messed up big time in the past, hmm? Did he do something drastically violent?
 Май: Звучит так, будто ваш друг в прошлом сделал что-то выдающееся, раз вы такого мнения о Юродивых?
 
-# Original: No, Sonya... he...
+# Rodion: No, Sonya... he...
 Родион: …Нет, Соня… он...
 
-# Original: He always knew how to say the right things. Things to get people to agree with him, to convince them to join his cause.
+# Rodion: He always knew how to say the right things. Things to get people to agree with him, to convince them to join his cause.
 Родион: Он всегда знал, как сказать правильные вещи. Многие восхищались им и проникались его речами.
 
-# Original: His words filled me with this... confidence. That we could really change the world, that it really was as effortless as letting candy slowly melt away in my mouth.
+# Rodion: His words filled me with this... confidence. That we could really change the world, that it really was as effortless as letting candy slowly melt away in my mouth.
 Родион: Послушав его, я почувствовала... уверенность. Уверенность в то, что мир можно изменить так же просто, как дать растаять конфетке во рту.
 
-# Original: But... what could he possibly do to change the world? He doesn't even do anything, not like these guys. I bet the T Corp. Yurodiviye are nothing more than knockoffs who just found themselves inspired by stories coming out of J Corp. Or—
+# Rodion: But... what could he possibly do to change the world? He doesn't even do anything, not like these guys. I bet the T Corp. Yurodiviye are nothing more than knockoffs who just found themselves inspired by stories coming out of J Corp. Or—
 Родион: Но… что вообще он может изменить? В отличии от этих ребят, Соня вообще ничего не делает. Наверное, Юродивые из корпорации T просто наслушались слухов о том, что происходит в корпорации J—…
 
-# Original: It's absolutely baffling how you failed to correctly deduce a single thing. No, we're not 'knockoffs'. Besides, the Saint has already brought many changes to this world. Changes that you mere detectives can't even dream of.
+# Yurodiviye Captain: It's absolutely baffling how you failed to correctly deduce a single thing. No, we're not 'knockoffs'. Besides, the Saint has already brought many changes to this world. Changes that you mere detectives can't even dream of.
 Детектив: Все твои умозаключения попадают мимо цели… Мы не просто „наслушались“ слухов. Святой уже принёс столько перемен в мир. Перемены, о которых такие заурядные детективы, как вы, даже и мечтать не могли.
 
-# Original: The Saint...?
+# Rodion: The Saint...?
 Родион: Святой…?
 
-# Original: Indeed. Saint Sonya was the one who really sparked the fire of the Yurodiviye in every Nest. Well, that isn't the only reason they call him the Saint, but that's besides the point.
+# Yurodiviye Captain: Indeed. Saint Sonya was the one who really sparked the fire of the Yurodiviye in every Nest. Well, that isn't the only reason they call him the Saint, but that's besides the point.
 Детектив: Верно. Святой Соня проделал величайшую работу, распространив движение Юродивых по всем Гнёздам. И это не единственная причина, по которой его нынче называют Святым.
 
-# Original: Yurodiviye... in every Nest...? Sonya did that?
+# Rodion: Yurodiviye... in every Nest...? Sonya did that?
 Родион: Юродивые… во всех Гнёздах? И это был Соня?
 
-# Original: …….
+# Yurodiviye Captain: …….
 Детектив: …….
 
-# Original: Since you claim to be Saint Sonya's friend, allow me to say it in no uncertain terms. The Yurodiviye has nothing to do with your case.
+# Yurodiviye Captain: Since you claim to be Saint Sonya's friend, allow me to say it in no uncertain terms. The Yurodiviye has nothing to do with your case.
 Детектив: Раз уж ты подруга Святого Сони, я буду честен. Юродивые никак не связаны с вашим делом.
 
-# Original: Sonya... he...
+# Rodion: Sonya... he...
 Родион: Соня…
 
-# Original: Hah, are we supposed to take you at your word?
+# Ryōshū: Hah, are we supposed to take you at your word?
 Рёшу: Ха, думаешь, мы тебе на слово поверим?
 
-# Original: First, we don't have this 'time killing' technology. We can steal time or timepieces, but it's practically impossible to kill time. Making something so absurd would surely catch the Tech Agency's attention.
+# Yurodiviye Captain: First, we don't have this 'time killing' technology. We can steal time or timepieces, but it's practically impossible to kill time. Making something so absurd would surely catch the Tech Agency's attention.
 Детектив: Во-первых, мы не обладаем технологией "убийства времени". Мы, может, воруем время и часы, но в прямом смысле убить время невозможно. Если бы мы такое сделали, к нам бы точно наведались сотрудники Офиса технической администрации.
 
-# Original: And that is trouble that I am not willing to invite.
+# Yurodiviye Captain: And that is trouble that I am not willing to invite.
 Детектив: А мне таких проблем не нужно.
 
-# Original: Why? You've certainly been causing a ruckus here. Isn't that what the Yurodiviye wants? Chaos?
+# Assistant: Why? You've certainly been causing a ruckus here. Isn't that what the Yurodiviye wants? Chaos?
 Май: Почему же? Из-за вас в Гнезде немало проблем. Разве Юродивым не нужен этот хаос?
 
-# Original: Please, don't compare us to the likes of Backstreets gangs. Though there are those among us who want that chaos, of course.
+# Yurodiviye Captain: Please, don't compare us to the likes of Backstreets gangs. Though there are those among us who want that chaos, of course.
 Детектив: Не смешивайте нас с бандами из Подворотен. Конечно, среди нас есть те, которые хотят хаоса..
 
-# Original: One of our former members insisted that we must take the abundance of time in T Corp. for ourselves and have our comrades divide it equally among us.
+# Yurodiviye Captain: One of our former members insisted that we must take the abundance of time in T Corp. for ourselves and have our comrades divide it equally among us.
 Детектив: Один из бывших членов Юродивых настаивал на том, чтобы мы воспользовались излишком временем корпорации T, распределилв его между собой.
 
-# Original: But such drastic action would also hurt the have-nots, those who do not deserve such pain. So we must adhere to the Saint's teachings. To truly tear out the throats of the rich, we must wait for the right moment.
+# Yurodiviye Captain: But such drastic action would also hurt the have-nots, those who do not deserve such pain. So we must adhere to the Saint's teachings. To truly tear out the throats of the rich, we must wait for the right moment.
 Детектив: Но это бы навредило тем, кому и так времени не хватает, тем, кто этого не заслуживает. Поэтому мы и прислушиваемся к словам Святого. Чтобы вцепиться в глотки богатеев, нужно дождаться правильного момента.
 
-# Original: The right moment... haah, so it really was Sonya...
+# Rodion: The right moment... haah, so it really was Sonya...
 Родион: Дождаться правильного момента… Ха-а, значит это и правда был Соня…
 
-# Original: … So, I've been wondering. Are you really the Saint's friend?
+# Yurodiviye Captain: … So, I've been wondering. Are you really the Saint's friend?
 Детектив: …Мне всё было интересно, ты действительно подруга Святого?
 
-# Original: Of course she is~ He even invited her to join his journey!
+# Hong Lu: Of course she is~ He even invited her to join his journey!
 Хон Лу: Ну конечно~ Он даже позвал её с собой!
 
-# Original: <Why don't we leave for now? We can always come back here once we uncover more evidence.>
+# Dante: <Why don't we leave for now? We can always come back here once we uncover more evidence.>
 Данте: <Давайте пойдём? Если найдём какие-то улики, всегда можем вернуться…>
 
-# Original: Dante says "let's leave for now".
+# Hong Lu: Dante says "let's leave for now".
 Хон Лу: Данте предложил уйти.
 
-# Original: Hm? Are we not arresting them? Didn't one of you give me a whole lecture about how it's my job to arrest them?
+# Assistant: Hm? Are we not arresting them? Didn't one of you give me a whole lecture about how it's my job to arrest them?
 Май: Хм? И даже не будем их арестовывать? Не вы ли мне рассказывали, что их арест — это моя обязанность?
 
-# Original: …….
+# Rodion: …….
 Родион: …….
 
-# Original: Rodya ignored the Assistant's question and turned around to leave the hideout, wearing a dark expression—something I had never seen from her before. The Assistant shrugged, and we were about to leave the hideout as well... but the Yurodiviye Captain stopped us.
+# Narrator: Rodya ignored the Assistant's question and turned around to leave the hideout, wearing a dark expression—something I had never seen from her before. The Assistant shrugged, and we were about to leave the hideout as well... but the Yurodiviye Captain stopped us.
 Рассказчик: Проигнорировав слова Ассистента, Родя собралась уже было выйти на улицу, выражение лица её было меланхоличным. Никогда раньше я не видел её такой. Ассистент лишь пожал плечами, и мы собирались последовать за ней... но Глава Юродивых приостановил нас.
 
-# Original: Wait. If you really are a friend of the Saint, then I can't let you leave without giving you some advice as the more experienced detective. I was able to establish a few things from this conversation, so allow me to share them with you.
+# Yurodiviye Captain: Wait. If you really are a friend of the Saint, then I can't let you leave without giving you some advice as the more experienced detective. I was able to establish a few things from this conversation, so allow me to share them with you.
 Детектив: Погодите минутку. Раз уж Святой ваш друг, я не могу вас отпустить без дельного совета, как более опытный детектив. Пока я с вами разговаривал, мне в голову пришла парочка мыслей.
 
-# Original: Ohh~ Right! You dabble in detective work from time to time as well, yes? Is this a common thing that you Yurodiviye get up to?
+# Assistant: Ohh~ Right! You dabble in detective work from time to time as well, yes? Is this a common thing that you Yurodiviye get up to?
 Май: А-а~ Точно, вы же иногда работой детективов занимаетесь, верно? У всех Юродивых есть такое занятие?
 
-# Original: No, only the Yurodiviye branch in District 20 do. Anyway, if I were you... I would start by looking for a common thread that ties all victims together. Find out what they have in common.
+# Yurodiviye Captain: No, only the Yurodiviye branch in District 20 do. Anyway, if I were you... I would start by looking for a common thread that ties all victims together. Find out what they have in common.
 Детектив: Нет, этим отличаются именно Юродивые из двадцатого Района... В любом случае, я бы на вашем месте попытался понять, что между жертвами есть общего.
 
-# Original: ... Why?
+# Rodion: ... Why?
 Родион: …Зачем?
 
-# Original: The T Corp. Collections Agency knows everything about time. Where it comes from, where it goes. But not with this case.
+# Yurodiviye Captain: The T Corp. Collections Agency knows everything about time. Where it comes from, where it goes. But not with this case.
 Детектив: Коллекторский офис корпорации T знает о времени всё. Откуда оно берётся и куда девается, но в этом деле они это сделать не могут.
 
-# Original: But... if they know everything about comings and goings of time, how are you avoiding their eyes?
+# Hong Lu: But... if they know everything about comings and goings of time, how are you avoiding their eyes?
 Хон Лу: Но почему тогда Юродивых ещё никто не схватил?
 
-# Original: ... Not all of us do. I can't tell you more, however. Just know that we have an ace up our sleeve that lets us continue our guerilla activities in this Nest.
+# Yurodiviye Captain: ... Not all of us do. I can't tell you more, however. Just know that we have an ace up our sleeve that lets us continue our guerilla activities in this Nest.
 Детектив: …Многих из нас всё-таки схватили. А про остальных сказать не могу. Скажем так, у нас есть туз в рукаве, который позволяет нам дальше вести нашу деятельность в этом Гнезде.
 
-# Original: Anyways... does it not strike you as odd that, for someone with such impressive technology that can quite literally rip away time without a trace, the killer seems unusually passive?
+# Yurodiviye Captain: Anyways... does it not strike you as odd that, for someone with such impressive technology that can quite literally rip away time without a trace, the killer seems unusually passive?
 Детектив: В общем, вам не кажется, что преступник с такой выдающейся технологией, способной буквально вырезать время, не оставляя и следа, ведёт себя слишком пассивно?
 
-# Original: This tells me that there is a condition they must first meet to use their powers. Another possibility is that they have a certain creed, or a belief system that they follow... but ideologically motivated culprits usually leave behind more obvious evidence that points to their beliefs.
+# Yurodiviye Captain: This tells me that there is a condition they must first meet to use their powers. Another possibility is that they have a certain creed, or a belief system that they follow... but ideologically motivated culprits usually leave behind more obvious evidence that points to their beliefs.
 Детектив: Думаю, для того, чтобы использовать свои силы, ему нужно какое-то условие. Но если это связано с идеологией, то улик, указывающих на неё, должно бы быть намного больше.
 
-# Original: Ooh... I think that adds up nicely! Wanna join our squad of ace detectives?
+# Hong Lu: Ooh... I think that adds up nicely! Wanna join our squad of ace detectives?
 Хон Лу: О-о… А всё очень неплохо сходится. Не хотите присоединиться к нашей команде детективов?
 
-# Original: ... Who the hell hired this bumbling team of amateur detective wannabes?
+# Yurodiviye Captain: ... Who the hell hired this bumbling team of amateur detective wannabes?
 Детектив: …Кто, чёрт возьми, нанял этих полудурков?
 
-# Original: Haah... nevermind. Now, would you kindly leave this place?
+# Yurodiviye Captain: Haah... never mind. Now, would you kindly leave this place?
 Детектив: Ха-а, всё, хватит. Вам пора идти.
 
-# Original: <Well, we now know where the Yurodiviye are. We can always come back here if we ever need anything else.>
+# Dante: <Well, we now know where the Yurodiviye are. We can always come back here if we ever need anything else.>
 Данте: <…Теперь мы знаем местоположение их убежища. Вернёмся сюда, если появится необходимость.>

@@ -1,350 +1,350 @@
-﻿# Original: Now... hand over your entire coin bundle. Cough it up, I know you don't have many.
+﻿# Outis: Now... hand over your entire coin bundle. Cough it up, I know you don't have many.
 Отис: А теперь... гони сюда все свои монеты. Выкладывай, я знаю, что у тебя их немного.
 
-# Original: But... if you take all my coins, I'll be eliminated...
+# ???: But... if you take all my coins, I'll be eliminated...
 ???: Но... если вы заберёте все мои монеты, я вылечу...
 
-# Original: Yes, exactly. Are eliminated candidates subject to summary execution here?
+# Outis: Yes, exactly. Are eliminated candidates subject to summary execution here?
 Отис: Да, именно так. А выбывших кандидатов здесь казнят на месте?
 
-# Original: T-that wasn't a rule...
+# ???: T-that wasn't a rule...
 ???: Т-такого правила не было...
 
-# Original: Looks like some candidates have finally had some exciting run-ins with one another!
+# Host: Looks like some candidates have finally had some exciting run-ins with one another!
 Ведущая: Похоже, у некоторых кандидатов наконец-то произошли захватывающие стычки друг с другом!
 
-# Original: As a reminder, the goal of this game is to collect as many coins as possible within the given time limit.
+# Host: As a reminder, the goal of this game is to collect as many coins as possible within the given time limit.
 Ведущая: Напоминаю, цель этой игры — собрать как можно больше монет за отведённое время.
 
-# Original: Sure, cooperation and alliances are all well and good, but when negotiations go up in smoke, might becomes a pretty reliable fallback plan.
+# Host: Sure, cooperation and alliances are all well and good, but when negotiations go up in smoke, might becomes a pretty reliable fallback plan.
 Ведущая: Конечно, сотрудничество и союзы — это всё хорошо, но когда переговоры заходят в тупик, сила становится весьма надёжным запасным планом.
 
-# Original: Don't you worry, though! The shadows of Hongyuan hiding in the corners of the arena will safely guide any coinless candidate out of the building.
+# Host: Don't you worry, though! The shadows of Hongyuan hiding in the corners of the arena will safely guide any coinless candidate out of the building.
 Ведущая: Но не волнуйтесь! Тени Хунъюаня, прячущиеся по углам арены, безопасно проводят любого кандидата без монет из здания.
 
-# Original: Oh, by the way—resisting them is kind of a terrible idea. I heard they're faster to act than to talk.
+# Host: Oh, by the way—resisting them is kind of a terrible idea. I heard they're faster to act than to talk.
 Ведущая: Ах да, кстати — сопротивляться им довольно плохая идея. Я слышала, они быстрее действуют, чем говорят.
 
-# Original: They must have placed the Heishou here.
+# Faust: They must have placed the Heishou here.
 Фауст: Должно быть, они разместили здесь Хэйшоу.
 
-# Original: W-what the hell, that's bullshit!
+# ???: W-what the hell, that's bullshit!
 ???: К-какого чёрта, это бред какой-то!
 
-# Original: Of course, if you've lost more than your coins... your life, for example... I suppose the Heishou'll be escorting your corpse out of here instead. Ha ha ha!
+# Host: Of course, if you've lost more than your coins... your life, for example... I suppose the Heishou'll be escorting your corpse out of here instead. Ha ha ha!
 Ведущая: Разумеется, если вы потеряли нечто большее, чем монеты... например, жизнь... Полагаю, Хэйшоу вместо этого сопроводят отсюда ваш труп. Ха-ха-ха!
 
-# Original: ... You heard her. Would you like to have your corpse escorted out, or would you rather leave on your own accord?
+# Outis: ... You heard her. Would you like to have your corpse escorted out, or would you rather leave on your own accord?
 Отис: ...Ты её слышал. Хочешь, чтобы сопроводили твой труп, или предпочитаешь уйти по собственной воле?
 
-# Original: Fine... my coins are yours. Take them all...
+# ???: Fine... my coins are yours. Take them all...
 ???: Хорошо... мои монеты ваши. Забирайте все...
 
-# Original: Aha, a candidate from the Shi family has been eliminated from the game. What an overwhelmingly dominating display of charisma from the opposing candidate's clan member!
+# Host: Aha, a candidate from the Shi family has been eliminated from the game. What an overwhelmingly dominating display of charisma from the opposing candidate's clan member!
 Ведущая: Ага, кандидат из семьи Ши выбыл из игры. Какое подавляюще доминирующее проявление харизмы от члена клана противостоящего кандидата!
 
-# Original: If you've been eliminated, please come out to the hallways, forfeit your weapons, and wait for further instructions. Please note that any eliminated candidate loses all rights and privileges appertaining to candidates of Family Hierarch Evaluations, and...
+# Host: If you've been eliminated, please come out to the hallways, forfeit your weapons, and wait for further instructions. Please note that any eliminated candidate loses all rights and privileges appertaining to candidates of Family Hierarch Evaluations, and...
 Ведущая: Если вы выбыли, пожалуйста, выйдите в коридоры, сдайте оружие и ожидайте дальнейших инструкций. Обратите внимание, что любой выбывший кандидат теряет все права и привилегии, присущие кандидатам Оценки на пост Главы Семьи, и...
 
-# Original: Ohh, I remember now. His name's Shi Huazhen~
+# Hong Lu: Ohh, I remember now. His name's Shi Huazhen~
 Хон Лу: Ох, теперь я вспомнил. Его зовут Ши Хуачжэнь~
 
-# Original: We're already up to seven coins, huh?
+# Rodion: We're already up to seven coins, huh?
 Родион: У нас уже семь монет, да?
 
-# Original: Hey, that's not bad! Let's wrap this up asap and get the heck outta this creephouse~
+# Rodion: Hey, that's not bad! Let's wrap this up asap and get the heck outta this creephouse~
 Родион: Эй, а это неплохо! Давай закончим с этим поскорее и свалим из этого жуткого дома~
 
-# Original: We are beset in all directions by sorrow and tragedy. This appears to have been a laboratory for an unknown purpose...
+# Yi Sang: We are beset in all directions by sorrow and tragedy. This appears to have been a laboratory for an unknown purpose...
 И Сан: Мы со всех сторон окружены скорбью и трагедией. Похоже, это была лаборатория неизвестного назначения...
 
-# Original: Yi Sang's eyes scan over the various machines that are messily strewn about the room.
+# Narrator: Yi Sang's eyes scan over the various machines that are messily strewn about the room.
 Рассказчик: Взгляд И Сана скользит по различным машинам, беспорядочно разбросанным по комнате.
 
-# Original: Kong family's laboratory, most likely.
+# Wang Zhao: Kong family's laboratory, most likely.
 Ван Чжао: Лаборатория семьи Кун, скорее всего.
 
-# Original: Yeah... saw the plaque earlier. Apparently their entire family got completely annihilated after presumably breaking a taboo or something.
+# Gregor: Yeah... saw the plaque earlier. Apparently their entire family got completely annihilated after presumably breaking a Taboo or something.
 Грегор: Ага... видел табличку раньше. Видимо, всю их семью полностью уничтожили после того, как они, предположительно, нарушили какое-то табу или что-то в этом роде.
 
-# Original: Going by what Hong Lu said earlier... and gathering from everything we've heard about the Kong family so far... i-it sure sounds like they're all dead...
+# Sinclair: Going by what Hong Lu said earlier... and gathering from everything we've heard about the Kong family so far... i-it sure sounds like they're all dead...
 Синклер: Судя по тому, что Хон Лу сказал ранее... и собирая воедино всё, что мы слышали о семье Кун до сих пор... п-похоже, они все мертвы...
 
-# Original: It was in the time before the Jia family wielded as much power as it does now...
+# Wang Zhao: It was in the time before the Jia family wielded as much power as it does now...
 Ван Чжао: Это было во времена, когда семья Цзя ещё не обладала такой властью, как сейчас...
 
-# Original: Boy, the Kong family really was something back then.
+# Wang Zhao: Boy, the Kong family really was something back then.
 Ван Чжао: Ох, семья Кун тогда действительно была чем-то.
 
-# Original: Outputting a constant stream of new, groundbreaking Boluses with all kinds of unique qualities can't have been easy. But they somehow managed it back then.
+# Wang Zhao: Outputting a constant stream of new, groundbreaking Boluses with all kinds of unique qualities can't have been easy. But they somehow managed it back then.
 Ван Чжао: Производство постоянного потока новых, революционных Болюсов со всевозможными уникальными свойствами не могло быть лёгким. Но они тогда как-то справлялись.
 
-# Original: Because the Kong family had made such impressive contribution to the City as a whole, even past the boundaries of Hongyuan itself...
+# Wang Zhao: Because the Kong family had made such impressive contribution to the City as a whole, even past the boundaries of Hongyuan itself...
 Ван Чжао: Поскольку семья Кун внесла такой впечатляющий вклад в Город в целом, даже за пределами самого Хунъюаня...
 
-# Original: ... the other families had no choice but to watch in awe as it stood like a mountain so far above them.
+# Wang Zhao: ... the other families had no choice but to watch in awe as it stood like a mountain so far above them.
 Ван Чжао: ...другим семьям не оставалось ничего, кроме как с трепетом наблюдать, как она возвышалась над ними, словно гора.
 
-# Original: Yes, I heard that they delved into various research subjects here.
+# Hong Lu: Yes, I heard that they delved into various research subjects here.
 Хон Лу: Да, я слышал, что они здесь углублялись в различные исследования.
 
-# Original: Well. Despite all that glory, what awaited them at the end was a tragedy.
+# Wang Zhao: Well. Despite all that glory, what awaited them at the end was a tragedy.
 Ван Чжао: Что ж. Несмотря на всю эту славу, в конце их ждала трагедия.
 
-# Original: So there's no record or evidence of any kind left that could tell us what kind of experiments they carried out down here?
+# Ishmael: So there's no record or evidence of any kind left that could tell us what kind of experiments they carried out down here?
 Измаил: То есть не осталось никаких записей или свидетельств, которые могли бы рассказать нам, какие эксперименты они здесь проводили?
 
-# Original: Nope. It all got purged. Anything to do with their experiment has been practically atomized by the Claws that came here.
+# Wang Zhao: Nope. It all got purged. Anything to do with their experiment has been practically atomized by the Claws that came here.
 Ван Чжао: Нет. Всё было уничтожено. Всё, что связано с их экспериментами, было практически распылено Когтями, которые сюда пришли.
 
-# Original: ... Perhaps, in search of the novel, they failed to notice the avarice spiraling out of control; a recurring development among those whose passion is research.
+# Yi Sang: ... Perhaps, in search of the novel, they failed to notice the avarice spiraling out of control; a recurring development among those whose passion is research.
 И Сан: ...Возможно, в погоне за новым, они не заметили, как алчность выходит из-под контроля; повторяющаяся история среди тех, чья страсть — исследования.
 
-# Original: For a while, people from the high-and-mighty families of Hongyuan refused to even look in the general direction of this building. They thought it was heretical, that it would bring them misfortune.
+# Wang Zhao: For a while, people from the high-and-mighty families of Hongyuan refused to even look in the general direction of this building. They thought it was heretical, that it would bring them misfortune.
 Ван Чжао: Какое-то время люди из высокопоставленных семей Хунъюаня отказывались даже смотреть в сторону этого здания. Они считали его еретическим, что оно принесёт им несчастье.
 
-# Original: Of course, I was pretty young then, so all this is just what the adults told me.
+# Wang Zhao: Of course, I was pretty young then, so all this is just what the adults told me.
 Ван Чжао: Конечно, я тогда был довольно молод, так что всё это лишь то, что мне рассказывали взрослые.
 
-# Original: Do you recall aught from then... Hong Lu?
+# Yi Sang: Do you recall aught from then... Hong Lu?
 И Сан: Ты помнишь что-нибудь с тех пор... Хон Лу?
 
-# Original: I was also very young, only ten years old, so my memories aren't very clear...
+# Hong Lu: I was also very young, only ten years old, so my memories aren't very clear...
 Хон Лу: Я тоже был очень юн, всего десять лет, так что мои воспоминания не очень чёткие...
 
-# Original: But I do. I recall.
+# Hong Lu: But I do. I recall.
 Хон Лу: Но да. Я помню.
 
-# Original: ... I recall the day when the weight of avarice broke both the heavens above and the earth beneath the Kong family and smote them.
+# Hong Lu: ... I recall the day when the weight of avarice broke both the heavens above and the earth beneath the Kong family and smote them.
 Хон Лу: ...Я помню день, когда бремя алчности сокрушило и небеса над головой, и землю под ногами семьи Кун, уничтожив их.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <...>
 
-# Original: But our existence is as fragile as paper, bound to fade away into nothingness just as they have.
+# Hong Lu: But our existence is as fragile as paper, bound to fade away into nothingness just as they have.
 Хон Лу: Но наше существование хрупко, как бумага, ему суждено исчезнуть в небытии, так же, как и им.
 
-# Original: So... I guess that's why we should always be mindful of excess, to empty ourselves that we will not overflow.
+# Hong Lu: So... I guess that's why we should always be mindful of excess, to empty ourselves that we will not overflow.
 Хон Лу: Так что... Думаю, поэтому мы всегда должны помнить об излишествах, опустошая себя, дабы не переполниться.
 
-# Original: Hong Lu spoke so calmly and clinically about the day when countless lives were lost.
+# Narrator: Hong Lu spoke so calmly and clinically about the day when countless lives were lost.
 Рассказчик: Хон Лу говорил так спокойно и отстранённо о дне, когда погибло бесчисленное множество жизней.
 
-# Original: …….
+# Announcement: …….
 Рассказчик: ...
 
-# Original: Thank... you so... much again... everyone... who is here today... for the Kong family and Hongyuan's... eternal... prosperity.
+# Announcement: Thank... you so... much again... everyone... who is here today... for the Kong family and Hongyuan's... eternal... prosperity.
 Рассказчик: Ещё раз... огромное... спасибо... всем... кто собрался... ради вечного... процветания... семьи Кун и Хунъюаня.
 
-# Original: This... must be a recording from before the Kong family's complete annihilation.
+# Narrator: This... must be a recording from before the Kong family's complete annihilation.
 Рассказчик: Это... должно быть, запись времён до полного уничтожения семьи Кун.
 
-# Original: Let this... experiment... be another resounding success for us... so that everyone... in Hongyuan... will be a step closer... to achieving... immortal life...
+# Announcement: Let this... experiment... be another resounding success for us... so that everyone... in Hongyuan... will be a step closer... to achieving... immortal life...
 Рассказчик: Пусть этот... эксперимент... станет для нас ещё одним оглушительным успехом... что позволит каждому... в Хунъюане... стать на шаг ближе... к достижению... бессмертной жизни...
 
-# Original: Do... know that our success... is...
+# Announcement: Do... know that our success... is...
 Рассказчик: Знайте... что наш успех... это...
 
-# Original: Do know that our success is a guarantee, so we would like to ask all research personnel to put their best into every project.
+# Announcement: Do know that our success is a guarantee, so we would like to ask all research personnel to put their best into every project.
 Рассказчик: Знайте, что наш успех гарантирован, поэтому мы хотели бы попросить весь исследовательский персонал приложить все усилия к каждому проекту.
 
-# Original: Do you see now? It was not a matter of formula but rather the process, the order of formulation that diminished the efficacy of your previous Bolus.
+# Jia Mu: Do you see now? It was not a matter of formula but rather the process, the order of formulation that diminished the efficacy of your previous Bolus.
 Цзя Му: Теперь ты видишь? Дело было не в формуле, а скорее в процессе, в порядке составления, который снижал эффективность твоего предыдущего Болюса.
 
-# Original: Let me demonstrate by example. Directly mixing two diametrically opposed ingredients—safflower (紅花), which carries an element of fire, with fleeceflower (何首烏), which carries an element of water—will cause a repelling reaction. What does the Kong family do in such a case?
+# Jia Mu: Let me demonstrate by example. Directly mixing two diametrically opposed ingredients—safflower (紅花), which carries an element of fire, with fleeceflower (何首烏), which carries an element of water—will cause a repelling reaction. What does the Kong family do in such a case?
 Цзя Му: Позволь продемонстрировать на примере. Прямое смешивание двух диаметрально противоположных ингредиентов — сафлора (紅花), несущего элемент огня, с горцем многоцветковым (何首烏), несущим элемент воды — вызовет реакцию отторжения. Что семья Кун делает в таком случае?
 
-# Original: Mm. Use white peony (白芍藥) or gold in between the addition of either ingredient so that they may coexist.
+# Kong Youjin: Mm. Use white peony (白芍藥) or gold in between the addition of either ingredient so that they may coexist.
 Кун Юцзинь: Мм. Использует пион молочноцветковый (白芍藥) или золото между добавлением каждого ингредиента, чтобы позволить им сосуществовать.
 
-# Original: Yes, a rudimentary application of the Bolus production methodology. However, one thing we must know is that the law followed by our ingredients is not defined solely by the five phases and eight trigrams. Though the five phases are correctly aligned, ingredients each imbued with elements of the sexagenary cycle—distinguished by both the heavenly stems and the earthly branches—all exhibit different effects.
+# Jia Mu: Yes, a rudimentary application of the Bolus production methodology. However, one thing we must know is that the law followed by our ingredients is not defined solely by the five phases and eight trigrams. Though the five phases are correctly aligned, ingredients each imbued with elements of the sexagenary cycle—distinguished by both the heavenly stems and the earthly branches—all exhibit different effects.
 Цзя Му: Да, элементарное применение методологии производства Болюсов. Однако, мы должны знать, что закон, которому подчиняются наши ингредиенты, определяется не только пятью стихиями и восемью триграммами. Хотя пять стихий правильно выровнены, ингредиенты, каждый из которых наделён элементами шестидесятеричного цикла — различающимися как небесными стволами, так и земными ветвями — все проявляют разные эффекты.
 
-# Original: Another aspect of this art to consider is that spacetime itself is a variable that modifies the laws by which yin and yang operate; thus, even if the same recipe were to be followed to the letter, the hour, the minute, and the second during which the Bolus is combined affects its quality and characteristics.
+# Jia Mu: Another aspect of this art to consider is that spacetime itself is a variable that modifies the laws by which yin and yang operate; thus, even if the same recipe were to be followed to the letter, the hour, the minute, and the second during which the Bolus is combined affects its quality and characteristics.
 Цзя Му: Ещё один аспект этого искусства, который следует учитывать, — это то, что сам пространственно-временной континуум является переменной, изменяющей законы, по которым действуют инь и ян; таким образом, даже если рецепт будет соблюден в точности, час, минута и секунда, в течение которых Болюс смешивается, влияют на его качество и характеристики.
 
-# Original: So that's why following the same family recipes could yield Boluses of varying effects.
+# Kong Sihui: So that's why following the same family recipes could yield Boluses of varying effects.
 Кун Сыхуэй: Так вот почему следование одним и тем же семейным рецептам может давать Болюсы с различными эффектами.
 
-# Original: You must also remain wary of where one stores the Boluses once they are completed, and when to remove them from shade.
+# Jia Mu: You must also remain wary of where one stores the Boluses once they are completed, and when to remove them from shade.
 Цзя Му: Вы также должны оставаться бдительными относительно того, где хранить Болюсы после их изготовления, и когда вынимать их из тени.
 
-# Original: Do keep in mind that a wise forger of Boluses always remains acutely aware of the harmony and discord that exists between ingredients.
+# Jia Mu: Do keep in mind that a wise forger of Boluses always remains acutely aware of the harmony and discord that exists between ingredients.
 Цзя Му: Помните, что мудрый создатель Болюсов всегда остро осознаёт гармонию и диссонанс, существующие между ингредиентами.
 
-# Original: You certainly have an exceptionally high degree of expertise when it comes to Boluses.
+# Kong Youjin: You certainly have an exceptionally high degree of expertise when it comes to Boluses.
 Кун Юцзинь: Вы, безусловно, обладаете исключительно высокой степенью знаний, когда речь заходит о Болюсах.
 
-# Original: I cannot help but always depend on you so. You're the only person who would ever come up with such innovative ways to forge these boluses.
+# Kong Youjin: I cannot help but always depend on you so. You're the only person who would ever come up with such innovative ways to forge these boluses.
 Кун Юцзинь: Каждый раз я не могу не полагаться на вас. Вы единственный человек, что когда-либо придумывал такие новаторские способы создания этих Болюсов.
 
-# Original: You've managed to untangle this side effect in a matter of moments, when we've struggled with it for months. We cannot help but feel a tinge of shame before your skill.
+# Kong Sihui: You've managed to untangle this side effect in a matter of moments, when we've struggled with it for months. We cannot help but feel a tinge of shame before your skill.
 Кун Сыхуэй: Вы сумели разобраться с этим побочным эффектом в считанные мгновения, тогда как мы боролись с ним месяцами. Мы не можем не испытывать лёгкий стыд перед вашим мастерством.
 
-# Original: ... Consider this boon good karma for your vast and profound generosity.
+# Jia Mu: ... Consider this boon good karma for your vast and profound generosity.
 Цзя Му: ...Считайте это благодеяние плодом хорошей кармы за вашу безмерную и глубокую щедрость.
 
-# Original: It is all thanks to your wisdom and acumen, venerable Jia Mu.
+# Kong Sihui: It is all thanks to your wisdom and acumen, venerable Jia Mu.
 Кун Сыхуэй: Всё это благодаря вашей мудрости и проницательности, почтенная Цзя Му.
 
-# Original: You deserve every reverence and admiration for coming this far, armed with nothing but your skill and wit.
+# Kong Sihui: You deserve every reverence and admiration for coming this far, armed with nothing but your skill and wit.
 Кун Сыхуэй: Вы заслуживаете всяческого почтения и восхищения за то, что прошли так далеко, вооружены лишь своим мастерством и умом.
 
-# Original: And as they admire your achievements, they'll find hope as well.
+# Kong Sihui: And as they admire your achievements, they'll find hope as well.
 Кун Сыхуэй: Восхищаясь вашими достижениями, и они также обретут надежду.
 
-# Original: ... Of course.
+# Jia Mu: ... Of course.
 Цзя Му: ...Разумеется.
 
-# Original: No one could have possibly foreseen that the declining Shi family would produce the next Hierarch, after all. Especially someone without a proper clan.
+# Jia Mu: No one could have possibly foreseen that the declining Shi family would produce the next Hierarch, after all. Especially someone without a proper clan.
 Цзя Му: Никто не мог предвидеть, что приходящая в упадок семья Ши породит следующего Главу, в конце концов. Особенно кого-то без надлежащего клана.
 
-# Original: Oh...! That is not what I had intended to convey, venerable Jia Mu. If I had offended you, by any chance—
+# Kong Sihui: Oh...! That is not what I had intended to convey, venerable Jia Mu. If I had offended you, by any chance—
 Кун Сыхуэй: Ох!.. Я не это имела в виду, почтенная Цзя Му. Если я вас чем-то обидела, случайно—
 
-# Original: Worry not, for you have spoken true.
+# Jia Mu: Worry not, for you have spoken true.
 Цзя Му: Не беспокойтесь, ибо вы сказали правду.
 
-# Original: I understand that it was all thanks to the Kong family's generosity that I could rise. I know better than anyone that you could have easily eliminated me before I had the chance to ascend to the seat of the Family Hierarch.
+# Jia Mu: I understand that it was all thanks to the Kong family's generosity that I could rise. I know better than anyone that you could have easily eliminated me before I had the chance to ascend to the seat of the Family Hierarch.
 Цзя Му: Я понимаю, что я смогла возвыситься лишь благодаря щедрости семьи Кун. Я лучше кого бы то ни было знаю, что вы могли бы легко устранить меня, прежде чем у меня появился шанс занять место Главы Семьи.
 
-# Original: And you would have done so, had you wished to further solidify the Kong family's position here.
+# Jia Mu: And you would have done so, had you wished to further solidify the Kong family's position here.
 Цзя Му: И вы бы так и сделали, если бы хотели ещё больше укрепить положение семьи Кун.
 
-# Original: In fact, our hearts were truly stirred by the most unexpected outcome of the Family Hierarch war.
+# Kong Youjin: In fact, our hearts were truly stirred by the most unexpected outcome of the Family Hierarch war.
 Кун Юцзинь: На самом деле, наши сердца были искренне взволнованы самым неожиданным исходом войны за пост Главы Семьи.
 
-# Original: You have clutched victory with nothing but wisdom when all odds were against you.
+# Kong Youjin: You have clutched victory with nothing but wisdom when all odds were against you.
 Кун Юцзинь: Вы вырвали победу одной лишь мудростью, когда все шансы были против вас.
 
-# Original: Not to mention that we are greatly appreciative of all the assistance you have so graciously provided us.
+# Kong Youjin: Not to mention that we are greatly appreciative of all the assistance you have so graciously provided us.
 Кун Юцзинь: Не говоря уже о том, что мы очень ценим всю помощь, которую вы так любезно нам оказали.
 
-# Original: Save your compliments, please. I am only honored that you saw any use for my insignificant tricks.
+# Jia Mu: Save your compliments, please. I am only honored that you saw any use for my insignificant tricks.
 Цзя Му: Приберегите свои комплименты, пожалуйста. Для меня лишь честь, что вы нашли применение моим незначительным хитростям.
 
-# Original: After all, our collective pursuit is to prolong the eternal prosperity of Hongyuan, is it not?
+# Jia Mu: After all, our collective pursuit is to prolong the eternal prosperity of Hongyuan, is it not?
 Цзя Му: В конце концов, наша общая цель — продлить вечное процветание Хунъюаня, не так ли?
 
-# Original: ... Grandma, are you making new Boluses again?
+# Jia Baoyu: ... Grandma, are you making new Boluses again?
 Цзя Баоюй: ...Бабушка, ты опять делаешь новые Болюсы?
 
-# Original: Indeed, little Baoyu.
+# Jia Mu: Indeed, little Baoyu.
 Цзя Му: Именно так, маленький Баоюй.
 
-# Original: There is karma to be repaid.
+# Jia Mu: There is karma to be repaid.
 Цзя Му: Есть карма, которую нужно отплатить.
 
-# Original: And do I have to... keep coming here with you, grandma?
+# Jia Baoyu: And do I have to... keep coming here with you, grandma?
 Цзя Баоюй: И мне нужно... продолжать ходить сюда с тобой, бабушка?
 
-# Original: Yes. This beautiful scenery will not be complete without you as its witness.
+# Jia Mu: Yes. This beautiful scenery will not be complete without you as its witness.
 Цзя Му: Да. Этот прекрасный пейзаж не будет полным без тебя как его свидетеля.
 
-# Original: You have frequented this place… with regularity, Hong Lu?
+# Yi Sang: You have frequented this place… with regularity, Hong Lu?
 И Сан: Ты часто бывал здесь... Хон Лу?
 
-# Original: ... Yes. Grandmother often brought me here to play, hand-in-hand.
+# Hong Lu: ... Yes. Grandmother often brought me here to play, hand-in-hand.
 Хон Лу: ...Да. Бабушка часто приводила меня сюда играть, держа за руку.
 
-# Original: …….
+# Wang Zhao: …….
 Ван Чжао: ...
 
-# Original: Oh, are you guys done collectively spacing out? I've been thinking while you were gone.
+# Wang Zhao: Oh, are you guys done collectively spacing out? I've been thinking while you were gone.
 Ван Чжао: О, вы, ребята, закончили коллективно витать в облаках? Я тут подумал, пока вас не было.
 
-# Original: And I've come up with something quite interesting.
+# Wang Zhao: And I've come up with something quite interesting.
 Ван Чжао: И я кое-что интересное придумал.
 
-# Original: So, since the results of the second round are decided only when the time's up...
+# Wang Zhao: So, since the results of the second round are decided only when the time's up...
 Ван Чжао: Итак, поскольку результаты второго раунда определяются только по истечении времени...
 
-# Original: ... I'm sure there are candidates out there coming up with strategies like...
+# Wang Zhao: ... I'm sure there are candidates out there coming up with strategies like...
 Ван Чжао: ...Я уверен, что есть кандидаты, которые придумывают стратегии вроде...
 
-# Original: "Collect a moderate amount of coins, find a nice, hidden corner to lie low, wait until everything blows over, and we just might walk away with a decent rank." Know what I mean?
+# Wang Zhao: "Collect a moderate amount of coins, find a nice, hidden corner to lie low, wait until everything blows over, and we just might walk away with a decent rank." Know what I mean?
 Ван Чжао: «Собрать умеренное количество монет, найти хороший, укромный уголок, чтобы залечь на дно, подождать, пока всё уляжется, чтобы, возможно, уйти с приличным рангом». Понимаете, о чём я?
 
-# Original: There are many points of failure to that plan, but... it would indeed be an appropriate strategy for candidates who are not so confident about their odds in open combat.
+# Outis: There are many points of failure to that plan, but... it would indeed be an appropriate strategy for candidates who are not so confident about their odds in open combat.
 Отис: В этом плане много слабых мест, но... это действительно была бы подходящая стратегия для кандидатов, которые не так уверены в своих шансах в открытом бою.
 
-# Original: Right?
+# Wang Zhao: Right?
 Ван Чжао: Верно?
 
-# Original: But here's the thing. Wouldn't it make for such a boring show if most of the candidates are just hiding and doing nothing for the majority of the game? I mean, they even made the show of gathering an audience for this song and dance.
+# Wang Zhao: But here's the thing. Wouldn't it make for such a boring show if most of the candidates are just hiding and doing nothing for the majority of the game? I mean, they even made the show of gathering an audience for this song and dance.
 Ван Чжао: Но вот в чём дело. Разве не получилось бы скучное шоу, если бы большинство кандидатов просто прятались и ничего не делали большую часть игры? Я имею в виду, они даже собрали толпу зрителей для этого спектакля.
 
-# Original: There must be—
+# Wang Zhao: There must be—
 Ван Чжао: Должно быть—
 
-# Original: I sensed a very subtle vibration the moment we walked out of the lab and into the hallways.
+# Narrator: I sensed a very subtle vibration the moment we walked out of the lab and into the hallways.
 Рассказчик: Я почувствовал очень слабую вибрацию в тот момент, когда мы вышли из лаборатории в коридоры.
 
-# Original: Wang Zhao must've felt it, too. He stopped in his tracks and looked around.
+# Narrator: Wang Zhao must've felt it, too. He stopped in his tracks and looked around.
 Рассказчик: Ван Чжао, должно быть, тоже её почувствовал. Он остановился как вкопанный и огляделся.
 
-# Original: Hold on. Do you guys hear that?
+# Gregor: Hold on. Do you guys hear that?
 Грегор: Постойте. Ребята, вы это слышите?
 
-# Original: Well... looks like this is where our brief fellowship comes to an end.
+# Wang Zhao: Well... looks like this is where our brief fellowship comes to an end.
 Ван Чжао: Ну... похоже, здесь наше недолгое товарищество подходит к концу.
 
-# Original: That was a short but sweet exchange, Jia Baoyu.
+# Wang Zhao: That was a short but sweet exchange, Jia Baoyu.
 Ван Чжао: Это был короткий, но приятный обмен мнениями, Цзя Баоюй.
 
-# Original: But... I don't think you're the one who should hold the most coins.
+# Wang Zhao: But... I don't think you're the one who should hold the most coins.
 Ван Чжао: Но... не думаю, что именно ты должен владеть наибольшим количеством монет.
 
-# Original: <What...?>
+# Dante: <What...?>
 Данте: <Что...?>
 
-# Original: Once the games end, I hope we'll all find what we came here for.
+# Wang Zhao: Once the games end, I hope we'll all find what we came here for.
 Ван Чжао: Надеюсь, когда игры закончатся, мы все найдём то, за чем сюда пришли.
 
-# Original: We weren't planning on sticking with him through the entire round, but...
+# Outis: We weren't planning on sticking with him through the entire round, but...
 Отис: Мы не планировали оставаться с ним весь раунд, но...
 
-# Original: Yeah, it's a bit sudden, huh? I guess it's better than a full-on betrayal.
+# Ishmael: Yeah, it's a bit sudden, huh? I guess it's better than a full-on betrayal.
 Измаил: Да, как-то внезапно, да? Думаю, это лучше, чем откровенное предательство.
 
-# Original: W-we're going our separate ways, just like that...? 
+# Sinclair: W-we're going our separate ways, just like that...? 
 Синклер: М-мы расходимся, вот так просто?..
 
-# Original: ... There is no time to spare worrying about him.
+# Faust: ... There is no time to spare worrying about him.
 Фауст: ...Нет времени беспокоиться о нём.
 
-# Original: ...!
+# Outis: ...!
 Отис: ...!
 
-# Original: Atten-tion! Full-speed sprint toward the 3'O clock direction! Go, go, go!
+# Outis: Atten-tion! Full-speed sprint toward the 3'O clock direction! Go, go, go!
 Отис: Внима-ние! Полный вперёд, бегом в направлении на 3 часа! Вперёд, вперёд, вперёд!
 
-# Original: Huh? W-what?! Oi, at least tell us what's going on!
+# Heathcliff: Huh? W-what?! Oi, at least tell us what's going on!
 Хитклиф: А? Ч-что?! Эй, хотя бы скажите, что происходит!
 
-# Original: Eyes forward! The walls are... rising from the floor!
+# Outis: Eyes forward! The walls are... rising from the floor!
 Отис: Смотрите вперёд! Стены... поднимаются из пола!
 
-# Original: That's when the host's cheerful voice began booming from the speakers, excitedly explaining the situation.
+# Narrator: That's when the host's cheerful voice began booming from the speakers, excitedly explaining the situation.
 Рассказчик: Именно тогда весёлый голос ведущей начал греметь из динамиков, взволнованно объясняя ситуацию.
 
-# Original: Let's keep things interesting with... a new rule!
+# Host: Let's keep things interesting with... a new rule!
 Ведущая: Давайте сделаем игру интереснее с помощью... нового правила!
 
-# Original: And this one's for you, dear viewers who must've been bored outta your minds with how safe the candidates were playing things! Starting now, walls are gonna start closing off rooms and corralling our candidates every set interval, shrinking the arena!
+# Host: And this one's for you, dear viewers who must've been bored outta your minds with how safe the candidates were playing things! Starting now, walls are gonna start closing off rooms and corralling our candidates every set interval, shrinking the arena!
 Ведущая: И это для вас, дорогие зрители, которым, должно быть, наскучило, как осторожно играли кандидаты! Начиная с этого момента, стены начнут перекрывать комнаты и сгонять наших кандидатов через определённые промежутки времени, сужая арену!
 
-# Original: If you somehow end up trapped in a room, if you fail to make it into the shrinking arena...? Well, that's an elimination, of course!
+# Host: If you somehow end up trapped in a room, if you fail to make it into the shrinking arena...? Well, that's an elimination, of course!
 Ведущая: Если вы каким-то образом окажетесь заперты в комнате, если не сможете попасть на сужающуюся арену?.. Ну, это, конечно же, выбывание!
 
-# Original: Of course...
+# Outis: Of course...
 Отис: Разумеется...
 
-# Original: Aha~ Looks like it's real chaotic out there! Now, let's try not to push your luck and get yourselves stuck between walls, mmkay? It'll be one hell of a clean-up job to have to scrape and scrub your bits off the walls. Better get moving!
+# Host: Aha~ Looks like it's real chaotic out there! Now, let's try not to push your luck and get yourselves stuck between walls, mmkay? It'll be one hell of a clean-up job to have to scrape and scrub your bits off the walls. Better get moving!
 Ведущая: Ага~ Похоже, там настоящий хаос! А теперь постарайтесь не испытывать удачу и не застрять между стенами, м-м-м? Придётся ещё ту работёнку проделать, соскребая и оттирая ваши останки со стен. Так что лучше двигайтесь!
 
-# Original: We began sprinting full-speed to where the walls were starting to rise from the floor, the host's snidely chipper tone taunting us the whole time.
+# Narrator: We began sprinting full-speed to where the walls were starting to rise from the floor, the host's snidely chipper tone taunting us the whole time.
 Рассказчик: Мы бросились бежать со всех ног туда, где из пола начали подниматься стены, а ехидно-бодрый голос ведущей всё это время насмехался над нами.
 
-# Original: Oof! Looks like some of you didn't make it! You were so close, too... And... ouch, I spy a candidate who's been separated from her clan in the chaos. Whoa, try not to lose your coins in the chaos!
+# Host: Oof! Looks like some of you didn't make it! You were so close, too... And... ouch, I spy a candidate who's been separated from her clan in the chaos. Whoa, try not to lose your coins in the chaos!
 Ведущая: Уф! Похоже, некоторые из вас не успели! Вы были так близко... И... ой, я вижу кандидатку, которую в суматохе отделили от её клана. Ого, постарайтесь не растерять свои монеты в этом хаосе!

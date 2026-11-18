@@ -1,206 +1,206 @@
-# Original: The remaining entities have all returned to sea. Is everyone okay?
+# Amiya: The remaining entities have all returned to sea. Is everyone okay?
 Амия: Оставшиеся существа вернулись в море. Все в порядке?
 
-# Original: It was just like our last skirmish.
+# Narrator: It was just like our last skirmish.
 Рассказчик: Всё было точь-в-точь как в нашей последней стычке.
 
-# Original: Sea Terrors that had surrounded the ship returned to sea even before the battle came to an end.
+# Narrator: Sea Terrors that had surrounded the ship returned to sea even before the battle came to an end.
 Рассказчик: Морские Ужасы, окружившие корабль, вернулись в море ещё до окончания битвы.
 
-# Original: And their retreat felt too orderly and deliberate to be just... running away.
+# Narrator: And their retreat felt too orderly and deliberate to be just... running away.
 Рассказчик: И их отступление казалось слишком организованным и преднамеренным, чтобы быть простым... бегством.
 
-# Original: It's almost like they're making a tactical retreat...
+# Narrator: It's almost like they're making a tactical retreat...
 Рассказчик: Словно они совершали тактическое отступление...
 
-# Original: We're doing peachy, but... what about the ship? Fau, is the ship okay?
+# Rodion: We're doing peachy, but... what about the ship? Fau, is the ship okay?
 Родион: Мы-то в полном порядке, но... что с кораблём? Фау, с кораблём всё хорошо?
 
-# Original: Minor damages to the hull, but nothing that will impede the ship's operational capabilities.
+# Faust: Minor damages to the hull, but nothing that will impede the ship's operational capabilities.
 Фауст: Незначительные повреждения корпуса, но ничто не помешает функциональности корабля.
 
-# Original: <Phew...>
+# Dante: <Phew...>
 Данте: <Фух...>
 
-# Original: So... I noticed during the battle—I might be wrong, of course, but...
+# Sinclair: So... I noticed during the battle—I might be wrong, of course, but...
 Синклер: В общем... я заметил во время битвы... я, конечно, могу ошибаться, но...
 
-# Original: I think I noticed how, around the end of the battle, those monsters were starting to go after the manager...?
+# Sinclair: I think I noticed how, around the end of the battle, those monsters were starting to go after the manager...?
 Синклер: Мне кажется, я заметил, что под конец битвы эти монстры начали нападать на менеджера?..
 
-# Original: You're probably... right, actually.
+# Ishmael: You're probably... right, actually.
 Измаил: Ты, наверное... прав.
 
-# Original: I noticed, too. At some point during our battle, those monsters realized that it's the manager who's commanding the rest of us.
+# Ishmael: I noticed, too. At some point during our battle, those monsters realized that it's the manager who's commanding the rest of us.
 Измаил: Я тоже заметила. В какой-то момент во время боя эти монстры поняли, что менеджер командует всеми нами.
 
-# Original: I sensed the very same. Their movements were fluid and adaptive, as though they were learning our behavior.
+# Yi Sang: I sensed the very same. Their movements were fluid and adaptive, as though they were learning our behavior.
 И Сан: Я ощутил то же самое. Их движения были плавными и адаптивными, словно они изучали наше поведение.
 
-# Original: Why does the Church of the Deep worship… monsters like them?
+# Sinclair: Why does the Church of the Deep worship… monsters like them?
 Синклер: Почему Церковь Глубин поклоняется... таким монстрам?
 
-# Original: That ain't much of a question, innit? They must've all gone mental.
+# Heathcliff: That ain't much of a question, innit? They must've all gone mental.
 Хитклиф: Вопросик так себе, не? Они, должно быть, все с катушек съехали.
 
-# Original: I’m sure they have many reasons, but…
+# Mayors: I’m sure they have many reasons, but…
 Мэрс: Уверена, у них много причин, но...
 
-# Original: Seaborns are beings of infinite potential. So much so that there’s no superlative big enough to properly convey the scale.
+# Mayors: Seaborns are beings of infinite potential. So much so that there’s no superlative big enough to properly convey the scale.
 Мэрс: Морерождённые — существа с безграничным потенциалом. Настолько безграничным, что не хватит превосходных степеней, чтобы передать его масштаб.
 
-# Original: As organisms, they can endlessly evolve and adapt. Every time they encounter a new environment or a new element, they transform themselves and other Seaborns.
+# Mayors: As organisms, they can endlessly evolve and adapt. Every time they encounter a new environment or a new element, they transform themselves and other Seaborns.
 Мэрс: Как организмы, они могут бесконечно эволюционировать и адаптироваться. Каждый раз, сталкиваясь с новой средой или новым элементом, они преображают себя и других Морерождённых.
 
-# Original: Maybe... maybe that's their draw.
+# Mayors: Maybe... maybe that's their draw.
 Мэрс: Может... может, именно это в них и привлекает.
 
-# Original: That fascination may be an attitude most befitting a researcher—yet, the transformation of fascination into idolatry is... If I may be frank, not entirely positive.
+# Yi Sang: That fascination may be an attitude most befitting a researcher—yet, the transformation of fascination into idolatry is... If I may be frank, not entirely positive.
 И Сан: Подобное увлечение, быть может, и подобает исследователю, однако превращение увлечения в идолопоклонство... если позволите, не есть нечто всецело положительное.
 
-# Original: I find them pretty uncomfortable. They just remind me of Whales.
+# Ishmael: I find them pretty uncomfortable. They just remind me of Whales.
 Измаил: Мне от них как-то не по себе. Они просто напоминают мне Китов.
 
-# Original: Hmm~ Then, can they adapt to learn a language to communicate with us?
+# Hong Lu: Hmm~ Then, can they adapt to learn a language to communicate with us?
 Хон Лу: Хм-м~ Тогда они могут адаптироваться и выучить язык, чтобы общаться с нами?
 
-# Original: <Wh-what?>
+# Dante: <Wh-what?>
 Данте: <Ч-что?>
 
-# Original: Going by everything we heard, I think they sound really smart.
+# Hong Lu: Going by everything we heard, I think they sound really smart.
 Хон Лу: Судя по всему, что мы слышали, они кажутся очень умными.
 
-# Original: Mayors’s eyes went round at Hong Lu’s suggestion. She brought her hands to her mouth, surprised.
+# Narrator: Mayors’s eyes went round at Hong Lu’s suggestion. She brought her hands to her mouth, surprised.
 Рассказчик: От предложения Хон Лу глаза Мэрс округлились. Она удивлённо поднесла руки ко рту.
 
-# Original: It… sure was something.
+# Narrator: It… sure was something.
 Рассказчик: Это... было нечто.
 
-# Original: I heard that there was a Seaborn who could… talk.
+# Mayors: I heard that there was a Seaborn who could… talk.
 Мэрс: Я слышала, что был один Морерождённый, который мог... говорить.
 
-# Original: If non-humans speak the language of humans, regardless of its testament to their intelligence, I can only think of two possibilities as to why they would.
+# Outis: If non-humans speak the language of humans, regardless of its testament to their intelligence, I can only think of two possibilities as to why they would.
 Отис: Если нелюди говорят на языке людей, то, независимо от того, свидетельствует ли это об их интеллекте, я вижу лишь две возможные причины.
 
-# Original: One, to communicate with humans. The other… to deceive humans.
+# Outis: One, to communicate with humans. The other… to deceive humans.
 Отис: Первая — они делают это, чтобы общаться с людьми. Вторая... чтобы обманывать людей.
 
-# Original: More often than not, it’s the latter.
+# Ishmael: More often than not, it’s the latter.
 Измаил: Чаще всего — второе.
 
-# Original: <What about Distortions? Some of them already know how to speak.>
+# Dante: <What about Distortions? Some of them already know how to speak.>
 Данте: <А как же Искажения? Некоторые из них уже умеют говорить.>
 
-# Original: Distortions are phenomena in which ‘humans’ transform into monstrous forms, first observed after the White Nights and Dark Days incident.
+# Faust: Distortions are phenomena in which ‘humans’ transform into monstrous forms, first observed after the White Nights and Dark Days incident.
 Фауст: Искажения — это феномен, при котором «люди» превращаются в чудовищ. Впервые он был зафиксирован после инцидента Белых Ночей и Тёмных Дней.
 
-# Original: Therefore, that example is irrelevant to Outis’s supposition.
+# Faust: Therefore, that example is irrelevant to Outis’s supposition.
 Фауст: Следовательно, этот пример не имеет отношения к предположению Отис.
 
-# Original: White Nights… and Dark Days…
+# Mayors: White Nights… and Dark Days…
 Мэрс: Белые Ночи... и Тёмные Дни...
 
-# Original: She whispered quietly, but as we were standing rather close to her, we all caught on to the hint of joy in her voice.
+# Narrator: She whispered quietly, but as we were standing rather close to her, we all caught on to the hint of joy in her voice.
 Рассказчик: Она прошептала это тихо, но мы стояли довольно близко и все уловили нотку радости в её голосе.
 
-# Original: The pillar of light in the City, did it really…
+# Mayors: The pillar of light in the City, did it really…
 Мэрс: Столп света в Городе, он и вправду...
 
-# Original: … How have you come across this knowledge, Miss Mayors?
+# Yi Sang: … How have you come across this knowledge, Miss Mayors?
 И Сан: ...Откуда вам это известно, мисс Мэрс?
 
-# Original: Oh, that’s…
+# Mayors: Oh, that’s…
 Мэрс: О, это...
 
-# Original: Ain’t it obvious? We’ve got the culprit right ‘ere, the storyteller lass who’s been gabbin’ on with no end.
+# Heathcliff: Ain’t it obvious? We’ve got the culprit right ‘ere, the storyteller lass who’s been gabbin’ on with no end.
 Хитклиф: Да разве не ясно? Виновница прямо здесь — эта сказочница, что треплется без умолку.
 
-# Original: Yeah… she’s been talking non-stop all morning about all kinds of stories, hasn’t she?
+# Rodion: Yeah… she’s been talking non-stop all morning about all kinds of stories, hasn’t she?
 Родион: Ага... она же всё утро без умолку травила всякие байки, да?
 
-# Original: Hoh? Yet I have not gotten that fa—
+# Don Quixote: Hoh? Yet I have not gotten that fa—
 Дон Кихот: Хо-хо? Но я ещё не дошла до э—
 
-# Original: You again?! You didn’t get so lost in your own stories that you blabbed all about our company secrets, have you?
+# Outis: You again?! You didn’t get so lost in your own stories that you blabbed all about our company secrets, have you?
 Отис: Опять ты?! Надеюсь, ты не так завралась в своих историях, что разболтала все секреты нашей компании?
 
-# Original: N-nay! Fie, I would simply not!
+# Don Quixote: N-nay! Fie, I would simply not!
 Дон Кихот: Н-нет! Клянусь, я бы так не поступила!
 
-# Original: As Don Quixote was subject to yet another round of scolding, Amiya stared out toward the sea, wary that Sea Terrors might start crawling to the surface once again, before turning toward us.
+# Narrator: As Don Quixote was subject to yet another round of scolding, Amiya stared out toward the sea, wary that Sea Terrors might start crawling to the surface once again, before turning toward us.
 Рассказчик: Пока Дон Кихот получала очередную порцию ругани, Амия смотрела в море, опасаясь, что Морские Ужасы могут снова выползти на поверхность, а затем повернулась к нам.
 
-# Original: I wonder which of the two the… Seaborns are?
+# Amiya: I wonder which of the two the… Seaborns are?
 Амия: Интересно, к какому из двух типов относятся... Морерождённые?
 
-# Original: Their sense of self is really, really faint, so I don’t think they’d be in either category.
+# Mayors: Their sense of self is really, really faint, so I don’t think they’d be in either category. 
 Мэрс: Их самоосознание очень, очень слабое, так что я не думаю, что они попадают в какую-либо из этих категорий.
 
-# Original: I think it’s possible that… they learned human language out of instinct that the power of speech might help them survive.
+# Mayors: I think it’s possible that… they learned human language out of instinct that the power of speech might help them survive. 
 Мэрс: Я думаю, возможно... они выучили человеческий язык инстинктивно, посчитав, что дар речи поможет им выжить.
 
-# Original: It appears that you, Miss Mayors, are quite the expert on the subject of Seaborns.
+# Yi Sang: It appears that you, Miss Mayors, are quite the expert on the subject of Seaborns.
 И Сан: Похоже, вы, мисс Мэрс, настоящий эксперт в вопросах Морерождённых.
 
-# Original: Your knowledge of them goes beyond what fear for one's survival may yield, thereby suggesting a different means of acquisition. Do you, by chance, worship the Seaborns?
+# Yi Sang: Your knowledge of them goes beyond what fear for one's survival may yield, thereby suggesting a different means of acquisition. Do you, by chance, worship the Seaborns?
 И Сан: Ваши знания о них выходят за рамки того, что можно почерпнуть из страха за свою жизнь, что наводит на мысль об ином способе их получения. Вы, случайно, не поклоняетесь Морерождённым?
 
-# Original: I don’t worship Seaborns.
+# Mayors: I don’t worship Seaborns.
 Мэрс: Я не поклоняюсь Морерождённым.
 
-# Original: Seaborns… don’t have any hopes or wishes. Just… desire for survival.
+# Mayors: Seaborns… don’t have any hopes or wishes. Just… desire for survival.
 Мэрс: У Морерождённых... нет ни надежд, ни желаний. Лишь... жажда выживания.
 
-# Original: Miss Mayors, does that mean… if Seaborns were somehow able to hope…
+# Sinclair: Miss Mayors, does that mean… if Seaborns were somehow able to hope…
 Синклер: Мисс Мэрс, это значит... если бы Морерождённые каким-то образом смогли бы надеяться...
 
-# Original: Maybe so.
+# Mayors: Maybe so.
 Мэрс: Возможно и так.
 
-# Original: … Is that so?
+# Yi Sang: … Is that so?
 И Сан: ...Вот как?
 
-# Original: The repairs are complete.
+# Faust: The repairs are complete.
 Фауст: Ремонт завершён.
 
-# Original: As we were conversing, Faust descended from the ship with a neatly organized set of tools borrowed from the village, repairs completed.
+# Narrator: As we were conversing, Faust descended from the ship with a neatly organized set of tools borrowed from the village, repairs completed.
 Рассказчик: Пока мы разговаривали, с корабля спустилась Фауст с аккуратно сложенным набором инструментов, одолженных в деревне. Ремонт был окончен.
 
-# Original: <I’m guessing repairs are done done?>
+# Dante: <I’m guessing repairs are done done?>
 Данте: <Полагаю, ремонт точно закончен?>
 
-# Original: Yes. The ship is ready to set sail.
+# Faust: Yes. The ship is ready to set sail.
 Фауст: Да. Корабль готов к отплытию.
 
-# Original: Did you have a departure time and date in mind? I would prefer if we could depart as soon as possible...
+# Outis: Did you have a departure time and date in mind? I would prefer if we could depart as soon as possible...
 Отис: У вас есть на примете время и дата отплытия? Я бы предпочла, чтобы мы отбыли как можно скорее...
 
-# Original: We don't have a set time or anything, but... I think we should be able to set sail this late afternoon at the earliest.
+# Mayors: We don't have a set time or anything, but... I think we should be able to set sail this late afternoon at the earliest.
 Мэрс: У нас нет точного времени, но... думаю, мы сможем отплыть не раньше, чем сегодня ближе к вечеру.
 
-# Original: That soon?
+# Sinclair: That soon?
 Синклер: Так скоро?
 
-# Original: As you've seen... we don't have a lot to bring with us. Ha ha...
+# Mayors: As you've seen... we don't have a lot to bring with us. Ha ha...
 Мэрс: Как вы видели... нам особо нечего с собой брать. Ха-ха...
 
-# Original: By the way, how far out to sea do you guys need to go?
+# Mayors: By the way, how far out to sea do you guys need to go?
 Мэрс: Кстати, как далеко в море вам нужно зайти?
 
-# Original: <We need to find this... dimensional door of sorts...>
+# Dante: <We need to find this... dimensional door of sorts...>
 Данте: <Нам нужно найти... что-то вроде пространственной двери...>
 
-# Original: I could see the dimensional door's light from the beach at night.
+# Amiya: I could see the dimensional door's light from the beach at night.
 Амия: Я видела свет от пространственной двери с пляжа по ночам.
 
-# Original: It was faint, but given how the light's strong enough to break through the sea fog... we should be able to determine its location somewhere around the coastal waters.
+# Amiya: It was faint, but given how the light's strong enough to break through the sea fog... we should be able to determine its location somewhere around the coastal waters.
 Амия: Он был слабым, но раз свет настолько силён, что пробивается сквозь морской туман... мы сможем определить его местоположение где-то в прибрежных водах.
 
-# Original: So... we can go back tonight?
+# Heathcliff: So... we can go back tonight?
 Хитклиф: То есть... мы можем вернуться сегодня ночью?
 
-# Original: The first order of business is to relay this news to the villagers.
+# Faust: The first order of business is to relay this news to the villagers.
 Фауст: Первым делом нужно сообщить эту новость жителям деревни.
 
-# Original: <Yeah. Back to the village for now...>
+# Dante: <Yeah. Back to the village for now...>
 Данте: <Ага. Пока что возвращаемся в деревню...>

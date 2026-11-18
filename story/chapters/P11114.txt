@@ -1,305 +1,305 @@
-# Original: ... I don't understand.
+# Outis: ... I don't understand.
 Отис: ... Я не понимаю.
 
-# Original: Stored in this armory are the very same gear my team and I have been using until just a few days ago.
+# Narrator: Stored in this armory are the very same gear my team and I have been using until just a few days ago.
 Narrator: В этом арсенале хранится то же самое снаряжение, которое я и моя команда использовали ещё несколько дней назад.
 
-# Original: I remember receiving a report that there were Abnormalities and Distortions that we were to exercise martial force to suppress.
+# Narrator: I remember receiving a report that there were Abnormalities and Distortions that we were to exercise martial force to suppress.
 Narrator: Я помню, как получила доклад о наличии Аномалий и Искажений, для подавления которых мы должны были применить военную силу.
 
-# Original: Upon hearing that, I came in here and packed a few ammo cans full of anti-Abnormality special rounds for the mission. I remember it as clearly as if it happened yesterday.
+# Narrator: Upon hearing that, I came in here and packed a few ammo cans full of anti-Abnormality special rounds for the mission. I remember it as clearly as if it happened yesterday.
 Narrator: Услышав это, я пришла сюда и упаковала несколько ящиков особых патронов против Аномалий для задания. Я помню это так отчётливо, словно это было вчера.
 
-# Original: So how come they are all so... faulty now?
+# Narrator: So how come they are all so... faulty now?
 Narrator: Так почему же теперь они все... неисправны?
 
-# Original: Sonar Interference Module... It's got a snapped actuator cable. Impact-distributive Attenuation Unit... It's not even here.
+# Outis: Sonar Interference Module... It's got a snapped actuator cable. Impact-distributive Attenuation Unit... It's not even here.
 Отис: Модуль акустических помех... Порван кабель привода. Блок распределения и гашения ударов... Его здесь даже нет.
 
-# Original: Default Cognition Filter settings are all jacked up, too...
+# Outis: Default Cognition Filter settings are all jacked up, too...
 Отис: Настройки стандартного когнитивного фильтра тоже сбиты...
 
-# Original: These were all functions that, while never used that frequently, were consequential enough that I was pushed to use them all at least once while on an operation.
+# Narrator: These were all functions that, while never used that frequently, were consequential enough that I was pushed to use them all at least once while on an operation.
 Narrator: Всё это были функции, которые, хоть и не использовались часто, были достаточно важны, чтобы мне пришлось применить их все хотя бы раз во время операции.
 
-# Original: Something about this smelled funny; it was too precise and intentional to be disregarded as a mere coincidence.
+# Narrator: Something about this smelled funny; it was too precise and intentional to be disregarded as a mere coincidence.
 Narrator: Во всём этом было что-то подозрительное; слишком точно и намеренно, чтобы списать это на простое совпадение.
 
-# Original: Almost as if... someone who possesses a comprehensive technical and tactical knowledge of each gear sabotaged them.
+# Narrator: Almost as if... someone who possesses a comprehensive technical and tactical knowledge of each gear sabotaged them.
 Narrator: Почти так, словно... кто-то, обладающий исчерпывающими техническими и тактическими знаниями о каждом элементе снаряжения, саботировал их.
 
-# Original: What the hell is this?
+# Outis: What the hell is this?
 Отис: Что за чёрт?
 
-# Original: Ma'am?
+# Udjat Agent: Ma'am?
 Агент Уджат: Мэм?
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: Couldn't you have kno— Hm. I don't suppose there was any reason for you to knock.
+# Outis: Couldn't you have kno— Hm. I don't suppose there was any reason for you to knock.
 Отис: Разве ты не мог посту— Хм. Полагаю, у тебя не было причин стучать.
 
-# Original: No, Ma'am. I did not knock, on account of this being an armory.
+# Udjat Agent: No, Ma'am. I did not knock, on account of this being an armory.
 Агент Уджат: Никак нет, мэм. Я не стучал, поскольку это арсенал.
 
-# Original: ... So, what is your business?
+# Outis: ... So, what is your business?
 Отис: ... Итак, зачем пришёл?
 
-# Original: A document for you, Ma'am.
+# Udjat Agent: A document for you, Ma'am.
 Агент Уджат: Документ для вас, мэм.
 
-# Original: It is a business letter... <i>Latest-release Dimensional Container Issuance Logistics Notice</i>, Ma'am.
+# Udjat Agent: It is a business letter... <i>Latest-release Dimensional Container Issuance Logistics Notice</i>, Ma'am.
 Агент Уджат: Это деловое письмо... <i>Уведомление о логистике выдачи пространственных контейнеров последней модели</i>, мэм.
 
-# Original: Latest-release Dimensional Container...? Must be referring to the wallet model I saw in the pamphlets some time ago.
+# Narrator: Latest-release Dimensional Container...? Must be referring to the wallet model I saw in the pamphlets some time ago.
 Narrator: Пространственный контейнер последней модели...? Должно быть, речь о модели в виде бумажника, которую я видела в брошюрах некоторое время назад.
 
-# Original: I do wonder if it really is necessary to replace that gear again, especially when the last renewal was but a month ago... But why not, I suppose.
+# Outis: I do wonder if it really is necessary to replace that gear again, especially when the last renewal was but a month ago... But why not, I suppose.
 Отис: Интересно, действительно ли необходимо снова заменять снаряжение, особенно учитывая, что последнее обновление было всего месяц назад... Но почему бы и нет, полагаю.
 
-# Original: This company... is disgustingly rich.
+# Narrator: This company... is disgustingly rich.
 Narrator: Эта компания... отвратительно богата.
 
-# Original: I have no idea how they do it, but they keep picking up these partnerships with corporations and Workshops, even snagging the rights to internally distribute their yet-to-be-announced products as a test run...
+# Narrator: I have no idea how they do it, but they keep picking up these partnerships with corporations and Workshops, even snagging the rights to internally distribute their yet-to-be-announced products as a test run...
 Narrator: Понятия не имею, как они это делают, но они продолжают заключать партнёрства с корпорациями и Мастерскими, даже получая права на внутреннее использование их ещё не анонсированных продуктов в качестве тестового запуска...
 
-# Original: When I see them eagerly issuing us gears loaded with Singularity tech, which must've cost them a fortune in patent fees, it almost makes me wonder if they never even consider the idea of budgeting.
+# Narrator: When I see them eagerly issuing us gears loaded with Singularity tech, which must've cost them a fortune in patent fees, it almost makes me wonder if they never even consider the idea of budgeting.
 Narrator: Когда я вижу, как они охотно выдают нам снаряжение, напичканное технологиями с Сингулярностями, что должно было стоить им целое состояние в виде патентных отчислений, я почти начинаю думать, что они вообще не задумываются о бюджете.
 
-# Original: Even the gears in this armory are all high-quality—no, they're not <i>just</i> high-quality, they're <i>extravagantly</i> top-notch.
+# Narrator: Even the gears in this armory are all high-quality—no, they're not <i>just</i> high-quality, they're <i>extravagantly</i> top-notch.
 Narrator: Даже снаряжение в этом арсенале всё высокого качества — нет, не <i>просто</i> высокого качества, оно <i>экстравагантно</i> первоклассное.
 
-# Original: Very well. Leave it on my desk, and...
+# Outis: Very well. Leave it on my desk, and...
 Отис: Ладно. Оставь на моём столе, и...
 
-# Original: ... Hold on. Do you know who was responsible for running the last gear inspection?
+# Outis: ... Hold on. Do you know who was responsible for running the last gear inspection?
 Отис: ... Постой. Ты знаешь, кто отвечал за последнюю проверку снаряжения?
 
-# Original: Of this armory? Technicians sent directly by the higher-ups in the LCA, Ma'am. They came in a few days ago to test their functionalities.
+# Udjat Agent: Of this armory? Technicians sent directly by the higher-ups in the LCA, Ma'am. They came in a few days ago to test their functionalities.
 Агент Уджат: Этого арсенала? Технические специалисты, присланные напрямую руководством LCA, мэм. Они приходили несколько дней назад, чтобы проверить работоспособность.
 
-# Original: From the HQ?
+# Outis: From the HQ?
 Отис: Из Штаба?
 
-# Original: Yes, Ma'am. Ah, by any chance, would you like us to run an inspection of our own—
+# Udjat Agent: Yes, Ma'am. Ah, by any chance, would you like us to run an inspection of our own—
 Агент Уджат: Так точно, мэм. Ах, может быть, вы хотите, чтобы мы провели собственную проверку—
 
-# Original: ... No, don't worry about it. They already ran an inspection just a few days ago anyway; no need to concern yourselves with doing it again.
+# Outis: ... No, don't worry about it. They already ran an inspection just a few days ago anyway; no need to concern yourselves with doing it again.
 Отис: ... Нет, не беспокойся об этом. Они и так уже провели проверку всего несколько дней назад; нет нужды утруждать себя повторением.
 
-# Original: Anyway... How's the situation down at the research facility?
+# Outis: Anyway... How's the situation down at the research facility?
 Отис: В любом случае... Как обстановка в исследовательском комплексе?
 
-# Original: According to the transmission from the Before Team, it seems to me they're having a hard time getting a clear picture of what's happening within the facility.
+# Udjat Agent: According to the transmission from the Before Team, it seems to me they're having a hard time getting a clear picture of what's happening within the facility.
 Агент Уджат: Судя по передаче от команды "До", мне кажется, им трудно составить чёткую картину того, что происходит внутри комплекса.
 
-# Original: Regardless, the word is that the Recon team of the special operations unit might be getting deployed soon.
+# Udjat Agent: Regardless, the word is that the Recon team of the special operations unit might be getting deployed soon.
 Агент Уджат: Несмотря на это, ходят слухи, что разведывательная группа отряда специальных операций может быть скоро развёрнута.
 
-# Original: The special operations unit? Are the portals working again?
+# Outis: The special operations unit? Are the portals working again?
 Отис: Отряд специальных операций? Порталы снова работают?
 
-# Original: No, Ma'am.
+# Udjat Agent: No, Ma'am.
 Агент Уджат: Никак нет, мэм.
 
-# Original: Strange. The HQ's response is too tepid, considering it's the Research Facility of the LCE under attack.
+# Narrator: Strange. The HQ's response is too tepid, considering it's the Research Facility of the LCE under attack.
 Narrator: Странно. Реакция Штаба слишком вялая, учитывая, что атакован Исследовательский комплекс LCE.
 
-# Original: Even stranger still, Wayfarer Corp., responsible for the development and service of the Backdoor Portal stabilization technology for the HQ, hasn't reacted in any meaningful way to this rather serious breach of security.
+# Narrator: Even stranger still, Wayfarer Corp., responsible for the development and service of the Backdoor Portal stabilization technology for the HQ, hasn't reacted in any meaningful way to this rather serious breach of security.
 Narrator: Ещё более странно, что Компания Вэйфарер, ответственная за разработку и обслуживание технологии стабилизации Порталов Черного Хода для Штаба, никак значимо не отреагировала на это довольно серьёзное нарушение безопасности.
 
-# Original: Perhaps they've already talked this out with the higher-ups, but...
+# Narrator: Perhaps they've already talked this out with the higher-ups, but...
 Narrator: Возможно, они уже обсудили это с руководством, но...
 
-# Original: ... Either way, this isn't something a mere Team Leader like myself should rack her head over.
+# Narrator: ... Either way, this isn't something a mere Team Leader like myself should rack her head over.
 Narrator: ... Так или иначе, это не то, над чем стоит ломать голову обычному командиру группы вроде меня.
 
-# Original: Would you like us to go on standby for deployment, just in case?
+# Udjat Agent: Would you like us to go on standby for deployment, just in case?
 Агент Уджат: Прикажете перейти в режим ожидания для развёртывания, на всякий случай?
 
-# Original: Ha. Say it like you mean it next time.
+# Outis: Ha. Say it like you mean it next time.
 Отис: Ха. В следующий раз говори так, будто веришь в свои слова.
 
-# Original: Just take it easy for now.
+# Outis: Just take it easy for now.
 Отис: Пока просто расслабьтесь.
 
-# Original: Yes, Ma'am.
+# Udjat Agent: Yes, Ma'am.
 Агент Уджат: Есть, мэм.
 
-# Original: ... I should inspect the rest of the gear in here.
+# Outis: ... I should inspect the rest of the gear in here.
 Отис: ... Мне нужно осмотреть остальное снаряжение.
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: Hmm...
+# Outis: Hmm...
 Отис: Хм...
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: ... And that's everything.
+# Outis: ... And that's everything.
 Отис: ... Вот и всё.
 
-# Original: So, the HQ employees left these gears in such states of disrepair, huh...
+# Outis: So, the HQ employees left these gears in such states of disrepair, huh...
 Отис: Значит, сотрудники Штаба оставили это снаряжение в таком неисправном состоянии, да...
 
-# Original: But they've left these too neatly organized afterward to chalk it up to mere negligence.
+# Outis: But they've left these too neatly organized afterward to chalk it up to mere negligence.
 Отис: Но после этого они оставили всё слишком аккуратно организованным, чтобы списать это на простую халатность.
 
-# Original: What could this shady company possibly be planning now...?
+# Outis: What could this shady company possibly be planning now...?
 Отис: Что же эта мутная компания может планировать сейчас...?
 
-# Original: After the Smoke War came to a close...
+# Narrator: After the Smoke War came to a close...
 Narrator: После того, как Дымовая война подошла к концу...
 
-# Original: ... I wandered for a while, unable to find a place to settle. Until, one day...
+# Narrator: ... I wandered for a while, unable to find a place to settle. Until, one day...
 Narrator: ... Я некоторое время скиталась, не в силах найти место, где можно было бы осесть. Пока однажды...
 
-# Original: ... I was scouted by a rather peculiar Grade-1 Fixer Office, which has mysteriously maintained its grade despite its rather middling fame and performance, via a mutual acquaintance connection.
+# Narrator: ... I was scouted by a rather peculiar Grade-1 Fixer Office, which has mysteriously maintained its grade despite its rather middling fame and performance, via a mutual acquaintance connection.
 Narrator: ... Меня не завербовал довольно своеобразный Офис Корректировщиков 1-го ранга, который таинственным образом сохранял свой ранг, несмотря на довольно посредственную известность и показатели, через общего знакомого.
 
-# Original: The terms of the contract, which were delivered to me with a heads-up that we would later be a part of a corporation called "Limbus Company," were almost unbelievably lucrative.
+# Narrator: The terms of the contract, which were delivered to me with a heads-up that we would later be a part of a corporation called "Limbus Company," were almost unbelievably lucrative.
 Narrator: Условия контракта, которые мне передали с предупреждением, что позже мы станем частью компании под названием "Компания Лимбус", были почти невероятно выгодными.
 
-# Original: Although the role I was to take was that of a simple team leader at a company I had only just heard of, I was offered with an eye-watering salary...
+# Narrator: Although the role I was to take was that of a simple team leader at a company I had only just heard of, I was offered with an eye-watering salary...
 Narrator: Хотя роль, которую мне предстояло взять на себя, была ролью простого командира группы в компании, о которой я только что услышала, мне предложили ошеломительную зарплату...
 
-# Original: ... and those assigned under my command were nothing less than what one would call "elite" operatives.
+# Narrator: ... and those assigned under my command were nothing less than what one would call "elite" operatives.
 Narrator: ... а те, кого назначили под моё командование, были не кем иным, как теми, кого называют "элитными" оперативниками.
 
-# Original: Despite those incredible perks, there were moments when I could not help but feel a sudden chill running down my spine as I carried out the missions sent to us from the higher-ups.
+# Narrator: Despite those incredible perks, there were moments when I could not help but feel a sudden chill running down my spine as I carried out the missions sent to us from the higher-ups.
 Narrator: Несмотря на эти невероятные привилегии, бывали моменты, когда я не могла отделаться от внезапного холодка, пробегающего по спине, выполняя миссии, присланные нам сверху.
 
-# Original: Our next mission... Seems to me we'll be sent to obliterate a Finger subsidiary known as "The House of Spiders."
+# Outis: Our next mission... Seems to me we'll be sent to obliterate a Finger subsidiary known as "The House of Spiders."
 Отис: Наша следующая миссия... Похоже, нас отправят уничтожить дочернюю организацию Пальцев, известную как "Дом Пауков".
 
-# Original: Yes, now is one such moment.
+# Narrator: Yes, now is one such moment.
 Narrator: Да, сейчас именно такой момент.
 
-# Original: There's this sudden chill again, that I might be getting swept up in a current much greater than myself.
+# Narrator: There's this sudden chill again, that I might be getting swept up in a current much greater than myself.
 Narrator: Снова этот внезапный холодок от мысли, что меня может затянуть в поток, который намного больше меня самой.
 
-# Original: In the zone we're handling... ah. Looks like we'll be responsible for dealing with a... Proxy of the Index, who was once a Star of the City all on his own.
+# Outis: In the zone we're handling... ah. Looks like we'll be responsible for dealing with a... Proxy of the Index, who was once a Star of the City all on his own.
 Отис: В зоне, которую мы обрабатываем... а. Похоже, нам поручено разобраться с... Посредником Указательного, который когда-то сам по себе был Звездой Города.
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: ... We're going to need a new strategy.
+# Outis: ... We're going to need a new strategy.
 Отис: ... Нам понадобится новая стратегия.
 
-# Original: …….
+# Udjat Agent: …….
 Агент Уджат: …….
 
-# Original: Udjat Talata, cover the gap on our left.
+# Outis: Udjat Talata, cover the gap on our left.
 Отис: Талата Уджат, прикрой брешь слева.
 
-# Original: I'll take the right.
+# Outis: I'll take the right.
 Отис: Я возьму правую сторону.
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: Tsk. We lost the target.
+# Outis: Tsk. We lost the target.
 Отис: Тц. Мы потеряли цель.
 
-# Original: Ma'am, how do you think the Proselytes found out about this place?
+# Udjat Agent: Ma'am, how do you think the Proselytes found out about this place?
 Агент Уджат: Мэм, как вы думаете, как Прозелиты узнали об этом месте?
 
-# Original: Through the Prescripts. What else could it possibly be?
+# Outis: Through the Prescripts. What else could it possibly be?
 Отис: Через Предписания. Чем ещё это может быть?
 
-# Original: Among the Index members who crashed the fight, the ones wearing long capes went after the so-called "Index Nursefather" without engaging us.
+# Narrator: Among the Index members who crashed the fight, the ones wearing long capes went after the so-called "Index Nursefather" without engaging us.
 Narrator: Среди членов Указательного, ворвавшихся в бой, те, что были в длинных плащах, погнались за так называемым "Отцом-воспитателем Указательного", не вступая с нами в бой.
 
-# Original: That Nursefather had a rather nasty, almost fatal wound...
+# Narrator: That Nursefather had a rather nasty, almost fatal wound...
 Narrator: У этого Отца-воспитателя была довольно скверная, почти смертельная рана...
 
-# Original: ... but assuming that the Index members who went after the Nursefather would provide appropriate medical assistance, survival was still a possibility.
+# Narrator: ... but assuming that the Index members who went after the Nursefather would provide appropriate medical assistance, survival was still a possibility.
 Narrator: ... но если предположить, что члены Указательного, пошедшие за Отцом-воспитателем, окажут соответствующую медицинскую помощь, выживание всё ещё было возможно.
 
-# Original: We suffered some heavy losses, but... this is a rather acceptable outcome.
+# Outis: We suffered some heavy losses, but... this is a rather acceptable outcome.
 Отис: Мы понесли тяжёлые потери, но... это вполне приемлемый исход.
 
-# Original: Numerous rarely-used functions and additional Workshop gear you brought to the mission really came in through the clutch in this operation, Ma'am.
+# Udjat Agent: Numerous rarely-used functions and additional Workshop gear you brought to the mission really came in through the clutch in this operation, Ma'am.
 Агент Уджат: Многочисленные редко используемые функции и дополнительное снаряжение от Мастерских, которое вы взяли на задание, действительно выручили нас в этой операции, мэм.
 
-# Original: ... I thought preparing as wide a range of options as possible seemed to be the most apt countermeasure against an enemy that is difficult to predict, that is all.
+# Outis: ... I thought preparing as wide a range of options as possible seemed to be the most apt countermeasure against an enemy that is difficult to predict, that is all.
 Отис: ... Я подумала, что подготовка как можно более широкого спектра опций кажется наиболее подходящей контрмерой против врага, которого трудно предсказать, вот и всё.
 
-# Original: As for our deceased, collect their gear...
+# Outis: As for our deceased, collect their gear...
 Отис: Что касается наших погибших, соберите их снаряжение...
 
-# Original: ... and either incinerate or crush their faces.
+# Outis: ... and either incinerate or crush their faces.
 Отис: ... и либо сожгите, либо размозжите их лица.
 
-# Original: Well, then... time for the report.
+# Outis: Well, then... time for the report.
 Отис: Ну что ж... время доклада.
 
-# Original: Come in. This is LCA Vanguard Team, Udjat.
+# Outis: Come in. This is LCA Vanguard Team, Udjat.
 Отис: Приём. Это Отряд Авангарда LCA, Уджат.
 
-# Original: Position secured, over.
+# Outis: Position secured, over.
 Отис: Позиции заняты, конец связи.
 
-# Original: …….
+# ???: …….
 ???: …….
 
-# Original: I sense it all in that slight exhale coming through the radio.
+# Narrator: I sense it all in that slight exhale coming through the radio.
 Narrator: Я чувствую всё это в том лёгком выдохе, доносящемся из рации.
 
-# Original: The surprise, followed by marvel. And through it all... an undercurrent of annoyance.
+# Narrator: The surprise, followed by marvel. And through it all... an undercurrent of annoyance.
 Narrator: Удивление, сменившееся изумлением. И сквозь всё это... скрытое раздражение.
 
-# Original: The listener is impressed by the unexpected success...
+# Narrator: The listener is impressed by the unexpected success...
 Narrator: Слушатель впечатлён неожиданным успехом...
 
-# Original: ... but annoyed by the fact that the said success undermined the <i>real</i> intent behind the mission.
+# Narrator: ... but annoyed by the fact that the said success undermined the <i>real</i> intent behind the mission.
 Narrator: ... но раздражён тем фактом, что этот успех подорвал <i>истинный</i> замысел миссии.
 
-# Original: Is that so?
+# ???: Is that so?
 ???: Вот как?
 
-# Original: ... That might as well have been a confirmation of my suspicions.
+# Narrator: ... That might as well have been a confirmation of my suspicions.
 Narrator: ... Это вполне могло быть подтверждением моих подозрений.
 
-# Original: Now, I know who sabotaged our gears in the armory.
+# Narrator: Now, I know who sabotaged our gears in the armory.
 Narrator: Теперь я знаю, кто саботировал наше снаряжение в арсенале.
 
-# Original: Any internal documents and bodies found on-site will be collected by the After Team.
+# Outis: Any internal documents and bodies found on-site will be collected by the After Team.
 Отис: Любые внутренние документы и тела, найденные на месте, будут собраны Командой "После".
 
-# Original: As for the handover of Relics to the LCA R&D team—
+# Outis: As for the handover of Relics to the LCA R&D team—
 Отис: Что касается передачи Реликвий команде исследований и разработок LCA—
 
-# Original: We will be giving the Relic-handling task to a different party.
+# ???: We will be giving the Relic-handling task to a different party.
 ???: Мы поручим задачу по обработке Реликвий другой стороне.
 
-# Original: ... Understood.
+# Outis: ... Understood.
 Отис: ... Принято.
 
-# Original: …….
+# ???: …….
 ???: …….
 
-# Original: Do you have any further questions?
+# ???: Do you have any further questions?
 ???: У вас есть ещё вопросы?
 
-# Original: ... Negative.
+# Outis: ... Negative.
 Отис: ... Никак нет.
 
-# Original: Listen, Team Leader.
+# ???: Listen, Team Leader.
 ???: Слушайте, командир группы.
 
-# Original: Please keep up the good work. Exactly as you are doing now.
+# ???: Please keep up the good work. Exactly as you are doing now.
 ???: Пожалуйста, продолжайте хорошо выполнять свою работу. Именно так, как вы делаете сейчас.
 
-# Original: There were many questions to be explored upon my return, but...
+# Narrator: There were many questions to be explored upon my return, but...
 Narrator: По возвращении предстояло изучить много вопросов, но...
 
-# Original: ... at this moment, I had only one answer to mutter back into the radio.
+# Narrator: ... at this moment, I had only one answer to mutter back into the radio.
 Narrator: ... в этот момент у меня был только один ответ, который я могла пробормотать в рацию.
 
-# Original: ... Understood.
+# Outis: ... Understood.
 Отис: ... Принято.

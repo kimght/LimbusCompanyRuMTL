@@ -1,254 +1,254 @@
-﻿# Original: …….
+﻿# Faust: …….
 Фауст: …….
 
-# Original: A hallway within the LCE.
+# Narrator: A hallway within the LCE.
 Рассказчик: Коридор в LCE.
 
-# Original: The child who's been analyzing the amassed data suddenly senses two sets of eyes intensely focused on her back. This was unusual.
+# Narrator: The child who's been analyzing the amassed data suddenly senses two sets of eyes intensely focused on her back. This was unusual.
 Рассказчик: Дитя, анализировавшее собранные данные, внезапно ощутило на своей спине два пристальных взгляда. Это было необычно.
 
-# Original: She briefly turned around and realized that the source of the intense gazing was their new junior researcher, who'd joined just yesterday.
+# Narrator: She briefly turned around and realized that the source of the intense gazing was their new junior researcher, who'd joined just yesterday.
 Рассказчик: Оно ненадолго обернулось и поняло, что источником этих пристальных взглядов был их новый младший исследователь, присоединившийся только вчера.
 
-# Original: What could possibly be the reason for this staring, she wondered. Especially when he was already with another senior researcher.
+# Narrator: What could possibly be the reason for this staring, she wondered. Especially when he was already with another senior researcher.
 Рассказчик: Оно недоумевало, что могло быть причиной такого пристального внимания. Особенно учитывая, что рядом с ним уже находился старший исследователь.
 
-# Original: She could not imagine why, until the pair began talking.
+# Narrator: She could not imagine why, until the pair began talking.
 Рассказчик: Оно не могло понять причину, пока эта пара не начала разговор.
 
-# Original: Huh, I thought all E.G.O gear worn by the LCE looked ridiculous, but...
+# Novice Researcher: Huh, I thought all E.G.O gear worn by the LCE looked ridiculous, but...
 Рассказчик: Хм, я думал, что вся экипировка ЭГО в LCE выглядит нелепо, но...
 
-# Original: ... the one she's wearing looks pretty clean. It almost looks workshop-made.
+# Novice Researcher: ... the one she's wearing looks pretty clean. It almost looks workshop-made.
 Рассказчик: ... та, что на ней, выглядит довольно элегантно. Почти как сделанная в мастерской.
 
-# Original: Perhaps you found the E.G.O gears of the LCE odd, for unlike the gears of Lobotomy Corporation, various inhuman features such as tails or scales may sprout on their users.
+# Yi Sang: Perhaps you found the E.G.O gears of the LCE odd, for unlike the gears of Lobotomy Corporation, various inhuman features such as tails or scales may sprout on their users.
 И Сан: Быть может, странными кажутся тебе доспехи ЭГО в LCE, ибо, в отличие от снаряжения Корпорации Лоботомия, могут прорасти на носящих их хвосты да чешуя.
 
-# Original: Yet... hold not so much envy in your heart for her gear, for many failed to find it within themselves to don it.
+# Yi Sang: Yet... hold not so much envy in your heart for her gear, for many failed to find it within themselves to don it.
 И Сан: Но... не питай столь сильной зависти к её снаряжению, ибо многие не смогли найти в себе силы его надеть.
 
-# Original: Whaat! But that E.G.O gear looks so cool!
+# Novice Researcher: Whaat! But that E.G.O gear looks so cool!
 Рассказчик: Чтооо! Но это ЭГО выглядит так круто!
 
-# Original: ... For it may go... 'boom'.
+# Yi Sang: ... For it may go... 'boom'.
 И Сан: ... Ибо может он... "взорваться".
 
-# Original: Shall it be during battle, or during study, one cannot say. Perhaps it may erupt... even now.
+# Yi Sang: Shall it be during battle, or during study, one cannot say. Perhaps it may erupt... even now.
 И Сан: Случится ли сие в бою или во время исследования, никто не ведает. Возможно, взрыв грянет... даже сейчас.
 
-# Original: W-wait, then...
+# Novice Researcher: W-wait, then...
 Рассказчик: П-погодите, тогда...
 
-# Original: The child, unable to bear this any longer, paused and turned around.
+# Narrator: The child, unable to bear this any longer, paused and turned around.
 Рассказчик: Дитя, не в силах больше это терпеть, остановилось и повернулось.
 
-# Original: Please refrain from sharing rumors of ambiguous sources to new hires, Yi Sang.
+# Faust: Please refrain from sharing rumors of ambiguous sources to new hires, Yi Sang.
 Фауст: Прошу воздержаться от распространения слухов сомнительного происхождения среди новых сотрудников, И Сан.
 
-# Original: ... C'mon, were you trying to prank me again?
+# Novice Researcher: ... C'mon, were you trying to prank me again?
 Рассказчик: ... Да ладно, ты что, опять пытался меня разыграть?
 
-# Original: I had wondered for what cause you could possibly have for bringing someone else along... But it does not seem to have been for any productive purpose.
+# Faust: I had wondered for what cause you could possibly have for bringing someone else along... But it does not seem to have been for any productive purpose.
 Фауст: Я размышляло, по какой причине ты привёл с собой кого-то ещё... Но, похоже, это было сделано не с какой-либо продуктивной целью.
 
-# Original: Ha ha...
+# Yi Sang: Ha ha...
 И Сан: Ха-ха...
 
-# Original: Well. He did not lie, to be precise. It is indeed true that this E.G.O gear is prone to reactions of explosive nature.
+# Faust: Well. He did not lie, to be precise. It is indeed true that this E.G.O gear is prone to reactions of explosive nature.
 Фауст: Что ж. Если быть точным, он не солгал. Действительно, этот ЭГО склонен к реакциям взрывного характера.
 
-# Original: Yet, the safety trials have already been completed regarding such risks. There is no reason to fear.
+# Faust: Yet, the safety trials have already been completed regarding such risks. There is no reason to fear.
 Фауст: Однако испытания безопасности касательно таких рисков уже завершены. Причин для беспокойства нет.
 
-# Original: Ugh, I don't know. I don't think I'd ever feel safe if I had to wear that.
+# Novice Researcher: Ugh, I don't know. I don't think I'd ever feel safe if I had to wear that.
 Рассказчик: Уф, не знаю. Не думаю, что когда-либо чувствовал бы себя в безопасности, если бы мне пришлось носить такое.
 
-# Original: Isn't it too risky?
+# Novice Researcher: Isn't it too risky?
 Рассказчик: Разве это не слишком рискованно?
 
-# Original: ... Most subjects of study here at LCE are fraught with risks of unknown natures. One cannot hope to accomplish anything should they flee before high-risk research projects.
+# Faust: ... Most subjects of study here at LCE are fraught with risks of unknown natures. One cannot hope to accomplish anything should they flee before high-risk research projects.
 Фауст: ... Большинство объектов исследования здесь в LCE связаны с рисками неизвестной природы. Невозможно достичь чего-либо, если избегать исследовательских проектов с высоким риском.
 
-# Original: Researchers must endeavor to be able to explain the fundamentals of their operations, and thus face what dangers may lie ahead to establish conclusions.
+# Faust: Researchers must endeavor to be able to explain the fundamentals of their operations, and thus face what dangers may lie ahead to establish conclusions.
 Фауст: Исследователи должны стремиться объяснять основы своей работы и, следовательно, встречать лицом к лицу любые опасности, чтобы прийти к выводам.
 
-# Original: You would do well to remember that, if your aim is to accomplish anything here at the LCE through research.
+# Faust: You would do well to remember that, if your aim is to accomplish anything here at the LCE through research.
 Фауст: Тебе стоит запомнить это, если твоя цель — достичь чего-либо здесь в LCE через исследования.
 
-# Original: ... That's true. Whatever you guys are dealing with here at the LCE, the Abnormalities, the Distortions are... I simply haven't seen or heard of anything like them anywhere else.
+# Novice Researcher: ... That's true. Whatever you guys are dealing with here at the LCE, the Abnormalities, the Distortions are... I simply haven't seen or heard of anything like them anywhere else.
 Рассказчик: ... Это правда. Чем бы вы ни занимались здесь в LCE, Аномалии, Искажения... Я просто никогда не видел и не слышал ни о чём подобном где-либо ещё.
 
-# Original: I... I'll remember that.
+# Novice Researcher: I... I'll remember that.
 Рассказчик: Я... Я запомню это.
 
-# Original: Be not so harsh on him, for it has been but two days since his onboarding.
+# Yi Sang: Be not so harsh on him, for it has been but two days since his onboarding.
 И Сан: Не будь столь сурова к нему, ведь минуло лишь два дня с его прибытия.
 
-# Original: Yi Sang, perhaps you should adjust your attunement level with that E.G.O.
+# Faust: Yi Sang, perhaps you should adjust your attunement level with that E.G.O.
 Фауст: И Сан, возможно, тебе стоит скорректировать уровень настройки с этим ЭГО.
 
-# Original: Ahm. It may be that, in the process of welcoming a promising junior researcher, I have allowed my mischievousness to get out of hand.
+# Yi Sang: Ahm. It may be that, in the process of welcoming a promising junior researcher, I have allowed my mischievousness to get out of hand.
 И Сан: Ахм. Возможно, в процессе приветствия многообещающего младшего исследователя я позволил своему озорству выйти из-под контроля.
 
-# Original: Yes. Well. Then I will excuse myself.
+# Faust: Yes. Well. Then I will excuse myself.
 Фауст: Да. Что ж. Тогда я удалюсь.
 
-# Original: She must have had nothing more to say.
+# Narrator: She must have had nothing more to say.
 Рассказчик: Похоже, ему больше нечего было сказать.
 
-# Original: Because she whipped around and began walking away, as though her business here was concluded. But the researcher stopped her in her steps.
+# Narrator: Because she whipped around and began walking away, as though her business here was concluded. But the researcher stopped her in her steps.
 Рассказчик: Потому что оно развернулось и начало уходить, словно его дела здесь были закончены. Но исследователь остановил его.
 
-# Original: Ah. Are you... bound for the Peccatula Laboratory, by any chance?
+# Yi Sang: Ah. Are you... bound for the Peccatula Laboratory, by any chance?
 И Сан: Ах. Ты... направляешься в Лабораторию Пеккатул, случайно?
 
-# Original: Yes. I am to participate in a combat capacity test.
+# Faust: Yes. I am to participate in a combat capacity test.
 Фауст: Да. Я должно участвовать в тесте боевых возможностей.
 
-# Original: Then will you, perhaps, bring my junior with you for a field trip? He is yet to be assigned a task, and I find him ill prepared to join me for an Abnormality management work.
+# Yi Sang: Then will you, perhaps, bring my junior with you for a field trip? He is yet to be assigned a task, and I find him ill prepared to join me for an Abnormality management work.
 И Сан: Тогда не возьмёшь ли с собой моего младшего на экскурсию? Ему ещё не назначили задание, и я нахожу его неготовым присоединиться ко мне для работы по управлению Аномалиями.
 
-# Original: Very well.
+# Faust: Very well.
 Фауст: Хорошо.
 
-# Original: It's unusual for researchers of most companies to be involved in any degree of combat...
+# Narrator: It's unusual for researchers of most companies to be involved in any degree of combat...
 Рассказчик: Необычно для исследователей большинства компаний быть вовлечёнными в какой-либо степени в боевые действия...
 
-# Original: This seemed to have piqued the junior researcher's interest.
+# Narrator: This seemed to have piqued the junior researcher's interest.
 Рассказчик: Похоже, это вызвало интерес у младшего исследователя.
 
-# Original: Woah... combat tests?
+# Novice Researcher: Woah... combat tests?
 Рассказчик: Вау... боевые испытания?
 
-# Original: Yes. It guarantees results, should it succeed. Repression Work efficiency. Abnormality or Distortion containment breach suppression efficiency. Not to mention the various additional data that can be procured from engaging them in combat.
+# Faust: Yes. It guarantees results, should it succeed. Repression Work efficiency. Abnormality or Distortion containment breach suppression efficiency. Not to mention the various additional data that can be procured from engaging them in combat.
 Фауст: Да. Это гарантирует результаты в случае успеха. Эффективность Работы на Подавление. Эффективность подавления прорывов Аномалий или Искажений. Не говоря уже о различных дополнительных данных, которые можно получить в бою с ними.
 
-# Original: But the junior researcher didn't have much time to ask his questions, as they arrived at the laboratory within minutes.
+# Narrator: But the junior researcher didn't have much time to ask his questions, as they arrived at the laboratory within minutes.
 Рассказчик: Но у младшего исследователя не было много времени задавать вопросы, так как они прибыли в лабораторию через несколько минут.
 
-# Original: The child walked into the laboratory alone as the junior researcher watched through the glass window.
+# Narrator: The child walked into the laboratory alone as the junior researcher watched through the glass window.
 Рассказчик: Дитя вошло в лабораторию одно, пока младший исследователь наблюдал через стеклянное окно.
 
-# Original: The Peccatula in there surrounded the child as though they were drawn by something.
+# Narrator: The Peccatula in there surrounded the child as though they were drawn by something.
 Рассказчик: Пеккатулы внутри окружили дитя, словно их что-то притягивало.
 
-# Original: Y-you're gonna be okay, right?
+# Novice Researcher: Y-you're gonna be okay, right?
 Рассказчик: Т-ты ведь будешь в порядке, да?
 
-# Original: No variables of any risk have been observed.
+# Faust: No variables of any risk have been observed.
 Фауст: Не наблюдается никаких переменных риска.
 
-# Original: Raising attunement level. Resonating.
+# Faust: Raising attunement level. Resonating.
 Фауст: Повышаю уровень настройки. Резонирую.
 
-# Original: The child soared toward the ceiling, making some distance between herself and the gathering Peccatula.
+# Narrator: The child soared toward the ceiling, making some distance between herself and the gathering Peccatula.
 Рассказчик: Дитя взмыло к потолку, создавая дистанцию между собой и собирающимися Пеккатулами.
 
-# Original: This must've been made possible thanks to her assimilation rate—also known here as attunement rate.
+# Narrator: This must've been made possible thanks to her assimilation rate—also known here as attunement rate.
 Рассказчик: Это стало возможным благодаря уровню его ассимиляции — здесь известному как уровень настройки.
 
-# Original: Normally, this wouldn't have been possible even with a high attunement rate, but the LCE E.G.O were different.
+# Narrator: Normally, this wouldn't have been possible even with a high attunement rate, but the LCE E.G.O were different.
 Рассказчик: Обычно это было бы невозможно даже с высоким уровнем настройки, но ЭГО LCE были другими.
 
-# Original: Woah, wait. Winged E.G.Os can fly? I thought they were just for show?!
+# Novice Researcher: Woah, wait. Winged E.G.Os can fly? I thought they were just for show?!
 Рассказчик: Ого, подождите. Крылатые ЭГО могут летать? Я думал, они просто для красоты?!
 
-# Original: Not necessarily. Most Winged E.G.O gears do not have flight capabilities.
+# Faust: Not necessarily. Most Winged E.G.O gears do not have flight capabilities.
 Фауст: Не обязательно. Большинство крылатых экипировок ЭГО не обладают способностью к полёту.
 
-# Original: Indeed, it is true that, as long as high attunement level can be maintained, it can utilize the source Abnormality's idiosyncrasies with greater flexibility compared to Lobotomy Corporation E.G.O.
+# Faust: Indeed, it is true that, as long as high attunement level can be maintained, it can utilize the source Abnormality's idiosyncrasies with greater flexibility compared to Lobotomy Corporation E.G.O.
 Фауст: Действительно, это правда, что пока поддерживается высокий уровень настройки, можно использовать особенности исходной Аномалии с большей гибкостью по сравнению с ЭГО Корпорации Лоботомия.
 
-# Original: By gaining a deep understanding of the Abnormality, and by maintaining, even for a brief moment, empathy for it...
+# Narrator: By gaining a deep understanding of the Abnormality, and by maintaining, even for a brief moment, empathy for it...
 Рассказчик: Обретая глубокое понимание Аномалии и поддерживая, даже на краткий момент, эмпатию к ней...
 
-# Original: ... she was able to temporarily raise her attunement level by her own volition.
+# Narrator: ... she was able to temporarily raise her attunement level by her own volition.
 Рассказчик: ... оно могло временно повышать свой уровень настройки по собственной воле.
 
-# Original: Perhaps, in a way, it is closer to the usage of actual E.G.O rather than E.G.O gears of Lobotomy Corporation.
+# Narrator: Perhaps, in a way, it is closer to the usage of actual E.G.O rather than E.G.O gears of Lobotomy Corporation.
 Рассказчик: Возможно, в каком-то смысле это ближе к использованию настоящего ЭГО, чем экипировка ЭГО Корпорации Лоботомия.
 
-# Original: I see. So I should try my best to raise my attunement levels.
+# Novice Researcher: I see. So I should try my best to raise my attunement levels.
 Рассказчик: Понятно. Значит, мне стоит стараться повышать свои уровни настройки.
 
-# Original: Maybe so, but over-investment is discouraged.
+# Faust: Maybe so, but over-investment is discouraged.
 Фауст: Возможно, но чрезмерное погружение не рекомендуется.
 
-# Original: Deeper studies and obsession may cause the wearer to be consumed by the E.G.O.
+# Faust: Deeper studies and obsession may cause the wearer to be consumed by the E.G.O.
 Фауст: Более глубокие исследования и одержимость могут привести к тому, что носитель будет поглощён ЭГО.
 
-# Original: Like so.
+# Faust: Like so.
 Фауст: Вот так.
 
-# Original: The child's moves began to grow increasingly flashy as she burns the Peccatula away one by one.
+# Narrator: The child's moves began to grow increasingly flashy as she burns the Peccatula away one by one.
 Рассказчик: Движения дитя становились всё более эффектными, пока оно сжигало Пеккатул одну за другой.
 
-# Original: Spreading embers everywhere... just like the Abnormality, Ardor Blossom Moth.
+# Narrator: Spreading embers everywhere... just like the Abnormality, Ardor Blossom Moth.
 Рассказчик: Разбрасывая повсюду искры... совсем как Аномалия, Мотылёк Пылающего Цветения.
 
-# Original: That's when a sudden crackling noise echoed through the laboratory.
+# Narrator: That's when a sudden crackling noise echoed through the laboratory.
 Рассказчик: Именно тогда по лаборатории эхом разнёсся внезапный треск.
 
-# Original: It wasn't anything special, considering that the entire chamber was practically on fire...
+# Narrator: It wasn't anything special, considering that the entire chamber was practically on fire...
 Рассказчик: Это не было чем-то особенным, учитывая, что вся камера практически пылала...
 
-# Original: ... but the junior researcher couldn't help but flinch out of fear, given what the senior researcher from earlier had told him.
+# Narrator: ... but the junior researcher couldn't help but flinch out of fear, given what the senior researcher from earlier had told him.
 Рассказчик: ... но младший исследователь не мог не вздрогнуть от страха, учитывая то, что ему ранее сказал старший исследователь.
 
-# Original: A-are you about to blow?
+# Novice Researcher: A-are you about to blow?
 Рассказчик: Т-ты сейчас взорвёшься?
 
-# Original: Were I to raise the attunement level further, yes. I would explode.
+# Faust: Were I to raise the attunement level further, yes. I would explode.
 Фауст: Если бы я подняла уровень настройки ещё выше, то да. Я бы взорвалась.
 
-# Original: But I don't intend to, of course. There is still much that must be studied.
+# Faust: But I don't intend to, of course. There is still much that must be studied.
 Фауст: Но я, конечно, не собираюсь этого делать. Ещё многое предстоит изучить.
 
-# Original: Just as that bizarre heat began to coalesce around her, the child closed her eyes as though she was emptying her thoughts. And...
+# Narrator: Just as that bizarre heat began to coalesce around her, the child closed her eyes as though she was emptying her thoughts. And...
 Рассказчик: Как только этот причудливый жар начал сгущаться вокруг него, дитя закрыло глаза, словно очищая свои мысли. И...
 
-# Original: ... the flames were extinguished. The burning wings, the fire that had traced the path of her weapon... all gone.
+# Narrator: ... the flames were extinguished. The burning wings, the fire that had traced the path of her weapon... all gone.
 Рассказчик: ... пламя погасло. Горящие крылья, огонь, который прослеживал путь его оружия... всё исчезло.
 
-# Original: Just as the experiment was over, the researcher ran up to the child, mesmerized.
+# Narrator: Just as the experiment was over, the researcher ran up to the child, mesmerized.
 Рассказчик: Как только эксперимент закончился, исследователь подбежал к дитя, очарованный.
 
-# Original: That was awesome. Crazy how you could so freely control your attunement to the E.G.O just like that.
+# Novice Researcher: That was awesome. Crazy how you could so freely control your attunement to the E.G.O just like that.
 Рассказчик: Это было потрясающе. Безумно круто, как вы можете так свободно контролировать свою настройку с ЭГО.
 
-# Original: Think I can be a researcher like you, Ms. Faust?
+# Novice Researcher: Think I can be a researcher like you, Ms. Faust?
 Рассказчик: Думаете, я смогу стать исследователем как вы, мисс Фауст?
 
-# Original: It is inadvisable to do so, however. Though it may appear as though the attunement levels were freely controlled...
+# Faust: It is inadvisable to do so, however. Though it may appear as though the attunement levels were freely controlled...
 Фауст: Однако это не рекомендуется. Хотя может показаться, что уровни настройки контролировались свободно...
 
-# Original: ... not even Faust may be free from the effects of corrosion.
+# Faust: ... not even Faust may be free from the effects of corrosion.
 Фауст: ... даже Фауст не может быть свободна от эффектов коррозии.
 
-# Original: It was indeed the child's natural disposition to welcome risks in pursuit of knowledge.
+# Narrator: It was indeed the child's natural disposition to welcome risks in pursuit of knowledge.
 Рассказчик: Действительно, в природе дитя было приветствовать риски в погоне за знаниями.
 
-# Original: However, this child here is more extreme than others, given that she is affected by the E.G.O.
+# Narrator: However, this child here is more extreme than others, given that she is affected by the E.G.O.
 Рассказчик: Однако это дитя более экстремально, чем другие, учитывая, что на него влияет ЭГО.
 
-# Original: That is why this child does not wish...
+# Narrator: That is why this child does not wish...
 Рассказчик: Именно поэтому это дитя не желает...
 
-# Original: ... for this junior researcher to walk the same path as she does.
+# Narrator: ... for this junior researcher to walk the same path as she does.
 Рассказчик: ... чтобы этот младший исследователь шёл по тому же пути, что и оно.
 
-# Original: Always exercise utmost caution when raising attunement levels. Especially when you are in the source Abnormality's immediate presence.
+# Faust: Always exercise utmost caution when raising attunement levels. Especially when you are in the source Abnormality's immediate presence.
 Фауст: Всегда проявляйте предельную осторожность при повышении уровней настройки. Особенно когда вы находитесь в непосредственном присутствии исходной Аномалии.
 
-# Original: Watching the researcher nod vigorously, the child began cleaning up the testing chamber.
+# Narrator: Watching the researcher nod vigorously, the child began cleaning up the testing chamber.
 Рассказчик: Наблюдая, как исследователь энергично кивает, дитя начало убирать испытательную камеру.
 
-# Original: So she failed to notice a look of ominous passion in the researcher's eyes.
+# Narrator: So she failed to notice a look of ominous passion in the researcher's eyes.
 Рассказчик: Поэтому оно не заметило зловещий огонь страсти в глазах исследователя.
 
-# Original: E.G.O. And attunement to the Abnormality.
+# Narrator: E.G.O. And attunement to the Abnormality.
 Рассказчик: ЭГО. И настройка на Аномалию.
 
-# Original: Failing to see the misfortune that the burning embers of his passion will one day spark.
+# Narrator: Failing to see the misfortune that the burning embers of his passion will one day spark.
 Рассказчик: Не увидев несчастья, которое однажды разожгут горящие угли его страсти.

@@ -1,83 +1,83 @@
-﻿# Original: <color=#ebcaa2>No matter how much they'd lost, no matter how far they'd fallen, the inhabitants of the Grand Magasin could always begin anew from rock bottom.</color>
+﻿# Narrator: <color=#ebcaa2>No matter how much they'd lost, no matter how far they'd fallen, the inhabitants of the Grand Magasin could always begin anew from rock bottom.</color>
 Рассказчик: <color=#ebcaa2>Сколько бы ни потеряли обитатели Гран-Магазэна, как бы низко ни пали, они всегда могли начать всё заново с самого дна.</color>
 
-# Original: <color=#ebcaa2>Equal opportunity for everyone, no matter how lowly their status is, or how badly they'd failed.</color>
+# Narrator: <color=#ebcaa2>Equal opportunity for everyone, no matter how lowly their status is, or how badly they'd failed.</color>
 Рассказчик: <color=#ebcaa2>Равные возможности для всех, сколь бы низким ни было их положение, сколь бы сокрушительную неудачу они ни потерпели.</color>
 
-# Original: <color=#ebcaa2>... Not anymore, though.</color>
+# Narrator: <color=#ebcaa2>... Not anymore, though.</color>
 Рассказчик: <color=#ebcaa2>...Но теперь это в прошлом.</color>
 
-# Original: <color=#ebcaa2>And that's all thanks to you, Meursault.</color>
+# Narrator: <color=#ebcaa2>And that's all thanks to you, Meursault.</color>
 Рассказчик: <color=#ebcaa2>И всё благодаря тебе, Мерсо.</color>
 
-# Original: You are blaming me for my mother's death.
+# Meursault: You are blaming me for my mother's death.
 Мерсо: Ты винишь меня в смерти моей матери.
 
-# Original: <color=#ebcaa2>Of course I am. Who else would I blame but her murderer?</color>
+# Narrator: <color=#ebcaa2>Of course I am. Who else would I blame but her murderer?</color>
 Рассказчик: <color=#ebcaa2>Разумеется. Кого же ещё мне винить, если не её убийцу?</color>
 
-# Original: <color=#ebcaa2>We Giants each play an indispensable role as the pillars that uphold Sisyphe. And your mother was one of us.</color>
+# Narrator: <color=#ebcaa2>We Giants each play an indispensable role as the pillars that uphold Sisyphe. And your mother was one of us.</color>
 Рассказчик: <color=#ebcaa2>Каждый из нас, Гигантов, — незаменимый столп, на котором держится Сизиф. И твоя мать была одной из нас.</color>
 
-# Original: <color=#ebcaa2>I don't suppose this warrants repeating, ma puce, but N Corp. was determined to give you the Sisyphe Penalty right away. You <i>do</i> know the lengths I went to stop that... don't you?</color>
+# Narrator: <color=#ebcaa2>I don't suppose this warrants repeating, ma puce, but N Corp. was determined to give you the Sisyphe Penalty right away. You <i>do</i> know the lengths I went to stop that... don't you?</color>
 Рассказчик: <color=#ebcaa2>Полагаю, напоминать об этом излишне, <i>ма пюс</i>, но Корпорация N намеревалась немедленно подвергнуть тебя Наказанию Сизифа. Ты <i>ведь</i> знаешь, на что мне пришлось пойти, чтобы это предотвратить... не так ли?</color>
 
-# Original: I do. I remember everything.
+# Meursault: I do. I remember everything.
 Мерсо: Знаю. Я всё помню.
 
-# Original: <color=#ebcaa2>But did you thank me? No. You don't seem all that grateful now, either.</color>
+# Narrator: <color=#ebcaa2>But did you thank me? No. You don't seem all that grateful now, either.</color>
 Рассказчик: <color=#ebcaa2>Но поблагодарил ли ты меня? Нет. Да и сейчас ты, похоже, не слишком благодарен.</color>
 
-# Original: I do not recall asking for your help.
+# Meursault: I do not recall asking for your help.
 Мерсо: Не припоминаю, чтобы я просил тебя о помощи.
 
-# Original: <color=#ebcaa2>The... vacancy left behind by your mother changed the Grand Magasin in more ways than one.</color>
+# Narrator: <color=#ebcaa2>The... vacancy left behind by your mother changed the Grand Magasin in more ways than one.</color>
 Рассказчик: <color=#ebcaa2>Место, что... пустует после смерти твоей матери, изменило Гран-Магазэн во многих отношениях.</color>
 
-# Original: <color=#ebcaa2>One, the fractures that appeared on its walls. It plunged the Grand Magasin and its inhabitants into chaos and confusion.</color>
+# Narrator: <color=#ebcaa2>One, the fractures that appeared on its walls. It plunged the Grand Magasin and its inhabitants into chaos and confusion.</color>
 Рассказчик: <color=#ebcaa2>Во-первых, на его стенах появились трещины. Это ввергло Гран-Магазэн и его обитателей в хаос и смятение.</color>
 
-# Original: <color=#ebcaa2>So, we procured this "Golden Bough" and planted it in the very same seat where she used to work. A stopgap, if you will. The position of a Giant that shoulders Sisyphe's weight requires a very particular set of specifications, and we didn't know when the next candidate would appear.</color>
+# Narrator: <color=#ebcaa2>So, we procured this "Golden Bough" and planted it in the very same seat where she used to work. A stopgap, if you will. The position of a Giant that shoulders Sisyphe's weight requires a very particular set of specifications, and we didn't know when the next candidate would appear.</color>
 Рассказчик: <color=#ebcaa2>Поэтому мы раздобыли эту «Золотую Ветвь» и посадили её на том самом месте, где прежде трудилась твоя мать. Временная мера, если угодно. Чтобы стать Гигантом, несущим на плечах тяжесть Сизифа, нужно соответствовать весьма специфическим требованиям, и мы не знали, когда появится следующий кандидат.</color>
 
-# Original: The Golden Bough...!
+# Don Quixote: The Golden Bough...!
 Дон Кихот: Золотая Ветвь...!
 
-# Original: <She must be talking about the events that occurred outside the Grand Magasin.>
+# Dante: <She must be talking about the events that occurred outside the Grand Magasin.>
 Данте: <Должно быть, она говорит о событиях за пределами Гран-Магазэна.>
 
-# Original: And that's what caused the so-called "Golden Resin" to appear and fill the fractures...
+# Hong Lu: And that's what caused the so-called "Golden Resin" to appear and fill the fractures...
 Хон Лу: И именно поэтому появилась так называемая «Золотая смола», заполнившая трещины...
 
-# Original: <color=#ebcaa2>Correct.</color>
+# Narrator: <color=#ebcaa2>Correct.</color>
 Рассказчик: <color=#ebcaa2>Верно.</color>
 
-# Original: <color=#ebcaa2>Some called that mending gold a "hide," while it was "resin" to others. Regardless of the disagreements over its proper denomination, however, the Voice began speaking to everyone from within its golden light.</color>
+# Narrator: <color=#ebcaa2>Some called that mending gold a "hide," while it was "resin" to others. Regardless of the disagreements over its proper denomination, however, the Voice began speaking to everyone from within its golden light.</color>
 Рассказчик: <color=#ebcaa2>Одни называли это золото, залатавшее трещины, «кожей», другие — «смолой». Но как бы они ни спорили о верном названии, из его золотого сияния ко всем начал обращаться Голос.</color>
 
-# Original: <color=#ebcaa2>Ever since that whisper filled this place... the Noirs succumbed to fear, while the Rouges began sniffing out opportunity.</color>
+# Narrator: <color=#ebcaa2>Ever since that whisper filled this place... the Noirs succumbed to fear, while the Rouges began sniffing out opportunity.</color>
 Рассказчик: <color=#ebcaa2>С тех пор как этот шёпот наполнил здешние залы... Нуары поддались страху, а Ружи принялись вынюхивать новые возможности.</color>
 
-# Original: <color=#ebcaa2>Two...</color>
+# Narrator: <color=#ebcaa2>Two...</color>
 Рассказчик: <color=#ebcaa2>Во-вторых...</color>
 
-# Original: <color=#ebcaa2>Death became final. Those who died in the Grand Magasin Sisyphe could no longer come back to life.</color>
+# Narrator: <color=#ebcaa2>Death became final. Those who died in the Grand Magasin Sisyphe could no longer come back to life.</color>
 Рассказчик: <color=#ebcaa2>Смерть стала окончательной. Те, кто умирал в Гран-Магазэне Сизиф, больше не могли вернуться к жизни.</color>
 
-# Original: <color=#ebcaa2>This puts N Corp. in a rather unenviable position, as the irreversibility of death means that their stock of raw ingredients for Canned Experience production will inevitably run out unless they're replenished "manually."</color>
+# Narrator: <color=#ebcaa2>This puts N Corp. in a rather unenviable position, as the irreversibility of death means that their stock of raw ingredients for Canned Experience production will inevitably run out unless they're replenished "manually."</color>
 Рассказчик: <color=#ebcaa2>Это ставит Корпорацию N в довольно незавидное положение: раз смерть необратима, запасы сырья для производства Консервированного опыта неизбежно иссякнут, если не пополнять их «вручную».</color>
 
-# Original: <color=#ebcaa2>Which is exactly what they've been doing by passing the Sisyphe Penalty with ever greater frequency.</color>
+# Narrator: <color=#ebcaa2>Which is exactly what they've been doing by passing the Sisyphe Penalty with ever greater frequency.</color>
 Рассказчик: <color=#ebcaa2>Именно этим они и занимаются, всё чаще приговаривая людей к Наказанию Сизифа.</color>
 
-# Original: <color=#ebcaa2>Meanwhile, we three remaining Giants are forced to strain ourselves all the harder to keep this place aloft.</color>
+# Narrator: <color=#ebcaa2>Meanwhile, we three remaining Giants are forced to strain ourselves all the harder to keep this place aloft.</color>
 Рассказчик: <color=#ebcaa2>Тем временем мы, трое оставшихся Гигантов, вынуждены напрягать силы всё больше, лишь бы это место не рухнуло.</color>
 
-# Original: <color=#ebcaa2>And maybe that's where you can come in, ma puce. You have just the required set of skills to fill your mother's vacancy, don't you?</color>
+# Narrator: <color=#ebcaa2>And maybe that's where you can come in, ma puce. You have just the required set of skills to fill your mother's vacancy, don't you?</color>
 Рассказчик: <color=#ebcaa2>И, быть может, здесь ты нам и пригодишься, <i>ма пюс</i>. Ведь у тебя есть все необходимые способности, чтобы занять место твоей матери, не так ли?</color>
 
-# Original: <color=#ebcaa2>I've always wondered why you never bothered to tell them that right off the bat. You've always known that you have what it takes to become a Giant.</color>
+# Narrator: <color=#ebcaa2>I've always wondered why you never bothered to tell them that right off the bat. You've always known that you have what it takes to become a Giant.</color>
 Рассказчик: <color=#ebcaa2>Мне всегда было любопытно, почему ты не удосужился рассказать им об этом с самого начала. Ты ведь всегда знал, что у тебя есть всё необходимое, чтобы стать Гигантом.</color>
 
-# Original: ... There was no reason to tell them that. My aptitude for the position had no bearing on the fact that I did kill Mother.
+# Meursault: ... There was no reason to tell them that. My aptitude for the position had no bearing on the fact that I did kill Mother.
 Мерсо: ...Не было причин им об этом сообщать. Моя пригодность к этой должности никак не меняла того факта, что я убил маму.

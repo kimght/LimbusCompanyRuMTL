@@ -1,65 +1,65 @@
-﻿# Original: Welcome back, stranger with drooping shoulder seams.
+﻿# Annette: Welcome back, stranger with drooping shoulder seams.
 Аннет: С возвращением, посторонний с обвисшими плечевыми швами.
 
-# Original: I could fix that in no time, stranger. I need only readjust the sewing on your jacket into a slightly loosened arrangement...
+# Annette: I could fix that in no time, stranger. I need only readjust the sewing on your jacket into a slightly loosened arrangement...
 Аннет: Я мигом могу это исправить, посторонний. Нужно лишь перешить твой пиджак, сделав швы чуть свободнее...
 
-# Original: Um... Actually, I wanted to ask if we could purchase a pair of scissors from you? I see some that look pretty well-sharpened...
+# Sinclair: Um... Actually, I wanted to ask if we could purchase a pair of scissors from you? I see some that look pretty well-sharpened...
 Синклер: Эм... Вообще-то я хотел спросить, можно ли купить у вас ножницы? Вижу, некоторые у вас очень хорошо заточены...
 
-# Original: I can see the desire to go <i>snip-snip!</i> in your eyes. I like that look.
+# Annette: I can see the desire to go <i>snip-snip!</i> in your eyes. I like that look.
 Аннет: Вижу в твоих глазах желание сделать <i>чик-чик!</i> Мне нравится этот взгляд.
 
-# Original: I do have scissors, yes. But I can see in your eyes that the scissors on display aren't what interest you.
+# Annette: I do have scissors, yes. But I can see in your eyes that the scissors on display aren't what interest you.
 Аннет: Да, ножницы у меня есть. Но по вашим глазам вижу: вас интересуют не те, что на витрине.
 
-# Original: Correct. The pair of scissors we need is of significant size.
+# Outis: Correct. The pair of scissors we need is of significant size.
 Отис: Верно. Нам нужны ножницы значительных размеров.
 
-# Original: The pair of scissors I wield is not a tool I am willing to part with lightly, unless you were to offer me a great many eyeballs.
+# Annette: The pair of scissors I wield is not a tool I am willing to part with lightly, unless you were to offer me a great many eyeballs.
 Аннет: С ножницами, которыми я работаю, мне будет непросто расстаться, разве что вы предложите мне великое множество глазных яблок.
 
-# Original: Haven't you realized from our last visit that we aren't exactly flush with eyeballs? If you're making the same proposition anyway, then...
+# Outis: Haven't you realized from our last visit that we aren't exactly flush with eyeballs? If you're making the same proposition anyway, then...
 Отис: Разве во время прошлого визита вы не поняли, что глазных яблок у нас не так уж много? Если вы всё равно повторяете своё предложение, значит...
 
-# Original: ... Ah, I see. You are inviting us to bargain.
+# Outis: ... Ah, I see. You are inviting us to bargain.
 Отис: ...А, понимаю. Вы предлагаете поторговаться.
 
-# Original: Correct. For example... "amusement" can be a price.
+# Annette: Correct. For example... "amusement" can be a price.
 Аннет: Верно. Например... платой может стать «развлечение».
 
-# Original: You there. That head of yours... how fascinating.
+# Annette: You there. That head of yours... how fascinating.
 Аннет: Эй, ты. Твоя голова... как занятно.
 
-# Original: She slowly turns toward Meursault.
+# Narrator: She slowly turns toward Meursault.
 Рассказчик: Она медленно поворачивается к Мерсо.
 
-# Original: Mind if I split open and dig around in your head a little bit? Let me do that, and I could give you a better deal for my pair of scissors.
+# Annette: Mind if I split open and dig around in your head a little bit? Let me do that, and I could give you a better deal for my pair of scissors.
 Аннет: Не возражаешь, если я вскрою тебе голову и немного покопаюсь внутри? Позволишь — и я уступлю вам свои ножницы на более выгодных условиях.
 
-# Original: <i>Split his head open?!</i>
+# Sinclair: <i>Split his head open?!</i>
 Синклер: <i>Вскроете ему голову?!</i>
 
-# Original: Don't you worry, I am the best alterationist in all of the Grand Magasin. Burst seams? Ripped lining? Hand it to me, and I'll sew and patch them back to flawless perfection.
+# Annette: Don't you worry, I am the best alterationist in all of the Grand Magasin. Burst seams? Ripped lining? Hand it to me, and I'll sew and patch them back to flawless perfection.
 Аннет: Не волнуйся, я лучшая перекройщица во всём Гран-Магазэне. Разошлись швы? Порвалась подкладка? Отдай мне — зашью, залатаю, и всё снова будет безупречно.
 
-# Original: Once I'm done looking, I could stitch your head back up without leaving so much as a loose thread. How's that?
+# Annette: Once I'm done looking, I could stitch your head back up without leaving so much as a loose thread. How's that?
 Аннет: Закончив осмотр, я смогу зашить твою голову так, что ни одной ниточки торчать не будет. Как тебе?
 
-# Original: Would've dismissed that claim without batting an eye had we been outside, but within Sisyphe, where events and communications are contingent not on their materiality but their symbolic significance...
+# Outis: Would've dismissed that claim without batting an eye had we been outside, but within Sisyphe, where events and communications are contingent not on their materiality but their symbolic significance...
 Отис: Будь мы снаружи, я бы без колебаний отвергла подобное заявление, но здесь, в Сизифе, где события и общение обусловлены не их материальным проявлением, а символическим значением...
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: This is unlikely to be an issue, Manager.
+# Meursault: This is unlikely to be an issue, Manager.
 Мерсо: Вряд ли это станет проблемой, Менеджер.
 
-# Original: It seems she only wants to take a look inside my head.
+# Meursault: It seems she only wants to take a look inside my head.
 Мерсо: По-видимому, она лишь хочет заглянуть внутрь моей головы.
 
-# Original: <.......>
+# Dante: <.......>
 Данте: <.......>
 
-# Original: <Right, might as well.>
+# Dante: <Right, might as well.>
 Данте: <Ладно, почему бы и нет.>
