@@ -3,13 +3,13 @@
     {
       "id": "FusionVibration",
       "name": "Наложение амплитуды",
-      "desc": "· Накладывает амплитуды [PersonalityVibration:`Особых видов Тремора`] <b>друг на друга</b>, образуя [VibrationNesting:`Тремор — Суперпозицию`]\n· [Switch_Vibration:`Преобразовние амплитуды`] такого [VibrationNesting:`Тремора`] приводит к [FusionVibration:`Наложению амплитуды`]\n\n「[VibrationNesting:`Тремор — Суперпозиция`]:\n[PersonalityVibration:`Особый Тремор`](:nolink)\n· Сочетает в себе эффекты [PersonalityVibration:`Особых видов Тремора`], которые были на цели до [FusionVibration:`Наложением амплитуды`] и нанеслись вместе с ней」",
+      "desc": "· Накладывает амплитуды [PersonalityVibration:`Особых видов Тремора`] <b>друг на друга</b>, образуя [VibrationNesting:`Тремор — Суперпозицию`]\n· [Switch_Vibration:`Преобразовние амплитуды`] такого [VibrationNesting:`Тремора`] приводит к [FusionVibration:`Наложению амплитуды`]\n\n「[VibrationNesting:`Тремор — Суперпозиция`]:\n<size=90%><b>Является [PersonalityVibration:`Особым* Тремором`](:nolink)</b></size>\n· Сочетает в себе эффекты [PersonalityVibration:`Особых видов Тремора`], которые были на цели до [FusionVibration:`Наложением амплитуды`] и нанеслись вместе с ней」",
       "summary": ""
     },
     {
       "id": "VibrationNesting",
       "name": "Тремор — Суперпозиция",
-      "desc": "[PersonalityVibration:`Особый* Тремор`](:nolink)\n· Сочетает в себе эффекты [PersonalityVibration:`Особых видов Тремора`], которые были на цели до [FusionVibration:`Наложением амплитуды`] и нанеслись вместе с ней",
+      "desc": "<line-height=134%><size=90%><b>Является [PersonalityVibration:`Особым* Тремором`](:nolink)</b></size>\n<line-height=100%>· Сочетает в себе эффекты [PersonalityVibration:`Особых видов Тремора`], которые были на цели до [FusionVibration:`Наложением амплитуды`] и нанеслись вместе с ней",
       "summary": "",
       "undefined": "-"
     },

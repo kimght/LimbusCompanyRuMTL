@@ -1740,7 +1740,7 @@
         {
           "level": 1,
           "name": "Железная защита",
-          "desc": "[WhenUse] При получении удара во время наличия ОЗ Щита от этого навыка наносит атаковавшему 1 [Vibration:`Тремор`] (До 3 раз за ход)",
+          "desc": "[WhenUse] При получении удара во время наличия <color=#366ffb>OЗ Щита</color> от этого навыка наносит атаковавшему 1 [Vibration:`Тремор`] (До 3 раз за ход)",
           "coinlist": [
             {}
           ]
@@ -2703,7 +2703,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующй ход (Единожды за ход)"
+                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает 1 [ScarletTakeDamageUp:`Уязвимость к Похоти`] на следующий ход (Единожды за ход)"
                 }
               ]
             }
@@ -2727,7 +2727,7 @@
                   "desc": "[OnSucceedAttack] Наносит 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает <style=\"highlight\">2</style> [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующй ход (Единожды за ход)"
+                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает <style=\"highlight\">2</style> [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующий ход (Единожды за ход)"
                 }
               ]
             }
@@ -2981,7 +2981,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает (Потерянное значение) [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующй ход (До 3)"
+                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает (Потерянное значение) [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующий ход (До 3)"
                 }
               ]
             },
@@ -3047,7 +3047,7 @@
                   "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает (Потерянное значение) [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующй ход (До 3)"
+                  "desc": "[OnSucceedAttack] Цель теряет всё [BoneNailSinclair:`Отвращённое`] и получает (Потерянное значение) [ScarletTakeDamageUp:`Уязвимости к Похоти`] на следующий ход (До 3)"
                 }
               ]
             },
@@ -3175,6 +3175,409 @@
                 },
                 {
                   "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Столкновение",
+          "desc": "[WhenUse] Получает 1 [Breath:`Дыхание`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Синклера, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Сила в столкновении +1, Вновь подкидывает последнюю монету 1 раз\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [WedgeMarkYellow:`Клин - Дон Кихот`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Столкновение",
+          "desc": "<style=\"highlight\">[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 2)</style>\n[WhenUse] Получает <style=\"highlight\">2</style> [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Синклера, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Сила в столкновении +<style=\"highlight\">2</style>, Вновь подкидывает последнюю монету 1 раз\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [WedgeMarkYellow:`Клин - Дон Кихот`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Столкновение",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До <style=\"highlight\">3</style>)\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Синклера, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Сила в столкновении +2, Вновь подкидывает последнюю монету 1 раз\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [WedgeMarkYellow:`Клин - Дон Кихот`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Следуя по волне наступления",
+          "desc": "[WhenUse] Получает 2 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Дыхание`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Следуя по волне наступления",
+          "desc": "<style=\"highlight\">[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1</style>\n[WhenUse] Получает <style=\"highlight\">3</style> [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 5)% больше урона (До 15%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Следуя по волне наступления",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 5)% больше урона (До <style=\"highlight\">20%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Широкий взмах",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Синклера, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Сила в столкновении +1, наносит на 20% больше урона\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "Если цель находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], то наносит ей на 20% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Широкий взмах",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Синклера, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Сила в столкновении +<style=\"highlight\">3</style>, наносит на <style=\"highlight\">30%</style> больше урона\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "Если цель находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], то наносит ей на <style=\"highlight\">30%</style> больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перевести дух",
+          "desc": "[WhenUse] Сила монеты +1 при 6 и более [Breath:`Дыхания`]\n[OnBattleEnd] Получает 1 [BattleFieldKnow:`Полевой анализ`] на следующий ход, если не получала его в течение хода от эффектов своих навыков (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 1 [Breath:`Дыхание`] (До 3 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Перевести дух",
+          "desc": "<style=\"highlight\">[StartBattle] Если цель имеет 4 и более [WedgeMarkYellow:`Клина - Дон Кихот`], то использует свой альтернативный третий навык <color=#014fd6>「Я быстро и без лишних слов с тобой разделаюсь」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)</style>\n[WhenUse] Сила монеты +1 при 6 и более [Breath:`Дыхания`]\n[OnBattleEnd] Получает 1 [BattleFieldKnow:`Полевой анализ`] на следующий ход, если не получала его в течение хода от эффектов своих навыков (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает <style=\"highlight\">2</style> [Breath:`Дыхания`] (До 3 раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Перевести дух",
+          "desc": "[StartBattle] Если цель имеет 4 и более [WedgeMarkYellow:`Клина - Дон Кихот`], то использует свой альтернативный третий навык <color=#014fd6>「Я быстро и без лишних слов с тобой разделаюсь」</color> вместо этого (Единожды за ход; может активироваться в качестве Односторонней атаки)\n[WhenUse] Сила монеты +1 при 6 и более [Breath:`Дыхания`]\n[OnBattleEnd] Получает 1 [BattleFieldKnow:`Полевой анализ`] на следующий ход, если не получала его в течение хода от эффектов своих навыков (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает <style=\"highlight\">1 [Agility:`Спешку`] на следующий ход и (Единожды за ход)</style> 2 [Breath:`Дыхания`] (До 3 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101705,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Я быстро и без лишних слов с тобой разделаюсь",
+          "desc": "※ Этот навык всегда cчитается Атакующим, даже если был активирован вместо своего Защитного навыка <color=#014fd6>「Переввести дух」</color>\n\nСила в столкновении +1 за каждые 2 [WedgeMarkGreen:`Клина - Синклер`] на цели <nobr>(До 4)</nobr>\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Дон Кихот, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ним (Единожды за ход):\n- [WhenUse] Сила в столкновении +1, наносит на 20% больше урона\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]\n[EndSkill] Цель теряет [WedgeMarkYellow:`Клин - Дон Кихот`]\n[EndSkill] <b>「Представитель офиса «Клина»」</b> Отис получает 3 [ComboWedge:`Импульса`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)",
+                  "summary": "Больше урона в зависимости от [BattleFieldKnow:`Полевого анализа`]"
+                },
+                {
+                  "desc": "Если цель находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], то наносит ей на 30% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]",
+                  "summary": "[ReUseOnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный Пронзающий урон, равный (Значение [WedgeMarkYellow:`Клина - Дон Кихот`] на цели × 6)% от Итогового урона этой монеты (До 48%)",
+                  "summary": "[OnSucceedAttack] Наносит дополнительный Пронзающий урон в зависимости от [WedgeMarkYellow:`Клина - Дон Кихот`] на цели"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Я быстро и без лишних слов с тобой разделаюсь",
+          "desc": "※ Этот навык всегда cчитается Атакующим, даже если был активирован вместо своего Защитного навыка <color=#014fd6>「Переввести дух」</color>\n\nСила в столкновении +1 за каждые 2 [WedgeMarkGreen:`Клина - Синклер`] на цели <nobr>(До 4)</nobr>\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если экипированные навыки <b>「Корректировщика офиса «Клина»」</b> Дон Кихот находятся в одном резонансе с этим навыком Дон Кихот, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ним (Единожды за ход):\n- [WhenUse] Сила в столкновении +<style=\"highlight\">3</style>, наносит на <style=\"highlight\">30%</style> больше урона\n- [WhenUse] Получает 1 [BattleFieldKnow:`Полевой анализ`]\n[EndSkill] Цель теряет [WedgeMarkYellow:`Клин - Дон Кихот`]\n[EndSkill] <b>「Представитель офиса «Клина»」</b> Отис получает 3 [ComboWedge:`Импульса`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "На (Текущее значение [BattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)",
+                  "summary": "Больше урона в зависимости от [BattleFieldKnow:`Полевого анализа`]"
+                },
+                {
+                  "desc": "Если цель находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], то наносит ей на 30% больше урона"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]",
+                  "summary": "[ReUseOnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный Пронзающий урон, равный (Значение [WedgeMarkYellow:`Клина - Дон Кихот`] на цели × 6)% от Итогового урона этой монеты (До 48%)",
+                  "summary": "[OnSucceedAttack] Наносит дополнительный Пронзающий урон в зависимости от [WedgeMarkYellow:`Клина - Дон Кихот`] на цели"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
                 }
               ]
             }

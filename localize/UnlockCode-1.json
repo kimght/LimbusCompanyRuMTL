@@ -225,6 +225,11 @@
       "openCondition": "Пройдите Песнь 10",
       "openConditionNumber": "Пройдите 10-7",
       "relatedChapterText": "Песнь X"
+    },
+    {
+      "id": 9129,
+      "openCondition": "Пройдите 10-ую Вальпургиеву Ночь",
+      "relatedChapterText": "10-я Вальпургиевая Ночь"
     }
   ]
 }

@@ -1,0 +1,1318 @@
+{
+  "dataList": [
+    {
+      "id": 158001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выполнить запрос",
+          "desc": "[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[BeforeAttack] Восстанавливает себе 10 <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Получает 1 [ResultEnhancement:`Повышение силы`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Вспышка восхода",
+          "desc": "[WhenUse] При 15 и более [DawnOfficeStigmaSOne:`Луча восхода`] вторая монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клинок заката",
+          "desc": "[WhenUse] При 15 и более [DawnOfficeStigmaSOne:`Луча восхода`] третья монета этого навыка дублируется в качестве [SuperCoin:`Вечной монеты`], а также [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 при своём попадании",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Рассекатель зари",
+          "desc": "[WhenUse] Итоговая сила +1 и на 10% больше урона за каждые 10 [DawnOfficeStigmaSOne:`Луча восхода`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "На заре",
+          "desc": "[WhenUse] Наносит на 20% больше урона за каждую фактическую цель этого навыка (До 60%)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[EndSkill] Восстанавливает себе (Суммарная сила [Combustion:`Огня`] всех целей этого навыка × 2)% <color=#00ff9c>ОЗ</color> (До 30%)\n[EndSkill] Теряет всё накопленное значение [DawnOfficeStigmaSOne:`Луча восхода`] и имеющуюся силу [Combustion:`Огня`]",
+          "flavor": "    На одном из бесчисленных бушующих полей сражений Дымовой Войны эта самая техника расплавила и расколола последнюю пару крыльев некоего решающего оружия и пространство, в котором оно находилось, предвещая конец рассвета.\n\n    «Ха... Я чуть не умерла...!»\n    «Миледи, вы думаете... вы сможете прикончить этого монстра?»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] 2 раза"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Страж",
+          "desc": "[CanDuelGuard:`Блок столкновением`]\n[StartBattle] Получает 1 [SupportProtect:`Вспомогательную защиту`]\n[StartBattle] Получает <color=#366ffb>OЗ Щита</color> в размере 20% от своих максимальных <color=#00ff9c>ОЗ</color>\n[StartBattle] Получает (Число имеющих [Combustion:`Огонь`] противников) [Protection:`Защищённости`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Тепловая дымка",
+          "desc": "<b>Специальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[DuelCounter]\n[WhenUse] Повышает значение [DawnOfficeStigmaSOne:`Луча восхода`] на 5\n[WhenUse] Восстанавливает 6 <color=#80c9ff>СД</color> всем союзникам",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выполнить запрос",
+          "desc": "[BeforeAttack] Восстанавливает себе 10 <color=#80c9ff>СД</color>\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Получает 1 [PlusCoinValueUp:`Усиление положительных монет`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Разрез бабочки",
+          "desc": "[WhenUse] Повышает значение [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] на 6",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 3 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Вновь подкидывает эту монету за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 2 раз)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпуск",
+          "desc": "[WhenUse] Повышает значение [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] на 8\n[WhenUse] Итоговая сила +1 за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`]\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] и понижает его счётчик на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 2 раз)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выпуск - Полдень",
+          "desc": "※ Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\n[WhenUse] Наносит на 20% больше урона за каждую фактическую цель этого навыка (До 60%)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[BeforeAttack] Производит на всех целях этого навыка [Switch_Vibration:`Преобразование амплитуды`] в [VibrationIgnition:`Тремор — Ожог`]\n[EndSkill] Восстанавливает себе (Суммарная сила [Combustion:`Огня`] всех целей этого навыка)% <color=#00ff9c>ОЗ</color> (До 15%)\n[EndSkill] Восстанавливает себе (Сила своего [Combustion:`Огня`])% <color=#00ff9c>ОЗ</color> (До 15%)\n[EndSkill] Теряет всё накопленное значение [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] и имеющуюся силу [Combustion:`Огня`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Вновь подкидывает эту монету за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 2 раз)"
+                },
+                {
+                  "desc": "- При повторном подкидывании эта монета попадает по всем целям навыка независимо от эффекта [WideAreaRampage:`Нефокусированного залпа`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[@SquareBrackets:`Повторное подкидывание - При ударе целой <link=\"SuperCoin\">Вечной монетой</link>`](#c6fe94) [VibrationExplosion:`Провоцирует Тремор`] 2 раза и активирует [Combustion:`Огонь`] 2 раза"
+                },
+                {
+                  "desc": ""
+                },
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клеймо",
+          "desc": "※ При получении урона <color=#ff6000><mark=#ff000040><b><u>повторно использует этот навык</u></b></mark></color> во время хода за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 2 раз)\n\n[StartBattle] Итоговая сила +1 за каждые 2 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 5)\n[StartBattle] Получает (Число имеющих [Combustion:`Огонь`] противников) [DefenseUp:`Повышений уровня защиты`]\n[WhenUse] Наносит на 1 [Combustion:`Огонь`] и [Vibration:`Тремор`] больше этим навыком за каждые 10 [DawnOfficeStigmaYOne:`Гроба огненной бабочки`] (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Combustion:`Огонь`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Поддерживающее наступление",
+          "desc": "[WhenUse] В зависимости от значения [DawnOfficeStigmaYOne:`Гроба огненной бабочки`]:\n- Наносит на 2% больше урона за каждую единицу (До 60%)\n- Итоговая сила +1 за каждые 10 единиц (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Выполнить запрос",
+          "desc": "[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[BeforeAttack] Восстанавливает себе 20 <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Получает 1 [ResultEnhancement:`Повышение силы`] на следующий ход"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клинок заката",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 [Combustion:`Огня`] на цели (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Клеймо",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 [Combustion:`Огня`] на цели (До 2)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[BeforeAttack] Восстанавливает себе 15 <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Уворот",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 [Combustion:`Огня`] на атакующем (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] <color=#ff6000><mark color=#ff000040><b><u>Восстанавливает себе 15% <color=#00ff9c>ОЗ</color></color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Молниеносные уколы",
+          "desc": "[WhenUse] Сила в столкновении +1 при 3 [WalpuTenWedgeOffice:`Клина`]\n[WinDuel] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] <nobr>на 1</nobr>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Сияющее копьё",
+          "desc": "[WhenUse] Сила в столкновении +2 при 3 [WalpuTenWedgeOffice:`Клина`]\n[WinDuel] Повышает счётчик своего [Breath:`Дыхания`] на 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 1"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Прошить насквозь",
+          "desc": "Наносит на (Текущий процент <color=#00ff9c>ОЗ</color> цели - 50)% больше урона (До 50%; минимум 0%)\nНаносит на ((Сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели) × 2.5)% больше урона при Критических попаданиях\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Сила в столкновении +6 при 3 [WalpuTenWedgeOffice:`Клина`]</u></b></mark></color>\n[WinDuel] Получает 2 [Breath:`Дыхания`] и повышает его счётчик на 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "Если цель уже находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], <color=#ff6000><mark=#ff000040><b><u>то наносит ей на 50% больше урона</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`] и повышает его счётчик на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [PenetrateTakeDamageUp:`Уязвимости к Пронзающему урону`] (Единожды за ход)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1 (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Принять построение клина",
+          "desc": "Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона\n[WhenUse]\n- Повышает счётчик своего [Breath:`Дыхания`] на 3\n- Количество целей повышается <color=#ff6000><mark color=#ff000040><b><u>на число других союзников из Офиса «Клина», находящихся на поле боя и способных действовать</color></mark></b></u> (До 2)\n[EndSkill]\n- Тратит 25 [WalpuTenComboWedge:`Импульса`]\n- Получает [WalpuTenComboWedge:`Импульс`] на следующий ход в количестве (Число неиспользованных монет этого навыка × 5)\n- Даёт 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] на следующий ход всем другим союзникам из Офиса «Клина»",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Если <b>Памела</b> ещё находится на поле боя, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней:"
+                },
+                {
+                  "desc": "- На 30% больше урона этой монетой"
+                },
+                {
+                  "desc": "- При попадании последней монетой ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Если <b>Памели</b> ещё находится на поле боя, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней:"
+                },
+                {
+                  "desc": "- На 30% больше урона этой монетой"
+                },
+                {
+                  "desc": "- При попадании последней монетой ещё раз [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На 30% больше урона при критическом попадани"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перевести дух",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Breath:`Дыхания`] (До 2)\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] and 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 2 [Agility:`Спешки`] на следующий ход (Единожды за ход) и 2 [Breath:`Дыхания`] (До 3 раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Расступитесь.",
+          "desc": "<b>Спецальный навык для [SupportProtect:`Вспомогательной защиты`]</b>\n\n[DuelCounter]\n[WhenUse] Сила в столкновении +1 за каждые 20% потерянных <color=#00ff9c>ОЗ</color> (До 4)\n[WhenUse] Восстанавливает 5 <color=#80c9ff>СД</color> себе и союзнику, для [SupportProtect:`Защиты которого`] этот навык был активирован\n[WhenUse] Получает 2 [Protection:`Защищённости`] и <color=#366ffb>OЗ Щита</color> в размере 15% от своих максимальных <color=#00ff9c>ОЗ</color> (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vibration:`Тремор`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Столкновение",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 2 [Breath:`Дыхания`]\n[WhenUse] Если <b>Памела</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow]\n- [WhenUse] Вновь подкидывает последнюю монету 1 раз",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] × 5)% больше урона (До 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [WalpuTenWedgeMarkSilver:`Серебряную метку 【Клин】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Следуя по волне наступления",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 3 [Breath:`Дыхания`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] × 5)% больше урона (До 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Широкий взмах",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Если <b>Памела</b> ещё находится на поле боя, то активирует <b>[ComboSkill:`Совместное комбо`]</b> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow]\n- [WhenUse] Наносит на 30% больше урона",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "На (Сила [Vibration:`Тремора`] на цели × 2)% больше урона (До 20%)"
+                },
+                {
+                  "desc": "Если цель уже находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], <color=#ff6000><mark=#ff000040><b><u>то наносит ей на 30% больше урона</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Я быстро и без лишних слов с тобой разделаюсь",
+          "desc": "Итоговая сила повышается на текущее значение [WalpuTenWedgeMarkSilver:`Серебряной метки 【Клин】`] на цели (До 5)\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Если <b>Памела</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 30% больше урона\n[EndSkill] Цель теряет [WalpuTenWedgeMarkSilver:`Серебряной метку 【Клин】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] × 10)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "На (Сила [Vibration:`Тремора`] на цели × 2)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "Если цель уже находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], <color=#ff6000><mark=#ff000040><b><u>то наносит ей на 30% больше урона</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Вновь подкидывает эту монету 1 раз"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит дополнительный Пронзающий урон, равный (Значение [WalpuTenWedgeMarkSilver:`Серебряной метки 【Клин】`] на цели × 10)% от Итогового урона этой монеты (До 50%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перевести дух",
+          "desc": "[WhenUse] Сила монеты +1 при 6 и более [Breath:`Дыхания`]\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 1 [Agility:`Спешку`] на следующий ход и 3 [Breath:`Дыхания`] (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Столкновение",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Вновь подкидывает последнюю монету 1 раз\n[WinDuel] Получает 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Vibration:`Тремора`]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 1 [WalpuTenWedgeMarkGold:`Золотую метку 【Клин】`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Удар в брешь",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Наносит цели 1 [Vibration:`Тремор`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Широкий взмах",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 40% больше урона\n[WinDuel] Наносит цели 2 [Vibration:`Тремора`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Сила [Vibration:`Тремора`] на цели × 2)% больше урона (До 20%)"
+                },
+                {
+                  "desc": "Если цель уже находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], <color=#ff6000><mark=#ff000040><b><u>то наносит ей на 30% больше урона</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] и понижает его счётчик на 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Моё копьё пронзит тебя насквозь.",
+          "desc": "Итоговая сила повышается на текущее значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели (До 5)\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 30% больше урона\n[WinDuel] Наносит цели 4 [Vibration:`Тремора`] и [VibrationExplosion:`Провоцирует его`]\n[BeforeAttack] Итоговая сила последней монеты повышается на (Значение своего [WalpuTenBattleFieldKnow:`Полевго анализа`] + Значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели) (До 8)\n[EndSkill] Цель теряет [WalpuTenWedgeMarkGold:`Золотую метку 【Клин】`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath:`Дыхания`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Vibration:`Тремора`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "На (Сила [Vibration:`Тремора`] на цели × 2)% больше урона (До 40%)"
+                },
+                {
+                  "desc": "Если цель уже находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`] или [FusionVibration:`Наложенной амплитуды`], <color=#ff6000><mark=#ff000040><b><u>то наносит ей на 30% больше урона</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Если цель не находится в состоянии [Switch_Vibration:`Преобразованной амплитуды`], то производит [Switch_Vibration:`Преобразование амплитуды`] в [VibrationCollapse:`Тремор — Распад`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перевести дух",
+          "desc": "[WhenUse] Сила монеты +1 при 6 и более [Breath:`Дыхания`]\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] на следующий ход (Единожды за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedEvade] Получает 1 [Agility:`Спешку`] на следующий ход и 3 [Breath:`Дыхания`] (Единожды за навык)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Раскаяние",
+          "desc": "[WhenUse] Итоговая сила +2 за каждые 4 [Combustion:`Огня`] на цели (До 4)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить цель\n[BeforeAttack] Наносит на 50%/100% больше урона при 20+/40+ <color=#80c9ff>СД</color> соответственно",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 5 [Vibration:`Тремора`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] 2 раза и понижает его счётчик на 2"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion:`Провоцирует Тремор`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Опечаленные сумерки",
+          "desc": "[WhenUse] Получает 1 [ParryingResultUp:`Повышение силы в столкновении`] при 40 и более <color=#80c9ff>СД</color>\n[BeforeAttack] Восстанавливает себе 10 <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Перьевой щит",
+          "desc": "[WhenUse] Получает 2 [Protection:`Защищённости`] (<color=#ff6000><mark=#ff000040><b><u>Если цель имеет [Combustion:`Огонь`], то</u></b></mark></color> получает ещё 2 [Protection:`Защищённости`])\n[WhenUse] Получает 2 [DefenseUp:`Повышения уровня защиты`] на следующий ход при 30 и более <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Обжигающий меч",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 6 [Combustion:`Огня`] на цели (До 2)\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[BeforeAttack] Количество целей +1/+2 при 40+/45+ <color=#80c9ff>СД</color> соответственно",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 6 [Combustion:`Огня`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Наносит 3 [PhilipWax:`Эмоции неопределённой печали`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Яростный рывок",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 6 [Combustion:`Огня`] на цели (До 2)\n[BeforeAttack] Наносит на 2% больше урона за каждые 2 [Combustion:`Огня`] на цели (До 30%)\n[EndSkill] Теряет (Число повторных подкидываний первой монеты) <color=#80c9ff>СД</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Вновь подкидывает эту монету (До 2 раз за навык)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Повышает счётчик [Combustion:`Огня`] на 2"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Наносит 2 [PhilipWax:`Эмоции неопределённой печали`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Пылающий удар",
+          "desc": "[nxCenterLine]\n\n[TurnStartBattle] Получает <color=#ff6000><mark=#ff000040><b><u>2 [ResultReduction:`Понижения силы`] при получении урона</u></b></mark></color> от Грешников в течение этого хода (Единожды за навык атаковавшего; до 3 раз за ход)\n\n[WhenUse] Итоговая сила +2 за каждые 4 [Combustion:`Огня`] на главной цели (До 4)\n[BeforeAttack] Наносит на <color=#ff6000><mark=#ff000040><b><u>50%/100%</u></b></mark></color> больше урона при <color=#ff6000><mark=#ff000040><b><u>20+/40+</u></b></mark></color> <color=#80c9ff>СД</color> соответственно\n[DefeatDuel] Наносит на 80% меньше урона и не может Оглушить целей\n[EndSkill] Заканчивает этот ход",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 10 [Combustion:`Огня`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Активирует [Combustion:`Огонь`] 2 раза и понижает его счётчик на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

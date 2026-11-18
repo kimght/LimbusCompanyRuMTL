@@ -205,7 +205,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [AttackDown:`Понижение уровня атаки`] на следующй ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 [AttackDown:`Понижение уровня атаки`] на следующий ход"
                 }
               ]
             }
@@ -225,7 +225,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующй ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующий ход"
                 }
               ]
             }
@@ -244,21 +244,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующй ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующй ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующй ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 [AttackDown:`Понижения уровня атаки`] на следующий ход"
                 }
               ]
             }

@@ -331,6 +331,14 @@
     {
       "id": "UnitKeyword_LE_KHAKI",
       "content": "Ле Хаки"
+    },
+    {
+      "id": "UnitKeyword_WEDGE",
+      "content": "Офис Клина"
+    },
+    {
+      "id": "UnitKeyword_FIREPUNCH_OFFICE",
+      "content": "Офис Огненного кулака"
     }
   ]
 }

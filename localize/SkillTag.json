@@ -123,7 +123,7 @@
     },
     {
       "id": "BeforeUse",
-      "name": "[Перед использованием]"
+      "name": "<color=#26cfff>[Перед использованием]</color>"
     },
     {
       "id": "WhenUse",
@@ -198,6 +198,9 @@
       "name": "<color=#26cfff>[Конец использования]</color>"
     },
     {
+      "id": "OnBattleEnd",
+      "name": "[Конец боевой фазы]"
+    },{
       "id": "EndBattle",
       "name": "[Конец хода]"
     },

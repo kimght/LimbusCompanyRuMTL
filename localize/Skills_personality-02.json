@@ -3258,7 +3258,7 @@
         {
           "level": 3,
           "name": "Клеймо",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] При 30 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] и отсутствии [CaseOverheating:`Перегретого гроба`] использует альтернативный Защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого (Единожды за ход)</style>\n[WhenUse] Сила монет +1 при 5 и более [Combustion:`Огня`] на себе\n[WhenUse] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает силу своего [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] При 30 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] и отсутствии [CaseOverheating:`Перегретого гроба`] использует альтернативный Защитный навык <color=#fe0101>「Полуденное разъединение」</color> вместо этого (Единожды за ход)</style>\n[WhenUse] Сила монет +1 при 5 и более [Combustion:`Огня`] на себе\n[WhenUse] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает силу своего [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3279,7 +3279,7 @@
         {
           "level": 4,
           "name": "Клеймо",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 6 (Единожды за битву)</style>\n[BeforeUse] При 30 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] и отсутствии [CaseOverheating:`Перегретого гроба`] использует альтернативный Защитный навык <color=#fe0101>「Полуденное расчленение」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5</style> [Combustion:`Огня`] на себе <style=\"highlight\"><nobr>(До 2)</nobr></style>\n[WhenUse] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает силу своего [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[StartBattle] Повышает значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] на 6 (Единожды за битву)</style>\n[BeforeUse] При 30 [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`] и отсутствии [CaseOverheating:`Перегретого гроба`] использует альтернативный Защитный навык <color=#fe0101>「Полуденное разъединение」</color> вместо этого (Единожды за ход)\n[WhenUse] Сила монет +1 <style=\"highlight\">за каждые 5</style> [Combustion:`Огня`] на себе <style=\"highlight\"><nobr>(До 2)</nobr></style>\n[WhenUse] Понижает силу своего [Combustion:`Огня`] на 5 (Единожды за ход)\n[WinDuel] Понижает силу своего [Combustion:`Огня`] ещё на 3 (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -3448,7 +3448,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Полуденное расчленение",
+          "name": "Полуденное разъединение",
           "desc": "※ Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nНаносит на (Процент своих потерянных <color=#00ff9c>ОЗ</color> / 2)% больше урона (До 25%)\n\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Если сумма силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели равна 6 и более, то получает +1 к Силе монет и +2 к Силе в столкновении\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на 2 всем целям этого навыка\n[EndSkill]\n- Тратит до 30 [Combustion:`Огня`] с себя, чтобы восстановить себе (5 + потраченный [Combustion:`Огонь`])% от максимальных <color=#00ff9c>ОЗ</color> (До 35%)\n- Теряет всё накопленное значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]\n- Получает 3 [Firstlight:`Боевого инстинкта`]",
           "coinlist": [
             {
@@ -3482,7 +3482,7 @@
         },
         {
           "level": 4,
-          "name": "Полуденное расчленение",
+          "name": "Полуденное разъединение",
           "desc": "※ Атакует [WideAreaRampage:`Нефокусированным залпом`]\n\nНаносит на (<style=\"highlight\">Процент своих потерянных <color=#00ff9c>ОЗ</color></style>)% больше урона (До <style=\"highlight\">50%</style>)\n<style=\"highlight\">Наносит на (Сила [Combustion:`Огня`] на цели)% больше урона (До 20%; относится к каждой цели отдельно) </style>\n\nАктивирует следующие эффекты при каждом попадании этим навыком:\n- Наносит 1 [Combustion:`Огонь`] или [Vibration:`Тремор`]\n- Если на цели нет [VibrationIgnition:`Тремора — Ожог`], то производит [Switch_Vibration:`Преобразование амплитуды`] в него (Единожды за цель)\n[WhenUse]\n- Сила в столкновении +3\n- Сила монет +1 и Сила в столкновении +2 <style=\"highlight\">за каждые 6</style> единиц в сумме силы [Combustion:`Огня`] и [Vibration:`Тремора`] на главной цели <style=\"highlight\">(До 2 и 4 соответственно) </style>\n- Повышает счётчик [Combustion:`Огня`] и [Vibration:`Тремора`] на <style=\"highlight\">3</style> всем целям этого навыка\n[EndSkill]\n- Тратит до 30 [Combustion:`Огня`] с себя, чтобы восстановить себе (<style=\"highlight\">20</style> + потраченный [Combustion:`Огонь`])% от максимальных <color=#00ff9c>ОЗ</color> (До <style=\"highlight\">50%</style>)\n- Теряет всё накопленное значение [StigmaWorkshopCelloCaseOne:`Гроба огненной бабочки`]\n- Получает 3 [Firstlight:`Боевого инстинкта`]",
           "coinlist": [
             {

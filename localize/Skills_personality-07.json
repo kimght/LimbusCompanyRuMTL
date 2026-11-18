@@ -3308,7 +3308,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3321,7 +3321,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3334,7 +3334,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3344,7 +3344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]</style>"
@@ -3367,7 +3367,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3380,7 +3380,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3393,7 +3393,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 2"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": ""
@@ -3403,7 +3403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 1 [NiddlePinAlly:`Гвоздиглу`](;NiddlePin) за каждого имеющегося [NeedlekinAlly:`Иглолюда`]"
@@ -3468,7 +3468,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },
@@ -3478,7 +3478,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик своей [ChargeRougeAlly:`Пульсации`](;ChargeRouge) на 3 (Единожды за навык)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration:`Кровотечение`]"
                 }
               ]
             },

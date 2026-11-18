@@ -2163,6 +2163,30 @@
     {
       "id": "introduce_sentence_271",
       "content": "Вам стоило {0}, знаете ли?"
+    },
+    {
+      "id": "introduce_word_272",
+      "content": "Клин"
+    },
+    {
+      "id": "introduce_sentence_272",
+      "content": "Принять построение {0}!"
+    },
+    {
+      "id": "introduce_word_273",
+      "content": "Продление страховки"
+    },
+    {
+      "id": "introduce_sentence_273",
+      "content": "Пожалуйста, скажи, что ты не забыл(-а) про скорое(-ые/-го) {0}."
+    },
+    {
+      "id": "introduce_word_274",
+      "content": "Клятва(ы)"
+    },
+    {
+      "id": "introduce_sentence_274",
+      "content": "Этот меч, заточенный несдержанным(-и) {0}..."
     }
   ]
 }

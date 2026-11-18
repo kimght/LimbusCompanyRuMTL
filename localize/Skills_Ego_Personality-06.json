@@ -1286,6 +1286,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2061111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "<b>[SupportAlly:`Двойственный`] навык</b>\n\nНаносит на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 20)% больше урона\n[CantChangeTarget]\n[BeforeAttack]\n- Если целью является противник, Количество целей +2\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- При максимальном значении [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) полностью тратит её, чтобы получить [CriticalDamageUp:`Повышение Критического урона`] на следующий ход\n[EndSkill] Получает 1 [DespairKnightEGOSword:`Заточенный слезами меч`](;SwordCutWithTear) и 100 [DespairKnightEGOMind:`Выцветшая гордость`](;DespairAlly)\n[EndSkill] Если целью являлась другая Идентичность:\n- Если она способна использовать [Breath:`Дыхание`] или [Charge:`Заряд`], то даёт ей 2 [AttackDmgUp:`Повышения урона`]\n- Даёт ей [DespairKnightEGOProtect:`Верную защиту рыцаря`](;KnightBless) и 5 [Breath:`Дыхание`], а также повышает счётчик её [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Даёт ей <color=#366ffb>OЗ Щита</color> в размере 20% от своих максимальных <color=#00ff9c>ОЗ</color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "<b>[SupportAlly:`Двойственный`] навык</b>\n\nНаносит на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × <style=\"highlight\">30</style>)% больше урона\n<style=\"highlight\">Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 50)% больше урона</style>\n[CantChangeTarget]\n[BeforeAttack]\n- Если целью является противник, Количество целей +2\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- При максимальном значении [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) полностью тратит её, чтобы получить [CriticalDamageUp:`Повышение Критического урона`] на следующий ход\n[EndSkill] Получает 1 [DespairKnightEGOSword:`Заточенный слезами меч`](;SwordCutWithTear) и 100 [DespairKnightEGOMind:`Выцветшая гордость`](;DespairAlly)\n[EndSkill] Если целью являлась другая Идентичность:\n- Если она способна использовать [Breath:`Дыхание`] или [Charge:`Заряд`], то даёт ей 2 [AttackDmgUp:`Повышения урона`]\n- Даёт ей [DespairKnightEGOProtect:`Верную защиту рыцаря`](;KnightBless) и 5 [Breath:`Дыхание`], а также повышает счётчик её [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Даёт ей <color=#366ffb>OЗ Щита</color> в размере 20% от своих максимальных <color=#00ff9c>ОЗ</color>\n<style=\"highlight\">- Восстанавливает ей и себе 15 <color=#80c9ff>СД</color></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "<b>[SupportAlly:`Двойственный`] навык</b>\n\nНаносит на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × <style=\"highlight\">50</style>)% больше урона\nНаносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">50</style>)% больше урона\n[CantChangeTarget]\n[BeforeAttack]\n- Если целью является противник, Количество целей +2\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- При максимальном значении [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) полностью тратит её, чтобы получить [CriticalDamageUp:`Повышение Критического урона`] на следующий ход\n[EndSkill] Получает 1 [DespairKnightEGOSword:`Заточенный слезами меч`](;SwordCutWithTear) и 100 [DespairKnightEGOMind:`Выцветшая гордость`](;DespairAlly)\n[EndSkill] Если целью являлась другая Идентичность:\n- Если она способна использовать [Breath:`Дыхание`] или [Charge:`Заряд`], то даёт ей 2 [AttackDmgUp:`Повышения урона`]\n- Даёт ей [DespairKnightEGOProtect:`Верную защиту рыцаря`](;KnightBless) и 5 [Breath:`Дыхание`], а также повышает счётчик её [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Даёт ей <color=#366ffb>OЗ Щита</color> в размере 20% от своих максимальных <color=#00ff9c>ОЗ</color>\n- Восстанавливает ей и себе 15 <color=#80c9ff>СД</color>\n<style=\"highlight\">- Убирает с неё 1 случайный снимаемый негативный эффект</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">На 30% больше урона при Критическом попадании</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "[CantIdentify] (Случайные цели)\nИтоговая сила повышается на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 2) (До 6)\n[BeforeAttack]\n- Наносит на (Текущее значение [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) / 10)% больше урона\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Базовая сила -3 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До 9)\n[EndSkill]\n- Восстанавливает себе (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 5) <color=#80c9ff>СД</color> и теряет этот эффект\n- Теряет всю [DespairKnightEGOMind:`Выцветшую гордость`](;DespairAlly)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "[CantIdentify] (Случайные цели)\nИтоговая сила повышается на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 2) (До 6)\n<style=\"highlight\">Наносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × 30)% больше урона</style>\n[BeforeAttack]\n- Наносит на (Текущее значение [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) / 10)% больше урона\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Базовая сила -3 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До 9)\n[EndSkill]\n- Восстанавливает себе (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 5) <color=#80c9ff>СД</color> и теряет этот эффект\n- Теряет всю [DespairKnightEGOMind:`Выцветшую гордость`](;DespairAlly)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Получает 1 [IndigoDamageUp:`Повышение урона Гордыней`] на следующий ход (Единожды за ход)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Меч, заточенный слезами",
+          "abName": "Рыцарь отчаяния",
+          "desc": "[CantIdentify] (Случайные цели)\n<style=\"highlight\">Итоговая сила +3 при максимальном значении [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly)</style>\nИтоговая сила повышается на (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × <style=\"highlight\">3</style>) (До <style=\"highlight\">9</style>)\nНаносит на (Излишнее Количество целей этого навыка по сравнению с фактическим × <style=\"highlight\">50</style>)% больше урона\n<style=\"highlight\">Наносит на 10% больше урона за каждую мёртвую Идентичность</style>\n[BeforeAttack]\n- Наносит на (Текущее значение [DespairKnightEGOMind:`Выцветшей гордости`](;DespairAlly) / 10)% больше урона\n- Повышает счётчик своего [Breath:`Дыхания`] на 3 и [Charge:`Заряда`] на 6\n- Базовая сила -3 за каждую расколотую в столкновении [SuperCoin:`Вечную монету`] (До 9)\n[EndSkill]\n- Восстанавливает себе (Текущее значение [DespairKnightEGOSword:`Заточенного слезами меча`](;SwordCutWithTear) × 5) <color=#80c9ff>СД</color> и теряет этот эффект\n- Теряет всю [DespairKnightEGOMind:`Выцветшую гордость`](;DespairAlly)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin:`Вечная монета`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">На 30% больше урона при Критическом попадании</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Наносит 1 [PenetrateTakeDamageUp:`Уязвимость к Пронзающему урону`] на следующий ход</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 [IndigoDamageUp:`Повышение урона Гордыней`] на следующий ход (Единожды за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

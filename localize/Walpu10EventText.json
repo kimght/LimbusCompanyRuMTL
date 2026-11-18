@@ -1,0 +1,280 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu10_reward_event_desc",
+      "content": "Выполняйте задания в битвах Лёгкой и Тяжёлой сложности 10-й Вальпургиевой ночи.\n\nЗавершайте задания, чтобы получить разнообразные награды."
+    },
+    {
+      "id": "Walpu10_reward_normal_tab",
+      "content": "[font=mikodacs]Лёгкая сложность"
+    },
+    {
+      "id": "Walpu10_reward_hard_tab",
+      "content": "[font=mikodacs]Тяжёлая сложность"
+    },
+    {
+      "id": "missionConditionTitle_10159",
+      "content": "Завершить приём, одолев всех Корректировщиков Офиса «Рассвета»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10159",
+      "content": "Завершить приём, одолев всех ???"
+    },
+    {
+      "id": "missionConditionTitle_10160",
+      "content": "Завершить приём, одолев всех Корректировщиков Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10160",
+      "content": "Завершить приём, одолев всех ???"
+    },
+    {
+      "id": "missionConditionTitle_10161",
+      "content": "Завершить приём Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10161",
+      "content": "Завершить приём ???"
+    },
+    {
+      "id": "missionConditionTitle_10162",
+      "content": "Завершить приём, ни разу не достигнув 5 единиц значения эффекта [PhilipWax:`Эмоции неопределённой печали`] на Грешнике"
+    },
+    {
+      "id": "missionConditionTitle_hidden_10162",
+      "content": "Завершить приём, ни разу не достигнув 5 ???"
+    },
+    {
+      "id": "missionConditionTitle_10163",
+      "content": "Завершить приём так, чтобы Грешник с эффектом [PatronLibrarianofHistorysPage:`Библиотекаря-покровителя`](#e2b15f) выиграл 10 и более столкновений"
+    },
+    {
+      "id": "missionConditionTitle_10164",
+      "content": "Завершить приём так, чтобы Грешник с эффектом [PatronLibrarianofHistorysPage:`Библиотекаря-покровителя`](#e2b15f) одолел 2 или более врагов"
+    },
+    {
+      "id": "missionConditionTitle_10165",
+      "content": "Завершить приём, достигнув [EmotionLevelTwo:`Второго уровня эмоций`]"
+    },
+    {
+      "id": "missionConditionTitle_10166",
+      "content": "Завершить приём с менее чем 5 активациями [ComboSkill:`Совместных комбо`] Корректировщиков Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_10167",
+      "content": "Завершить приём, нанеся не менее 300 урона одному врагу за 1 Атакующий навык (Включая ЭГО и Контратаки)"
+    },
+    {
+      "id": "missionConditionTitle_10168",
+      "content": "Завершить приём без потерь среди Грешников"
+    },
+    {
+      "id": "missionConditionTitle_10169",
+      "content": "Завершить приём так, чтобы <color=#80c9ff>СД</color> ни одного из Грешников не опускалась до -45"
+    },
+    {
+      "id": "missionConditionTitle_10170",
+      "content": "Завершить приём так, чтобы Грешники были Оглушены менее 5 раз"
+    },
+    {
+      "id": "missionConditionTitle_20080",
+      "content": "Завершить приём, одолев всех Корректировщиков Офиса «Рассвета»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20080",
+      "content": "Завершить приём, одолев всех ???"
+    },
+    {
+      "id": "missionConditionTitle_20081",
+      "content": "Завершить приём, одолев всех Корректировщиков Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20081",
+      "content": "Завершить приём, одолев всех ???"
+    },
+    {
+      "id": "missionConditionTitle_20082",
+      "content": "Завершить приём Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20082",
+      "content": "Завершить приём ???"
+    },
+    {
+      "id": "missionConditionTitle_20083",
+      "content": "Завершить приём, ни разу не достигнув 5 единиц значения эффекта [PhilipWax:`Эмоции неопределённой печали`] на Грешнике"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20083",
+      "content": "Завершить приём, ни разу не достигнув 5 ???"
+    },
+    {
+      "id": "missionConditionTitle_20084",
+      "content": "Завершить приём так, чтобы Грешник с эффектом [PatronLibrarianofHistorysPage:`Библиотекаря-покровителя`](#e2b15f) выиграл 10 и более столкновений"
+    },
+    {
+      "id": "missionConditionTitle_20085",
+      "content": "Завершить приём так, чтобы Грешник с эффектом [PatronLibrarianofHistorysPage:`Библиотекаря-покровителя`](#e2b15f) одолел 3 или более врагов"
+    },
+    {
+      "id": "missionConditionTitle_20086",
+      "content": "Завершить приём, хотя бы 1 раз победив в столкновении против навыка Филипа <color=#fe0101>「Пылающий удар」</color>"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20086",
+      "content": "Завершить приём, хотя бы 1 раз победив в столкновении против навыка ???"
+    },
+    {
+      "id": "missionConditionTitle_20087",
+      "content": "Завершить приём, достигнув [EmotionLevelThree:`Третьего уровня эмоций`]"
+    },
+    {
+      "id": "missionConditionTitle_20088",
+      "content": "Завершить приём, нанеся не менее 300 урона одному врагу за 1 Атакующий навык (Включая ЭГО и Контратаки)"
+    },
+    {
+      "id": "missionConditionTitle_20089",
+      "content": "Завершить приём с менее чем 5 активациями [ComboSkill:`Совместных комбо`] Корректировщиков Офиса «Клина»"
+    },
+    {
+      "id": "missionConditionTitle_20090",
+      "content": "Завершить приём, одолев <b>Памели</b> и <b>Памелу</b> за один и тот же ход"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20090",
+      "content": "Завершить приём, одолев ??? и ??? за один и тот же ход"
+    },
+    {
+      "id": "missionConditionTitle_20091",
+      "content": "Завершить приём, одолев <b>Юну</b> под действием эффекта [LoneFixer:`Одинокого корректировщика`]"
+    },
+    {
+      "id": "missionConditionTitle_hidden_20091",
+      "content": "Завершить приём, одолев ??? под действием эффекта ???"
+    },
+    {
+      "id": "missionConditionTitle_20092",
+      "content": "Завершить приём без потерь среди Грешников"
+    },
+    {
+      "id": "missionConditionTitle_20093",
+      "content": "Завершить приём так, чтобы <color=#80c9ff>СД</color> ни одного из Грешников не опускалась до -45"
+    },
+    {
+      "id": "missionConditionTitle_20094",
+      "content": "Выполнить все задания на Лёгкой и Тяжёлой сложности"
+    },
+    {
+      "id": "walpu_battle_3_wave",
+      "content": "Этаж Истории"
+    },
+    {
+      "id": "walpu_battle_name_10574",
+      "content": "Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "walpu_battle_name_10575",
+      "content": "Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "walpu_battle_name_10576",
+      "content": "Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "walpu_battle_name_10577",
+      "content": "Офиса «Рассвета» / Офиса «Клина»"
+    },
+    {
+      "id": "walpu_battle_result_win_3",
+      "content": "Приём {0} завершён"
+    },
+    {
+      "id": "walpu_battle_result_lose_3",
+      "content": "Приём {0} провален"
+    },
+    {
+      "id": "mainui_battleresult_win_lor_stage_type_3",
+      "content": "Приём завершён"
+    },
+    {
+      "id": "mainui_battleresult_defeat_lor_stage_type_3",
+      "content": "Приём провален"
+    },
+    {
+      "id": "Walpu10_normal_stage_name",
+      "content": "Отправить приглашение"
+    },
+    {
+      "id": "Walpu10_hard_stage_name",
+      "content": "Отправить приглашение"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_title",
+      "content": "10-я Вальпургиева ночь"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_title_01",
+      "content": "10-я Вальпургиева ночь"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_01_desc_01",
+      "content": "[10-я Вальпургиева ночь] открывается вне зависимости от вашего прогресса в Основном сюжете. Войти можно через баннер события в главном Окне или во вкладке Водителя."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_02_title_01",
+      "content": "Период события"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_02_desc_01",
+      "content": "Здесь отображается время проведения события «10-я Вальпургиева ночь». В течение события выполняйте задания в битвах Лёгкой и Высокой сложности и забирайте награды."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_title_01",
+      "content": "Бой Лёгкой сложности"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_desc_01",
+      "content": "Выберите дверь, чтобы начать бой Лёгкой сложности. При входе расходуется Модуль энкефалина. На Лёгкой сложности все выбранные Идентичности ниже 65-го уровня будут повышены до 65-го уровня. Также все Идентичности и ЭГО ниже 3-го уровня связи будут повышены до 3-го уровня связи."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_title_02",
+      "content": "Бой Тяжёлой сложности"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_03_desc_02",
+      "content": "Прохождение боя Лёгкой сложности открывает Тяжёлую сложность. На Тяжёлой сложности учитываются текущие Уровни Идентичностей и Уровни связи ваших Идентичностей и ЭГО."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_04_title_01",
+      "content": "Библиотекарь-покровитель [Этаж Истории]"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_04_desc_01",
+      "content": "Грешник №1, выбранный в меню команды, получит эффект [PatronLibrarianofHistorysPage:`Библиотекаря-покровителя 【Этаж истории】`](#e2b15f). Грешник с этим эффектом получает дополнительные слоты навыков и прочие полезные усиления."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_05_title_01",
+      "content": "Задания"
+    },
+    {
+      "id": "tutorial_mainui_walpu10_05_desc_01",
+      "content": "Вы можете открыть вкладку [Задания], где представлен список заданий для выполнения в бою и награды за них."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_01",
+      "content": "Срок получения наград указан на странице [Задания]."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_02",
+      "content": "У Лёгкой и Высокой сложности разные наборы заданий."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_06_desc_03",
+      "content": "Выполняйте эти задания и забирайте разнообразные награды на странице [Задания]."
+    },
+    {
+      "id": "tutorial_mainui_walpu10_07_desc_01",
+      "content": "Даже после полного завершения события вы сможете в любое время вновь пройти битвы «10-й Вальпургиевой ночи» в меню Водителя и пересмотреть сюжет в Театре — [Поездки]."
+    }
+  ]
+}

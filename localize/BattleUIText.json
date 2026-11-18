@@ -875,6 +875,10 @@
     {
       "id": "battle_operation_player_support",
       "content": "Поддержка"
+    },
+    {
+      "id": "PassiveSynergyConditionCount",
+      "content": "{0}"
     }
   ]
 }

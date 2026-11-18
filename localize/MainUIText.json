@@ -557,6 +557,10 @@
       "content": "Открытие пассивки"
     },
     {
+      "id": "mainui_synergy_addition",
+      "content": "Открытие синергии"
+    },
+    {
       "id": "mainui_ego_awaken_skill_reinforcement",
       "content": "Пробуждение ЭГО обновлено"
     },
@@ -611,6 +615,10 @@
     {
       "id": "mainui_new_support_passive_acquisition",
       "content": "Новая пассивка Поддержки: [{0}]"
+    },
+    {
+      "id": "mainui_new_synergy_acquisition",
+      "content": "Новая Синергия: [{0}]"
     },
     {
       "id": "mainui_skill_reinforcement",
@@ -2083,6 +2091,14 @@
     {
       "id": "mainui_exp_dungeon_18_open_day",
       "content": "Светодобыча опыта #10 (Дробящий) открывается в ПТ, СБ, и ВС."
+    },
+    {
+      "id": "unitinfo_tab_synergy",
+      "content": "Синергия"
+    },
+    {
+      "id": "unitinfo_synergy_unsatisfied",
+      "content": "{0} условие(я) не выполнено"
     }
   ]
 }
