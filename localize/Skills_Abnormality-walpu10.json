@@ -743,7 +743,7 @@
         {
           "level": 1,
           "name": "Перевести дух",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Breath:`Дыхания`] (До 2)\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] and 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Breath:`Дыхания`] (До 2)\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] и 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
