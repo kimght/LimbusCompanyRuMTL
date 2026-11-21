@@ -1,26 +1,26 @@
-﻿# Original: <Anybody know what this is...? Must have something to do with broadcasting since we're in the PA room.>
+﻿# Dante: <Anybody know what this is...? Must have something to do with broadcasting since we're in the PA room.>
 Данте: <Кто-нибудь знает, что это...? Должно быть, что-то связанное с трансляцией, раз мы в Комнате оповещения.>
 
-# Original: This appears to be a form of manual communication switchboard, Executive Manager.
+# Outis: This appears to be a form of manual communication switchboard, Executive Manager.
 Отис: По всей видимости, это разновидность ручного телефонного коммутатора, Исполнительный Менеджер.
 
-# Original: What's a communication switchboard?
+# Sinclair: What's a communication switchboard?
 Синклер: А что такое телефонный коммутатор?
 
-# Original: A device used to manage and connect circuits of telephones.
+# Outis: A device used to manage and connect circuits of telephones.
 Отис: Устройство для управления телефонными линиями и их соединения.
 
-# Original: I've never seen anything like this... So phones used to have to go through these to connect?
+# Sinclair: I've never seen anything like this... So phones used to have to go through these to connect?
 Синклер: Никогда ничего подобного не видел... Значит, раньше для соединения телефонов нужны были такие устройства?
 
-# Original: These have mostly gone out of use nowadays. I've not seen one in a long time myself, in fact. Used to have a similar device back in... the CCC, or the Command and Control Center.
+# Outis: These have mostly gone out of use nowadays. I've not seen one in a long time myself, in fact. Used to have a similar device back in... the CCC, or the Command and Control Center.
 Отис: В наши дни они почти вышли из употребления. Я и сама, признаться, давно их не видела. У нас было похожее устройство в... ЦУК, Центре управления и контроля.
 
-# Original: Wired access via the manual switchboard allows for a much more stable connection as long as the wires are intact, meaning that it maintains operational capacity even in adverse communication conditions caused by devices such as signal jammers.
+# Meursault: Wired access via the manual switchboard allows for a much more stable connection as long as the wires are intact, meaning that it maintains operational capacity even in adverse communication conditions caused by devices such as signal jammers.
 Мерсо: Проводное подключение через ручной коммутатор обеспечивает гораздо более устойчивую связь при условии целостности проводов. Это означает, что он сохраняет работоспособность даже в неблагоприятных условиях связи, вызванных работой таких устройств, как подавители сигнала.
 
-# Original: Precisely. Which explains its longevity in the military context.
+# Outis: Precisely. Which explains its longevity in the military context.
 Отис: Именно. Это и объясняет, почему в военной сфере их использовали так долго.
 
-# Original: Though dealing with the wide network of wires was always a headache for my men...
+# Outis: Though dealing with the wide network of wires was always a headache for my men...
 Отис: Хотя возня с обширной сетью проводов всегда была головной болью для моих подчинённых...

@@ -1,263 +1,263 @@
-# Original: 'The deceased employee's corpse has been collected and transported to a designated site within the Research Facility.'
+# Narrator: 'The deceased employee's corpse has been collected and transported to a designated site within the Research Facility.'
 Narrator: «Тело погибшего сотрудника было изъято и доставлено в специально отведённую зону Исследовательского комплекса.»
 
-# Original: The LCE's death certificates are honest and straightforward. These cold, emotionless documents do not mince words as they record the facts, and nothing but the facts.
+# Narrator: The LCE's death certificates are honest and straightforward. These cold, emotionless documents do not mince words as they record the facts, and nothing but the facts.
 Narrator: Свидетельства о смерти в LCE честны и прямолинейны. Эти холодные, лишённые эмоций документы не подбирают выражений — они фиксируют факты, и ничего кроме фактов.
 
-# Original: ... And their facts don't need to bother themselves with convincing the reader.
+# Narrator: ... And their facts don't need to bother themselves with convincing the reader.
 Narrator: ...И их фактам нет нужды заботиться о том, чтобы убедить читателя.
 
-# Original: Take, for example, the word "corpse." What other interpretation could it possibly have?
+# Narrator: Take, for example, the word "corpse." What other interpretation could it possibly have?
 Narrator: Возьмём, к примеру, слово «тело». Какое иное толкование у него может быть?
 
-# Original: I read the document again and again, but its meaning stays the same.
+# Narrator: I read the document again and again, but its meaning stays the same.
 Narrator: Я перечитываю документ снова и снова, но его смысл остаётся прежним.
 
-# Original: Excuse me, Gregor. Do you have a minute?
+# ???: Excuse me, Gregor. Do you have a minute?
 ???: Прошу прощения, Грегор. У вас есть минутка?
 
-# Original: Hm. You're...
+# Gregor: Hm. You're...
 Gregor: Хм. Вы...
 
-# Original: Who are you again? Don't think I've seen you around here before.
+# Gregor: Who are you again? Don't think I've seen you around here before.
 Gregor: Кто вы такой? Не припоминаю, чтобы видел вас здесь раньше.
 
-# Original: Ah, I'm from HR Management Team 2. My name is—
+# ???: Ah, I'm from HR Management Team 2. My name is—
 ???: Ах, я из отдела кадров 2. Меня зовут—
 
-# Original: Oh, I remember you now, sort of. So if you don't mind, please save the small talk for later and get straight to the point: what do you want?
+# Gregor: Oh, I remember you now, sort of. So if you don't mind, please save the small talk for later and get straight to the point: what do you want?
 Gregor: А, кажется, я вас всё-таки припоминаю. Так что, будьте любезны, оставьте светские беседы на потом и перейдите к делу: что вам нужно?
 
-# Original: I've been informed that most of your research personnel have been killed, Gregor.
+# ???: I've been informed that most of your research personnel have been killed, Gregor.
 ???: Мне сообщили, что большая часть вашего исследовательского персонала погибла, Грегор.
 
-# Original: I slid the death certificate into my desk drawer.
+# Narrator: I slid the death certificate into my desk drawer.
 Narrator: Я убрал свидетельство о смерти в ящик стола.
 
-# Original: Right. Yi Sang is dead. He died to lure certain death away from me.
+# Narrator: Right. Yi Sang is dead. He died to lure certain death away from me.
 Narrator: Верно. И Сан мёртв. Он погиб, спасая меня от неминуемой гибели.
 
-# Original: But his decision couldn't have been more rational.
+# Narrator: But his decision couldn't have been more rational.
 Narrator: Но его решение было как нельзя более рациональным.
 
-# Original: While I floundered, letting the emotions get the better of me, he exercised reason and came up with something more logical than that ridiculous plan I'd thrown together. And his decision to overrule me saved many more lives than I would've.
+# Narrator: While I floundered, letting the emotions get the better of me, he exercised reason and came up with something more logical than that ridiculous plan I'd thrown together. And his decision to overrule me saved many more lives than I would've.
 Narrator: Пока я метался, позволяя эмоциям взять верх, он проявил холодный рассудок и нашёл решение куда логичнее того нелепого плана, что я наспех сколотил. И его решение отвергнуть мой план спасло куда больше жизней, чем спас бы я.
 
-# Original: I heard about Yi Sang. That he raised his E.G.O Attunement to unsafe levels to save you, Gregor...
+# ???: I heard about Yi Sang. That he raised his E.G.O Attunement to unsafe levels to save you, Gregor...
 ???: Я слышал об И Сане. Что он поднял Синхронизацию с ЭГО до опасного уровня, чтобы спасти вас, Грегор...
 
-# Original: LCE E.G.O::Lantern specializes in luring its targets.
+# Narrator: LCE E.G.O::Lantern specializes in luring its targets.
 Narrator: LCE ЭГО::Фонарь специализируется на заманивании целей.
 
-# Original: Yi Sang's decision could not have been more logical. He had the aptitude to maximize that E.G.O Gear's Attunement level, and I had the expertise to repair the facility faster than anyone there could.
+# Narrator: Yi Sang's decision could not have been more logical. He had the aptitude to maximize that E.G.O Gear's Attunement level, and I had the expertise to repair the facility faster than anyone there could.
 Narrator: Решение И Сана было как нельзя более логичным. У него были способности, чтобы довести уровень Синхронизации этого Снаряжения ЭГО до максимума, а у меня — навыки, чтобы починить объект быстрее, чем кто-либо другой.
 
-# Original: Yes. It's thanks to him that I had enough time to finish the repairs.
+# Gregor: Yes. It's thanks to him that I had enough time to finish the repairs.
 Gregor: Да. Благодаря ему у меня было достаточно времени, чтобы завершить ремонт.
 
-# Original: Every death is weighed for its worth.
+# Narrator: Every death is weighed for its worth.
 Narrator: Каждая смерть взвешивается на предмет её ценности.
 
-# Original: A noble death. An honorable death. Those are valuable, top-shelf deaths. There are cheap ones too, often accompanied by crude expressions like "croaking."
+# Narrator: A noble death. An honorable death. Those are valuable, top-shelf deaths. There are cheap ones too, often accompanied by crude expressions like "croaking."
 Narrator: Благородная смерть. Почётная смерть. Это ценные, первосортные смерти. Бывают и дешёвые — их обычно сопровождают грубые выражения вроде «загнулся».
 
-# Original: The scale that weighed his death read "sacrifice."
+# Narrator: The scale that weighed his death read "sacrifice."
 Narrator: Весы, взвесившие его смерть, показали «жертва».
 
-# Original: One might wonder what meaning this would hold for the deceased, but this price tag is for those who remain. It exists to give them a reason.
+# Narrator: One might wonder what meaning this would hold for the deceased, but this price tag is for those who remain. It exists to give them a reason.
 Narrator: Можно задаться вопросом, какое значение это имело бы для покойного, но этот ценник — для тех, кто остался. Он существует, чтобы дать им причину.
 
-# Original: A reason to stop grieving.
+# Narrator: A reason to stop grieving.
 Narrator: Причину перестать горевать.
 
-# Original: Or a reason to live on.
+# Narrator: Or a reason to live on.
 Narrator: Или причину жить дальше.
 
-# Original: I know you're still mourning your losses and everything... but we can't leave those seats vacant forever, you understand.
+# ???: I know you're still mourning your losses and everything... but we can't leave those seats vacant forever, you understand.
 ???: Я понимаю, что вы всё ещё оплакиваете потери и всё такое... но мы не можем оставлять эти места вакантными вечно, вы ведь понимаете.
 
-# Original: Huh. Well. I suppose you can't.
+# Gregor: Huh. Well. I suppose you can't.
 Gregor: Хм. Что ж. Полагаю, не можете.
 
-# Original: With that out of the way, I thought I might come to you for some advice and ask if you have anyone to recommend for the positions?
+# ???: With that out of the way, I thought I might come to you for some advice and ask if you have anyone to recommend for the positions?
 ???: Раз уж мы это прояснили, я подумал, что мог бы обратиться к вам за советом и спросить, есть ли у вас кого порекомендовать на эти должности?
 
-# Original: I don't. They'd already be here if I did.
+# Gregor: I don't. They'd already be here if I did.
 Gregor: Нет. Будь у меня такие люди, они бы уже были здесь.
 
-# Original: To be honest, I thought the hiring notices would have already been posted by now.
+# Gregor: To be honest, I thought the hiring notices would have already been posted by now.
 Gregor: Если честно, я думал, что объявления о найме уже давно размещены.
 
-# Original: There's a lot of other stuff to take care of first, like finishing the facility repairs. Oh, also—here, this document's for you. A message from the higher-ups.
+# ???: There's a lot of other stuff to take care of first, like finishing the facility repairs. Oh, also—here, this document's for you. A message from the higher-ups.
 ???: Сначала нужно разобраться с кучей других дел — например, закончить ремонт объекта. Ах, и ещё — вот, этот документ для вас. Распоряжение от руководства.
 
-# Original: It says you are to take some time off. 3 months, give or take. <i>Paid</i> leave.
+# ???: It says you are to take some time off. 3 months, give or take. <i>Paid</i> leave.
 ???: Вам предписано взять отпуск. Месяца на 3, плюс-минус. <i>Оплачиваемый</i> отпуск.
 
-# Original: ... Sounds like that's more than enough time to get my thoughts sorted.
+# Gregor: ... Sounds like that's more than enough time to get my thoughts sorted.
 Gregor: ...Похоже, этого более чем достаточно, чтобы привести мысли в порядок.
 
-# Original: So, 3 months of paid leave it was.
+# Narrator: So, 3 months of paid leave it was.
 Narrator: Итак, 3 месяца оплачиваемого отпуска.
 
-# Original: I accepted the document, collected my rather meager belongings, and packed them neatly into my suitcase.
+# Narrator: I accepted the document, collected my rather meager belongings, and packed them neatly into my suitcase.
 Narrator: Я принял документ, собрал свои весьма скудные пожитки и аккуратно уложил их в чемодан.
 
-# Original: But I wasn't sure where to go from there. I didn't like crowded places, and the City was nothing if not teeming with people in every corner. Where was I to go in a world like this, anyway?
+# Narrator: But I wasn't sure where to go from there. I didn't like crowded places, and the City was nothing if not teeming with people in every corner. Where was I to go in a world like this, anyway?
 Narrator: Но я не был уверен, куда мне идти. Я не любил людные места, а Город — это сплошное скопление людей на каждом углу. Куда мне податься в таком мире?
 
-# Original: Naturally, memories of those who were once with me, in spite of myself, return to answer that question.
+# Narrator: Naturally, memories of those who were once with me, in spite of myself, return to answer that question.
 Narrator: Естественно, воспоминания о тех, кто когда-то был рядом, помимо моей воли возвращаются, чтобы ответить на этот вопрос.
 
-# Original: Someone had once butted into a conversation regarding U Corp.'s Great Lake and said that the shores of S Corp. also had quite the pleasant character to them.
+# Narrator: Someone had once butted into a conversation regarding U Corp.'s Great Lake and said that the shores of S Corp. also had quite the pleasant character to them.
 Narrator: Кто-то однажды влез в разговор о Великом Озере Корпорации U и заявил, что побережье Корпорации S тоже обладает весьма приятным характером.
 
-# Original: That someone then continued, saying that T Corp. isn't such a bad place either for those interested in technology.
+# Narrator: That someone then continued, saying that T Corp. isn't such a bad place either for those interested in technology.
 Narrator: Затем этот кто-то продолжил, сказав, что и Корпорация T — неплохое место для тех, кто интересуется технологиями.
 
-# Original: When I asked what that drab, urban landscape had to offer me, he replied that observing their innovative inventions oft did spark flashes of inspiration.
+# Narrator: When I asked what that drab, urban landscape had to offer me, he replied that observing their innovative inventions oft did spark flashes of inspiration.
 Narrator: Когда я спросил, что мне может предложить этот унылый городской пейзаж, он ответил, что наблюдение за их новаторскими изобретениями нередко пробуждает вспышки вдохновения.
 
-# Original: Now that I'm really thinking about it, perhaps I might need a little more time than 3 months. 3 years—no, more.
+# Gregor: Now that I'm really thinking about it, perhaps I might need a little more time than 3 months. 3 years—no, more.
 Gregor: Теперь, когда я действительно об этом задумался, пожалуй, мне понадобится чуть больше, чем 3 месяца. 3 года — нет, больше.
 
-# Original: Our lives, independent as they might seem, are always accompanied by the presence of others.
+# Narrator: Our lives, independent as they might seem, are always accompanied by the presence of others.
 Narrator: Наши жизни, какими бы независимыми они ни казались, всегда сопровождаются присутствием других.
 
-# Original: It's only natural that they'll all eventually come back to me.
+# Narrator: It's only natural that they'll all eventually come back to me.
 Narrator: Вполне естественно, что все они рано или поздно вернутся ко мне.
 
-# Original: The memories of the dead. Regardless of what triggers them to return.
+# Narrator: The memories of the dead. Regardless of what triggers them to return.
 Narrator: Воспоминания о мёртвых. Вне зависимости от того, что послужит их возвращению.
 
-# Original: So instead of searching for a reason to stop grieving, I decided to search for a <i>way</i> to get over them.
+# Narrator: So instead of searching for a reason to stop grieving, I decided to search for a <i>way</i> to get over them.
 Narrator: Поэтому вместо того, чтобы искать причину перестать горевать, я решил искать <i>способ</i> пережить это.
 
-# Original: This isn't you, Gregor. Why don't we—
+# Team Leader: This isn't you, Gregor. Why don't we—
 Team Leader: Это на тебя не похоже, Грегор. Давай лучше—
 
-# Original: *puff* What, are you goading me into retorting "what <i>am</i> I, really?" or something?
+# Gregor: *puff* What, are you goading me into retorting "what <i>am</i> I, really?" or something?
 Gregor: *пф* Что, подталкиваешь меня к ответу «а какой я <i>на самом деле</i>?», что ли?
 
-# Original: I've long since excluded such anachronistically adolescent lines of thought from contaminating my verbiage ever since I took my first steps. Try to avoid such a poor choice of words if you'd really like to convince me otherwise.
+# Gregor: I've long since excluded such anachronistically adolescent lines of thought from contaminating my verbiage ever since I took my first steps. Try to avoid such a poor choice of words if you'd really like to convince me otherwise.
 Gregor: Я давным-давно исключил подобные анахронично-подростковые ходы мысли из своего лексикона, ещё с тех пор как сделал первые шаги. Постарайся подбирать слова получше, если действительно хочешь меня переубедить.
 
-# Original: Listen—
+# Team Leader: Listen—
 Team Leader: Послушай—
 
-# Original: Tragically for him, I saw little to no improvement in his subsequent word choices.
+# Narrator: Tragically for him, I saw little to no improvement in his subsequent word choices.
 Narrator: К несчастью для него, в его последующих формулировках я не заметил ни малейшего улучшения.
 
-# Original: Instead of letting him ramble on, I placed two documents on the table—first, a request to be included in the mission, and second, a letter of resignation, freshly inked as I had no reason to carry such a thing before.
+# Narrator: Instead of letting him ramble on, I placed two documents on the table—first, a request to be included in the mission, and second, a letter of resignation, freshly inked as I had no reason to carry such a thing before.
 Narrator: Вместо того чтобы позволить ему разглагольствовать, я положил на стол два документа — первый — запрос на включение в миссию, а второй — заявление об увольнении, свежеподписанное, поскольку ранее у меня не было причин носить с собой подобное.
 
-# Original: What is wrong with you?! You know there isn't a single other Corporation in the City other than this one that'll hire someone like you—
+# Team Leader: What is wrong with you?! You know there isn't a single other Corporation in the City other than this one that'll hire someone like you—
 Team Leader: Ты что творишь?! Ты же знаешь, что ни одна другая Корпорация в Городе, кроме этой, не наймёт такого, как ты—
 
-# Original: I'm well aware how stubbornly the stigma of being a fallen Wing's remnant clings to me, how it diminishes my employment prospects in the eyes of corporations.
+# Gregor: I'm well aware how stubbornly the stigma of being a fallen Wing's remnant clings to me, how it diminishes my employment prospects in the eyes of corporations.
 Gregor: Я прекрасно осведомлён, как упорно клеймо пера Павшего Крыла цепляется ко мне и как оно снижает мои шансы на трудоустройство в глазах корпораций.
 
-# Original: But am I not a rather excellent talent despite all that, even for someone like you?
+# Gregor: But am I not a rather excellent talent despite all that, even for someone like you?
 Gregor: Но разве я не весьма ценный кадр, несмотря на всё это, — даже для такого, как ты?
 
-# Original: I'm quite certain I'm competent enough to make a living for myself even if I were to end up leaving the company.
+# Gregor: I'm quite certain I'm competent enough to make a living for myself even if I were to end up leaving the company.
 Gregor: Я вполне уверен, что достаточно компетентен, чтобы прокормить себя, даже если покину компанию.
 
-# Original: Besides, letting me go isn't the only option on the table, you know? Keep reading.
+# Gregor: Besides, letting me go isn't the only option on the table, you know? Keep reading.
 Gregor: К тому же отпустить меня — не единственный вариант на столе, знаешь ли? Читай дальше.
 
-# Original: And that was my one and final chance to use that card.
+# Narrator: And that was my one and final chance to use that card.
 Narrator: Это был мой первый и последний шанс разыграть эту карту.
 
-# Original: The company now knows that I have no qualms about putting forth such a binary choice.
+# Narrator: The company now knows that I have no qualms about putting forth such a binary choice.
 Narrator: Теперь компания знает, что я без колебаний готов поставить подобный бинарный выбор.
 
-# Original: Well, I don't think there's anything else to talk about. Let's adjourn this meeting.
+# Gregor: Well, I don't think there's anything else to talk about. Let's adjourn this meeting.
 Gregor: Что ж, думаю, больше обсуждать нечего. Закрываем совещание.
 
-# Original: W-wait. You can't just leave me to report this to the higher-ups. What am I even supposed to say to—
+# Team Leader: W-wait. You can't just leave me to report this to the higher-ups. What am I even supposed to say to—
 Team Leader: П-подожди. Ты не можешь просто бросить это на меня — докладывать руководству. Что я вообще должен им сказать—
 
-# Original: Relay this conversation exactly as it happened. The facts and nothing but the facts, with no room for subjectivity.
+# Gregor: Relay this conversation exactly as it happened. The facts and nothing but the facts, with no room for subjectivity.
 Gregor: Передай этот разговор в точности так, как он состоялся. Факты и ничего, кроме фактов, без места для субъективности.
 
-# Original: As expected...
+# Narrator: As expected...
 Narrator: Как и ожидалось...
 
-# Original: ... they did not sign my letter of resignation.
+# Narrator: ... they did not sign my letter of resignation.
 Narrator: ...они не подписали моё заявление об увольнении.
 
-# Original: <color=#FAFAF8>A big, scary beast lives in this forest.</color>
+# Narrator: <color=#FAFAF8>A big, scary beast lives in this forest.</color>
 Narrator: <color=#FAFAF8>В лесу живёт большой страшный монстр.</color>
 
-# Original: That statement isn't entirely incorrect.
+# Gregor: That statement isn't entirely incorrect.
 Gregor: Это утверждение не вполне ошибочно.
 
-# Original: But allow me to point out some errors. First is that, while there are plenty of "big, scary beasts" here, this is no forest.
+# Gregor: But allow me to point out some errors. First is that, while there are plenty of "big, scary beasts" here, this is no forest.
 Gregor: Но позвольте указать на некоторые неточности. Во-первых, хотя «больших страшных монстров» здесь хватает, это не лес.
 
-# Original: Oh, no need to explain the concept of metaphors to me. While I've never been much of a lectiophile, I do know that a more appropriate metaphor for this Research Facility is a cave, not a forest.
+# Gregor: Oh, no need to explain the concept of metaphors to me. While I've never been much of a lectiophile, I do know that a more appropriate metaphor for this Research Facility is a cave, not a forest.
 Gregor: О нет, не нужно объяснять мне, что такое метафоры. Хоть я никогда не был большим книголюбом, мне известно, что более подходящей метафорой для этого Исследовательского комплекса была бы пещера, а не лес.
 
-# Original: <color=#FAFAF8>Don't worry. Everyone will be safe as long as I'm here.</color>
+# Narrator: <color=#FAFAF8>Don't worry. Everyone will be safe as long as I'm here.</color>
 Narrator: <color=#FAFAF8>Не волнуйся. Все будут в безопасности, пока я здесь.</color>
 
-# Original: Hm. I regret that I did not, out of some prophetic insanity, decide to wear this E.G.O Gear 27 hours ago. Because I would have had a perfectly logical retort to that statement had I done so.
+# Gregor: Hm. I regret that I did not, out of some prophetic insanity, decide to wear this E.G.O Gear 27 hours ago. Because I would have had a perfectly logical retort to that statement had I done so.
 Gregor: Хм. Я сожалею, что не додумался, в порыве какого-нибудь пророческого безумия, надеть это Снаряжение ЭГО 27 часов назад. Потому что тогда у меня был бы безупречно логичный ответ на это заявление.
 
-# Original: <color=#FAFAF8>I see a perilous child. Let's protect them.</color>
+# Narrator: <color=#FAFAF8>I see a perilous child. Let's protect them.</color>
 Narrator: <color=#FAFAF8>Я вижу дитя в опасности. Давай защитим его.</color>
 
-# Original: That's no child—that's an adult. Adults must learn to look after themselves; overprotectiveness is—
+# Gregor: That's no child—that's an adult. Adults must learn to look after themselves; overprotectiveness is—
 Gregor: Это не дитя — это взрослый. Взрослые должны учиться заботиться о себе сами; чрезмерная опека — это—
 
-# Original: Boss!
+# Researcher: Boss!
 Researcher: Босс!
 
-# Original: …….
+# Gregor: …….
 Gregor: …….
 
-# Original: Sorry about that.
+# Gregor: Sorry about that.
 Gregor: Прошу прощения.
 
-# Original: Are you sure this is a good idea?
+# Researcher: Are you sure this is a good idea?
 Researcher: Вы уверены, что это хорошая идея?
 
-# Original: Why, isn't it plain enough?
+# Gregor: Why, isn't it plain enough?
 Gregor: А что, разве не очевидно?
 
-# Original: Torn and tattered fabric of space shimmers in every corner of the room, courtesy of T-02-21-07.
+# Narrator: Torn and tattered fabric of space shimmers in every corner of the room, courtesy of T-02-21-07.
 Narrator: Разодранная и истрёпанная ткань пространства мерцает в каждом углу комнаты — знак внимания T-02-21-07.
 
-# Original: Despite that, no corner is left untouched by the gaze.
+# Narrator: Despite that, no corner is left untouched by the gaze.
 Narrator: Несмотря на это, ни один угол не остаётся вне поля зрения.
 
-# Original: I watch T-02-21-07's every move as it zips around me, and its form turns into a blur as it travels between the tears in space at incredibly high velocity.
+# Narrator: I watch T-02-21-07's every move as it zips around me, and its form turns into a blur as it travels between the tears in space at incredibly high velocity.
 Narrator: Я слежу за каждым движением T-02-21-07, мечущегося вокруг меня; его силуэт размывается, когда он перемещается между разрывами пространства с невероятной скоростью.
 
-# Original: I watch with the myriad eyes and the singular, piercing eye that can see everything.
+# Narrator: I watch with the myriad eyes and the singular, piercing eye that can see everything.
 Narrator: Я наблюдаю мириадами глаз и одним-единственным пронзительным оком, способным видеть незримое.
 
-# Original: I swing the invisible hammer and block T-02-21-07's approach from one side and fire a predictive shot to the other, piercing the Abnormality with the crossbow bolt.
+# Narrator: I swing the invisible hammer and block T-02-21-07's approach from one side and fire a predictive shot to the other, piercing the Abnormality with the crossbow bolt.
 Narrator: Я замахиваюсь незримым молотом и блокирую приближение T-02-21-07 с одной стороны, а затем делаю упреждающий выстрел в другую сторону, пронзая Аномалию арбалетным болтом.
 
-# Original: Glad I thought to reshape the hammer into a crossbow.
+# Gregor: Glad I thought to reshape the hammer into a crossbow.
 Gregor: Хорошо, что я догадался перековать молот в арбалет.
 
-# Original: As I don't have the aptitude to wield two hammers at once...
+# Gregor: As I don't have the aptitude to wield two hammers at once...
 Gregor: Поскольку у меня нет способностей орудовать двумя молотами одновременно...
 
-# Original: ... the better option is to switch between them and use only one at a time.
+# Gregor: ... the better option is to switch between them and use only one at a time.
 Gregor: ...лучший вариант — переключаться между ними и использовать только один за раз.
 
-# Original: Concluding test now.
+# Researcher: Concluding test now.
 Researcher: Завершаем испытание.
 
-# Original: ... Boss. Are you sure about partaking in the mission?
+# Researcher: ... Boss. Are you sure about partaking in the mission?
 Researcher: ...Босс. Вы точно уверены насчёт участия в миссии?
 
-# Original: Never been more certain. Oh, but don't you even think about tagging along.
+# Gregor: Never been more certain. Oh, but don't you even think about tagging along.
 Gregor: Уверен как никогда. Но даже не вздумай проситься со мной.
 
-# Original: Because there's a beast in that forest.
+# Gregor: Because there's a beast in that forest.
 Gregor: Потому что в том лесу живёт монстр.

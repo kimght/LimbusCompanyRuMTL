@@ -1,23 +1,23 @@
-﻿# Original: ... That wasn't a very pleasant noise.
+﻿# Outis: ... That wasn't a very pleasant noise.
 Отис: ... Не самый приятный звук.
 
-# Original: Are you unhurt, Executive Manager?
+# Outis: Are you unhurt, Executive Manager?
 Отис: Вы не пострадали, Исполнительный Менеджер?
 
-# Original: <I'm a bit rattled by the noise, but... otherwise unhurt.>
+# Dante: <I'm a bit rattled by the noise, but... otherwise unhurt.>
 Данте: <Звук меня немного встряхнул, но... в остальном я цел.>
 
-# Original: <Meursault, on the other hand... got his head exploded.>
+# Dante: <Meursault, on the other hand... got his head exploded.>
 Данте: <А вот у Мерсо... взорвалась голова.>
 
-# Original: It felt as though something were slowly filling and inflating my head.
+# Meursault: It felt as though something were slowly filling and inflating my head.
 Мерсо: Было ощущение, будто нечто медленно заполняет мою голову и раздувает её изнутри.
 
-# Original: Hearing Meursault's placid description of that horrible death, Sinclair scratched the back of his head and awkwardly chimed in.
+# Narrator: Hearing Meursault's placid description of that horrible death, Sinclair scratched the back of his head and awkwardly chimed in.
 Рассказчик: Услышав, как невозмутимо Мерсо описывает свою жуткую смерть, Синклер почесал затылок и неловко вставил реплику.
 
-# Original: Ah... I'm glad I didn't have to go through that. Thanks for telling me to plug my ears, Miss Outis.
+# Sinclair: Ah... I'm glad I didn't have to go through that. Thanks for telling me to plug my ears, Miss Outis.
 Синклер: А... Хорошо, что мне не пришлось через это пройти. Спасибо, что велели мне заткнуть уши, госпожа Отис.
 
-# Original: <That's good. Then... Let's take five and head out again.>
+# Dante: <That's good. Then... Let's take five and head out again.>
 Данте: <Вот и хорошо. Тогда... Передохнём минут пять и снова в путь.>

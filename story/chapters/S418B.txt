@@ -1,212 +1,212 @@
-# Original: Ah, this corridor must be the last. Once we're past here, we'll reach the edge of the facility.
+# Dongrang: Ah, this corridor must be the last. Once we're past here, we'll reach the edge of the facility.
 Донран: А, похоже, это последний коридор. Как только мы пройдем его, мы достигнем края объекта.
 
-# Original: After I retrieve my precious items from there, I'll give you the ownership of the Golden Bough as promised.
+# Dongrang: After I retrieve my precious items from there, I'll give you the ownership of the Golden Bough as promised.
 Донран: После того, как я заберу оттуда свои ценные вещи, я передам вам право собственности на Золотую Ветвь, как и обещал.
 
-# Original: Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up...
+# Rodion: Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up...
 Родион: Чувствую, что это закончится паршиво, ты точно будешь в порядке? Эти террористы, должно быть, реально сбежали, раз никто из них не появился...
 
-# Original: It was part of the contract to reclaim the laboratory.
+# Dongrang: It was part of the contract to reclaim the laboratory.
 Донран: Возвращение лаборатории было частью контракта.
 
-# Original: That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us.
+# Samjo: That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us.
 Самджо: Вот почему я вам постоянно твердил, господин Донран. Когда вы составляете контракт, нужно быть дотошным и расчетливым, и писать его так, чтобы он был в нашу пользу.
 
-# Original: <...Let's get going.>
+# Dante: <...Let's get going.>
 Данте: <...Пойдемте дальше.>
 
-# Original: Fortunately, I didn't see any killing machines here.
+# Narrator: Fortunately, I didn't see any killing machines here.
 Рассказчик: К счастью, здесь я не увидел никаких машин для убийства.
 
-# Original: However, a couple of unwelcome figures appeared in front of us.
+# Narrator: However, a couple of unwelcome figures appeared in front of us.
 Рассказчик: Однако перед нами появилось несколько нежелательных фигур.
 
-# Original: Be on guard, Executive Manager! Someone is ahead of us.
+# Outis: Be on guard, Executive Manager! Someone is ahead of us.
 Отис: Будьте начеку, Исполнительный Менеджер! Впереди кто-то есть.
 
-# Original: <Yeah, but they aren't holding any weapons...>
+# Dante: <Yeah, but they aren't holding any weapons...>
 Данте: <Да, но они не держат оружия...>
 
-# Original: They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!
+# Outis: They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!
 Отис: Они могут быть безоружны, но вы невероятно слабый и хрупкий гражданский, Исполнительный Менеджер!
 
-# Original: <...Um, thanks? Outis?>
+# Dante: <...Um, thanks? Outis?>
 Данте: <...Эм, спасибо? Отис?>
 
-# Original: Can't you count? You clearly outnumber us by a huge margin. Don't be a baby...
+# ???: Can't you count? You clearly outnumber us by a huge margin. Don't be a baby...
 Ран: Что, считать не умеете? Вас явно больше, чем нас, с огромным перевесом. Не будьте детьми...
 
-# Original: Here at last, worms?
+# ???: Here at last, worms?
 Ран: Наконец-то добрались, червяки?
 
-# Original: It's the same voice that played from the machines. And... it's the same face we saw earlier.
+# Sinclair: It's the same voice that played from the machines. And... it's the same face we saw earlier.
 Синклер: Это тот же голос, который звучал из машин. И... то же лицо, которое мы видели раньше.
 
-# Original: Where are your other members, Senior Researcher Ran?
+# Dongrang: Where are your other members, Senior Researcher Ran?
 Донран: Где остальные ваши члены, старший исследователь Ран?
 
-# Original: ...You managed to bring more help in that mess, I see.
+# Ran: ...You managed to bring more help in that mess, I see.
 Ран: ...Вижу, вам удалось привести больше помощи в этом бардаке.
 
-# Original: And put away that "senior" crap, we haven't even known each other for long. Don't you see what's going on?
+# Ran: And put away that "senior" crap, we haven't even known each other for long. Don't you see what's going on?
 Ран: И забудь это "старший", мы даже не так долго знакомы. Разве ты не видишь, что происходит?
 
-# Original: They've all evacuated. And here I am... buying time for them.
+# Ran: They've all evacuated. And here I am... buying time for them.
 Ран: Они все эвакуировались. А я здесь... выигрываю для них время.
 
-# Original: That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?
+# Dongrang: That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?
 Донран: Это интересно... Мы думали, что ворвались неожиданно, но вы знали об этом заранее и сбежали?
 
-# Original: 'Cause you're worms. Look at you, getting all cocky after receiving the best employee award...
+# Ran: 'Cause you're worms. Look at you, getting all cocky after receiving the best employee award...
 Ран: Потому что вы червяки. Посмотри на себя, зазнался после получения награды лучшего сотрудника...
 
-# Original: Raiding here, dare trying to catch us.
+# Ran: Raiding here, dare trying to catch us.
 Ран: Устраиваете здесь рейд, осмеливаетесь пытаться поймать нас.
 
-# Original: You've got a big mouth. You think you're better than us?
+# Heathcliff: You've got a big mouth. You think you're better than us?
 Хитклиф: У тебя слишком большой рот. Думаешь, ты лучше нас?
 
-# Original: You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?
+# Heathcliff: You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?
 Хитклиф: Вас меньше, как ты и сказала. Твоя умная голова, наверное, понимает, что тебе лучше сдаться, а?
 
-# Original: ...Let's say I do. It's clear what you'll do with me.
+# Ran: ...Let's say I do. It's clear what you'll do with me.
 Ран: ...Допустим, я это сделаю. Очевидно, что вы со мной сделаете.
 
-# Original: You'll neutralize me and keep me barely alive...
+# Ran: You'll neutralize me and keep me barely alive...
 Ран: Вы нейтрализуете меня и будете держать едва живой...
 
-# Original: "Curing" me with your flaunted regeneration ampules...
+# Ran: "Curing" me with your flaunted regeneration ampules...
 Ран: "Лечить" меня своими хвалеными регенерационными ампулами...
 
-# Original: Rinse and repeat, until you get the answers you want.
+# Ran: Rinse and repeat, until you get the answers you want.
 Ран: И так по кругу, пока не получите нужные вам ответы.
 
-# Original: Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?
+# Dongrang: Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?
 Донран: Звучит как проблема, которую можно предотвратить, если сразу дать нам ответы. Я прошу слишком многого?
 
-# Original: 'Course you are. Unlike you...
+# Ran: 'Course you are. Unlike you...
 Ран: Конечно, просишь. В отличие от вас...
 
-# Original: We aren't planning to live like roaches that feed on whatever is provided from above.
+# Ran: We aren't planning to live like roaches that feed on whatever is provided from above.
 Ран: Мы не планируем жить как тараканы, питающиеся тем, что дают сверху.
 
-# Original: ...This is really getting on my nerves.
+# Gregor: ...This is really getting on my nerves.
 Грегор: ...Это реально действует мне на нервы.
 
-# Original: Ah, whatever~ I've had enough of toying with you.
+# Ran: Ah, whatever~ I've had enough of toying with you.
 Ран: А, без разницы~ Я наигралась с вами.
 
-# Original: What are you trying to...
+# Samjo: What are you trying to...
 Самджо: Что ты пытаешься...
 
-# Original: That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be.
+# Ran: That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be.
 Ран: Именно, проявляйте любопытство только к тому, что происходит прямо перед вашими глазами. Вот каким должен быть исследователь.
 
-# Original: Ran...
+# Shrenne: Ran...
 Шренн: Ран...
 
-# Original: With an ear-piercing noise, the building was engulfed in an explosion.
+# Narrator: With an ear-piercing noise, the building was engulfed in an explosion.
 Рассказчик: С оглушительным шумом здание охватил взрыв.
 
-# Original: All that remains is a charred stain.
+# Narrator: All that remains is a charred stain.
 Рассказчик: Все, что осталось – это лишь обугленное пятно.
 
-# Original: <Ngh... That hurt a lot.>
+# Dante: <Ngh... That hurt a lot.>
 Данте: <Нгх... Это было очень больно.>
 
-# Original: Are you alright, Mr. Dongrang?
+# Samjo: Are you alright, Mr. Dongrang?
 Самджо: Вы в порядке, господин Донран?
 
-# Original: I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes.
+# Dongrang: I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes.
 Донран: Я в порядке... Кто-то из группы Данте оттолкнул меня, как только раздался взрыв. Знаете, тот тихий парень с пугающим взглядом.
 
-# Original: I was going to do the same, but I was standing too far away.
+# Samjo: I was going to do the same, but I was standing too far away.
 Самджо: Я собирался сделать то же самое, но стоял слишком далеко.
 
-# Original: Whew, that was close.
+# Niko: Whew, that was close.
 Нико: Фух, было близко.
 
-# Original: After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed.
+# Narrator: After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed.
 Рассказчик: Приняв удар на себя ради других, Дон Кихот и Мерсо были отброшены к колоннам, поддерживающим здание, их позвоночники полностью обнажены.
 
-# Original: ...Don Quixote in particular was impaled on a pillar.
+# Narrator: ...Don Quixote in particular was impaled on a pillar.
 Рассказчик: ...Дон Кихот, в частности, была насажена на колонну.
 
-# Original: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
+# Dongrang: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
 Донран: Должно быть, именно вера в то, что они в любой момент вернутся к жизни, побудила их без колебаний броситься в опасность.
 
-# Original: Not out of any sort of friendship or affinity... Isn't that right?
+# Dongrang: Not out of any sort of friendship or affinity... Isn't that right?
 Донран: Не из-за какой-либо дружбы или симпатии... Не так ли?
 
-# Original: Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth.
+# Narrator: Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth.
 Рассказчик: Дон Кихот не могла дать никаких ответов, то ли из-за смерти, то ли из-за острого края, пронзившего ее рот.
 
-# Original: ...Cough.
+# Meursault: ...Cough.
 Мерсо: ...Кхе.
 
-# Original: <Meursault? You were alive...?>
+# Dante: <Meursault? You were alive...?>
 Данте: <Мерсо? Ты был жив...?>
 
-# Original: ...It was my directive to protect the manager and see that the company's mission is accomplished.
+# Meursault: ...It was my directive to protect the manager and see that the company's mission is accomplished.
 Мерсо: ...Моя директива – защищать менеджера и обеспечивать выполнение миссии компании.
 
-# Original: That... must be it, yes.
+# Dongrang: That... must be it, yes.
 Донран: Должно быть... так оно и есть, да.
 
-# Original: How convenient. You can recover your body without using regeneration ampules.
+# Dongrang: How convenient. You can recover your body without using regeneration ampules.
 Донран: Как удобно. Вы можете восстановить свое тело без использования регенерационных ампул.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: <I dunno, the ampule looks handier...>
+# Dante: <I dunno, the ampule looks handier...>
 Данте: <Ну не знаю, ампула кажется удобнее...>
 
-# Original: Right, is Ms. Shrenne alright? And the other Fixers?
+# Samjo: Right, is Ms. Shrenne alright? And the other Fixers?
 Самджо: Верно, а госпожа Шренн в порядке? И другие Корректировщики?
 
-# Original: We're perfectly sound.
+# Niko: We're perfectly sound.
 Нико: Мы в полном порядке.
 
-# Original: Your group blocked the blast for us, so we turned out fine.
+# Shrenne: Your group blocked the blast for us, so we turned out fine.
 Шренн: Ваша группа заблокировала взрыв для нас, так что мы оказались в порядке.
 
-# Original: That's... why you haven't been taking the ampules. That clock had special powers.
+# Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
 Шренн: Вот... почему вы не принимали ампулы. У этих часов были особые силы.
 
-# Original: Indeed. After all, I recruited them after thorough screening and testing.
+# Samjo: Indeed. After all, I recruited them after thorough screening and testing.
 Самджо: Действительно. В конце концов, я нанимал их после тщательной проверки и тестирования.
 
-# Original: I see... Well, darn... All the ampules I brought... are useless now.
+# Shrenne: I see... Well, darn... All the ampules I brought... are useless now.
 Шренн: Понятно... Ну, черт... Все ампулы, которые я принесла... теперь бесполезны.
 
-# Original: For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor.
+# Narrator: For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor.
 Рассказчик: По какой-то причине Шренн издает побежденный смех и роняет ампулы из своей сумки на пол.
 
-# Original: It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power.
+# Narrator: It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power.
 Рассказчик: Это правда... Для них – если смотреть с их точки зрения, исключающей меня – это, конечно, удобная сила.
 
-# Original: Fatal consequences can be reversed, and the only price is me having to bear the pain.
+# Narrator: Fatal consequences can be reversed, and the only price is me having to bear the pain.
 Рассказчик: Фатальные последствия можно обратить вспять, и единственная цена – это то, что мне приходится терпеть боль.
 
-# Original: No, wait.
+# Narrator: No, wait.
 Рассказчик: Нет, подождите.
 
-# Original: Is this really fine?
+# Narrator: Is this really fine?
 Рассказчик: Это действительно нормально?
 
-# Original: And where does this all this time to rewind come from?
+# Narrator: And where does all this time to rewind come from?
 Рассказчик: И откуда берется все это время для перемотки?
 
-# Original: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
+# Heathcliff: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
 Хитклиф: Часо...лицый... Хватит... медлить... Та желтоволосая девчонка умирает...
 
-# Original: Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
+# Narrator: Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
 Рассказчик: Полностью разорванный взрывом, Хитклиф указал на Дон Кихот.
 
-# Original: Hurry up and turn it... This... hurts an awful lot...
+# Heathcliff: Hurry up and turn it... This... hurts an awful lot...
 Хитклиф: Поторопись и поверни их... Это... чертовски больно...
 
-# Original: <...On it.>
+# Dante: <...On it.>
 Данте: <...Уже делаю.>

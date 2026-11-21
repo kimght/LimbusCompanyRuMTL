@@ -1,80 +1,80 @@
-# Original: I'd hoped to offer you a more proper greeting, should we ever meet.
+# ???: I'd hoped to offer you a more proper greeting, should we ever meet.
 Vespa: Я надеялся поприветствовать вас более подобающе, если нам доведется встретиться.
 
-# Original: First impressions matter a great deal, after all.
+# ???: First impressions matter a great deal, after all.
 Vespa: В конце концов, первое впечатление имеет огромное значение.
 
-# Original: Nngh...! Aah...
+# Sora: Nngh...! Aah...
 Sora: Нгх...! А-ах...
 
-# Original: A figure appeared from the direction the weapon had flown in.
+# Narrator: A figure appeared from the direction the weapon had flown in.
 Narrator: Со стороны, откуда прилетело оружие, показалась фигура.
 
-# Original: The man brushed the dust from his coat as he walked in with unbothered ease, looking for all the world like this situation had nothing to do with him whatsoever...
+# Narrator: The man brushed the dust from his coat as he walked in with unbothered ease, looking for all the world like this situation had nothing to do with him whatsoever...
 Narrator: Мужчина стряхнул пыль со своего плаща, входя с невозмутимой легкостью; всем своим видом он показывал, что эта ситуация не имеет к нему ни малейшего отношения...
 
-# Original: Yet his harpoon had already blasted Sora a good distance out of my sight even before the explosive sound could reach me.
+# Narrator: Yet his harpoon had already blasted Sora a good distance out of my sight even before the explosive sound could reach me.
 Narrator: Однако его гарпун уже отбросил Сору далеко за пределы моего поля зрения еще до того, как до меня долетел звук взрыва.
 
-# Original: The situation, however, doesn't seem inclined to give me any room for proper courtesy. Allow me to keep this brief.
+# ???: The situation, however, doesn't seem inclined to give me any room for proper courtesy. Allow me to keep this brief.
 Vespa: Ситуация, однако, похоже, не располагает к проявлению должной учтивости. Позвольте мне быть кратким.
 
-# Original: Vespa Crabro. LCD.
+# Vespa: Vespa Crabro. LCD.
 Vespa: Веспа Крабро. LCD.
 
-# Original: <Ah, this is the guy Ezra mentioned...>
+# Dante: <Ah, this is the guy Ezra mentioned...>
 Dante: <А, это тот парень, о котором упоминала Эзра...>
 
-# Original: Hearing my ticking, Vespa briefly furrowed his brow in puzzlement before checking the watch he pulled from his pocket.
+# Narrator: Hearing my ticking, Vespa briefly furrowed his brow in puzzlement before checking the watch he pulled from his pocket.
 Narrator: Услышав мое тиканье, Веспа на мгновение озадаченно нахмурился, прежде чем свериться с часами, которые достал из кармана.
 
-# Original: I was originally headed for the Team Leader's location...
+# Vespa: I was originally headed for the Team Leader's location...
 Vespa: Изначально я направлялся к местонахождению Лидера...
 
-# Original: But things looked bad enough here that I judged it best to provide a little backup.
+# Vespa: But things looked bad enough here that I judged it best to provide a little backup.
 Vespa: Но здесь дела обстояли настолько скверно, что я счел за лучшее оказать небольшую поддержку.
 
-# Original: The comms are down... The LCD probably isn't in a good spot either. You sure you're fine staying here?
+# Gregor: The comms are down... The LCD probably isn't in a good spot either. You sure you're fine staying here?
 Gregor: Связь не работает... У LCD, вероятно, дела тоже не очень. Ты уверен, что тебе стоит оставаться здесь?
 
-# Original: The Team Leader always tells me it's high time I started thinking and deciding for myself.
+# Vespa: The Team Leader always tells me it's high time I started thinking and deciding for myself.
 Vespa: Лидер всегда говорит мне, что давно пора начать думать и принимать решения самостоятельно.
 
-# Original: It'll be fine. She's not the sort to go down easily against someone on the level of an officer of the Fingers.
+# Vespa: It'll be fine. She's not the sort to go down easily against someone on the level of an officer of the Fingers.
 Vespa: Все будет в порядке. Она не из тех, кто легко проиграет кому-то уровня офицера Пальцев.
 
-# Original: There are two of them... Which one should I take on?
+# Vespa: There are two of them... Which one should I take on?
 Vespa: Их двое... Кого мне взять на себя?
 
-# Original: Go for Glasses. Her E.G.O's a nuisance.
+# Ryōshū: Go for Glasses. Her E.G.O's a nuisance.
 Ryōshū: Займись Очкастой. Её ЭГО мешает.
 
-# Original: Uh... C-could you please call me by my name, not "Glasses?"
+# Sora: Uh... C-could you please call me by my name, not "Glasses?"
 Sora: Э-э... М-можете, пожалуйста, называть меня по имени, а не «Очкастая»?
 
-# Original: ... Are most of the assailants at about their level?
+# Vespa: ... Are most of the assailants at about their level?
 Vespa: ... Большинство нападающих примерно того же уровня?
 
-# Original: Yeah. That, or stronger.
+# Ryōshū: Yeah. That, or stronger.
 Ryōshū: Ага. Или сильнее.
 
-# Original: In that case, I must regrettably go back on what I said earlier. I'm starting to suspect our Team Leader might not be able to last as long as I thought.
+# Vespa: In that case, I must regrettably go back on what I said earlier. I'm starting to suspect our Team Leader might not be able to last as long as I thought.
 Vespa: В таком случае, я вынужден с сожалением взять свои слова назад. Я начинаю подозревать, что наш Лидер, возможно, не сможет продержаться так долго, как я думал.
 
-# Original: This is clearly an extraordinary circumstance, though that isn't anything new. I will wrap things up here ASAP... and return to the LCD team.
+# Vespa: This is clearly an extraordinary circumstance, though that isn't anything new. I will wrap things up here ASAP... and return to the LCD team.
 Vespa: Это явно чрезвычайные обстоятельства, хотя в этом нет ничего нового. Я закончу здесь в кратчайшие сроки... и вернусь к команде LCD.
 
-# Original: Heh. We'll owe you big time if you can do that.
+# Gregor: Heh. We'll owe you big time if you can do that.
 Gregor: Хех. С нас причитается по-крупному, если ты сможешь это сделать.
 
-# Original: …….
+# Dihui Star: …….
 Dihui Star: …….
 
-# Original: The Pinky Nursefather remained perfectly still as she continued to fixate on us with her stare.
+# Narrator: The Pinky Nursefather remained perfectly still as she continued to fixate on us with her stare.
 Narrator: Отец-воспитатель Мизинца стояла совершенно неподвижно, продолжая сверлить нас взглядом.
 
-# Original: She made no attempt to help Sora, nor did she look for another way out.
+# Narrator: She made no attempt to help Sora, nor did she look for another way out.
 Narrator: Она не делала попыток помочь Соре и не искала другого выхода.
 
-# Original: She simply stood there, watching in silence... with the bundle of Golden Boughs in her grasp.
+# Narrator: She simply stood there, watching in silence... with the bundle of Golden Boughs in her grasp.
 Narrator: Она просто стояла там, молча наблюдая... сжимая охапку Золотых Ветвей в руке.

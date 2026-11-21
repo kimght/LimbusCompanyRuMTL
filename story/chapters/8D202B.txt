@@ -1,74 +1,74 @@
-﻿# Original: We noticed a group of people approaching us from a distance.
+﻿# Narrator: We noticed a group of people approaching us from a distance.
 Рассказчик: Мы заметили группу людей, приближающихся к нам издалека.
 
-# Original: Hey, I hear coins jangling... Guess we're about to run into another candidate.
+# Rodion: Hey, I hear coins jangling... Guess we're about to run into another candidate.
 Родион: Эй, слышу, монеты звякают... Похоже, сейчас нарвёмся на очередного кандидата.
 
-# Original: What's that fella so livid about...? I can tell that his face is bright red all the way from over here.
+# Gregor: What's that fella so livid about...? I can tell that his face is bright red all the way from over here.
 Грегор: И чего это тот тип так взбесился?.. Мне отсюда видно, насколько красное у него лицо.
 
-# Original: Indeed, despite the distance between us and the candidate, we could hear his irate tirade against his clan echoing between the walls of the hallway.
+# Narrator: Indeed, despite the distance between us and the candidate, we could hear his irate tirade against his clan echoing between the walls of the hallway.
 Рассказчик: И действительно, несмотря на расстояние между нами и кандидатом, мы слышали его гневную тираду в адрес своего клана, эхом разносившуюся меж стен коридора.
 
-# Original: Useless fool, cowardly dullard.
+# ???: Useless fool, cowardly dullard.
 Ши Сицзин: Бесполезный идиот, трусливый тупица.
 
-# Original: I could have gained more coins had you managed to last three more miserable seconds in that pot.
+# ???: I could have gained more coins had you managed to last three more miserable seconds in that pot.
 Ши Сицзин: Я бы получил больше монет, продержись ты в этом котле ещё три жалкие секунды.
 
-# Original: I... I...
+# ???: I... I...
 Солдат семьи Ши 1: Я... я...
 
-# Original: I don't need to grab anymore... what use are my hands?
+# ???: I don't need to grab anymore... what use are my hands?
 Солдат семьи Ши 1: Мне больше не нужно хватать... зачем мне теперь руки?
 
-# Original: My head still sits above my shoulders, but why is it there?
+# ???: My head still sits above my shoulders, but why is it there?
 Солдат семьи Ши 1: Голова всё ещё на плечах, но зачем она там?
 
-# Original: He's gone completely mad. We're leaving him.
+# ???: He's gone completely mad. We're leaving him.
 Ши Сицзин: Он окончательно спятил. Мы его бросаем.
 
-# Original: Actually, let's kill him before we move on. We can't risk this idiot blabbering all over the place about us...
+# ???: Actually, let's kill him before we move on. We can't risk this idiot blabbering all over the place about us...
 Ши Сицзин: Хотя нет, давай убьём его, прежде чем двинемся дальше. Нельзя, чтобы этот идиот растрепал о нас повсюду...
 
-# Original: You've let your guard down, whelp.
+# Outis: You've let your guard down, whelp.
 Отис: Ты ослабил бдительность, щенок.
 
-# Original: …!
+# ???: …!
 Ши Сицзин: …!
 
-# Original: Ha... And here I was, wondering who it could possibly be... It's you, Jia Baoyu.
+# ???: Ha... And here I was, wondering who it could possibly be... It's you, Jia Baoyu.
 Ши Сицзин: Ха... А я-то гадал, кто бы это мог быть... Это ты, Цзя Баоюй.
 
-# Original: Been a while, Sijing.
+# Hong Lu: Been a while, Sijing.
 Хон Лу: Давно не виделись, Сицзин.
 
-# Original: It seems that your clan is entirely intact. No casualties yet, hmm?
+# Shi Sijing: It seems that your clan is entirely intact. No casualties yet, hmm?
 Ши Сицзин: Похоже, твой клан в полном составе. Ещё без потерь, хм?
 
-# Original: That tells me that you still haven't cracked the code to gaining the most coins in this game.
+# Shi Sijing: That tells me that you still haven't cracked the code to gaining the most coins in this game.
 Ши Сицзин: Это говорит мне о том, что вы ещё не поняли, как заработать больше всего монет в этой игре.
 
-# Original: Hm, and what might that be?
+# Hong Lu: Hm, and what might that be?
 Хон Лу: Хм, и что же это может быть?
 
-# Original: Know when and where to deploy your tools. If there's a mysterious door, push 'em in first. If things don't go your way, use 'em to make your escape...
+# Shi Sijing: Know when and where to deploy your tools. If there's a mysterious door, push 'em in first. If things don't go your way, use 'em to make your escape...
 Ши Сицзин: Знать, когда и где использовать свои инструменты. Если есть загадочная дверь — толкай их туда первыми. Если дела идут не по-твоему — используй их для побега...
 
-# Original: Now that's how you use your human resources. Haven't you read any books on the art of war?
+# Shi Sijing: Now that's how you use your human resources. Haven't you read any books on the art of war?
 Ши Сицзин: Вот как нужно использовать свои человеческие ресурсы. Ты что, книг по искусству войны не читал?
 
-# Original: Oh, I see.
+# Hong Lu: Oh, I see.
 Хон Лу: А, понятно.
 
-# Original: Well, I guess it makes sense that you're too soft to make sacrifices. Not used to it, huh? After spending your whole life stuck in your room enjoying that nice outdoor breeze, you've gotta be.
+# Shi Sijing: Well, I guess it makes sense that you're too soft to make sacrifices. Not used to it, huh? After spending your whole life stuck in your room enjoying that nice outdoor breeze, you've gotta be.
 Ши Сицзин: Что ж, полагаю, логично, что ты слишком мягок для жертв. Не привык, а? Проведя всю жизнь взаперти в своей комнате, наслаждаясь этим приятным уличным ветерком, таким ты и должен быть.
 
-# Original: It's the opposite, actually. I think I'm too used to it that I don't really want to do it again.
+# Hong Lu: It's the opposite, actually. I think I'm too used to it that I don't really want to do it again.
 Хон Лу: Вообще-то, наоборот. Думаю, я к этому слишком привык, потому и не хочу это повторять.
 
-# Original: ... You're just as much of an asshole as you were then.
+# Shi Sijing: ... You're just as much of an asshole as you were then.
 Ши Сицзин: ...Ты такой же гад, каким и был тогда.
 
-# Original: Let's see if you'll still be spouting off that bullshit after I take all of your coins away.
+# Shi Sijing: Let's see if you'll still be spouting off that bullshit after I take all of your coins away.
 Ши Сицзин: Посмотрим, будешь ли ты всё так же нести эту чушь, когда я заберу у тебя все монеты.

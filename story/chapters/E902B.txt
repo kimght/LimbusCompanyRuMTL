@@ -1,302 +1,302 @@
-﻿# Original: The place Hohenheim led us to looked less like a recovery ward and more like an interrogation chamber...
+﻿# Narrator: The place Hohenheim led us to looked less like a recovery ward and more like an interrogation chamber...
 Narrator: Место, в которое привел нас Хохенхайм, походило скорее на допросную, нежели на палату для выздоравливающих...
 
-# Original: Though every single medical equipment installed around seemed to be state-of-the-art.
+# Narrator: Though every single medical equipment installed around seemed to be state-of-the-art.
 Narrator: Хотя всё установленное вокруг медицинское оборудование, казалось, было по последнему слову техники.
 
-# Original: <This place looks well-equipped.>
+# Dante: <This place looks well-equipped.>
 Dante: <Это место выглядит отлично оборудованным.>
 
-# Original: Probably a direct order from upper management.
+# Faust: Probably a direct order from upper management.
 Faust: Вероятно, это прямой приказ от высшего руководства.
 
-# Original: Although technologies to restore lost body parts are common enough in the City, a facility of this kind is required to preserve the original form of her lower body in the reconstruction process while keeping the cost reasonable.
+# Faust: Although technologies to restore lost body parts are common enough in the City, a facility of this kind is required to preserve the original form of her lower body in the reconstruction process while keeping the cost reasonable.
 Faust: Хотя в Городе технологии восстановления утраченных частей тела довольно распространены, оборудование такого рода необходимо для сохранения первоначальной формы её нижней части тела в процессе реконструкции, при этом сохраняя затраты на разумном уровне.
 
-# Original: <"Reasonable," huh. Do I want to ask how expensive the other options are if this counts as "reasonable"?>
+# Dante: <"Reasonable," huh. Do I want to ask how expensive the other options are if this counts as "reasonable"?>
 Dante: <«На разумном», значит. Хочу ли я спрашивать, насколько дороги другие варианты, раз уж этот считается «разумным»?>
 
-# Original: A windowless room thick with the sharp scent of medicine and chemicals.
+# Narrator: A windowless room thick with the sharp scent of medicine and chemicals.
 Narrator: Комната без окон была пропитана резким запахом лекарств и химикатов.
 
-# Original: Kira was sitting on the bed at the center of the room, kicking her feet as she regarded us.
+# Narrator: Kira was sitting on the bed at the center of the room, kicking her feet as she regarded us.
 Narrator: Кира сидела на кровати в центре комнаты, болтая ногами и рассматривая нас.
 
-# Original: For someone recovering from bisection, she didn't look much different from how she'd appeared when I'd seen her through the Sinners' shared vision.
+# Narrator: For someone recovering from bisection, she didn't look much different from how she'd appeared when I'd seen her through the Sinners' shared vision.
 Narrator: Для человека, восстанавливающегося после рассечения надвое, она не сильно отличалась от того, какой я видел её через общее зрение Грешников.
 
-# Original: .......
+# Kira: .......
 Kira: .......
 
-# Original: She was captured alive for the extraction of information, yes? How far along is the progress of the extraction?
+# Faust: She was captured alive for the extraction of information, yes? How far along is the progress of the extraction?
 Faust: Она была захвачена живой для извлечения информации, верно? На какой стадии находится процесс извлечения?
 
-# Original: Ah. It hasn't yet begun, actually. We are waiting until the lines of information that warrant questioning can be isolated.
+# Hohenheim: Ah. It hasn't yet begun, actually. We are waiting until the lines of information that warrant questioning can be isolated.
 Hohenheim: Ах. На самом деле, он ещё не начался. Мы ждём, пока не удастся выделить те фрагменты информации, которые заслуживают допроса.
 
-# Original: So far, all available personnel have been fully engaged in analyzing the documents and items discovered in the House of Spiders.
+# Hohenheim: So far, all available personnel have been fully engaged in analyzing the documents and items discovered in the House of Spiders.
 Hohenheim: До сих пор весь доступный персонал был полностью занят анализом документов и предметов, обнаруженных в Доме Пауков.
 
-# Original: Then whatcha even doing here?
+# Kira: Then whatcha even doing here?
 Kira: Тогда чё вы вообще здесь забыли?
 
-# Original: There is work to be done contingent upon information obtainable only from a recent inhabitant of the House of Spiders,
+# Hohenheim: There is work to be done contingent upon information obtainable only from a recent inhabitant of the House of Spiders,
 Hohenheim: Предстоит выполнить работу, зависящую от информации, которую можно получить только от недавнего обитателя Дома Пауков,
 
-# Original: and following a discussion with the upper management, I have decided to put you to use as the company had originally intended.
+# Hohenheim: and following a discussion with the upper management, I have decided to put you to use as the company had originally intended.
 Hohenheim: и после обсуждения с высшим руководством я решил найти тебе применение, как изначально и планировала компания.
 
-# Original: No TV, no comic books... Just a super-prickly glare and a cold shoulder whenever I ask for something to pass the time.
+# Kira: No TV, no comic books... Just a super-prickly glare and a cold shoulder whenever I ask for something to pass the time.
 Kira: Ни телика, ни комиксов... Только супер-колючие взгляды и холодный игнор каждый раз, когда я прошу что-нибудь, чтобы убить время.
 
-# Original: And <i>now</i> you suddenly need my help, huh? Gimme one reason I should cooperate.
+# Kira: And <i>now</i> you suddenly need my help, huh? Gimme one reason I should cooperate.
 Kira: А <i>теперь</i> вам вдруг понадобилась моя помощь, да? Назовите хоть одну причину, почему я должна сотрудничать.
 
-# Original: Hohenheim didn't so much as twitch an eyebrow at Kira's biting tone. He merely gave her a nod with a steely, imperturbable expression.
+# Narrator: Hohenheim didn't so much as twitch an eyebrow at Kira's biting tone. He merely gave her a nod with a steely, imperturbable expression.
 Narrator: Хохенхайм даже бровью не повёл на резкий тон Киры. Он лишь кивнул ей со стальным, невозмутимым выражением лица.
 
-# Original: I didn't ask for your help. "Put you to use," I believe, is what I said.
+# Hohenheim: I didn't ask for your help. "Put you to use," I believe, is what I said.
 Hohenheim: Я не просил о твоей помощи. «Найти тебе применение», кажется, так я сказал.
 
-# Original: Wha...?
+# Kira: Wha...?
 Kira: Чё...?
 
-# Original: Your survival is not incidental—it is the result of a calculation. The company anticipates a potential profit by keeping you alive. "Expected gain," as the term goes.
+# Hohenheim: Your survival is not incidental—it is the result of a calculation. The company anticipates a potential profit by keeping you alive. "Expected gain," as the term goes.
 Hohenheim: Твоё выживание не случайность — это результат расчёта. Компания ожидает потенциальную прибыль от сохранения твоей жизни. «Ожидаемая выгода», как гласит термин.
 
-# Original: Without such a forecast on the company's part, you would have already been disposed of. The upper management consists of people who would be disinclined to tolerate the daily maintenance and depreciation costs of this room, even at half their current numbers.
+# Hohenheim: Without such a forecast on the company's part, you would have already been disposed of. The upper management consists of people who would be disinclined to tolerate the daily maintenance and depreciation costs of this room, even at half their current numbers.
 Hohenheim: Без подобного прогноза со стороны компании от тебя бы уже избавились. Высшее руководство состоит из людей, которые не стали бы мириться с ежедневными расходами на обслуживание и амортизацию этой палаты, даже будь они вдвое меньше.
 
-# Original: Which brings us to our next point: Should you insist on maintaining this uncooperative attitude, the company may decide to convene a meeting to reassess your worth, or shall we say, lack thereof, in its projected income statement.
+# Hohenheim: Which brings us to our next point: Should you insist on maintaining this uncooperative attitude, the company may decide to convene a meeting to reassess your worth, or shall we say, lack thereof, in its projected income statement.
 Hohenheim: Что подводит нас к следующему пункту: если ты будешь упорствовать в своём нежелании сотрудничать, компания может решить созвать собрание для переоценки твоей ценности, или, скажем так, её отсутствия в прогнозируемом отчёте о доходах.
 
-# Original: Well... suffice to say that such a reassessment would skew heavily against your favor. The outcome would be a recommendation for immediate disposal.
+# Hohenheim: Well... suffice to say that such a reassessment would skew heavily against your favor. The outcome would be a recommendation for immediate disposal.
 Hohenheim: Что ж... достаточно сказать, что подобная переоценка будет сильно не в твою пользу. Итогом станет рекомендация к немедленной утилизации.
 
-# Original: Hohenheim always had a way with words that could prickle and sting,
+# Narrator: Hohenheim always had a way with words that could prickle and sting,
 Narrator: Хохенхайм всегда умел подбирать слова, способные задеть и ужалить,
 
-# Original: but with Kira, it almost felt as if he'd traded the usual thorn off for a sharper knife, intent on twisting it right where it hurt.
+# Narrator: but with Kira, it almost felt as if he'd traded the usual thorn off for a sharper knife, intent on twisting it right where it hurt.
 Narrator: но с Кирой казалось, будто он сменил обычный шип на более острый нож, намереваясь провернуть его там, где больнее всего.
 
-# Original: ... I'm dead meat as soon as my usefulness runs out, anyway.
+# Kira: ... I'm dead meat as soon as my usefulness runs out, anyway.
 Kira: ... Я всё равно труп, как только от меня больше не будет толку.
 
-# Original: It's not like you're gonna let me live, not after I killed a bazillion of your guys.
+# Kira: It's not like you're gonna let me live, not after I killed a bazillion of your guys.
 Kira: Вы ведь не оставите меня в живых после того, как я убила лимбиллион ваших парней.
 
-# Original: .......
+# Hohenheim: .......
 Hohenheim: .......
 
-# Original: Ah, so you anticipated some form of a corporate-level retaliatory response against your person. That is indeed a curious line of reasoning.
+# Hohenheim: Ah, so you anticipated some form of a corporate-level retaliatory response against your person. That is indeed a curious line of reasoning.
 Hohenheim: Ах, так ты ожидала некой формы ответных мер корпоративного уровня в свой адрес. Это и вправду любопытный ход мыслей.
 
-# Original: Then I must tell you that, unlike your typical Backstreet Syndicate such as the Middle, corporate entities of the City tend to avoid choices that may incur losses.
+# Hohenheim: Then I must tell you that, unlike your typical Backstreet Syndicate such as the Middle, corporate entities of the City tend to avoid choices that may incur losses.
 Hohenheim: Тогда я должен сказать тебе, что в отличие от типичных Синдикатов Подворотен, таких как Средний, корпоративные структуры Города склонны избегать решений, которые могут повлечь за собой убытки.
 
-# Original: The value of the information that could be extracted from an Apprentice of the Middle, and the combat prowess honed under the tutelage of a Great Brother of the Middle—these two considerations are likely what increased your value in the eyes of the company.
+# Faust: The value of the information that could be extracted from an Apprentice of the Middle, and the combat prowess honed under the tutelage of a Great Brother of the Middle—these two considerations are likely what increased your value in the eyes of the company.
 Faust: Ценность информации, которую можно извлечь из Ученика Среднего, и боевое мастерство, отточенное под наставничеством Великого Брата Среднего — эти два фактора, вероятно, и повысили твою ценность в глазах компании.
 
-# Original: Hah! Y'all got zero self-respect, huh?
+# Kira: Hah! Y'all got zero self-respect, huh?
 Kira: Ха! У вас вообще ноль самоуважения, да?
 
-# Original: ... You should consider yourself fortunate.
+# Hohenheim: ... You should consider yourself fortunate.
 Hohenheim: ... Считай, что тебе повезло.
 
-# Original: ... Huh? The heck are ya on about?
+# Kira: ... Huh? The heck are ya on about?
 Kira: ... А? Вы чё несёте-то?
 
-# Original: Other companies would not solicit your cooperation by means of a verbal exchange. Your interrogator would simply open your cranium, harvest your brain, and extract any and all necessary information without going through intermediary steps such as this.
+# Hohenheim: Other companies would not solicit your cooperation by means of a verbal exchange. Your interrogator would simply open your cranium, harvest your brain, and extract any and all necessary information without going through intermediary steps such as this.
 Hohenheim: Другие компании не стали бы добиваться твоего сотрудничества путём словесного обмена. Твой следователь просто вскрыл бы твой череп, извлёк бы мозг и выудил любую необходимую информацию, минуя подобные промежуточные этапы.
 
-# Original: Even without resorting to such methods, the range of available means to <i>compel</i> the disclosure of information is practically limitless—truth serums, hypnotic suggestions, electrical shocks and stimulations, and of course, procedures utilizing Distortions and Abnormalities.
+# Hohenheim: Even without resorting to such methods, the range of available means to <i>compel</i> the disclosure of information is practically limitless—truth serums, hypnotic suggestions, electrical shocks and stimulations, and of course, procedures utilizing Distortions and Abnormalities.
 Hohenheim: Даже не прибегая к таким методам, спектр доступных средств <i>принуждения</i> к раскрытию информации практически безграничен — сыворотки правды, гипнотические внушения, электрические разряды и стимуляция, и, разумеется, процедуры с использованием Искажений и Аномалий.
 
-# Original: That being said... the LCE Department prefers to distance itself from such uncivilized approaches that may entail complications and aftereffects.
+# Hohenheim: That being said... the LCE Department prefers to distance itself from such uncivilized approaches that may entail complications and aftereffects.
 Hohenheim: Тем не менее... Отдел LCE предпочитает дистанцироваться от столь нецивилизованных подходов, которые могут повлечь за собой осложнения и побочные эффекты.
 
-# Original: .......
+# Kira: .......
 Kira: .......
 
-# Original: I do hope that we share a similar predilection.
+# Hohenheim: I do hope that we share a similar predilection.
 Hohenheim: Искренне надеюсь, что мы разделяем это предпочтение.
 
-# Original: You're so frickin' annoying, you know that, Mister?
+# Kira: You're so frickin' annoying, you know that, Mister?
 Kira: Вы пипец какой бесячий, знаете это, мистер?
 
-# Original: ... The feeling is entirely mutual.
+# Hohenheim: ... The feeling is entirely mutual.
 Hohenheim: ... Это чувство абсолютно взаимно.
 
-# Original: Leaving the biting chill of his threats to sink in, Hohenheim turned toward the exit.
+# Narrator: Leaving the biting chill of his threats to sink in, Hohenheim turned toward the exit.
 Narrator: Дав ей осознать леденящую суть своих угроз, Хохенхайм повернулся к выходу.
 
-# Original: ... Give her some push and bring her along.
+# Hohenheim: ... Give her some push and bring her along.
 Hohenheim: ... Надавите на неё немного и приведите с собой.
 
-# Original: I don't quite seem to be myself today... No, disregard that. That too was a rather foolish thing to say.
+# Hohenheim: I don't quite seem to be myself today... No, disregard that. That too was a rather foolish thing to say.
 Hohenheim: Я сегодня, кажется, сам не свой... Нет, забудьте об этом. Это тоже было довольно глупое замечание.
 
-# Original: I will defer this matter to you, Manager. Work of this sort likely falls more within your capabilities than my own.
+# Hohenheim: I will defer this matter to you, Manager. Work of this sort likely falls more within your capabilities than my own.
 Hohenheim: Я передам это дело вам, Менеджер. Подобная работа, вероятно, больше в вашей компетенции, чем в моей.
 
-# Original: And with that, Hohenheim stepped out of the room, leaving me to deal with Kira.
+# Narrator: And with that, Hohenheim stepped out of the room, leaving me to deal with Kira.
 Narrator: С этими словами Хохенхайм вышел из комнаты, оставив меня разбираться с Кирой.
 
-# Original: His reaction was understandable. The LCE had only just finished laying its dead researchers to rest. Kira was probably the last person anyone would want to face right now, much less speak to.
+# Narrator: His reaction was understandable. The LCE had only just finished laying its dead researchers to rest. Kira was probably the last person anyone would want to face right now, much less speak to.
 Narrator: Его реакция была понятна. LCE только-только закончил хоронить своих погибших исследователей. Кира, вероятно, была последней, с кем кому-либо хотелось бы сейчас столкнуться, не говоря уже о том, чтобы с ней разговаривать.
 
-# Original: <What should I even say to persuade her?>
+# Dante: <What should I even say to persuade her?>
 Dante: <Что мне вообще сказать, чтобы убедить её?>
 
-# Original: *puff*
+# Ryōshū: *puff*
 Ryōshū: *затяжка*
 
-# Original: I was still caught in thought when someone, quite unexpectedly, made her way to Kira.
+# Narrator: I was still caught in thought when someone, quite unexpectedly, made her way to Kira.
 Narrator: Я всё ещё был погружён в свои мысли, когда кое-кто совершенно неожиданно подошёл к Кире.
 
-# Original: Yoshihide...?
+# Kira: Yoshihide...?
 Kira: Ёшихидэ...?
 
-# Original: You. Heard you got stabbed in the back by Matthias.
+# Ryōshū: You. Heard you got stabbed in the back by Matthias.
 Ryōshū: Эй ты. Слышала, Маттиас вонзил тебе нож в спину.
 
-# Original: .......
+# Kira: .......
 Kira: .......
 
-# Original: That's... not true.
+# Kira: That's... not true.
 Kira: Это... неправда.
 
-# Original: ... Papa wasn't landing a fatal blow unless he cut through me too. That's why he did exactly that... to aim for the enemy's head.
+# Kira: ... Papa wasn't landing a fatal blow unless he cut through me too. That's why he did exactly that... to aim for the enemy's head.
 Kira: ... Папа не смог бы нанести смертельный удар, если бы не рассёк и меня тоже. Вот почему он сделал именно это... чтобы добраться до головы врага.
 
-# Original: Besides... he made the right choice. A little sacrifice ain't a thing in a family.
+# Kira: Besides... he made the right choice. A little sacrifice ain't a thing in a family.
 Kira: К тому же... он сделал правильный выбор. Небольшая жертва — это пустяки для семьи.
 
-# Original: Hah. "Family," coming from him—a Middle mutt thrown out of his kennel.
+# Ryōshū: Hah. "Family," coming from him—a Middle mutt thrown out of his kennel.
 Ryōshū: Ха. «Семья», и это слышать от него — шавки Среднего, вышвырнутой из своей конуры.
 
-# Original: Doesn't it sound ridiculous even to you?
+# Ryōshū: Doesn't it sound ridiculous even to you?
 Ryōshū: Неужели это не звучит нелепо даже для тебя?
 
-# Original: That's...
+# Kira: That's...
 Kira: Это...
 
-# Original: <Thrown out?>
+# Dante: <Thrown out?>
 Dante: <Вышвырнутой?>
 
-# Original: That fucker Matthias... was a G.B. only by technicality.
+# Ryōshū: That fucker Matthias... was a G.B. only by technicality.
 Ryōshū: Этот ублюдок Маттиас... был В.Б. только формально.
 
-# Original: He fucked up badly. He was still family by name, but underneath it, everyone hoped he'd disappear quietly on his own. He was that family member nobody wanted around.
+# Ryōshū: He fucked up badly. He was still family by name, but underneath it, everyone hoped he'd disappear quietly on his own. He was that family member nobody wanted around.
 Ryōshū: Он сильно облажался. Он всё ещё был семьёй на словах, но в глубине души все надеялись, что он тихо исчезнет сам по себе. Он был тем членом семьи, которого никто не хотел видеть рядом.
 
-# Original: Same treatment for me, being his brat. Not surprising it's the S.T. for the bowl-cut too.
+# Ryōshū: Same treatment for me, being his brat. Not surprising it's the S.T. for the bowl-cut too.
 Ryōshū: Такое же отношение ждало и меня, его отродье. Неудивительно, что Т.Ж.У. светит и этой с горшком на голове.
 
-# Original: Same... Tastes...? Hoh! Young Ryōshū, could it be that thou also dost harbor a passionate zeal for Fix—mmph!
+# Don Quixote: Same... Tastes...? Hoh! Young Ryōshū, could it be that thou also dost harbor a passionate zeal for Fix—mmph!
 Don Quixote: Те... Же... Увлечения...? Хо! Юная Рёшу, неужто ты тоже питаешь пылкую страсть к корр... ммф!
 
-# Original: I quickly clapped a hand over Don Quixote's mouth as she smoothly chimed into the conversation.
+# Narrator: I quickly clapped a hand over Don Quixote's mouth as she smoothly chimed into the conversation.
 Narrator: Я быстро зажал рот Дон Кихот рукой, когда она плавно встряла в разговор.
 
-# Original: ... So what exactly is your point?
+# Kira: ... So what exactly is your point?
 Kira: ... Так к чему ты вообще клонишь?
 
-# Original: The point is you're taking too long. If you can't decide whether you want to live or die, I can shorten the hesitation.
+# Ryōshū: The point is you're taking too long. If you can't decide whether you want to live or die, I can shorten the hesitation.
 Ryōshū: Суть в том, что ты слишком долго копаешься. Если не можешь решить, хочешь ли ты жить или умереть, я могу сократить время на раздумья.
 
-# Original: C.Q., or I'll S.Y.N.C. right this instant.
+# Ryōshū: C.Q., or I'll S.Y.N.C. right this instant.
 Ryōshū: С.Т., или я С.Ш.И.К. прямо сейчас.
 
-# Original: Uh... What does that mean?
+# Kira: Uh... What does that mean?
 Kira: Эм... Что это значит?
 
-# Original: Cooperate quietly, or I'll snap your neck completely right this instant.
+# Ryōshū: Cooperate quietly, or I'll snap your neck completely right this instant.
 Ryōshū: Сотрудничай тихо, или сверну шею и кирдык.
 
-# Original: S.Y.N.C. isn't such a bad way to go if you're keen on taking that loyalty act straight to the grave.
+# Ryōshū: S.Y.N.C. isn't such a bad way to go if you're keen on taking that loyalty act straight to the grave.
 Ryōshū: С.Ш.И.К. — не такой уж плохой конец, если ты так горишь желанием унести эту показушную верность прямиком в могилу.
 
-# Original: ... Hah. This is so crappy.
+# Kira: ... Hah. This is so crappy.
 Kira: ... Ха. Отстой какой-то.
 
-# Original: Whatever. I get it, okay? I'll talk if that's what you want so bad.
+# Kira: Whatever. I get it, okay? I'll talk if that's what you want so bad.
 Kira: Да пофиг. Я всё поняла, окей? Я буду говорить, раз вам так сильно хочется.
 
-# Original: <... That actually worked?>
+# Dante: <... That actually worked?>
 Dante: <... И это реально сработало?>
 
-# Original: ... Fixers who go out in a blaze of glory aren't actually the strong ones.
+# Kira: ... Fixers who go out in a blaze of glory aren't actually the strong ones.
 Kira: ... Корректировщики, которые гибнут во вспышке славы, на самом деле не такие уж сильные.
 
-# Original: It's the ones who survive... the ones who live to see another day and keep getting stronger.
+# Kira: It's the ones who survive... the ones who live to see another day and keep getting stronger.
 Kira: Сильные те, кто выживают... те, кто доживают до следующего дня и продолжают становиться сильнее.
 
-# Original: Anyway, Yoshihide... what's up with you talking in weird-ass abbreviations?
+# Kira: Anyway, Yoshihide... what's up with you talking in weird-ass abbreviations?
 Kira: Короче, Ёшихидэ... чё у тебя за прикол говорить дебильными аббревиатурами?
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: Like, "S.Y.N.C."? That's so random. Who even says that...?
+# Kira: Like, "S.Y.N.C."? That's so random. Who even says that...?
 Kira: Типа, «С.Ш.И.К.»? Это такой рандом. Кто вообще так говорит...?
 
-# Original: Ryōshū didn't bother to reply and simply chewed on the mouth end of her cigarette.
+# Narrator: Ryōshū didn't bother to reply and simply chewed on the mouth end of her cigarette.
 Narrator: Рёшу не удосужилась ответить и просто пожевала фильтр своей сигареты.
 
-# Original: <But is this really the right call? To her, we're probably people she needs to settle the score with.>
+# Dante: <But is this really the right call? To her, we're probably people she needs to settle the score with.>
 Dante: <Но действительно ли это правильное решение? Для неё мы, вероятно, те люди, с которыми ей нужно свести счёты.>
 
-# Original: As if.
+# Ryōshū: As if.
 Ryōshū: Ещё чего.
 
-# Original: Half her tattoos are gone, Clock. They even confiscated her Book. You think the Middle's sorry excuse for "loyalty" means so much for this stray that she'd bite us?
+# Ryōshū: Half her tattoos are gone, Clock. They even confiscated her Book. You think the Middle's sorry excuse for "loyalty" means so much for this stray that she'd bite us?
 Ryōshū: Половина её татуировок исчезла, Часы. У неё даже конфисковали Книгу. Думаешь, жалкое оправдание «верности» Среднего значит для этой дворняги так много, что она нас укусит?
 
-# Original: Besides... *puff* no, better hear it from her instead.
+# Ryōshū: Besides... *puff* no, better hear it from her instead.
 Ryōshū: Кроме того... *пффф* нет, лучше услышать это от неё самой.
 
-# Original: Hey. Tell me why Matthias kicked the bucket.
+# Ryōshū: Hey. Tell me why Matthias kicked the bucket.
 Ryōshū: Эй. Расскажи-ка, почему Маттиас склеил ласты.
 
-# Original: That's 'cuz...
+# Kira: That's 'cuz...
 Kira: Ну, потому что...
 
-# Original: Well, 'cuz papa was weaker than y'all.
+# Kira: Well, 'cuz papa was weaker than y'all.
 Kira: Потому что папа был слабее вас всех.
 
-# Original: <.......>
+# Dante: <.......>
 Dante: <.......>
 
-# Original: Hah.
+# Ryōshū: Hah.
 Ryōshū: Ха.
 
-# Original: Yeah, you're the jerk's brat all right.
+# Ryōshū: Yeah, you're the jerk's brat all right.
 Ryōshū: Да, ты и впрямь отродье этого придурка.
 
-# Original: Kira pushed herself up from the bed with a sour face, but at least she didn't argue back...
+# Narrator: Kira pushed herself up from the bed with a sour face, but at least she didn't argue back...
 Narrator: Кира с недовольной миной приподнялась с кровати, но, по крайней мере, не стала огрызаться в ответ...
 
-# Original: ... and we called Hohenheim, who'd been waiting outside, back in.
+# Narrator: ... and we called Hohenheim, who'd been waiting outside, back in.
 Narrator: ... и мы позвали Хохенхайма, ожидавшего снаружи, обратно внутрь.
 
-# Original: I assume the prisoner was successfully persuaded.
+# Hohenheim: I assume the prisoner was successfully persuaded.
 Hohenheim: Полагаю, пленницу удалось успешно убедить.
 
-# Original: Come. You will find your weapon on the table—you may use it in the event of an emergency.
+# Hohenheim: Come. You will find your weapon on the table—you may use it in the event of an emergency.
 Hohenheim: Идёмте. Твоё оружие лежит на столе — можешь воспользоваться им в случае непредвиденной ситуации.
 
-# Original: ... What the hell? I can't even unsheathe it!
+# Kira: ... What the hell? I can't even unsheathe it!
 Kira: ... Какого хрена? Я даже вынуть из ножен его не могу!
 
-# Original: Ah. You won't be able to use it without authorization. The code has been slightly adjusted.
+# Hohenheim: Ah. You won't be able to use it without authorization. The code has been slightly adjusted.
 Hohenheim: Ах. Ты не сможешь им воспользоваться без авторизации. Код был слегка скорректирован.
 
-# Original: .......
+# Kira: .......
 Kira: .......
 
-# Original: Now then, let us head to the House of Spiders at once. The Backdoor is up and waiting for us.
+# Hohenheim: Now then, let us head to the House of Spiders at once. The Backdoor is up and waiting for us.
 Hohenheim: А теперь давайте немедленно отправимся в Дом Пауков. Задняя дверь открыта и ждёт нас.
 
-# Original: We made our way to the House of Spiders, with Kira trailing behind us, looking like she was smelling something particularly fishy on us.
+# Narrator: We made our way to the House of Spiders, with Kira trailing behind us, looking like she was smelling something particularly fishy on us.
 Narrator: Мы направились в Дом Пауков, а Кира плелась позади, всем своим видом показывая, будто учуяла в нас что-то крайне подозрительное.

@@ -1,296 +1,296 @@
-﻿# Original: Dammit, can’t we just take any ship to go after it?
+﻿# Heathcliff: Dammit, can’t we just take any ship to go after it?
 Хитклиф: Чёрт, мы не можем просто взять любой корабль и отправиться за ним?
 
-# Original: It’s a research vessel. It can’t possibly be very fast…
+# Ishmael: It’s a research vessel. It can’t possibly be very fast…
 Измаил: Это же исследовательское судно. Вряд ли оно очень быстрое…
 
-# Original: This’ll be difficult.
+# Irene: This’ll be difficult.
 Айрен: Это будет непросто.
 
-# Original: Even if it is a research vessel, I’m sure it was constructed during the golden age of Iberia. No average ship can keep up with it.
+# Irene: Even if it is a research vessel, I’m sure it was constructed during the golden age of Iberia. No average ship can keep up with it.
 Айрен: Даже если это исследовательское судно, я уверена, что его построили в золотой век Иберии. Обычный корабль за ним не угонится.
 
-# Original: Haah… which is a problem, because I doubt we have any ship that can travel at the same speed. We only have a few small vessels left… which are all anchored too far from this location to be feasible options.
+# Irene: Haah… which is a problem, because I doubt we have any ship that can travel at the same speed. We only have a few small vessels left… which are all anchored too far from this location to be feasible options.
 Айрен: Ха-ах… и в этом-то и проблема, ведь я сомневаюсь, что у нас найдётся судно, способное развить ту же скорость. У нас осталось всего несколько небольших кораблей… и все они стоят на якоре слишком далеко, чтобы рассматривать их как вариант.
 
-# Original: Do we have any recourse?
+# Amiya: Do we have any recourse?
 Амия: У нас есть какой-нибудь выход?
 
-# Original: No, not unless we can identify the exact location of the vessel.
+# Kal'tsit: No, not unless we can identify the exact location of the vessel.
 Кальцит: Нет. Только если мы сможем определить точное местоположение судна.
 
-# Original: Which is the real problem. We can find ourselves a ship to go after them, yes… but most Eyes of Iberia, the lighthouses, were lost during The Profound Silence.
+# Irene: Which is the real problem. We can find ourselves a ship to go after them, yes… but most Eyes of Iberia, the lighthouses, were lost during The Profound Silence.
 Айрен: В этом и заключается главная проблема. Найти корабль, чтобы отправиться в погоню, мы, конечно, можем… но большинство Очей Иберии, маяков, были утеряны во время Глубокой Тишины.
 
-# Original: Wait, when you say most, do you mean that there’s some left?
+# Ishmael: Wait, when you say most, do you mean that there’s some left?
 Измаил: Постойте, вы сказали «большинство»… значит, некоторые всё же уцелели?
 
-# Original: Just one, as far as I know. The one in Gran Faro, but…
+# Irene: Just one, as far as I know. The one in Gran Faro, but…
 Айрен: Насколько мне известно, лишь один. Тот, что в Гран Фаро, но…
 
-# Original: That lighthouse cannot be used at this moment.
+# Kal'tsit: That lighthouse cannot be used at this moment.
 Кальцит: Этот маяк сейчас использовать нельзя.
 
-# Original: … There’s another.
+# Mayors: … There’s another.
 Мэрс: …Есть ещё один.
 
-# Original: There’s a lighthouse you can use.
+# Mayors: There’s a lighthouse you can use.
 Мэрс: Есть маяк, который вы можете использовать.
 
-# Original: <…!>
+# Dante: <…!>
 Данте: <…!>
 
-# Original: Really?
+# Amiya: Really?
 Амия: Правда?
 
-# Original: Haah... Are you really going to give one of the villagers the benefit of the doubt?
+# Irene: Haah... Are you really going to give one of the villagers the benefit of the doubt?
 Айрен: Ха-ах... Вы и вправду собираетесь поверить на слово одной из этих деревенских?
 
-# Original: Y-yet young Skadi hath already confirmed her to be safe.
+# Don Quixote: Y-yet young Skadi hath already confirmed her to be safe.
 Дон Кихот: Н-но юная Скади уже подтвердила, что она в безопасности.
 
-# Original: All I confirmed is whether she’s a Seaborn or not. Can’t know if she’s a cultist.
+# Skadi: All I confirmed is whether she’s a Seaborn or not. Can’t know if she’s a cultist.
 Скади: Я лишь подтвердила, Морерождённая она или нет. Состоит ли она в культе — мне неизвестно.
 
-# Original: ‘Tis… true. Yet…
+# Don Quixote: ‘Tis… true. Yet…
 Дон Кихот: Это… правда. И всё же…
 
-# Original: Once we saw that Mayors was left all on her own, we decided to have her accompany us at all times and keep her within Irene’s eyeshot.
+# Narrator: Once we saw that Mayors was left all on her own, we decided to have her accompany us at all times and keep her within Irene’s eyeshot.
 Рассказчик: Увидев, что Мэрс осталась совсем одна, мы решили, что она будет сопровождать нас и постоянно находиться в поле зрения Айрен.
 
-# Original: We couldn’t possibly blame her for what happened, given Skadi’s confirmation that she doesn’t have anything to do with those sea monsters. Besides, they'd all left her behind.
+# Narrator: We couldn’t possibly blame her for what happened, given Skadi’s confirmation that she doesn’t have anything to do with those sea monsters. Besides, they'd all left her behind.
 Рассказчик: Мы не могли винить её в случившемся, ведь Скади подтвердила, что она не имеет ничего общего с этими морскими чудовищами. Кроме того, они все её бросили.
 
-# Original: But Irene still seemed to harbor a bit of suspicion.
+# Narrator: But Irene still seemed to harbor a bit of suspicion.
 Рассказчик: Но Айрен, похоже, всё ещё питала некоторые подозрения.
 
-# Original: The problem with the Ægir is that she simply knows too much. Where could she possibly have gained access to all that information?
+# Irene: The problem with the Ægir is that she simply knows too much. Where could she possibly have gained access to all that information?
 Айрен: Проблема с этой Эгир в том, что она слишком много знает. Откуда у неё вообще мог появиться доступ ко всей этой информации?
 
-# Original: …….
+# Mayors: …….
 Мэрс: …….
 
-# Original: See? She can’t even answer that question.
+# Irene: See? She can’t even answer that question.
 Айрен: Видите? Она даже на этот вопрос ответить не может.
 
-# Original: <… But let’s think about it this way. What if we were to ask her what we don’t know?>
+# Dante: <… But let’s think about it this way. What if we were to ask her what we don’t know?>
 Данте: <…Но давайте посмотрим на это с другой стороны. Что, если спросить её о том, чего мы не знаем?>
 
-# Original: <The location of that lighthouse, for example.>
+# Dante: <The location of that lighthouse, for example.>
 Данте: <Например, о местонахождении того маяка.>
 
-# Original: They’re ticking rapidly... what did they say?
+# Kal'tsit: They’re ticking rapidly... what did they say?
 Кальцит: Часы тикают быстрее… что он сказал?
 
-# Original: Dante says that… we should approach it differently and ask her what we don’t know, like the location of the lighthouse…
+# Amiya: Dante says that… we should approach it differently and ask her what we don’t know, like the location of the lighthouse…
 Амия: Данте говорит, что… мы должны подойти к этому с другой стороны и спросить её о том, чего не знаем сами. Например, о местонахождении маяка…
 
-# Original: That seems like a reasonable suggestion to me. Or… does the Inquisitor have an alternate solution to this conundrum?
+# Kal'tsit: That seems like a reasonable suggestion to me. Or… does the Inquisitor have an alternate solution to this conundrum?
 Кальцит: Мне это кажется разумным предложением. Или… у Инквизитора есть иное решение этого затруднительного положения?
 
-# Original: Ngh, no, but…
+# Irene: Ngh, no, but…
 Айрен: Нгх, нет, но…
 
-# Original: Fine, let’s hear it. I won’t interrogate you about how you have access to things that even us Inquisitors don't know. At least not right now.
+# Irene: Fine, let’s hear it. I won’t interrogate you about how you have access to things that even us Inquisitors don't know. At least not right now.
 Айрен: Хорошо, давайте послушаем. Я не буду допрашивать тебя о том, откуда у тебя доступ к вещам, о которых не знают даже инквизиторы. По крайней мере, не сейчас.
 
-# Original: Faro Muerto, ‘dead lighthouse’. That’s our village name.
+# Mayors: Faro Muerto, ‘dead lighthouse’. That’s our village name.
 Мэрс: Фаро Муэрто, «мёртвый маяк». Так называется наша деревня.
 
-# Original: Somewhere a little ways off from the coastline, there’s an intact Eye of Iberia on the sea—though it was almost destroyed when the Profound Silence swept through.
+# Mayors: Somewhere a little ways off from the coastline, there’s an intact Eye of Iberia on the sea—though it was almost destroyed when the Profound Silence swept through.
 Мэрс: Неподалёку от берега, в море, есть нетронутое Око Иберии — хотя оно и было почти разрушено, когда грянула Глубокая Тишина.
 
-# Original: Off the coastline…? Is it not connected to the land?
+# Ishmael: Off the coastline…? Is it not connected to the land?
 Измаил: Неподалёку от берега?.. То есть он не соединён с сушей?
 
-# Original: I think it used to be, until it sank.
+# Mayors: I think it used to be, until it sank.
 Мэрс: Думаю, раньше был соединён, пока не затонул.
 
-# Original: We should be able to procure ourselves enough wooden material from the village to build a raft.
+# Kal'tsit: We should be able to procure ourselves enough wooden material from the village to build a raft.
 Кальцит: В деревне мы сможем раздобыть достаточно древесины, чтобы построить плот.
 
-# Original: Is it near enough for a raft to be the means of access?
+# Kal'tsit: Is it near enough for a raft to be the means of access?
 Кальцит: Маяк достаточно близко, чтобы до него можно было добраться на плоту?
 
-# Original: … The weather’s not great today, but it should do. It’s not very far from the coast.
+# Mayors: … The weather’s not great today, but it should do. It’s not very far from the coast.
 Мэрс: …Погода сегодня не очень, но должно получиться. Он не так далеко от побережья.
 
-# Original: Even you? You’re going to trust the Ægir?
+# Irene: Even you? You’re going to trust the Ægir?
 Айрен: И вы тоже? Вы собираетесь доверять этой Эгир?
 
-# Original: I don’t see why I shouldn’t. I understand that Iberian mistrust of the Ægir is quite profound, yet such sentiment is hollow to the rest of us.
+# Kal'tsit: I don’t see why I shouldn’t. I understand that Iberian mistrust of the Ægir is quite profound, yet such sentiment is hollow to the rest of us.
 Кальцит: Не вижу причин ей не доверять. Я понимаю, что недоверие иберийцев к Эгир весьма глубоко, но для нас подобные настроения — пустой звук.
 
-# Original: Inquisitor Irene. What did you feel when you saw the Rhodes Island Operator?
+# Kal'tsit: Inquisitor Irene. What did you feel when you saw the Rhodes Island Operator?
 Кальцит: Инквизитор Айрен. Что вы почувствовали, когда увидели оперативника Родос Айленд?
 
-# Original: If you’re talking about the Cautus, nothing in particular. Other than slight annoyance when she accused me of being inhumane.
+# Irene: If you’re talking about the Cautus, nothing in particular. Other than slight annoyance when she accused me of being inhumane.
 Айрен: Если вы о той Каутус, то ничего особенного. Разве что лёгкое раздражение, когда она обвинила меня в бесчеловечности.
 
-# Original: So you didn't harbor any hostility nor disgust. Not that you would have felt any sense of sympathy or empathy, either.
+# Kal'tsit: So you didn't harbor any hostility nor disgust. Not that you would have felt any sense of sympathy or empathy, either.
 Кальцит: Значит, вы не испытывали ни враждебности, ни отвращения. Впрочем, как и сочувствия или сопереживания.
 
-# Original: I thought...
+# Irene: I thought...
 Айрен: Я думала...
 
-# Original: I have no history of feelings for or against the Ægir. Such must be the same for the outsiders.
+# Kal'tsit: I have no history of feelings for or against the Ægir. Such must be the same for the outsiders.
 Кальцит: У меня нет никаких предубеждений ни за, ни против Эгир. Полагаю, то же самое можно сказать и об остальных чужаках.
 
-# Original: … What’s she on about?
+# Heathcliff: … What’s she on about?
 Хитклиф: …О чём это она?
 
-# Original: She is conveying that, in matters in regards to Mayors, our opinions are more objective than Irene’s.
+# Faust: She is conveying that, in matters in regards to Mayors, our opinions are more objective than Irene’s.
 Фауст: Она доносит мысль, что в вопросах, касающихся Мэрс, наше мнение более объективно, чем мнение Айрен.
 
-# Original: Finding the vessel Fabius commandeered will be of benefit to all.
+# Kal'tsit: Finding the vessel Fabius commandeered will be of benefit to all.
 Кальцит: Поиски судна, захваченного Фабием, принесут пользу всем нам.
 
-# Original: Limbus Company will gain an opportunity to return to the City via the dimensional door, while Rhodes Island will have the chance to study it at a closer proximity.
+# Kal'tsit: Limbus Company will gain an opportunity to return to the City via the dimensional door, while Rhodes Island will have the chance to study it at a closer proximity.
 Кальцит: Компания Лимбус получит возможность вернуться в Город через пространственную дверь, а Родос Айленд сможет изучить её с более близкого расстояния.
 
-# Original: And the Inquisition will gain possession of the vessel in which the technology from the Iberian golden age is contained.
+# Kal'tsit: And the Inquisition will gain possession of the vessel in which the technology from the Iberian golden age is contained.
 Кальцит: А Инквизиция получит в своё распоряжение судно, в котором заключены технологии золотого века Иберии.
 
-# Original: … What? You’re going to just hand that over to the Inquisition?
+# Irene: … What? You’re going to just hand that over to the Inquisition?
 Айрен: …Что? Вы вот так просто передадите его Инквизиции?
 
-# Original: Why should we covet what was once Iberia’s?
+# Kal'tsit: Why should we covet what was once Iberia’s?
 Кальцит: С чего бы нам желать того, что некогда принадлежало Иберии?
 
-# Original: ... While there certainly are aspects to that vessel that draw interest, I already have a state-of-the-art masterpiece known as Mephistopheles.
+# Faust: ... While there certainly are aspects to that vessel that draw interest, I already have a state-of-the-art masterpiece known as Mephistopheles.
 Фауст: …Хотя в этом судне, безусловно, есть интересные аспекты, у меня уже имеется современнейший шедевр под названием Мефистофель.
 
-# Original: ... As long as that can be guaranteed, I see no reason to refuse.
+# Irene: ... As long as that can be guaranteed, I see no reason to refuse.
 Айрен: ...Раз вы можете это гарантировать, не вижу причин отказываться.
 
-# Original: Irene eventually agreed to put her trust in Mayors.
+# Narrator: Irene eventually agreed to put her trust in Mayors.
 Рассказчик: В конце концов Айрен согласилась довериться Мэрс.
 
-# Original: We are in luck, Executive Manager. It is quite fortunate that our interests aligned exactly with that of the first strangers we encountered in a strange land.
+# Outis: We are in luck, Executive Manager. It is quite fortunate that our interests aligned exactly with that of the first strangers we encountered in a strange land.
 Отис: Нам повезло, Исполнительный Менеджер. Большая удача, что наши интересы в точности совпали с интересами первых незнакомцев, встреченных нами в чужих землях.
 
-# Original: <Lucky is right. Imagine if we were back in the City, it would've taken them like... three, four free Distortion hunts for us to come to this agreement.>
+# Dante: <Lucky is right. Imagine if we were back in the City, it would've taken them like... three, four free Distortion hunts for us to come to this agreement.>
 Данте: <И не говори, повезло. Представляю, будь мы в Городе, им бы понадобилось… где-то три-четыре бесплатных охоты на Искажения, чтобы мы пришли к такому соглашению.>
 
-# Original: Sorry about having to saddle you with this, Mayors. Please, lead us to the lighthouse.
+# Amiya: Sorry about having to saddle you with this, Mayors. Please, lead us to the lighthouse.
 Амия: Простите, что обременяем вас этим, Мэрс. Пожалуйста, ведите нас к маяку.
 
-# Original: Ok, happily.
+# Mayors: Ok, happily.
 Мэрс: Хорошо, с радостью.
 
-# Original: So when you said ‘almost destroyed’... how ‘almost destroyed’ is it?
+# Rodion: So when you said ‘almost destroyed’... how ‘almost destroyed’ is it?
 Родион: Так, когда ты сказала «почти разрушен»… насколько «почти»?
 
-# Original: I heard that the light faded from the lighthouse a long time ago, but the shape still stands. At least it was, when I saw it a few months ago.
+# Mayors: I heard that the light faded from the lighthouse a long time ago, but the shape still stands. At least it was, when I saw it a few months ago.
 Мэрс: Я слышала, что свет в маяке погас давным-давно, но сама постройка всё ещё стоит. По крайней мере, стояла, когда я видела её несколько месяцев назад.
 
-# Original: If the lighthouse is in an inoperable state… we’re going to need an expert technician to get it back in working order.
+# Irene: If the lighthouse is in an inoperable state… we’re going to need an expert technician to get it back in working order.
 Айрен: Если маяк в нерабочем состоянии… нам понадобится опытный техник, чтобы вернуть его в строй.
 
-# Original: The technology it's based on is completely divorced from the popular application of Originium technology, so I doubt there’s anyone out there who can work it anymore. Then…
+# Irene: The technology it's based on is completely divorced from the popular application of Originium technology, so I doubt there’s anyone out there who can work it anymore. Then…
 Айрен: Технология, на которой он основан, не имеет ничего общего с популярным применением технологий Ориджиния, так что я сомневаюсь, что найдётся кто-то, кто сможет с ним работать. Тогда…
 
-# Original: You needn’t worry about that.
+# Outis: You needn’t worry about that.
 Отис: Об этом можете не беспокоиться.
 
-# Original: Here, we have an engineer and a researcher who are geniuses even among those in the City, so we should be able to manage most mechanical failures.
+# Outis: Here, we have an engineer and a researcher who are geniuses even among those in the City, so we should be able to manage most mechanical failures.
 Отис: Среди нас есть инженер и исследователь, гении даже по меркам Города, так что мы сможем справиться с большинством механических неисправностей.
 
-# Original: … Today is just revelation after revelation, huh.
+# Irene: … Today is just revelation after revelation, huh.
 Айрен: …Сегодня просто день откровений, да?
 
-# Original: I can vouch for Limbus Company’s skills.
+# Amiya: I can vouch for Limbus Company’s skills.
 Амия: Я могу поручиться за навыки Компании Лимбус.
 
-# Original: I can… also work on the simpler tasks. I’ve learned a thing or two helping out gramps. Stuff about the lighthouse or various tech stuff.
+# Mayors: I can… also work on the simpler tasks. I’ve learned a thing or two helping out gramps. Stuff about the lighthouse or various tech stuff.
 Мэрс: Я… тоже могу помочь с простыми задачами. Я кое-чему научилась, помогая дедушке. Про маяк или разные технические штуки.
 
-# Original: W-well, then should we all head to the lighthouse together?
+# Sinclair: W-well, then should we all head to the lighthouse together?
 Синклер: Ч-что ж, тогда нам всем стоит отправиться к маяку вместе?
 
-# Original: No. I’ll be leaving the group for a moment. Amiya will accompany you instead.
+# Kal'tsit: No. I’ll be leaving the group for a moment. Amiya will accompany you instead.
 Кальцит: Нет. Я на время покину группу. Вместо меня вас будет сопровождать Амия.
 
-# Original: What!? After all that, you’re just going off on your own?
+# Irene: What!? After all that, you’re just going off on your own?
 Айрен: Что?! После всего этого вы просто уходите одна?
 
-# Original: Yes, to join the Doctor. It is imperative for the successful execution of this mission.
+# Kal'tsit: Yes, to join the Doctor. It is imperative for the successful execution of this mission.
 Кальцит: Да, чтобы присоединиться к Доктору. Это необходимо для успешного выполнения миссии.
 
-# Original: Of course, that hinges on Amiya and Skadi remaining behind here to assist the rest of you.
+# Kal'tsit: Of course, that hinges on Amiya and Skadi remaining behind here to assist the rest of you.
 Кальцит: Разумеется, это возможно лишь при условии, что Амия и Скади останутся здесь, чтобы помочь остальным.
 
-# Original: Thus, I will leave it to the rest of you to take the Eye of Iberia—the lighthouse—back.
+# Kal'tsit: Thus, I will leave it to the rest of you to take the Eye of Iberia—the lighthouse—back.
 Кальцит: Итак, я оставляю на вас возвращение Ока Иберии — маяка.
 
-# Original: <… Wait, what do you mean <i>take back</i> the lighthouse?>
+# Dante: <… Wait, what do you mean <i>take back</i> the lighthouse?>
 Данте: <…Подождите, что значит <i>возвращение</i> маяка?>
 
-# Original: <Is there someone or something out there that’s taken over the lighthouse called the Eye of Iberia?>
+# Dante: <Is there someone or something out there that’s taken over the lighthouse called the Eye of Iberia?>
 Данте: <Кто-то или что-то захватило маяк под названием Око Иберии?>
 
-# Original: A likely supposition.
+# Faust: A likely supposition.
 Фауст: Вероятное предположение.
 
-# Original: Amiya. What did the manager of Limbus Company say?
+# Kal'tsit: Amiya. What did the manager of Limbus Company say?
 Кальцит: Амия. Что сказал менеджер Компании Лимбус?
 
-# Original: They’re asking if the lighthouse has been taken over by something.
+# Amiya: They’re asking if the lighthouse has been taken over by something.
 Амия: Он спрашивает, не захвачен ли маяк кем-то.
 
-# Original: Not a bad intuition.
+# Kal'tsit: Not a bad intuition.
 Кальцит: Неплохая интуиция.
 
-# Original: Yes, there is a high likelihood that the structure has already been overrun by Sea Terrors.
+# Kal'tsit: Yes, there is a high likelihood that the structure has already been overrun by Sea Terrors.
 Кальцит: Да, высока вероятность, что сооружение уже захвачено Морскими Ужасами.
 
-# Original: I don’t know about ‘overrun’, but… I’ve encountered them a few times when we approached it too closely.
+# Mayors: I don’t know about ‘overrun’, but… I’ve encountered them a few times when we approached it too closely.
 Мэрс: Не знаю, насчёт «захвачено», но… я пару раз натыкалась на них, когда мы подходили слишком близко.
 
-# Original: Normally, this is hardly enough personnel to attempt a raid on the lighthouse, but…
+# Kal'tsit: Normally, this is hardly enough personnel to attempt a raid on the lighthouse, but…
 Кальцит: Обычно такого количества людей едва ли хватит для штурма маяка, но…
 
-# Original: Answer me this. Are there any limitations to their revival?
+# Kal'tsit: Answer me this. Are there any limitations to their revival?
 Кальцит: Ответьте мне. Есть ли какие-либо ограничения на их возрождение?
 
-# Original: There are no restrictions as long as Dante, the manager, survives. However, do note that battle efficiency depreciates with prolonged battle due to mounting mental stress on the manager.
+# Faust: There are no restrictions as long as Dante, the manager, survives. However, do note that battle efficiency depreciates with prolonged battle due to mounting mental stress on the manager.
 Фауст: Ограничений нет, пока жив Данте, наш менеджер. Однако учтите, что боевая эффективность снижается при затяжном сражении из-за нарастающего ментального напряжения менеджера.
 
-# Original: No need to change the plan, then.
+# Kal'tsit: No need to change the plan, then.
 Кальцит: В таком случае, план менять не нужно.
 
-# Original: Amiya. Use this communicator to alert me as soon as you are able to identify the coordinates of the vessel from the lighthouse.
+# Kal'tsit: Amiya. Use this communicator to alert me as soon as you are able to identify the coordinates of the vessel from the lighthouse.
 Кальцит: Амия. Используй этот коммуникатор, чтобы оповестить меня, как только сможешь определить координаты судна с маяка.
 
-# Original: If luck would have it, we should be able to reduce the time it takes to complete the retrieval mission.
+# Kal'tsit: If luck would have it, we should be able to reduce the time it takes to complete the retrieval mission.
 Кальцит: Если удача будет на нашей стороне, мы сможем сократить время, необходимое для выполнения миссии по возвращению.
 
-# Original: … Okay, as long as you’re not taking everyone with you. If it’s just her who’s leaving, then go ahead.
+# Irene: … Okay, as long as you’re not taking everyone with you. If it’s just her who’s leaving, then go ahead.
 Айрен: …Хорошо, раз уж вы не забираете с собой всех. Если уходит только она, то вперёд.
 
-# Original: <I think we should be fine, too.>
+# Dante: <I think we should be fine, too.>
 Данте: <Думаю, мы и так справимся.>
 
-# Original: Then… let us commence mission ‘Vessel Masas retrieval’.
+# Amiya: Then… let us commence mission ‘Vessel Masas retrieval’.
 Амия: Тогда… начинаем операцию «Возвращение судна Масас».
 
-# Original: Right-o. Step one of the plan's the raft, right? Let’s get on with it.
+# Heathcliff: Right-o. Step one of the plan's the raft, right? Let’s get on with it.
 Хитклиф: Лады. Первый шаг — плот, так? Давайте уже займёмся делом.
 
-# Original: It’s done. Let’s go.
+# Skadi: It’s done. Let’s go.
 Скади: Готово. Идём.
 
-# Original: Hmm…
+# Outis: Hmm…
 Отис: Хм-м…
 
-# Original: What? Why are you looking at us like that? Is there something bothering you?
+# Sinclair: What? Why are you looking at us like that? Is there something bothering you?
 Синклер: Что? Почему вы так на нас смотрите? Вас что-то беспокоит?
 
-# Original: Must you ask? Just look at how proactive and quick she is to jump to action. Certainly lives up to the image of an employee working for a large corporation.
+# Outis: Must you ask? Just look at how proactive and quick she is to jump to action. Certainly lives up to the image of an employee working for a large corporation.
 Отис: Разве нужно спрашивать? Только посмотрите, насколько она инициативна и быстра в действиях. Безусловно, соответствует образу сотрудника крупной корпорации.
 
-# Original: T-thanks, Outis, for that charitable view, I guess.
+# Amiya: T-thanks, Outis, for that charitable view, I guess.
 Амия: С-спасибо, Отис, за столь лестное мнение, полагаю.
 
-# Original: Thanks to Skadi, who had already finished the first step of the plan, we were able to move on to step two immediately.
+# Narrator: Thanks to Skadi, who had already finished the first step of the plan, we were able to move on to step two immediately.
 Рассказчик: Благодаря Скади, которая уже завершила первый этап плана, мы смогли немедленно перейти ко второму.

@@ -1,395 +1,395 @@
-# Original: <It's so... big!>
+# Dante: <It's so... big!>
 Данте: <Он такой... огромный!>
 
-# Original: Amazing… I didn’t know there were remaining vessels of this class in Iberia.
+# Amiya: Amazing… I didn’t know there were remaining vessels of this class in Iberia.
 Амия: Поразительно… Я и не знала, что в Иберии ещё остались суда такого класса.
 
-# Original: Aha, I espy her name here! ‘Tis called by the name Rebelión de las Masas.
+# Don Quixote: Aha, I espy her name here! ‘Tis called by the name Rebelión de las Masas.
 Дон Кихот: Ага, я узрела здесь имя его! Зовётся он <i>Rebelión de las Masas</i>.
 
-# Original: Rebelión de las Masas… “Revolt of the Masses”, is it? A name very much mired in peculiarity, indeed.
+# Yi Sang: Rebelión de las Masas… “Revolt of the Masses”, is it? A name very much mired in peculiarity, indeed.
 И Сан: <i>Rebelión de las Masas</i>… «Восстание масс», не так ли? Имя, воистину погрязшее в своеобразии.
 
-# Original: Hong Lu chimed in, that he was rather fond of it with its size being about the same as the boat from his home, while Ishmael quickly jumped in to correct us that its size alone wasn’t anything special at the Great Lake, but…
+# Narrator: Hong Lu chimed in, that he was rather fond of it with its size being about the same as the boat from his home, while Ishmael quickly jumped in to correct us that its size alone wasn’t anything special at the Great Lake, but…
 Рассказчик: Хон Лу вставил, что корабль ему очень даже по душе, ведь он размером почти с лодку из его дома, на что Измаил тут же поспешила нас поправить, сказав, что на Великом Озере одним лишь размером никого не удивишь, но…
 
-# Original: ... It was still pretty big compared to Mephi or the Indigo Elder’s skiff.
+# Narrator: ... It was still pretty big compared to Mephi or the Indigo Elder’s skiff.
 Рассказчик: ...Он всё равно был здоровенным по сравнению с Мефистофелем или яликом Старика Индиго.
 
-# Original: <I thought it was going to be somewhere around Mephi’s size, at most… Are you sure you can get this ship fixed in a day or two?>
+# Dante: <I thought it was going to be somewhere around Mephi’s size, at most… Are you sure you can get this ship fixed in a day or two?>
 Данте: <Я думал, он будет максимум с Мефистофеля… Вы уверены, что сможете починить его за день-два?>
 
-# Original: As I briefed you yesterday, the great majority of the time-consuming repairs had already been completed by the villagers.
+# Outis: As I briefed you yesterday, the great majority of the time-consuming repairs had already been completed by the villagers. 
 Отис: Как я и докладывала вчера, большая часть трудоёмких ремонтных работ уже была выполнена жителями деревни.
 
-# Original: The extent of our repair efforts only concerns a few components within the vessel that the villagers could not repair, which shouldn’t take us much time.
+# Outis: The extent of our repair efforts only concerns a few components within the vessel that the villagers could not repair, which shouldn’t take us much time.
 Отис: Наши ремонтные работы коснутся лишь нескольких компонентов внутри судна, которые жители деревни починить не смогли. Это не должно занять много времени.
 
-# Original: Unless parts that are unfamiliar to Faust are also malfunctioning, such as the core engine, remaining repairs should be sufficiently managed by Faust.
+# Faust: Unless parts that are unfamiliar to Faust are also malfunctioning, such as the core engine, remaining repairs should be sufficiently managed by Faust.
 Фауст: Если только не вышли из строя незнакомые Фауст детали, вроде главного двигателя, с оставшимся ремонтом Фауст вполне справится.
 
-# Original: Despite Outis’s confident declaration, I could not help but feel oddly unsettled as I looked at the ship.
+# Narrator: Despite Outis’s confident declaration, I could not help but feel oddly unsettled as I looked at the ship.
 Рассказчик: Несмотря на уверенное заявление Отис, я не мог отделаться от странного беспокойства, глядя на корабль.
 
-# Original: I don’t know why, but… something tells me that we don’t want to linger here for too long…
+# Narrator: I don’t know why, but… something tells me that we don’t want to linger here for too long…
 Рассказчик: Не знаю почему, но… что-то подсказывает мне, что нам не стоит здесь задерживаться…
 
-# Original: <Still, please be thorough about it, just in case.>
+# Dante: <Still, please be thorough about it, just in case.>
 Данте: <И всё же, пожалуйста, будьте предельно внимательны, на всякий случай.>
 
-# Original: <I’d rather not sit on a sinking ship again… the experience at the Great Lake was enough.>
+# Dante: <I’d rather not sit on a sinking ship again… the experience at the Great Lake was enough.>
 Данте: <Я бы не хотел снова оказаться на тонущем корабле… опыта на Великом Озере мне хватило.>
 
-# Original: Do not worry, Dante.
+# Faust: Do not worry, Dante.
 Фауст: Не беспокойтесь, Данте.
 
-# Original: Unlike Mephistopheles, most functions of this vessel—buoyancy gear, propellers, steering gear—are all in operational capacity. This repair should be much easier than the case with Mephistopheles.
+# Faust: Unlike Mephistopheles, most functions of this vessel—buoyancy gear, propellers, steering gear—are all in operational capacity. This repair should be much easier than the case with Mephistopheles.
 Фауст: В отличие от Мефистофеля, большинство систем этого судна — механизм поддержания плавучести, винты, рулевое управление — находятся в рабочем состоянии. Этот ремонт должен быть куда проще, чем в случае с Мефистофелем.
 
-# Original: They seem confident enough... it should be safe this time around, right?
+# Gregor: They seem confident enough... it should be safe this time around, right?
 Грегор: Звучит довольно уверенно… в этот раз всё должно быть безопасно, так ведь?
 
-# Original: Are we taking that rope to climb up to the ship?
+# Amiya: Are we taking that rope to climb up to the ship?
 Амия: Мы поднимемся на корабль по этому канату?
 
-# Original: No, there’s a lift-like apparatus down here. It should take us up to the ship.
+# Ishmael: No, there’s a lift-like apparatus down here. It should take us up to the ship.
 Измаил: Нет, здесь внизу есть что-то вроде подъёмника. Он должен доставить нас наверх.
 
-# Original: Its stability was verified yesterday. Let us board the lift.
+# Faust: Its stability was verified yesterday. Let us board the lift.
 Фауст: Его стабильность была проверена вчера. Заходим на подъёмник.
 
-# Original: <You're one-hundred-per-cent certain, right...?>
+# Dante: <You're one-hundred-per-cent certain, right...?>
 Данте: <Ты уверена на все сто процентов, да?..>
 
-# Original: The boat is afloat right now, Dante. I don't think it'll be sinking anytime soon.
+# Amiya: The boat is afloat right now, Dante. I don't think it'll be sinking anytime soon.
 Амия: Корабль сейчас на плаву, Данте. Не думаю, что он в ближайшее время пойдёт ко дну.
 
-# Original: <Wouldn't that be nice.>
+# Dante: <Wouldn't that be nice.>
 Данте: <Хотелось бы верить.>
 
-# Original: Oi, are you two just going to faff about down here? We’re headin’ up now.
+# Heathcliff: Oi, are you two just going to faff about down here? We’re headin’ up now.
 Хитклиф: Эй, вы двое так и будете внизу копошиться? Мы уже поднимаемся.
 
-# Original: <N-no, we’re going with you.>
+# Dante: <N-no, we’re going with you.>
 Данте: <Н-нет, мы с вами.>
 
-# Original: As I made my way into the vessel's bridge...
+# Narrator: As I made my way into the vessel's bridge...
 Рассказчик: Когда я вошёл на мостик корабля…
 
-# Original: ... I was greeted by the extravagant interior that was as gaudy as its exterior.
+# Narrator: ... I was greeted by the extravagant interior that was as gaudy as its exterior.
 Рассказчик: …меня встретил экстравагантный интерьер, столь же безвкусный, как и его внешний вид.
 
-# Original: T-this isn’t real gold, is it? Sure is shiny as heck in here… I’ve got butterflies in my stomach.
+# Rodion: T-this isn’t real gold, is it? Sure is shiny as heck in here… I’ve got butterflies in my stomach.
 Родион: Э-это ведь не настоящее золото, да? Ну и блестит же всё… у меня аж дух захватывает.
 
-# Original: Hm… A.S.
+# Ryōshū: Hm… A.S.
 Рёшу: Хм… Э.С.
 
-# Original: “Aesthetically Satisfying,” she says…
+# Sinclair: “Aesthetically Satisfying,” she says…
 Синклер: «Эстетически Совершенно», — говорит она…
 
-# Original: But too ostentatious. Not quite my style.
+# Ryōshū: But too ostentatious. Not quite my style.
 Рёшу: Но слишком вычурно. Не в моём вкусе.
 
-# Original: Our young Mephi is also quite the excellent vessel, yet… Imagine the adventures we could embark on aboard this vessel most lavishly decorated...!
+# Don Quixote: Our young Mephi is also quite the excellent vessel, yet… Imagine the adventures we could embark on aboard this vessel most lavishly decorated...!
 Дон Кихот: Наш юный Мефистофель тоже прекрасное судно, однако… Только представьте, в какие приключения мы могли бы пуститься на борту этого роскошно украшенного корабля!..
 
-# Original: As Faust and Outis were working on one of the control panels, Ishmael walked up to another and interfaced with it before giving a knowing nod.
+# Narrator: As Faust and Outis were working on one of the control panels, Ishmael walked up to another and interfaced with it before giving a knowing nod.
 Рассказчик: Пока Фауст и Отис работали над одной из панелей управления, Измаил подошла к другой, повзаимодействовала с ней и со знанием дела кивнула.
 
-# Original: This must’ve been an investigative or research vessel of sorts… but it does seem a bit extravagant for one of those, though.
+# Ishmael: This must’ve been an investigative or research vessel of sorts… but it does seem a bit extravagant for one of those, though.
 Измаил: Должно быть, это было какое-то исследовательское судно… хотя для такого оно выглядит чересчур экстравагантно.
 
-# Original: Look, coordinates. Updating in real-time, it seems…
+# Ishmael: Look, coordinates. Updating in real-time, it seems…
 Измаил: Смотрите, координаты. Кажется, обновляются в реальном времени…
 
-# Original: The coordinates seem to have been set to somewhere out in the middle of the ocean. Maybe it points to a small islet?
+# Outis: The coordinates seem to have been set to somewhere out in the middle of the ocean. Maybe it points to a small islet?
 Отис: Похоже, координаты указывают на какую-то точку посреди океана. Может, это небольшой островок?
 
-# Original: Nope, no islet there.
+# Mayors: Nope, no islet there.
 Мэрс: Не-а, никакого островка там нет.
 
-# Original: Waagh!
+# Heathcliff: Waagh!
 Хитклиф: Уа-а!
 
-# Original: B-blimey, lass. You sure know how to sneak up on people.
+# Heathcliff: B-blimey, lass. You sure know how to sneak up on people.
 Хитклиф: Ч-чёрт, девчонка. Ну ты и мастерица подкрадываться.
 
-# Original: <Mayors!?>
+# Dante: <Mayors!?>
 Данте: <Мэрс?!>
 
-# Original: Ha ha, what? Did I actually surprise you? I did ask if you guys were gonna come fix the boat today.
+# Mayors: Ha ha, what? Did I actually surprise you? I did ask if you guys were gonna come fix the boat today.
 Мэрс: Ха-ха, что? Неужели я и правда вас напугала? Я же спрашивала, придёте ли вы сегодня чинить лодку.
 
-# Original: Still, I didn’t know you’d be here…
+# Sinclair: Still, I didn’t know you’d be here…
 Синклер: И всё же, я не знал, что вы будете здесь…
 
-# Original: Hmm… Why are the coordinates set to this location?
+# Outis: Hmm… Why are the coordinates set to this location?
 Отис: Хм… Почему координаты указывают на это место?
 
-# Original: There are several undersea cities beneath those coordinates. Collectively known as Ægir.
+# Mayors: There are several undersea cities beneath those coordinates. Collectively known as Ægir.
 Мэрс: Под этими координатами находится несколько подводных городов. Все вместе они известны как Эгир.
 
-# Original: Gramps’ home.
+# Mayors: Gramps’ home.
 Мэрс: Дом дедули.
 
-# Original: … I see. Understood.
+# Faust: … I see. Understood.
 Фауст: …Ясно. Понятно.
 
-# Original: Hm? What was understood, if I may ask?
+# Yi Sang: Hm? What was understood, if I may ask?
 И Сан: Хм? Что же стало понятным, позвольте спросить?
 
-# Original: It is now understood why the promise to repair this ship was sufficient to earn their trust and the title of 'saviors'.
+# Faust: It is now understood why the promise to repair this ship was sufficient to earn their trust and the title of 'saviors'.
 Фауст: Теперь понятно, почему обещания починить этот корабль было достаточно, чтобы заслужить их доверие и титул «спасителей».
 
-# Original: What’s she on about? Someone get translatin’.
+# Heathcliff: What’s she on about? Someone get translatin’.
 Хитклиф: О чём это она? Кто-нибудь, переведите.
 
-# Original: … Consolidating and cross-referencing the observed particular circumstances of the village and the statements from the village chief, alongside information garnered from the exchange with Mayors, it is possible to gauge the significance this ship’s repair has to the local populace.
+# Faust: … Consolidating and cross-referencing the observed particular circumstances of the village and the statements from the village chief, alongside information garnered from the exchange with Mayors, it is possible to gauge the significance this ship’s repair has to the local populace.
 Фауст: …Консолидируя и сопоставляя наблюдаемые специфические обстоятельства деревни и заявления старосты с информацией, почерпнутой из разговора с Мэрс, можно оценить значимость починки этого корабля для местного населения.
 
-# Original: Of course, while this may constitute a sequence of logical connections that poses a certain challenge for Heathcliff to comprehend,
+# Faust: Of course, while this may constitute a sequence of logical connections that poses a certain challenge for Heathcliff to comprehend,
 Фауст: Разумеется, хотя это и представляет собой последовательность логических связей, осмысление которой представляет для Хитклифа определённую трудность,
 
-# Original: to employ any degree of effort to attempt to explain it in more digestible language would constitute a pursuit of inefficiency.
+# Faust: to employ any degree of effort to attempt to explain it in more digestible language would constitute a pursuit of inefficiency.
 Фауст: прилагать какие-либо усилия для объяснения этого более доступным языком было бы стремлением к неэффективности.
 
-# Original: …….
+# Heathcliff: …….
 Хитклиф: …….
 
-# Original: L-lower the baton, I implore you! I shall explain it in full.
+# Yi Sang: L-lower the baton, I implore you! I shall explain it in full.
 И Сан: О-опустите биту, умоляю вас! Я всё объясню.
 
-# Original: Haah… I was wondering when Miss smartarse would start gabbing like that again. So, what’s she on about?
+# Heathcliff: Haah… I was wondering when Miss smartarse would start gabbing like that again. So, what’s she on about?
 Хитклиф: Ха-ах… Я всё ждал, когда госпожа всезнайка опять начнёт так трепаться. Так о чём это она?
 
-# Original: Heathcliff’s shoulders were relaxed; it didn’t seem like he was actually going to swing the bat. He placed it lightly over his shoulder with a sigh.
+# Narrator: Heathcliff’s shoulders were relaxed; it didn’t seem like he was actually going to swing the bat. He placed it lightly over his shoulder with a sigh.
 Рассказчик: Плечи Хитклифа были расслаблены; не похоже, чтобы он и вправду собирался пустить в ход биту. Вздохнув, он небрежно закинул её на плечо.
 
-# Original: A brief observation of the village seemed to suggest that their subsistence situation was quite dire; much of their daily sustenance consisted of dried food, most of them made for long-term storage purposes.
+# Yi Sang: A brief observation of the village seemed to suggest that their subsistence situation was quite dire; much of their daily sustenance consisted of dried food, most of them made for long-term storage purposes.
 И Сан: Беглый осмотр деревни позволил предположить, что их продовольственное положение весьма плачевно; большая часть их ежедневного рациона состояла из сушёных продуктов, в основном предназначенных для длительного хранения.
 
-# Original: Considering what Skadi said about how the coastal areas are full of danger… maybe those dried seafood aren’t from around here, either.
+# Ishmael: Considering what Skadi said about how the coastal areas are full of danger… maybe those dried seafood aren’t from around here, either.
 Измаил: Учитывая слова Скади о том, что прибрежные районы полны опасностей… возможно, эти сушёные морепродукты тоже не отсюда.
 
-# Original: Maybe it's food they packed when they first came to Faro Muerto?
+# Amiya: Maybe it's food they packed when they first came to Faro Muerto?
 Амия: Может, это еда, которую они взяли с собой, когда впервые прибыли в Фаро Муэрто?
 
-# Original: <Some villagers were armed, yeah, and those "Sea Terrors" weren't exactly that formidable, but...>
+# Dante: <Some villagers were armed, yeah, and those "Sea Terrors" weren't exactly that formidable, but...>
 Данте: <Да, некоторые жители были вооружены, и эти «Морские Ужасы» не были такими уж грозными, но…>
 
-# Original: <... given the state the villagers are in, I doubt they'd have an easy time repelling those monsters.>
+# Dante: <... given the state the villagers are in, I doubt they'd have an easy time repelling those monsters.>
 Данте: <…учитывая состояние жителей деревни, сомневаюсь, что им было бы легко отбиваться от этих чудовищ.>
 
-# Original: Indeed. And that brings us to the question of sustenance...
+# Yi Sang: Indeed. And that brings us to the question of sustenance...
 И Сан: Именно. И это подводит нас к вопросу пропитания…
 
-# Original: Right, I get what’s goin’ on here.
+# Heathcliff: Right, I get what’s goin’ on here.
 Хитклиф: Ясно, я всё понял.
 
-# Original: The lass and her granddad are ‘bout to visit their hometown, and they’re tryin’ to get some food supplies from there to feed the villagers, and to convince 'em, they're planning to use the fact they’re from the same neck ‘o the woods. Or sea, I guess.
+# Heathcliff: The lass and her granddad are ‘bout to visit their hometown, and they’re tryin’ to get some food supplies from there to feed the villagers, and to convince 'em, they're planning to use the fact they’re from the same neck ‘o the woods. Or sea, I guess.
 Хитклиф: Девчонка со своим дедом собираются навестить родные края, раздобыть там припасов, чтобы накормить деревню, а чтобы их убедить, они собираются козырнуть тем, что они, типа, земляки. Ну, или соводники, полагаю.
 
-# Original: Ohh, so we’re not just repairing their ship, we’re repairing their food supply plan, too!
+# Amiya: Ohh, so we’re not just repairing their ship, we’re repairing their food supply plan, too!
 Амия: О-о, так мы не просто спасаем их корабль, мы ещё и спасаем их план по добыче продовольствия!
 
-# Original: Huh? What’s wrong?
+# Amiya: Huh? What’s wrong?
 Амия: А? Что-то не так?
 
-# Original: <It’s uh…>
+# Dante: <It’s uh…>
 Данте: <Ну, э-э…>
 
-# Original: While the expressions were rather crude, Heathcliff’s summary of the situation was clear, to the point, and easily understood. The Sinners stared at him with mild surprise.
+# Narrator: While the expressions were rather crude, Heathcliff’s summary of the situation was clear, to the point, and easily understood. The Sinners stared at him with mild surprise.
 Рассказчик: Хоть и выраженное довольно грубо, заключение Хитклифа было ясным, точным и легко понятным. Грешники с лёгким удивлением уставились на него.
 
-# Original: And I did, too…
+# Narrator: And I did, too…
 Рассказчик: И я тоже…
 
-# Original: … What’s with them annoyin’ looks? Wait. Oh, you sods…!
+# Heathcliff: … What’s with them annoyin’ looks? Wait. Oh, you sods…!
 Хитклиф: …Чего уставились, как на идиота? Погодите-ка. Ах вы, гады!..
 
-# Original: You don’t think I’m <i>that</i> dimwitted, do you?
+# Heathcliff: You don’t think I’m <i>that</i> dimwitted, do you?
 Хитклиф: Неужели вы считаете меня <i>настолько</i> тупым?
 
-# Original: Heh. Top-notch intuition.
+# Ryōshū: Heh. Top-notch intuition.
 Рёшу: Хех. Первоклассная интуиция.
 
-# Original: <It’s just that… It’s been a while since you’ve shown this side of yourself.>
+# Dante: <It’s just that… It’s been a while since you’ve shown this side of yourself.>
 Данте: <Просто… ты давно не показывал себя с этой стороны.>
 
-# Original: Thinking back, Heathcliff's intuition's always been excellent, and he'd often put together surprisingly accurate conclusions with impressive speed.
+# Narrator: Thinking back, Heathcliff's intuition's always been excellent, and he'd often put together surprisingly accurate conclusions with impressive speed.
 Рассказчик: Если подумать, интуиция у Хитклифа всегда была превосходной, и он часто с поразительной скоростью приходил к удивительно точным выводам.
 
-# Original: Y-you know, when you really think about it, it's kind of your fault for—aah!?
+# Sinclair: Y-you know, when you really think about it, it's kind of your fault for—aah!?
 Синклер: З-знаешь, если так подумать, то это отчасти твоя вина, что… а-а?!
 
-# Original: I've been too soft on you lately, haven't I? Oi! Get back here!
+# Heathcliff: I've been too soft on you lately, haven't I? Oi! Get back here!
 Хитклиф: Что-то я с тобой в последнее время слишком мягок, да? Эй! А ну вернись!
 
-# Original: Ahem... Now, with those fools out of the conversation… Was he correct?
+# Outis: Ahem... Now, with those fools out of the conversation… Was he correct?
 Отис: Кхм… Теперь, когда эти дураки выбыли из разговора… Он был прав?
 
-# Original: Outis looks away from the usual chaos and asks Mayors.
+# Narrator: Outis looks away from the usual chaos and asks Mayors.
 Рассказчик: Отис отворачивается от привычного хаоса и спрашивает Мэрс.
 
-# Original: Honestly, I’m surprised. He was on point.
+# Mayors: Honestly, I’m surprised. He was on point.
 Мэрс: Честно говоря, я удивлена. Он попал в самую точку.
 
-# Original: Yeah. Food’s been running low in the village. At this rate, we won't last another year...
+# Mayors: Yeah. Food’s been running low in the village. At this rate, we won't last another year...
 Мэрс: Да. В деревне заканчивается еда. Такими темпами мы и года не протянем…
 
-# Original: But the Ægir will… I’m sure they’ll welcome us with open arms.
+# Mayors: But the Ægir will… I’m sure they’ll welcome us with open arms.
 Мэрс: Но Эгир… я уверена, они примут нас с распростёртыми объятиями.
 
-# Original: … I don’t want to come off like I’m overly worried, but… do you think they’ll welcome the others, too?
+# Amiya: … I don’t want to come off like I’m overly worried, but… do you think they’ll welcome the others, too?
 Амия: …Не хочу показаться излишне беспокойной, но… как вы думаете, они примут и остальных?
 
-# Original: Unlike Mayors or chief, they’re… not Ægir.
+# Amiya: Unlike Mayors or chief, they’re… not Ægir.
 Амия: В отличие от Мэрс или старосты, они… не Эгир.
 
-# Original: I believe they will.
+# Mayors: I believe they will.
 Мэрс: Думаю, да.
 
-# Original: Iberia suspects and hates the Ægir for no other reason than that we’re from the sea, but…
+# Mayors: Iberia suspects and hates the Ægir for no other reason than that we’re from the sea, but…
 Мэрс: Иберия подозревает и ненавидит Эгир лишь потому, что мы из моря, но…
 
-# Original: Our home cannot have fallen so low as to abandon a group of starving land-dwellers.
+# Mayors: Our home cannot have fallen so low as to abandon a group of starving land-dwellers.
 Мэрс: Наш дом не мог пасть так низко, чтобы бросить на произвол судьбы группу голодающих жителей суши.
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: P-prithee, might thou explain to us who… the Ægir are…?
+# Don Quixote: P-prithee, might thou explain to us who… the Ægir are…?
 Дон Кихот: П-прошу, не могли бы вы объяснить нам, кто такие… Эгир?..
 
-# Original: ... I had initially thought it to be a reference to a region, yet it also seems to refer to an affiliation of sorts.
+# Yi Sang: ... I had initially thought it to be a reference to a region, yet it also seems to refer to an affiliation of sorts.
 И Сан: ...Я поначалу счёл это отсылкой к региону, однако, похоже, это также обозначает некую принадлежность.
 
-# Original: Maybe they’re something like Nest dwellers? Though I don’t think I’ve heard of a Nest that accepts Backstreets people with open arms.
+# Sinclair: Maybe they’re something like Nest dwellers? Though I don’t think I’ve heard of a Nest that accepts Backstreets people with open arms.
 Синклер: Может, они что-то вроде жителей Гнезда? Хотя я не слышал, чтобы хоть одно Гнездо принимало людей из Подворотен с распростёртыми объятиями.
 
-# Original: Or maybe… they used to be some rich folk?
+# Rodion: Or maybe… they used to be some rich folk?
 Родион: Или, может… они раньше были какими-нибудь богачами?
 
-# Original: If they call them Nest toffs Ægir here, then does that make the rabbit-eared lass Ægir, too?
+# Heathcliff: If they call them Nest toffs Ægir here, then does that make the rabbit-eared lass Ægir, too?
 Хитклиф: Если здешних гнездовских шишек называют Эгир, тогда эта ушастая девчонка тоже Эгир?
 
-# Original: …….
+# Amiya: …….
 Амия: …….
 
-# Original: Wait, in the world you came from… do they not distinguish between races?
+# Amiya: Wait, in the world you came from… do they not distinguish between races?
 Амия: Постойте, в мире, из которого вы пришли… разве не различают расы?
 
-# Original: That is not entirely true. Delineation between races is a concept that does exist.
+# Faust: That is not entirely true. Delineation between races is a concept that does exist. 
 Фауст: Это не совсем так. Разграничение между расами как концепция существует.
 
-# Original: Though I only saw them in the fathoms... there were those terrifying things called the Cuckoospawns.
+# Narrator: Though I only saw them in the fathoms... there were those terrifying things called the Cuckoospawns.
 Рассказчик: Хоть я и видел их только в глубинах… там были эти ужасающие создания, которых звали Людьми-Кукушатами.
 
-# Original: However, as a general rule, it can be said that humans are—excuse me, humans should be the only intelligent lifeforms in the City.
+# Faust: However, as a general rule, it can be said that humans are—excuse me, humans should be the only intelligent lifeforms in the City.
 Фауст: Однако, как правило, можно сказать, что люди являются — простите, люди должны быть единственными разумными формами жизни в Городе.
 
-# Original: The people of Terra... have slightly varying appearances depending on their race. Like my... Cautus ears.
+# Amiya: The people of Terra... have slightly varying appearances depending on their race. Like my... Cautus ears.
 Амия: Жители Терры… немного отличаются внешне в зависимости от их расы. Как, например, мои уши… это отличительный признак Каутус.
 
-# Original: And I’ve got pointed ears, because I’m an Ægir. Though it’s not a characteristic every Ægir shares…
+# Mayors: And I’ve got pointed ears, because I’m an Ægir. Though it’s not a characteristic every Ægir shares…
 Мэрс: А у меня заострённые уши, потому что я Эгир. Хотя это и не та черта, что есть у всех Эгир…
 
-# Original: The closest idea to what they are discussing appeareth to be… umm, uhm...
+# Don Quixote: The closest idea to what they are discussing appeareth to be… umm, uhm...
 Дон Кихот: Ближайшее понятие к тому, что они обсуждают, по-видимому… эм-м, гм-м...
 
-# Original: Don Quixote seemed to be struggling to finish her sentence.
+# Narrator: Don Quixote seemed to be struggling to finish her sentence.
 Рассказчик: Казалось, Дон Кихот с трудом подбирает слова.
 
-# Original: Meursault stepped in to continue.
+# Narrator: Meursault stepped in to continue.
 Рассказчик: Мерсо вмешался, чтобы продолжить.
 
-# Original: By context clues and the manner of word usage, including the means of classification, the closest example in our world would be Bloodfiends. Similar external appearances to humans, different natures, comparable sapience.
+# Meursault: By context clues and the manner of word usage, including the means of classification, the closest example in our world would be Bloodfiends. Similar external appearances to humans, different natures, comparable sapience.
 Мерсо: Судя по контексту и манере использования слов, включая способ классификации, ближайшим примером в нашем мире будут Кровожады. Внешнее сходство с людьми, иная природа, сопоставимый уровень разума.
 
-# Original: 'Tis of my belief that Bloodfiends are ostracized due to their nature that maketh coexistence with humans difficult. It may be that the Ægir are also…
+# Don Quixote: 'Tis of my belief that Bloodfiends are ostracized due to their nature that maketh coexistence with humans difficult. It may be that the Ægir are also…
 Дон Кихот: Я полагаю, что Кровожады становятся изгоями из-за своей природы, которая затрудняет сосуществование с людьми. Возможно, Эгир тоже…
 
-# Original: I’m sure some of them do possess qualities that make coexistence with others difficult, but… they’re probably rare.
+# Amiya: I’m sure some of them do possess qualities that make coexistence with others difficult, but… they’re probably rare.
 Амия: Уверенна, некоторые из них обладают качествами, которые затрудняют сосуществование с другими, но… таких, скорее всего, мало.
 
-# Original: Then wherefore are they made subjects of suspicion and hatred…?
+# Don Quixote: Then wherefore are they made subjects of suspicion and hatred…?
 Дон Кихот: Отчего же тогда они становятся объектами подозрений и ненависти?..
 
-# Original: That's...
+# Amiya: That's...
 Амия: Это…
 
-# Original: Well... the language is new, but the idea itself is pretty familiar to the City folks like us.
+# Gregor: Well... the language is new, but the idea itself is pretty familiar to the City folks like us.
 Грегор: Ну… слова-то новые, но сама идея нам, жителям Города, вполне знакома.
 
-# Original: Think of feathers of fallen Wings. Kids born in the Backstreets. People who replaced their body parts with prosthetics.
+# Gregor: Think of feathers of fallen Wings. Kids born in the Backstreets. People who replaced their body parts with prosthetics.
 Грегор: Вспомните перьев павших Крыльев. Детей, рождённых в Подворотнях. Людей, заменивших части тела протезами.
 
-# Original: The form differs, yet in its essence we find the thread.
+# Yi Sang: The form differs, yet in its essence we find the thread.
 И Сан: Форма разнится, но в сути её мы находим общую нить.
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: Something about how we keep finding these similarities in the ways of our lives, despite finding ourselves in a distant world with different rules, races, and humans...
+# Narrator: Something about how we keep finding these similarities in the ways of our lives, despite finding ourselves in a distant world with different rules, races, and humans...
 Рассказчик: Что-то в том, как мы продолжали находить эти сходства в укладе жизни, несмотря на то что оказались в далёком мире с иными правилами, расами и людьми…
 
-# Original: ... felt oddly discomforting.
+# Narrator: ... felt oddly discomforting.
 Рассказчик: …вызывало странный дискомфорт.
 
-# Original: Ahem. The point is, you guys are doing us a real solid by fixing up the ship.
+# Mayors: Ahem. The point is, you guys are doing us a real solid by fixing up the ship.
 Мэрс: Кхм. В общем, ребята, вы нам очень поможете, если почините корабль.
 
-# Original: Let’s move on from these gloomy conversations, okay? I wanna show you the cooler parts of this ship. This way—
+# Mayors: Let’s move on from these gloomy conversations, okay? I wanna show you the cooler parts of this ship. This way—
 Мэрс: Давайте сменим тему, а то что-то мы загрустили, а? Я хочу показать вам самые крутые места на этом корабле. Сюда…
 
-# Original: … The ship tour may have to wait.
+# Faust: … The ship tour may have to wait.
 Фауст: …Экскурсии по кораблю придётся подождать.
 
-# Original: The repairs are almost completed, but an issue has arisen.
+# Faust: The repairs are almost completed, but an issue has arisen.
 Фауст: Ремонт почти завершён, но возникла проблема.
 
-# Original: Issue...?
+# Mayors: Issue...?
 Мэрс: Проблема?..
 
-# Original: W-wow, that’s not reassuring at all…
+# Sinclair: W-wow, that’s not reassuring at all…
 Синклер: В-воу, это совсем не обнадёживает…
 
-# Original: …!
+# Amiya: …!
 Амия: …!
 
-# Original: Multiple lifeforms identified ahead! Assumed to be a Sea Terror horde!
+# Amiya: Multiple lifeforms identified ahead! Assumed to be a Sea Terror horde!
 Амия: Впереди обнаружено множество форм жизни! Предположительно, это орда Морских Ужасов!
 
-# Original: The ship’s radar system seems to suggest that the vessel is surrounded.
+# Faust: The ship’s radar system seems to suggest that the vessel is surrounded.
 Фауст: Судя по показаниям корабельного радара, судно окружено.
 
-# Original: <They’re the same monsters from yesterday!>
+# Dante: <They’re the same monsters from yesterday!>
 Данте: <Это те же чудовища, что и вчера!>
 
-# Original: Executive Manager! Please order us to prepare for battle!
+# Outis: Executive Manager! Please order us to prepare for battle!
 Отис: Исполнительный менеджер! Прикажите нам готовиться к бою!
 
-# Original: Dammit... Are they the ‘Sea Terrors’ you encountered?
+# Outis: Dammit... Are they the ‘Sea Terrors’ you encountered?
 Отис: Чёрт… Это те «Морские Ужасы», с которыми вы столкнулись?
 
-# Original: They look a bit different, but… yeah, probably.
+# Gregor: They look a bit different, but… yeah, probably.
 Грегор: Выглядят немного иначе, но… да, скорее всего.
 
-# Original: There’s a lot of them, but… if our last experience tells us anything, we should be able to handle this.
+# Ishmael: There’s a lot of them, but… if our last experience tells us anything, we should be able to handle this.
 Измаил: Их много, но… если судить по прошлому разу, мы должны с этим справиться.
 
-# Original: <Amiya, please support us in battle like you did yesterday!>
+# Dante: <Amiya, please support us in battle like you did yesterday!>
 Данте: <Амия, пожалуйста, поддержи нас в бою, как и вчера!>
 
-# Original: Canst thou fight, young Mayors?
+# Don Quixote: Canst thou fight, young Mayors?
 Дон Кихот: Можешь ли ты сражаться, юная Мэрс?
 
-# Original: I... feel like I’m just gonna get in your way…
+# Mayors: I... feel like I’m just gonna get in your way…
 Мэрс: Я… кажется, я буду только мешаться…
 
-# Original: <Then... Guys, find a place to keep Mayors as far as possible from the battle.>
+# Dante: <Then... Guys, find a place to keep Mayors as far as possible from the battle.>
 Данте: <Тогда… Ребята, найдите место, где Мэрс будет как можно дальше от битвы.>
 
-# Original: <Then let’s hurry down there. We don’t want them damaging the ship any further.>
+# Dante: <Then let’s hurry down there. We don’t want them damaging the ship any further.>
 Данте: <А теперь поспешим вниз. Нельзя позволить им ещё больше повредить корабль.>

@@ -1,137 +1,137 @@
-﻿# Original: <Meursault! So this is the place I saw... What are you doing here?>
+﻿# Dante: <Meursault! So this is the place I saw... What are you doing here?>
 Данте: <Мерсо! Так вот это место я видел... Что ты здесь делаешь?>
 
-# Original: ... I entered the Grand Magasin, proceeded onward, and arrived at this shop.
+# Meursault: ... I entered the Grand Magasin, proceeded onward, and arrived at this shop.
 Мерсо: ... Я вошёл в Гран-Магазэн, проследовал вперёд и прибыл в этот магазин.
 
-# Original: What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!
+# Rodion: What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!
 Родион: Ну ты даёшь, Мер! Хоть бы сделал вид, что удивлён нас видеть. Мы ж тебя спасать пришли!
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: As far as I'm aware, entry to Sisyphe is beyond ordinary means.
+# Meursault: As far as I'm aware, entry to Sisyphe is beyond ordinary means.
 Мерсо: Насколько мне известно, попасть в Сизиф обычными способами невозможно.
 
-# Original: If you were not brought here via the Sisyphe Penalty, then you must have taken another, unknown route.
+# Meursault: If you were not brought here via the Sisyphe Penalty, then you must have taken another, unknown route.
 Мерсо: Если вы оказались здесь не вследствие Наказания Сизифа, значит, вы воспользовались иным, неизвестным мне путём.
 
-# Original: <... That's right. Hermann and her lackeys helped us.>
+# Dante: <... That's right. Hermann and her lackeys helped us.>
 Данте: <... Именно. Нам помогли Герман и её прихвостни.>
 
-# Original: I see.
+# Meursault: I see.
 Мерсо: Понятно.
 
-# Original: Forget about that. Just what have you been doing here all this time, Meursault?
+# Ishmael: Forget about that. Just what have you been doing here all this time, Meursault?
 Измаил: Неважно. Чем ты вообще занимался здесь всё это время, Мерсо?
 
-# Original: And what is this place?
+# Ishmael: And what is this place?
 Измаил: И что это за место?
 
-# Original: I am... currently in storage.
+# Meursault: I am... currently in storage.
 Мерсо: В данный момент я... нахожусь на хранении.
 
-# Original: What does that even—
+# Ishmael: What does that even—
 Измаил: Что это вообще зна—
 
-# Original: *sigh* Just as averse to explaining yourself as you were outside, even in this place.
+# Ishmael: *sigh* Just as averse to explaining yourself as you were outside, even in this place.
 Измаил: *вздох* Даже здесь из тебя объяснений не вытянешь. Всё как снаружи.
 
-# Original: Who are you people?
+# Mimosa: Who are you people?
 Мимоза: Вы ещё кто такие?
 
-# Original: Back off. I found this material first. Finders keepers. It belongs to our store now.
+# Mimosa: Back off. I found this material first. Finders keepers. It belongs to our store now.
 Мимоза: Руки прочь. Я первая нашла этот материал. Кто успел, того и тапки. Теперь он принадлежит нашему магазину.
 
-# Original: "Material"...? Um... Look, this dude is our... uh, "colleague." Can we have him back, please?
+# Rodion: "Material"...? Um... Look, this dude is our... uh, "colleague." Can we have him back, please?
 Родион: «Материал»...? Эм... Слушай, этот парень — наш... ну, «коллега». Можно нам его забрать, пожалуйста?
 
-# Original: "Colleague"... Hm. I've heard that word before. Is it a brand name?
+# Mimosa: "Colleague"... Hm. I've heard that word before. Is it a brand name?
 Мимоза: «Коллега»... Хм. Где-то я уже слышала это слово. Это название бренда?
 
-# Original: Uh...
+# Rodion: Uh...
 Родион: Э-э...
 
-# Original: From what we've seen of this place so far... I don't know if common sense is all that reliable in here.
+# Ishmael: From what we've seen of this place so far... I don't know if common sense is all that reliable in here.
 Измаил: Судя по тому, что мы тут уже видели... Не знаю, стоит ли здесь полагаться на здравый смысл.
 
-# Original: When you said he belongs to your store... does that mean you're gonna put him to work?
+# Ishmael: When you said he belongs to your store... does that mean you're gonna put him to work?
 Измаил: Ты сказала, что он принадлежит вашему магазину... Это значит, вы собираетесь заставить его работать?
 
-# Original: No. We have more than enough staff for this shop. It's the material that's in shortage.
+# Mimosa: No. We have more than enough staff for this shop. It's the material that's in shortage.
 Мимоза: Нет. Сотрудников у нас в магазине более чем достаточно. А вот материала не хватает.
 
-# Original: Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?
+# Ishmael: Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?
 Измаил: Материала...? А, ясно. Значит, вы хотите, э-э... одолжить форму Мерсо...?
 
-# Original: You strangers are impossible to communicate with. I'm at my wits' end here...
+# Mimosa: You strangers are impossible to communicate with. I'm at my wits' end here...
 Мимоза: С вами, посторонними, просто невозможно разговаривать. Уже сил никаких нет...
 
-# Original: The employee gave us an exasperated look.
+# Narrator: The employee gave us an exasperated look.
 Рассказчик: Продавщица бросила на нас раздражённый взгляд.
 
-# Original: I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?
+# Mimosa: I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?
 Мимоза: Я же сказала: нам не хватает материала. <i>Материала</i>. Что тут непонятного?
 
-# Original: Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!
+# Mimosa: Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!
 Мимоза: Вы что, не слышали объявление? Тренд снова сменился. Ещё через несколько сезонов в моду войдёт что-нибудь другое. Вот почему нам — и этому магазину — всегда будет нужно больше материала!
 
-# Original: I get that, <i>I get that</i>, but what the hell does that have to do with—
+# Ishmael: I get that, <i>I get that</i>, but what the hell does that have to do with—
 Измаил: Я понимаю, <i>я понимаю</i>, но при чём тут, чёрт возьми—
 
-# Original: Do any of you strangers have more common sense than this one? This one doesn't get a single word I'm saying!
+# Mimosa: Do any of you strangers have more common sense than this one? This one doesn't get a single word I'm saying!
 Мимоза: Среди вас, посторонних, есть кто-нибудь поразумнее этой? Она ни слова не понимает из того, что я говорю!
 
-# Original: You're the one who—
+# Ishmael: You're the one who—
 Измаил: Да это ты—
 
-# Original: I think, Ishy... these people aren't about to hand Meur over just like that. We'll need to make a deal with them.
+# Rodion: I think, Ishy... these people aren't about to hand Meur over just like that. We'll need to make a deal with them.
 Родион: По-моему, Изя... эти ребята не собираются отдавать Мера просто так. Придётся с ними договориться.
 
-# Original: Sure, but a deal needs two-way communication, you know...
+# Ishmael: Sure, but a deal needs two-way communication, you know...
 Измаил: Да, но, чтобы договориться, нужно хотя бы понимать друг друга...
 
-# Original: I get whatcha mean, Ishy. Ishy?
+# Rodion: I get whatcha mean, Ishy. Ishy?
 Родион: Я понимаю, о чём ты, Изя. Изя?
 
-# Original: I'm just sayin', I don't think asking more questions is our best shot at moving on.
+# Rodion: I'm just sayin', I don't think asking more questions is our best shot at moving on.
 Родион: Просто, по-моему, если мы хотим сдвинуться с места, дальше задавать вопросы — не лучший вариант.
 
-# Original: All right. Why don'tcha go ahead and tell me what you want in return for this, uh, "material"?
+# Rodion: All right. Why don'tcha go ahead and tell me what you want in return for this, uh, "material"?
 Родион: Ладно. Давай-ка ты скажешь, что хочешь взамен этого, э-э, «материала»?
 
-# Original: <i>Now</i> we're getting somewhere. All right, what do you want?
+# Mimosa: <i>Now</i> we're getting somewhere. All right, what do you want?
 Мимоза: <i>Вот теперь</i> другой разговор. Ладно, чего вы хотите?
 
-# Original: It's a shame to lose such promising material... What to do, what to do...
+# Mimosa: It's a shame to lose such promising material... What to do, what to do...
 Мимоза: Жалко терять такой многообещающий материал... Как же быть, как же быть...
 
-# Original: ... All right, then. You can work off the material's value, and I'm willing to call it even. Consider it a part-time job. We're really swamped as it is, changing up the displays and order sheets to keep pace with the latest trends.
+# Mimosa: ... All right, then. You can work off the material's value, and I'm willing to call it even. Consider it a part-time job. We're really swamped as it is, changing up the displays and order sheets to keep pace with the latest trends.
 Мимоза: ... Хорошо, вот что. Вы можете отработать стоимость материала, и я согласна считать, что мы в расчёте. Считайте это подработкой. Мы и так зашиваемся: приходится менять оформление витрин и бланки заказов, чтобы поспевать за последними трендами.
 
-# Original: S-sure... What kind of errand?
+# Rodion: S-sure... What kind of errand?
 Родион: Л-ладно... Что нужно сделать?
 
-# Original: There's an area nearby full of Mannequins.
+# Mimosa: There's an area nearby full of Mannequins.
 Мимоза: Неподалёку есть место, где полно Манекенов.
 
-# Original: ... Mannequins?
+# Ishmael: ... Mannequins?
 Измаил: ... Манекенов?
 
-# Original: Unable to restrain herself, Ishmael cut in once more, but quickly gave up when Rodion hurriedly sent a desperate look her way.
+# Narrator: Unable to restrain herself, Ishmael cut in once more, but quickly gave up when Rodion hurriedly sent a desperate look her way.
 Рассказчик: Не сдержавшись, Измаил снова встряла в разговор, но тут же сдалась, когда Родион поспешно бросила на неё отчаянный взгляд.
 
-# Original: The problem is that those Mannequins are dressed in clothes that have fallen way, way behind the current fashion trend.
+# Mimosa: The problem is that those Mannequins are dressed in clothes that have fallen way, way behind the current fashion trend.
 Мимоза: Проблема в том, что одежда на этих Манекенах очень, очень сильно отстала от нынешней моды.
 
-# Original: What if customers coming here to shop see those hopelessly dated Mannequins and refuse to enter our store?
+# Mimosa: What if customers coming here to shop see those hopelessly dated Mannequins and refuse to enter our store?
 Мимоза: А что, если покупатели, идущие за покупками, увидят этих безнадёжно устаревших Манекенов и откажутся заходить в наш магазин?
 
-# Original: R-right... That would be a real problem for the shop, wouldn't it...? Yeah... totally...
+# Rodion: R-right... That would be a real problem for the shop, wouldn't it...? Yeah... totally...
 Родион: Д-да... Для магазина это была бы настоящая беда, правда...? Ага... точно...
 
-# Original: Rodya nodded vigorously, perhaps trying a little too hard to look sympathetic to the employee's plight.
+# Narrator: Rodya nodded vigorously, perhaps trying a little too hard to look sympathetic to the employee's plight.
 Рассказчик: Родя энергично закивала, пожалуй, даже слишком усердно изображая сочувствие к бедам продавщицы.
 
-# Original: Yes. Which means I want you to help the Mannequins to the exit.
+# Mimosa: Yes. Which means I want you to help the Mannequins to the exit.
 Мимоза: Да. Поэтому я хочу, чтобы вы помогли проводить Манекенов к выходу.

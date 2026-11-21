@@ -1,35 +1,35 @@
-﻿# Original: <Now I'm getting the same question in stereo...>
+﻿# Dante: <Now I'm getting the same question in stereo...>
 Данте: <Теперь мне задают один и тот же вопрос в два голоса...>
 
-# Original: It is the mechanism required for us to continue our descent belowground.
+# Meursault: It is the mechanism required for us to continue our descent belowground.
 Мерсо: Это механизм, необходимый для того, чтобы мы продолжили спуск под землю.
 
-# Original: Right... And this is something you learned up on one of the higher floors?
+# Gregor: Right... And this is something you learned up on one of the higher floors?
 Грегор: Ага... И об этом ты узнал на одном из верхних этажей?
 
-# Original: <Well... more or less.>
+# Dante: <Well... more or less.>
 Данте: <Ну... более или менее.>
 
-# Original: ... I see. But what's a bug got to do with getting an escalator running?
+# Gregor: ... I see. But what's a bug got to do with getting an escalator running?
 Грегор: ...Понятно. Только при чём тут жук, если нам надо запустить эскалатор?
 
-# Original: <.......>
+# Dante: <.......>
 Данте: <.......>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: ... I'm not the only one wondering that, am I? Am I?
+# Gregor: ... I'm not the only one wondering that, am I? Am I?
 Грегор: ...Я ведь не один тут этим вопросом задаюсь, правда? Правда?
 
-# Original: I know where it is located.
+# Meursault: I know where it is located.
 Мерсо: Я знаю, где он находится.
 
-# Original: Taking the relative location of the escalator we are facing as our point of reference, it should be stored in the butcher shop's storage area to the southeast.
+# Meursault: Taking the relative location of the escalator we are facing as our point of reference, it should be stored in the butcher shop's storage area to the southeast.
 Мерсо: Если взять за точку отсчёта эскалатор перед нами, он должен храниться на складе мясной лавки к юго-востоку отсюда.
 
-# Original: ... Th-that's awfully precise, isn't it? Huh. I don't think even Frau Faust has ever dropped a location on us down to the compass point like that.
+# Gregor: ... Th-that's awfully precise, isn't it? Huh. I don't think even Frau Faust has ever dropped a location on us down to the compass point like that.
 Грегор: ...Ч-что-то уж больно точно, а? Хм. По-моему, даже фрау Фауст никогда не выдавала нам место с точностью до стороны света.
 
-# Original: The two methods are categorically dissimilar, so comparing this to Faust's process is irrational. A more accurate characterization would be...
+# Faust: The two methods are categorically dissimilar, so comparing this to Faust's process is irrational. A more accurate characterization would be...
 Фауст: Эти два метода принципиально различны, так что сравнивать это с методом Фауст нерационально. Точнее было бы охарактеризовать это так...

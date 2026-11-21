@@ -1,104 +1,104 @@
-# Original: I apologize for the long wait. Faust will take your orders now.
+# Faust: I apologize for the long wait. Faust will take your orders now.
 Фауст: Прошу прощения за долгое ожидание. Фауст примет ваши заказы сейчас.
 
-# Original: The child calmly walks up to a table in a cramped, bustling cafeteria and begins to speak.
+# Narrator: The child calmly walks up to a table in a cramped, bustling cafeteria and begins to speak.
 Рассказчик: Дитя спокойно подходит к столику в тесном, шумном кафетерии и начинает говорить.
 
-# Original: Milk tea, I see. Would Ceylon leaves be to your liking? The tea will be boiled to 94 degrees Celsius unless special requests are made.
+# Faust: Milk tea, I see. Would Ceylon leaves be to your liking? The tea will be boiled to 94 degrees Celsius unless special requests are made.
 Фауст: Чай с молоком, я вижу. Будут ли вам по вкусу цейлонские листья? Чай будет заварен при температуре 94 градуса Цельсия, если не поступит особых пожеланий.
 
-# Original: The child's quiet voice slowly begins to accelerate, her rather sizeable pair of glasses rattling with every word.
+# Narrator: The child's quiet voice slowly begins to accelerate, her rather sizeable pair of glasses rattling with every word.
 Рассказчик: Тихий голос ребенка постепенно начинает ускоряться, её довольно крупные очки дребезжат с каждым словом.
 
-# Original: One teaspoon of sugar, noted. Would you like to receive your first cup already filled? Depending on your preference, we can also provide a cup without emptying the warming waters.
+# Faust: One teaspoon of sugar, noted. Would you like to receive your first cup already filled? Depending on your preference, we can also provide a cup without emptying the warming waters.
 Фауст: Одна чайная ложка сахара, отмечено. Хотите ли вы получить первую чашку уже наполненной? В зависимости от ваших предпочтений, мы также можем предоставить чашку без слива подогретой воды.
 
-# Original: Loud clickity—clack of typewriters gets dangerously close to drowning out her voice, but the Child raises her voice in response. The entire time, she does not slow down, not one bit.
+# Narrator: Loud clickity—clack of typewriters gets dangerously close to drowning out her voice, but the Child raises her voice in response. The entire time, she does not slow down, not one bit.
 Рассказчик: Громкий стук пишущих машинок опасно близок к тому, чтобы заглушить её голос, но дитя в ответ повышает голос. Всё это время она не замедляется ни на йоту.
 
-# Original: Instead, she stops dead in her tracks.
+# Narrator: Instead, she stops dead in her tracks.
 Рассказчик: Вместо этого она резко останавливается.
 
-# Original: Brought to complete, frozen stillness by a single sentence the guest uttered.
+# Narrator: Brought to complete, frozen stillness by a single sentence the guest uttered.
 Рассказчик: Приведённая в полную, застывшую неподвижность одним предложением, произнесённым гостем.
 
-# Original: ... May I inquire what your intentions for ordering a milk pitcher might be?
+# Faust: ... May I inquire what your intentions for ordering a milk pitcher might be?
 Фауст: ... Могу ли я узнать, каковы ваши намерения относительно заказа молочника?
 
-# Original: If you prefer your tea with a higher milk content than our standards, we can accommodate it to your liking. However, we do not recommend adding more milk after the tea is poured.
+# Faust: If you prefer your tea with a higher milk content than our standards, we can accommodate it to your liking. However, we do not recommend adding more milk after the tea is poured.
 Фауст: Если вы предпочитаете чай с большим содержанием молока, чем в наших стандартах, мы можем приспособить его по вашему вкусу. Однако мы не рекомендуем добавлять больше молока после того, как чай налит.
 
-# Original: Adding it afterward causes milk to heat unevenly, which leads to its protein denaturing. This, in turn, results in a significant loss of aromatic and flavorous qualities of your tea. Allow me to expound on that point, in which...
+# Faust: Adding it afterward causes milk to heat unevenly, which leads to its protein denaturing. This, in turn, results in a significant loss of aromatic and flavorous qualities of your tea. Allow me to expound on that point, in which...
 Фауст: Добавление его после приводит к неравномерному нагреву молока, что ведёт к денатурации его белка. Это, в свою очередь, приводит к значительной потере ароматических и вкусовых качеств вашего чая. Позвольте мне развить эту мысль, в которой...
 
-# Original: ... Perhaps we can skip ahead. The child will likely go on for a good while.
+# Narrator: ... Perhaps we can skip ahead. The child will likely go on for a good while.
 Рассказчик: ... Возможно, мы можем пропустить вперёд. Дитя, вероятно, будет продолжать ещё долго.
 
-# Original: Some indeterminate amount of time later...
+# Narrator: Some indeterminate amount of time later...
 Рассказчик: Некоторое неопределённое время спустя...
 
-# Original: ... Next order, please.
+# Faust: ... Next order, please.
 Фауст: ... Следующий заказ, пожалуйста.
 
-# Original: Another guest stands before the visibly exhausted child.
+# Narrator: Another guest stands before the visibly exhausted child.
 Рассказчик: Другой гость стоит перед заметно уставшим ребёнком.
 
-# Original: Oh, I'm not here for an order...
+# The Client: Oh, I'm not here for an order...
 Рассказчик: О, я здесь не для заказа...
 
-# Original: Then I regret to inform you that I am currently on my café shift, and any inquiry regarding an Association contract must wait until...
+# Faust: Then I regret to inform you that I am currently on my café shift, and any inquiry regarding an Association contract must wait until...
 Фауст: Тогда я вынуждена сообщить вам, что в настоящее время у меня смена в кафе, и любой запрос относительно контракта Ассоциации должен подождать, пока...
 
-# Original: Ah! No, no. People at the reception told me I'd find you here, Ms. Faust. It's about the case we last contracted with you, and uh... the... Let's see, where'd I put that business card—
+# The Client: Ah! No, no. People at the reception told me I'd find you here, Ms. Faust. It's about the case we last contracted with you, and uh... the... Let's see, where'd I put that business card—
 Рассказчик: Ах! Нет, нет. Люди на рецепции сказали мне, что я найду вас здесь, мисс Фауст. Это касается дела, которое мы последний раз заключили с вами, и э... Так, где же я положил ту визитную карточку—
 
-# Original: ... I presume this is about the post-contract management.
+# Faust: ... I presume this is about the post-contract management.
 Фауст: ... Я полагаю, это касается пост-контрактного управления.
 
-# Original: Though the child is currently working as a tea brewer here, this café is an employee-run, volunteer-based establishment by a subsection of the Seven Association Fixers who are deeply invested in the art of tea brewing.
+# Narrator: Though the child is currently working as a tea brewer here, this café is an employee-run, volunteer-based establishment by a subsection of the Seven Association Fixers who are deeply invested in the art of tea brewing.
 Рассказчик: Хотя сейчас дитя работает здесь как заварщик чая, это кафе является заведением, управляемым сотрудниками, на добровольной основе подразделением Корректировщиков Седьмой Ассоциации, которые глубоко увлечены искусством заваривания чая.
 
-# Original: Of course, once their volunteered hours are complete, the employees all return to their duties as Fixers of the Seven Association.
+# Narrator: Of course, once their volunteered hours are complete, the employees all return to their duties as Fixers of the Seven Association.
 Рассказчик: Конечно, как только их добровольные часы заканчиваются, все сотрудники возвращаются к своим обязанностям Корректировщиков Седьмой Ассоциации.
 
-# Original: This child's primary duty at the Association is to draw conclusions on contracted cases based on evidence gathered by other Fixers of the Seven Association.
+# Narrator: This child's primary duty at the Association is to draw conclusions on contracted cases based on evidence gathered by other Fixers of the Seven Association.
 Рассказчик: Основной обязанностью этого ребёнка в Ассоциации является делать выводы по контрактным делам на основе доказательств, собранных другими Корректировщиками Седьмой Ассоциации.
 
-# Original: And...
+# Narrator: And...
 Рассказчик: И...
 
-# Original: I'm certain you are already aware, but we can provide you with a discount should you choose to leave the post-contract management to our Association as well. You may also consult our affiliated Fixer Offices, of course, if you are seeking more affordable options.
+# Faust: I'm certain you are already aware, but we can provide you with a discount should you choose to leave the post-contract management to our Association as well. You may also consult our affiliated Fixer Offices, of course, if you are seeking more affordable options.
 Фауст: Я уверена, вы уже знаете, но мы можем предоставить вам скидку, если вы решите оставить пост-контрактное управление нашей Ассоциации. Вы также можете обратиться в наши аффилированные Офисы Корректировщиков, конечно, если ищете более доступные варианты.
 
-# Original: If I were to leave it to the Seven again... would you be assigned to the post-contract management?
+# The Client: If I were to leave it to the Seven again... would you be assigned to the post-contract management?
 Рассказчик: Если я оставлю это Седьмой снова... вас назначат на пост-контрактное управление?
 
-# Original: Indeed.
+# Faust: Indeed.
 Фауст: Действительно.
 
-# Original: Well, then... I'd like to contract the Seven Association with the post-contract management as well. Your name carries a lot of weight in this business, you know.
+# The Client: Well, then... I'd like to contract the Seven Association with the post-contract management as well. Your name carries a lot of weight in this business, you know.
 Рассказчик: Что ж, тогда... Я бы хотел заключить контракт с Седьмой Ассоциацией на пост-контрактное управление тоже. Ваше имя имеет большой вес в этом бизнесе, знаете ли.
 
-# Original: ... A wise decision.
+# Faust: ... A wise decision.
 Фауст: ... Мудрое решение.
 
-# Original: 'Post-contract management' is the child's other duty.
+# Narrator: 'Post-contract management' is the child's other duty.
 Рассказчик: "Пост-контрактное управление" — это другая обязанность ребёнка.
 
-# Original: And what does a post-contract management entail, you ask?
+# Narrator: And what does a post-contract management entail, you ask?
 Рассказчик: И что же подразумевает пост-контрактное управление, спросите вы?
 
-# Original: That was our last target on the list. Heathcliff, let us ascend to the second floor.
+# Faust: That was our last target on the list. Heathcliff, let us ascend to the second floor.
 Фауст: Это была наша последняя цель в списке. Хитклиф, давай поднимемся на второй этаж.
 
-# Original: It entails variations of no-holds-barred retribution or extermination of the perpetrators revealed in the investigation.
+# Narrator: It entails variations of no-holds-barred retribution or extermination of the perpetrators revealed in the investigation.
 Рассказчик: Оно подразумевает варианты безжалостного возмездия или уничтожения преступников, выявленных в ходе расследования.
 
-# Original: Yes, the child's name carries a lot of weight in the business indeed.
+# Narrator: Yes, the child's name carries a lot of weight in the business indeed.
 Рассказчик: Да, имя ребёнка действительно имеет большой вес в этом бизнесе.
 
-# Original: Whether that be the business of brewing tea leaves...
+# Narrator: Whether that be the business of brewing tea leaves...
 Рассказчик: Будь то бизнес заваривания чайных листьев...
 
-# Original: ... or hewing heads.
+# Narrator: ... or hewing heads.
 Рассказчик: ... или рубки голов.

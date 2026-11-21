@@ -1,297 +1,298 @@
-﻿# Original: Heh. Heh. Heh. Heh.
+﻿# Don Quixote: Heh. Heh. Heh. Heh.
 Дон Кихот: Хе. Хе. Хе. Хе.
 
-# Original: Don Quixote loudly and obnoxiously flaps through the newspaper in her hands while peppering in a few insightful chuckles.
+# Narrator: Don Quixote loudly and obnoxiously flips through the newspaper in her hands while peppering in a few insightful chuckles.
 Рассказчик: Дон Кихот шумно и неприятно шуршит газетой, при этом многозначительно посмеиваясь.
 
-# Original: Unfortunately, I now know exactly what this means.
+# Narrator: Unfortunately, I now know exactly what this means.
 Рассказчик: Так уж вышло, что мне понятно, к чему её смех.
 
-# Original: And...
+# Narrator: And...
 Рассказчик: И…
 
-# Original: Ohoh, ohohoho...!
+# Don Quixote: Ohoh, ohohoho...!
 Дон Кихот: Охо, охо-хо-хо…!
 
-# Original: ... that she will continue to try to draw my attention until I acknowledge her at the most appropriate moment.
+# Narrator: ... that she will continue to try to draw my attention until I acknowledge her at the most appropriate moment.
 Рассказчик: …Известно, что если я не уделю ей минутку, она продолжит привлекать моё внимание.
 
-# Original: <Okay, Don Quixote. Fine... What is it?>
+# Dante: <Okay, Don Quixote. Fine... What is it?>
 Данте: <Ну хорошо. Дон Кихот… Что случилось?>
 
-# Original: Hooah... Manager Esquire, dost thou know that the City's upstart companies, such as one Limbus Company, must always pay close heed to the ever-changing world around us?
+# Don Quixote: Hooah... Manager Esquire, dost thou know that the City's upstart companies, such as one Limbus Company, must always pay close heed to the ever-changing world around us?
 Дон Кихот: Хо-о… Менеджер, милорд, известно ль вам, что начинающим компаниям, таким как «Лимбус», нужно всегда зреть востро касаемо постоянно меняющегося вокруг мира?
 
-# Original: Hie thee hither! Read thy newspapers, Manager Esquire, and do keep thyself up-to-date on the events of the City! As Meursault and I, Don Quixote, do ere every morrow!
+# Don Quixote: Hie thee hither! Read thy newspapers, Manager Esquire, and do keep thyself up-to-date on the events of the City! As Meursault and I, Don Quixote, do ere every morrow!
 Дон Кихот: Внемлите же мне! Вовлеките себя в чтение газет каждым утром, Менеджер, милорд, дабы быть в курсе нынешних событий, а?! Будете, как Мерсо и я, а?!
 
-# Original: Bud, just go along with it, why don't ya? I'm pretty sure she's talking about Meursault and one of his morning routines. Y'know, the... the one with the newspapers?
+# Gregor: Bud, just go along with it, why don't ya? I'm pretty sure she's talking about Meursault and one of his morning routines. Y'know, the... the one with the newspapers?
 Грегор: Дружище, просто подыграй ей, а? Думаю, она говорит о привычке Мерсо читать по утрам газету.
 
-# Original: <Aha, the newspaper routine. Where he wakes up before the crack of dawn, parks himself on a chair, folds one leg over the other at an exact 90-degree 'figure-four-leg-lock' position, and peruses the morning newspaper?>
+# Dante: <Aha, the newspaper routine. Where he wakes up before the crack of dawn, parks himself on a chair, folds one leg over the other at an exact 90-degree 'figure-four-leg-lock' position, and peruses the morning newspaper?>
 Данте: <Аха, привычка просыпаться ни свет ни заря, садиться на стул, закидывая ногу на ногу под углом ровно в девяносто градусов, и читать утреннюю газету?>
 
-# Original: Uh-huh, that. I guess it left an impression on her. Betcha she'll be back to her usual self in a week or so.
+# Gregor: Uh-huh, that. I guess it left an impression on her. Betcha she'll be back to her usual self in a week or so.
 Грегор: Ага, именно она. Похоже, на неё она произвела впечатление. Ну ничего, через недельку или около того отойдёт.
 
-# Original: Hearken unto me! Art thou paying attention?!?!
+# Don Quixote: Hearken unto me! Art thou paying attention?!?!
 Дон Кихот: Вопрошаю вас, вы услышали мою молву?!?!
 
-# Original: <Uh... yep, totally. So what's new? What, did an article mention us or something?>
+# Dante: <Uh... yep, totally. So what's new? What, did an article mention us or something?>
 Данте: <А-а… да, конечно. Что новенького? Не о нас же там пишут?>
 
-# Original: Oho! How didst thou know?
+# Don Quixote: Oho! How didst thou know?
 Дон Кихот: Ой! Как вы об этом узнали?!
 
-# Original: <Wait, really?>
+# Dante: <Wait, really?>
 Данте: <Стоп, серьёзно?>
 
-# Original: Forsooth, forsooth! Feast thy eyes on page-three! Though 'tis quite regrettable that we were robbed of the chance to be on the front page...
+# Don Quixote: Forsooth, forsooth! Feast thy eyes on page-three! Though 'tis quite regrettable that we were robbed of the chance to be on the front page...
 Дон Кихот: Воистину-воистину! Узрите же на третьей странице! Хоть жаль весьма, что не сумели мы занять передовицу…
 
-# Original: Huhh?! Page three?! We're really starting to put our names out there, huh?
+# Rodion: Huhh?! Page three?! We're really starting to put our names out there, huh?
 Родион: А-а? Третья страница?! Мы что, так хороши?!
 
-# Original: Don Quixote and Rodya, the two Sinners guaranteed to draw the full attention of whichever space they inhabit, were speaking. It was only a matter of time before the other Sinners began crowding around us, curious about the commotion.
+# Narrator: Don Quixote and Rodya, the two Sinners guaranteed to draw the full attention of whichever space they inhabit, were speaking. It was only a matter of time before the other Sinners began crowding around us, curious about the commotion.
 Рассказчик: Постепенно на громогласные голоса Роди и Дон Кихот, которые были идеальны для привлечения внимания, собрались остальные грешники, заинтересовавшиеся произошедшим.
 
-# Original: Ahem, ahem… A Dramatic Conclusion to the Mysterious Disappearances at T Corp.!
+# Don Quixote: Ahem, ahem… A Dramatic Conclusion to the Mysterious Disappearances at T Corp.!
 Дон Кихот: Так, так… Драматическая развязка таинственных исчезновений в корпорации T!
 
-# Original: SHOCKING! The perpetrators to this mysterious case has been revealed to be none other than the prestigious Edgar Family, appalling the general public—
+# Don Quixote: SHOCKING! The perpetrators to this mysterious case has been revealed to be none other than the prestigious Edgar Family, appalling the general public—
 Дон Кихот: Виновником было объявлено семейство Эдгар, что шокировало общественность…
 
-# Original: …….
+# Heathcliff: …….
 Хитклиф: …….
 
-# Original: <W-well, I don't think we need to hear that part. What else does it say?>
+# Dante: <W-well, I don't think we need to hear that part. What else does it say?>
 Данте: <Д-давайте не будем останавливаться на этой части.>
 
-# Original: Khm... With small assistance from some wandering bystanders who happened to be lost in the area, and with the most admirable heroics of the T Corp. Class 3 Collection Staff on the scene—
+# Don Quixote: Khm... With small assistance from some wandering bystanders who happened to be lost in the area, and with the most admirable heroics of the T Corp. Class 3 Collection Staff on the scene—
 Дон Кихот: Кхм… Инцидент был разрешён крайне достопочтенными коллекторами третьего уровня корпорации T с небольшой поддержкой прохожих, что тогда блуждали неподалёку…
 
-# Original: Mm, 'wandering bystanders', is it...? Perchance that particular denomination refers to us?
+# Yi Sang: Mm, 'wandering bystanders', is it...? Perchance that particular denomination refers to us?
 И Сан: М-м, под упомянутыми „прохожими“, полагаю… Имелись в виду мы?
 
-# Original: ... 'Bystanders'? They're treating us like we were barely there.
+# Outis: ... 'Bystanders'? They're treating us like we were barely there.
 Отис: …„Прохожие“? Выставляют всё так, будто мы едва ли там были…
 
-# Original: They didn't even mention our company name...
+# Sinclair: They didn't even mention our company name...
 Синклер: Даже название компании не упомянули…
 
-# Original: Aw, come on! Those Time Collectors weren't even there!
+# Rodion: Aw, come on! Those Time Collectors weren't even there!
 Родион: Ой, да ну! Эти коллекторы времени… Да их там даже не было!
 
-# Original: This is within the expected range of behavior for the news media.
+# Meursault: This is within the expected range of behavior for the news media.
 Мерсо: Весьма ожидаемое поведение для СМИ.
 
-# Original: W-well, there may be those who seek to interview us after reading this very article, mayhaps...?
+# Don Quixote: W-well, there may be those who seek to interview us after reading this very article, mayhaps...?
 Дон Кихот: Н-ну... кто знает! Быть может, кто-нибудь, прочитав сию статью, явится взять интервью…
 
-# Original: Yeah, I'm sure they'll have a grand old time looking for 'wandering bystanders' for an interview. Very descriptive.
+# Ishmael: Yeah, I'm sure they'll have a grand old time looking for 'wandering bystanders' for an interview. Very descriptive.
 Измаил: Чтобы взять интервью, им бы для начала знать, где находятся эти „блуждающие прохожие“…
 
-# Original: <I doubt anyone will pay us much attention, Don Quixote. Better not set yourself up for disappointment, and—>
+# Dante: <I doubt anyone will pay us much attention, Don Quixote. Better not set yourself up for disappointment, and—>
 Данте: <Дон Кихот… Я не думаю, что на нас кто-то обратит внимание. Лучше не тешь себя ложными надеждами—>
 
-# Original: We were standing there for a good moment in a big group, chattering about the article... when someone slowly but smoothly walked between us.
+# Narrator: We were standing there for a good moment in a big group, chattering about the article... when someone slowly but smoothly walked between us.
 Рассказчик: В тот момент, пока мы обсуждали статью, в нашу группу уже плавно затесалось постороннее лицо.
 
-# Original: Excuse me. Are you Limbus Company employees, by any chance?
+# Class 2 Collection Staff: Excuse me. Are you Limbus Company employees, by any chance?
 Сотрудник Отдела Сбора Времени: Это вы сотрудники компании «Лимбус»?
 
-# Original: ... You fellas are...?
+# Gregor: ... You fellas are...?
 Грегор: …А вы…
 
-# Original: I'm sure you are already aware of the reason for our visit.
+# Class 2 Collection Staff: I'm sure you are already aware of the reason for our visit.
 Сотрудник Отдела Сбора Времени: Полагаю, вам уже известна причина нашего визита.
 
-# Original: Ooho! I welcome thee here! Long and hard have I awaited thy arrival!
+# Don Quixote: Ooho! I welcome thee here! Long and hard have I awaited thy arrival!
 Дон Кихот: О-о! Как же долго ждала я вашего прибытия!
 
-# Original: Now, now! From whence shall we begin?
+# Don Quixote: Now, now! From whence shall we begin?
 Дон Кихот: Итак, с чего бы стоит начать?
 
-# Original: Woah, is she actually here to interview us?
+# Rodion: Woah, is she actually here to interview us?
 Родион: Ого, она действительно пришла, чтобы взять интервью?
 
-# Original: <No way... Don Quixote wasn't just losing her mind at nothing...?>
+# Dante: <No way... Don Quixote wasn't just losing her mind at nothing...?>
 Данте: <И Дон Кихот не устраивала сыр-бор из-за ничего…?>
 
-# Original: I was not told that any... interview... would be taking place...
+# Faust: I was not told that any... interview... would be taking place...
 Фауст: Интервью… Мне ничего не говорили о том, что кто-то будет брать интервью…
 
-# Original: My, where'd Verg go at a time like this~? Now, where'd I put that leftover hair gel from Heath's makeover...?
+# Rodion: My, where'd Verg go at a time like this~? Now, where'd I put that leftover hair gel from Heath's makeover...?
 Родион: Ну и куда делся Вер в такой момент~ Так, куда я там убрала остатки геля для волос после преображения Хита…?
 
-# Original: Ahem, ahem... Thou may commence.
+# Don Quixote: Ahem, ahem... Thou may commence.
 Дон Кихот: Кхэм, кхэм… Побуждаю вас начать.
 
-# Original: Alright, then...
+# Class 2 Collection Staff: Alright, then...
 Сотрудник Отдела Сбора Времени: Хорошо, тогда…
 
-# Original: Verily, I shan’t rightly take aaalllll the credit for what we have accomplished there!
-
+# Don Quixote & T Corp. Staff: Verily, I shan’t rightly take aaalllll the credit for what we have accomplished there!
+# [KEEP_LINE]
+# Will you be making your tax payment in installments?
 Will you be making your tax payment in installments?
 Дон Кихот и Сотрудник Корпорации T: Разумеется, я не буду забирать всееееееее лавры за то, чего мы достигли~!
 [KEEP_LINE]
 Будете оплачивать налог по частям?
 
-# Original: Hm?
+# Class 2 Collection Staff: Hm?
 Сотрудник Отдела Сбора Времени: Хм?
 
-# Original: Huh?
+# Don Quixote: Huh?
 Дон Кихот: А-а?
 
-# Original: Okay, we're clearly not on the same page here...
+# Narrator: Okay, we're clearly not on the same page here...
 Рассказчик: Похоже, у нас определённо произошло недопонимание…
 
-# Original: We are Tax Collectors from T Corp.'s Time Collections Agency, currently on a mission to collect your overdue Time Tax.
+# Class 2 Collection Staff: We are Tax Collectors from T Corp.'s Time Collections Agency, currently on a mission to collect your overdue Time Tax.
 Сотрудник Отдела Сбора Времени: Мы — коллекторы из агентства корпорации T по сбору временных налогов. В данный момент исполняем миссию по взиманию с вас просроченного временного налога.
 
-# Original: Those ilks are never bringers of good tidings, indeed...
+# Yi Sang: Those ilks are never bringers of good tidings, indeed...
 И Сан: Ожидаемо… Такие гости никогда не приносят добрых вестей…
 
-# Original: Wait, Time Tax...? No, that doesn't make any sense...
+# Ishmael: Wait, Time Tax...? No, that doesn't make any sense...
 Измаил: Временной налог? Но ведь этого не может быть…
 
-# Original: We already paid our Time Tax in full when we went through the T Corp. Nest immigration process. Vergilius said—
+# Ishmael: We already paid our Time Tax in full when we went through the T Corp. Nest immigration process. Vergilius said—
 Измаил: Мы же уже оплатили в полном объёме временной налог, когда проходили иммиграционный процесс корпорации T. Вергилий ещё сказал…
 
-# Original: Few days ago, aboard Mephistopheles...
+# Narrator: Few days ago, aboard Mephistopheles...
 Рассказчик: Пару дней назад, в Мефистофеле...
 
-# Original: Are you sure we don't need to pick up a timepiece for each of us to carry?
+# Ishmael: Are you sure we don't need to pick up a timepiece for each of us to carry?
 Измаил: Вы уверены, что у нас не будет проблем, если не у каждого будут с собой часы?
 
-# Original: You probably know this already, but in T Corp….
+# Ishmael: You probably know this already, but in T Corp….
 Измаил: А то ведь в корпорации T…
 
-# Original: ... everyone must carry a timepiece, yes. I know the rules.
+# Vergilius: ... everyone must carry a timepiece, yes. I know the rules.
 Вергилий: ...Одним из правил является обладание часами, да. Мне это прекрасно известно.
 
-# Original: But for every rule, there's always room for an alternative that offers a bit more flexibility. Of course, I don't suppose it's listed anywhere on that pamphlet.
+# Vergilius: But for every rule, there's always room for an alternative that offers a bit more flexibility. Of course, I don't suppose it's listed anywhere on that pamphlet.
 Вергилий: Но на каждое правило найдётся своя альтернатива, что предоставит больше гибкости. Конечно же в брошюре об этом вряд ли упоминалось…
 
-# Original: Outsiders seeking a short-term stay at T Corp. can pay the appropriate Time Tax for the length of their stay to be exempt from the relevant obligations, instead of going out of their way to abide by T Corp.'s rules.
+# Vergilius: Outsiders seeking a short-term stay at T Corp. can pay the appropriate Time Tax for the length of their stay to be exempt from the relevant obligations, instead of going out of their way to abide by T Corp.'s rules.
 Вергилий: Желающие остаться в корпорации T на короткий срок могут оплатить подобающую сумму временного налога и будут освобождены от обязательного ношения часов.
 
-# Original: As you may have expected, anyone born outside District 20 must go through numerous hoops before they can be issued a timepiece.
+# Vergilius: As you may have expected, anyone born outside District 20 must go through numerous hoops before they can be issued a timepiece.
 Вергилий: Тем же, кто не родом из двадцатого Района, приходится несколько раз прыгать выше головы, чтобы приобрести часы.
 
-# Original: So we elected to pay thirty days' worth of Time Tax on the spot before entering T Corp.'s borders.
+# Vergilius: So we elected to pay thirty days' worth of Time Tax on the spot before entering T Corp.'s borders.
 Вергилий: Поэтому мы решили перед въездом на территорию корпорации T оплатить временной налог на тридцать дней.
 
-# Original: Impressive... It can't have been cheap.
+# Outis: Impressive... It can't have been cheap.
 Отис: Хо-о… Полагаю, сумма была приличной.
 
-# Original: Ah, yet I wished to wear a watch as well... like Lady Outis does...
+# Don Quixote: Ah, yet I wished to wear a watch as well... like Lady Outis does...
 Дон Кихот: А я грезила о часиках… как у леди Отис…
 
-# Original: Haven't I already made it clear that it is not a fashion item?!
+# Outis: Haven't I already made it clear that it is not a fashion item?!
 Отис: Я же уже говорила, я ношу их не для стиля!
 
-# Original: As I have said so in the past, the company has no budgetary concerns. It is a given that they would be taking care of such expenses.
+# Vergilius: As I have said so in the past, the company has no budgetary concerns. It is a given that they would be taking care of such expenses.
 Вергилий: Как я уже говорил ранее, финансовых проблем у компании нет. Для неё в порядке вещей покрывать подобные расходы.
 
-# Original: Hm... We're finally starting to operate like a real, professional company now, huh?
+# Ishmael: Hm... We're finally starting to operate like a real, professional company now, huh?
 Измаил: Хм… Наконец-то возникает ощущение профессионализма компании.
 
-# Original: <Yeah. There must’ve been a minor miscalculation or something. Maybe we fell slightly short of the amount we had to pay?>
+# Dante: <Yeah. There must’ve been a minor miscalculation or something. Maybe we fell slightly short of the amount we had to pay?>
 Данте: <Знаю, наверное, возникла какая-то ошибка… Быть может, мы слегка недоплатили?>
 
-# Original: It hasn't even been thirty days since we arrived here, though.
+# Ishmael: It hasn't even been thirty days since we arrived here, though.
 Измаил: Ко всему прочему, тридцать дней ещё не прошло.
 
-# Original: Well… I’m sure we can pawn away their stuff to fix what probably amounts to a roundin’ error. Easy-peasy.
+# Heathcliff: Well… I’m sure we can pawn away their stuff to fix what probably amounts to a roundin’ error. Easy-peasy.
 Хитклиф: Ну… Если уж и придётся платить, то наверняка мы сможем надыбать деньжат, сбагрив в ломбард шмотки тех двоих.
 
-# Original: Heathcliff muttered, gesturing toward Sinclair and Hong Lu with his chin.
+# Narrator: Heathcliff muttered, gesturing toward Sinclair and Hong Lu with his chin.
 Рассказчик: Сказал Хитклиф, мотнув подбородком в сторону Синклера и Хон Лу.
 
-# Original: Mmm... if it'll help pay for the Time Tax, then sure...
+# Sinclair: Mmm... if it'll help pay for the Time Tax, then sure...
 Синклер: М-м… ну, если это поможет с нашей проблемой…
 
-# Original: Oh, maybe? I didn't pack much when I left, though...
+# Hong Lu: Oh, maybe? I didn't pack much when I left, though...
 Хон Лу: Ой, ну, наверное? Я правда с собой не брал много вещей…
 
-# Original: Well, let's hear the damage. How much 'Time Tax' do we owe ya?
+# Gregor: Well, let's hear the damage. How much 'Time Tax' do we owe ya?
 Грегор: Ладненько, а сколько ж мы должны-то вам за просрочку уплаты налога?
 
-# Original: ... Khm.
+# Class 2 Collection Staff: ... Khm.
 Сотрудник Отдела Сбора Времени: …Кхм.
 
-# Original: Currently, you are...
+# Class 2 Collection Staff: Currently, you are...
 Сотрудник Отдела Сбора Времени: Сумма временного налога, которую вы должны оплатить…
 
-# Original: ... 10,040,000,000 Ahn behind in Time Tax payments.
+# Class 2 Collection Staff: ... 10,040,000,000 Ahn behind in Time Tax payments.
 Сотрудник Отдела Сбора Времени: ...в целом десять миллиардов и сорок миллионов ан.
 
-# Original: <WHAT?!>
+# Dante: <WHAT?!>
 Данте: <СКОЛЬКО?!>
 
-# Original: Ah, ha ha ha... Did my hearing get worse or something? I heard uh, a ten... a forty... and the rest just kinda flew right over my head?
+# Rodion: Ah, ha ha ha... Did my hearing get worse or something? I heard uh, a ten... a forty... and the rest just kinda flew right over my head?
 Родион: Аха, ха-ха-ха… Кажется, я стала туга на ухо? Я услышала что-то про десяточку… а что там дальше было?
 
-# Original: For that much money... Oh, we might have to make a brief stop at my place first!
+# Hong Lu: For that much money... Oh, we might have to make a brief stop at my place first!
 Хон Лу: Если нам нужна такая большая сумма… Думаю, нам стоит заскочить ко мне домой!
 
-# Original: What other options do we have, if we don't... I mean, if we can't pay the tax?
+# Sinclair: What other options do we have, if we don't... I mean, if we can't pay the tax?
 Синклер: …А что, если не платить… в смысле, если мы не можем заплатить… что тогда будет?
 
-# Original: 'Can't pay the tax' is not an option. Your only options are the following: make your payment with time or money. With interest, of course.
+# Class 2 Collection Staff: 'Can't pay the tax' is not an option. Your only options are the following: make your payment with time or money. With interest, of course.
 Сотрудник Отдела Сбора Времени: Нельзя просто не платить. Вы либо платите деньгами, либо временем. По своему усмотрению, конечно.
 
-# Original: What the hell does 'making payment with time' even mean...?
+# Gregor: What the hell does 'making payment with time' even mean...?
 Грегор: Что вообще ещё за „оплата временем“...?
 
-# Original: Now that I think about it... I remember someone talking about 'paying with time' before. I never really cared to find out what exactly they meant, though...
+# Narrator: Now that I think about it... I remember someone talking about 'paying with time' before. I never really cared to find out what exactly they meant, though...
 Рассказчик: Если задуматься, то я помню, как кто-то говорил что-то о том, что „платит временем“. Но я так и не узнал, что это значит…
 
-# Original: <Yi Sang? Heathcliff? Know anything about this...?>
+# Dante: <Yi Sang? Heathcliff? Know anything about this...?>
 Данте: <Знаете что-нибудь об этом…? И Сан, Хитклиф?>
 
-# Original: Hm...
+# Yi Sang: Hm...
 И Сан: Хм…
 
-# Original: I have not once failed to make my payments during my residency at this Nest...
+# Yi Sang: I have not once failed to make my payments during my residency at this Nest...
 И Сан: Никогда мне не доводилось пропускать оплату своего пребывания в гнезде корпорации T…
 
-# Original: Thus, I know not what transpires on an occasion in which one fails to pay the Time Tax.
+# Yi Sang: Thus, I know not what transpires on an occasion in which one fails to pay the Time Tax.
 И Сан: Посему не могу сказать, что происходит, когда кто-то не в силах оплатить временной налог.
 
-# Original: I've never been involved in messy businesses like taxes at the manor, either. And in my Backstreets days, Boss dealt with complicated shite like that for the rest of us. I did see a few poor sods gettin' dragged away 'cuz they failed to cough it up, though.
+# Heathcliff: I've never been involved in messy businesses like taxes at the manor, either. And in my Backstreets days, Boss dealt with complicated shite like that for the rest of us. I did see a few poor sods gettin' dragged away 'cuz they failed to cough it up, though.
 Хитклиф: Меня в поместье никогда такие сурьёзные дела, как налоги, не касались… Ну а когда жил в Переулках, то со всей белибердой разбирался Босс. Хотя я видел пару бедолаг, которых утаскивали куда-то из-за того, что те заплатить не могли…
 
-# Original: <Well, then...>
+# Dante: <Well, then...>
 Данте: <Вот оно как…>
 
-# Original: With their not-so-helpful answers, my mind immediately began to wander toward Faust, who I hoped would know something more about this than the two of them. And that's when Outis suddenly and defiantly stood between us and the Collectors.
+# Narrator: With their not-so-helpful answers, my mind immediately began to wander toward Faust, who I hoped would know something more about this than the two of them. And that's when Outis suddenly and defiantly stood between us and the Collectors.
 Рассказчик: Пока я размышлял, стоит ли на фоне не самых проницательных ответов этих двоих задать вопрос Фауст, навстречу коллекторам вышла Отис.
 
-# Original: This is completely unreasonable. What kind of shoddy calculation led to this nonsensical figure?
+# Outis: This is completely unreasonable. What kind of shoddy calculation led to this nonsensical figure?
 Отис: Это совершенно необоснованно. По какому методу расчёта вышла такая абсурдная сумма?
 
-# Original: Tax calculations in T Corp. are always exceptionally reasonable.
+# Class 2 Collection Staff: Tax calculations in T Corp. are always exceptionally reasonable.
 Сотрудник Отдела Сбора Времени: Расчёт налогов в корпорации T всегда обоснован.
 
-# Original: The clock's ticking. Would I be correct to assume that you lack both the capability and the will to make your fair payments?
+# Class 2 Collection Staff: The clock's ticking. Would I be correct to assume that you lack both the capability and the will to make your fair payments?
 Сотрудник Отдела Сбора Времени: Мы зря теряем время. Правильно ли я полагаю, что вы не можете найти ни возможности, ни желания платить?
 
-# Original: Wait, wait... we don't have to escalate this. Can we get a time-out?
+# Sinclair: Wait, wait... we don't have to escalate this. Can we get a time-out?
 Синклер: Подождите… можно ещё времени на подумать?
 
-# Original: Your choice of words may be quite... unwise...
+# Yi Sang: Your choice of words may be quite... unwise...
 И Сан: Твой выбор слов в этой ситуации... оставляет желать лучшего…
 
-# Original: Cry and whine all you want about not wanting to escalate things when you've got ten billion Ahn in your pockets. I won't recognize your opinion as anything of worth otherwise.
+# Outis: Cry and whine all you want about not wanting to escalate things when you've got ten billion Ahn in your pockets. I won't recognize your opinion as anything of worth otherwise.
 Отис: Можете ныть о ситуации сколько хотите только при условии, если у вас в кармане завалялись десять миллиардов ан. В противном случае, ваше мнение не учитывается.
 
-# Original: No? Then shut up and stay out of our way while we deal with this obstacle that dares to stand in our path.
+# Outis: No? Then shut up and stay out of our way while we deal with this obstacle that dares to stand in our path.
 Отис: Нет таких? Тогда замолкните и расправимся с теми, кто смеет стоять у нас на пути.
 
-# Original: How exciting. A ten-billion-Ahn death...
+# Ryōshū: How exciting. A ten-billion-Ahn death...
 Рёшу: Вот ведь потеха. Смерть ценой в десять миллиардов ан…
 
-# Original: ... Ten-billion-and-forty-million Ahn, to be exact.
+# Class 2 Collection Staff: ... Ten-billion-and-forty-million Ahn, to be exact.
 Сотрудник Отдела Сбора Времени: …Десять миллиардов и сорок миллионов, если быть точнее.

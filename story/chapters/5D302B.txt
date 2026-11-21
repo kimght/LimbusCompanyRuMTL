@@ -1,206 +1,206 @@
-# Original: Your head... What an odd power it has. Just like the peculiarities of each Whale.
+# Ahab: Your head... What an odd power it has. Just like the peculiarities of each Whale.
 Ахав: Твоя голова... Какая странная сила в ней заключена. Прямо как особенности каждого из Китов.
 
-# Original: ... Pequod crew sank. Right before heart.
+# Queequeg: ... Pequod crew sank. Right before heart.
 Квикег: ... Команда "Пекода" утонула. Прямо перед сердцем.
 
-# Original: Because of you.
+# Queequeg: Because of you.
 Квикег: Из-за тебя.
 
-# Original: It was a mistake to expect even a hint of surprise or shame from the Captain...
+# Narrator: It was a mistake to expect even a hint of surprise or shame from the Captain...
 Рассказчик: Было ошибкой ожидать от Капитана хотя бы намёка на удивление или стыд...
 
-# Original: ... when it was revealed that she'd sent her crew to their deaths.
+# Narrator: ... when it was revealed that she'd sent her crew to their deaths.
 Рассказчик: ... когда выяснилось, что она отправила свою команду на верную смерть.
 
-# Original: Hahahaha!
+# Ahab: Hahahaha!
 Ахав: Хахахаха!
 
-# Original: Yes, you can say that. You may indeed claim that I have sacrificed my crew.
+# Ahab: Yes, you can say that. You may indeed claim that I have sacrificed my crew.
 Ахав: Да, можно сказать и так. Вы действительно можете утверждать, что я пожертвовала своей командой.
 
-# Original: By now they must be wandering the Whale's guts, transformed into Mermaids. Lucky ones probably turned to sludge in acid.
+# Ahab: By now they must be wandering the Whale's guts, transformed into Mermaids. Lucky ones probably turned to sludge in acid.
 Ахав: К этому моменту они, должно быть, блуждают по кишкам Кита, превратившись в Русалок. Те кому повезло, вероятно, растворились в кислоте.
 
-# Original: But why...
+# Gregor: But why...
 Грегор: Но зачем...
 
-# Original: I know this heart better than anything else in the world. I know it better than my own body. The pancreas we have journeyed through is an endlessly winding maze! And if our limbs were to be melted off, we'd have no means of recovering them as you do.
+# Ahab: I know this heart better than anything else in the world. I know it better than my own body. The pancreas we have journeyed through is an endlessly winding maze! And if our limbs were to be melted off, we'd have no means of recovering them as you do.
 Ахав: Я знаю это сердце лучше, чем что-либо другое в мире. Я знаю его лучше, чем своё тело. Поджелудочная железа, через которую мы путешествовали - это бесконечный извилистый лабиринт! И если бы наши конечности растворились, у нас не было бы возможности восстановить их, как это делаете вы.
 
-# Original: I had to calculate the ideal path to the heart, losses be damned. I see no injustice committed in my pursuit of practicality.
+# Ahab: I had to calculate the ideal path to the heart, losses be damned. I see no injustice committed in my pursuit of practicality.
 Ахав: Мне пришлось рассчитать идеальный путь к сердцу, несмотря на потери. Я не вижу никакой несправедливости в моём стремлении к практичности.
 
-# Original: I even encouraged and reminded them of their pride and greatness as they drew their last breaths.
+# Ahab: I even encouraged and reminded them of their pride and greatness as they drew their last breaths.
 Ахав: Я даже поощряла их и напоминала им об их гордости и величии, когда они испускали свой последний вздох.
 
-# Original: When it could not be helped, I made sure that they perished before fear overwhelmed them.
+# Ahab: When it could not be helped, I made sure that they perished before fear overwhelmed them.
 Ахав: Когда ничего нельзя было поделать, я убеждалась, что они погибали прежде, чем их одолевал страх.
 
-# Original: My crew and I are one, bound by oath! The promise that we will hunt the Pallid Whale, whatever it takes!
+# Ahab: My crew and I are one, bound by oath! The promise that we will hunt the Pallid Whale, whatever it takes!
 Ахав: Мой экипаж и я - единое целое, связанное клятвой! Обещанием, что мы будем охотиться на Бледного Кита, чего бы это ни стоило!
 
-# Original: Are we not, Ishmael?! Now, we shall...
+# Ahab: Are we not, Ishmael?! Now, we shall...
 Ахав: Разве не так, Измаил?! Теперь мы должны...
 
-# Original: ... Sail... to the heart?
+# Ishmael: ... Sail... to the heart?
 Измаил: ... Поплыть... к сердцу?
 
-# Original: Quite! Yet we need one last piece of the puzzle before we set sail.
+# Ahab: Quite! Yet we need one last piece of the puzzle before we set sail.
 Ахав: Именно! Однако нам нужен последний кусочек пазла, прежде чем мы отправимся в путь.
 
-# Original: Ahab turns to face me again, glaring at me with her burning eyes.
+# Narrator: Ahab turns to face me again, glaring at me with her burning eyes.
 Рассказчик: Ахав снова поворачивается ко мне, пронзая меня своими горящими глазами.
 
-# Original: That shard of the Bough.
+# Ahab: That shard of the Bough.
 Ахав: Тот осколок Ветви.
 
-# Original: <What are you...>
+# Dante: <What are you...>
 Данте: <Что ты...>
 
-# Original: I, Captain Ahab, cannot be deceived! That thing in your clock-head... is a piece of that Golden Bough, is it not? It is that Golden thing that counteracts the Pallidification effects! Am I wrong in assuming that this is how you and your crew have remained untouched by its effects?!
+# Ahab: I, Captain Ahab, cannot be deceived! That thing in your clock-head... is a piece of that Golden Bough, is it not? It is that Golden thing that counteracts the Pallidification effects! Am I wrong in assuming that this is how you and your crew have remained untouched by its effects?!
 Ахав: Меня, Капитан Ахав, не обманешь! Эта штука в твоей часовой-голове... это кусок той Золотой Ветви, не так ли? Именно эта золотая штука противодействует эффектам Обледнения! Я права, предполагая, что именно так ты и твой экипаж остались незатронутыми его воздействием?!
 
-# Original: Soon, our final battle for everything that we hold dear will commence. And for victory, I shall spare no quarter.
+# Ahab: Soon, our final battle for everything that we hold dear will commence. And for victory, I shall spare no quarter.
 Ахав: Скоро начнётся наша последняя битва за всё, что нам дорого. И ради победы я не пощажу никого.
 
-# Original: No one knows what will happen here, at the heart of the Whale from which all evils of the City, the world, spout.
+# Ahab: No one knows what will happen here, at the heart of the Whale from which all evils of the City, the world, spout.
 Ахав: Никто не знает, что произойдёт здесь, в сердце Кита, из которого проистекают все беды Города и мира.
 
-# Original: And is it not patently clear that you are the only one inexperienced in combat?
+# Ahab: And is it not patently clear that you are the only one inexperienced in combat?
 Ахав: И разве не очевидно, что ты единственный, кто неопытен в бою?
 
-# Original: What if you were to perish...? What fate shall befall your crew?
+# Ahab: What if you were to perish...? What fate shall befall your crew?
 Ахав: Что, если ты погибнешь...? Какая судьба ждёт твою команду?
 
-# Original: What fate shall befall your crew, should you meet a pathetic end without having destroyed the Whale's heart!
+# Ahab: What fate shall befall your crew, should you meet a pathetic end without having destroyed the Whale's heart!
 Ахав: Какая судьба постигнет твою команду, если ты встретишь жалкий конец, не уничтожив сердце Кита!
 
-# Original: <That's...>
+# Dante: <That's...>
 Данте: <Это...>
 
-# Original: Everyone here, including your crew and mine, will turn into Mermaids within hours.
+# Ahab: Everyone here, including your crew and mine, will turn into Mermaids within hours.
 Ахав: Все здесь, включая и твою, и мою команду, превратятся в Русалок в течение нескольких часов.
 
-# Original: <So... what the hell do you want me to do?>
+# Dante: <So... what the hell do you want me to do?>
 Данте: <Так... чего же ты, чёрт возьми, хочешь от меня?>
 
-# Original: Hand it over. That golden shard in your head.
+# Ahab: Hand it over. That golden shard in your head.
 Ахав: Отдай его. Тот золотой осколок в твоей голове.
 
-# Original: And I swear by my name that I will personally see to it that everyone trapped within this Whale safely makes it to the world outside.
+# Ahab: And I swear by my name that I will personally see to it that everyone trapped within this Whale safely makes it to the world outside.
 Ахав: И я клянусь своим именем, что лично прослежу за тем, чтобы все, кто попал в ловушку внутри этого Кита, благополучно выбрались в мир снаружи.
 
-# Original: Captain ain't wrong, you know...
+# Starbuck: Captain ain't wrong, you know...
 Старбак: Капитан ведь не ошибается, знаешь ли...
 
-# Original: <Huh. I guess that makes... some sense.>
+# Dante: <Huh. I guess that makes... some sense.>
 Данте: <Хм. Полагаю, в этом есть... какой-то смысл.>
 
-# Original: It takes but a single sacrifice... to ensure that everyone survives. Down to every single crew.
+# Ahab: It takes but a single sacrifice... to ensure that everyone survives. Down to every single crew.
 Ахав: Требуется всего одна жертва... чтобы гарантировать выживание всех. До единого члена команды.
 
-# Original: I... I detest that. I shall not relinquish Manager Esquire's head to thee...!
+# Don Quixote: I... I detest that. I shall not relinquish Manager Esquire's head to thee...!
 Дон Кихот: Я... Я это не приемлю. Я не отдам тебе голову Сэра Менеджера...!
 
-# Original: Then what? Fail to destroy its heart and let us all be Mermaids together? Is that how you wish your tale to end?
+# Ahab: Then what? Fail to destroy its heart and let us all be Mermaids together? Is that how you wish your tale to end?
 Ахав: И что тогда? Не сумеете уничтожить его сердце и позволите нам всем вместе стать Русалками? Ты хочешь, чтобы твоя история закончилась вот так?
 
-# Original: That's...
+# Don Quixote: That's...
 Дон Кихот: Это...
 
-# Original: My friends. Is there not something out there, past this Pallid Whale's flesh, that awaits your return?
+# Ahab: My friends. Is there not something out there, past this Pallid Whale's flesh, that awaits your return?
 Ахав: Друзья мои. Разве нет чего-то там, за плотью этого Бледного Кита, что ждёт вашего возвращения?
 
-# Original: Laying your lives down just to save the life of some useless clock cannot possibly be your dream.
+# Ahab: Laying your lives down just to save the life of some useless clock cannot possibly be your dream.
 Ахав: Положить свои жизни только для того, чтобы спасти жизнь каких-то бесполезных часов - это не может быть вашей мечтой.
 
-# Original: You must have something that drives you! A desire, a goal, a mission that you must see to its end once you escape this Whale!!!
+# Ahab: You must have something that drives you! A desire, a goal, a mission that you must see to its end once you escape this Whale!!!
 Ахав: У вас должно быть что-то, что движет вами! Желание, цель, миссия, которую вы должны довести до конца, как только выберетесь из этого Кита!!!
 
-# Original: Captain Ahab cuts through our hearts, cracking them little by little, and nests in there.
+# Narrator: Captain Ahab cuts through our hearts, cracking them little by little, and nests in there.
 Рассказчик: Капитан Ахав проникает в наши сердца, понемногу раскалывая их, и гнездится там.
 
-# Original: Even the Sinners may have been moved by her speech, even for a brief moment.
+# Narrator: Even the Sinners may have been moved by her speech, even for a brief moment.
 Рассказчик: Даже Грешники могли быть тронуты её речью, пусть и на мгновение.
 
-# Original: And that brief moment is all it takes for that thought to spread through the heart as water freezes between the cracks of a rock.
+# Narrator: And that brief moment is all it takes for that thought to spread through the heart as water freezes between the cracks of a rock.
 Рассказчик: И этого краткого мгновения достаточно, чтобы эта мысль распространилась по сердцу, подобно тому как замерзает вода в трещинах скалы.
 
-# Original: That's what she's always done, I'm sure.
+# Narrator: That's what she's always done, I'm sure.
 Рассказчик: Я уверен, что именно так она всегда и поступала.
 
-# Original: And all of a sudden, when everything reaches a crescendo... it will shatter.
+# Narrator: And all of a sudden, when everything reaches a crescendo... it will shatter.
 Рассказчик: И вдруг, когда всё достигает кульминации... оно разбивается вдребезги.
 
-# Original: Ishmael. Her crew. This is what Ahab had done to them...
+# Narrator: Ishmael. Her crew. This is what Ahab had done to them...
 Рассказчик: Измаил. Её команда. Вот что Ахав сделала с ними...
 
-# Original: <Tell her what I'm about to say, Faust.>
+# Dante: <Tell her what I'm about to say, Faust.>
 Данте: <Передай ей то, что я сейчас скажу, Фауст.>
 
-# Original: Understood.
+# Faust: Understood.
 Фауст: Поняла.
 
-# Original: <You're not going to be responsible for the Sinners.>
+# Dante: <You're not going to be responsible for the Sinners.>
 Данте: <Ты не будешь нести ответственность за Грешников.>
 
-# Original: <And no one knows what'll happen to the Sinners if my head is crushed.>
+# Dante: <And no one knows what'll happen to the Sinners if my head is crushed.>
 Данте: <И никто не знает, что с ними случится, если мою голову разобьют.>
 
-# Original: <I'm not going to let the doubts you cast chart our futures.>
+# Dante: <I'm not going to let the doubts you cast chart our futures.>
 Данте: <Я не позволю сомнениям, которые ты вселяешь, определять наше будущее.>
 
-# Original: <Because I am their Manager.>
+# Dante: <Because I am their Manager.>
 Данте: <Потому что Я их Менеджер.>
 
-# Original: Ooh…
+# Heathcliff: Ooh…
 Хитклиф: Ооо...
 
-# Original: Hmph, predictable. Pleading for your life now, are you?
+# Ahab: Hmph, predictable. Pleading for your life now, are you?
 Ахав: Хмпф, предсказуемо. Теперь умоляешь сохранить тебе жизнь, да?
 
-# Original: <Besides... I don't want to die.>
+# Dante: <Besides... I don't want to die.>
 Данте: <Кроме того... я не хочу умирать.>
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: Sacrifice. A gilded name given to death so that it won't feel as hollow when it claims us.
+# Narrator: Sacrifice. A gilded name given to death so that it won't feel as hollow when it claims us.
 Рассказчик: Жертва. Позолоченное имя, данное смерти, чтобы она не казалась такой пустой, когда забирает нас.
 
-# Original: I've seen the Sinners die a thousand deaths. And I've shared that very same pain that killed them countless times.
+# Narrator: I've seen the Sinners die a thousand deaths. And I've shared that very same pain that killed them countless times.
 Рассказчик: Я видел, как Грешники умирали тысячу раз. И я разделял ту же самую боль, которая убивала их бесчисленное количество раз.
 
-# Original: I've felt the weight of their every death... so I can't bring myself to wrap them up in a pretty box labeled 'sacrifice'.
+# Narrator: I've felt the weight of their every death... so I can't bring myself to wrap them up in a pretty box labeled 'sacrifice'.
 Рассказчик: Я чувствовал тяжесть каждой их смерти... поэтому я не могу заставить себя упаковать их в красивую коробку с надписью "жертва".
 
-# Original: Instead, I endure. Endlessly.
+# Narrator: Instead, I endure. Endlessly.
 Рассказчик: Вместо этого я терплю. Бесконечно.
 
-# Original: What gives our collective struggle significance, what gives our suffering meaning... is us. We share the weight and convey our own meanings to our battles.
+# Narrator: What gives our collective struggle significance, what gives our suffering meaning... is us. We share the weight and convey our own meanings to our battles.
 Рассказчик: То, что придаёт значимость нашей общей борьбе, то что придаёт смысл нашим страданиям... это мы сами. Мы разделяем эту тяжесть и придаём собственный смысл нашим битвам.
 
-# Original: So that everyone can reach for their own dreams.
+# Narrator: So that everyone can reach for their own dreams.
 Рассказчик: Чтобы каждый мог стремиться к своей мечте.
 
-# Original: That's why this struggle is no sacrifice.
+# Narrator: That's why this struggle is no sacrifice.
 Рассказчик: Вот почему эта борьба - никакая ни жертва.
 
-# Original: I won't seek death willingly.
+# Narrator: I won't seek death willingly.
 Рассказчик: Я не буду добровольно искать смерти.
 
-# Original: Ahab... You really haven't changed. ... No, you've become even more revolting.
+# Ishmael: Ahab... You really haven't changed. ... No, you've become even more revolting.
 Измаил: Ахав... Ты действительно не изменилась. ... Нет, ты стала ещё более отвратительной.
 
-# Original: I struggled, I thrashed, yet... Again, you had us in the palm of your hands…
+# Ishmael: I struggled, I thrashed, yet... Again, you had us in the palm of your hands…
 Измаил: Я боролась, я металась, но... Снова, ты держала нас словно в ежовых рукавицах...
 
-# Original: Commandeering our ship, turning me into one of your crew again…
+# Ishmael: Commandeering our ship, turning me into one of your crew again…
 Измаил: Захватила наш корабль, снова сделала меня членом твоей команды...
 
-# Original: Silence!!! Shut up. This... is a moment of paramount importance.
+# Ahab: Silence!!! Shut up. This... is a moment of paramount importance.
 Ахав: Молчать!!! Заткнись. Это... момент первостепенной важности.
 
-# Original: The path to the heart opened as Ahab finished her words.
+# Narrator: The path to the heart opened as Ahab finished her words.
 Рассказчик: Путь к сердцу открылся, как только Ахав закончила свою речь.

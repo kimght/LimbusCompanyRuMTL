@@ -1,56 +1,56 @@
-# Original: The child’s eyes were laden with drowsiness and fatigue.
+# Narrator: The child’s eyes were laden with drowsiness and fatigue.
 Рассказчик: Глаза дитя были отягощены сонливостью и усталостью.
 
-# Original: …Sensor signals’re all clear. We should secure the aisle.
+# Strict Junior: …Sensor signals’re all clear. We should secure the aisle.
 Рассказчик: ...Сигналы датчиков чисты. Нам следует обезопасить проход.
 
-# Original: Yaaawn… Ah, gee~ What a hassle.
+# Rodion: Yaaawn… Ah, gee~ What a hassle.
 Родион: Уааах... Ах, блин~ Какая морока.
 
-# Original: …This is our job.
+# Strict Junior: …This is our job.
 Рассказчик: ...Это наша работа.
 
-# Original: I mean, yeah, ‘course I’m doing it~ Haaa, why do we gotta do it to help the bus crew, though?
+# Rodion: I mean, yeah, ‘course I’m doing it~ Haaa, why do we gotta do it to help the bus crew, though?
 Родион: Ну да, конечно, я делаю~ Хааа, но почему мы должны помогать экипажу автобуса?
 
-# Original: It’s what the LCC is tasked with.
+# Another Colleague: It’s what the LCC is tasked with.
 Рассказчик: Это задача LCC.
 
-# Original: “I know!” The child playfully retorted, smacking her lips.
+# Narrator: “I know!” The child playfully retorted, smacking her lips.
 Рассказчик: "Знаю!" - игриво парировало дитя, причмокивая губами.
 
-# Original: The LCC’s work is to assist the 12 Sinners aboard Mephistopheles and ensure that they successfully retrieve the Golden Boughs. It was a fact she was well aware of.
+# Narrator: The LCC’s work is to assist the 12 Sinners aboard Mephistopheles and ensure that they successfully retrieve the Golden Boughs. It was a fact she was well aware of.
 Рассказчик: Работа LCC заключается в помощи 12 Грешникам на борту Мефистофеля и обеспечении успешного получения ими Золотых Ветвей. Это был факт, который она прекрасно осознавала.
 
-# Original: Truthfully, the work didn’t really strain her.
+# Narrator: Truthfully, the work didn’t really strain her.
 Рассказчик: По правде говоря, работа её особо не напрягала.
 
-# Original: She didn’t have any amateurish complaints about risking her life to help people she’s never met personally, either.
+# Narrator: She didn’t have any amateurish complaints about risking her life to help people she’s never met personally, either.
 Рассказчик: У неё не было и дилетантских жалоб на то, что приходится рисковать жизнью ради людей, с которыми она лично не знакома.
 
-# Original: If anything… she just disliked that her job didn’t bring much excitement.
+# Narrator: If anything… she just disliked that her job didn’t bring much excitement.
 Рассказчик: Если уж на то пошло... ей просто не нравилось, что её работа не приносила особого волнения.
 
-# Original: Man~ I bet I could do the bus thing just as well. Plus, that guy… Vergilius? I wanna see him, too.
+# Rodion: Man~ I bet I could do the bus thing just as well. Plus, that guy… Vergilius? I wanna see him, too.
 Родион: Блин~ Спорю, я могла бы справиться с автобусом не хуже. Плюс, этот парень... Вергилий? Я тоже хочу его увидеть.
 
-# Original: …You know you can’t jump over just like that. Those Sinners are—
+# Another Colleague: …You know you can’t jump over just like that. Those Sinners are—
 Рассказчик: ...Ты же знаешь, что не можешь просто так перепрыгнуть. Эти Грешники...
 
-# Original: I know, have to resonate with that clockhead or whatever. Tsk, I know what it takes. I was just saying…
+# Rodion: I know, have to resonate with that clockhead or whatever. Tsk, I know what it takes. I was just saying…
 Родион: Знаю, надо резонировать с этим часоголовым или как там. Тц, я знаю, что для этого нужно. Я просто говорю...
 
-# Original: The child sighed, then spoke into the radio.
+# Narrator: The child sighed, then spoke into the radio.
 Рассказчик: Дитя вздохнуло, затем заговорило в рацию.
 
-# Original: This is Rodya, commencing advance reconnaissance on containment in Sector E-361~
+# Rodion: This is Rodya, commencing advance reconnaissance on containment in Sector E-361~
 Родион: Это Родя, приступаю к предварительной разведке по сдерживанию в Секторе E-361~
 
-# Original: She did a warm-up exercise, and then told her crew:
+# Narrator: She did a warm-up exercise, and then told her crew:
 Рассказчик: Она сделала разминку, а затем сказала своей команде:
 
-# Original: Ready, everyone? Here goes~!
+# Rodion: Ready, everyone? Here goes~!
 Родион: Все готовы? Поехали~!
 
-# Original: Breaching!
+# Rodion: Breaching!
 Родион: Прорываемся!

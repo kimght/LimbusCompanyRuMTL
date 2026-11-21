@@ -1,434 +1,434 @@
-# Original: There’s something going on in the village.
+# Amiya: There’s something going on in the village.
 Амия: В деревне что-то происходит.
 
-# Original: Yeah, I hear it too. I’m hearing people shouting and hollering…
+# Sinclair: Yeah, I hear it too. I’m hearing people shouting and hollering…
 Синклер: Да, я тоже слышу. Крики, вопли...
 
-# Original: When we returned to the village, ship repairs completed, we were welcomed by a rather hostile standoff.
+# Narrator: When we returned to the village, ship repairs completed, we were welcomed by a rather hostile standoff.
 Рассказчик: Когда мы, закончив с починкой корабля, вернулись в деревню, нас встретило довольно враждебное противостояние.
 
-# Original: A quick count told me there were approximately twenty people assembled at the village square…
+# Narrator: A quick count told me there were approximately twenty people assembled at the village square…
 Рассказчик: Быстрый подсчёт показал, что на деревенской площади собралось около двадцати человек...
 
-# Original: Considering its population, that was pretty much the whole village.
+# Narrator: Considering its population, that was pretty much the whole village.
 Рассказчик: Учитывая её население, это была практически вся деревня.
 
-# Original: <Who… who’s that over there?>
+# Dante: <Who… who’s that over there?>
 Данте: <Кто... кто это там?>
 
-# Original: … Inquisitor.
+# Mayors: … Inquisitor.
 Мэрс: ...Инквизитор.
 
-# Original: I think... we’ve been found.
+# Mayors: I think... we’ve been found.
 Мэрс: Кажется... нас нашли.
 
-# Original: The Inquisitor, dressed in a well-kept uniform, was about the same height as Don Quixote. The sword and the lamp hanging from her waist sits in stark contrast with the more run-down, ramshackle village.
+# Narrator: The Inquisitor, dressed in a well-kept uniform, was about the same height as Don Quixote. The sword and the lamp hanging from her waist sits in stark contrast with the more run-down, ramshackle village.
 Рассказчик: Инквизитор, одетая в безупречную униформу, была примерно того же роста, что и Дон Кихот. Меч и лампа, висевшие у неё на поясе, резко контрастировали с более обветшалой, полуразрушенной деревней.
 
-# Original: She almost looked like… a Fixer from the City.
+# Narrator: She almost looked like… a Fixer from the City.
 Рассказчик: Она выглядела почти как... Корректировщик из Города.
 
-# Original: … So, the Inquisition has discovered our village.
+# Fabius: … So, the Inquisition has discovered our village.
 Фабий: ...Значит, Инквизиция обнаружила нашу деревню.
 
-# Original: Did you really think that you could forever stay out of the Inquisition’s gaze, citizen? That's a naive dream.
+# Inquisitor: Did you really think that you could forever stay out of the Inquisition’s gaze, citizen? That's a naive dream.
 Айрен: Неужели вы думали, что сможете вечно скрываться от взора Инквизиции, гражданин? Наивные мечты.
 
-# Original: Fabius. Disappeared from the Inquisition mid-interrogation under charges of suspicion of membership within the Church of the Deep.
+# Inquisitor: Fabius. Disappeared from the Inquisition mid-interrogation under charges of suspicion of membership within the Church of the Deep.
 Айрен: Фабий. Исчез из Инквизиции в середине допроса по обвинению в причастности к Церкви Глубин.
 
-# Original: …….
+# Fabius: …….
 Фабий: …….
 
-# Original: Last known location: Salt Flat. The other Inquisitors have informed me that you have been identified next to pirates in its fringes.
+# Inquisitor: Last known location: Salt Flat. The other Inquisitors have informed me that you have been identified next to pirates in its fringes.
 Айрен: Последнее известное местоположение: Солевая Равнина. Другие инквизиторы сообщили мне, что вас опознали на её окраинах рядом с пиратами.
 
-# Original: From a criminal to an outlaw… What a dramatic evolution of your career.
+# Inquisitor: From a criminal to an outlaw… What a dramatic evolution of your career.
 Айрен: Из преступника — в разбойника... Какая драматическая эволюция вашей карьеры.
 
-# Original: But it ends here, now.
+# Inquisitor: But it ends here, now.
 Айрен: Но на этом всё заканчивается. Здесь и сейчас.
 
-# Original: Every citizen here, including you, will be accompanying me to the Inquisition.
+# Inquisitor: Every citizen here, including you, will be accompanying me to the Inquisition.
 Айрен: Все здешние граждане, включая вас, проследуют со мной в Инквизицию.
 
-# Original: ... They have never broken a single law, nor are they outlaws of any kind. They are not like me.
+# Fabius: ... They have never broken a single law, nor are they outlaws of any kind. They are not like me.
 Фабий: ...Они не нарушили ни единого закона и не являются разбойниками. Они не такие, как я.
 
-# Original: They’ve disregarded the Inquisition’s authority, evaded the gaze of Iberia, and found this sodden coast to lurk in.
+# Inquisitor: They’ve disregarded the Inquisition’s authority, evaded the gaze of Iberia, and found this sodden coast to lurk in.
 Айрен: Они пренебрегли властью Инквизиции, избегали взора Иберии и нашли это сырое побережье, чтобы затаиться.
 
-# Original: Tell me I’m not supposed to find that suspicious.
+# Inquisitor: Tell me I’m not supposed to find that suspicious.
 Айрен: И вы хотите сказать, что я не должна находить это подозрительным?
 
-# Original: What are you talking about?
+# Sinclair: What are you talking about?
 Синклер: О чём вы говорите?
 
-# Original: You can't just start arresting people left and right with a tenuous suspicion like that! ... You shouldn't!
+# Sinclair: You can't just start arresting people left and right with a tenuous suspicion like that! ... You shouldn't!
 Синклер: Нельзя же просто так арестовывать всех подряд по такому шаткому подозрению! ...Нельзя!
 
-# Original: W-we only wish to live a quiet life, ma’am!
+# Villager: W-we only wish to live a quiet life, ma’am!
 Селянин: М-мы лишь хотим жить спокойной жизнью, мэм!
 
-# Original: Is that so? Then you might find yourself returning to this village one day, as long as you’re telling the truth.
+# Inquisitor: Is that so? Then you might find yourself returning to this village one day, as long as you’re telling the truth.
 Айрен: Вот как? Тогда, возможно, однажды вы вернётесь в эту деревню, если говорите правду.
 
-# Original: Which is not an option for you, Fabius.
+# Inquisitor: Which is not an option for you, Fabius.
 Айрен: Но к вам, Фабий, это не относится.
 
-# Original: ... Mayors, was chief really... a pirate?
+# Sinclair: ... Mayors, was chief really... a pirate?
 Синклер: ...Мэрс, староста и вправду... был пиратом?
 
-# Original: Well... yeah, but as far as I know, he's been out of the game for a while.
+# Mayors: Well... yeah, but as far as I know, he's been out of the game for a while.
 Мэрс: Ну... да, но, насколько я знаю, он уже давно завязал.
 
-# Original: A-and even when he ran with the pirates, all he ever did was share finbeast jerky to villages...
+# Mayors: A-and even when he ran with the pirates, all he ever did was share finbeast jerky to villages...
 Мэрс: И-и даже когда он ходил с пиратами, всё, что он делал — это раздавал деревням вяленое мясо плавзверя...
 
-# Original: or carry Ægirians between them.
+# Mayors: or carry Ægirians between them.
 Мэрс: ...или перевозил между ними Эгир.
 
-# Original: Even if you're telling the truth, Mayors, I doubt the Inquisition will be lenient.
+# Amiya: Even if you're telling the truth, Mayors, I doubt the Inquisition will be lenient.
 Амия: Даже если вы говорите правду, Мэрс, сомневаюсь, что Инквизиция будет снисходительна.
 
-# Original: <... Well, what now?>
+# Dante: <... Well, what now?>
 Данте: <...И что теперь?>
 
-# Original: I have but one question to ask.
+# Outis: I have but one question to ask.
 Отис: У меня лишь один вопрос.
 
-# Original: That ‘Inquisitor’... is she following the proper legal procedures?
+# Outis: That ‘Inquisitor’... is she following the proper legal procedures?
 Отис: Этот «Инквизитор»... она следует надлежащим правовым процедурам?
 
-# Original: I don’t know much about the laws of Iberia, but… Dr. Kal'tsit told us that the words of Inquisitors were pretty much the law here.
+# Amiya: I don’t know much about the laws of Iberia, but… Dr. Kal'tsit told us that the words of Inquisitors were pretty much the law here.
 Амия: Я мало что знаю о законах Иберии, но... Доктор Кальцит говорила нам, что слова инквизиторов здесь — практически и есть закон.
 
-# Original: It is likely that she is following the proper legal procedures. The ‘procedures’ are precisely what the villagers have fled from, after all.
+# Faust: It is likely that she is following the proper legal procedures. The ‘procedures’ are precisely what the villagers have fled from, after all.
 Фауст: Весьма вероятно, что она следует надлежащим правовым процедурам. В конце концов, «процедуры» — это именно то, от чего бежали жители деревни.
 
-# Original: ... Then it is decided.
+# Outis: ... Then it is decided.
 Отис: ...Тогда решено.
 
-# Original: Outis quietly dragged me to the side and whispered outside Mayors’ earshot.
+# Narrator: Outis quietly dragged me to the side and whispered outside Mayors’ earshot.
 Рассказчик: Отис тихо оттащила меня в сторону и прошептала так, чтобы Мэрс не услышала.
 
-# Original: The Sinners who were right next to me seemed to have picked it up, though…
+# Narrator: The Sinners who were right next to me seemed to have picked it up, though…
 Рассказчик: Хотя Грешники, стоявшие рядом со мной, кажется, всё расслышали...
 
-# Original: Executive Manager. We best immediately return to the ship, take command of it, and sail out on our own. It is unwise to involve ourselves in this conflict.
+# Outis: Executive Manager. We best immediately return to the ship, take command of it, and sail out on our own. It is unwise to involve ourselves in this conflict.
 Отис: Исполнительный менеджер. Нам следует немедленно вернуться на корабль, принять командование и отплыть самостоятельно. Вмешиваться в этот конфликт неразумно.
 
-# Original: What!? Are you seriously suggestin’ that we just let ‘em arrest the villagers?
+# Heathcliff: What!? Are you seriously suggestin’ that we just let ‘em arrest the villagers?
 Хитклиф: Чего?! Ты серьёзно предлагаешь просто дать им арестовать селян?
 
-# Original: Didn’t you hear what the Inquisitor said? It seems quite cut-and-dry to me—if this is just standard procedure with no local laws broken, we are in no place to involve ourselves. Our best hope is to take the ship before they impound that, too.
+# Outis: Didn’t you hear what the Inquisitor said? It seems quite cut-and-dry to me—if this is just standard procedure with no local laws broken, we are in no place to involve ourselves. Our best hope is to take the ship before they impound that, too.
 Отис: Ты не слышал, что сказала Инквизитор? По-моему, всё предельно ясно: если это стандартная процедура и местные законы не нарушены, мы не вправе вмешиваться. Наша лучшая надежда — забрать корабль, пока и его не конфисковали.
 
-# Original: W-we can't do that. Even if it is standard procedure, even if they're working within the law, it's not— You stayed up to hear Mayors' story too, didn't you?
+# Sinclair: W-we can't do that. Even if it is standard procedure, even if they're working within the law, it's not— You stayed up to hear Mayors' story too, didn't you?
 Синклер: М-мы не можем так поступить. Даже если это стандартная процедура, даже если они действуют в рамках закона, это не... Ты ведь тоже не спала и слушала историю Мэрс, да?
 
-# Original: …….
+# Sinclair: …….
 Синклер: …….
 
-# Original: You know, the N Corp. Inquisitors were working within the law too, when they came for the village. That was standard procedure, too.
+# Sinclair: You know, the N Corp. Inquisitors were working within the law too, when they came for the village. That was standard procedure, too.
 Синклер: Знаешь, инквизиторы Корпорации N тоже действовали в рамках закона, когда пришли в ту деревню. Это тоже была стандартная процедура.
 
-# Original: If someone, anyone had stepped in then—
+# Sinclair: If someone, anyone had stepped in then—
 Синклер: Если бы тогда кто-нибудь, хоть кто-нибудь вмешался...
 
-# Original: ... I know what you went through, but I'd still rather not take a risk in an unfamiliar environment like this.
+# Outis: ... I know what you went through, but I'd still rather not take a risk in an unfamiliar environment like this.
 Отис: ...Я знаю, через что ты прошёл, но я всё же предпочла бы не рисковать в незнакомой обстановке.
 
-# Original: I will try my best to figure out how to sail that ship. If I cannot, then I have faith in Ishmael to quickly learn its controls.
+# Outis: I will try my best to figure out how to sail that ship. If I cannot, then I have faith in Ishmael to quickly learn its controls.
 Отис: Я приложу все усилия, чтобы разобраться, как управлять этим кораблём. Если не смогу я, то я верю, что Измаил быстро освоит управление.
 
-# Original: I can’t say you’re wrong, but… I don’t know. Neither you nor I know anything about the ocean currents here, Outis.
+# Ishmael: I can’t say you’re wrong, but… I don’t know. Neither you nor I know anything about the ocean currents here, Outis.
 Измаил: Не могу сказать, что ты неправа, но... не знаю. Ни ты, ни я ничего не знаем о здешних океанских течениях, Отис.
 
-# Original: We can get the ship going, but I can't guarantee that we'll reach the dimensional door without any trouble.
+# Ishmael: We can get the ship going, but I can't guarantee that we'll reach the dimensional door without any trouble.
 Измаил: Мы можем заставить корабль плыть, но я не могу гарантировать, что мы без проблем доберёмся до пространственной двери.
 
-# Original: …….
+# Mayors: …….
 Мэрс: …….
 
-# Original: ... You. Do you know anything about the sea currents in this region?
+# Outis: ... You. Do you know anything about the sea currents in this region?
 Отис: ...Ты. Знаешь что-нибудь о морских течениях в этом регионе?
 
-# Original: Not much, but... I know the coastal sea somewhat.
+# Mayors: Not much, but... I know the coastal sea somewhat.
 Мэрс: Немного, но... прибрежное море я отчасти знаю.
 
-# Original: And... you can't fight the Inquisitors directly here in Iberia. Fleeing with the ship might be the better option.
+# Mayors: And... you can't fight the Inquisitors directly here in Iberia. Fleeing with the ship might be the better option.
 Мэрс: И... здесь, в Иберии, нельзя сражаться с инквизиторами в открытую. Сбежать на корабле может быть лучшим вариантом.
 
-# Original: Hm... what should we do, Dante?
+# Ishmael: Hm... what should we do, Dante?
 Измаил: Хм... что нам делать, Данте?
 
-# Original: <Yeah, I guess it's kinda awkward for us to just take the ship and go, huh...>
+# Dante: <Yeah, I guess it's kinda awkward for us to just take the ship and go, huh...>
 Данте: <Да, полагаю, будет как-то неловко, если мы просто заберём корабль и уйдём, а?..>
 
-# Original: How about we try to talk to the Inquisitor, then?
+# Hong Lu: How about we try to talk to the Inquisitor, then?
 Хон Лу: Может, тогда попробуем поговорить с Инквизитором?
 
-# Original: I think we should at least try to hear them out first. Them being the Inquisitor and the chief both.
+# Hong Lu: I think we should at least try to hear them out first. Them being the Inquisitor and the chief both.
 Хон Лу: Я думаю, нам стоит хотя бы попытаться выслушать их. И Инквизитора, и старосту.
 
-# Original: ... If the discussion goes well, we might even be able to get the Inquisition's support...
+# Amiya: ... If the discussion goes well, we might even be able to get the Inquisition's support...
 Амия: ...Если разговор пройдёт хорошо, мы, возможно, даже сможем заручиться поддержкой Инквизиции...
 
-# Original: Like Mister Hong Lu said, we should hear them out first... then try to convince them.
+# Amiya: Like Mister Hong Lu said, we should hear them out first... then try to convince them.
 Амия: Как и сказал господин Хон Лу, сначала нам следует их выслушать... а затем попытаться убедить.
 
-# Original: I agreed with them both. First, let's at least see what that Inquisitor has to say...
+# Narrator: I agreed with them both. First, let's at least see what that Inquisitor has to say...
 Рассказчик: Я согласился с ними обоими. Для начала, давайте хотя бы посмотрим, что скажет этот Инквизитор...
 
-# Original: R.R.
+# Ryōshū: R.R.
 Рёшу: К.П.
 
-# Original: “Rabbit’s right”... she says…?
+# Sinclair: “Rabbit’s right”... she says…?
 Синклер: Она говорит... «Кролик права»?..
 
-# Original: Are you certain that translation was accurate, Sinclair?
+# Yi Sang: Are you certain that translation was accurate, Sinclair?
 И Сан: Вы уверены, что перевод был точен, Синклер?
 
-# Original: Right? There’s no way Ryōshū would choose anything other than violence, right?
+# Rodion: Right? There’s no way Ryōshū would choose anything other than violence, right?
 Родион: Точно! Не может быть, чтобы Рёшу выбрала что-то кроме насилия, правда?
 
-# Original: Tsk… Idiots, it’s because the other options are pointless.
+# Ryōshū: Tsk… Idiots, it’s because the other options are pointless.
 Рёшу: Тск... Идиоты. Просто другие варианты бессмысленны.
 
-# Original: Inquisitor’s seen us. We're already under suspicion.
+# Ryōshū: Inquisitor’s seen us. We're already under suspicion.
 Рёшу: Инквизитор нас видела. Мы уже под подозрением.
 
-# Original: She will doubtless try to stop us if we flee now.
+# Ryōshū: She will doubtless try to stop us if we flee now.
 Рёшу: Она, без сомнения, попытается остановить нас, если мы сейчас сбежим.
 
-# Original: So talk first, lower her guard, then attack.
+# Ryōshū: So talk first, lower her guard, then attack.
 Рёшу: Так что сначала — разговор, чтобы усыпить её бдительность, а потом — атака.
 
-# Original: <Pretty sure that’s not what Amiya meant…>
+# Dante: <Pretty sure that’s not what Amiya meant…>
 Данте: <Почти уверен, что Амия имела в виду не это...>
 
-# Original: <Well, if she’s already onto us, then we shouldn't give her any excuse to attack us by running away.>
+# Dante: <Well, if she’s already onto us, then we shouldn't give her any excuse to attack us by running away.>
 Данте: <Ну, если она уже взяла нас на заметку, то не стоит давать ей повод напасть на нас, пытаясь сбежать.>
 
-# Original: …….
+# Inquisitor: …….
 Айрен: …….
 
-# Original: I was wondering what you were doing there, lurking in the background…
+# Inquisitor: I was wondering what you were doing there, lurking in the background…
 Айрен: Я как раз думала, что вы там делаете, прячась на заднем плане...
 
-# Original: A clock-shaped head...? Are you from the Columbian Union?
+# Inquisitor: A clock-shaped head...? Are you from the Columbian Union?
 Айрен: Голова в форме часов?.. Вы из Колумбийского Союза?
 
-# Original: They're wearing a clock for a head due to... reasons, but they have nothing to do with the Columbian Union.
+# Amiya: They're wearing a clock for a head due to... reasons, but they have nothing to do with the Columbian Union.
 Амия: Он носит часы вместо головы по... определённым причинам, но он не имеет никакого отношения к Колумбийскому Союзу.
 
-# Original: <... What's the Columbian Union?>
+# Dante: <... What's the Columbian Union?>
 Данте: <...Что ещё за Колумбийский Союз?>
 
-# Original: Tick-tock... what? Which language are they speaking?
+# Inquisitor: Tick-tock... what? Which language are they speaking?
 Айрен: Тик-так... что? На каком языке он говорит?
 
-# Original: Regardless of whether you're from Columbia or not... you're clearly not from Iberia, let alone this village.
+# Inquisitor: Regardless of whether you're from Columbia or not... you're clearly not from Iberia, let alone this village.
 Айрен: Неважно, из Колумбии вы или нет... вы явно не из Иберии, и уж тем более не из этой деревни.
 
-# Original: Y-you’re not wrong, but… I think there’s been a bit of a misunderstanding.
+# Sinclair: Y-you’re not wrong, but… I think there’s been a bit of a misunderstanding.
 Синклер: В-вы не ошиблись, но... я думаю, произошло небольшое недоразумение.
 
-# Original: I’m quite certain you don’t know enough about these villagers to stand between them and an Inquisitor. How long have you been staying here?
+# Inquisitor: I’m quite certain you don’t know enough about these villagers to stand between them and an Inquisitor. How long have you been staying here?
 Айрен: Я совершенно уверена, что вы недостаточно знаете этих жителей, чтобы вставать между ними и Инквизитором. Как долго вы здесь находитесь?
 
-# Original: …….
+# Sinclair: …….
 Синклер: …….
 
-# Original: Two… days?
+# Sinclair: Two… days?
 Синклер: Два... дня?
 
-# Original: Buddy, don't just tell her that—
+# Gregor: Buddy, don't just tell her that—
 Грегор: Парень, не стоило ей этого говорить...
 
-# Original: <i>Two days</i>? Alright, enough of this chicanery. Get out of my way, outsider.
+# Inquisitor: <i>Two days</i>? Alright, enough of this chicanery. Get out of my way, outsider.
 Айрен: <i>Два дня</i>? Так, хватит этого фарса. Прочь с дороги, чужак.
 
-# Original: … The attempt appears to have been made on quite the… unstable ground.
+# Yi Sang: … The attempt appears to have been made on quite the… unstable ground.
 И Сан: ...Попытка, похоже, была предпринята на весьма... зыбкой почве.
 
-# Original: Please lend us your ear for a minute, Inquisitor.
+# Amiya: Please lend us your ear for a minute, Inquisitor.
 Амия: Прошу, уделите нам минуту вашего внимания, Инквизитор.
 
-# Original: I am Amiya, leader of Rhodes Island. Yes, I am aware of Iberia’s closed border situation—
+# Amiya: I am Amiya, leader of Rhodes Island. Yes, I am aware of Iberia’s closed border situation—
 Амия: Я — Амия, лидер Родос Айленд. Да, мне известно о ситуации с закрытыми границами Иберии...
 
-# Original: I felt hope swelling within me as Amiya began with confidence, unlike Sinclair. Alas, it was short-lived…
+# Narrator: I felt hope swelling within me as Amiya began with confidence, unlike Sinclair. Alas, it was short-lived…
 Рассказчик: Я почувствовал, как во мне зарождается надежда, когда Амия, в отличие от Синклера, начала с уверенностью. Увы, она была недолгой...
 
-# Original: … thanks to the Inquisitor’s quick retort. I couldn’t help but place my palm against my forehead at the exchange that followed.
+# Narrator: … thanks to the Inquisitor’s quick retort. I couldn’t help but place my palm against my forehead at the exchange that followed.
 Рассказчик: ...благодаря быстрой отповеди Инквизитора. Я невольно приложил ладонь ко лбу, услышав последовавший за этим диалог.
 
-# Original: Oh, so not only are we dealing with outsiders of dubious origin, we have illegal entry as well?
+# Inquisitor: Oh, so not only are we dealing with outsiders of dubious origin, we have illegal entry as well?
 Айрен: О, так мы имеем дело не только с чужаками сомнительного происхождения, но ещё и с незаконным пересечением границы?
 
-# Original: That’s… We had to, because the issue demands urgency, and…
+# Amiya: That’s… We had to, because the issue demands urgency, and…
 Амия: Это... Нам пришлось, потому что дело не терпит отлагательств, и...
 
-# Original: I’ve been briefed. Brazenly crossed the border, didn’t you?
+# Inquisitor: I’ve been briefed. Brazenly crossed the border, didn’t you?
 Айрен: Меня проинформировали. Нагло пересекли границу, не так ли?
 
-# Original: I don’t know how urgent that issue could be, but I doubt it’s anything more significant than the situation at hand for Iberia and its Inquisition.
+# Inquisitor: I don’t know how urgent that issue could be, but I doubt it’s anything more significant than the situation at hand for Iberia and its Inquisition.
 Айрен: Не знаю, насколько срочным может быть ваше дело, но сомневаюсь, что оно важнее ситуации, в которой сейчас находятся Иберия и её Инквизиция.
 
-# Original: The High Inquisitor is handling the Rhodes Island issue. Stay put and await the consequences while he and that chatty med doctor of yours talk it out. Do know that your treatment may depend on her negotiation skills.
+# Inquisitor: The High Inquisitor is handling the Rhodes Island issue. Stay put and await the consequences while he and that chatty med doctor of yours talk it out. Do know that your treatment may depend on her negotiation skills.
 Айрен: Вопросом Родос Айленд занимается Верховный Инквизитор. Оставайтесь на месте и ожидайте последствий, пока он и ваш болтливый медик всё обсудят. Знайте, что обращение с вами может зависеть от её переговорных навыков.
 
-# Original: As for the village chief… I understand that you have the right to arrest him,
+# Amiya: As for the village chief… I understand that you have the right to arrest him,
 Амия: Что до старосты деревни... я понимаю, что у вас есть право арестовать его,
 
-# Original: as he is a fugitive who has fled in the middle of an interrogation, and has been sailing with the pirates.
+# Amiya: as he is a fugitive who has fled in the middle of an interrogation, and has been sailing with the pirates.
 Амия: поскольку он — беглец, скрывшийся в разгар допроса и ходивший с пиратами.
 
-# Original: However, it is an inhumane treatment to arrest the rest of the villagers as well.
+# Amiya: However, it is an inhumane treatment to arrest the rest of the villagers as well.
 Амия: Однако арестовывать остальных жителей — это бесчеловечно.
 
-# Original: Inhumane? This decision is well within the rights bestowed upon the Inquisition.
+# Inquisitor: Inhumane? This decision is well within the rights bestowed upon the Inquisition.
 Айрен: Бесчеловечно? Это решение полностью соответствует правам, дарованным Инквизиции.
 
-# Original: They’ve lived for years right next to that highly suspicious Ægir. The Inquisition must investigate the rest of them as well to verify whether they have committed any acts of treason against our laws.
+# Inquisitor: They’ve lived for years right next to that highly suspicious Ægir. The Inquisition must investigate the rest of them as well to verify whether they have committed any acts of treason against our laws.
 Айрен: Они годами жили бок о бок с этим крайне подозрительным Эгиром. Инквизиция должна допросить и остальных, чтобы проверить, не совершали ли они каких-либо актов государственной измены.
 
-# Original: … This isn’t going anywhere, is it…
+# Gregor: … This isn’t going anywhere, is it…
 Грегор: ...Это никуда не ведёт, да?..
 
-# Original: Listen. They’ve been surviving for years upon years by the coast without the protection of the Inquisition. And that simply cannot make sense.
+# Inquisitor: Listen. They’ve been surviving for years upon years by the coast without the protection of the Inquisition. And that simply cannot make sense.
 Айрен: Послушайте. Они выживали на этом побережье годами без защиты Инквизиции. А это просто не имеет смысла.
 
-# Original: Oi, I think I've heard enough from you.
+# Heathcliff: Oi, I think I've heard enough from you.
 Хитклиф: Эй, кажется, я с тебя наслушался.
 
-# Original: Ain't it funny how you're blamin' them for what is essentially a failure of your responsibilities?
+# Heathcliff: Ain't it funny how you're blamin' them for what is essentially a failure of your responsibilities?
 Хитклиф: Забавно, а? Винишь их в том, что по сути является провалом твоих же обязанностей.
 
-# Original: And now you roll up in here, only to go "they shouldn't be alive", "I'm arresting them all"?
+# Heathcliff: And now you roll up in here, only to go "they shouldn't be alive", "I'm arresting them all"?
 Хитклиф: А теперь являешься сюда, только чтобы заявить: «они не должны быть живы», «я всех арестую»?
 
-# Original: What, are you sayin’ these people should all be dead or something?
+# Heathcliff: What, are you sayin’ these people should all be dead or something?
 Хитклиф: Ты чё, хочешь сказать, что эти люди должны были сдохнуть, что ли?
 
-# Original: ... I am. There’s no other way to cut it—people simply shouldn't be able to survive in a place like this, not for this long.
+# Inquisitor: ... I am. There’s no other way to cut it—people simply shouldn't be able to survive in a place like this, not for this long.
 Айрен: ...Именно. Иначе и не скажешь — люди просто не должны выживать в подобном месте, уж точно не так долго.
 
-# Original: The Inquisitor's reply only seemed to fan Heathcliff's wrath, as he lifted his bat and began striding forward...
+# Narrator: The Inquisitor's reply only seemed to fan Heathcliff's wrath, as he lifted his bat and began striding forward...
 Рассказчик: Ответ Инквизитора, казалось, лишь раздул гнев Хитклифа: он поднял биту и зашагал вперёд...
 
-# Original: Haah... that's it.
+# Heathcliff: Haah... that's it. 
 Хитклиф: Ха-а... ну всё.
 
-# Original: Lass, if you ever so much as touch the tip of a single villager's hair—
+# Heathcliff: Lass, if you ever so much as touch the tip of a single villager's hair—
 Хитклиф: Девчонка, если ты хоть волосок тронешь с головы хоть одного жителя...
 
-# Original: Please calm yourself, Heathcliff.
+# Hong Lu: Please calm yourself, Heathcliff.
 Хон Лу: Прошу вас, успокойтесь, Хитклиф.
 
-# Original: But Hong Lu stepped in between them.
+# Narrator: But Hong Lu stepped in between them.
 Рассказчик: Но Хон Лу встал между ними.
 
-# Original: Get your bloody hands off me! I've had enough of her!
+# Heathcliff: Get your bloody hands off me! I've had enough of her!
 Хитклиф: Убери от меня свои чёртовы руки! С меня её хватит!
 
-# Original: Continuing to threaten her will cause something irrevocably bad to happen. I... believe you know that yourself, Heathcliff.
+# Hong Lu: Continuing to threaten her will cause something irrevocably bad to happen. I... believe you know that yourself, Heathcliff.
 Хон Лу: Если вы продолжите ей угрожать, случится нечто непоправимо плохое. Я... полагаю, вы и сами это знаете, Хитклиф.
 
-# Original: ... What do you suggest, then? We're clearly not making any progress by trying to talk this out.
+# Heathcliff: ... What do you suggest, then? We're clearly not making any progress by trying to talk this out.
 Хитклиф: ...И что ты тогда предлагаешь? Ясно же, что разговорами мы ничего не добьёмся.
 
-# Original: …….
+# Hong Lu: …….
 Хон Лу: …….
 
-# Original: Excuse me, Miss Inquisitor. What do you mean that people shouldn't be able to survive in a place like this?
+# Hong Lu: Excuse me, Miss Inquisitor. What do you mean that people shouldn't be able to survive in a place like this?
 Хон Лу: Прошу прощения, госпожа Инквизитор. Что вы имеете в виду, говоря, что люди не должны выживать в подобном месте?
 
-# Original: I mean it literally.
+# Inquisitor: I mean it literally.
 Айрен: Я говорю в буквальном смысле.
 
-# Original: Even by some miracle that they actually do survive, they should at least be suffering from endless hunger, struggling to their wits’ end at the inevitability of the calamity.
+# Inquisitor: Even by some miracle that they actually do survive, they should at least be suffering from endless hunger, struggling to their wits’ end at the inevitability of the calamity.
 Айрен: Даже если бы они каким-то чудом и выжили, они должны были бы страдать от бесконечного голода, из последних сил борясь с неизбежностью бедствия.
 
-# Original: But they look... too healthy.
+# Inquisitor: But they look... too healthy.
 Айрен: Но они выглядят... слишком здоровыми.
 
-# Original: The heck? Then shouldn't you be applauding them for managing to survive through so much hardship?
+# Rodion: The heck? Then shouldn't you be applauding them for managing to survive through so much hardship?
 Родион: Какого чёрта? Так может, тебе стоит поаплодировать им за то, что они сумели выжить, пройдя через столько трудностей?
 
-# Original: I'm an Inquisitor.
+# Inquisitor: I'm an Inquisitor.
 Айрен: Я — Инквизитор.
 
-# Original: I'm not some crazy person on a power high who goes around accosting and arresting civilians of Iberia straight to the gallows, okay?
+# Inquisitor: I'm not some crazy person on a power high who goes around accosting and arresting civilians of Iberia straight to the gallows, okay?
 Айрен: Я не какая-то сумасшедшая, упивающаяся властью, что ходит и тащит мирных граждан Иберии прямиком на виселицу, ясно?
 
-# Original: I have more than enough probable cause to take them in for interrogation—it's just that I don't have the time or the energy to explain every single one of them to you outsiders. I promise them a fair judgment, whichever way that may be, after a proper investigation.
+# Inquisitor: I have more than enough probable cause to take them in for interrogation—it's just that I don't have the time or the energy to explain every single one of them to you outsiders. I promise them a fair judgment, whichever way that may be, after a proper investigation.
 Айрен: У меня более чем достаточно оснований, чтобы забрать их на допрос — просто у меня нет ни времени, ни сил объяснять каждое из них вам, чужакам. Я обещаю им справедливый суд, каким бы ни был его исход, после надлежащего расследования.
 
-# Original: So, stop it with this obstruction of justice.
+# Inquisitor: So, stop it with this obstruction of justice.
 Айрен: Так что прекратите это препятствование правосудию.
 
-# Original: The Inquisitor brandished her rapier threateningly, her voice shaking with frustration.
+# Narrator: The Inquisitor brandished her rapier threateningly, her voice shaking with frustration.
 Рассказчик: Инквизитор угрожающе взмахнула рапирой, её голос дрожал от раздражения.
 
-# Original: …Dante.
+# Faust: …Dante.
 Фауст: ...Данте.
 
-# Original: Without the full picture of the circumstances, Faust advises against further antagonization of a local political authority.
+# Faust: Without the full picture of the circumstances, Faust advises against further antagonization of a local political authority.
 Фауст: Не имея полной картины обстоятельств, Фауст советует воздержаться от дальнейшей вражды с представителем местной политической власти.
 
-# Original: I agree with Faust.
+# Hong Lu: I agree with Faust.
 Хон Лу: Я согласен с Фауст.
 
-# Original: I get the feeling that she isn't the kind of heartless Inquisitor that goes around indiscriminately executing innocents, like Miss Mayors told us about earlier.
+# Hong Lu: I get the feeling that she isn't the kind of heartless Inquisitor that goes around indiscriminately executing innocents, like Miss Mayors told us about earlier.
 Хон Лу: У меня такое чувство, что она не из тех бессердечных инквизиторов, что без разбора казнят невинных, о которых нам ранее рассказывала госпожа Мэрс.
 
-# Original: I don't think she's anything like the Inquisitors of N Corp. we saw back at Calw.
+# Hong Lu: I don't think she's anything like the Inquisitors of N Corp. we saw back at Calw.
 Хон Лу: Не думаю, что она похожа на инквизиторов корпорации N, которых мы видели в Кальве.
 
-# Original: They were right... we didn't have the full picture of the circumstances. Getting in the way of an Inquisitor, who was clearly a rather significant political entity in the area, was most likely a bad idea.
+# Narrator: They were right... we didn't have the full picture of the circumstances. Getting in the way of an Inquisitor, who was clearly a rather significant political entity in the area, was most likely a bad idea.
 Рассказчик: Они были правы... у нас не было полной картины. Мешать Инквизитору, который явно был довольно значимой политической фигурой в этом регионе, скорее всего, было плохой идеей.
 
-# Original: It isn’t the Inquisitor’s job to answer your questions.
+# Inquisitor: It isn’t the Inquisitor’s job to answer your questions.
 Айрен: Отвечать на ваши вопросы — не работа Инквизитора.
 
-# Original: Continue to obstruct me, then—
+# Inquisitor: Continue to obstruct me, then—
 Айрен: Продолжите мне мешать, и тогда...
 
-# Original: As the standoff was showing no signs of ending...
+# Narrator: As the standoff was showing no signs of ending...
 Рассказчик: В то время как противостояние, казалось, не собиралось заканчиваться...
 
-# Original: Miss Mayors?
+# Amiya: Miss Mayors?
 Амия: Госпожа Мэрс?
 
-# Original: … I can answer your questions. So, for now, let’s do as the Inquisitor says.
+# Mayors: … I can answer your questions. So, for now, let’s do as the Inquisitor says.
 Мэрс: ...Я могу ответить на ваши вопросы. Так что пока давайте сделаем так, как говорит Инквизитор.
 
-# Original: Mayors, who had been hiding behind us ever since we returned to the village, suddenly stepped forward.
+# Narrator: Mayors, who had been hiding behind us ever since we returned to the village, suddenly stepped forward.
 Рассказчик: Мэрс, которая пряталась за нами с самого нашего возвращения в деревню, внезапно шагнула вперёд.
 
-# Original: Y-yet… what of thy grandfather, and the villagers…?
+# Don Quixote: Y-yet… what of thy grandfather, and the villagers…?
 Дон Кихот: Н-но... как же твой дед и остальные жители?..
 
-# Original: It’s alright. I’m sure this is happening only because the Inquisitor doesn’t know.
+# Mayors: It’s alright. I’m sure this is happening only because the Inquisitor doesn’t know.
 Мэрс: Всё в порядке. Уверена, это происходит лишь потому, что Инквизитор не знает.
 
-# Original: What do you mean you’ll answer the questions?
+# Outis: What do you mean you’ll answer the questions?
 Отис: Что значит «ответите на вопросы»?
 
-# Original: …….
+# Mayors: …….
 Мэрс: …….
 
-# Original: About the "Profound Silence."
+# Mayors: About the "Profound Silence."
 Мэрс: О «Глубокой Тишине».
 
-# Original: Mayors’s response to Outis was but a single concept.
+# Narrator: Mayors’s response to Outis was but a single concept.
 Рассказчик: Ответ Мэрс для Отис был всего лишь одним понятием.
 
-# Original: I didn’t quite grasp its significance, but it seemed to surprise the Inquisitor.
+# Narrator: I didn’t quite grasp its significance, but it seemed to surprise the Inquisitor.
 Рассказчик: Я не совсем понял его значения, но Инквизитора оно, похоже, удивило.
 
-# Original: That’s what they call the calamity that destroyed Iberia.
+# Mayors: That’s what they call the calamity that destroyed Iberia.
 Мэрс: Так называют бедствие, уничтожившее Иберию.

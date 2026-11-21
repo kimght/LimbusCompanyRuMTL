@@ -1,71 +1,71 @@
-﻿# Original: I have personally confirmed her death 3 years ago. They will not hear any new Voice from her again.
+﻿# Meursault: I have personally confirmed her death 3 years ago. They will not hear any new Voice from her again.
 Мерсо: Я лично удостоверился в её смерти 3 года назад. Они больше не услышат от неё нового Голоса.
 
-# Original: ... Did you really do it, Meursault?
+# Sinclair: ... Did you really do it, Meursault?
 Синклер: ... Ты правда это сделал, Мерсо?
 
-# Original: As the manager and the rest were all present at the court for the trial and the sentencing, I don't suppose there is any need for further elaboration.
+# Meursault: As the manager and the rest were all present at the court for the trial and the sentencing, I don't suppose there is any need for further elaboration.
 Мерсо: Поскольку Менеджер и все остальные присутствовали в суде на разбирательстве и оглашении приговора, полагаю, дальнейшие пояснения не требуются.
 
-# Original: Hm... I don't feel the need to question him further. I'm sure he must've had a reason for committing such an act.
+# Outis: Hm... I don't feel the need to question him further. I'm sure he must've had a reason for committing such an act.
 Отис: Хм... Не вижу необходимости в дальнейших расспросах. Уверена, у него были причины совершить подобный поступок.
 
-# Original: Correct.
+# Meursault: Correct.
 Мерсо: Верно.
 
-# Original: <But we only heard that through the prosecutor's argument.>
+# Dante: <But we only heard that through the prosecutor's argument.>
 Данте: <Но мы слышали об этом только из обвинительной речи прокурора.>
 
-# Original: <We'd like to hear your side of the story, Meursault.>
+# Dante: <We'd like to hear your side of the story, Meursault.>
 Данте: <Мы хотели бы услышать твою версию, Мерсо.>
 
-# Original: Strictly speaking, the prosecutor took no liberty with the truth of the matter.
+# Meursault: Strictly speaking, the prosecutor took no liberty with the truth of the matter.
 Мерсо: Строго говоря, прокурор не допустила никаких искажений фактов.
 
-# Original: Perhaps, but it was plain to see that she did take quite a bit of liberty with the interpretation of it. She painted a picture of a remorseless murderer who has committed the heinous sin of matricide.
+# Outis: Perhaps, but it was plain to see that she did take quite a bit of liberty with the interpretation of it. She painted a picture of a remorseless murderer who has committed the heinous sin of matricide.
 Отис: Возможно, но было очевидно, что в их толковании она позволила себе немало вольностей. Она представила тебя нераскаявшимся убийцей, совершившим чудовищный грех убийства родителя.
 
-# Original: If "matricide" is to be defined as an act of murdering one's own mother,
+# Meursault: If "matricide" is to be defined as an act of murdering one's own mother,
 Мерсо: Если под «убийством родителя» понимается убийство собственной матери,
 
-# Original: then there is no reason to deny her accusations.
+# Meursault: then there is no reason to deny her accusations.
 Мерсо: то отрицать её обвинения нет оснований.
 
-# Original: <color=#a5ab8e>…….</color>
+# Jeanne: <color=#a5ab8e>…….</color>
 Жанна: <color=#a5ab8e>…….</color>
 
-# Original: <color=#a5ab8e>An awful incident. Awful.</color>
+# Jeanne: <color=#a5ab8e>An awful incident. Awful.</color>
 Жанна: <color=#a5ab8e>Ужасное происшествие. Ужасное.</color>
 
-# Original: <color=#a5ab8e>It was what all N Corp. newspapers talked about for a good while.</color>
+# Jeanne: <color=#a5ab8e>It was what all N Corp. newspapers talked about for a good while.</color>
 Жанна: <color=#a5ab8e>Довольно долго все газеты Корпорации N только об этом и писали.</color>
 
-# Original: <color=#a5ab8e>Did you know? That incident even led to a total sales boom in the familicide genre of Canned Experiences.</color>
+# Jeanne: <color=#a5ab8e>Did you know? That incident even led to a total sales boom in the familicide genre of Canned Experiences.</color>
 Жанна: <color=#a5ab8e>А ты знал? Из-за этого происшествия даже резко подскочили продажи Консервированного опыта в жанре убийства собственной семьи.</color>
 
-# Original: <color=#a5ab8e>It was around then that cracks appeared on the Grand Magasin's walls... when the customers stopped rising after they fell and hit rock bottom.</color>
+# Jeanne: <color=#a5ab8e>It was around then that cracks appeared on the Grand Magasin's walls... when the customers stopped rising after they fell and hit rock bottom.</color>
 Жанна: <color=#a5ab8e>Примерно тогда стены Гран-Магазэна и пошли трещинами... когда покупатели, упав на самое дно, перестали подниматься.</color>
 
-# Original: <color=#a5ab8e>Though a Giant had disappeared, her appropriate replacement just could not be found.</color>
+# Jeanne: <color=#a5ab8e>Though a Giant had disappeared, her appropriate replacement just could not be found.</color>
 Жанна: <color=#a5ab8e>Одна из Гигантов исчезла, а достойную замену ей всё никак не могли найти.</color>
 
-# Original: <color=#a5ab8e>Do you think any of them has caught on to the fact that, for almost several years now on the outside, the "Voice" they've been worshipping and longing for...</color>
+# Jeanne: <color=#a5ab8e>Do you think any of them has caught on to the fact that, for almost several years now on the outside, the "Voice" they've been worshipping and longing for...</color>
 Жанна: <color=#a5ab8e>Как думаешь, хоть кто-нибудь из них догадался, что «Голос», которому они поклоняются и по которому так тоскуют, вот уже несколько лет по меркам внешнего мира...</color>
 
-# Original: <color=#a5ab8e>... was a corpse all along?</color>
+# Jeanne: <color=#a5ab8e>... was a corpse all along?</color>
 Жанна: <color=#a5ab8e>... всё это время был трупом?</color>
 
-# Original: <color=#a5ab8e>It's like people can't bear to live without believing in something, even in a place like this where the very idea of faith has next to no significance.</color>
+# Jeanne: <color=#a5ab8e>It's like people can't bear to live without believing in something, even in a place like this where the very idea of faith has next to no significance.</color>
 Жанна: <color=#a5ab8e>Похоже, людям невыносимо жить без веры хоть во что-нибудь — даже в таком месте, где само понятие веры почти ничего не значит.</color>
 
-# Original: <color=#a5ab8e>How about you? Look back on all those years you've lived outside the Grand Magasin, and tell me if you've ever held such faith in anything.</color>
+# Jeanne: <color=#a5ab8e>How about you? Look back on all those years you've lived outside the Grand Magasin, and tell me if you've ever held such faith in anything.</color>
 Жанна: <color=#a5ab8e>А ты? Вспомни все те годы, что ты прожил за пределами Гран-Магазэна, и скажи: ты когда-нибудь так во что-нибудь верил?</color>
 
-# Original: In the past, I had believed myself to be someone who would never take a step outside N Corp.
+# Meursault: In the past, I had believed myself to be someone who would never take a step outside N Corp.
 Мерсо: Прежде я считал себя человеком, который никогда не сделает ни шагу за пределы Корпорации N.
 
-# Original: I once had faith in that idea.
+# Meursault: I once had faith in that idea.
 Мерсо: Когда-то я в это верил.
 
-# Original: <color=#a5ab8e>Same here. But that's not exactly "faith," is it? It's just something that's been naturally ingrained in the residents of N Corp.</color>
+# Jeanne: <color=#a5ab8e>Same here. But that's not exactly "faith," is it? It's just something that's been naturally ingrained in the residents of N Corp.</color>
 Жанна: <color=#a5ab8e>Я тоже. Но это ведь не совсем «вера», правда? Просто нечто, что само собой укоренилось в сознании жителей Корпорации N.</color>

@@ -1,142 +1,142 @@
-﻿# Original: ... I do remember you. The ones who called me Pwie.
+﻿# Buffet: ... I do remember you. The ones who called me Pwie.
 Буфет: ...Я помню вас. Тех, кто звал меня Буфи.
 
-# Original: And he who never lied—Meursault.
+# Buffet: And he who never lied—Meursault.
 Буфет: И того, кто никогда не лгал, — Мерсо.
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: All who claim to be my followers ask things of me, yet none have offered answers.
+# Buffet: All who claim to be my followers ask things of me, yet none have offered answers.
 Буфет: Все, кто называет себя моими последователями, просят у меня чего-то, но никто не предложил ответов.
 
-# Original: You, on the other hand... You may be able to answer. My questions were unending, but you never failed to tell me what you knew, exactly as you knew it.
+# Buffet: You, on the other hand... You may be able to answer. My questions were unending, but you never failed to tell me what you knew, exactly as you knew it.
 Буфет: Ты же... Ты, быть может, сумеешь ответить. Мои вопросы не иссякали, но ты всегда говорил мне то, что знал, ровно так, как знал.
 
-# Original: Meursault... Why... am I always so empty? I eat and eat in this restaurant and fill myself, yet still...
+# Buffet: Meursault... Why... am I always so empty? I eat and eat in this restaurant and fill myself, yet still...
 Буфет: Мерсо... Почему... я всегда так пуст? Я ем и ем в этом ресторане и наполняю себя, и всё же...
 
-# Original: I wished for none of this. Wanted none of it.
+# Buffet: I wished for none of this. Wanted none of it.
 Буфет: Я ничего этого не желал. Ничего этого не хотел.
 
-# Original: So why must I endure... this crushing hunger?
+# Buffet: So why must I endure... this crushing hunger?
 Буфет: Так почему я должен терпеть... этот сокрушительный голод?
 
-# Original: Because you were born that way.
+# Meursault: Because you were born that way.
 Мерсо: Потому что ты таким родился.
 
-# Original: I see...
+# Buffet: I see...
 Буфет: Понятно...
 
-# Original: But there were times when you forgot that fact.
+# Meursault: But there were times when you forgot that fact.
 Мерсо: Но бывали мгновения, когда ты забывал об этом.
 
-# Original: When you learned something new.
+# Meursault: When you learned something new.
 Мерсо: Когда узнавал что-то новое.
 
-# Original: When you were with Wriggley.
+# Meursault: When you were with Wriggley.
 Мерсо: Когда был рядом с Дрыгалкой.
 
-# Original: When you played games.
+# Meursault: When you played games.
 Мерсо: Когда играл в игры.
 
-# Original: Those brief moments allowed you to forget the pain.
+# Meursault: Those brief moments allowed you to forget the pain.
 Мерсо: Эти краткие мгновения позволяли тебе забыть о боли.
 
-# Original: .......
+# Buffet: .......
 Буфет: .......
 
-# Original: Yes, you're right.
+# Buffet: Yes, you're right.
 Буфет: Да, ты прав.
 
-# Original: Your words bring back another vivid memory. This one you didn't mention.
+# Buffet: Your words bring back another vivid memory. This one you didn't mention.
 Буфет: Твои слова воскрешают ещё одно яркое воспоминание. Его ты не упомянул.
 
-# Original: When I followed you, you would sometimes turn to look at me. And when our eyes met...
+# Buffet: When I followed you, you would sometimes turn to look at me. And when our eyes met...
 Буфет: Когда я шёл за тобой, ты порой оборачивался, чтобы взглянуть на меня. И когда наши взгляды встречались...
 
-# Original: There was no pain at all.
+# Buffet: There was no pain at all.
 Буфет: Боли совсем не было.
 
-# Original: It made me... very happy. I enjoyed our adventure so much that I'd even forgotten my hunger.
+# Buffet: It made me... very happy. I enjoyed our adventure so much that I'd even forgotten my hunger.
 Буфет: Это делало меня... очень счастливым. Наше приключение так мне нравилось, что я даже забывал о голоде.
 
-# Original: Buffet's relentless assault came to a brief lull, their gaze resting upon us.
+# Narrator: Buffet's relentless assault came to a brief lull, their gaze resting upon us.
 Рассказчик: Безжалостный натиск Буфета ненадолго стих, и его взгляд остановился на нас.
 
-# Original: Pwie. We have no wish to take up arms against you.
+# Yi Sang: Pwie. We have no wish to take up arms against you.
 И Сан: Буфи. Мы не желаем поднимать на тебя оружие.
 
-# Original: ... But we will have no choice but to do so.
+# Meursault: ... But we will have no choice but to do so.
 Мерсо: ...Но у нас не останется иного выбора.
 
-# Original: <color=#E1B643>That's right, Meur.</color>
+# ???: <color=#E1B643>That's right, Meur.</color>
 ???: <color=#E1B643>Верно, Мер.</color>
 
-# Original: <That voice again...>
+# Dante: <That voice again...>
 Данте: <Снова этот голос...>
 
-# Original: <color=#E1B643>Do you know why it's so cruel to be brought into this world without having any say in it?</color>
+# ???: <color=#E1B643>Do you know why it's so cruel to be brought into this world without having any say in it?</color>
 ???: <color=#E1B643>Знаешь, почему так жестоко приводить кого-то в этот мир, не спросив его согласия?</color>
 
-# Original: <color=#E1B643>It's because we're born to be afraid of death... even when we have chosen to die.</color>
+# ???: <color=#E1B643>It's because we're born to be afraid of death... even when we have chosen to die.</color>
 ???: <color=#E1B643>Потому что мы рождены бояться смерти... даже когда сами выбрали умереть.</color>
 
-# Original: <I've felt it since the first floor. This voice... it's getting closer.>
+# Dante: <I've felt it since the first floor. This voice... it's getting closer.>
 Данте: <Я чувствую это с самого первого этажа. Этот голос... он приближается.>
 
-# Original: Closer... with each floor we ascend?
+# Yi Sang: Closer... with each floor we ascend?
 И Сан: Приближается... с каждым этажом, на который мы поднимаемся?
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#E1B643>The guilt of having sacrificed a child.</color>
+# ???: <color=#E1B643>The guilt of having sacrificed a child.</color>
 ???: <color=#E1B643>Вина за принесённого в жертву ребёнка.</color>
 
-# Original: <color=#E1B643>The calling to heal mankind.</color>
+# ???: <color=#E1B643>The calling to heal mankind.</color>
 ???: <color=#E1B643>Призвание исцелить человечество.</color>
 
-# Original: <color=#E1B643>The responsibility of not wanting to let your colleagues down.</color>
+# ???: <color=#E1B643>The responsibility of not wanting to let your colleagues down.</color>
 ???: <color=#E1B643>Ответственность перед коллегами, которых не хочешь подвести.</color>
 
-# Original: <color=#E1B643>... None of it means anything in the face of death.</color>
+# ???: <color=#E1B643>... None of it means anything in the face of death.</color>
 ???: <color=#E1B643>...Ничто из этого не значит ничего перед лицом смерти.</color>
 
-# Original: <color=#E1B643>It will be the same for that child.</color>
+# ???: <color=#E1B643>It will be the same for that child.</color>
 ???: <color=#E1B643>Так же будет и с этим ребёнком.</color>
 
-# Original: <color=#E1B643>The memories shared with you, the expectations the Rouges placed upon them,
+# ???: <color=#E1B643>The memories shared with you, the expectations the Rouges placed upon them,
 # and the instinctive, insatiable hunger...</color>
 ???: <color=#E1B643>Воспоминания, разделённые с вами, надежды, которые возложили на него Ружи,
 и инстинктивный, ненасытный голод...</color>
 
-# Original: <color=#E1B643>Buffet is bearing all that anguish. They won't stop this time.</color>
+# ???: <color=#E1B643>Buffet is bearing all that anguish. They won't stop this time.</color>
 ???: <color=#E1B643>Буфет несёт в себе всю эту муку. На этот раз он не остановится.</color>
 
-# Original: <color=#E1B643>And they must know it, too—that for anything to exist... they themselves must first exist.</color>
+# ???: <color=#E1B643>And they must know it, too—that for anything to exist... they themselves must first exist.</color>
 ???: <color=#E1B643>И он тоже должен это понимать — чтобы существовало хоть что-то... прежде должен существовать он сам.</color>
 
-# Original: ... I could follow you now, but it's too late. This hunger would not disappear.
+# Buffet: ... I could follow you now, but it's too late. This hunger would not disappear.
 Буфет: ...Я мог бы пойти за вами сейчас, но уже слишком поздно. Этот голод не исчезнет.
 
-# Original: Nor would the hopes and expectations of the Rouges fade away.
+# Buffet: Nor would the hopes and expectations of the Rouges fade away.
 Буфет: И надежды и ожидания Ружей тоже не развеются.
 
-# Original: If this hunger is to be appeased... I must devour everything here. Even the place you seek above, I must devour.
+# Buffet: If this hunger is to be appeased... I must devour everything here. Even the place you seek above, I must devour.
 Буфет: Чтобы утолить этот голод... я должен пожрать здесь всё. Даже то место наверху, которое вы ищете, я должен пожрать.
 
-# Original: Why don't you remain here with me once more, strangers?
+# Buffet: Why don't you remain here with me once more, strangers?
 Буфет: Почему бы вам снова не остаться здесь со мной, посторонние?
 
-# Original: <... We can't.>
+# Dante: <... We can't.>
 Данте: <...Мы не можем.>
 
-# Original: <Which means... we'll have to make... another choice we'll regret.>
+# Dante: <Which means... we'll have to make... another choice we'll regret.>
 Данте: <А значит... нам придётся сделать... ещё один выбор, о котором мы пожалеем.>
 
-# Original: ... We will proceed to the next floor, Buffet.
+# Meursault: ... We will proceed to the next floor, Buffet.
 Мерсо: ...Мы пройдём на следующий этаж, Буфет.
 
-# Original: So you choose not to follow me in the end, strangers...
+# Buffet: So you choose not to follow me in the end, strangers...
 Буфет: Значит, в конце концов вы решили не идти за мной, посторонние...

@@ -1,332 +1,332 @@
-# Original: This was unexpected of you, Faust.
+# Vergilius: This was unexpected of you, Faust.
 Вергилий: Это было неожиданно с твоей стороны, Фауст.
 
-# Original: For you of all Sinners to be the one to bring aboard a 'big shot' to our humble abode.
+# Vergilius: For you of all Sinners to be the one to bring aboard a 'big shot' to our humble abode.
 Вергилий: Что из всех Грешников именно ты привела "важную шишку" в наше скромное обиталище.
 
-# Original: Tsk, do you have any idea how many times that prick killed us? The least you could do is—
+# Heathcliff: Tsk, do you have any idea how many times that prick killed us? The least you could do is—
 Хитклиф: Тц, ты хоть представляешь, сколько раз этот ублюдок нас убил? Самое меньшее, что ты мог бы сделать, это—
 
-# Original: Yes... that reminds me. I'll have to re-open my personal consultation hours for a certain kleptomaniac among us.
+# Vergilius: Yes... that reminds me. I'll have to re-open my personal consultation hours for a certain kleptomaniac among us.
 Вергилий: Да... это напоминает мне. Что придется вновь открыть часы личных консультаций для определенного клептомана среди нас.
 
-# Original: ……..
+# Heathcliff: ……..
 Хитклиф: ……..
 
-# Original: Vergilius' obvious discontent at the involvement of an outsider didn't seem to bother Faust.
+# Narrator: Vergilius' obvious discontent at the involvement of an outsider didn't seem to bother Faust.
 Рассказчик: Очевидное недовольство Вергилия вмешательством постороннего, казалось, не беспокоило Фауст.
 
-# Original: I considered him indispensable to the completion of this mission.
+# Faust: I considered him indispensable to the completion of this mission.
 Фауст: Я посчитала его незаменимым для выполнения этой миссии.
 
-# Original: And why is that?
+# Vergilius: And why is that?
 Вергилий: И почему же?
 
-# Original: Because I am the only one who can hunt that Pallid Whale.
+# ???: Because I am the only one who can hunt that Pallid Whale.
 Старик Индиго: Потому что я единственный, кто может охотиться на этого Бледного Кита.
 
-# Original: ... Of course you are.
+# Vergilius: ... Of course you are.
 Вергилий: ... Конечно же, это так.
 
-# Original: The Indigo Elder.
+# Vergilius: The Indigo Elder.
 Вергилий: Старик Индиго.
 
-# Original: Indigo? He is a Color?! Thou meanest to say that I at this very moment am sharing a space with not one but TWO COLOR FIXERS...?
+# Don Quixote: Indigo? He is a Color?! Thou meanest to say that I at this very moment am sharing a space with not one but TWO COLOR FIXERS...?
 Дон Кихот: Индиго? Он Цвет?! Ты хочешь сказать, что я в сей самый момент делю пространство не с одним, а с ДВУМЯ ЦВЕТНЫМИ КОРРЕКТИРОВЩИКАМИ...?
 
-# Original: I heard that you were wandering the Great Lake to hunt its Whales.
+# Vergilius: I heard that you were wandering the Great Lake to hunt its Whales.
 Вергилий: Я слышал, что ты бродил по Великому Озеру, охотясь на его Китов.
 
-# Original: And last I heard, you hunted one of the five Calamities, the All-impaling Marlin Whale.
+# Vergilius: And last I heard, you hunted one of the five Calamities, the All-impaling Marlin Whale.
 Вергилий: И последнее из того, что я слышал, ты охотился на одно из пяти Бедствий, Всепронзающего Кита-Марлина.
 
-# Original: ... Hrm.
+# The Indigo Elder: ... Hrm.
 Старик Индиго: ... Хрм.
 
-# Original: The old man grunted. It was neither a confirmation nor a denial, but that was the way the old man was. Everyone understood that.
+# Narrator: The old man grunted. It was neither a confirmation nor a denial, but that was the way the old man was. Everyone understood that.
 Рассказчик: Старик хмыкнул. Это не было ни подтверждением, ни отрицанием, но таков уж был этот старик. Все это понимали.
 
-# Original: All circumstantial evidence suggests that the Golden Bough was devoured by the Whale stranded at the Great Lake.
+# Faust: All circumstantial evidence suggests that the Golden Bough was devoured by the Whale stranded at the Great Lake.
 Фауст: Все косвенные свидетельства указывают на то, что Золотая Ветвь была поглощена Китом, оказавшемся в Великом Озере.
 
-# Original: Yes, that very same Pallid Whale of the Five Calamities, normally observed in the Outskirts.
+# Faust: Yes, that very same Pallid Whale of the Five Calamities, normally observed in the Outskirts.
 Фауст: Да, тем самым Бледным Китом из Пяти Бедствий, обычно наблюдаемым на Окраинах.
 
-# Original: ... Hm. Of course. That's how these things always tend to flow.
+# Vergilius: ... Hm. Of course. That's how these things always tend to flow.
 Вергилий: ... Хм. Конечно же. Вот так обычно и протекают подобные вещи.
 
-# Original: We've wasted much time, so I'll be blunt. I wish to hunt the Pallid Whale.
+# The Indigo Elder: We've wasted much time, so I'll be blunt. I wish to hunt the Pallid Whale.
 Старик Индиго: Мы потратили много времени, поэтому буду краток. Я хочу поохотиться на Бледного Кита.
 
-# Original: Yes. And time's all we have.
+# Vergilius: Yes. And time's all we have.
 Вергилий: Да. И время — это всё, что у нас есть.
 
-# Original: Moreover, we know where the Whale is headed.
+# Faust: Moreover, we know where the Whale is headed.
 Фауст: Более того, мы знаем, куда направляется Кит.
 
-# Original: And I am certain that you have spent a significant amount of time observing and learning that Whale to hunt it.
+# Faust: And I am certain that you have spent a significant amount of time observing and learning that Whale to hunt it.
 Фауст: И я уверена, что вы потратили значительное количество времени на наблюдение и изучение этого Кита, чтобы охотиться на него.
 
-# Original: …….
+# The Indigo Elder: …….
 Старик Индиго: …….
 
-# Original: I've got a plan.
+# Ishmael: I've got a plan.
 Измаил: У меня есть план.
 
-# Original: And I'll do anything to make it work. Even if you want me there only as bait.
+# Ishmael: And I'll do anything to make it work. Even if you want me there only as bait.
 Измаил: И я сделаю всё, чтобы он сработал. Даже если вы хотите, чтобы я была там только в качестве приманки.
 
-# Original: And this is how we'll do it.
+# Ishmael: And this is how we'll do it.
 Измаил: И вот как мы это сделаем.
 
-# Original: … …… … …….
+# Ishmael: … …… … …….
 Измаил: … …… … …….
 
-# Original: The crowd fell silent when Ishmael finished explaining her plan.
+# Narrator: The crowd fell silent when Ishmael finished explaining her plan.
 Рассказчик: Толпа замолчала, когда Измаил закончила объяснять свой план.
 
-# Original: ... You're mad. All that thrashing's finally sent you off the deep end.
+# Heathcliff: ... You're mad. All that thrashing's finally sent you off the deep end.
 Хитклиф: ... Ты сумасшедшая. Видимо эта трёпка наконец-то свела тебя с ума.
 
-# Original: I'm just going there for my mission. And the Golden Bough just happens to be in the same direction.
+# Ishmael: I'm just going there for my mission. And the Golden Bough just happens to be in the same direction.
 Измаил: Я иду туда ради своей миссии. А Золотая Ветвь просто оказалась в том же направлении.
 
-# Original: I'll leave it up to you. Well, to the manager, since their decision matters the most.
+# Ishmael: I'll leave it up to you. Well, to the manager, since their decision matters the most.
 Измаил: Я оставлю это на ваше усмотрение. Ну, на усмотрение менеджера, поскольку его решение имеет наибольшее значение.
 
-# Original: This Company, me... We're both just trying to find a way to reach our goals. That's all this is.
+# Ishmael: This Company, me... We're both just trying to find a way to reach our goals. That's all this is.
 Измаил: Эта Компания, я... Мы оба просто пытаемся найти способ достичь своих целей. Вот и всё.
 
-# Original: …….
+# The Indigo Elder: …….
 Старик Индиго: …….
 
-# Original: Besides, does anyone have a better idea?
+# Ishmael: Besides, does anyone have a better idea?
 Измаил: Кроме того, у кого-нибудь есть идея получше?
 
-# Original: No. Can't agree to that. We're making a mistake by even entertaining that barmy idea.
+# Heathcliff: No. Can't agree to that. We're making a mistake by even entertaining that barmy idea.
 Хитклиф: Нет. Я не могу согласиться с этим. Мы уже совершаем ошибку, даже просто рассматривая эту безумную идею.
 
-# Original: ……
+# The Indigo Elder: ……
 Старик Индиго: ……
 
-# Original: I must ask you one last thing.
+# The Indigo Elder: I must ask you one last thing.
 Старик Индиго: Я должен спросить тебя в последний раз.
 
-# Original: Will you join us to fish, Red?
+# The Indigo Elder: Will you join us to fish, Red?
 Старик Индиго: Присоединишься ли ты к нашей рыбалке, Красный?
 
-# Original: The Indigo Elder suddenly broke his silence with a question.
+# Narrator: The Indigo Elder suddenly broke his silence with a question.
 Рассказчик: Старик Индиго внезапно нарушил молчание вопросом.
 
-# Original: …….
+# Vergilius: …….
 Вергилий: …….
 
-# Original: I'm not experienced or particularly skilled at hunting marine life, but...
+# Vergilius: I'm not experienced or particularly skilled at hunting marine life, but...
 Вергилий: У меня нет опыта и особых навыков в охоте на морских обитателей, но...
 
-# Original: ... I have other, more important concerns that prevent me from joining.
+# Vergilius: ... I have other, more important concerns that prevent me from joining.
 Вергилий: ... у меня есть другие, более важные заботы, которые не позволяют мне присоединиться.
 
-# Original: So, no. Unless the worst comes to pass, I will not take part.
+# Vergilius: So, no. Unless the worst comes to pass, I will not take part.
 Вергилий: Так что нет. Я не буду участвовать, если только не случится самое худшее.
 
-# Original: …….
+# The Indigo Elder: …….
 Старик Индиго: …….
 
-# Original: The old man rose from his seat and walked off as though he was about to leave.
+# Narrator: The old man rose from his seat and walked off as though he was about to leave.
 Рассказчик: Старик поднялся со своего места и пошел прочь, словно собирался уйти.
 
-# Original: Wait... Wait a moment.
+# Outis: Wait... Wait a moment.
 Отис: Подождите... Подождите минутку.
 
-# Original: We don't need the guide. With a proper plan, we are more than capable of completing this mission.
+# Outis: We don't need the guide. With a proper plan, we are more than capable of completing this mission.
 Отис: Нам не нужен проводник. С надлежащим планом мы более чем способны выполнить эту миссию.
 
-# Original: To give up so quickly is—
+# Outis: To give up so quickly is—
 Отис: Так быстро сдаваться —
 
-# Original: I never said I am.
+# The Indigo Elder: I never said I am.
 Старик Индиго: Я никогда не говорил, что сдаюсь.
 
-# Original: This loud, screaming ship won't do in our hunt for the Pallid Whale.
+# The Indigo Elder: This loud, screaming ship won't do in our hunt for the Pallid Whale.
 Старик Индиго: Этот громкий, кричащий корабль не подойдет для нашей охоты на Бледного Кита.
 
-# Original: <Screaming? I didn't think Mephistopheles was that loud.>
+# Dante: <Screaming? I didn't think Mephistopheles was that loud.>
 Данте: <Кричащий? Я не думал, что Мефистофель настолько громкий.>
 
-# Original: To hunt it, the boat must remain near and covert. A narrow and sturdy boat is what we need.
+# The Indigo Elder: To hunt it, the boat must remain near and covert. A narrow and sturdy boat is what we need.
 Старик Индиго: Чтобы охотиться на него, судно должно оставаться близко и быть скрытным. Нам нужна узкая и прочная лодка.
 
-# Original: ... Huh? So all you needed to hear was that Vergilius wasn't going to help out? Why?
+# Gregor: ... Huh? So all you needed to hear was that Vergilius wasn't going to help out? Why?
 Грегор: ... А? Так всё, что тебе нужно было услышать, это то, что Вергилий не собирается помогать? Почему?
 
-# Original: Right? This could go much smoother if Vergie was with us.
+# Rodion: Right? This could go much smoother if Vergie was with us.
 Родион: Верно? Всё могло бы пройти гораздо более гладко, если бы Верги был с нами.
 
-# Original: We can prepare a boat that fits your specifications, should you request it.
+# Faust: We can prepare a boat that fits your specifications, should you request it.
 Фауст: Мы можем подготовить лодку, соответствующую вашим требованиям, если вы попросите.
 
-# Original: That's all right. I'll sail on my own skiff.
+# The Indigo Elder: That's all right. I'll sail on my own skiff.
 Старик Индиго: Всё в порядке. Я поплыву на своей лодке.
 
-# Original: That old dinghy? That Whale could split it in two with a light wag of its tail.
+# Heathcliff: That old dinghy? That Whale could split it in two with a light wag of its tail.
 Хитклиф: На той старой посудине? Этот Кит может расколоть её пополам легким взмахом хвоста.
 
-# Original: ... No. That skiff... It may not look like much, but it is extremely durable.
+# Outis: ... No. That skiff... It may not look like much, but it is extremely durable.
 Отис: ... Нет. Эта лодка... может выглядеть не очень внушительно, но она чрезвычайно прочная.
 
-# Original: I see that X Corp.'s alloys have been used in its construction. That could not have been an easy ingredient to come by.
+# Yi Sang: I see that X Corp.'s alloys have been used in its construction. That could not have been an easy ingredient to come by.
 И Сан: Я вижу, что в её конструкции использованы сплавы корпорации X. Это не могло быть легким ингредиентом для получения.
 
-# Original: Ooh... another benefit of having a Color bestowed upon thee, then?! I have heard tale of—
+# Don Quixote: Ooh... another benefit of having a Color bestowed upon thee, then?! I have heard tale of—
 Дон Кихот: Ооо... еще одно преимущество обладания Цветом, стало быть?! Я слышала рассказы о—
 
-# Original: Hrm...
+# The Indigo Elder: Hrm...
 Старик Индиго: Хрм...
 
-# Original: Instead of entertaining that bombardment of questions...
+# Narrator: Instead of entertaining that bombardment of questions...
 Рассказчик: Вместо того, чтобы отвечать на этот шквал вопросов...
 
-# Original: ... he approached me.
+# Narrator: ... he approached me.
 Рассказчик: ... он подошел ко мне.
 
-# Original: <…?>
+# Dante: <…?>
 Данте: <…?>
 
-# Original: I noticed it in the earlier scuffle. That clock seems to have been you and your crew's lifeline.
+# The Indigo Elder: I noticed it in the earlier scuffle. That clock seems to have been you and your crew's lifeline.
 Старик Индиго: Я заметил это в предыдущей стычке. Эти часы, кажется, были спасательным кругом для тебя и твоей команды.
 
-# Original: I know not how it works, but I presume it is a Singularity of sorts.
+# The Indigo Elder: I know not how it works, but I presume it is a Singularity of sorts.
 Старик Индиго: Я не знаю, как это работает, но предполагаю, что это своего рода Сингулярность.
 
-# Original: It will not work against the Whale.
+# The Indigo Elder: It will not work against the Whale.
 Старик Индиго: Это не сработает против Кита.
 
-# Original: So start now. Get used to the idea that not everything can be brought back.
+# The Indigo Elder: So start now. Get used to the idea that not everything can be brought back.
 Старик Индиго: Так что начинайте сейчас. Привыкайте к мысли, что не всё можно вернуть.
 
-# Original: <Why...>
+# Dante: <Why...>
 Данте: <Почему...>
 
-# Original: <Why did you accept? Even after Vergilius opted out?>
+# Dante: <Why did you accept? Even after Vergilius opted out?>
 Данте: <Почему вы согласились? Даже после того, как Вергилий отказался?>
 
-# Original: It was a question I've been unable to let go.
+# Narrator: It was a question I've been unable to let go.
 Рассказчик: Это был вопрос, который я не мог отпустить.
 
-# Original: Dante asks why you accepted our request, even after Vergilius opted out of it.
+# Faust: Dante asks why you accepted our request, even after Vergilius opted out of it.
 Фауст: Данте спрашивает, почему вы приняли нашу просьбу, даже после того, как Вергилий отказался участвовать.
 
-# Original: You ask me the wrong question. I would have denied your request, had Red agreed to take part.
+# The Indigo Elder: You ask me the wrong question. I would have denied your request, had Red agreed to take part.
 Старик Индиго: Ты задаешь мне неверный вопрос. Я бы отказал вам, если бы Красный согласился участвовать.
 
-# Original: Let's say that Red joined us. We would together battle the Whale in a long and arduous struggle. In the end, the Whale would surely go down—taking one of us with it.
+# The Indigo Elder: Let's say that Red joined us. We would together battle the Whale in a long and arduous struggle. In the end, the Whale would surely go down—taking one of us with it.
 Старик Индиго: Предположим, что Красный присоединился бы к нам. Мы бы вместе сражались с Китом в долгой и тяжелой борьбе. В конце концов, Кит бы наверняка пал — забрав одного из нас с собой.
 
-# Original: That is why I would have opted out if Red chose to join us.
+# The Indigo Elder: That is why I would have opted out if Red chose to join us.
 Старик Индиго: Вот почему я бы отказался, если бы Красный решил присоединиться к нам.
 
-# Original: <…?>
+# Dante: <…?>
 Данте: <…?>
 
-# Original: Because the hunt would no longer be mine.
+# The Indigo Elder: Because the hunt would no longer be mine.
 Старик Индиго: Потому что охота больше не была бы моей.
 
-# Original: Whatever doth thou mean? Thy intentions elude me...
+# Don Quixote: Whatever doth thou mean? Thy intentions elude me...
 Дон Кихот: Что ты имеешь в виду? Твои намерения ускользают от меня...
 
-# Original: I mean that I would not be able to test the limits.
+# The Indigo Elder: I mean that I would not be able to test the limits.
 Старик Индиго: Я имею в виду, что я не смог бы проверить пределы.
 
-# Original: …….
+# Ishmael: …….
 Измаил: …….
 
-# Original: The limits? What are you even talking about?
+# Ishmael: The limits? What are you even talking about?
 Измаил: Пределы? О чем ты вообще говоришь?
 
-# Original: Look, to hunt that Whale, we have to prepare with everything we have. And...
+# Ishmael: Look, to hunt that Whale, we have to prepare with everything we have. And...
 Измаил: Слушай, чтобы охотиться на этого Кита, мы должны подготовиться со всем, что у нас есть. И...
 
-# Original: Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits.
+# The Indigo Elder: Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits.
 Старик Индиго: Из-за страха люди провели границы даже на Окраинах, лежащих за пределами Города.
 
-# Original: Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself.
+# The Indigo Elder: Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself.
 Старик Индиго: За ними лежат звезды, находящиеся за гранью понимания, за пределами даже концепции страха.
 
-# Original: I am but a fisherman seeking to cross the borders and challenge that very understanding.
+# The Indigo Elder: I am but a fisherman seeking to cross the borders and challenge that very understanding.
 Старик Индиго: Я всего лишь рыбак, стремящийся пересечь границы и бросить вызов самому пониманию.
 
-# Original: ... Are you talking about what lies beyond the Outskirts? Its outreaches?
+# Outis: ... Are you talking about what lies beyond the Outskirts? Its outreaches?
 Отис: ... Ты говоришь о том, что лежит за Окраинами? Их отдаленных уголках?
 
-# Original: That Whale... devours everything. It brings nothing but calamity... How could you..
+# Ishmael: That Whale... devours everything. It brings nothing but calamity... How could you..
 Измаил: Этот Кит... пожирает всё. Он приносит только бедствие... Как ты мог..
 
-# Original: Ah, so you have been a prey once, sailor.
+# The Indigo Elder: Ah, so you have been a prey once, sailor.
 Старик Индиго: Ах, так ты однажды стала добычей, морячка.
 
-# Original: Countless Lakes here also devour. Summon calamities.
+# The Indigo Elder: Countless Lakes here also devour. Summon calamities.
 Старик Индиго: Бесчисленные Озера здесь тоже пожирают. Вызывают бедствия.
 
-# Original: If you find yourself at a crossroads, if you find that your life is worth nothing in the face of what lies before you...
+# The Indigo Elder: If you find yourself at a crossroads, if you find that your life is worth nothing in the face of what lies before you...
 Старик Индиго: Если ты окажешься на распутье, если поймешь, что твоя жизнь ничего не стоит перед лицом того, что лежит впереди...
 
-# Original: Recall this conversation.
+# The Indigo Elder: Recall this conversation.
 Старик Индиго: Вспомни этот разговор.
 
-# Original: …….
+# Ishmael: …….
 Измаил: …….
 
-# Original: I'm no good with advice. Never was.
+# The Indigo Elder: I'm no good with advice. Never was.
 Старик Индиго: Я не силен в советах. Никогда не был.
 
-# Original: Still, I thought I'd part a few words...
+# The Indigo Elder: Still, I thought I'd part a few words...
 Старик Индиго: И всё же я подумал, что поделюсь парой слов...
 
-# Original: ... as a fellow seafarer. Suppose I felt a bit of kinship.
+# The Indigo Elder: ... as a fellow seafarer. Suppose I felt a bit of kinship.
 Старик Индиго: ... как товарищ-моряк. Полагаю, я почувствовал некое родство.
 
-# Original: As per the old man's directions, we rode on the skiff prepared on Mephistopheles.
+# Narrator: As per the old man's directions, we rode on the skiff prepared on Mephistopheles.
 Рассказчик: Согласно указаниям старика, мы поплыли на шлюпке, подготовленной на Мефистофеле.
 
-# Original: I saw Ishmael, moments before boarding the skiff on Mephistopheles.
+# Narrator: I saw Ishmael, moments before boarding the skiff on Mephistopheles.
 Рассказчик: Я увидел Измаил за мгновения до того, как она села в лодку.
 
-# Original: This was Ishmael's plan, but... I had no way of knowing what she was really thinking.
+# Narrator: This was Ishmael's plan, but... I had no way of knowing what she was really thinking.
 Рассказчик: Это был её план, но... я не мог знать, о чем она на самом деле думала.
 
-# Original: I had an inkling, yes. And so far, I've been going along with those vague guesses. Vague guesses that led to disasters.
+# Narrator: I had an inkling, yes. And so far, I've been going along with those vague guesses. Vague guesses that led to disasters.
 Рассказчик: У меня было смутное представление, если честно. И до сих пор я следовал этим смутным догадкам. Смутным догадкам, которые приводили к катастрофам.
 
-# Original: So I had to ask her myself.
+# Narrator: So I had to ask her myself.
 Рассказчик: Поэтому я должен был спросить ее сам.
 
-# Original: <Ishmael. What do you really want?>
+# Dante: <Ishmael. What do you really want?>
 Данте: <Измаил. Чего ты на самом деле хочешь?>
 
-# Original: What I really want...
+# Ishmael: What I really want...
 Измаил: Чего я на самом деле хочу...
 
-# Original: <…!>
+# Dante: <…!>
 Данте: <…!>
 
-# Original: I see another vision of Ishmael.
+# Narrator: I see another vision of Ishmael.
 Рассказчик: Перед моими глазами проносится еще одно видение Измаил.
 
-# Original: She was hiding it well from the other Sinners and Vergilius. But I could clearly see what she really wanted. Her true desire.
+# Narrator: She was hiding it well from the other Sinners and Vergilius. But I could clearly see what she really wanted. Her true desire.
 Рассказчик: Она хорошо скрывала это от других Грешников и Вергилия. Но я ясно видел, чего она на самом деле хотела. Ее истинное желание.
 
-# Original: <Ishmael, you...!>
+# Dante: <Ishmael, you...!>
 Данте: <Измаил, ты...!>
 
-# Original: She was lifting a body from the waters.
+# Narrator: She was lifting a body from the waters.
 Рассказчик: Она поднимала из воды тело.
 
-# Original: A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh... Ishmael trembled with elation before what looked like the Captain's mutilated corpse.
+# Narrator: A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh... Ishmael trembled with elation before what looked like the Captain's mutilated corpse.
 Рассказчик: Тело, которое было разорвано на части. Раздробленные кости, полоски мышечной ткани, плоть... Измаил дрожала от восторга перед тем, что выглядело как изуродованный труп Капитана.
 
-# Original: What?
+# Ishmael: What?
 Измаил: Что?
 
-# Original: Come on, let's get going.
+# Ishmael: Come on, let's get going.
 Измаил: Давай, пора идти.

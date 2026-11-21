@@ -1,275 +1,275 @@
-# Original: Confirming: Railway status Unobstructed.
+# Announcement: Confirming: Railway status Unobstructed.
 Рассказчик: Подтверждение: состояние путей — свободно.
 
-# Original: 5 minutes left until train arrival is announced at the platform.
+# Announcement: 5 minutes left until train arrival is announced at the platform.
 Рассказчик: До объявления о прибытии поезда на платформу осталось 5 минут.
 
-# Original: Agents on site, please complete the Cleanup ASAP.
+# Announcement: Agents on site, please complete the Cleanup ASAP.
 Рассказчик: Агентам на месте, пожалуйста, завершите Зачистку как можно скорее.
 
-# Original: Your attention, please. 5 minutes left until...
+# Announcement: Your attention, please. 5 minutes left until...
 Рассказчик: Прошу внимания. До прибытия поезда осталось 5 минут...
 
-# Original: Whew…
+# Heathcliff: Whew…
 Хитклиф: Фух…
 
-# Original: In the last car of a WARP Train, a few Cleanup Agents stood facing an unknown Fixer who was armed to the teeth with Workshop-made gears.
+# Narrator: In the last car of a WARP Train, a few Cleanup Agents stood facing an unknown Fixer who was armed to the teeth with Workshop-made gears.
 Рассказчик: В последнем вагоне WARP Поезда несколько Агентов Зачистки стояли перед неизвестным Корректировщиком, вооружённым до зубов снаряжением из Мастерской.
 
-# Original: An azure-sheened blade, glowing with energy, emerged from the child's elbow and pierced through the Fixer's heart.
+# Narrator: An azure-sheened blade, glowing with energy, emerged from the child's elbow and pierced through the Fixer's heart.
 Рассказчик: Лазурный клинок, сияющий энергией, вырвался из локтя дитя и пронзил сердце Корректировщика.
 
-# Original: The child let out a pale breath of relief as he deactivated his overcharged gauntlet.
+# Narrator: The child let out a pale breath of relief as he deactivated his overcharged gauntlet.
 Рассказчик: Дитя выпустило слабый вздох облегчения, деактивировав свою перегруженную перчатку.
 
-# Original: That's the gear she's been usin', innit? Looks Workshop-made... Don't these cost a fortune, like?
+# Heathcliff: That's the gear she's been usin', innit? Looks Workshop-made... Don't these cost a fortune, like?
 Хитклиф: Это та снаряга, которой она пользовалась, а? Похоже на работу Мастерской... Такая ведь целое состояние стоит, да?
 
-# Original: The child shot an irritated glance at the floor, where a glove made of high-grade material lay.
+# Narrator: The child shot an irritated glance at the floor, where a glove made of high-grade material lay.
 Рассказчик: Дитя раздражённо взглянуло на пол, где лежала перчатка из высококачественного материала.
 
-# Original: A "hand," severed at the wrist, would have been a more appropriate term than a "glove"...
+# Narrator: A "hand," severed at the wrist, would have been a more appropriate term than a "glove"...
 Рассказчик: «Кисть», отрубленная по запястье, было бы более подходящим определением, чем «перчатка»...
 
-# Original: Not that it mattered—the child was more interested in the piece of equipment that clearly was not standard issue, even at first sight.
+# Narrator: Not that it mattered—the child was more interested in the piece of equipment that clearly was not standard issue, even at first sight.
 Рассказчик: Не то чтобы это имело значение — дитя больше интересовал элемент экипировки, который с первого взгляда явно не входил в стандартный комплект.
 
-# Original: I can tell from the serial number that it's one of Kōri Workshop's top-tier products.
+# Hong Lu: I can tell from the serial number that it's one of Kōri Workshop's top-tier products.
 Хон Лу: Судя по серийному номеру, это один из высококлассных продуктов Мастерской Кори.
 
-# Original: Kōri Workshop? Not sure what that is, but you're sayin' it's fancy stuff, yeah? Now I see why she was so bloody strong. What grade was she again?
+# Heathcliff: Kōri Workshop? Not sure what that is, but you're sayin' it's fancy stuff, yeah? Now I see why she was so bloody strong. What grade was she again?
 Хитклиф: Мастерская Кори? Не знаю, что это, но ты говоришь, что вещь навороченная, так? Теперь понятно, почему она была такой чертовски сильной. Какого ранга она там была?
 
-# Original: Let's see... the ID card in her wallet says... Grade 4.
+# Hong Lu: Let's see... the ID card in her wallet says... Grade 4.
 Хон Лу: Дай-ка посмотреть... в её ID-карте сказано... 4-й ранг.
 
-# Original: Chuffin' hell! That fuckin' hand there's a Grade 4?
+# Heathcliff: Chuffin' hell! That fuckin' hand there's a Grade 4?
 Хитклиф: Чёрт возьми! Эта грёбаная рука — Корректировщик 4-го ранга?
 
-# Original: 10 seconds in name, but millennia in actuality, was enough time to turn every passenger aboard the train into rampaging maniacs.
+# Narrator: 10 seconds in name, but millennia in actuality, was enough time to turn every passenger aboard the train into rampaging maniacs.
 Рассказчик: 10 секунд на бумаге, но тысячелетия по сути — этого времени было достаточно, чтобы превратить каждого пассажира в поезде в буйствующих маньяков.
 
-# Original: Madness, however... comes in different forms.
+# Narrator: Madness, however... comes in different forms.
 Рассказчик: Однако безумие... бывает разных форм.
 
-# Original: Some passengers long for death, flaying themselves and painting the walls with their own flesh and blood...
+# Narrator: Some passengers long for death, flaying themselves and painting the walls with their own flesh and blood...
 Рассказчик: Некоторые пассажиры жаждут смерти, сдирая с себя кожу и расписывая стены собственной плотью и кровью...
 
-# Original: ... while others continue to fight back without a moment's respite even after they have completely fallen into insanity.
+# Narrator: ... while others continue to fight back without a moment's respite even after they have completely fallen into insanity.
 Рассказчик: ...в то время как другие продолжают сражаться без единой передышки, даже полностью поддавшись безумию.
 
-# Original: Blimey, what's that Grade 4 been up to all this time...
+# Heathcliff: Blimey, what's that Grade 4 been up to all this time...
 Хитклиф: Фига себе, и что вытворяла эта 4-ранговая...
 
-# Original: ... to be givin' me this much grief even with the CCA on? First time I've been pushed like this.
+# Heathcliff: ... to be givin' me this much grief even with the CCA on? First time I've been pushed like this.
 Хитклиф: ...доставила мне столько проблем, даже в БРЗ. Впервые меня так прижали.
 
-# Original: Didn't you say the same thing the last time a train was Canceled?
+# Hong Lu: Didn't you say the same thing the last time a train was Canceled?
 Хон Лу: Разве ты не то же самое говорил, когда поезд был Отменён в прошлый раз?
 
-# Original: Oi! That was when I had to nip out and give the Class 5 lads a hand! How's that the same, huh?!
+# Heathcliff: Oi! That was when I had to nip out and give the Class 5 lads a hand! How's that the same, huh?!
 Хитклиф: Эй! То было, когда мне пришлось отлучиться и помочь парням 5-го класса! Какое тут сравнение, а?!
 
-# Original: Haha. I suppose today wasn't exactly a walk in the park for you. You had to clean up on your own, after all.
+# Hong Lu: Haha. I suppose today wasn't exactly a walk in the park for you. You had to clean up on your own, after all.
 Хон Лу: Ха-ха. Полагаю, денёк у тебя сегодня выдался не из лёгких. В конце концов, тебе пришлось проводить зачистку в одиночку.
 
-# Original: ... Huh?
+# Hong Lu: ... Huh?
 Хон Лу: ...А?
 
-# Original: ...? Whassat? Somethin' unusual about her?
+# Heathcliff: ...? Whassat? Somethin' unusual about her?
 Хитклиф: ...? Чего там? С ней что-то не так?
 
-# Original: Whoa, she's accumulated so many penalty points! Probably enough to demote her from her original Fixer Grade...
+# Hong Lu: Whoa, she's accumulated so many penalty points! Probably enough to demote her from her original Fixer Grade...
 Хон Лу: Ого, она накопила столько штрафных очков! Наверное, достаточно, чтобы понизить её изначальный ранг Корректировщика...
 
-# Original: ... Nothin' unusual, then. Just another bloody stowaway.
+# Heathcliff: ... Nothin' unusual, then. Just another bloody stowaway.
 Хитклиф: ...Тогда ничего необычного. Просто очередной чёртов безбилетник.
 
-# Original: Penalty points, check. Contract papers, check... She was a Grade 2 Fixer just a few days back. By heck, no wonder the lass was such a handful!
+# Heathcliff: Penalty points, check. Contract papers, check... She was a Grade 2 Fixer just a few days back. By heck, no wonder the lass was such a handful!
 Хитклиф: Штрафные очки, есть. Контрактные бумаги, есть... Всего пару дней назад она была Корректировщиком 2-го ранга. Чёрт, неудивительно, что с этой девкой было столько мороки!
 
-# Original: Back in W Corp.'s heyday, the term "stowaway" referred to freeloaders who would either get on the WARP train without tickets or occupy first class seats using economy class tickets.
+# Narrator: Back in W Corp.'s heyday, the term "stowaway" referred to freeloaders who would either get on the WARP train without tickets or occupy first class seats using economy class tickets.
 Рассказчик: Во времена расцвета Корпорации W термин «безбилетник» относился к халявщикам, которые либо садились в WARP Поезд без билетов, либо занимали места первого класса с билетами эконом-класса.
 
-# Original: Today, however, the meaning of the word has somewhat changed.
+# Narrator: Today, however, the meaning of the word has somewhat changed.
 Рассказчик: Сегодня, однако, значение этого слова несколько изменилось.
 
-# Original: People used to travel on the WARP Train only three or four times a year at most—a luxury easily afforded by wealthy citizens who preferred the first class seats.
+# Narrator: People used to travel on the WARP Train only three or four times a year at most—a luxury easily afforded by wealthy citizens who preferred the first class seats.
 Рассказчик: Раньше люди путешествовали на WARP Поезде всего три-четыре раза в год — роскошь, которую легко могли себе позволить состоятельные граждане, предпочитавшие места первого класса.
 
-# Original: But when passengers began to go missing and one accident followed another, demand took a dive...
+# Narrator: But when passengers began to go missing and one accident followed another, demand took a dive...
 Рассказчик: Но когда пассажиры начали пропадать, а одна авария следовала за другой, спрос резко упал...
 
-# Original: ... until people avoided first class seats like the plague in spite of W Corp.'s promotion and encouragement.
+# Narrator: ... until people avoided first class seats like the plague in spite of W Corp.'s promotion and encouragement.
 Рассказчик: ...до тех пор, пока люди не стали избегать мест первого класса как чумы, несмотря на все акции и уговоры Корпорации W.
 
-# Original: These rich 'uns are all so tight... would it kill 'em to just buy a first class ticket?
+# Heathcliff: These rich 'uns are all so tight... would it kill 'em to just buy a first class ticket?
 Хитклиф: Эти богатеи такие жмоты... они что, умрут, если просто купят билет в первый класс?
 
-# Original: I don't think the price difference between Economy and First Class really matters, but the bad rumors are not helping.
+# Hong Lu: I don't think the price difference between Economy and First Class really matters, but the bad rumors are not helping.
 Хон Лу: Не думаю, что разница в цене между эконом- и первым классом имеет значение, но дурные слухи делу не помогают.
 
-# Original: <i>What</i> doesn't matter...? Y'know what, never mind.
+# Heathcliff: <i>What</i> doesn't matter...? Y'know what, never mind.
 Хитклиф: <i>Что</i> не имеет значения...? Знаешь что, забей.
 
-# Original: Now that I think about it... Them first class seats—one bad word and the business is done for. Not all that surprisin', innit?
+# Heathcliff: Now that I think about it... Them first class seats—one bad word and the business is done for. Not all that surprisin', innit?
 Хитклиф: Хотя если подумать... Эти места первого класса — одно дурное слово, и бизнесу конец. Не так уж и удивительно, верно?
 
-# Original: Don't you think people might start taking them again in time?
+# Hong Lu: Don't you think people might start taking them again in time?
 Хон Лу: А ты не думаешь, что со временем люди снова начнут их занимать?
 
-# Original: Ah, yeah. Our proud slogan. Just 10 seconds to anywhere.
+# Heathcliff: Ah, yeah. Our proud slogan. Just 10 seconds to anywhere.
 Хитклиф: А, да. Наш гордый слоган. За 10 секунд в любую точку.
 
-# Original: People used to pay daft money just for a trip that'd be over in a blink...
+# Heathcliff: People used to pay daft money just for a trip that'd be over in a blink...
 Хитклиф: Раньше люди платили дикие бабки просто за поездку, которая заканчивалась в мгновение ока...
 
-# Original: All so they could brag on about it over a pint.
+# Heathcliff: All so they could brag on about it over a pint.
 Хитклиф: Всё для того, чтобы потом хвастаться этим за кружкой пива.
 
-# Original: But now, First Class is more like a risky investment—who'd shell out for a ride when you can't even count on gettin' out in one piece?
+# Heathcliff: But now, First Class is more like a risky investment—who'd shell out for a ride when you can't even count on gettin' out in one piece?
 Хитклиф: А теперь первый класс — это скорее рискованная инвестиция. Кто станет выкладывать деньги за поездку, если даже нет уверенности, что выберешься оттуда живым?
 
-# Original: It'd be more convenient if combat professionals were placed in a special compartment just like Color Fixers... I wonder if the higher-ups have ever considered it.
+# Hong Lu: It'd be more convenient if combat professionals were placed in a special compartment just like Color Fixers... I wonder if the higher-ups have ever considered it.
 Хон Лу: Было бы удобнее, если бы профессиональных бойцов размещали в специальном отсеке, как Цветных Корректировщиков... Интересно, задумывалось ли об этом начальство.
 
-# Original: Reckon they'd have done it if it'd ever crossed their minds.
+# Heathcliff: Reckon they'd have done it if it'd ever crossed their minds.
 Хитклиф: Думаю, сделали бы, если б им это в голову пришло.
 
-# Original: ... The price of first class seats is calculated to yield only the bare minimum profit—substituting for the passengers' emotions and time.
+# Narrator: ... The price of first class seats is calculated to yield only the bare minimum profit—substituting for the passengers' emotions and time.
 Рассказчик: ...Цена мест первого класса рассчитана так, чтобы приносить лишь минимальную прибыль, компенсируя эмоции и время пассажиров.
 
-# Original: After the fall of Lobotomy Corporation, W Corp. is desperate to cover their losses.
+# Narrator: After the fall of Lobotomy Corporation, W Corp. is desperate to cover their losses.
 Рассказчик: После падения Корпорации Лоботомия Корпорация W отчаянно пытается покрыть свои убытки.
 
-# Original: To sustain the operation of its trains and make the time payments owed to T Corp., they seek ever more extreme emotions to harvest.
+# Narrator: To sustain the operation of its trains and make the time payments owed to T Corp., they seek ever more extreme emotions to harvest.
 Рассказчик: Чтобы поддерживать работу своих поездов и вносить временные платежи Корпорации T, они стремятся собирать всё более и более сильные эмоции.
 
-# Original: That's why they would rather risk the lives of their Cleanup Agents than lower the price of first class seats or place the passengers in another special compartment.
+# Narrator: That's why they would rather risk the lives of their Cleanup Agents than lower the price of first class seats or place the passengers in another special compartment.
 Рассказчик: Вот почему они скорее рискнут жизнями своих Агентов Зачистки, чем понизят цену на места первого класса или разместят пассажиров в другом специальном отсеке.
 
-# Original: Did you see them Index Proxies that turned up the other day? All of 'em were dead set on sittin' in Economy to do their bloody Prescripts.
+# Heathcliff: Did you see them Index Proxies that turned up the other day? All of 'em were dead set on sittin' in Economy to do their bloody Prescripts.
 Хитклиф: Видел тех Посредников Указательного Пальца, что тут на днях появились? Все как один твёрдо решили сидеть в экономе, чтобы исполнять свои чёртовы Предписания.
 
-# Original: Then the day before that, a Thumb Capo fancied a seat just behind First Class since his superior was sat up there.
+# Heathcliff: Then the day before that, a Thumb Capo fancied a seat just behind First Class since his superior was sat up there.
 Хитклиф: А за день до этого один Капо Большого Пальца облюбовал место сразу за первым классом, потому что его начальник сидел там.
 
-# Original: Oh, do you mean those corpses with the jaws smashed into bits?
+# Hong Lu: Oh, do you mean those corpses with the jaws smashed into bits?
 Хон Лу: О, ты про те трупы с раздробленными челюстями?
 
-# Original: Haha. Now that was far from boring. I actually liked it.
+# Hong Lu: Haha. Now that was far from boring. I actually liked it.
 Хон Лу: Ха-ха. Вот это было совсем не скучно. Мне даже понравилось.
 
-# Original: What'd you know about it? You weren't even called in for support since you're only Level 2.
+# Heathcliff: What'd you know about it? You weren't even called in for support since you're only Level 2.
 Хитклиф: А ты-то что об этом знаешь? Тебя даже на подмогу не вызвали, потому что ты всего лишь 2-го уровня.
 
-# Original: ... Forget it. I'm off—good luck puttin' 'em back together.
+# Heathcliff: ... Forget it. I'm off—good luck puttin' 'em back together.
 Хитклиф: ...Забей. Я пошёл — удачи собрать их по частям.
 
-# Original: Can't exactly help out collectin' the pieces wearin' this armour.
+# Heathcliff: Can't exactly help out collectin' the pieces wearin' this armour.
 Хитклиф: В этой броне особо не поработаешь с мелкими кусочками.
 
-# Original: Clocking out early today?
+# Hong Lu: Clocking out early today?
 Хон Лу: Сегодня рано заканчиваешь?
 
-# Original: Aye. Been a while since I clocked out on time, that.
+# Heathcliff: Aye. Been a while since I clocked out on time, that.
 Хитклиф: Ага. Давненько я вовремя не сваливал.
 
-# Original: Catch ya later.
+# Heathcliff: Catch ya later.
 Хитклиф: До скорого.
 
-# Original: Confirming: Cleanup Agent consents to return the Congestion Cleaning Armor.
+# Announcement: Confirming: Cleanup Agent consents to return the Congestion Cleaning Armor.
 Рассказчик: Подтверждение: Агент Зачистки даёт согласие на возврат Брони для Расчистки Заторов.
 
-# Original: Armor disengagement in progress.
+# Announcement: Armor disengagement in progress.
 Рассказчик: Идёт процесс отсоединения брони.
 
-# Original: Oi, be gentle with it!
+# Heathcliff: Oi, be gentle with it!
 Хитклиф: Эй, полегче!
 
-# Original: ... I oughta get my shoulders swapped for prosthesis. Don't get why this fancy armour's so bloody heavy.
+# Heathcliff: ... I oughta get my shoulders swapped for prosthesis. Don't get why this fancy armour's so bloody heavy.
 Хитклиф: ...Надо бы мне плечи на протезы заменить. Не понимаю, почему эта навороченная броня такая чертовски тяжёлая.
 
-# Original: Congestion Cleaning Armors, better known as CCAs, are astronomically expensive units of equipment, authorized only for Level 4 Cleanup Agents or above whom demonstrate the highest job performance.
+# Narrator: Congestion Cleaning Armors, better known as CCAs, are astronomically expensive units of equipment, authorized only for Level 4 Cleanup Agents or above whom demonstrate the highest job performance.
 Рассказчик: Броня для Расчистки Заторов, более известная как БРЗ, — это астрономически дорогое снаряжение, разрешённое только Агентам Зачистки 4-го уровня и выше, демонстрирующим наивысшие рабочие показатели.
 
-# Original: There was a time when CCAs played a larger role in external conflicts such as power struggles between Wings and hunting down Syndicates in the Backstreets...
+# Narrator: There was a time when CCAs played a larger role in external conflicts such as power struggles between Wings and hunting down Syndicates in the Backstreets...
 Рассказчик: Было время, когда БРЗ играла значительную роль во внешних конфликтах, таких как борьба за власть между Крыльями и охота на Синдикаты в Подворотнях...
 
-# Original: But recently, they are more often used to contain the passengers of WARP Trains.
+# Narrator: But recently, they are more often used to contain the passengers of WARP Trains.
 Рассказчик: Но в последнее время её чаще используют для сдерживания пассажиров WARP Поездов.
 
-# Original: *yawn* Today, I'm gonna drop by the pub on the way back and...
+# Heathcliff: *yawn* Today, I'm gonna drop by the pub on the way back and...
 Хитклиф: *зевок* Сегодня на обратном пути загляну в паб и...
 
-# Original: Congestion detected in Car 3 of Train PW-24.
+# Announcement: Congestion detected in Car 3 of Train PW-24.
 Рассказчик: Обнаружен Затор в вагоне 3 поезда PW-24.
 
-# Original: ... and grab a pint...
+# Heathcliff: ... and grab a pint...
 Хитклиф: ...и пропущу пинту...
 
-# Original: "Congestion," or "Congested," is one of the five levels of danger warnings issued by W Corp. to its Cleanup Agents.
+# Narrator: "Congestion," or "Congested," is one of the five levels of danger warnings issued by W Corp. to its Cleanup Agents.
 Рассказчик: «Затор» — это один из пяти уровней предупреждений об опасности, которые Корпорация W выдаёт своим Агентам Зачистки.
 
-# Original: The WARP Train is deemed "Unobstructed" when it's running without any issues. If passenger suppression becomes necessary along with the usual Cleanup, the status changes to "Delayed."
+# Narrator: The WARP Train is deemed "Unobstructed" when it's running without any issues. If passenger suppression becomes necessary along with the usual Cleanup, the status changes to "Delayed."
 Рассказчик: WARP Поезд считается «Свободным», когда движется без каких-либо проблем. Если помимо обычной Зачистки требуется подавление пассажиров, статус меняется на «Опоздание».
 
-# Original: And then... there's "Congested," which means that rare types of enemies have emerged or passenger resistance has become severe, prompting the dispatch of multiple Level 3 and Level 4 Agents—or a Level 4 outfitted with the CCA.
+# Narrator: And then... there's "Congested," which means that rare types of enemies have emerged or passenger resistance has become severe, prompting the dispatch of multiple Level 3 and Level 4 Agents—or a Level 4 outfitted with the CCA.
 Рассказчик: А затем... идёт «Затор», что означает появление редких типов врагов или серьёзное сопротивление пассажиров, требующее отправки нескольких Агентов 3-го и 4-го уровней — или Агента 4-го уровня, оснащённого БРЗ.
 
-# Original: Level 5 Agents can clear up Congestions in no time, but...
+# Narrator: Level 5 Agents can clear up Congestions in no time, but...
 Рассказчик: Агенты 5-го уровня могут разобраться с Заторами в кратчайшие сроки, но...
 
-# Original: Confirming: No Level 5 Cleanup Agents are present at the platform.
+# Announcement: Confirming: No Level 5 Cleanup Agents are present at the platform.
 Рассказчик: Подтверждение: на платформе отсутствуют Агенты Зачистки 5-го уровня.
 
-# Original: They're usually tied up handling "Canceled" trains—a Grade 1 Fixer-level threat—and "Derailed" cases, which represent something far more dangerous.
+# Narrator: They're usually tied up handling "Canceled" trains—a Grade 1 Fixer-level threat—and "Derailed" cases, which represent something far more dangerous.
 Рассказчик: Обычно они заняты «Отменёнными» поездами — угрозой уровня Корректировщика 1-го ранга — и случаями «Схода с рельс», которые представляют собой нечто гораздо более опасное.
 
-# Original: .......
+# Heathcliff: .......
 Хитклиф: .......
 
-# Original: Congestion Cleaning Armor deployment authorized for Level 4 Agent on site.
+# Announcement: Congestion Cleaning Armor deployment authorized for Level 4 Agent on site.
 Рассказчик: Дано разрешение на развёртывание Брони для Расчистки Заторов Агенту 4-го уровня на участке.
 
-# Original: ... Hold on a sec—me?
+# Heathcliff: ... Hold on a sec—me?
 Хитклиф: ...Погодите-ка — я?
 
-# Original: Hearing the announcement, the child gave a quick look of disbelief at the list of Cleanup Agents available at the platform...
+# Narrator: Hearing the announcement, the child gave a quick look of disbelief at the list of Cleanup Agents available at the platform...
 Рассказчик: Услышав объявление, дитя с недоверием быстро взглянуло на список Агентов Зачистки, доступных на платформе...
 
-# Original: ... and realized that he was the only one available for sortie.
+# Narrator: ... and realized that he was the only one available for sortie.
 Рассказчик: ...и поняло, что оно — единственное, кто может быть отправлен на задание.
 
-# Original: That sweet, sweet dream of heading home on time fizzled out with the blaring sound of the warning alarm.
+# Narrator: That sweet, sweet dream of heading home on time fizzled out with the blaring sound of the warning alarm.
 Рассказчик: Эта сладкая, сладкая мечта вернуться домой вовремя растворилась в ревущем звуке сирены.
 
-# Original: Attention, all Agents. Railway Congestion detected. Railway Congestion detected.
+# Announcement: Attention, all Agents. Railway Congestion detected. Railway Congestion detected.
 Рассказчик: Внимание всем Агентам. Обнаружен Затор на путях. Обнаружен Затор на путях.
 
-# Original: Attention, all Agents.
+# Announcement: Attention, all Agents.
 Рассказчик: Внимание всем Агентам.
 
-# Original: Nearest Level 4 Agent, please board the next train immediately and commence Cleanup operations.
+# Announcement: Nearest Level 4 Agent, please board the next train immediately and commence Cleanup operations.
 Рассказчик: Ближайшему Агенту 4-го уровня, пожалуйста, немедленно сядьте на следующий поезд и начните операции по Зачистке.
 
-# Original: 125 seconds until next arrival.
+# Announcement: 125 seconds until next arrival.
 Рассказчик: До прибытия следующего поезда 125 секунд.
 
-# Original: .......
+# Heathcliff: .......
 Хитклиф: .......
 
-# Original: Huh? You haven't checked out yet? You know, I'm thinking about trying out the new menu at HamHamPangPang for din—
+# Hong Lu: Huh? You haven't checked out yet? You know, I'm thinking about trying out the new menu at HamHamPangPang for din—
 Хон Лу: А? Ты ещё не ушёл? Знаешь, я вот думаю попробовать новое меню в ХамХамПангПанг на ужи—
 
-# Original: ... Go.
+# Heathcliff: ... Go.
 Хитклиф: ...Вали.
 
-# Original: What?
+# Hong Lu: What?
 Хон Лу: Что?
 
-# Original: Quit takin' the piss out of me and just go.
+# Heathcliff: Quit takin' the piss out of me and just go.
 Хитклиф: Кончай надо мной стебаться и просто вали.
 
-# Original: Unfortunately for the child, looks like it's overtime again for him today.
+# Narrator: Unfortunately for the child, looks like it's overtime again for him today.
 Рассказчик: К несчастью для дитя, похоже, сегодня у него снова сверхурочные.

@@ -1,410 +1,410 @@
-﻿# Original: <color=#293b95>Memory sloshes within a tin bucket bearing a label.</color>
+﻿# Narrator: <color=#293b95>Memory sloshes within a tin bucket bearing a label.</color>
 Рассказчик: <color=#293b95>Память плещется в жестяном ведре с этикеткой.</color>
 
-# Original: <color=#293b95>Experience dissolves into the stinging aftertaste that lingers on someone's tongue.</color>
+# Narrator: <color=#293b95>Experience dissolves into the stinging aftertaste that lingers on someone's tongue.</color>
 Рассказчик: <color=#293b95>Опыт растворяется в жгучем послевкусии, задержавшемся на чьём-то языке.</color>
 
-# Original: <color=#293b95>I hammer them into packages, obeying the instructions nailed to the wall.</color>
+# Narrator: <color=#293b95>I hammer them into packages, obeying the instructions nailed to the wall.</color>
 Рассказчик: <color=#293b95>Я вбиваю их в упаковки, следуя прибитым к стене инструкциям.</color>
 
-# Original: <color=#293b95>My gaze faces the consistent sway of the liquid in the container.</color>
+# Narrator: <color=#293b95>My gaze faces the consistent sway of the liquid in the container.</color>
 Рассказчик: <color=#293b95>Мой взгляд обращён к мерному колыханию жидкости в ёмкости.</color>
 
-# Original: <color=#293b95>What, in this life, could be the proof of "me"?</color>
+# Narrator: <color=#293b95>What, in this life, could be the proof of "me"?</color>
 Рассказчик: <color=#293b95>Что в этой жизни может служить доказательством моего «я»?</color>
 
-# Original: <color=#293b95>Memory? Experience?</color>
+# Narrator: <color=#293b95>Memory? Experience?</color>
 Рассказчик: <color=#293b95>Память? Опыт?</color>
 
-# Original: <color=#293b95>And if neither...</color>
+# Narrator: <color=#293b95>And if neither...</color>
 Рассказчик: <color=#293b95>А если ни то ни другое...</color>
 
-# Original: Yet another peculiar question, I see.
+# Vergilius: Yet another peculiar question, I see.
 Вергилий: Ещё один своеобразный вопрос, как я погляжу.
 
-# Original: Has a single mission ever gone precisely as you expected, Dante? Why should this one be any different?
+# Vergilius: Has a single mission ever gone precisely as you expected, Dante? Why should this one be any different?
 Вергилий: Хоть одна миссия прошла в точности так, как вы ожидали, Данте? С чего бы этой стать исключением?
 
-# Original: You have a point...
+# Narrator: You have a point...
 Рассказчик: Тут не поспоришь...
 
-# Original: But would it have killed you to at least give us <i>some</i> kind of clue, Vergilius?
+# Narrator: But would it have killed you to at least give us <i>some</i> kind of clue, Vergilius?
 Рассказчик: Но неужели так трудно было дать нам <i>хоть какую-нибудь</i> зацепку, Вергилий?
 
-# Original: One might come to wonder why the company keeps throwing its employees into risky situations without letting them in on all available information... Ah, I can practically hear the complaints lodged in the tick-tocks of your winding clockwork.
+# Vergilius: One might come to wonder why the company keeps throwing its employees into risky situations without letting them in on all available information... Ah, I can practically hear the complaints lodged in the tick-tocks of your winding clockwork.
 Вергилий: Поневоле задумаешься, почему компания раз за разом бросает сотрудников в опасные ситуации, не предоставляя им всей имеющейся информации... Ах, я почти слышу эти жалобы в тиканье вашего часового механизма.
 
-# Original: Like it or not, this is how a bus operates, Dante:
+# Vergilius: Like it or not, this is how a bus operates, Dante:
 Вергилий: Нравится вам это или нет, но так уж устроена работа автобуса, Данте:
 
-# Original: Transporting its passengers from station to station, but not to their destinations. That last part is the responsibility of each passenger.
+# Vergilius: Transporting its passengers from station to station, but not to their destinations. That last part is the responsibility of each passenger.
 Вергилий: Он перевозит пассажиров от остановки к остановке, но не доставляет к месту назначения. Последний отрезок пути — ответственность самого пассажира.
 
-# Original: *sigh* The ticking of your clockwork is quickening indignantly—very well, I'll dispense with the overwrought metaphors now.
+# Vergilius: *sigh* The ticking of your clockwork is quickening indignantly—very well, I'll dispense with the overwrought metaphors now.
 Вергилий: *вздох* Ваш часовой механизм негодующе ускоряет ход... Что ж, довольно вычурных метафор.
 
-# Original: If I'm to put it more plainly...
+# Vergilius: If I'm to put it more plainly...
 Вергилий: Если выразиться проще...
 
-# Original: ... The company has already taken into account all constants and variables surrounding the Golden Boughs, yes. Theoretically, should everything go according to plan, you could simply walk in and grab the Golden Bough... But there would be no point to it.
+# Vergilius: ... The company has already taken into account all constants and variables surrounding the Golden Boughs, yes. Theoretically, should everything go according to plan, you could simply walk in and grab the Golden Bough... But there would be no point to it.
 Вергилий: ...Да, компания уже учла все постоянные и переменные, связанные с Золотыми Ветвями. Теоретически, если бы всё шло по плану, вы могли бы просто прийти и забрать Золотую Ветвь... Но в этом не было бы смысла.
 
-# Original: Try to question yourself why the company forwent the option of choosing a team of professionals who are less prone to... shenanigans.
+# Vergilius: Try to question yourself why the company forwent the option of choosing a team of professionals who are less prone to... shenanigans.
 Вергилий: Попробуйте задаться вопросом, почему компания отказалась от возможности набрать команду профессионалов, менее склонных к... выходкам.
 
-# Original: Quiet bus? No fun for Charon.
+# Charon: Quiet bus? No fun for Charon.
 Харон: Тихий автобус? Харон скучно.
 
-# Original: This much, however, I can tell you:
+# Vergilius: This much, however, I can tell you:
 Вергилий: Однако вот что я могу вам сказать:
 
-# Original: Sinner #5... was never meant to return to this District.
+# Vergilius: Sinner #5... was never meant to return to this District.
 Вергилий: Грешник №5... вообще не должен был возвращаться в этот Район.
 
-# Original: Which means that everything here that is to transpire was, from the very beginning...
+# Vergilius: Which means that everything here that is to transpire was, from the very beginning...
 Вергилий: А значит, всё, чему здесь предстоит произойти, с самого начала...
 
-# Original: ... entirely beyond prediction.
+# Vergilius: ... entirely beyond prediction.
 Вергилий: ...совершенно непредсказуемо.
 
-# Original: Vergilius tends to be cryptic and indirect anyway,
+# Narrator: Vergilius tends to be cryptic and indirect anyway,
 Рассказчик: Вергилий и без того имеет обыкновение говорить загадками и намёками,
 
-# Original: so I didn't think much of it this time as well.
+# Narrator: so I didn't think much of it this time as well.
 Рассказчик: так что и в этот раз я не придал его словам особого значения.
 
-# Original: If by "beyond prediction" he meant something that might get the Sinners killed, that wasn't anything new. It was an everyday occurrence at this point, and I do have the ability to rewind them back to life, after all.
+# Narrator: If by "beyond prediction" he meant something that might get the Sinners killed, that wasn't anything new. It was an everyday occurrence at this point, and I do have the ability to rewind them back to life, after all.
 Рассказчик: Если под «непредсказуемым» он подразумевал нечто, из-за чего Грешники могли погибнуть, — ничего нового. К этому моменту такое стало обыденностью, да и я всё-таки способен отмотать время и вернуть их к жизни.
 
-# Original: ... As always.
+# Vergilius: ... As always.
 Вергилий: ...Как всегда.
 
-# Original: But at the time, never in my wildest dreams did I imagine that...
+# Narrator: But at the time, never in my wildest dreams did I imagine that...
 Рассказчик: Но тогда даже в самых безумных снах мне не могло привидеться, что...
 
-# Original: ... I would be rewound alongside the Sinners as well.
+# Narrator: ... I would be rewound alongside the Sinners as well.
 Рассказчик: ...меня тоже отмотают вместе с Грешниками.
 
-# Original: <Did you know this would happen, Meursault?!>
+# Dante: <Did you know this would happen, Meursault?!>
 Данте: <Ты знал, что это случится, Мерсо?!>
 
-# Original: Only after hearing the feeble question leave my proverbial mouth does Meursault turn my way.
+# Narrator: Only after hearing the feeble question leave my proverbial mouth does Meursault turn my way.
 Рассказчик: Лишь услышав этот беспомощный вопрос из моих, так сказать, уст, Мерсо поворачивается ко мне.
 
-# Original: I did, Manager.
+# Meursault: I did, Manager.
 Мерсо: Знал, Менеджер.
 
-# Original: As usual, his reply comes brief without a moment's delay.
+# Narrator: As usual, his reply comes brief without a moment's delay.
 Рассказчик: Как обычно, он отвечает коротко и без малейшего промедления.
 
-# Original: Not the slightest sign of surprise at his arrest. Not so much as a token excuse.
+# Narrator: Not the slightest sign of surprise at his arrest. Not so much as a token excuse.
 Рассказчик: Ни тени удивления по поводу собственного ареста. Ни единого оправдания, даже для вида.
 
-# Original: And I have no choice but to admit it—this is who he is. Always has been.
+# Narrator: And I have no choice but to admit it—this is who he is. Always has been.
 Рассказчик: И мне остаётся только признать: таков уж он есть. И всегда был.
 
-# Original: In the absence of a reasonably justifiable cause, such as a contract, engaging in battle with the City's corporate entities is strongly discouraged.
+# Faust: In the absence of a reasonably justifiable cause, such as a contract, engaging in battle with the City's corporate entities is strongly discouraged.
 Фауст: При отсутствии обоснованной причины, например договора, вступать в бой с представителями Корпораций Города настоятельно не рекомендуется.
 
-# Original: Yeah?! And we're just supposed to twiddle our thumbs while they drag him away?!
+# Heathcliff: Yeah?! And we're just supposed to twiddle our thumbs while they drag him away?!
 Хитклиф: Да ну?! И нам что, сидеть сложа руки, пока его куда-то тащат?!
 
-# Original: S-so where are ya taking him?
+# Rodion: S-so where are ya taking him?
 Родион: Т-так куда вы его забираете?
 
-# Original: A retrial will be scheduled for the execution of the exile's sentence.
+# Class 2 Pinframing Staff: A retrial will be scheduled for the execution of the exile's sentence.
 Сотрудник отдела булавочной фиксации 2-го класса: Для исполнения приговора в отношении изгнанного будет назначено повторное судебное разбирательство.
 
-# Original: <Guys, just... just let's all calm down first.>
+# Dante: <Guys, just... just let's all calm down first.>
 Данте: <Ребята, давайте... давайте сначала все успокоимся.>
 
-# Original: <... Can someone ask them to explain in more detail? We need to know what exactly is going on with Meursault's trial and exile order.>
+# Dante: <... Can someone ask them to explain in more detail? We need to know what exactly is going on with Meursault's trial and exile order.>
 Данте: <...Кто-нибудь может попросить их объяснить поподробнее? Нам нужно знать, что именно происходит с судом над Мерсо и приказом о его изгнании.>
 
-# Original: Uh... Hang on... I don't even know where I'd begin to ask...
+# Gregor: Uh... Hang on... I don't even know where I'd begin to ask...
 Грегор: Э-э... Погодите... Я даже не знаю, с какого вопроса начать...
 
-# Original: We will now take him into custody. Please submit a formal declaration of negotiation rights at a later date should you have any objections.
+# Class 2 Pinframing Staff: We will now take him into custody. Please submit a formal declaration of negotiation rights at a later date should you have any objections.
 Сотрудник отдела булавочной фиксации 2-го класса: Сейчас мы возьмём его под стражу. Если у вас имеются возражения, просим вас в последствии подать официальное заявление о предоставлении права на ведение переговоров.
 
-# Original: Ezra, who at least had some knowledge of N Corp., stepped forward while Gregor was still ransacking his brain to find the appropriate words to ask about Meursault's trial.
+# Narrator: Ezra, who at least had some knowledge of N Corp., stepped forward while Gregor was still ransacking his brain to find the appropriate words to ask about Meursault's trial.
 Рассказчик: Пока Грегор всё ещё мучительно подбирал слова, чтобы спросить о суде над Мерсо, вперёд вышла Эзра, которая знала о Корпорации N хоть что-то.
 
-# Original: No, we're not objecting to anything <i>yet</i>... It's just that we're completely in the dark about what's going on here.
+# Ezra: No, we're not objecting to anything <i>yet</i>... It's just that we're completely in the dark about what's going on here.
 Эзра: Нет, <i>пока что</i> мы ни против чего не возражаем... Просто мы вообще не в курсе, что тут происходит.
 
-# Original: Did the man himself tell you nothing?
+# Class 2 Pinframing Staff: Did the man himself tell you nothing?
 Сотрудник отдела булавочной фиксации 2-го класса: Сам он вам ничего не рассказывал?
 
-# Original: For the first time, a look of puzzlement flickered across the dispassionate countenance of the N Corp. employee.
+# Narrator: For the first time, a look of puzzlement flickered across the dispassionate countenance of the N Corp. employee.
 Рассказчик: По бесстрастному лицу сотрудника Корпорации N впервые скользнуло недоумение.
 
-# Original: Well? Did he?
+# Ezra: Well? Did he?
 Эзра: Ну? Рассказывал?
 
-# Original: No. Nothing at all—I don't even recall him hinting at it.
+# Ishmael: No. Nothing at all—I don't even recall him hinting at it.
 Измаил: Нет. Совсем ничего... Не припомню даже намёка.
 
-# Original: To our regret... Miss Ishmael speaks true.
+# Yi Sang: To our regret... Miss Ishmael speaks true.
 И Сан: К нашему прискорбию... госпожа Измаил говорит правду.
 
-# Original: The suspect, Meursault, disobeyed the court's permanent exile order and remained in N Corp.'s District without authorization.
+# Class 2 Pinframing Staff: The suspect, Meursault, disobeyed the court's permanent exile order and remained in N Corp.'s District without authorization.
 Сотрудник отдела булавочной фиксации 2-го класса: Подозреваемый Мерсо нарушил судебный приказ о пожизненном изгнании и без разрешения оставался в Районе Корпорации N.
 
-# Original: Annex 3 of the Eviction Regulations permits a stay of up to 6 hours to account for the possibility of transit en route to other Districts...
+# Class 2 Pinframing Staff: Annex 3 of the Eviction Regulations permits a stay of up to 6 hours to account for the possibility of transit en route to other Districts...
 Сотрудник отдела булавочной фиксации 2-го класса: Приложение 3 к Положению о выдворении допускает пребывание сроком до 6 часов на случай транзита в другие Районы...
 
-# Original: But 6 hours have already passed, and we have concluded that the purpose of the suspect's visit is not a transit stay. Does the defendant have any objections regarding this?
+# Class 2 Pinframing Staff: But 6 hours have already passed, and we have concluded that the purpose of the suspect's visit is not a transit stay. Does the defendant have any objections regarding this?
 Сотрудник отдела булавочной фиксации 2-го класса: Однако 6 часов уже истекли, и мы пришли к заключению, что визит подозреваемого не является транзитным. Есть ли у подсудимого возражения по этому поводу?
 
-# Original: None.
+# Meursault: None.
 Мерсо: Нет.
 
-# Original: ... Wait. How did his status suddenly change from "suspect" to "defendant"?
+# Outis: ... Wait. How did his status suddenly change from "suspect" to "defendant"?
 Отис: ...Погодите. Как это его статус внезапно сменился с «подозреваемого» на «подсудимого»?
 
-# Original: Because the indictment has been filed as we spoke.
+# Class 2 Pinframing Staff: Because the indictment has been filed as we spoke.
 Сотрудник отдела булавочной фиксации 2-го класса: Пока мы разговаривали, было подано обвинительное заключение.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: …….
+# Outis: …….
 Отис: …….
 
-# Original: Outis, who was glaring at Meursault, looked just one breath away from roaring a stream of reprimands that would probably begin with "Imbecile! Couldn't you have forewarned us?!" But, somehow, she managed to hold it in.
+# Narrator: Outis, who was glaring at Meursault, looked just one breath away from roaring a stream of reprimands that would probably begin with "Imbecile! Couldn't you have forewarned us?!" But, somehow, she managed to hold it in.
 Рассказчик: Отис сверлила Мерсо взглядом. Казалось, ещё один вдох — и она разразится гневной тирадой, которая, скорее всего, начнётся со слов: «Болван! Ты не мог предупредить нас заранее?!» Но каким-то чудом она сдержалась.
 
-# Original: Mind sharing the trial date with us, at least? As we've said, the man's told us nothing, nada, zilch about this predicament.
+# Bamboo-hatted Kim: Mind sharing the trial date with us, at least? As we've said, the man's told us nothing, nada, zilch about this predicament.
 Ким в бамбуковой шляпе: Хотя бы дату суда нам сообщите? Как уже говорилось, о своём положении он нам не сказал ничего. Ни слова. Ни полслова.
 
-# Original: We would like to know whether there are any requirements for entering the courtroom as observers.
+# Yi Sang: We would like to know whether there are any requirements for entering the courtroom as observers.
 И Сан: Мы желали бы узнать, есть ли какие-либо условия допуска в зал суда в качестве слушателей.
 
-# Original: The proceedings will convene today, in 3 hours.
+# Class 2 Pinframing Staff: The proceedings will convene today, in 3 hours.
 Сотрудник отдела булавочной фиксации 2-го класса: Заседание состоится сегодня, через 3 часа.
 
-# Original: Although the trial won't be open to the public, you may, as close acquaintances of the defendant, be allowed to attend if you apply for seats in the observer gallery <i>now</i>.
+# Class 2 Pinframing Staff: Although the trial won't be open to the public, you may, as close acquaintances of the defendant, be allowed to attend if you apply for seats in the observer gallery <i>now</i>.
 Сотрудник отдела булавочной фиксации 2-го класса: Хотя процесс будет закрытым, вам, как близким знакомым подсудимого, могут разрешить присутствовать, если вы <i>сейчас же</i> подадите заявку на места в ряду для слушателей.
 
-# Original: The observer gallery... I don't assume there is any way for observers to intervene in the proceedings, correct?
+# Outis: The observer gallery... I don't assume there is any way for observers to intervene in the proceedings, correct?
 Отис: В ряду для слушателей... Полагаю, никакой возможности вмешаться в ход разбирательства у слушателей не будет, верно?
 
-# Original: Correct, as it is generally the case. I'm... not sure why you would assume otherwise, though my knowledge is limited to trial proceedings at N Corp.
+# Class 2 Pinframing Staff: Correct, as it is generally the case. I'm... not sure why you would assume otherwise, though my knowledge is limited to trial proceedings at N Corp.
 Сотрудник отдела булавочной фиксации 2-го класса: Верно, как обычно и бывает. Я... не совсем понимаю, почему вы предполагаете иное, хотя мои познания ограничиваются порядком судопроизводства Корпорации N.
 
-# Original: W-wait! What about the jury? Can't we enter as part of the jury...?
+# Rodion: W-wait! What about the jury? Can't we enter as part of the jury...?
 Родион: П-погодите! А присяжные? Разве нельзя записаться в присяжные...?
 
-# Original: That option is not available.
+# Class 2 Pinframing Staff: That option is not available.
 Сотрудник отдела булавочной фиксации 2-го класса: Такая возможность не предусмотрена.
 
-# Original: Okay, it's a trial, and at trials, they have... Right, a lawyer. You gotta find a lawyer, don't you? Have you found a lawyer yet, Meursault?
+# Gregor: Okay, it's a trial, and at trials, they have... Right, a lawyer. You gotta find a lawyer, don't you? Have you found a lawyer yet, Meursault?
 Грегор: Так, это суд, а на суде есть... Точно, адвокат. Тебе же нужно найти адвоката, да? Ты уже нашёл адвоката, Мерсо?
 
-# Original: No, I have not.
+# Meursault: No, I have not.
 Мерсо: Нет, не нашёл.
 
-# Original: Are you serious? Meursault was with us the whole time. When was he supposed to get a lawyer?!
+# Ishmael: Are you serious? Meursault was with us the whole time. When was he supposed to get a lawyer?!
 Измаил: Ты серьёзно? Мерсо всё это время был с нами. Когда он, по-твоему, должен был найти адвоката?!
 
-# Original: A very frustrated Ishmael yelled at a very flustered Gregor, who still seemed to be reeling from the shock of the news.
+# Narrator: A very frustrated Ishmael yelled at a very flustered Gregor, who still seemed to be reeling from the shock of the news.
 Рассказчик: Измаил, донельзя раздражённая, прикрикнула на совершенно растерявшегося Грегора, который, похоже, всё ещё не мог оправиться от потрясения.
 
-# Original: R-right, right...
+# Gregor: R-right, right...
 Грегор: А-а, да, верно...
 
-# Original: Then... who's gonna mount a defense for him? Oh, I know—don'tcha people have something like court-appointed lawyers?
+# Rodion: Then... who's gonna mount a defense for him? Oh, I know—don'tcha people have something like court-appointed lawyers?
 Родион: Тогда... кто будет его защищать? О, знаю! У вас же есть что-то вроде адвокатов по назначению суда?
 
-# Original: That option is not available.
+# Class 2 Pinframing Staff: That option is not available.
 Сотрудник отдела булавочной фиксации 2-го класса: Такая возможность не предусмотрена.
 
-# Original: ... For this particular trial, the defendant may choose to defend himself in the absence of a lawyer.
+# Meursault: ... For this particular trial, the defendant may choose to defend himself in the absence of a lawyer.
 Мерсо: ...В данном судебном процессе при отсутствии адвоката подсудимый вправе защищать себя самостоятельно.
 
-# Original: Meursault replied with calm and dry apathy, as though this entire affair didn't involve him at all.
+# Narrator: Meursault replied with calm and dry apathy, as though this entire affair didn't involve him at all.
 Рассказчик: Мерсо ответил спокойно, сухо и безучастно, словно всё это его совершенно не касалось.
 
-# Original: I believe that's sufficient explanation on the extraordinary circumstances.
+# Class 2 Pinframing Staff: I believe that's sufficient explanation on the extraordinary circumstances.
 Сотрудник отдела булавочной фиксации 2-го класса: Полагаю, особые обстоятельства разъяснены в достаточной мере.
 
-# Original: Wait, we still have—
+# Ishmael: Wait, we still have—
 Измаил: Погодите, у нас ещё—
 
-# Original: You'll need to secure a formal negotiation document if you have any remaining queries.
+# Class 2 Pinframing Staff: You'll need to secure a formal negotiation document if you have any remaining queries.
 Сотрудник отдела булавочной фиксации 2-го класса: Если у вас остались вопросы, вам потребуется официальный документ, дающий право на переговоры.
 
-# Original: The employee cut us off in the indifferent tone of an overworked drone who couldn't be bothered anymore, then began dragging Meursault away.
+# Narrator: The employee cut us off in the indifferent tone of an overworked drone who couldn't be bothered anymore, then began dragging Meursault away.
 Рассказчик: Сотрудник оборвал нас равнодушным тоном замотанного служащего, которому уже всё осточертело, и поволок Мерсо прочь.
 
-# Original: Meursault simply fell into step, surrendered to the momentum of his captors' feet.
+# Narrator: Meursault simply fell into step, surrendered to the momentum of his captors' feet.
 Рассказчик: Мерсо просто зашагал рядом, покорно подстроившись под поступь своих конвоиров.
 
-# Original: Halt, good people...! Where be this courthouse in which the trial shall take place?!
+# Don Quixote: Halt, good people...! Where be this courthouse in which the trial shall take place?!
 Дон Кихот: Постойте, добрые люди...! Где находится суд, в коем состоится разбирательство?!
 
-# Original: *sigh*
+# Class 2 Pinframing Staff: *sigh*
 Сотрудник отдела булавочной фиксации 2-го класса: *вздох*
 
-# Original: Directing a thoroughly put-upon look toward us, the employee answered Don Quixote's question with only a sigh and promptly left.
+# Narrator: Directing a thoroughly put-upon look toward us, the employee answered Don Quixote's question with only a sigh and promptly left.
 Рассказчик: Бросив на нас взгляд человека, которого окончательно замучили, сотрудник ответил на вопрос Дон Кихот лишь вздохом и тут же удалился.
 
-# Original: P-prithee, give us an answer at the very least!
+# Don Quixote: P-prithee, give us an answer at the very least!
 Дон Кихот: П-прошу вас, дайте нам хотя бы ответ!
 
-# Original: The Collectors in T Corp. were pretty rude, too, but... these people are really something else. It's like they're passive-aggressively trying to let us know that we're being a nuisance to them.
+# Ishmael: The Collectors in T Corp. were pretty rude, too, but... these people are really something else. It's like they're passive-aggressively trying to let us know that we're being a nuisance to them.
 Измаил: Сборщики в Корпорации T тоже были довольно грубыми, но... эти всех переплюнули. Будто исподтишка стараются дать нам понять, как же мы их достали.
 
-# Original: In T Corp., time and wealth are one and the same. One could sense the active desperation not to squander so much as a second.
+# Yi Sang: In T Corp., time and wealth are one and the same. One could sense the active desperation not to squander so much as a second.
 И Сан: В Корпорации T время и богатство суть одно. В них ощущалось неустанное, отчаянное стремление не растратить впустую ни секунды.
 
-# Original: Here, however... everyone seems to be mired... in ennui.
+# Yi Sang: Here, however... everyone seems to be mired... in ennui.
 И Сан: Здесь же... все словно погрязли... в безысходной скуке.
 
-# Original: I kept my mouth shut, because I thought it wise to watch how the situation would develop first...
+# Bamboo-hatted Kim: I kept my mouth shut, because I thought it wise to watch how the situation would develop first...
 Ким в бамбуковой шляпе: Я помалкивал, поскольку счёл разумным сперва посмотреть, как будут развиваться события...
 
-# Original: But now I think anything we could've added afterward would've fallen on deaf ears, if it didn't provoke worse reactions. Those men seemed as uncommitted to their work as the corrupt kleptocrats of S Corp.
+# Bamboo-hatted Kim: But now I think anything we could've added afterward would've fallen on deaf ears, if it didn't provoke worse reactions. Those men seemed as uncommitted to their work as the corrupt kleptocrats of S Corp.
 Ким в бамбуковой шляпе: Но теперь думаю, что любые наши дальнейшие слова остались бы без внимания, если бы не вызвали ещё худшей реакции. Эти люди относятся к своей работе с тем же равнодушием, что и вороватые, продажные чиновники Корпорации S.
 
-# Original: Fie, they could have vouchsafed us an answer, at the least...! 'Tis a matter of courtesy...
+# Don Quixote: Fie, they could have vouchsafed us an answer, at the least...! 'Tis a matter of courtesy...
 Дон Кихот: Фи, могли бы хотя бы удостоить нас ответом...! Сего требует учтивость...
 
-# Original: Ugh, forget about 'em, they'll never bother telling us. I know where the courthouse is—here, lemme draw you a map.
+# Ezra: Ugh, forget about 'em, they'll never bother telling us. I know where the courthouse is—here, lemme draw you a map.
 Эзра: Уф, забудьте о них, они ни за что не станут утруждаться объяснениями. Я знаю, где будет проходить суд. Вот, сейчас нарисую вам карту.
 
-# Original: W-wait awhile, Lady Ezra. Let us leave the drawing of the map to the Mentor. Best you direct your attention to—
+# Aeng-du: W-wait awhile, Lady Ezra. Let us leave the drawing of the map to the Mentor. Best you direct your attention to—
 Энду: П-погодите, госпожа Эзра. Давайте оставим составление карты наставнику. А вам лучше заняться—
 
-# Original: As the LCD trio was working on drawing a map on a piece of paper, Rodya stomped up to Faust with barely-disguised anger. There was a cold bite in her voice.
+# Narrator: As the LCD trio was working on drawing a map on a piece of paper, Rodya stomped up to Faust with barely-disguised anger. There was a cold bite in her voice.
 Рассказчик: Пока троица из LCD трудилась над картой на клочке бумаги, Родя решительно подошла к Фауст, едва скрывая гнев. В её голосе зазвучал колючий холод.
 
-# Original: I have a pretty good idea of what your answer's gonna be, but I'm still gonna ask.
+# Rodion: I have a pretty good idea of what your answer's gonna be, but I'm still gonna ask.
 Родион: Я примерно представляю, что ты ответишь, но всё равно спрошу.
 
-# Original: Ya knew this was comin', didn'tcha, Fau? Ya knew about this crap the whole time.
+# Rodion: Ya knew this was comin', didn'tcha, Fau? Ya knew about this crap the whole time.
 Родион: Ты ведь знала, что так будет, а, Фау? С самого начала знала про всю эту дрянь.
 
-# Original: ... Yes.
+# Faust: ... Yes.
 Фауст: ...Да.
 
-# Original: Don'tcha think ya could've at least warned us about it?! Ya know perfectly well that Meur's not the type to dump his baggage on anyone!
+# Rodion: Don'tcha think ya could've at least warned us about it?! Ya know perfectly well that Meur's not the type to dump his baggage on anyone!
 Родион: И не думаешь, что могла бы хотя бы предупредить нас?! Ты же прекрасно знаешь, что Мер не из тех, кто вываливает на других свои проблемы!
 
-# Original: Faust taking the initiative would have served no purpose.
+# Faust: Faust taking the initiative would have served no purpose.
 Фауст: Инициатива со стороны Фауст не имела бы смысла.
 
-# Original: It never has. And it never will.
+# Faust: It never has. And it never will.
 Фауст: Смысла никогда не было. И никогда не будет.
 
-# Original: Ya really are... *sigh* forget it.
+# Rodion: Ya really are... *sigh* forget it.
 Родион: Ну ты и... *вздох* проехали.
 
-# Original: A tempest of a sigh tore out of Rodya's lips. She walked away from the subject, as though she had realized that pressing Faust further wouldn't go anywhere.
+# Narrator: A tempest of a sigh tore out of Rodya's lips. She walked away from the subject, as though she had realized that pressing Faust further wouldn't go anywhere.
 Рассказчик: Из груди Роди вырвался тяжёлый, бурный вздох. Она отошла, оставив эту тему, — словно поняла, что давить на Фауст дальше бесполезно.
 
-# Original: What's gonna happen to Meursault if... if things don't go well?
+# Ishmael: What's gonna happen to Meursault if... if things don't go well?
 Измаил: Что будет с Мерсо, если... если всё пойдёт плохо?
 
-# Original: Worry thee not, for I have conceived a plan.
+# Don Quixote: Worry thee not, for I have conceived a plan.
 Дон Кихот: Не тревожься, ибо я замыслила план.
 
-# Original: ... And what plan is that?
+# Outis: ... And what plan is that?
 Отис: ...И что же это за план?
 
-# Original: With combined efforts, we shall defeat the armsmen of the courthouse and secure a path inside. While young Ishmael standeth guard, I alone shall most sneakily venture into the dungeons beneath! We need only young Heathcliff to purloin the key from the warden and—
+# Don Quixote: With combined efforts, we shall defeat the armsmen of the courthouse and secure a path inside. While young Ishmael standeth guard, I alone shall most sneakily venture into the dungeons beneath! We need only young Heathcliff to purloin the key from the warden and—
 Дон Кихот: Общими усилиями одолеем мы стражу суда и проложим путь внутрь. Покуда юная Измаил будет стоять на страже, я в одиночку, величайшую скрытность соблюдая, проберусь в подземные темницы! Надобно лишь, чтобы юный Хитклиф похитил у тюремщика ключ, и—
 
-# Original: Did you lift that straight from the comic book you were reading on the bus yesterday?
+# Sinclair: Did you lift that straight from the comic book you were reading on the bus yesterday?
 Синклер: Ты это прямо из комикса взяла? Из того, который вчера читала в автобусе?
 
-# Original: ... Prison dungeons? In N Corp., huh? Where did you even get that bit from?
+# Ishmael: ... Prison dungeons? In N Corp., huh? Where did you even get that bit from?
 Измаил: ...Подземные темницы? В Корпорации N, да? Ты вообще с чего это взяла?
 
-# Original: Eeep...! That's... I do conceive that strongholds are furnished with dungeons, so...
+# Don Quixote: Eeep...! That's... I do conceive that strongholds are furnished with dungeons, so...
 Дон Кихот: И-и-и...! Это... Я полагаю, что в твердынях имеются темницы, посему...
 
-# Original: And this is what I get for indulging my curiosity.
+# Outis: And this is what I get for indulging my curiosity.
 Отис: Вот и плата за моё любопытство.
 
-# Original: Bamboo, Aeng-du, start looking for a lawyer who can represent Meursault in court. I'll contact the Team Lead, bring her up to speed, and see if she has any advice for us.
+# Ezra: Bamboo, Aeng-du, start looking for a lawyer who can represent Meursault in court. I'll contact the Team Lead, bring her up to speed, and see if she has any advice for us.
 Эзра: Шляпа, Энду, начинайте искать адвоката, который сможет представлять Мерсо в суде. Я свяжусь с руководительницей команды, введу её в курс дела и спрошу, не может ли она что-нибудь посоветовать.
 
-# Original: You fellas'd do that for us? Oh boy, that'd be a great help!
+# Gregor: You fellas'd do that for us? Oh boy, that'd be a great help!
 Грегор: Вы и правда сделаете это для нас? Ух, это бы здорово помогло!
 
-# Original: ... No, that'd be quite troublesome, actually.
+# Faust: ... No, that'd be quite troublesome, actually.
 Фауст: ...Нет, на самом деле это создаст немалые затруднения.
 
-# Original: Does the LCD team not have a different task that must be completed within the day?
+# Faust: Does the LCD team not have a different task that must be completed within the day?
 Фауст: Разве у команды LCD нет другого задания, которое необходимо выполнить до конца дня?
 
-# Original: Geh... I mean, yes, we do, but you're in a real pickle now and need all the help you can get if you want out of the pickle jar.
+# Ezra: Geh... I mean, yes, we do, but you're in a real pickle now and need all the help you can get if you want out of the pickle jar.
 Эзра: Эх... Ну да, есть, но вы же по уши увязли, и вам сейчас любая помощь нужна, чтобы из этого болота выбраться.
 
-# Original: Hmm...? Do they?
+# Bamboo-hatted Kim: Hmm...? Do they?
 Ким в бамбуковой шляпе: Хм...? Разве?
 
-# Original: The lady said otherwise, though. Let's head back and get ready for our task.
+# Bamboo-hatted Kim: The lady said otherwise, though. Let's head back and get ready for our task.
 Ким в бамбуковой шляпе: А госпожа говорит обратное. Возвращаемся, нам надо подготовиться к заданию.
 
-# Original: But...
+# Aeng-du: But...
 Энду: Но...
 
-# Original: Didn't you hear, Aeng-du? "Quite troublesome," she said. I'm not entirely certain of the predicament they face, but it seems that the stones on their board must do without our advice.
+# Bamboo-hatted Kim: Didn't you hear, Aeng-du? "Quite troublesome," she said. I'm not entirely certain of the predicament they face, but it seems that the stones on their board must do without our advice.
 Ким в бамбуковой шляпе: Ты не слышала, Энду? «Создаст немалые затруднения», — сказала она. Я не вполне понимаю, в каком положении они оказались, но, похоже, камням на их доске придётся обойтись без наших советов.
 
-# Original: Is that truly the reason that you wish to withhold our advice, Mentor?
+# Aeng-du: Is that truly the reason that you wish to withhold our advice, Mentor?
 Энду: Неужели именно поэтому вы не желаете помочь им советом, наставник?
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: Ezra furrowed her brows in consternation at Kim's comment... but eventually, she relented with a sigh. She shook her head in defeat.
+# Narrator: Ezra furrowed her brows in consternation at Kim's comment... but eventually, she relented with a sigh. She shook her head in defeat.
 Рассказчик: От слов Кима Эзра озадаченно нахмурилась... но в конце концов со вздохом уступила и обречённо покачала головой.
 
-# Original: ... Fine. You're sayin' this is LCB's responsibility—okay. Then we'll leave it up to you guys, but be sure to call for us when things go south, got it?
+# Ezra: ... Fine. You're sayin' this is LCB's responsibility—okay. Then we'll leave it up to you guys, but be sure to call for us when things go south, got it?
 Эзра: ...Ладно. Говоришь, это ответственность LCB? Хорошо. Тогда оставим всё вам, но, если дело примет дурной оборот, обязательно зовите, ясно?
 
-# Original: ... We will.
+# Faust: ... We will.
 Фауст: ...Обязательно.
 
-# Original: With the LCD leaving us for their own task...
+# Narrator: With the LCD leaving us for their own task...
 Рассказчик: Когда LCD ушли заниматься своим заданием...
 
-# Original: Faust slowly opened her mouth amid the piercing glares from the other Sinners.
+# Narrator: Faust slowly opened her mouth amid the piercing glares from the other Sinners.
 Рассказчик: Фауст под пронзительными взглядами остальных Грешников неспешно заговорила.
 
-# Original: Faust is not without a plan.
+# Faust: Faust is not without a plan.
 Фауст: У Фауст есть план.
 
-# Original: Sure you aren't. Would be nice if you let us in on it for a change.
+# Ishmael: Sure you aren't. Would be nice if you let us in on it for a change.
 Измаил: Ну конечно есть. Хорошо бы ты для разнообразия и нас в него посвятила.
 
-# Original: *sigh* But you can't, because of <i>that</i> clause in our contract that says you're forbidden from going out of your way to tell the rest of us about a Sinner's past, right?
+# Ishmael: *sigh* But you can't, because of <i>that</i> clause in our contract that says you're forbidden from going out of your way to tell the rest of us about a Sinner's past, right?
 Измаил: *вздох* Но ты не можешь из-за <i>того самого</i> пункта договора, который запрещает тебе по собственной инициативе рассказывать остальным о прошлом кого-либо из Грешников, да?
 
-# Original: Yes. That seems to be the case.
+# Faust: Yes. That seems to be the case.
 Фауст: Да. По всей видимости, это так.
 
-# Original: Why did you reject the LCD's offer of assistance?
+# Outis: Why did you reject the LCD's offer of assistance?
 Отис: Почему вы отказались от помощи LCD?
 
-# Original: For lack of any meaningful help they could provide, given the nature of this trial. Faust's analysis concludes their presence in the courtroom will only prove to be a deterrent to our mission.
+# Faust: For lack of any meaningful help they could provide, given the nature of this trial. Faust's analysis concludes their presence in the courtroom will only prove to be a deterrent to our mission.
 Фауст: Ввиду характера данного разбирательства они не могли бы оказать существенной помощи. По результатам анализа Фауст, их присутствие в зале суда лишь воспрепятствует выполнению нашей миссии.
 
-# Original: <Fine. So just what exactly are you plannin—>
+# Dante: <Fine. So just what exactly are you plannin—>
 Данте: <Ладно. Так что именно ты собираешь—>
 
-# Original: ... The present time constraints will not permit us the luxury of holding a briefing session.
+# Faust: ... The present time constraints will not permit us the luxury of holding a briefing session.
 Фауст: ...При нынешних временных ограничениях мы не можем позволить себе такую роскошь, как инструктаж.
 
-# Original: A mere 3 hours remain until the trial doth convene... Ah, verily, we are in a race against time.
+# Don Quixote: A mere 3 hours remain until the trial doth convene... Ah, verily, we are in a race against time.
 Дон Кихот: До начала суда осталось лишь 3 часа... Ах, воистину, мы наперегонки бежим со временем.
 
-# Original: First... Let us head to the courthouse. The plan will become clear soon after our arrival...
+# Faust: First... Let us head to the courthouse. The plan will become clear soon after our arrival...
 Фауст: Для начала... направимся в суд. Вскоре после нашего прибытия план станет ясен...
 
-# Original: ... without requiring any elaboration.
+# Faust: ... without requiring any elaboration.
 Фауст: ...без дополнительных объяснений.

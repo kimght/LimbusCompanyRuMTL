@@ -1,170 +1,170 @@
-# Original: Initiating Voice Log.
+# Faust: Initiating Voice Log.
 Фауст: Начать запись голосового журнала.
 
-# Original: This is Control Team Captain Agent Faust. Logging today's Work records.
+# Faust: This is Control Team Captain Agent Faust. Logging today's Work records.
 Фауст: Говорит капитан команды контроля, агент Фауст. Записываю сегодняшние рабочие отчеты.
 
-# Original: My current location is... the Lobotomy Corporation Headquarters. Upper Layer, Control Team Department.
+# Faust: My current location is... the Lobotomy Corporation Headquarters. Upper Layer, Control Team Department.
 Фауст: Мое текущее местоположение... Штаб-квартира Корпорации Лоботомия. Верхний уровень, отдел команды контроля.
 
-# Original: It has been 9 days since the Manager's first day at work. 3 days have passed since the Information Team Department opened.
+# Faust: It has been 9 days since the Manager's first day at work. 3 days have passed since the Information Team Department opened.
 Фауст: Прошло 9 дней с первого рабочего дня Управляющего. 3 дня прошло с момента открытия отдела информационной команды.
 
-# Original: The Clerks are almost all here... It is quite busy.
+# Faust: The Clerks are almost all here... It is quite busy.
 Фауст: Почти все клерки здесь... Довольно оживленны.
 
-# Original: This voice log will resume when Management Work begins. Pausing the recording.
+# Faust: This voice log will resume when Management Work begins. Pausing the recording.
 Фауст: Этот голосовой журнал возобновится, когда начнется управленческая работа. Приостанавливаю запись.
 
-# Original: ... Resuming Voice Log.
+# Faust: ... Resuming Voice Log.
 Фауст: ... Возобновляю запись голосового журнала.
 
-# Original: I am... currently headed to educate our new hires.
+# Faust: I am... currently headed to educate our new hires.
 Фауст: Я... сейчас направляюсь обучать наших новых сотрудников.
 
-# Original: Also, the Manager has requested that I be assigned to manage the new Abnormality we received yesterday. It appears that the personnel newly deployed to the Control Team has expired.
+# Faust: Also, the Manager has requested that I be assigned to manage the new Abnormality we received yesterday. It appears that the personnel newly deployed to the Control Team has expired.
 Фауст: Кроме того, Управляющий запросил, чтобы меня назначили управлять новой Аномалией, которую мы получили вчера. Похоже, что недавно назначенный в команду контроля персонал погиб.
 
-# Original: It seems that we've hired a new employee...
+# Faust: It seems that we've hired a new employee...
 Фауст: Кажется, мы наняли нового сотрудника...
 
-# Original: Oh, Excuse me... (Shuffling noises)
+# Faust: Oh, Excuse me... (Shuffling noises)
 Фауст: О, прошу прощения... (Шуршание)
 
-# Original: Hello, Jacob. What is it? You are hesitating outside the containment unit.
+# Faust: Hello, Jacob. What is it? You are hesitating outside the containment unit.
 Фауст: Здравствуй, Джейкоб. В чем дело? Ты мнешься у камеры содержания.
 
-# Original: Ah, Team Captain Faust... I-It's my first assignment, and I'm... a bit scared....
+# Jacob: Ah, Team Captain Faust... I-It's my first assignment, and I'm... a bit scared....
 Джейкоб: Ах, капитан Фауст... Э-это мое первое назначение, и я... немного напуган....
 
-# Original: There is no cause for concern, Jacob. The Abnormality assigned to you is likely to be the safest Abnormality here.
+# Faust: There is no cause for concern, Jacob. The Abnormality assigned to you is likely to be the safest Abnormality here.
 Фауст: Нет причин для беспокойства, Джейкоб. Аномалия, назначенная тебе, вероятно, самая безопасная здесь.
 
-# Original: But... Its name here, look... It's really intimidating...
+# Jacob: But... Its name here, look... It's really intimidating...
 Джейкоб: Но... Ее имя здесь, смотрите... Оно действительно пугающее...
 
-# Original: One Sin and Hundreds of Good Deeds...
+# Jacob: One Sin and Hundreds of Good Deeds...
 Джейкоб: Один Грех и Сотня Благих Деяний...
 
-# Original: Team Captain! W-what happens if I get unlucky and the thing decides to commit that one Sin against me? I-I don't... I still haven't...
+# Jacob: Team Captain! W-what happens if I get unlucky and the thing decides to commit that one Sin against me? I-I don't... I still haven't...
 Джейкоб: Капитан! Ч-что, если мне не повезет, и эта штука решит совершить тот единственный Грех против меня? Я-я не... Я все ещё не...
 
-# Original: Relax. That is not how this Abnormality behaves.
+# Faust: Relax. That is not how this Abnormality behaves.
 Фауст: Успокойся. Эта Аномалия так себя не ведет.
 
-# Original: Peruse the Abnormality Details, and conduct Insight or Attachment Works. And nothing will happen.
+# Faust: Peruse the Abnormality Details, and conduct Insight or Attachment Works. And nothing will happen.
 Фауст: Изучи Детали Аномалии и проведи Работы по Пониманию или Привязанности. И ничего не случится.
 
-# Original: R-really...?
+# Jacob: R-really...?
 Джейкоб: П-правда...?
 
-# Original: Faust does not lie.
+# Faust: Faust does not lie.
 Фауст: Фауст не лжет.
 
-# Original: O-okay. Thank you, Team Captain.
+# Jacob: O-okay. Thank you, Team Captain.
 Джейкоб: Х-хорошо. Спасибо, капитан.
 
-# Original: ... We are running somewhat behind schedule. Jacob is one of the newest hires assigned to the Control Team. It appears he was unnecessarily intimidated by a brief description of the Abnormality.
+# Faust: ... We are running somewhat behind schedule. Jacob is one of the newest hires assigned to the Control Team. It appears he was unnecessarily intimidated by a brief description of the Abnormality.
 Фауст: ... Мы немного отстаем от графика. Джейкоб - один из новичков, назначенных в команду контроля. Похоже, его излишне напугало краткое описание Аномалии.
 
-# Original: I suppose this is a part of a Team Captain's job. I am certain that the Manager will be understanding.
+# Faust: I suppose this is a part of a Team Captain's job. I am certain that the Manager will be understanding.
 Фауст: Полагаю, это часть работы капитана команды. Я уверена, что Управляющий отнесется с пониманием.
 
-# Original: Then... I will continue this recording once I arrive at the containment unit.
+# Faust: Then... I will continue this recording once I arrive at the containment unit.
 Фауст: Тогда... Я продолжу эту запись, когда прибуду к камере содержания.
 
-# Original: Testing, testing. Resuming Voice Log.
+# Faust: Testing, testing. Resuming Voice Log.
 Фауст: Проверка, проверка. Возобновляю запись голосового журнала.
 
-# Original: My arrival was delayed beyond my initial predictions... I had a run-in with Ms. Malkuth, and had the pleasure of exchanging a few words with her.
+# Faust: My arrival was delayed beyond my initial predictions... I had a run-in with Ms. Malkuth, and had the pleasure of exchanging a few words with her.
 Фауст: Мое прибытие задержалось сверх первоначальных прогнозов... Я столкнулась с мисс Малхут и имела удовольствие обменяться парой слов с ней.
 
-# Original: She inquired about the Work we had planned for the day, so I made an impromptu report.
+# Faust: She inquired about the Work we had planned for the day, so I made an impromptu report.
 Фауст: Она поинтересовалась работой, которую мы запланировали на день, поэтому я сделала импровизированный отчет.
 
-# Original: While it was unexpected that she wanted to know the expected completion time down to the seconds, I believe that records were helpful in giving her a satisfactory answer.
+# Faust: While it was unexpected that she wanted to know the expected completion time down to the seconds, I believe that records were helpful in giving her a satisfactory answer.
 Фауст: Хотя было неожиданно, что она хотела знать ожидаемое время завершения с точностью до секунд, я считаю, что записи помогли дать ей удовлетворительный ответ.
 
-# Original: She is a Sephirah, after all. She is responsible for an entire department. Her demands are not entirely unreasonable.
+# Faust: She is a Sephirah, after all. She is responsible for an entire department. Her demands are not entirely unreasonable.
 Фауст: В конце концов, она Сефира. Она отвечает за целый отдел. Ее требования не совсем необоснованны.
 
-# Original: Moving on... This is the containment unit of T-01-54, also known as the Forsaken Murderer.
+# Faust: Moving on... This is the containment unit of T-01-54, also known as the Forsaken Murderer.
 Фауст: Продолжим... Это камера содержания Т-01-54, также известной как Покинутый Убийца.
 
-# Original: According to the prior records... As long as the Work results are good, there shouldn't be any difficulties with managing this Abnormality.
+# Faust: According to the prior records... As long as the Work results are good, there shouldn't be any difficulties with managing this Abnormality.
 Фауст: Согласно предыдущим записям... Пока результаты работ хорошие, не должно быть никаких трудностей с управлением этой Аномалией.
 
-# Original: Hm... (Sounds of flipping through papers) Work records show that the employee previously assigned to this Abnormality conducted Repression Works.
+# Faust: Hm... (Sounds of flipping through papers) Work records show that the employee previously assigned to this Abnormality conducted Repression Works.
 Фауст: Хм... (Звуки перелистывания бумаг) Записи работ показывают, что сотрудник, ранее назначенный на эту Аномалию, проводил Работы по Подавлению.
 
-# Original: ... Which resulted in the overproduction of NE-Box. The Abnormality's head transformed into something akin to a metallic substance, which it used to crush the employee to death... Hm.
+# Faust: ... Which resulted in the overproduction of NE-Box. The Abnormality's head transformed into something akin to a metallic substance, which it used to crush the employee to death... Hm.
 Фауст: ... Что привело к перепроизводству PE Ячеек. Голова Аномалии превратилась во что-то похожее на металлическую субстанцию, которой она раздавила сотрудника насмерть... Хм.
 
-# Original: Not many would understand the process by which a person's head transforms from flesh to metal. But that ineffability is simply the nature of Abnormalities.
+# Faust: Not many would understand the process by which a person's head transforms from flesh to metal. But that ineffability is simply the nature of Abnormalities.
 Фауст: Немногие поймут процесс, при котором голова человека превращается из плоти в металл. Но эта неэффективность просто в природе Аномалий.
 
-# Original: This record at least informed me that avoiding Repression Work on this Abnormality would be preferable.
+# Faust: This record at least informed me that avoiding Repression Work on this Abnormality would be preferable.
 Фауст: Эта запись, по крайней мере, сообщила мне, что лучше избегать Работы по Подавлению на этой Аномалии.
 
-# Original: Even if something were to happen... I have an E.G.O Suit resistant against RED damage, so I foresee little trouble ahead.
+# Faust: Even if something were to happen... I have an E.G.O Suit resistant against RED damage, so I foresee little trouble ahead.
 Фауст: Даже если что-то случится... У меня есть ЭГО броня, устойчивая к КРАСНОМУ урону, так что я не предвижу больших проблем впереди.
 
-# Original: I will continue this documentation once the Work is complete.
+# Faust: I will continue this documentation once the Work is complete.
 Фауст: Я продолжу эту документацию, как только Работа будет завершена.
 
-# Original: ... This is Faust.
+# Faust: ... This is Faust.
 Фауст: ... Говорит Фауст.
 
-# Original: The Work was successful.
+# Faust: The Work was successful.
 Фауст: Работа прошла успешно.
 
-# Original: The Abnormality was observed muttering something to itself. It shuddered with anxiety and refused to look away from the floor. A proper communication was deemed difficult.
+# Faust: The Abnormality was observed muttering something to itself. It shuddered with anxiety and refused to look away from the floor. A proper communication was deemed difficult.
 Фауст: Было замечено, что Аномалия бормочет что-то себе под нос. Она дрожала от беспокойства и отказывалась отводить взгляд от пола. Нормальное общение было признано затруднительным.
 
-# Original: It looked rather emaciated, so I attempted to perform an Instinct Work by providing it food items that humans find useful.
+# Faust: It looked rather emaciated, so I attempted to perform an Instinct Work by providing it food items that humans find useful.
 Фауст: Она выглядела довольно истощенной, поэтому я попыталась выполнить Работу на Инстинкт, предоставив ей продукты питания, которые люди считают полезными.
 
-# Original: The results are encouraging. I will record that Instinct Work is effective for this Abnormality.
+# Faust: The results are encouraging. I will record that Instinct Work is effective for this Abnormality.
 Фауст: Результаты обнадеживают. Я запишу, что Работа на Инстинкт эффективна для этой Аномалии.
 
-# Original: But... I have not observed any signs of its head turning into metal, nor am I any closer to learning the mechanics behind that phenomenon.
+# Faust: But... I have not observed any signs of its head turning into metal, nor am I any closer to learning the mechanics behind that phenomenon.
 Фауст: Но... Я не заметила никаких признаков того, что ее голова превращается в металл, и не стала ближе к пониманию механики этого явления.
 
-# Original: Considering this E.G.O weapon was extracted from the Abnormality in question, it seems evident that the Abnormality's characteristics are at least partially carried over to the shape and particularities of the E.G.O weapon.
+# Faust: Considering this E.G.O weapon was extracted from the Abnormality in question, it seems evident that the Abnormality's characteristics are at least partially carried over to the shape and particularities of the E.G.O weapon.
 Фауст: Учитывая, что это ЭГО оружие было извлечено из рассматриваемой Аномалии, кажется очевидным, что характеристики Аномалии, по крайней мере, частично переносятся на форму и особенности ЭГО оружия.
 
-# Original: Ah, the siren...
+# Faust: Ah, the siren...
 Фауст: А, сирена...
 
-# Original: [WARNING. ORDEAL OF GREEN DAWN ALERT. SUPPRESSION PERSONNEL FROM ALL DEPARTMENTS MUST IMMEDIATELY ASSEMBLE AT THE BOTTOM RIGHT ELEVATOR OF THE UPPER LAYER.]
+# Announcement: [WARNING. ORDEAL OF GREEN DAWN ALERT. SUPPRESSION PERSONNEL FROM ALL DEPARTMENTS MUST IMMEDIATELY ASSEMBLE AT THE BOTTOM RIGHT ELEVATOR OF THE UPPER LAYER.]
 Рассказчик: [ВНИМАНИЕ. ТРЕВОГА ИСПЫТАНИЯ ЗЕЛЕНОГО РАССВЕТА. ПЕРСОНАЛ ПОДАВЛЕНИЯ ИЗ ВСЕХ ОТДЕЛОВ ДОЛЖЕН НЕМЕДЛЕННО СОБРАТЬСЯ У НИЖНЕГО ПРАВОГО ЛИФТА ВЕРХНЕГО УРОВНЯ.]
 
-# Original: The Manager's orders have arrived via the devices. ... It is time for the Ordeals already, then.
+# Faust: The Manager's orders have arrived via the devices. ... It is time for the Ordeals already, then.
 Фауст: Приказы Управляющего поступили через устройства. ... Значит, уже время для Испытаний.
 
-# Original: Each employee is equipped with a device that displays orders from the Manager in text form. The devices must be checked often as the orders are rather frequent.
+# Faust: Each employee is equipped with a device that displays orders from the Manager in text form. The devices must be checked often as the orders are rather frequent.
 Фауст: Каждый сотрудник оснащен устройством, которое отображает приказы Управляющего в текстовой форме. Устройства нужно часто проверять, так как приказы довольно частые.
 
-# Original: I must go and assist them in Suppressing this Ordeal.
+# Faust: I must go and assist them in Suppressing this Ordeal.
 Фауст: Я должна пойти и помочь им в подавлении этого Испытания.
 
-# Original: I am not particularly concerned. Maybe this Ordeal will be Suppressed before Faust even gets there.
+# Faust: I am not particularly concerned. Maybe this Ordeal will be Suppressed before Faust even gets there.
 Фауст: Я не особенно обеспокоена. Может быть, это Испытание будет подавлено ещё до того, как Фауст туда доберется.
 
-# Original: The Manager does not yet know... but the Ordeal of Green Dawn is quite insignificant compared to what is to come.
+# Faust: The Manager does not yet know... but the Ordeal of Green Dawn is quite insignificant compared to what is to come.
 Фауст: Управляющий ещё не знает... но Испытание Зеленого Рассвета довольно незначительно по сравнению с тем, что грядет.
 
-# Original: ... Hm, no. I must hold my tongue, lest I risk confusing any other individual who will be listening to this recording.
+# Faust: ... Hm, no. I must hold my tongue, lest I risk confusing any other individual who will be listening to this recording.
 Фауст: ... Хм, нет. Я должна придержать язык, чтобы не рисковать запутать любого другого человека, который будет слушать эту запись.
 
-# Original: Faust is... determined to struggle, to survive the remaining 41 days of Work.
+# Faust: Faust is... determined to struggle, to survive the remaining 41 days of Work.
 Фауст: Фауст... полна решимости бороться, чтобы пережить оставшиеся 41 день Работы.
 
-# Original: And I will leave it at that.
+# Faust: And I will leave it at that.
 Фауст: И я остановлюсь на этом.
 
-# Original: Well, then...
+# Faust: Well, then...
 Фауст: Что ж, тогда...
 
-# Original: Faust, ending the Voice Log.
+# Faust: Faust, ending the Voice Log.
 Фауст: Фауст, конец записи голосового журнала.

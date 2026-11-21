@@ -1,89 +1,89 @@
-﻿# Original: That opened the shop for us, but... I'm not sure if I like how we got here.
+﻿# Sinclair: That opened the shop for us, but... I'm not sure if I like how we got here.
 Синклер: Магазин-то нам открылся, но... Не уверен, что мне нравится, каким путём мы сюда попали.
 
-# Original: <color=#ebcaa2>Naturally. What you revealed to her is a truth that should never have come to light.</color>
+# Narrator: <color=#ebcaa2>Naturally. What you revealed to her is a truth that should never have come to light.</color>
 Рассказчик: <color=#ebcaa2>Разумеется. Ты раскрыл ей истину, которой никогда не следовало выходить на свет.</color>
 
-# Original: <color=#ebcaa2>That audiotape contains the truth the Rouges have tried to keep buried for many years.</color>
+# Narrator: <color=#ebcaa2>That audiotape contains the truth the Rouges have tried to keep buried for many years.</color>
 Рассказчик: <color=#ebcaa2>На этой аудиокассете записана правда, которую Ружи долгие годы пытались утаить.</color>
 
-# Original: <color=#ebcaa2>It reveals that they have only been deluding themselves into believing that a unique Voice personally whispered into each and every one of their ears...</color>
+# Narrator: <color=#ebcaa2>It reveals that they have only been deluding themselves into believing that a unique Voice personally whispered into each and every one of their ears...</color>
 Рассказчик: <color=#ebcaa2>Она раскрывает, что они лишь тешили себя иллюзией, будто каждому из них на ухо шептал особый Голос, обращённый лишь к нему одному...</color>
 
-# Original: <color=#ebcaa2>... and that the Voice they have so fervently followed for so many years... was only an ancient recording playing on repeat.</color>
+# Narrator: <color=#ebcaa2>... and that the Voice they have so fervently followed for so many years... was only an ancient recording playing on repeat.</color>
 Рассказчик: <color=#ebcaa2>...и что Голос, за которым они столько лет с таким пылом следовали... был всего лишь древней записью, звучащей по кругу.</color>
 
-# Original: <color=#ebcaa2>I don't know for sure, since I've never lived here myself, but...</color>
+# Narrator: <color=#ebcaa2>I don't know for sure, since I've never lived here myself, but...</color>
 Рассказчик: <color=#ebcaa2>Точно не знаю, ведь сама я здесь никогда не жила, но...</color>
 
-# Original: <color=#ebcaa2>... that audiotape must've been recorded about... 10 years ago in Sisyphe's time. Or 200? Maybe it was 500 years ago, even—it doesn't matter. What matters is that it <i>feels</i> like an appropriately ancient recording to those inside.</color>
+# Narrator: <color=#ebcaa2>... that audiotape must've been recorded about... 10 years ago in Sisyphe's time. Or 200? Maybe it was 500 years ago, even—it doesn't matter. What matters is that it <i>feels</i> like an appropriately ancient recording to those inside.</color>
 Рассказчик: <color=#ebcaa2>...эту аудиокассету, должно быть, записали примерно... 10 лет назад по времени Сизифа. Или 200? А может, и все 500 — неважно. Важно то, что для тех, кто внутри, эта запись <i>ощущается</i> достаточно древней.</color>
 
-# Original: <color=#ebcaa2>It's been playing on repeat for a long time, loop after loop... No wonder the tape's been stretched to its limits.</color>
+# Narrator: <color=#ebcaa2>It's been playing on repeat for a long time, loop after loop... No wonder the tape's been stretched to its limits.</color>
 Рассказчик: <color=#ebcaa2>Она звучала по кругу очень долго, раз за разом... Неудивительно, что лента растянулась до предела.</color>
 
-# Original: <color=#ebcaa2>Some of the high-tier Rouges in the Luxury Hall must've had their suspicions, I'm sure...</color>
+# Narrator: <color=#ebcaa2>Some of the high-tier Rouges in the Luxury Hall must've had their suspicions, I'm sure...</color>
 Рассказчик: <color=#ebcaa2>Уверена, кое-кто из высокопоставленных Ружей в Элитном Зале что-то подозревал...</color>
 
-# Original: <color=#ebcaa2>But they can't possibly say outright that the Voice their faction so fervently follows will never say anything new again—that their Giant has abandoned them, for all intents and purposes—when the Noirs are waiting with bated breath to gain the upper hand.</color>
+# Narrator: <color=#ebcaa2>But they can't possibly say outright that the Voice their faction so fervently follows will never say anything new again—that their Giant has abandoned them, for all intents and purposes—when the Noirs are waiting with bated breath to gain the upper hand.</color>
 Рассказчик: <color=#ebcaa2>Но они никак не могут открыто заявить, что Голос, за которым их фракция следует с таким пылом, больше никогда не скажет ничего нового — что их Гигант, по сути, их бросил, — пока Нуары, затаив дыхание, ждут возможности взять верх.</color>
 
-# Original: <color=#ebcaa2>Though, I'm sure dear Meursault wouldn't have any qualms telling them the truth as it is. Isn't that right?</color>
+# Narrator: <color=#ebcaa2>Though, I'm sure dear Meursault wouldn't have any qualms telling them the truth as it is. Isn't that right?</color>
 Рассказчик: <color=#ebcaa2>Впрочем, уверена, дорогой Мерсо без всяких колебаний сказал бы им правду как есть. Не так ли?</color>
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: <color=#ebcaa2>There's no hiding the elephant in the room. The consequences of a Giant's disappearance are clear enough: cracks have formed in the walls of the Grand Magasin, and the departed no longer return.</color>
+# Narrator: <color=#ebcaa2>There's no hiding the elephant in the room. The consequences of a Giant's disappearance are clear enough: cracks have formed in the walls of the Grand Magasin, and the departed no longer return.</color>
 Рассказчик: <color=#ebcaa2>Очевидного не скроешь. Последствия исчезновения Гиганта видны как на ладони: стены Гран-Магазэна пошли трещинами, а ушедшие больше не возвращаются.</color>
 
-# Original: There's something I've been meaning to ask... Why do you call yourselves "Giants"?
+# Sinclair: There's something I've been meaning to ask... Why do you call yourselves "Giants"?
 Синклер: Я давно хотел спросить... Почему вы называете себя «Гигантами»?
 
-# Original: <color=#ebcaa2>Why do <i>you</i> think we call ourselves "Giants"?</color>
+# Narrator: <color=#ebcaa2>Why do <i>you</i> think we call ourselves "Giants"?</color>
 Рассказчик: <color=#ebcaa2>А как <i>ты</i> думаешь, почему мы называем себя «Гигантами»?</color>
 
-# Original: Because you are pillars to something greater than yourselves.
+# Outis: Because you are pillars to something greater than yourselves.
 Отис: Потому что вы служите опорами чему-то большему, чем вы сами.
 
-# Original: <color=#ebcaa2>Sharp. Yes, the only things ensuring the continued existence of the Grand Magasin Sisyphe... are us. Without us shouldering the weight of this whole enterprise, its days are numbered.</color>
+# Narrator: <color=#ebcaa2>Sharp. Yes, the only things ensuring the continued existence of the Grand Magasin Sisyphe... are us. Without us shouldering the weight of this whole enterprise, its days are numbered.</color>
 Рассказчик: <color=#ebcaa2>Проницательно. Да, Гран-Магазэн Сизиф до сих пор существует... лишь благодаря нам. Если мы перестанем нести на своих плечах тяжесть всего этого предприятия, дни его будут сочтены.</color>
 
-# Original: And there are multiple "Giants," naturally.
+# Outis: And there are multiple "Giants," naturally.
 Отис: И «Гигантов», разумеется, несколько.
 
-# Original: <color=#ebcaa2>Naturally. You think there's anyone in the world who can handle this all on their own? If there were...</color>
+# Narrator: <color=#ebcaa2>Naturally. You think there's anyone in the world who can handle this all on their own? If there were...</color>
 Рассказчик: <color=#ebcaa2>Разумеется. Думаешь, в мире найдётся хоть кто-то, кому под силу справиться со всем этим в одиночку? Если бы такой нашёлся...</color>
 
-# Original: So what, is the Grand Magasin nothing more than a show to you? Every bizarreness, every absurdity just some entertainment for Giants to watch from the outside like it's none of your business?
+# Sinclair: So what, is the Grand Magasin nothing more than a show to you? Every bizarreness, every absurdity just some entertainment for Giants to watch from the outside like it's none of your business?
 Синклер: Так что же, Гран-Магазэн для вас — просто представление? Все эти странности, весь этот абсурд — лишь развлечение для Гигантов, которые смотрят со стороны, будто их это совсем не касается?
 
-# Original: <color=#ebcaa2>Not at all. In our eyes, every one of these sights is...</color>
+# Narrator: <color=#ebcaa2>Not at all. In our eyes, every one of these sights is...</color>
 Рассказчик: <color=#ebcaa2>Вовсе нет. В наших глазах каждое из этих зрелищ...</color>
 
-# Original: <color=#ebcaa2>... nauseating and terrifying. Yes, I've always been so afraid of it all.</color>
+# Narrator: <color=#ebcaa2>... nauseating and terrifying. Yes, I've always been so afraid of it all.</color>
 Рассказчик: <color=#ebcaa2>...вызывает тошноту и ужас. Да, я всегда так боялась всего этого.</color>
 
-# Original: <Afraid?>
+# Dante: <Afraid?>
 Данте: <Боялась?>
 
-# Original: <color=#ebcaa2>Ah. I've got to go—something I need to be there for.</color>
+# Narrator: <color=#ebcaa2>Ah. I've got to go—something I need to be there for.</color>
 Рассказчик: <color=#ebcaa2>Ах. Мне пора — кое-где требуется моё присутствие.</color>
 
-# Original: …….
+# Sinclair: …….
 Синклер: …….
 
-# Original: She's gone quiet again.
+# Sinclair: She's gone quiet again.
 Синклер: Она опять замолчала.
 
-# Original: <I don't think we can go up to the fourth floor just yet... Do we have anywhere else to explore?>
+# Dante: <I don't think we can go up to the fourth floor just yet... Do we have anywhere else to explore?>
 Данте: <Не думаю, что мы пока можем подняться на четвёртый этаж... Нам ещё есть что осмотреть?>
 
-# Original: How about we check the corridor to the right again, Manager?
+# Outis: How about we check the corridor to the right again, Manager?
 Отис: Как насчёт того, чтобы снова проверить коридор справа, Менеджер?
 
-# Original: No meeting, however long, could possibly still be in session after all this time.
+# Outis: No meeting, however long, could possibly still be in session after all this time.
 Отис: Каким бы долгим ни было совещание, за это время оно уже должно было закончиться.
 
-# Original: <That's true... Let's see if anything's changed.>
+# Dante: <That's true... Let's see if anything's changed.>
 Данте: <Это верно... Посмотрим, не изменилось ли что-нибудь.>

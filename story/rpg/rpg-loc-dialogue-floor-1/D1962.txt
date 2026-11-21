@@ -1,20 +1,20 @@
-﻿# Original: <... I figured it would hurt... but I didn't expect it to swallow you whole.>
+﻿# Dante: <... I figured it would hurt... but I didn't expect it to swallow you whole.>
 Данте: <... Я понимал, что будет больно... но не ожидал, что оно проглотит тебя целиком.>
 
-# Original: <You good, Meursault?>
+# Dante: <You good, Meursault?>
 Данте: <Ты в порядке, Мерсо?>
 
-# Original: There is no issue.
+# Meursault: There is no issue.
 Мерсо: Проблем нет.
 
-# Original: *sigh* Well, that's a lesson learned. When it trembles, take it as a warning that it's winding up to charge.
+# Ishmael: *sigh* Well, that's a lesson learned. When it trembles, take it as a warning that it's winding up to charge.
 Измаил: *вздох* Ну что ж, теперь знаем. Если оно дрожит — это предупреждение: готовится к рывку.
 
-# Original: That thing can really <i>zoom</i>, huh? Like, all the way from the other end... How the heck are you supposed to dodge that...?
+# Rodion: That thing can really <i>zoom</i>, huh? Like, all the way from the other end... How the heck are you supposed to dodge that...?
 Родион: Вот это оно <i>шарашит</i>, да? Прямо с другого конца... И как от такого вообще уворачиваться...?
 
-# Original: <It's fast, but it didn't seem like it could change its direction midway.>
+# Dante: <It's fast, but it didn't seem like it could change its direction midway.>
 Данте: <Оно быстрое, но, похоже, не может менять направление на ходу.>
 
-# Original: <Maybe you can exploit that property to avoid collision.>
+# Dante: <Maybe you can exploit that property to avoid collision.>
 Данте: <Может, этим можно воспользоваться, чтобы избежать столкновения.>

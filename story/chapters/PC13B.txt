@@ -1,679 +1,679 @@
-# Original: ... They've played us.
+# Outis: ... They've played us.
 Отис: ...Нас провели.
 
-# Original: Don't despair, we still have the upper hand.
+# Doctor: Don't despair, we still have the upper hand.
 Доктор: Не отчаивайтесь, мы всё ещё в выигрышном положении.
 
-# Original: We defeated Fabius and his cultists already, and even if they were to summon more Sea Terrors, we should be able to handle them without much trouble.
+# Doctor: We defeated Fabius and his cultists already, and even if they were to summon more Sea Terrors, we should be able to handle them without much trouble.
 Доктор: Мы уже одолели Фабия и его культистов, и даже если они призовут ещё Морских Ужасов, мы должны справиться с ними без особых проблем.
 
-# Original: Hey, Ægir. Just what were you thinking the entire time as you deceived us?
+# Irene: Hey, Ægir. Just what were you thinking the entire time as you deceived us?
 Айрен: Эй, Эгир. О чём ты вообще думала, всё это время обманывая нас?
 
-# Original: …….
+# Mayors: …….
 Мэрс: …….
 
-# Original: I had a feeling I knew what she was going to say to that.
+# Narrator: I had a feeling I knew what she was going to say to that.
 Рассказчик: У меня было предчувствие, что я знаю, что она ответит.
 
-# Original: She was either going to say that it was for our sake, that it wasn’t a deception at all…
+# Narrator: She was either going to say that it was for our sake, that it wasn’t a deception at all…
 Рассказчик: Она либо скажет, что это было ради нашего блага, что это вовсе не обман…
 
-# Original: … or maybe she’ll give us one final gloating.
+# Narrator: … or maybe she’ll give us one final gloating.
 Рассказчик: …либо, может, напоследок злорадно съязвит.
 
-# Original: But her reply, the words of which were carefully selected after gazing out at the far ocean, was… not what any of us could have expected.
+# Narrator: But her reply, the words of which were carefully selected after gazing out at the far ocean, was… not what any of us could have expected.
 Рассказчик: Но её ответ, слова которого были тщательно подобраны после долгого взгляда на далёкий океан, был… не тем, чего кто-либо из нас мог ожидать.
 
-# Original: I’m sorry.
+# Mayors: I’m sorry.
 Мэрс: Прошу прощения.
 
-# Original: I thought this would be the better way to approach you. But I see how it can come across as nothing more than deception.
+# Mayors: I thought this would be the better way to approach you. But I see how it can come across as nothing more than deception.
 Мэрс: Я думала, что это будет лучший способ найти к вам подход. Но я понимаю, что это могло показаться не более чем обманом.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: <You’re… sorry? Why?>
+# Dante: <You’re… sorry? Why?>
 Данте: <Ты… извиняешься? Почему?>
 
-# Original: Dante wants to know why you’re sorry.
+# Hong Lu: Dante wants to know why you’re sorry.
 Хон Лу: Данте хочет знать, почему вы извиняетесь.
 
-# Original: Huh? Well, that’s because I… did something wrong.
+# Mayors: Huh? Well, that’s because I… did something wrong.
 Мэрс: А? Ну, это потому, что я… поступила неправильно.
 
-# Original: Wait, wait. Hold on.
+# Ishmael: Wait, wait. Hold on.
 Измаил: Так, так. Погодите-ка.
 
-# Original: You’ve been deceiving us all along, Mayors. And now you’re gonna—?
+# Ishmael: You’ve been deceiving us all along, Mayors. And now you’re gonna—?
 Измаил: Ты всё это время нас обманывала, Мэрс. А теперь собираешься?..
 
-# Original: …….
+# Doctor: …….
 Доктор: …….
 
-# Original: Oi... what exactly are you after?
+# Heathcliff: Oi... what exactly are you after?
 Хитклиф: Эй... чего тебе на самом деле надо?
 
-# Original: You're after the same thing that the geezer was, ain't that right? Turn us into your "bloodkins", that it was "all for our sake", givin' all kinds of ridiculous excuses to turn us into one of those monsters—!
+# Heathcliff: You're after the same thing that the geezer was, ain't that right? Turn us into your "bloodkins", that it was "all for our sake", givin' all kinds of ridiculous excuses to turn us into one of those monsters—!
 Хитклиф: Тебе нужно то же, что и тому старику, верно? Превратить нас в свою «родню», сказать, что это «всё ради нашего блага», выдумывая всякие нелепые отмазки, чтобы сделать из нас одних из тех чудищ!..
 
-# Original: I do hope that you would all one day accept becoming Seaborns.
+# Mayors: I do hope that you would all one day accept becoming Seaborns.
 Мэрс: Я надеюсь, что однажды вы все согласитесь стать Морерождёнными.
 
-# Original: But... I'm not about to demand that you let yourselves be transformed today, right here and now. I understand that we all need some time to mentally prepare ourselves.
+# Mayors: But... I'm not about to demand that you let yourselves be transformed today, right here and now. I understand that we all need some time to mentally prepare ourselves.
 Мэрс: Но... я не собираюсь требовать, чтобы вы позволили себя трансформировать сегодня, здесь и сейчас. Я понимаю, что нам всем нужно время, чтобы морально подготовиться.
 
-# Original: May I understand your statement to be implying that you will not be forcing this upon us, should we refuse?
+# Yi Sang: May I understand your statement to be implying that you will not be forcing this upon us, should we refuse?
 И Сан: Могу ли я понимать ваше утверждение так, что вы не станете принуждать нас, если мы откажемся?
 
-# Original: That's correct. It'd be against manners to do what Fabius did, shoving Sea Terror cells inside your body out of nowhere.
+# Mayors: That's correct. It'd be against manners to do what Fabius did, shoving Sea Terror cells inside your body out of nowhere.
 Мэрс: Верно. Поступать как Фабий, пичкая ваши тела клетками Морских Ужасов исподтишка, было бы против манер.
 
-# Original: Manners, huh.
+# Gregor: Manners, huh.
 Грегор: Манеры, значит.
 
-# Original: While I was taken aback by the fact that Mayors was a Bishop of the Deep...
+# Narrator: While I was taken aback by the fact that Mayors was a Bishop of the Deep...
 Рассказчик: Хоть я и был ошеломлён тем фактом, что Мэрс оказалась Епископом Глубин…
 
-# Original: ... it was also true that Mayors had never tried to bring us harm, unlike Fabius who attacked the Sinners directly.
+# Narrator: ... it was also true that Mayors had never tried to bring us harm, unlike Fabius who attacked the Sinners directly.
 Рассказчик: …было также правдой и то, что Мэрс никогда не пыталась причинить нам вред, в отличие от Фабия, который напрямую атаковал Грешников.
 
-# Original: While she did almost get us in big trouble with Irene while explaining things to us...
+# Narrator: While she did almost get us in big trouble with Irene while explaining things to us...
 Рассказчик: И хотя она чуть не навлекла на нас большие неприятности с Айрен, пока всё объясняла…
 
-# Original: ... it's also true that Mayors has been extremely helpful so far—it was her who led us to the lighthouse, and it was her who stayed in that crumbling lighthouse until the repairs were done as that terrifying knight continued to assail its walls.
+# Narrator: ... it's also true that Mayors has been extremely helpful so far—it was her who led us to the lighthouse, and it was her who stayed in that crumbling lighthouse until the repairs were done as that terrifying knight continued to assail its walls.
 Рассказчик: ...правда и то, что Мэрс до сих пор чрезвычайно нам помогала — именно она привела нас к маяку, и именно она оставалась в том разрушающемся маяке, пока шёл ремонт, а тот ужасающий рыцарь продолжал атаковать его стены.
 
-# Original: <What was your actual relationship to Fabius, anyway?>
+# Dante: <What was your actual relationship to Fabius, anyway?>
 Данте: <А в каких вы на самом деле были отношениях с Фабием?>
 
-# Original: Just someone who also once strove to realize the visions of our ideal worlds. Our goals once converged, but... not now.
+# Mayors: Just someone who also once strove to realize the visions of our ideal worlds. Our goals once converged, but... not now.
 Мэрс: Он просто тот, кто тоже когда-то стремился воплотить видения наших идеальных миров. Когда-то наши цели сходились, но... не теперь.
 
-# Original: I was pretty taken aback too, when they attacked you back at the village. Maybe he got... greedy when he saw Faust and Outis repairing the ship.
+# Mayors: I was pretty taken aback too, when they attacked you back at the village. Maybe he got... greedy when he saw Faust and Outis repairing the ship.
 Мэрс: Я тоже была весьма ошеломлена, когда они напали на вас в деревне. Может, он стал... жадным, когда увидел, как Фауст и Отис чинят корабль.
 
-# Original: He got... greedy?
+# Irene: He got... greedy?
 Айрен: Стал... жадным?
 
-# Original: Fabius believed that welcoming capable people as bloodkin would expedite Seaborns' evolution.
+# Mayors: Fabius believed that welcoming capable people as bloodkin would expedite Seaborns' evolution.
 Мэрс: Фабий верил, что принятие способных людей в качестве кровников ускорит эволюцию Морерождённых.
 
-# Original: Cool, cool. So you're like some cult leader, but you don't necessarily want to antagonize us... You still haven't told us what you're after, though?
+# Rodion: Cool, cool. So you're like some cult leader, but you don't necessarily want to antagonize us... You still haven't told us what you're after, though?
 Родион: Ясно, ясно. Так ты типа лидер культа, но не обязательно хочешь с нами враждовать... Но ты так и не сказала, чего добиваешься?
 
-# Original: I’m going to the City that lies beyond the dimensional door.
+# Mayors: I’m going to the City that lies beyond the dimensional door.
 Мэрс: Я собираюсь в Город, что лежит за пространственной дверью.
 
-# Original: ... So, you're trying to flee to a different world where the Inquisition won't be able to chase you?
+# Irene: ... So, you're trying to flee to a different world where the Inquisition won't be able to chase you?
 Айрен: ...То есть, ты пытаешься сбежать в другой мир, где Инквизиция не сможет тебя преследовать?
 
-# Original: This isn’t running away.
+# Mayors: This isn’t running away.
 Мэрс: Это не побег.
 
-# Original: I just want to help the people of the City, that’s all.
+# Mayors: I just want to help the people of the City, that’s all.
 Мэрс: Я просто хочу помочь людям Города, вот и всё.
 
-# Original: So… I’m bringing the Seaborns with me to the City.
+# Mayors: So… I’m bringing the Seaborns with me to the City.
 Мэрс: Так что… я приведу Морерождённых с собой в Город.
 
-# Original: Don't tell me... You're going to invade the City alongside those monsters, then...?
+# Outis: Don't tell me... You're going to invade the City alongside those monsters, then...?
 Отис: Только не говорите... Вы собираетесь вторгнуться в Город вместе с этими чудовищами?..
 
-# Original: Then, the foghorn suddenly blared, and the ship shook as it began to move.
+# Narrator: Then, the foghorn suddenly blared, and the ship shook as it began to move.
 Рассказчик: Внезапно взревел туманный горн, и корабль, вздрогнув, начал движение.
 
-# Original: …!?
+# Ishmael: …!?
 Измаил: …!?
 
-# Original: Vessel Masas has begun to move…
+# Ishmael: Vessel Masas has begun to move…
 Измаил: Судно «Масас» начало движение…
 
-# Original: Is this… an automated sailing program?
+# Doctor: Is this… an automated sailing program?
 Доктор: Это… автоматическая программа навигации?
 
-# Original: The vessel Masas will now sail toward the dimensional door.
+# Mayors: The vessel Masas will now sail toward the dimensional door.
 Мэрс: Судно «Масас» теперь поплывёт к пространственной двери.
 
-# Original: I’ll let Rhodes Island and Irene go right in front of the door, so don’t worry.
+# Mayors: I’ll let Rhodes Island and Irene go right in front of the door, so don’t worry.
 Мэрс: Я высажу Родос Айленд и Айрен прямо перед дверью, так что не волнуйтесь.
 
-# Original: ... Did you seriously just tell us to not worry?
+# Irene: ... Did you seriously just tell us to not worry?
 Айрен: ...Ты это сейчас серьёзно сказала — не волноваться?
 
-# Original: <Faust...!>
+# Dante: <Faust...!>
 Данте: <Фауст!..>
 
-# Original: Please calm yourself, Dante. It has not yet been determined if that is indeed the dimensional door connecting directly back to the City.
+# Faust: Please calm yourself, Dante. It has not yet been determined if that is indeed the dimensional door connecting directly back to the City.
 Фауст: Прошу вас успокоиться, Данте. Ещё не установлено, действительно ли это та пространственная дверь, что ведёт прямо в Город.
 
-# Original: No, it has to be.
+# Mayors: No, it has to be.
 Мэрс: Нет, это должна быть она.
 
-# Original: The warm, shining light… and the voice from within… is getting clearer and clearer.
+# Mayors: The warm, shining light… and the voice from within… is getting clearer and clearer.
 Мэрс: Тёплый, сияющий свет… и голос изнутри… становятся всё яснее и яснее.
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: ... Why don’t we just let them into the City?
+# Outis: ... Why don’t we just let them into the City?
 Отис: ...Почему бы нам просто не пустить их в Город?
 
-# Original: The battles thus far have done well enough to demonstrate the level of danger Seaborns pose. However, I doubt they'll get very far even if they were to enter the City, don't you agree?
+# Outis: The battles thus far have done well enough to demonstrate the level of danger Seaborns pose. However, I doubt they'll get very far even if they were to enter the City, don't you agree?
 Отис: Прошедшие сражения достаточно хорошо продемонстрировали уровень опасности, который представляют Морерождённые. Однако я сомневаюсь, что они далеко продвинутся, даже если войдут в Город, вы не согласны?
 
-# Original: In Hongyuan, we've all seen what happens when sapient, sentient nonhuman entities enter the City. The Head will take action the moment they realize their presence.
+# Outis: In Hongyuan, we've all seen what happens when sapient, sentient nonhuman entities enter the City. The Head will take action the moment they realize their presence.
 Отис: В Хунъюане мы все видели, что происходит, когда разумные, обладающие сознанием нечеловеческие сущности входят в Город. Глава примет меры в тот момент, когда осознает их присутствие.
 
-# Original: Of course, we must prepare ourselves for repercussions in case they decide to hold Limbus Company responsible once the dust settles. Yet, it is also very likely that we will fully escape any culpability... as we saw in the memories of the Kong massacre.
+# Outis: Of course, we must prepare ourselves for repercussions in case they decide to hold Limbus Company responsible once the dust settles. Yet, it is also very likely that we will fully escape any culpability... as we saw in the memories of the Kong massacre.
 Отис: Конечно, мы должны быть готовы к последствиям, если они решат возложить ответственность на Компанию Лимбус, когда всё уляжется. И всё же, весьма вероятно, что мы полностью избежим любой вины... как мы видели в воспоминаниях о резне семьи Кун.
 
-# Original: < ... Your thoughts, Faust?>
+# Dante: < ... Your thoughts, Faust?>
 Данте: <...Твои мысли, Фауст?>
 
-# Original: Urban Nightmare… However, considering their specific attributes, it will not take long for them to rise to become a Star of the City level threat.
+# Faust: Urban Nightmare… However, considering their specific attributes, it will not take long for them to rise to become a Star of the City level threat.  
 Фауст: Городской Кошмар… Однако, учитывая их специфические атрибуты, им не потребуется много времени, чтобы подняться до уровня угрозы Звезды Города.
 
-# Original: There is a reasonable possibility that they may be issued the Impuritas Civitatis classification.
+# Faust: There is a reasonable possibility that they may be issued the Impuritas Civitatis classification.
 Фауст: Существует разумная вероятность, что им может быть присвоена классификация Impuritas Civitatis.
 
-# Original: Is that not… an acceptable risk? If not the Head, they should be manageable by a Wing. This isn’t that terrible of a calamity—
+# Outis: Is that not… an acceptable risk? If not the Head, they should be manageable by a Wing. This isn’t that terrible of a calamity—
 Отис: Разве это не… приемлемый риск? Если не Глава, то с ними должно справиться какое-нибудь Крыло. Это не такое уж ужасное бедствие…
 
-# Original: But Kal'tsit shook her head resolutely.
+# Narrator: But Kal'tsit shook her head resolutely.
 Рассказчик: Но Кальцит решительно покачала головой.
 
-# Original: No.
+# Kal'tsit: No.
 Кальцит: Нет.
 
-# Original: Your technology seems to be based on something else, which is neither Originium Arts nor any of its derived technology.
+# Kal'tsit: Your technology seems to be based on something else, which is neither Originium Arts nor any of its derived technology.
 Кальцит: Ваши технологии, похоже, основаны на чём-то ином, что не является ни Искусствами Ориджиния, ни какой-либо производной от них технологией.
 
-# Original: And that is precisely what could make your world vulnerable against Seaborns.
+# Kal'tsit: And that is precisely what could make your world vulnerable against Seaborns.
 Кальцит: И именно это может сделать ваш мир уязвимым перед Морерождёнными.
 
-# Original: Is it because they learn fast?
+# Doctor: Is it because they learn fast?
 Доктор: Это потому, что они быстро учатся?
 
-# Original: Yes. Those on the frontlines of the war against Seaborns stubbornly stick to using traditional, low-tech weapons.
+# Kal'tsit: Yes. Those on the frontlines of the war against Seaborns stubbornly stick to using traditional, low-tech weapons.
 Кальцит: Да. Те, кто находится на передовой войны с Морерождёнными, упорно придерживаются использования традиционного, низкотехнологичного оружия.
 
-# Original: Deploying high-technology weapons against them is only going to make you an enticing meal.
+# Kal'tsit: Deploying high-technology weapons against them is only going to make you an enticing meal.
 Кальцит: Применение против них высокотехнологичного оружия лишь сделает вас лакомой добычей.
 
-# Original: Then can't we just let whichever unfortunate Wing that ends up fighting these—
+# Heathcliff: Then can't we just let whichever unfortunate Wing that ends up fighting these—
 Хитклиф: Так может, мы просто позволим тому несчастному Крылу, которому в итоге придётся с ними драться…
 
-# Original: ... Do take into account that it may take a significant amount of time to earn their trust. Even if they were to be convinced, there would be other parties with alternative... perspectives on the matter, complicating issues.
+# Faust: ... Do take into account that it may take a significant amount of time to earn their trust. Even if they were to be convinced, there would be other parties with alternative... perspectives on the matter, complicating issues.
 Фауст: ...Примите во внимание, что на то, чтобы заслужить их доверие, может уйти значительное количество времени. Даже если их удастся убедить, найдутся и другие стороны с... альтернативными взглядами на этот счёт, что усложнит ситуацию.
 
-# Original: The situation will rapidly grow out of control if Backstreets Syndicates or Fixers get involved, unless the Head designates a taboo to prevent it... Even then, considering what she has been saying...
+# Outis: The situation will rapidly grow out of control if Backstreets Syndicates or Fixers get involved, unless the Head designates a taboo to prevent it... Even then, considering what she has been saying...
 Отис: Ситуация быстро выйдет из-под контроля, если в дело вмешаются Синдикаты Подворотен или Корректировщики, если только Глава не наложит табу, чтобы это предотвратить... Но даже так, учитывая то, что она говорила...
 
-# Original: Yes, we must consider the possibility that they may be capable of absorbing the Head's technology as well, before they are expelled from the City.
+# Faust: Yes, we must consider the possibility that they may be capable of absorbing the Head's technology as well, before they are expelled from the City.
 Фауст: Да, мы должны рассмотреть возможность, что они могут поглотить и технологии Главы, прежде чем их изгонят из Города.
 
-# Original: …….
+# Hong Lu: …….
 Хон Лу: …….
 
-# Original: How do you plan on helping the people of the City, Mayors?
+# Hong Lu: How do you plan on helping the people of the City, Mayors?
 Хон Лу: Как вы планируете помочь людям Города, Мэрс?
 
-# Original: By giving them a chance to become Seaborns.
+# Mayors: By giving them a chance to become Seaborns.
 Мэрс: Дав им шанс стать Морерождёнными.
 
-# Original: W-what are you on about? Become... Seaborns?
+# Irene: W-what are you on about? Become... Seaborns?
 Айрен: О-о чём ты говоришь? Стать... Морерождёнными?
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: She ain't all there either, eh...? What kind of "help" is that?!
+# Heathcliff: She ain't all there either, eh...? What kind of "help" is that?!
 Хитклиф: Она тоже не в себе, а?.. Что это за «помощь» такая?!
 
-# Original: Mayors, you know that's no different from what the Church of the Deep is doing here.
+# Amiya: Mayors, you know that's no different from what the Church of the Deep is doing here.
 Амия: Мэрс, вы же знаете, что это ничем не отличается от того, что здесь делает Церковь Глубин.
 
-# Original: No, it is different.
+# Mayors: No, it is different.
 Мэрс: Нет, отличается.
 
-# Original: Because someone... showered the City with the 'light'.
+# Mayors: Because someone... showered the City with the 'light'.
 Мэрс: Потому что кто-то… осыпал Город «светом».
 
-# Original: <The light...?>
+# Dante: <The light...?>
 Данте: <Светом?..>
 
-# Original: The beam of light from the White Nights and Dark Days incident. How do you—
+# Faust: The beam of light from the White Nights and Dark Days incident. How do you—
 Фауст: Луч света из инцидента Белых Ночей и Тёмных Дней. Откуда вы…
 
-# Original: Could it be...?
+# Faust: Could it be...?
 Фауст: Неужели?..
 
-# Original: Becoming a Seaborn... is to become a part of a great will called <i>We Many</i>.
+# Mayors: Becoming a Seaborn... is to become a part of a great will called <i>We Many</i>.
 Мэрс: Стать Морерождённым... значит стать частью великой воли под названием <i>Мы Многие</i>.
 
-# Original: By doing so, one can be reborn as an altruistic lifeform... but at the cost of ego, the sense of self.
+# Mayors: By doing so, one can be reborn as an altruistic lifeform... but at the cost of ego, the sense of self.
 Мэрс: Сделав это, можно переродиться в альтруистическую форму жизни... но ценой эго, чувства собственного «я».
 
-# Original: And that’s always been my issue with it.
+# Mayors: And that’s always been my issue with it.
 Мэрс: И в этом всегда и заключалась моя проблема.
 
-# Original: Everyone has beliefs of their own… dreams of their own. It feels too empty to lose all of that when they inevitably lose their sense of selves as they become Seaborns.
+# Mayors: Everyone has beliefs of their own… dreams of their own. It feels too empty to lose all of that when they inevitably lose their sense of selves as they become Seaborns.
 Мэрс: У каждого есть свои убеждения… свои мечты. Слишком пусто — терять всё это, когда они неизбежно лишаются своего «я», становясь Морерождёнными.
 
-# Original: Look, I want each ‘Seaborn’ to have their own wishes.
+# Mayors: Look, I want each ‘Seaborn’ to have their own wishes.
 Мэрс: Послушайте, я хочу, чтобы у каждого «Морерождённого» были свои собственные желания.
 
-# Original: But the light shining through the dimensional door to our world is too… faint to push them toward that evolution.
+# Mayors: But the light shining through the dimensional door to our world is too… faint to push them toward that evolution.
 Мэрс: Но свет, сияющий сквозь пространственную дверь в наш мир, слишком... слаб, чтобы подтолкнуть их к этой эволюции.
 
-# Original: If only the light of the City could become more tangible… it just might be able to give every Seaborn an identity of their own, to remain uniquely themselves.
+# Mayors: If only the light of the City could become more tangible… it just might be able to give every Seaborn an identity of their own, to remain uniquely themselves.
 Мэрс: Если бы только свет Города мог стать более осязаемым… он мог бы дать каждому Морерождённому собственную идентичность, позволить остаться уникальным.
 
-# Original: Then why is it that you advocate toward those of the City to join the Seaborns, when one could simply learn more of the light afore returning here?
+# Yi Sang: Then why is it that you advocate toward those of the City to join the Seaborns, when one could simply learn more of the light afore returning here?
 И Сан: Тогда почему вы призываете жителей Города присоединиться к Морерождённым, когда можно просто больше узнать о свете, прежде чем вернуться сюда?
 
-# Original: At first, I thought all I needed was the clue to a better evolution. But… Don Quixote’s tales of adventures changed my mind.
+# Mayors: At first, I thought all I needed was the clue to a better evolution. But… Don Quixote’s tales of adventures changed my mind.
 Мэрс: Сначала я думала, что мне нужна лишь подсказка для лучшей эволюции. Но… рассказы Дон Кихот о приключениях изменили моё мнение.
 
-# Original: Mine… adventures?
+# Don Quixote: Mine… adventures?
 Дон Кихот: Мои… приключения?
 
-# Original: You don’t understand just how precarious you all are.
+# Mayors: You don’t understand just how precarious you all are.
 Мэрс: Вы просто не понимаете, в каком шатком положении вы все находитесь.
 
-# Original: And how would you? When you were born into that kind of world from the very start?
+# Mayors: And how would you? When you were born into that kind of world from the very start?
 Мэрс: Да и откуда вам знать? Вы ведь с самого начала родились в таком мире.
 
-# Original: A place where life has become a commodity and gold one of its few religions?
+# Mayors: A place where life has become a commodity and gold one of its few religions?
 Мэрс: В месте, где жизнь стала товаром, а золото — одной из немногих религий?
 
-# Original: The City has abandoned its yesterdays to survive today, and by doing so, has given up on its tomorrows.
+# Mayors: The City has abandoned its yesterdays to survive today, and by doing so, has given up on its tomorrows.
 Мэрс: Город отказался от своего вчера, чтобы выжить сегодня, и тем самым отказался от своего завтра.
 
-# Original: Just as I needed the light, the City needs Seaborns.
+# Mayors: Just as I needed the light, the City needs Seaborns.
 Мэрс: Так же, как мне нужен был свет, Городу нужны Морерождённые.
 
-# Original: It needs their tenacious hold to life, and their absolute, unconditional selflessness.
+# Mayors: It needs their tenacious hold to life, and their absolute, unconditional selflessness.
 Мэрс: Ему нужна их цепкая хватка за жизнь и их абсолютная, безусловная самоотверженность.
 
-# Original: But at the end of the day, it still means that everyone has to turn into monsters.
+# Sinclair: But at the end of the day, it still means that everyone has to turn into monsters.
 Синклер: Но в конце концов, это всё равно значит, что все должны превратиться в чудовищ.
 
-# Original: People ostracize ‘the other’.
+# Mayors: People ostracize ‘the other’.
 Мэрс: Люди подвергают остракизму «других».
 
-# Original: Something that isn't like me, something that feels alien to me, something I don't know or understand...
+# Mayors: Something that isn't like me, something that feels alien to me, something I don't know or understand...
 Мэрс: Того, кто не похож на меня, того, кто кажется мне чуждым, того, кого я не знаю или не понимаю...
 
-# Original: So that fear is natural. Because Seaborns are... not human.
+# Mayors: So that fear is natural. Because Seaborns are... not human.
 Мэрс: Так что этот страх естественен. Потому что Морерождённые... не люди.
 
-# Original: But you just have to cross that threshold once.
+# Mayors: But you just have to cross that threshold once.
 Мэрс: Но нужно лишь раз переступить этот порог.
 
-# Original: Miss Mayors, do you believe the nature of humanity to be... evil?
+# Hong Lu: Miss Mayors, do you believe the nature of humanity to be... evil?
 Хон Лу: Госпожа Мэрс, вы считаете, что люди по природе... злы?
 
-# Original: Humans are... selfish, but that's not necessarily a bad thing. Good things can come from selfishness, that’s for sure.
+# Mayors: Humans are... selfish, but that's not necessarily a bad thing. Good things can come from selfishness, that’s for sure.
 Мэрс: Люди... эгоистичны, но это не обязательно плохо. Эгоизм, безусловно, может приводить и к хорошим вещам.
 
-# Original: But... the side effects have become simply unsustainable.
+# Mayors: But... the side effects have become simply unsustainable.
 Мэрс: Но... побочные эффекты стали просто невыносимы.
 
-# Original: Doctor, you’ve been to countless battlefields where Rhodes Island has fought tooth and nail for the rights of the Infected. But what came of it? Peace?
+# Mayors: Doctor, you’ve been to countless battlefields where Rhodes Island has fought tooth and nail for the rights of the Infected. But what came of it? Peace?
 Мэрс: Доктор, вы бывали на бесчисленных полях сражений, где Родос Айленд боролся не на жизнь, а на смерть за права Заражённых. И что из этого вышло? Мир?
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: … No. It’s the same.
+# Doctor: … No. It’s the same.
 Доктор: …Нет. Всё по-прежнему.
 
-# Original: But still… we’re all still getting better, little by little.
+# Doctor: But still… we’re all still getting better, little by little.
 Доктор: Но всё же… мы все понемногу становимся лучше.
 
-# Original: … I’m not trying to deride those small, incremental steps and call them meaningless. Change takes time, and should it continue, I believe your efforts can be a beacon of light that will lead humanity toward a brighter future.
+# Mayors: … I’m not trying to deride those small, incremental steps and call them meaningless. Change takes time, and should it continue, I believe your efforts can be a beacon of light that will lead humanity toward a brighter future.
 Мэрс: …Я не пытаюсь высмеивать эти маленькие, постепенные шаги и называть их бессмысленными. Перемены требуют времени, и если так будет продолжаться, я верю, что ваши усилия могут стать маяком света, который приведёт человечество к светлому будущему.
 
-# Original: But what about everyone who is sacrificed while you're taking your time, taking those incremental steps?
+# Mayors: But what about everyone who is sacrificed while you're taking your time, taking those incremental steps?
 Мэрс: Но как насчёт всех тех, кого приносят в жертву, пока вы не торопитесь, делая эти постепенные шаги?
 
-# Original: Every single day of that incremental change is marred by unjust deaths. Some are enslaved for no other reason than their differences. People live on in that despair that seems to have no end.
+# Mayors: Every single day of that incremental change is marred by unjust deaths. Some are enslaved for no other reason than their differences. People live on in that despair that seems to have no end.
 Мэрс: Каждый день этих постепенных изменений омрачён несправедливыми смертями. Некоторых порабощают без всякой причины, кроме их отличий. Люди продолжают жить в этом, казалось бы, бесконечном отчаянии.
 
-# Original: …….
+# Rodion: …….
 Родион: …….
 
-# Original: I agree with what the light told me.
+# Mayors: I agree with what the light told me.
 Мэрс: Я согласна с тем, что сказал мне свет.
 
-# Original: People are diseased. They're so sick that, even in the far-flung future, even on the day the world ends, they will continue to fail to look forward, obsessed with scrutinizing each other in search of those differences.
+# Mayors: People are diseased. They're so sick that, even in the far-flung future, even on the day the world ends, they will continue to fail to look forward, obsessed with scrutinizing each other in search of those differences.
 Мэрс: Люди больны. Они настолько больны, что даже в далёком будущем, даже в день конца света, они так и не смогут смотреть вперёд, одержимые выискиванием различий друг в друге.
 
-# Original: Even when every Ægir returns to sea, they’re still going to bully and hate anyone with pointed ears, labeling them Ægirs.
+# Mayors: Even when every Ægir returns to sea, they’re still going to bully and hate anyone with pointed ears, labeling them Ægirs.
 Мэрс: Даже когда все Эгиры вернутся в море, они всё равно будут издеваться и ненавидеть всех с заострёнными ушами, называя их Эгир.
 
-# Original: Even when Oripathy is truly eradicated, people are still going to suspect and persecute someone as the Infected.
+# Mayors: Even when Oripathy is truly eradicated, people are still going to suspect and persecute someone as the Infected.
 Мэрс: Даже когда Орипатия будет действительно искоренена, люди всё равно будут подозревать и преследовать кого-то как Заражённого.
 
-# Original: People are imperfect beings.
+# Mayors: People are imperfect beings.
 Мэрс: Люди — несовершенные существа.
 
-# Original: You’re right. There probably isn’t anyone out there who can… really sacrifice themselves for the sake of others with nothing but perfect selflessness.
+# Mayors: You’re right. There probably isn’t anyone out there who can… really sacrifice themselves for the sake of others with nothing but perfect selflessness.
 Мэрс: Вы правы. Вероятно, нет никого, кто мог бы… по-настоящему пожертвовать собой ради других с одной лишь совершенной самоотверженностью.
 
-# Original: But not when it comes to Seaborns.
+# Mayors: But not when it comes to Seaborns.
 Мэрс: Но не Морерождённые.
 
-# Original: They don't suffer from all this absurdity, nor are they coerced to sacrifice against their will. They have the power to progress toward a better future built from mutual understanding.
+# Mayors: They don't suffer from all this absurdity, nor are they coerced to sacrifice against their will. They have the power to progress toward a better future built from mutual understanding.
 Мэрс: Они не страдают от всей этой абсурдности и их не принуждают к жертве против их воли. У них есть сила двигаться к лучшему будущему, построенному на взаимопонимании.
 
-# Original: Because they're the kind of lifeform that seeks common ground instead of scrutinizing for differences.
+# Mayors: Because they're the kind of lifeform that seeks common ground instead of scrutinizing for differences.
 Мэрс: Потому что они — та форма жизни, что ищет общие черты, а не выискивает различия.
 
-# Original: The bells...
+# Hong Lu: The bells...
 Хон Лу: Колокол...
 
-# Original: A strange-shaped form shimmers and materializes before Mayors.
+# Narrator: A strange-shaped form shimmers and materializes before Mayors.
 Рассказчик: Перед Мэрс мерцает и материализуется объект странной формы.
 
-# Original: I couldn't quite tell what it was, but it was round, and it looked like... a 'tool'.
+# Narrator: I couldn't quite tell what it was, but it was round, and it looked like... a 'tool'.
 Рассказчик: Я не мог точно сказать, что это было, но оно было круглым и походило на... «инструмент».
 
-# Original: ... It is possible that she had already met the conditions to effloresce.
+# Faust: ... It is possible that she had already met the conditions to effloresce.
 Фауст: ...Возможно, она уже выполнила условия для того, чтобы её ЭГО могло расцвести.
 
-# Original: A possible explanation would be the absence of the particular 'pull' required to draw it out of her—or the insufficiency of it.
+# Faust: A possible explanation would be the absence of the particular 'pull' required to draw it out of her—or the insufficiency of it.
 Фауст: Возможным объяснением было бы отсутствие особого «импульса», необходимого для его извлечения, или же его недостаточность.
 
-# Original: This isn't anything like... the Arts. What... what is happening in front of Miss Mayors...?
+# Amiya: This isn't anything like... the Arts. What... what is happening in front of Miss Mayors...?
 Амия: Это совсем не похоже на... Искусства. Что... что происходит перед госпожой Мэрс?..
 
-# Original: ... Is our proximity to the dimensional door increasing the potency of influences coming over from "The City"?
+# Doctor: ... Is our proximity to the dimensional door increasing the potency of influences coming over from "The City"?
 Доктор: ...Наша близость к пространственной двери усиливает влияние, идущее из «Города»?
 
-# Original: ... Precisely.
+# Faust: ... Precisely.
 Фауст: ...Именно.
 
-# Original: The connection to Faust returning to... normal levels seems to indicate that.
+# Faust: The connection to Faust returning to... normal levels seems to indicate that.
 Фауст: Восстановление связи с Фауст до... нормального уровня, по-видимому, указывает на это.
 
-# Original: <W-wait, can people in other worlds—I mean, Mayors... also manifest E.G.O?>
+# Dante: <W-wait, can people in other worlds—I mean, Mayors... also manifest E.G.O?>
 Данте: <П-погоди, люди в других мирах… то есть, Мэрс… тоже может проявить ЭГО?>
 
-# Original: Internal conflict and anguish is a commonality among every intelligent entity, regardless of whether they are from the City or not, therefore... Yes, Faust is quite positive on this possibility as well.
+# Faust: Internal conflict and anguish is a commonality among every intelligent entity, regardless of whether they are from the City or not, therefore... Yes, Faust is quite positive on this possibility as well.
 Фауст: Внутренний конфликт и душевные муки — это общее для всех разумных существ, независимо от того, из Города они или нет, поэтому... Да, Фауст весьма уверена в этой возможности.
 
-# Original: ... However.
+# Faust: ... However.
 Фауст: ...Однако.
 
-# Original: What? What… what does that mean…?
+# Mayors: What? What… what does that mean…?
 Мэрс: Что? Что… что это значит?..
 
-# Original: ... The potential to effloresce an E.G.O...
+# Faust: ... The potential to effloresce an E.G.O...
 Фауст: ...Потенциал к тому, чтобы ЭГО могло расцвести...
 
-# Original: ... implies the potential to Distort as well.
+# Faust: ... implies the potential to Distort as well.
 Фауст: ...подразумевает и потенциал к Искажению.
 
-# Original: <color=#dc3531>You've been dreaming for a long time, Mayors. Drawing your own picture of an idealized world.</color>
+# Narrator: <color=#dc3531>You've been dreaming for a long time, Mayors. Drawing your own picture of an idealized world.</color>
 Рассказчик: <color=#dc3531>Ты долго мечтала, Мэрс. Рисовала свою собственную картину идеализированного мира.</color>
 
-# Original: <color=#dc3531>And you have chosen the ocean as the means to building a path toward that vision.</color>
+# Narrator: <color=#dc3531>And you have chosen the ocean as the means to building a path toward that vision.</color>
 Рассказчик: <color=#dc3531>И ты выбрала океан как средство, что позволит проложить путь к этому видению.</color>
 
-# Original: <color=#dc3531>Yet... why have you failed to take the leap of faith yourself?</color>
+# Narrator: <color=#dc3531>Yet... why have you failed to take the leap of faith yourself?</color>
 Рассказчик: <color=#dc3531>И всё же... почему ты сама не совершила этот прыжок веры?</color>
 
-# Original: ... I had to make preparations.
+# Mayors: ... I had to make preparations.
 Мэрс: ...Мне нужно было подготовиться.
 
-# Original: Seaborns are beautiful, there’s no doubt about it. It's just that… a key piece was missing to really achieve what I want.
+# Mayors: Seaborns are beautiful, there’s no doubt about it. It's just that… a key piece was missing to really achieve what I want.
 Мэрс: Морерождённые прекрасны, в этом нет сомнений. Просто... не хватало ключевой детали, чтобы действительно достичь того, чего я хочу.
 
-# Original: <color=#dc3531>You're not being honest with yourself.</color>
+# Narrator: <color=#dc3531>You're not being honest with yourself.</color>
 Рассказчик: <color=#dc3531>Ты нечестна с собой.</color>
 
-# Original: <color=#dc3531>I know it very well that you were afraid of becoming one of them.</color>
+# Narrator: <color=#dc3531>I know it very well that you were afraid of becoming one of them.</color>
 Рассказчик: <color=#dc3531>Я прекрасно знаю, что ты боялась стать одной из них.</color>
 
-# Original: <color=#dc3531>The fear that your own creed might crumble, that you might lose your own sense of self, your ego.</color>
+# Narrator: <color=#dc3531>The fear that your own creed might crumble, that you might lose your own sense of self, your ego.</color>
 Рассказчик: <color=#dc3531>Страх, что твоё собственное кредо может рухнуть, что ты можешь потерять своё «я», своё эго.</color>
 
-# Original: <color=#dc3531>The fear that you might end up becoming nothing more than just another thing swept up by the ineffably overwhelming will.</color>
+# Narrator: <color=#dc3531>The fear that you might end up becoming nothing more than just another thing swept up by the ineffably overwhelming will.</color>
 Рассказчик: <color=#dc3531>Страх, что ты можешь в итоге стать не более чем ещё одной вещью, унесённой невыразимо всепоглощающей волей.</color>
 
-# Original: ... Isn’t it terrifying? That this hope can just… disappear in a blink?
+# Mayors: ... Isn’t it terrifying? That this hope can just… disappear in a blink?
 Мэрс: ...Разве это не ужасно? Что эта надежда может просто… исчезнуть в мгновение ока?
 
-# Original: Who is she talking to?
+# Amiya: Who is she talking to?
 Амия: С кем она говорит?
 
-# Original: ... Is this something Limbus Company has experience with? If so, I'd appreciate an explanation.
+# Doctor: ... Is this something Limbus Company has experience with? If so, I'd appreciate an explanation.
 Доктор: ...С этим у Компании Лимбус есть опыт? Если да, я был бы признателен за объяснение.
 
-# Original: …….
+# Heathcliff: …….
 Хитклиф: …….
 
-# Original: ... She's hearing that voice.
+# Heathcliff: ... She's hearing that voice.
 Хитклиф: ...Она слышит тот голос.
 
-# Original: When that singular faith that one had absolute confidence in... breaks in one fell swoop, and their ironclad will is shattered...
+# Faust: When that singular faith that one had absolute confidence in... breaks in one fell swoop, and their ironclad will is shattered...
 Фауст: Когда та единственная вещь, в которой человек был абсолютно уверен... рушится в один миг, и его железная воля разбивается вдребезги...
 
-# Original: ... people of the City have the potential to Distort into a monstrous form at any time.
+# Faust: ... people of the City have the potential to Distort into a monstrous form at any time.
 Фауст: ...люди Города могут в любой момент Исказиться в чудовищную форму.
 
-# Original: It is said that these phenomena are... often accompanied by the Distorting individual hearing a disembodied voice.
+# Faust: It is said that these phenomena are... often accompanied by the Distorting individual hearing a disembodied voice.
 Фауст: Говорят, что эти явления... часто сопровождаются тем, что Искажающийся слышит бесплотный голос.
 
-# Original: Indeed, those who Distort would oft behave as though they were engaged in a conversation. Of course, the same could be said for those who awaken E.G.O...
+# Yi Sang: Indeed, those who Distort would oft behave as though they were engaged in a conversation. Of course, the same could be said for those who awaken E.G.O...
 И Сан: Воистину, те, кто Искажаются, часто ведут себя так, будто ведут беседу. Конечно, то же самое можно сказать и о тех, кто пробуждает ЭГО...
 
-# Original: ... At first, I thought it was Cathy. But it wasn't her.
+# Heathcliff: ... At first, I thought it was Cathy. But it wasn't her.
 Хитклиф: ...Сначала я думал, что это Кэти. Но это была не она.
 
-# Original: The voice was beautiful, comforting, and even... cosy. The kind of voice that puts all deep contemplation to sleep, so calm and... so warm...
+# Heathcliff: The voice was beautiful, comforting, and even... cosy. The kind of voice that puts all deep contemplation to sleep, so calm and... so warm...
 Хитклиф: Голос был прекрасным, успокаивающим и даже... уютным. Такой голос, что усыпляет все глубокие размышления, такой спокойный и... такой тёплый...
 
-# Original: …….
+# Meursault: …….
 Мерсо: …….
 
-# Original: It—no. There is more to the sunshine than its warmth.
+# Meursault: It—no. There is more to the sunshine than its warmth.
 Мерсо: Оно... нет. В свете солнца есть нечто большее, чем просто тепло.
 
-# Original: <The sunshine...?>
+# Dante: <The sunshine...?>
 Данте: <Свет солнца?..>
 
-# Original: <color=#dc3531>You don't share your interest with the other devotees—"survival" isn't what you care about.</color>
+# Narrator: <color=#dc3531>You don't share your interest with the other devotees—"survival" isn't what you care about.</color>
 Рассказчик: <color=#dc3531>Ты не разделяешь интересы других последователей — «выживание» — это не то, что тебя волнует.</color>
 
-# Original: <color=#dc3531>What you really care about is giving everyone a chance to experience what it feels like to live in a world of warmth... ephemeral it may be.</color>
+# Narrator: <color=#dc3531>What you really care about is giving everyone a chance to experience what it feels like to live in a world of warmth... ephemeral it may be.</color>
 Рассказчик: <color=#dc3531>Что тебя действительно волнует, так это дать каждому шанс испытать, каково это — жить в мире тепла... пусть и эфемерного.</color>
 
-# Original: Right, we have to be about more than just prolonging our existences.
+# Mayors: Right, we have to be about more than just prolonging our existences.
 Мэрс: Верно, мы должны быть чем-то большим, чем просто продлением своего существования.
 
-# Original: What really matters isn't survival... it's what we leave behind for posterity, our legacy.
+# Mayors: What really matters isn't survival... it's what we leave behind for posterity, our legacy.
 Мэрс: Что действительно важно — это не выживание... а то, что мы оставим после себя потомкам, наше наследие.
 
-# Original: As long as there’s a guarantee that the light can indeed protect the sense of self… it’ll be more than enough to convince people to become Seaborns.
+# Mayors: As long as there’s a guarantee that the light can indeed protect the sense of self… it’ll be more than enough to convince people to become Seaborns.
 Мэрс: Пока есть гарантия, что свет действительно может защитить чувство «я»… этого будет более чем достаточно, чтобы убедить людей стать Морерождёнными.
 
-# Original: <color=#dc3531>Please, you don’t have to concern yourself with what other people might think, Mayors.</color>
+# Narrator: <color=#dc3531>Please, you don’t have to concern yourself with what other people might think, Mayors.</color>
 Рассказчик: <color=#dc3531>Прошу, тебе не нужно беспокоиться о том, что могут подумать другие, Мэрс.</color>
 
-# Original: … But everyone has their own wishes.
+# Mayors: … But everyone has their own wishes.
 Мэрс: …Но у каждого свои желания.
 
-# Original: I can’t just bulldoze over theirs to force mine upon them.
+# Mayors: I can’t just bulldoze over theirs to force mine upon them.
 Мэрс: Я не могу просто идти по головам, навязывая им своё.
 
-# Original: <color=#dc3531>But that’s not what you really believe, is it? You know that better than anyone.</color>
+# Narrator: <color=#dc3531>But that’s not what you really believe, is it? You know that better than anyone.</color>
 Рассказчик: <color=#dc3531>Но это не то, во что ты на самом деле веришь, не так ли? Ты знаешь это лучше, чем кто-либо.</color>
 
-# Original: <color=#dc3531>While you hesitate, countless people who are bound to the inescapable bridle will continue to suffer.</color>
+# Narrator: <color=#dc3531>While you hesitate, countless people who are bound to the inescapable bridle will continue to suffer.</color>
 Рассказчик: <color=#dc3531>Пока ты колеблешься, бесчисленное множество людей, связанных неминуемым бременем, будут продолжать страдать.</color>
 
-# Original: …….
+# Mayors: …….
 Мэрс: …….
 
-# Original: That-that might be true, but…
+# Mayors: That-that might be true, but…
 Мэрс: Э-это может быть и правда, но…
 
-# Original: <color=#dc3531>It's okay. You don’t have to hide the shape of your heart, its colors.</color>
+# Narrator: <color=#dc3531>It's okay. You don’t have to hide the shape of your heart, its colors.</color>
 Рассказчик: <color=#dc3531>Всё в порядке. Тебе не нужно скрывать форму твоего сердца, его цвета.</color>
 
-# Original: <color=#dc3531>The only thing you have to concern yourself with is… how you can lead the people of the City… and then Terra.</color>
+# Narrator: <color=#dc3531>The only thing you have to concern yourself with is… how you can lead the people of the City… and then Terra.</color>
 Рассказчик: <color=#dc3531>Единственное, о чём тебе нужно беспокоиться, это… как ты поведёшь за собой людей Города… а затем и Терры.</color>
 
-# Original: Okay, we can't just sit here and let this happen. Operators, to positions—
+# Doctor: Okay, we can't just sit here and let this happen. Operators, to positions—
 Доктор: Так, мы не можем просто сидеть и позволять этому происходить. Оперативники, по позициям!
 
-# Original: Operators unable to approach! She's surrounded by a strange field, Doctor!
+# Amiya: Operators unable to approach! She's surrounded by a strange field, Doctor!
 Амия: Оперативники не могут подойти! Её окружает странное поле, Доктор!
 
-# Original: Whenever someone would Distort due to reasons other than the Monolith... a strange pressure would prevent our approach, as though to stop us from interfering.
+# Narrator: Whenever someone would Distort due to reasons other than the Monolith... a strange pressure would prevent our approach, as though to stop us from interfering.
 Рассказчик: Всякий раз, когда кто-то Искажался по причинам, отличным от Монолита... странное давление мешало нам приблизиться, словно чтобы остановить наше вмешательство.
 
-# Original: Looks like that applies here, too. All the way over in another world...
+# Narrator: Looks like that applies here, too. All the way over in another world...
 Рассказчик: Похоже, это применимо и здесь. Даже в другом мире...
 
-# Original: <color=#dc3531>Love is our collective destination, after all…</color>
+# Narrator: <color=#dc3531>Love is our collective destination, after all…</color>
 Рассказчик: <color=#dc3531>В конце концов, любовь — наша общая цель…</color>
 
-# Original: <color=#dc3531>So please, let go of this tool that might break your heart.</color>
+# Narrator: <color=#dc3531>So please, let go of this tool that might break your heart.</color>
 Рассказчик: <color=#dc3531>Так что, пожалуйста, отпусти этот инструмент, который может разбить твоё сердце.</color>
 
-# Original: <color=#dc3531>Don’t force yourself to walk the path of thorns. Your pilgrimage needn't be that of suffering.</color>
+# Narrator: <color=#dc3531>Don’t force yourself to walk the path of thorns. Your pilgrimage needn't be that of suffering.</color>
 Рассказчик: <color=#dc3531>Не заставляй себя идти по тернистому пути. Твоё паломничество не обязано быть паломничеством страданий.</color>
 
-# Original: No, I… I…
+# Mayors: No, I… I…
 Мэрс: Нет, я… я…
 
-# Original: <color=#dc3531>You don’t believe in any recourse, do you? Other than this, anyway.</color>
+# Narrator: <color=#dc3531>You don’t believe in any recourse, do you? Other than this, anyway.</color>
 Рассказчик: <color=#dc3531>Ты ведь не веришь в другие средства, не так ли? Кроме этого, во всяком случае.</color>
 
-# Original: …!
+# Mayors: …!
 Мэрс: …!
 
-# Original: <color=#dc3531>Don’t you think we should find a better, faster path with less suffering?</color>
+# Narrator: <color=#dc3531>Don’t you think we should find a better, faster path with less suffering?</color>
 # <color=#dc3531>Before more people inevitably hurt each other with their ill-intent?</color>
 Рассказчик: <color=#dc3531>Тебе не кажется, что нам следует найти лучший, более быстрый путь, с меньшим количеством страданий?</color>
 <color=#dc3531>Прежде чем ещё больше людей неизбежно причинят друг другу боль своими злыми намерениями?</color>
 
-# Original: You’re… you’re right.
+# Mayors: You’re… you’re right.
 Мэрс: Ты… ты права.
 
-# Original: If there is no recourse… it has to happen faster. I can’t waste any more time while people suffer.
+# Mayors: If there is no recourse… it has to happen faster. I can’t waste any more time while people suffer.
 Мэрс: Если другого выхода нет… это должно произойти быстрее. Я не могу больше терять время, пока люди страдают.
 
-# Original: <color=#dc3531>Follow your wishes, follow your desires…</color>
+# Narrator: <color=#dc3531>Follow your wishes, follow your desires…</color>
 Рассказчик: <color=#dc3531>Следуй своим желаниям, следуй своим стремлениям…</color>
 
-# Original: <color=#dc3531>... and paint. Let's show them the painting of your world reflected in your eyes.</color>
+# Narrator: <color=#dc3531>... and paint. Let's show them the painting of your world reflected in your eyes.</color>
 Рассказчик: <color=#dc3531>...и рисуй. Давай покажем им картину твоего мира, отражённую в твоих глазах.</color>
 
-# Original: Before the compassion they believe in… becomes completely worthless.
+# Mayors: Before the compassion they believe in… becomes completely worthless.
 Мэрс: Прежде чем сострадание, в которое они верят… станет совершенно бесполезным.
 
-# Original: …….
+# Mayors, the Yearning Flotsam: …….
 Мэрс: …….
 
-# Original: <... I understand the shape of your heart, and what makes you want to enter the City. >
+# Dante: <... I understand the shape of your heart, and what makes you want to enter the City. >
 Данте: <...Я понимаю форму твоего сердца и то, что заставляет тебя хотеть войти в Город. >
 
-# Original: <But we still know so little about the Seaborns, about Terra, about Iberia.>
+# Dante: <But we still know so little about the Seaborns, about Terra, about Iberia.>
 Данте: <Но мы всё ещё так мало знаем о Морерождённых, о Терре, об Иберии.>
 
-# Original: <Whatever may have lit the fire under your feet...>
+# Dante: <Whatever may have lit the fire under your feet...>
 Данте: <Что бы ни зажгло огонь под твоими ногами...>
 
-# Original: <... I can't bring you with us to the City as you are now.>
+# Dante: <... I can't bring you with us to the City as you are now.>
 Данте: <...Я не могу взять тебя с нами в Город в таком состоянии.>
 
-# Original: Even before the Sinners had the chance to translate my words, Mayors slowly turned in my direction as though she clearly understood my words.
+# Narrator: Even before the Sinners had the chance to translate my words, Mayors slowly turned in my direction as though she clearly understood my words.
 Рассказчик: Ещё до того, как Грешники успели перевести мои слова, Мэрс медленно повернулась в мою сторону, как будто ясно поняла, что я сказал.
 
-# Original: But I must, Dante.
+# Mayors, the Yearning Flotsam: But I must, Dante.
 Мэрс: Но я должна, Данте.
 
-# Original: Your adventures were full of exhilarating tales, and I saw kindness in the every word and action of you and your friends, but...
+# Mayors, the Yearning Flotsam: Your adventures were full of exhilarating tales, and I saw kindness in the every word and action of you and your friends, but...
 Мэрс: Твои приключения были полны захватывающих историй, и я видела доброту в каждом слове и действии тебя и твоих друзей, но...
 
-# Original: That's not enough.
+# Mayors, the Yearning Flotsam: That's not enough.
 Мэрс: Этого недостаточно.
 
-# Original: You don't think they'll... change?
+# Amiya: You don't think they'll... change?
 Амия: Вы не думаете, что они... изменятся?
 
-# Original: No, they will.
+# Mayors, the Yearning Flotsam: No, they will.
 Мэрс: Нет, изменятся.
 
-# Original: In the far, far future.
+# Mayors, the Yearning Flotsam: In the far, far future.
 Мэрс: В далёком, далёком будущем.
 
-# Original: An incandescent brilliance burst forth from before Mayors.
+# Narrator: An incandescent brilliance burst forth from before Mayors.
 Рассказчик: Перед Мэрс вспыхнуло ослепительное сияние.
 
-# Original: Past that light, I saw the ocean.
+# Narrator: Past that light, I saw the ocean.
 Рассказчик: За этим светом я увидел океан.
 
-# Original: The calm sound of gently lapping, crashing waves; the immense, golden brilliance.
+# Narrator: The calm sound of gently lapping, crashing waves; the immense, golden brilliance.
 Рассказчик: Спокойный звук мягко плещущихся, разбивающихся волн; необъятное золотое сияние.
 
-# Original: A portal...? Where did it come from?
+# Doctor: A portal...? Where did it come from?
 Доктор: Портал?.. Откуда он взялся?
 
-# Original: <... Dungeon of the Fathoms.>
+# Dante: <... Dungeon of the Fathoms.>
 Данте: <...Подземелье Глубин.>
 
-# Original: ... A gate that leads into one's heart.
+# Kal'tsit: ... A gate that leads into one's heart.
 Кальцит: ...Врата, что ведут в чьё-то сердце.
 
-# Original: This periphery... is where LCB department's speciality begins.
+# Faust: This periphery... is where LCB department's speciality begins.
 Фауст: Эта периферия... здесь начинается специализация отдела LCB.
 
-# Original: ... While what lies beyond this periphery does not necessarily warrant Rhodes Island's presence...
+# Faust: ... While what lies beyond this periphery does not necessarily warrant Rhodes Island's presence...
 Фауст: ...И хотя то, что лежит за этой периферией, не обязательно требует присутствия Родос Айленд...
 
-# Original: <Can you guys help? I don't know what kind of fathoms I'm walking into, but... I have a feeling that we're going to need your assistance.>
+# Dante: <Can you guys help? I don't know what kind of fathoms I'm walking into, but... I have a feeling that we're going to need your assistance.>
 Данте: <Вы, ребята, можете помочь? Я не знаю, в какие глубины я иду, но... у меня такое чувство, что нам понадобится ваша помощь.>
 
-# Original: Doctor. Dr. Kal'tsit.
+# Amiya: Doctor. Dr. Kal'tsit.
 Амия: Доктор. Доктор Кальцит.
 
-# Original: ... We're only here to investigate the dimensional door, but... I don't want us to turn our backs on people we can help.
+# Doctor: ... We're only here to investigate the dimensional door, but... I don't want us to turn our backs on people we can help.
 Доктор: ...Мы здесь только для расследования пространственной двери, но... я не хочу, чтобы мы отворачивались от тех, кому можем помочь.
 
-# Original: Rhodes Island... accepts Limbus Company's cooperation request.
+# Amiya: Rhodes Island... accepts Limbus Company's cooperation request.
 Амия: Родос Айленд... принимает запрос Компании Лимбус о сотрудничестве.
 
-# Original: I'll go, too.
+# Irene: I'll go, too.
 Айрен: Я тоже пойду.
 
-# Original: You're still in Iberia. I can't let Iberian business be handled solely by outsiders, let alone an incident connected to the Church of the Deep.
+# Irene: You're still in Iberia. I can't let Iberian business be handled solely by outsiders, let alone an incident connected to the Church of the Deep.
 Айрен: Вы всё ещё в Иберии. Я не могу позволить, чтобы делами Иберии занимались исключительно посторонние, не говоря уже об инциденте, связанном с Церковью Глубин.
 
-# Original: Don't worry, it's not like this is the first time we're letting someone not in our group into a Dungeon of the Fathoms. We'll be fine.
+# Ishmael: Don't worry, it's not like this is the first time we're letting someone not in our group into a Dungeon of the Fathoms. We'll be fine.
 Измаил: Не волнуйтесь, мы не в первый раз пускаем кого-то не из нашей группы в Подземелье Глубин. Всё будет в порядке.
 
-# Original: ... More Sea Terrors.
+# Kal'tsit: ... More Sea Terrors.
 Кальцит: ...Ещё Морские Ужасы.
 
-# Original: Given the circumstances, it seems very likely that Sea Terrors that were swarming the lighthouse are coming this way as well. I'll call Skadi here.
+# Kal'tsit: Given the circumstances, it seems very likely that Sea Terrors that were swarming the lighthouse are coming this way as well. I'll call Skadi here.
 Кальцит: Учитывая обстоятельства, весьма вероятно, что Морские Ужасы, роившиеся у маяка, направляются и сюда. Я позову Скади.
 
-# Original: You'll be staying behind, then?
+# Doctor: You'll be staying behind, then?
 Доктор: Значит, вы остаётесь?
 
-# Original: Amiya will go with you, Doctor.
+# Kal'tsit: Amiya will go with you, Doctor.
 Кальцит: Амия пойдёт с вами, Доктор.
 
-# Original: Following Mayors, who had already disappeared into the portal...
+# Narrator: Following Mayors, who had already disappeared into the portal...
 Рассказчик: Вслед за Мэрс, которая уже исчезла в портале...
 
-# Original: ... we take our steps into the utopian world beyond.
+# Narrator: ... we take our steps into the utopian world beyond.
 Рассказчик: ...мы делаем шаг в утопический мир за ним.

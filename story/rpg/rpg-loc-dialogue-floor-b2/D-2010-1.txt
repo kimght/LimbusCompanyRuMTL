@@ -1,107 +1,107 @@
-﻿# Original: Back already? Hey, I've got to give it to you—you burst those tears better than I expected.
+﻿# Palette: Back already? Hey, I've got to give it to you—you burst those tears better than I expected.
 Палетт: Уже вернулись? Слушайте, отдаю вам должное — эти слёзы вы лопали лучше, чем я ожидала.
 
-# Original: Putty, bring me the batch we made earlier.
+# Palette: Putty, bring me the batch we made earlier.
 Палетт: Патти, принеси ту партию, что мы раньше приготовили.
 
-# Original: .......
+# Putty: …….
 Патти: .......
 
-# Original: Here. Take it.
+# Palette: Here. Take it.
 Палетт: Вот. Берите.
 
-# Original: The old dye you asked for.
+# Palette: The old dye you asked for.
 Палетт: Тот старый краситель, который вы просили.
 
-# Original: .......
+# Outis: …….
 Отис: .......
 
-# Original: ... Is this some kind of joke?
+# Outis: ... Is this some kind of joke?
 Отис: ... Это какая-то шутка?
 
-# Original: What? You asked for L'Incolore. You're looking at it.
+# Palette: What? You asked for L'Incolore. You're looking at it.
 Палетт: Что? Вы просили Л’Энколор. Вот он перед вами.
 
-# Original: But there's—
+# Outis: But there's—
 Отис: Но здесь же—
 
-# Original: Can't see it, can you? Maybe your memories have picked up too much stain, or maybe your heart's pilled beyond recognition.
+# Palette: Can't see it, can you? Maybe your memories have picked up too much stain, or maybe your heart's pilled beyond recognition.
 Палетт: Не видите? Может, в ваших воспоминаниях слишком много темных пятен, а может, ваше сердце покрылось катышками, что его былую форму невозможно узнать.
 
-# Original: ... *sigh* I see what's happening here. Executive Manager, what color does this dye appear to you?
+# Outis: ... *sigh* I see what's happening here. Executive Manager, what color does this dye appear to you?
 Отис: ... *вздох* Кажется, я понимаю, в чём дело. Исполнительный Менеджер, какого цвета этот краситель в ваших глазах?
 
-# Original: <It... just looks like a bucket of transparent liquid to me, too.>
+# Dante: <It... just looks like a bucket of transparent liquid to me, too.>
 Данте: <Мне... тоже кажется, что это просто ведро прозрачной жидкости.>
 
-# Original: Don't give me that look. It was a joke. A joke, I swear. Did you really think there's such a thing as a color only the pure of heart can see?
+# Palette: Don't give me that look. It was a joke. A joke, I swear. Did you really think there's such a thing as a color only the pure of heart can see?
 Палетт: Не смотрите на меня так. Я пошутила. Пошутила, честное слово. Вы правда поверили, что бывает цвет, который видят только чистые сердцем?
 
-# Original: <... What?>
+# Dante: <... What?>
 Данте: <... Что?>
 
-# Original: Even if it were real, the world wouldn't be any different.
+# Palette: Even if it were real, the world wouldn't be any different.
 Палетт: Даже если бы он существовал, мир бы от этого не изменился.
 
-# Original: Colors are painted to be seen, you know? By other people. And purity of heart? Innocence? Doesn't take long for those kinda things to go <i>poof</i> once those same people are birthed into this world.
+# Palette: Colors are painted to be seen, you know? By other people. And purity of heart? Innocence? Doesn't take long for those kinda things to go <i>poof</i> once those same people are birthed into this world.
 Палетт: Краски ведь для того и наносят, чтобы их видели, понимаете? Другие люди. А чистота сердца? Невинность? Стоит этим самым людям родиться на свет, как всё такое очень быстро — <i>пшик</i> — и исчезает.
 
-# Original: And we end up with yet another world where no one can see its color. It's meaningless by definition.
+# Palette: And we end up with yet another world where no one can see its color. It's meaningless by definition.
 Палетт: И мы снова получаем мир, в котором никто не видит этого цвета. Он по определению лишён смысла.
 
-# Original: So it is.
+# Outis: So it is.
 Отис: Так и есть.
 
-# Original: It's just a colorless <i>something</i>. You can't really dye anything with it.
+# Palette: It's just a colorless <i>something</i>. You can't really dye anything with it.
 Палетт: Это просто бесцветное <i>нечто</i>. Толком ничего им не покрасишь.
 
-# Original: Mind you, though, I didn't just scoop up a bucket of whatever and call it a day. Producing it is one hell of a process.
+# Palette: Mind you, though, I didn't just scoop up a bucket of whatever and call it a day. Producing it is one hell of a process.
 Палетт: Но учтите: я не просто зачерпнула ведро чего попало чтобы впарить вам. Изготовить его — та ещё морока.
 
-# Original: S.L.O.P.
+# Ryōshū: S.L.O.P.
 Рёшу: М.А.З.Н.Я.
 
-# Original: What do you mean, "slop?!" Do you have any idea how much work went into that dye?!
+# Palette: What do you mean, "slop?!" Do you have any idea how much work went into that dye?!
 Палетт: В смысле «мазня»?! Ты хоть представляешь, сколько труда ушло на этот краситель?!
 
-# Original: I'm saying it's not water-based.
+# Ryōshū: I'm saying it's not water-based.
 Рёшу: Я говорю, он не на водной основе.
 
-# Original: "Seems Like Oil Pigment." Judging by the viscosity and the weight.
+# Ryōshū: "Seems Like Oil Pigment." Judging by the viscosity and the weight.
 Рёшу: «Масляная. А значит, неводная. Ясно». Судя по вязкости и весу.
 
-# Original: ... R-right...
+# Palette: ... R-right...
 Палетт: ... А-а, ну да...
 
-# Original: ... It doesn't even leave any stains.
+# Ryōshū: ... It doesn't even leave any stains.
 Рёшу: ... Даже пятен не оставляет.
 
-# Original: Of course not. It <i>is</i> transparent.
+# Palette: Of course not. It <i>is</i> transparent.
 Палетт: Конечно нет. Он же <i>прозрачный</i>.
 
-# Original: Nodding along, Ryōshū picked up the bucket of dye Palette had placed before her and marched straight toward the door.
+# Narrator: Nodding along, Ryōshū picked up the bucket of dye Palette had placed before her and marched straight toward the door.
 Рассказчик: Кивнув, Рёшу подхватила ведро с красителем, которое Палетт поставила перед ней, и направилась прямиком к двери.
 
-# Original: Where do you think you're going?
+# Outis: Where do you think you're going?
 Отис: И куда это ты собралась?
 
-# Original: W.T.T.A. We have what we came for. No reason to be loitering around.
+# Ryōshū: W.T.T.A. We have what we came for. No reason to be loitering around.
 Рёшу: С.В. За чем пришли — получили. Нечего тут торчать.
 
-# Original: "Weird thing to ask," Manager.
+# Meursault: "Weird thing to ask," Manager.
 Мерсо: «Странный вопрос», Менеджер.
 
-# Original: <... Are we sure this is the dye Naked wanted?>
+# Dante: <... Are we sure this is the dye Naked wanted?>
 Данте: <... Мы уверены, что Нагой хотел именно этот краситель?>
 
-# Original: Ask him yourself, Clock.
+# Ryōshū: Ask him yourself, Clock.
 Рёшу: Сам у него спроси, Часы.
 
-# Original: Though I prefer this one. Cleaner. More elegant than G.D.
+# Ryōshū: Though I prefer this one. Cleaner. More elegant than G.D.
 Рёшу: Хотя этот мне больше по душе. Чище. Изысканнее, чем З.К.
 
-# Original: Araya's scabbard swayed from side to side, evidently disagreeing. Still, Ryōshū was right about one thing—we would not know until we asked Naked himself.
+# Narrator: Araya's scabbard swayed from side to side, evidently disagreeing. Still, Ryōshū was right about one thing—we would not know until we asked Naked himself. 
 Рассказчик: Арая покачивалась из стороны в сторону, явно выражая несогласие. И всё же в одном Рёшу была права: пока мы не спросим самого Нагого, ничего не узнаем.
 
-# Original: <... All right. Let's take it to Naked and see how things turn out.>
+# Dante: <... All right. Let's take it to Naked and see how things turn out.>
 Данте: <... Ладно. Отнесём его Нагому и посмотрим, что выйдет.>

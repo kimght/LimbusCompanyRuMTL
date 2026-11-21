@@ -1,101 +1,101 @@
-﻿# Original: Ah... You've returned. We've been waiting for you.
+﻿# Flannel: Ah... You've returned. We've been waiting for you.
 Фланель: Ах... Вы вернулись. Мы вас ждали.
 
-# Original: Did you relay our message to the Noirs on the fourth floor?
+# Flannel: Did you relay our message to the Noirs on the fourth floor?
 Фланель: Вы передали наше послание Нуарам на четвёртом этаже?
 
-# Original: We did.
+# Meursault: We did.
 Мерсо: Передали.
 
-# Original: Much appreciated... Did they have anything to say about it?
+# Felt: Much appreciated... Did they have anything to say about it?
 Фетр: Премного благодарны... Они что-нибудь ответили?
 
-# Original: The Noirs on the fourth floor wanted us to deliver this to you.
+# Meursault: The Noirs on the fourth floor wanted us to deliver this to you.
 Мерсо: Нуары с четвёртого этажа просили передать вам это.
 
-# Original: Along with the note, we relayed what we learned from the fourth floor as the two Noirs listened anxiously.
+# Narrator: Along with the note, we relayed what we learned from the fourth floor as the two Noirs listened anxiously.
 Рассказчик: Вручив записку, мы рассказали обо всём, что узнали на четвёртом этаже. Оба Нуара тревожно слушали.
 
-# Original: Le Rouge, abandoned by their Voice, is conspiring within the Luxury Hall to give life to a new Voice...?
+# Flannel: Le Rouge, abandoned by their Voice, is conspiring within the Luxury Hall to give life to a new Voice...?
 Фланель: Ле Руж, покинутые своим Голосом, плетут заговор в Элитном Зале, чтобы дать жизнь новому Голосу...?
 
-# Original: ... I see... And an implement made of "Nail" and Golden Fabric is needed if we're to have any hope of stopping their vile plan from coming to fruition.
+# Felt: ... I see... And an implement made of "Nail" and Golden Fabric is needed if we're to have any hope of stopping their vile plan from coming to fruition.
 Фетр: ... Понятно... И чтобы у нас была хоть какая-то надежда помешать их гнусному замыслу осуществиться, необходимо орудие из «Гвоздя» и Золотой ткани.
 
-# Original: If it really is as the noble one on the upper floor says, then our path forward is clear. ... We can claim the Luxury Hall as Le Noir's by tearing apart that new "Voice" of theirs before it is born.
+# Felt: If it really is as the noble one on the upper floor says, then our path forward is clear. ... We can claim the Luxury Hall as Le Noir's by tearing apart that new "Voice" of theirs before it is born.
 Фетр: Если всё действительно так, как говорит благородная особа с верхнего этажа, то наш дальнейший путь ясен. ... Мы сможем завладеть Элитным Залом во имя Ле Нуар, разорвав на части этот их новый «Голос», прежде чем он родится.
 
-# Original: ... I hate to ask again, but we are in need of your assistance once again, strangers.
+# Flannel: ... I hate to ask again, but we are in need of your assistance once again, strangers.
 Фланель: ... Не хочется снова вас просить, но нам вновь нужна ваша помощь, посторонние.
 
-# Original: <Well... our goals seem to align anyway. We need those Luxury clothes from the second floor to be admitted to the fifth floor.>
+# Dante: <Well... our goals seem to align anyway. We need those Luxury clothes from the second floor to be admitted to the fifth floor.>
 Данте: <Ну... наши цели всё равно, похоже, совпадают. Нам нужна элитная одежда со второго этажа, чтобы нас пустили на пятый.>
 
-# Original: Our goals align.
+# Meursault: Our goals align.
 Мерсо: Наши цели совпадают.
 
-# Original: *sigh* Much obliged.
+# Flannel: *sigh* Much obliged.
 Фланель: *вздох* Премного обязаны.
 
-# Original: We're not entirely unfamiliar with the Golden Fabric—we've even used it for some of our works, though we had to commission the Alterationist for it.
+# Flannel: We're not entirely unfamiliar with the Golden Fabric—we've even used it for some of our works, though we had to commission the Alterationist for it.
 Фланель: С Золотой тканью мы знакомы — даже использовали её в некоторых своих работах, хотя и пришлось заказывать её у Перекройщицы.
 
-# Original: The tricky part's going to be the Golden Skein, though... I have no idea where that's sourced from.
+# Flannel: The tricky part's going to be the Golden Skein, though... I have no idea where that's sourced from.
 Фланель: А вот с Золотым мотком будет сложнее... Понятия не имею, откуда его берут.
 
-# Original: According to the recipe on the note... we might be able to get it from some kind of cocoon.
+# Sinclair: According to the recipe on the note... we might be able to get it from some kind of cocoon.
 Синклер: Судя по рецепту в записке... возможно, его можно получить из какого-то кокона.
 
-# Original: That means you're going to need the Golden Cocoon to obtain the Golden Skein. Flannel, where do people usually come by the cocoons?
+# Felt: That means you're going to need the Golden Cocoon to obtain the Golden Skein. Flannel, where do people usually come by the cocoons?
 Фетр: Значит, чтобы получить Золотой моток, вам понадобится Золотой кокон. Фланель, где обычно берут коконы?
 
-# Original: The cocoon can be found on B1... Huh. The basement floors?
+# Flannel: The cocoon can be found on B1... Huh. The basement floors?
 Фланель: Кокон можно найти на B1... Хм. На подземных этажах?
 
-# Original: B1F...! I see, this journey will bring you to the subterranean floors. Then I presume you will be dealing with B2's Floor Manager as well... which answers the question concerning how the Golden Skein is to be spun.
+# Felt: B1F...! I see, this journey will bring you to the subterranean floors. Then I presume you will be dealing with B2's Floor Manager as well... which answers the question concerning how the Golden Skein is to be spun.
 Фетр: B1...! Понятно, значит, вам предстоит спуститься на подземные этажи. Тогда, полагаю, вам доведётся иметь дело и с Менеджером Этажа B2... а это отвечает на вопрос о том, как спрясть Золотой моток.
 
-# Original: Uh... Is it dangerous down there?
+# Sinclair: Uh... Is it dangerous down there?
 Синклер: Эм... А там внизу опасно?
 
-# Original: Not dangerous per se, but... certainly <i>unique</i> in its atmosphere.
+# Felt: Not dangerous per se, but... certainly <i>unique</i> in its atmosphere.
 Фетр: Не то чтобы опасно, но... атмосфера там, безусловно, <i>своеобразная</i>.
 
-# Original: We have been down there a few times before, yes. But only to lay an early claim to the raw fibers... That place is, hm, you see, quite <i>primal</i>.
+# Flannel: We have been down there a few times before, yes. But only to lay an early claim to the raw fibers... That place is, hm, you see, quite <i>primal</i>.
 Фланель: Да, нам доводилось спускаться туда несколько раз. Но лишь для того, чтобы первыми застолбить за собой волокно-сырец... Видите ли, это место, хм, весьма <i>дикое</i>.
 
-# Original: Anyway, I suggest you explore B2 once you acquire the cocoon. B2's Floor Manager is a long-time collaborator of the Noirs, so I'm sure it'll all go smoothly as long as you bring the Authenticity Certificate with you.
+# Flannel: Anyway, I suggest you explore B2 once you acquire the cocoon. B2's Floor Manager is a long-time collaborator of the Noirs, so I'm sure it'll all go smoothly as long as you bring the Authenticity Certificate with you.
 Фланель: В любом случае советую вам осмотреть B2, как только раздобудете кокон. Менеджер Этажа B2 давно сотрудничает с Нуарами, так что, уверена, всё пройдёт гладко, если вы возьмёте с собой Сертификат подлинности.
 
-# Original: As for the "Nail"... A long piece of bone should do, but... which one? We'll have to think about it.
+# Flannel: As for the "Nail"... A long piece of bone should do, but... which one? We'll have to think about it.
 Фланель: Что до «Гвоздя»... Длинная кость должна подойти, но... какая именно? Надо подумать.
 
-# Original: I say it's about time we made use of that revolting Rouge on the other end of this floor. I've always thought her spinal cord would come in useful as a long nail.
+# Flannel: I say it's about time we made use of that revolting Rouge on the other end of this floor. I've always thought her spinal cord would come in useful as a long nail.
 Фланель: По-моему, самое время найти применение той омерзительной Руж на другом конце этажа. Я всегда считала, что её спинной мозг сгодится на длинный гвоздь.
 
-# Original: Neither is in our possession, nor have we seen anything like it before.
+# Outis: Neither is in our possession, nor have we seen anything like it before.
 Отис: Ни того ни другого у нас нет, и ничего подобного мы прежде не встречали.
 
-# Original: It's going to be a very roundabout journey, with all the pieces scattered throughout the floors.
+# Outis: It's going to be a very roundabout journey, with all the pieces scattered throughout the floors.
 Отис: Предстоит изрядно походить: все необходимые компоненты разбросаны по разным этажам.
 
-# Original: And of course, we will be sure to compensate you handsomely with eyeballs.
+# Felt: And of course, we will be sure to compensate you handsomely with eyeballs.
 Фетр: И, разумеется, мы непременно щедро вознаградим вас глазными яблоками.
 
-# Original: <Can you also ask them, once we're done carrying out their tasks, if they'll let us have some clothes from the second floor so we can get onto the fifth?>
+# Dante: <Can you also ask them, once we're done carrying out their tasks, if they'll let us have some clothes from the second floor so we can get onto the fifth?>
 Данте: <Можешь ещё спросить, дадут ли они нам одежду со второго этажа, когда мы выполним их поручения, чтобы мы смогли попасть на пятый?>
 
-# Original: The Executive Manager would like to ask the two of you if this collaboration would secure us access to the fifth floor.
+# Outis: The Executive Manager would like to ask the two of you if this collaboration would secure us access to the fifth floor.
 Отис: Исполнительный Менеджер желает осведомиться у вас обоих, обеспечит ли это сотрудничество нам доступ на пятый этаж.
 
-# Original: I can't guarantee that, unfortunately, but... I promise that you will have Le Noir's eternal gratitude.
+# Felt: I can't guarantee that, unfortunately, but... I promise that you will have Le Noir's eternal gratitude.
 Фетр: К сожалению, гарантировать этого я не могу, но... обещаю вам вечную благодарность Ле Нуар.
 
-# Original: It is not within my authority to grant you anything of the like, but I can write you another Authenticity Certificate for this collaboration, at the very least.
+# Felt: It is not within my authority to grant you anything of the like, but I can write you another Authenticity Certificate for this collaboration, at the very least.
 Фетр: Даровать вам что-либо подобное не в моей власти, но я могу хотя бы выписать вам ещё один Сертификат подлинности за это сотрудничество.
 
-# Original: I'll be sure to pull all the strings I have and put in as good a word as I can to the other Noirs.
+# Felt: I'll be sure to pull all the strings I have and put in as good a word as I can to the other Noirs.
 Фетр: Я непременно задействую все свои связи и замолвлю за вас словечко перед другими нуарами, насколько смогу.
 
-# Original: <... Good enough for me. Let's go.>
+# Dante: <... Good enough for me. Let's go.>
 Данте: <... Меня устраивает. Идём.>

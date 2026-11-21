@@ -1,269 +1,269 @@
-# Original: This is the Doctor, researcher at Rhodes Island.
+# Amiya: This is the Doctor, researcher at Rhodes Island.
 Амия: Это Доктор, исследователь Родос Айленд.
 
-# Original: <N-nice to meet you.>
+# Dante: <N-nice to meet you.>
 Данте: <П-приятно познакомиться.>
 
-# Original: When I, after everything we went through, finally had the chance to meet the Doctor of Rhodes Island, I realized that I had been building a vastly different image of them in my mind based on the name alone.
+# Narrator: When I, after everything we went through, finally had the chance to meet the Doctor of Rhodes Island, I realized that I had been building a vastly different image of them in my mind based on the name alone.
 Рассказчик: Когда после всего, через что мы прошли, у меня наконец появилась возможность встретиться с Доктором Родос Айленд, я понял, что, основываясь лишь на имени, создал в своём воображении совершенно иной его образ.
 
-# Original: I was thinking they were going to be someone like Yi Sang, Faust, or… Hohenheim from LCE.
+# Narrator: I was thinking they were going to be someone like Yi Sang, Faust, or… Hohenheim from LCE.
 Рассказчик: Я думал, он будет кем-то вроде И Сана, Фауст или... Хохенхайм из LCE.
 
-# Original: But… the first impression of them was similar to what I felt when I met a K Corp. employee.
+# Narrator: But… the first impression of them was similar to what I felt when I met a K Corp. employee.
 Рассказчик: Но... первое впечатление от него было сродни тому, что я почувствовал при встрече с сотрудником Корпорации К.
 
-# Original: The clock just… ticked…
+# Doctor: The clock just… ticked…
 Доктор: Часы просто... тикнули...
 
-# Original: And this is Dante, a manager at Limbus Company. That ticking just now was “nice to meet you”.
+# Amiya: And this is Dante, a manager at Limbus Company. That ticking just now was “nice to meet you”.
 Амия: А это Данте, менеджер Компании Лимбус. Его тиканье означало «приятно познакомиться».
 
-# Original: O...kay.
+# Doctor: O...kay.
 Доктор: Я...сно.
 
-# Original: Thanks for accompanying Amiya. Honestly, I was pretty worried when we were separated at the border.
+# Doctor: Thanks for accompanying Amiya. Honestly, I was pretty worried when we were separated at the border.
 Доктор: Спасибо, что сопровождали Амию. Честно говоря, я очень волновался, когда мы разделились на границе.
 
-# Original: <I should thank you and Amiya, actually. We would’ve been in a real pickle without her, so...>
+# Dante: <I should thank you and Amiya, actually. We would’ve been in a real pickle without her, so...>
 Данте: <На самом деле, это я должен благодарить вас и Амию. Без неё нам бы пришлось туго, так что...>
 
-# Original: …….
+# Doctor: …….
 Доктор: …….
 
-# Original: I-it’s a bit embarrassing to repeat that myself.
+# Amiya: I-it’s a bit embarrassing to repeat that myself.
 Амия: М-мне немного неловко повторять это самой.
 
-# Original: Dante says that we would’ve been in a real pickle without Miss Amiya~
+# Hong Lu: Dante says that we would’ve been in a real pickle without Miss Amiya~
 Хон Лу: Данте говорит, что без госпожи Амии нам бы пришлось туго~
 
-# Original: Sorry, Manager Bud can’t talk human, so… don’t worry about it. We’ll take over the translation.
+# Gregor: Sorry, Manager Bud can’t talk human, so… don’t worry about it. We’ll take over the translation.
 Грегор: Прошу прощения, наш менеджер-дружище не умеет говорить по-человечески, так что... не парьтесь. Мы возьмём перевод на себя.
 
-# Original: It is incorrect to state that the manager cannot ‘talk human’. A more accurate assessment would state that the manager is incapable of accessing sonic means of communication, which includes verbal communication; however, they are able to produce repetition of multiple sounds that may register on a similar scale to the ticking of multiple hands—second hands, minute hands—of a clock.
+# Meursault: It is incorrect to state that the manager cannot ‘talk human’. A more accurate assessment would state that the manager is incapable of accessing sonic means of communication, which includes verbal communication; however, they are able to produce repetition of multiple sounds that may register on a similar scale to the ticking of multiple hands—second hands, minute hands—of a clock.
 Мерсо: Утверждение, что менеджер не может «говорить по-человечески», некорректно. Более точная оценка заключается в том, что менеджер неспособен использовать звуковые средства связи, включая вербальное общение; однако он может воспроизводить повторяющиеся звуки, которые регистрируются в диапазоне, схожем с тиканьем нескольких стрелок — секундной, минутной — часов.
 
-# Original: <I dunno, something about the way Meursault put it sounds… worse…>
+# Dante: <I dunno, something about the way Meursault put it sounds… worse…>
 Данте: <Не знаю, в изложении Мерсо это звучит... ещё хуже...>
 
-# Original: Don't worry. It is not a difficult task when only a single individual has to be translated.
+# Kal'tsit: Don't worry. It is not a difficult task when only a single individual has to be translated.
 Кальцит: Не беспокойтесь. Когда переводить нужно лишь одного индивида, задача не представляет сложности.
 
-# Original: Doctor, let us move on to the next steps of the plan.
+# Kal'tsit: Doctor, let us move on to the next steps of the plan.
 Кальцит: Доктор, перейдём к следующим шагам плана.
 
-# Original: <Next steps?>
+# Dante: <Next steps?>
 Данте: <Следующим шагам?>
 
-# Original: Thanks to Limbus Company’s efforts, we obtained the exact coordinates of the vessel Masas, and managed to capture the decks with ease.
+# Doctor: Thanks to Limbus Company’s efforts, we obtained the exact coordinates of the vessel Masas, and managed to capture the decks with ease.
 Доктор: Благодаря усилиям Компании Лимбус мы получили точные координаты судна «Масас» и смогли с лёгкостью захватить палубы.
 
-# Original: However, Fabius, who is suspected to be a Bishop of the Deep, and his followers, have barricaded themselves inside the bridge’s control room.
+# Doctor: However, Fabius, who is suspected to be a Bishop of the Deep, and his followers, have barricaded themselves inside the bridge’s control room.
 Доктор: Однако Фабий, предположительно являющийся Епископом Глубин, и его последователи забаррикадировались в рубке на капитанском мостике.
 
-# Original: While it may seem as though they’re hiding, I believe they’re trying to bait us.
+# Doctor: While it may seem as though they’re hiding, I believe they’re trying to bait us.
 Доктор: Может показаться, что они прячутся, но я считаю, что они пытаются заманить нас в ловушку.
 
-# Original: As in, they are waiting for us to enter the bridge before summoning reinforcements from elsewhere to trap us in a pincer attack?
+# Outis: As in, they are waiting for us to enter the bridge before summoning reinforcements from elsewhere to trap us in a pincer attack?
 Отис: То есть они ждут, когда мы войдем на мостик, чтобы вызвать подкрепление и взять нас в клещи?
 
-# Original: Something like that. The ‘elsewhere’ is most likely to be the sea, as their reinforcements are probably more Sea Terrors.
+# Doctor: Something like that. The ‘elsewhere’ is most likely to be the sea, as their reinforcements are probably more Sea Terrors.
 Доктор: Что-то в этом роде. И это «откуда-то» — скорее всего, море, а подкрепление — очередные Морские Ужасы.
 
-# Original: Fabius is a Seaborn. And the ocean will answer to the call of their kind.
+# Irene: Fabius is a Seaborn. And the ocean will answer to the call of their kind.
 Айрен: Фабий — Морерождённый. И океан откликнется на зов своих детей.
 
-# Original: Limbus Company and Irene will head to the bridge and neutralize Fabius. Amiya and I will accompany you to provide support and identify the situation within the bridge.
+# Doctor: Limbus Company and Irene will head to the bridge and neutralize Fabius. Amiya and I will accompany you to provide support and identify the situation within the bridge.
 Доктор: Компания Лимбус и Айрен отправятся на мостик и нейтрализуют Фабия. Мы с Амией будем сопровождать вас, чтобы оказать поддержку и оценить обстановку.
 
-# Original: In the meantime, Kal’tsit and the other operators will remain on standby on the ship’s exterior at the pre-designated locations. I’d like to avoid getting surrounded by Sea Terrors before we manage to take down the Church of the Deep within the bridge.
+# Doctor: In the meantime, Kal’tsit and the other operators will remain on standby on the ship’s exterior at the pre-designated locations. I’d like to avoid getting surrounded by Sea Terrors before we manage to take down the Church of the Deep within the bridge.
 Доктор: Тем временем Кальцит и другие оперативники будут находиться в режиме ожидания снаружи корабля в заранее определённых точках. Я бы хотел избежать окружения Морскими Ужасами до того, как мы расправимся с Церковью Глубин на мостике.
 
-# Original: I observed several entry points leading straight to the bridge while we were working on repairing the vessel.
+# Outis: I observed several entry points leading straight to the bridge while we were working on repairing the vessel.
 Отис: Я заметила несколько входов, ведущих прямо на мостик, пока мы занимались починкой судна.
 
-# Original: Your force doesn't seem numerous enough to close off all of them.
+# Outis: Your force doesn't seem numerous enough to close off all of them.
 Отис: Ваших сил кажется недостаточно, чтобы перекрыть их все.
 
-# Original: It’s true that there are many entry points here, but we don’t need forces guarding every single one of them. Especially here—the hallway is narrow, long, and straight, so…
+# Doctor: It’s true that there are many entry points here, but we don’t need forces guarding every single one of them. Especially here—the hallway is narrow, long, and straight, so…
 Доктор: Верно, входов много, но нам и не нужно выставлять охрану у каждого. Особенно здесь — коридор узкий, длинный и прямой, так что...
 
-# Original: … Makes sense to me. How about here? Are you sure you’re not overly focusing your forces to a single checkpoint?
+# Outis: … Makes sense to me. How about here? Are you sure you’re not overly focusing your forces to a single checkpoint?
 Отис: ...Логично. А что насчёт этого места? Вы уверены, что не слишком концентрируете силы на одном контрольном пункте?
 
-# Original: Ah, let’s see. But on closer look…
+# Doctor: Ah, let’s see. But on closer look…
 Доктор: А, сейчас посмотрим. Но если приглядеться...
 
-# Original: Looks like commanding officer Outis is finally in her environment.
+# Gregor: Looks like commanding officer Outis is finally in her environment.
 Грегор: Похоже, командир Отис наконец-то в своей стихии.
 
-# Original: Got any questions, Manager Bud?
+# Gregor: Got any questions, Manager Bud?
 Грегор: Есть вопросы, менеджер-дружище?
 
-# Original: <I have no idea what they’re talking about, if I’m being honest…>
+# Dante: <I have no idea what they’re talking about, if I’m being honest…>
 Данте: <Если честно, я понятия не имею, о чём они говорят...>
 
-# Original: Really? I saw you commanding the Sinners earlier. You seemed pretty adept at giving orders and making strategic decisions…
+# Amiya: Really? I saw you commanding the Sinners earlier. You seemed pretty adept at giving orders and making strategic decisions…
 Амия: Правда? Я видела, как вы командовали Грешниками ранее. Вы казались весьма искусным в отдаче приказов и принятии стратегических решений...
 
-# Original: Indeed, they seem quite adept at making on-the-spot strategic commands and identifying exploitable weaknesses and patterns in their enemies.
+# Kal'tsit: Indeed, they seem quite adept at making on-the-spot strategic commands and identifying exploitable weaknesses and patterns in their enemies.
 Кальцит: Действительно, он весьма искусен в принятии сиюминутных тактических решений и выявлении уязвимостей и паттернов в поведении врагов.
 
-# Original: However, the Doctor and the outsider are operating on fundamentally different fields. No further elaboration is necessary.
+# Kal'tsit: However, the Doctor and the outsider are operating on fundamentally different fields. No further elaboration is necessary.
 Кальцит: Однако Доктор и чужак действуют в принципиально разных областях. Дальнейшие разъяснения излишни.
 
-# Original: Agreed. That particular aspect of strategizing is not one of manager Dante's obligations; and even if there is a chance for them to engage in such elements, it may be too early to do so.
+# Faust: Agreed. That particular aspect of strategizing is not one of Manager Dante's obligations; and even if there is a chance for them to engage in such elements, it may be too early to do so.
 Фауст: Согласна. Этот конкретный аспект стратегического планирования не входит в обязанности менеджера Данте; и даже если у него появится возможность заняться подобным, сейчас может быть слишком рано.
 
-# Original: ... Is that so.
+# Kal'tsit: ... Is that so.
 Кальцит: ...Вот как.
 
-# Original: It is. At least that is what Faust has judged.
+# Faust: It is. At least that is what Faust has judged.
 Фауст: Именно так. По крайней мере, к такому выводу пришла Фауст.
 
-# Original: … What are they on about?
+# Heathcliff: … What are they on about?
 Хитклиф: ...Что они вообще несут?
 
-# Original: I was about to ask that myself.
+# Irene: I was about to ask that myself.
 Айрен: Я как раз хотела спросить то же самое.
 
-# Original: <I don’t know… I have no idea.>
+# Dante: <I don’t know… I have no idea.>
 Данте: <Я не знаю... Понятия не имею.>
 
-# Original: Having finished her discussion with the Doctor over the plan, Outis returned wearing a grim look.
+# Narrator: Having finished her discussion with the Doctor over the plan, Outis returned wearing a grim look.
 Рассказчик: Закончив обсуждать план с Доктором, Отис вернулась с мрачным выражением лица.
 
-# Original: <Huh? Is there something wrong with the plan?>
+# Dante: <Huh? Is there something wrong with the plan?>
 Данте: <А? С планом что-то не так?>
 
-# Original: … No. There wasn’t anything wrong with the plan.
+# Outis: … No. There wasn’t anything wrong with the plan.
 Отис: ...Нет. С планом всё в порядке.
 
-# Original: I expected a certain degree of competency, but they were impressive, far beyond my expectations.
+# Outis: I expected a certain degree of competency, but they were impressive, far beyond my expectations.
 Отис: Я ожидала определённого уровня компетентности, но он впечатляет. Это превзошло все мои ожидания.
 
-# Original: Really? That good, huh?
+# Rodion: Really? That good, huh?
 Родион: Правда? Настолько хорош, да?
 
-# Original: Even when I think back to my days in the line of duty… I can’t think of too many like them.
+# Outis: Even when I think back to my days in the line of duty… I can’t think of too many like them.
 Отис: Даже если я вспоминаю свои дни на службе... не могу припомнить многих ему подобных.
 
-# Original: Right, so they’re dependable. Good enough for me. If your strategizin’s done, let’s get crackin'.
+# Heathcliff: Right, so they’re dependable. Good enough for me. If your strategizin’s done, let’s get crackin'.
 Хитклиф: Ясно, значит, на него можно положиться. Мне этого достаточно. Если со своей стратегией закончили, давайте шевелиться.
 
-# Original: What of you, Miss Mayors? If it is too much to face what awaits, then you need not follow us.
+# Yi Sang: What of you, Miss Mayors? If it is too much to face what awaits, then you need not follow us.
 И Сан: А что насчёт вас, госпожа Мэрс? Если вам будет слишком тяжело встретиться с тем, что нас ждёт, вы не обязаны идти с нами.
 
-# Original: I decided to stay here anyway.
+# Mayors: I decided to stay here anyway.
 Мэрс: Я всё равно решила остаться здесь.
 
-# Original: The Doctor's going to update you in real-time on where the safe zones are. So... please keep that communicator close to you.
+# Amiya: The Doctor's going to update you in real-time on where the safe zones are. So... please keep that communicator close to you.
 Амия: Доктор будет в реальном времени сообщать вам, где находятся безопасные зоны. Так что... пожалуйста, держите коммуникатор при себе.
 
-# Original: I will.
+# Mayors: I will.
 Мэрс: Хорошо.
 
-# Original: Hey, if Gramps—
+# Mayors: Hey, if Gramps—
 Мэрс: Эй, если Дедуля...
 
-# Original: Is there something you would like for us to do?
+# Hong Lu: Is there something you would like for us to do?
 Хон Лу: Вы хотите, чтобы мы что-то для него сделали?
 
-# Original: It's... no, it's nothing.
+# Mayors: It's... no, it's nothing.
 Мэрс: Это... нет, ничего.
 
-# Original: ... If there's something you want to tell him, contact us through the communicator at any time.
+# Doctor: ... If there's something you want to tell him, contact us through the communicator at any time.
 Доктор: ...Если захотите что-то ему передать, свяжитесь с нами по коммуникатору в любое время.
 
-# Original: We're going to find a way to resolve this as peacefully as we can, but if the negotiations break down...
+# Doctor: We're going to find a way to resolve this as peacefully as we can, but if the negotiations break down...
 Доктор: Мы постараемся найти максимально мирное решение, но если переговоры провалятся...
 
-# Original: Yeah. I know what you mean, Doctor.
+# Mayors: Yeah. I know what you mean, Doctor.
 Мэрс: Да. Я понимаю, о чём вы, Доктор.
 
-# Original: Be safe, everyone.
+# Mayors: Be safe, everyone.
 Мэрс: Берегите себя.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: Leaving Mayors behind with her unfinished sentence...
+# Narrator: Leaving Mayors behind with her unfinished sentence...
 Рассказчик: Оставив Мэрс с её незаконченной фразой...
 
-# Original: ... we followed the Rhodes Island team into the bridge.
+# Narrator: ... we followed the Rhodes Island team into the bridge.
 Рассказчик: ...мы последовали за командой Родос Айленд на мостик.
 
-# Original: The bridge was as gaudily decorated as ever.
+# Narrator: The bridge was as gaudily decorated as ever.
 Рассказчик: Мостик был всё так же безвкусно украшен.
 
-# Original: Fabius, flanked by hooded followers and Sea Terrors, greeted us with a kindly smile.
+# Narrator: Fabius, flanked by hooded followers and Sea Terrors, greeted us with a kindly smile.
 Рассказчик: Фабий, окружённый последователями в капюшонах и Морскими Ужасами, встретил нас с добродушной улыбкой.
 
-# Original: Welcome.
+# Fabius: Welcome.
 Фабий: Добро пожаловать.
 
-# Original: I truly did appreciate thy kindness… Wherefore didst thou seek to harm us?!
+# Don Quixote: I truly did appreciate thy kindness… Wherefore didst thou seek to harm us?!
 Дон Кихот: Я воистину ценила твою доброту... Зачем же ты умыслил причинить нам вред?!
 
-# Original: Your suspicions are certainly justified. But I implore you to think back.
+# Fabius: Your suspicions are certainly justified. But I implore you to think back.
 Фабий: Ваши подозрения, безусловно, оправданны. Но я умоляю вас вспомнить.
 
-# Original: If you truly believe that we had sought to harm you then... how would you explain that one peaceful night you had spent in Faro Muerto?
+# Fabius: If you truly believe that we had sought to harm you then... how would you explain that one peaceful night you had spent in Faro Muerto?
 Фабий: Если вы и вправду верите, что мы хотели причинить вам вред... как тогда вы объясните ту мирную ночь, что вы провели в Фаро Муэрто?
 
-# Original: I—we—have never wished you any harm; we did not then, and we do not now.
+# Fabius: I—we—have never wished you any harm; we did not then, and we do not now.
 Фабий: Я... мы... никогда не желали вам зла. Ни тогда, ни сейчас.
 
-# Original: Huh. Not even a day after you folks stabbed us in the back like cowards, and you want us to believe that?
+# Gregor: Huh. Not even a day after you folks stabbed us in the back like cowards, and you want us to believe that?
 Грегор: Ха. И дня не прошло с тех пор, как вы, ребята, трусливо вонзили нам нож в спину, а теперь хотите, чтобы мы в это поверили?
 
-# Original: Our wish has always been the same. We only wished to extend the freedom to roam the seas to those with capable, kindhearted souls.
+# Fabius: Our wish has always been the same. We only wished to extend the freedom to roam the seas to those with capable, kindhearted souls.
 Фабий: Наше желание всегда было одним и тем же. Мы лишь хотели даровать свободу морских просторов тем, кто обладает умелой и доброй душой.
 
-# Original: Mate, we know you were just tryin’ to turn us into sea monsters of some kind!
+# Heathcliff: Mate, we know you were just tryin’ to turn us into sea monsters of some kind!
 Хитклиф: Слышь, мы знаем, что ты просто пытался превратить нас в каких-то морских чудищ!
 
-# Original: "Monster" is only a name. The essence of its being changes not regardless of the label given to it.
+# Fabius: "Monster" is only a name. The essence of its being changes not regardless of the label given to it.
 Фабий: «Чудовище» — это лишь слово. Суть его бытия не меняется от навешенного на него ярлыка.
 
-# Original: Become one with the sea, become one with the endless cycle of life... and one day, your misunderstandings will end, and you will come to understand us.
+# Fabius: Become one with the sea, become one with the endless cycle of life... and one day, your misunderstandings will end, and you will come to understand us.
 Фабий: Станьте едины с морем, станьте едины с бесконечным циклом жизни... и однажды ваши заблуждения исчезнут, и вы поймёте нас.
 
-# Original: …….
+# Doctor: …….
 Доктор: …….
 
-# Original: Looks like... this fight between us... is going to be unavoidable.
+# Doctor: Looks like... this fight between us... is going to be unavoidable.
 Доктор: Похоже... этой битвы... нам не избежать.
 
-# Original: I pulled out the Identity Cards the moment I saw Fabius raising his hand.
+# Narrator: I pulled out the Identity Cards the moment I saw Fabius raising his hand.
 Рассказчик: В тот же миг, как я увидел, что Фабий поднимает руку, я вытащил Карты Идентичностей.
 
-# Original: The Doctor seemed to have finished their preparations as well, as they and Amiya stood opposite Fabius.
+# Narrator: The Doctor seemed to have finished their preparations as well, as they and Amiya stood opposite Fabius.
 Рассказчик: Доктор, похоже, тоже закончил свои приготовления — они с Амией стояли напротив Фабия.
 
-# Original: Incoming! Get ready, everyone!
+# Amiya: Incoming! Get ready, everyone!
 Амия: Приближаются! Всем приготовиться!
 
-# Original: ... Let's stop them here for good, no matter how long it takes.
+# Doctor: ... Let's stop them here for good, no matter how long it takes.
 Доктор: ...Давайте остановим их здесь раз и навсегда, сколько бы времени это ни заняло.
 
-# Original: Their strategic formation prioritized reducing sacrifices to the absolute minimum…
+# Narrator: Their strategic formation prioritized reducing sacrifices to the absolute minimum…
 Рассказчик: Их стратегическое построение ставило в приоритет сведение жертв к абсолютному минимуму...
 
-# Original: ... Their commands sought to protect, sought to defend, and their forces were quick to follow them.
+# Narrator: ... Their commands sought to protect, sought to defend, and their forces were quick to follow them.
 Рассказчик: ...Их приказы были нацелены на защиту, на оборону, и их отряды без промедления им следовали.
 
-# Original: Rhodes Island's operation was certainly impressive, but... that's not exactly our style.
+# Narrator: Rhodes Island's operation was certainly impressive, but... that's not exactly our style.
 Рассказчик: Операция Родос Айленд, безусловно, впечатляла, но... это не совсем наш стиль.
 
-# Original: All I can do is put my faith in the Sinners, and push them onward.
+# Narrator: All I can do is put my faith in the Sinners, and push them onward.
 Рассказчик: Всё, что я могу — это верить в Грешников и вести их вперёд.
 
-# Original: Our style is...
+# Narrator: Our style is...
 Рассказчик: Наш стиль — это...
 
-# Original: <... Trust me to bring you back, no matter how many times they cut you down.>
+# Dante: <... Trust me to bring you back, no matter how many times they cut you down.>
 Данте: <...Поверьте, я верну вас, сколько бы раз вас ни сразили.>
 
-# Original: <Let's wipe them out.>
+# Dante: <Let's wipe them out.>
 Данте: <Сотрём их в порошок.>

@@ -4488,5 +4488,15 @@
     "original": "Mother",
     "translation": "Мать",
     "model": null
+  },
+  {
+    "original": "Golden Tape",
+    "translation": "Золотая Кассета",
+    "model": "황금빛 테이프"
+  },
+  {
+    "original": "Le Rouge Store Manager",
+    "translation": "Менеджер магазина Ле Руж",
+    "model": null
   }
 ]

@@ -1,194 +1,194 @@
-# Original: We continued toward the corridor full of corpses and debris.
+# Narrator: We continued toward the corridor full of corpses and debris.
 Narrator: Мы продолжили путь к коридору, полному трупов и обломков.
 
-# Original: Here's hoping we come across someone else still conscious, like Miss Alyssa...
+# Gregor: Here's hoping we come across someone else still conscious, like Miss Alyssa...
 Gregor: Надеюсь, нам попадётся кто-нибудь ещё живой, как мисс Алиса...
 
-# Original: Oww! Y-you just stepped on my hand, Mister!
+# ???: Oww! Y-you just stepped on my hand, Mister!
 Sora: Ай! В-вы только что наступили мне на руку, мистер!
 
-# Original: Oops, my bad...
+# Gregor: Oops, my bad...
 Gregor: Ой, виноват...
 
-# Original: ... Wait, was that... a survivor speaking just now?
+# Gregor: ... Wait, was that... a survivor speaking just now?
 Gregor: ... Стоп, это что... сейчас сказала выжившая?
 
-# Original: Everyone turned around, hearing the alarm in Gregor's voice.
+# Narrator: Everyone turned around, hearing the alarm in Gregor's voice.
 Narrator: Услышав тревогу в голосе Грегора, все обернулись.
 
-# Original: A lone survivor, the only one who seemed conscious among the bodies crushed under the debris, was looking up at us with her face scrunched up in pain.
+# Narrator: A lone survivor, the only one who seemed conscious among the bodies crushed under the debris, was looking up at us with her face scrunched up in pain.
 Narrator: Одинокая выжившая, единственная, кто казался в сознании среди раздавленных обломками тел, смотрела на нас, скривившись от боли.
 
-# Original: Are you... all right?
+# Yi Sang: Are you... all right?
 Yi Sang: В порядке ли... вы?
 
-# Original: I... I'm not. It hurts so much. I've been waiting here so long, but nobody showed up...
+# ???: I... I'm not. It hurts so much. I've been waiting here so long, but nobody showed up...
 Sora: Я... Я не в порядке. Очень больно. Я так долго ждала здесь, но никто не приходил...
 
-# Original: I was chatting with this person next to me just to stay conscious... B-but then he suddenly stopped speaking—it's been 10 minutes already. We'd even exchanged names!
+# ???: I was chatting with this person next to me just to stay conscious... B-but then he suddenly stopped speaking—it's been 10 minutes already. We'd even exchanged names!
 Sora: Я болтала с этим человеком рядом, просто чтобы не потерять сознание... Н-но потом он вдруг замолчал — уже минут 10 прошло. Мы даже именами обменялись!
 
-# Original: You must be referring to this man. He's pretending to be dead, but his pulse hasn't stopped.
+# Meursault: You must be referring to this man. He's pretending to be dead, but his pulse hasn't stopped.
 Mersault: Вы, должно быть, имеете в виду этого мужчину. Он притворяется мёртвым, но его пульс не остановился.
 
-# Original: W-whaaat?
+# ???: W-whaaat?
 Sora: Ч-что-о?
 
-# Original: The man in a suit stopped playing dead and slowly opened his eyes.
+# Narrator: The man in a suit stopped playing dead and slowly opened his eyes.
 Narrator: Мужчина в костюме перестал притворяться мёртвым и медленно открыл глаза.
 
-# Original: Ah, you got me.
+# ???: Ah, you got me.
 Ravi: А, вы меня раскусили.
 
-# Original: Chitchatting about the food we'll eat once we get out while slowly being crushed by the debris on top of us....
+# ???: Chitchatting about the food we'll eat once we get out while slowly being crushed by the debris on top of us....
 Ravi: Болтать о еде, которую мы съедим, когда выберемся, пока нас медленно раздавливают обломки сверху...
 
-# Original: I mean, you know what happens to characters who say "once we survive this"...
+# ???: I mean, you know what happens to characters who say "once we survive this"...
 Ravi: В смысле, вы же знаете, что случается с персонажами, которые говорят «когда выберемся»...
 
-# Original: I... I want me some vanilla ice-cream with almond sprinkles once we survive this... And a sandwich too, with lots and lots of cheese! What about you, Ravi?
+# ???: I... I want me some vanilla ice-cream with almond sprinkles once we survive this... And a sandwich too, with lots and lots of cheese! What about you, Ravi?
 Sora: Я... Я хочу ванильное мороженое с миндальной крошкой, когда мы выберемся... И сэндвич тоже, с кучей сыра! А ты, Рави?
 
-# Original: …….
+# Ravi: …….
 Ravi: .......
 
-# Original: ... Need a hand?
+# Gregor: ... Need a hand?
 Gregor: ... Помощь нужна?
 
-# Original: Yes, please.
+# Ravi: Yes, please.
 Ravi: Да, пожалуйста.
 
-# Original: <... Let's just get them out.>
+# Dante: <... Let's just get them out.>
 Dante: <... Давайте просто вытащим их.>
 
-# Original: With the Sinners' help, the two employees who'd been trapped under the rubble managed to break themselves free.
+# Narrator: With the Sinners' help, the two employees who'd been trapped under the rubble managed to break themselves free.
 Narrator: С помощью Грешников двое сотрудников, оказавшихся в ловушке под завалами, смогли освободиться.
 
-# Original: Hn. Just my left leg. I'm good besides that.
+# Ravi: Hn. Just my left leg. I'm good besides that.
 Ravi: Хм. Только левая нога. В остальном я в норме.
 
-# Original: Ouchie! I... I think I b-broke my right arm, um, but give it a few days with lots of almonds and fish, a-and it should be good as new.
+# ???: Ouchie! I... I think I b-broke my right arm, um, but give it a few days with lots of almonds and fish, a-and it should be good as new.
 Sora: Ой-ёй! Я... Я думаю, я с-сломала правую руку, эм, но пара дней, побольше миндаля и рыбы, и... и она будет как новенькая.
 
-# Original: Oh. Th-thank you for getting us out of there. I'm Sora.
+# Sora: Oh. Th-thank you for getting us out of there. I'm Sora.
 Sora: Ох. С-спасибо, что вытащили нас оттуда. Я Сора.
 
-# Original: We got to live another day thanks to you. You can call me Ravi.
+# Ravi: We got to live another day thanks to you. You can call me Ravi.
 Ravi: Благодаря вам мы проживём ещё один день. Можете звать меня Рави.
 
-# Original: By the way... May I ask which department you're from?
+# Ravi: By the way... May I ask which department you're from?
 Ravi: Кстати... Могу я спросить, из какого вы отдела?
 
-# Original: Uh... haven't you seen us before? We were here for a check-up last time.
+# Gregor: Uh... haven't you seen us before? We were here for a check-up last time.
 Gregor: Эм... разве вы нас раньше не видели? Мы были здесь на медосмотре в прошлый раз.
 
-# Original: Oh. We're new hires. This is our first day of work.
+# Ravi: Oh. We're new hires. This is our first day of work.
 Ravi: О. Мы новые сотрудники. Это наш первый рабочий день.
 
-# Original: N-new hires...?
+# Gregor: N-new hires...?
 Gregor: Н-новые сотрудники...?
 
-# Original: Yes. There were new job postings for LCE's Enkephalin Refining Department. Today's Day 1 for us new hires.
+# Ravi: Yes. There were new job postings for LCE's Enkephalin Refining Department. Today's Day 1 for us new hires.
 Ravi: Да. Были открыты новые вакансии в Отдел очистки энкефалина LCE. Сегодня первый день для нас, новичков.
 
-# Original: We were on our way to see the researcher who was supposed to handle our onboarding... and then <i>this</i> happened.
+# Ravi: We were on our way to see the researcher who was supposed to handle our onboarding... and then <i>this</i> happened.
 Ravi: Мы шли к исследователю, который должен был заниматься нашим введением в курс дела... а потом случилось <i>это</i>.
 
-# Original: Th-this gear... It's my first time wearing it. The more I look at it, the more it intrigues me.
+# Sora: Th-this gear... It's my first time wearing it. The more I look at it, the more it intrigues me.
 Sora: Э-эта экипировка... Я впервые её ношу. Чем больше я на неё смотрю, тем больше она меня интригует.
 
-# Original: <... How did you get trapped under the debris?>
+# Dante: <... How did you get trapped under the debris?>
 Dante: <... Как вы оказались под завалами?>
 
-# Original: Pray tell, how did you get trapped under the debris?
+# Yi Sang: Pray tell, how did you get trapped under the debris?
 Yi Sang: Поведайте, как вы оказались погребены под завалами?
 
-# Original: W-well... I was just walking through the corridor and stopped for a bit...
+# Sora: W-well... I was just walking through the corridor and stopped for a bit...
 Sora: Н-ну... Я просто шла по коридору и ненадолго остановилась...
 
-# Original: I... I'm always a total klutz. Once I have s-something on my mind, I can't multitask... at all.
+# Sora: I... I'm always a total klutz. Once I have s-something on my mind, I can't multitask... at all.
 Sora: Я... Я всегда такая растяпа. Стоит мне о ч-чём-то задуматься, я совсем не могу делать несколько дел сразу... вообще.
 
-# Original: I can relate. Researchers oft sink into the fathoms of their mind when the spark of inspiration strikes.
+# Yi Sang: I can relate. Researchers oft sink into the fathoms of their mind when the spark of inspiration strikes.
 Yi Sang: Мне это знакомо. Исследователи нередко погружаются в пучины разума, когда их поражает искра вдохновения.
 
-# Original: I had this idea f-for an E.G.O gear experiment... a-and I couldn't move on without first getting it sorted out in my head.
+# Sora: I had this idea f-for an E.G.O gear experiment... a-and I couldn't move on without first getting it sorted out in my head.
 Sora: У меня появилась идея д-для эксперимента с ЭГО-экипировкой... и... и я не могла идти дальше, пока не разложу всё по полочкам в голове.
 
-# Original: E.G.O gear, you say... Might you be referring to that shackle around your wrists?
+# Yi Sang: E.G.O gear, you say... Might you be referring to that shackle around your wrists?
 Yi Sang: ЭГО-экипировка, говорите... Не имеете ли вы в виду эти оковы на ваших запястьях?
 
-# Original: Th-that's right. It's not the wieldiest... but it's my one and only E.G.O.
+# Sora: Th-that's right. It's not the wieldiest... but it's my one and only E.G.O.
 Sora: В-верно. Они не самые удобные... но это моё единственное ЭГО.
 
-# Original: …….
+# Gregor: …….
 Gregor: .......
 
-# Original: Cut the fluff and get to what happened next.
+# Ryōshū: Cut the fluff and get to what happened next.
 Ryōshū: Хватит трёпа, говори, что было дальше.
 
-# Original: S-sorry. It happened... o-out of nowhere... We heard a loud noise coming from the other end of the corridor and people started running... That's when... th-the ceilings collapsed.
+# Sora: S-sorry. It happened... o-out of nowhere... We heard a loud noise coming from the other end of the corridor and people started running... That's when... th-the ceilings collapsed.
 Sora: П-простите. Это случилось... с-совершенно внезапно... Мы услышали громкий шум с другого конца коридора, и люди побежали... И тогда... п-потолки обрушились.
 
-# Original: *sigh* I-if only I hadn't zoned out... I wouldn't have gotten caught under the rubble.
+# Sora: *sigh* I-if only I hadn't zoned out... I wouldn't have gotten caught under the rubble.
 Sora: Эх, е-если бы я не витала в облаках... я бы не оказалась под завалом.
 
-# Original: ... I wouldn't go so far as to call you lucky, but getting trapped under the rubble might've been exactly what saved you from the intruders who are attacking the facility. They've already killed a lot of people.
+# Gregor: ... I wouldn't go so far as to call you lucky, but getting trapped under the rubble might've been exactly what saved you from the intruders who are attacking the facility. They've already killed a lot of people.
 Gregor: ... Не сказал бы, что вам повезло, но то, что вы застряли под завалом, возможно, спасло вас от вторженцев, напавших на комплекс. Они уже убили кучу народа.
 
-# Original: What? W-while we were trapped...?
+# Sora: What? W-while we were trapped...?
 Sora: Что? П-пока мы были в ловушке...?
 
-# Original: ... My condolences. I regret I have no further words to give.
+# Yi Sang: ... My condolences. I regret I have no further words to give.
 Yi Sang: ... Мои соболезнования. Сожалею, но мне больше нечего сказать.
 
-# Original: Were you able to find... any other survivors?
+# Ravi: Were you able to find... any other survivors?
 Ravi: Удалось ли вам найти... других выживших?
 
-# Original: An approximation of 20 remains. As fortune should have it, the team leader and the rest managed to regroup.
+# Yi Sang: An approximation of 20 remains. As fortune should have it, the team leader and the rest managed to regroup.
 Yi Sang: Уцелевших насчитывается приблизительно двадцать. По воле судьбы, руководителю команды и остальным удалось перегруппироваться.
 
-# Original: That's a relief....
+# Ravi: That's a relief....
 Ravi: Какое облегчение....
 
-# Original: And you... Are you certain you are well? It is quite remarkable that a newcomer to a corporation remains so composed in the face of such crises.
+# Yi Sang: And you... Are you certain you are well? It is quite remarkable that a newcomer to a corporation remains so composed in the face of such crises.
 Yi Sang: А вы... Уверены ли вы, что в добром здравии? Весьма примечательно, что новичок в корпорации сохраняет такое хладнокровие перед лицом подобного кризиса.
 
-# Original: We get trained for situations like this, so I wasn't entirely unprepared... Just never thought something like this would happen on Day 1...
+# Ravi: We get trained for situations like this, so I wasn't entirely unprepared... Just never thought something like this would happen on Day 1...
 Ravi: Нас тренируют для таких ситуаций, так что я не был совсем уж не готов... Просто не думал, что такое случится в первый же день...
 
-# Original: ... Still, that's pretty impressive for a new guy.
+# Gregor: ... Still, that's pretty impressive for a new guy.
 Gregor: ... И всё же, для новичка это довольно впечатляюще.
 
-# Original: In any case, where were you headed?
+# Ravi: In any case, where were you headed?
 Ravi: В любом случае, куда вы направлялись?
 
-# Original: Oh, right. We're looking for the elevator. I think it's somewhere in this direction... but I'm not sure.
+# Gregor: Oh, right. We're looking for the elevator. I think it's somewhere in this direction... but I'm not sure.
 Gregor: Ах да. Мы ищем лифт. Думаю, он где-то в той стороне... но я не уверен.
 
-# Original: Oh, th-the elevator...! I... I know where it is. Could I come with you?
+# Sora: Oh, th-the elevator...! I... I know where it is. Could I come with you?
 Sora: Ох, л-лифт...! Я... Я знаю, где он. Можно мне с вами?
 
-# Original: ... Lead the way.
+# Ryōshū: ... Lead the way.
 Ryōshū: ... Веди.
 
-# Original: *bzzt*... these components... *bzzt*...
+# Radio: *bzzt*... these components... *bzzt*...
 Hohenheim: *бззт*... эти компоненты... *бззт*...
 
-# Original: I... I hear voices from the other end of the radio... Is it your team?
+# Sora: I... I hear voices from the other end of the radio... Is it your team?
 Sora: Я... Я слышу голоса с той стороны рации... Это ваша команда?
 
-# Original: <The call's breaking up...>
+# Dante: <The call's breaking up...>
 Dante: <Связь прерывается...>
 
-# Original: Hmm, it seems we've gone past the transmission radius... I wonder how the others are faring.
+# Gregor: Hmm, it seems we've gone past the transmission radius... I wonder how the others are faring.
 Gregor: Хм, похоже, мы вышли за радиус передачи... Интересно, как там остальные.
 
-# Original: I... I hope I can get an update about my colleagues as well...
+# Sora: I... I hope I can get an update about my colleagues as well...
 Sora: Я... Я надеюсь, что тоже смогу узнать новости о моих коллегах...
 
-# Original: I'm with you on that...
+# Ravi: I'm with you on that...
 Ravi: Я тоже на это надеюсь...
 
-# Original: The two LCE researchers sighed anxiously as we hurried in the elevator's direction.
+# Narrator: The two LCE researchers sighed anxiously as we hurried in the elevator's direction.
 Narrator: Два исследователя LCE тревожно вздохнули, пока мы спешили в сторону лифта.

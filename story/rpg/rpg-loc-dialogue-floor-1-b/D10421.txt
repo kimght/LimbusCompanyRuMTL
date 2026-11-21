@@ -1,45 +1,45 @@
-﻿# Original: <color=#7d7d7d>Heed ye, for again I proclaim this day. Blessed be the hall of our rest with eternal preservation.</color>
+﻿# Narrator: <color=#7d7d7d>Heed ye, for again I proclaim this day. Blessed be the hall of our rest with eternal preservation.</color>
 Рассказчик: <color=#7d7d7d>Внемлите, ибо вновь возвещаю я в сей день. Благословен будь чертог нашего упокоения, и да пребудет он в вечной сохранности.</color>
 
-# Original: <color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>
+# Narrator: <color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>
 Рассказчик: <color=#7d7d7d>Но и ныне вы бездействуете, покуда мерзкие и нечестивые без устали вырывают Золото из стен его и присваивают себе златой свет его. Доколе будете вы прощать малодушие своё и покорно принимать конец дней?</color>
 
-# Original: I shall heed your command, Lord. Apostates who dare plunder the Golden Resin shall—
+# Gustave: I shall heed your command, Lord. Apostates who dare plunder the Golden Resin shall—
 Гюстав: Внемлю повелению Твоему, Владыка. Отступники, дерзнувшие расхищать Золотую смолу, да будут…
 
-# Original: ...!
+# Gustave: ...!
 Гюстав: …!
 
-# Original: I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.
+# Gustave: I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.
 Гюстав: Зрю я средь наших покупателей… тех, кто с упоением нежится в тусклом сиянии святотатства.
 
-# Original: Why is he looking at us...? Hey, we were just shopping and minding our own business!
+# Rodion: Why is he looking at us...? Hey, we were just shopping and minding our own business!
 Родион: Чего это он на нас пялится…? Эй, мы просто по магазинам ходили и никого не трогали!
 
-# Original: The employee is speaking to the Manager.
+# Meursault: The employee is speaking to the Manager.
 Мерсо: Сотрудник обращается к Менеджеру.
 
-# Original: That the forces of Le Rouge would seek to foment disorder and profane the sacred domain... Answer, what is this brazen attempt to null the ancient truce?
+# Gustave: That the forces of Le Rouge would seek to foment disorder and profane the sacred domain... Answer, what is this brazen attempt to null the ancient truce?
 Гюстав: Дабы силы Ле Руж возжелали посеять смуту и осквернить священные владения… Ответствуй, что есть сия дерзкая попытка расторгнуть древнее перемирие?
 
-# Original: You listen here, Buddy. I don't even know what this funny "Rouge" business is, 'kay? We're nobodies, we're not in any forces of whatever, and we don't want any trouble!
+# Rodion: You listen here, Buddy. I don't even know what this funny "Rouge" business is, 'kay? We're nobodies, we're not in any forces of whatever, and we don't want any trouble!
 Родион: Слушай сюда, приятель. Я вообще без понятия, что за прикол с этим твоим «Руж», лады? Мы никто, ни в каких силах чего-то там не состоим, и проблемы нам не нужны!
 
-# Original: Ah, then you claim to be Kakis? You, who strut through our store flaunting those irreverent trinkets on your face? Do you expect us to believe you?
+# Gustave: Ah, then you claim to be Kakis? You, who strut through our store flaunting those irreverent trinkets on your face? Do you expect us to believe you?
 Гюстав: Ах, стало быть, вы выдаёте себя за Хаки? Вы, что расхаживаете по нашему магазину, выставляя напоказ эти кощунственные безделушки на лице? И вы ждёте, что мы вам поверим?
 
-# Original: If I were to hazard a guess... I'd say the "blasphemous trinkets" are referring to Dante's clock hands...?
+# Ishmael: If I were to hazard a guess... I'd say the "blasphemous trinkets" are referring to Dante's clock hands...?
 Измаил: Если рискнуть предположить… «кощунственные безделушки» — это, кажется, стрелки часов Данте…?
 
-# Original: <color=#7d7d7d>Thou shalt not suffer those who would scrape out the Golden.
+# Narrator: <color=#7d7d7d>Thou shalt not suffer those who would scrape out the Golden.
 # Thou shalt cleanse our domain of apostasy.</color>
 Рассказчик: <color=#7d7d7d>Не потерпи тех, кто соскребает Золото.
 Очисти владения наши от вероотступничества.</color>
 
-# Original: I shall grant them no mercy... I shall reclaim that radiant resin with my own hands and shore up the fading light of this sanctuary... Yes—your voice reaches me. As the hand of the will that is Le Noir, I shall make my stand here and...!
+# Gustave: I shall grant them no mercy... I shall reclaim that radiant resin with my own hands and shore up the fading light of this sanctuary... Yes—your voice reaches me. As the hand of the will that is Le Noir, I shall make my stand here and...!
 Гюстав: Не дам я им пощады… Своими руками верну я сию лучезарную смолу и укреплю угасающий свет сего святилища… Да — глас Твой достигает меня. Как длань воли, что есть Ле Нуар, я приму здесь свой бой и…!
 
-# Original: <color=#7d7d7d>Thou shalt banish the apostates...
+# Narrator: <color=#7d7d7d>Thou shalt banish the apostates...
 # Thou shalt preserve the Golden hue...
 # Thou art hallow'd with the divine duty to shade the profane light, O keeper of eternal rest...</color>
 Рассказчик: <color=#7d7d7d>Изгони отступников…

@@ -1,87 +1,86 @@
-﻿# Original: Right, then. Was that the last of the Bloodfiends here?
+﻿# Heathcliff: Right, then. Was that the last of the Bloodfiends here?
 Хитклиф: Ладно, тогда. Это был последний из здешних Кровожадов?
 
-# Original: Mhm! 'Twas a victory in our favor!
+# Don Quixote: Mhm! 'Twas a victory in our favor!
 Дон Кихот: Мгм! Сие была победа в нашу пользу!
 
-# Original: No. There's more.
+# Ryōshū: No. There's more.
 Рёшу: Нет. Есть ещё.
 
-# Original: Trembling rats inside that coffin. They lack even a morsel of shame.
+# Ryōshū: Trembling rats inside that coffin. They lack even a morsel of shame.
 Рёшу: Дрожащие крысы внутри того гроба. У них нет и крупицы стыда.
 
-# Original: We opened the coffin Ryōshū singled out...
+# Narrator: We opened the coffin Ryōshū singled out...
 Рассказчик: Мы открыли гроб, на который указала Рёшу...
 
-# Original: Gah! Holy shit!
+# Surprised Bloodfiend: Gah! Holy shit!
 Удивлённый Кровожад: Гах! Чёрт возьми!
 
-# Original: ... and several Bloodfiends came tumbling out.
+# Narrator: ... and several Bloodfiends came tumbling out.
 Рассказчик: ... и оттуда вывалилось несколько Кровожадов.
 
-# Original: L-look who's talking...
+# Gregor: L-look who's talking...
 Грегор: Н-ну и кто бы говорил...
 
-# Original: <... Ryōshū, can you see through walls, by any chance?>
+# Dante: <... Ryōshū, can you see through walls, by any chance?>
 Данте: <... Рёшу, ты случайно не видишь сквозь стены?>
 
-# Original: I only smelled their dirty cowardice.
+# Ryōshū: I only smelled their dirty cowardice.
 Рёшу: Я лишь почуяла их грязную трусость.
 
-# Original: ... Did... did they leave?
+# Surprised Bloodfiend: ... Did... did they leave?
 Удивлённый Кровожад: ... Они... они ушли?
 
-# Original: Who do you mean by 'they'?
+# Hong Lu: Who do you mean by 'they'?
 Хон Лу: Кого ты имеешь в виду под "они"?
 
-# Original: The monsters who came to hunt us... those... bastards going around smashing our rides and attractions...
+# Surprised Bloodfiend: The monsters who came to hunt us... those... bastards going around smashing our rides and attractions...
 Удивлённый Кровожад: Монстры, которые пришли охотиться на нас... те... ублюдки, которые ходят вокруг и крушат наши аттракционы...
 
-# Original: Ohh~ I think I know who you're talking about. Did they make it safely past this attraction?
+# Hong Lu: Ohh~ I think I know who you're talking about. Did they make it safely past this attraction?
 Хон Лу: О-о-о~ Кажется, я знаю, о ком ты говоришь. Они благополучно миновали этот аттракцион?
 
-# Original: Probably...?
+# Surprised Bloodfiend: Probably...?
 Удивлённый Кровожад: Наверное...?
 
-# Original: You didn't get a good look at them?
+# Outis: You didn't get a good look at them?
 Отис: Вы не смогли их хорошо рассмотреть?
 
-# Original: We had no choice. Our roles were to jump out and scare people during the 'The Banquet with Bloodfiends' scene, but... we stayed put in here because they were even scarier...
+# Surprised Bloodfiend: We had no choice. Our roles were to jump out and scare people during the 'The Banquet with Bloodfiends' scene, but... we stayed put in here because they were even scarier...
 Удивлённый Кровожад: У нас не было выбора. Наша роль заключалась в том, чтобы выпрыгивать и пугать людей во время сцены "Банкет с Кровожадами", но... мы остались здесь, потому что они были ещё страшнее...
 
-# Original: Th-the visitors used to scream and run when we'd jump out of these coffins... They really, really loved it... We even took pictures with them once they were done with the attraction...
+# Surprised Bloodfiend: Th-the visitors used to scream and run when we'd jump out of these coffins... They really, really loved it... We even took pictures with them once they were done with the attraction...
 Удивлённый Кровожад: Р-раньше посетители кричали и убегали, когда мы выпрыгивали из этих гробов... Им это действительно, очень нравилось... Мы даже фотографировались с ними, когда они заканчивали проходить аттракцион...
 
-# Original: Hey, guys... wanna know something cool? We're running an event where we'll take a free commemorative picture with you for only 400ml of blood. How's that, how's that? Don't ya wanna leave a picture of this spoooooky experience?
+# Surprised Bloodfiend: Hey, guys... wanna know something cool? We're running an event where we'll take a free commemorative picture with you for only 400ml of blood. How's that, how's that? Don't ya wanna leave a picture of this spoooooky experience?
 Удивлённый Кровожад: Эй, ребята... хотите узнать кое-что классное? У нас проходит акция, в рамках которой мы сделаем бесплатную памятную фотографию с вами всего за 400 мл крови. Как вам, как вам? Разве вы не хотите оставить фото об этом жууууутком приключении?
 
-# Original: 400ml is nothing, right? It's just a little trickle of blood with no danger to your health. I even heard that you humans have to draw blood once in a while anyway to renew your blood supply and keep things fresh and healthy. You all wanna live long, healthy lives, don't you? I betcha do!
+# Surprised Bloodfiend: 400ml is nothing, right? It's just a little trickle of blood with no danger to your health. I even heard that you humans have to draw blood once in a while anyway to renew your blood supply and keep things fresh and healthy. You all wanna live long, healthy lives, don't you? I betcha do!
 Удивлённый Кровожад: 400 мл — это ведь пустяк, верно? Это просто маленькая струйка крови, совершенно безопасная для вашего здоровья. Я даже слышал, что вам, людям, всё равно нужно время от времени сдавать кровь, чтобы обновлять запасы и поддерживать её свежей и здоровой. Вы же все хотите жить долго и здорово, не так ли? Готов поспорить, что хотите!
 
-# Original: Mate, you serious...?
+# Heathcliff: Mate, you serious...?
 Хитклиф: Приятель, ты это серьёзно...?
 
-# Original: Heeugh! No, no. I'm sorry. I won't drink your blood. Not even a drop. I... I didn't want to be a part of that plan anyway... I just wanted to get out of here.
+# Surprised Bloodfiend: Heeugh! No, no. I'm sorry. I won't drink your blood. Not even a drop. I... I didn't want to be a part of that plan anyway... I just wanted to get out of here.
 Удивлённый Кровожад: Хэ-э-эх! Нет, нет. Простите. Я не буду пить вашу кровь. Ни капли. Я... я вообще не хотел участвовать в этом плане... Я просто хотел выбраться отсюда.
 
-# Original: ... That reminds me. I wonder what happened to the one who managed to escape? I should've run away too, when I had the chance...
+# Surprised Bloodfiend: ... That reminds me. I wonder what happened to the one who managed to escape? I should've run away too, when I had the chance...
 Удивлённый Кровожад: ... Кстати. Интересно, что случилось с тем, кому удалось сбежать? Мне тоже следовало бежать, пока был шанс...
 
-# Original: <…….>
-# 
+# Dante: <…….>
 Данте: <…….>
 
-# Original: It is likely that he is referring to Cassetti.
+# Faust: It is likely that he is referring to Cassetti.
 Фауст: Вероятно, он говорит о Кассетти.
 
-# Original: But... would outside be any better? How will I live on? Hiding in sewers like rats... hiding from humans...?
+# Surprised Bloodfiend: But... would outside be any better? How will I live on? Hiding in sewers like rats... hiding from humans...?
 Удивлённый Кровожад: Но... было бы снаружи лучше? Как мне жить дальше? Прятаться в канализации, как крыса... скрываться от людей...?
 
-# Original: I don't want that life... no, but this place is also just... so... ahh...
+# Surprised Bloodfiend: I don't want that life... no, but this place is also just... so... ahh...
 Удивлённый Кровожад: Я не хочу такой жизни... нет, но и это место тоже просто... так... а-ах...
 
-# Original: We're cornered... there's nothing we can do! We have no options left! It's either die or live a life worse than dying...!
+# Surprised Bloodfiend: We're cornered... there's nothing we can do! We have no options left! It's either die or live a life worse than dying...!
 Удивлённый Кровожад: Мы загнаны в угол... нам нечего делать! У нас не осталось выбора! Либо умереть, либо жить жизнью хуже смерти...!
 
-# Original: This accursed La Manchaland!
+# Surprised Bloodfiend: This accursed La Manchaland!
 Удивлённый Кровожад: Этот проклятый Ла-Манчалэнд!

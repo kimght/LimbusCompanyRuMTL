@@ -1,98 +1,98 @@
-# Original: I've returned.
+# Meursault: I've returned.
 Мерсо: Я вернулся.
 
-# Original: There was one message in Shrenne's mailbox that was deemed worth reading.
+# Meursault: There was one message in Shrenne's mailbox that was deemed worth reading.
 Мерсо: В почтовом ящике Шренн было одно сообщение, которое было сочтено достойным прочтения.
 
-# Original: The environment did not permit me to print it out, so I memorized the mail's content.
+# Meursault: The environment did not permit me to print it out, so I memorized the mail's content.
 Мерсо: Обстановка не позволила мне распечатать его, поэтому я запомнил содержание письма.
 
-# Original: 'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'
+# Meursault: 'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'
 Мерсо: "Надеюсь, у вас всё хорошо, мисс Ран. Открывающая скобка, звездочка, слеза, слеза, тильда, карет, карет... закрывающая скобка".
 
-# Original: <Y-You can skip those parts...>
+# Dante: <Y-You can skip those parts...>
 Данте: <Т-ты можешь пропускать эти части...>
 
-# Original: Understood. I will then dispense with punctuation marks that do not appear important.
+# Meursault: Understood. I will then dispense with punctuation marks that do not appear important.
 Мерсо: Понятно. Тогда я опущу знаки пунктуации, которые не кажутся важными.
 
-# Original: 'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'
+# Meursault: 'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'
 Мерсо: "Я пыталась выяснить, правда ли то, что вы сказали, но этот придурок всё усложняет".
 
-# Original: 'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly "best" award.'
+# Shrenne: 'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly "best" award.'
 Шренн: "Меня тоже повысили до руководителя команды, но меня не допустили... просто потому, что я не получила эту глупую награду 'лучшего'".
 
-# Original: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
+# Shrenne: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
 Шренн: "И теперь он набрал сотрудников со стороны, вероятно, чтобы помочь с тем, что он замышляет".
 
-# Original: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
+# Shrenne: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
 Шренн: "Я слышала, что они из недавно созданной компании, и я ещё не проверила, что это за люди. Готова поспорить, они все такие же надменные и высокомерные, как и их клиент".
 
-# Original: 'Still... Still, the plan will proceed as intended.'
+# Shrenne: 'Still... Still, the plan will proceed as intended.'
 Шренн: "Тем не менее... Тем не менее, план будет выполнен, как намечено".
 
-# Original: 'We'll succeed... and return to a glorious past.'
+# Shrenne: 'We'll succeed... and return to a glorious past.'
 Шренн: "Мы добьёмся успеха... и вернёмся к славному прошлому".
 
-# Original: 'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'
+# Shrenne: 'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'
 Шренн: "Честно говоря, моё самое яркое воспоминание - это когда я впервые встретила вас после того, как присоединилась к компании".
 
-# Original: 'But our goal is more ambitious than that.'
+# Shrenne: 'But our goal is more ambitious than that.'
 Шренн: "Но наша цель более амбициозна, чем это".
 
-# Original: 'So, let's promise to meet again there.'
+# Shrenne: 'So, let's promise to meet again there.'
 Шренн: "Так что давайте пообещаем встретиться снова там".
 
-# Original: 'In a past where no technologies existed, allowing everything that existed to shine brighter.'
+# Shrenne: 'In a past where no technologies existed, allowing everything that existed to shine brighter.'
 Шренн: "В прошлом, где не существовало технологий, позволяя всему существующему сиять ярче".
 
-# Original: 'There, chickens will freely fly over the meadows, their wings uncut.'
+# Shrenne: 'There, chickens will freely fly over the meadows, their wings uncut.'
 Шренн: "Там где куры будут свободно летать над лугами, а их крылья не будут отрезаны".
 
-# Original: 'When a person loses their arm, we'll comfort them...'
+# Shrenne: 'When a person loses their arm, we'll comfort them...'
 Шренн: "Когда человек потеряет руку, мы утешим его..."
 
-# Original: 'And learn how to live together even if an arm is missing.'
+# Shrenne: 'And learn how to live together even if an arm is missing.'
 Шренн: "И научимся жить вместе, даже если не хватает руки".
 
-# Original: 'We may not be able to enjoy sumptuous feasts or conveniences of modern civilization, and we won't have nearly as many resources at our disposal...'
+# Shrenne: 'We may not be able to enjoy sumptuous feasts or conveniences of modern civilization, and we won't have nearly as many resources at our disposal...'
 Шренн: "Возможно, мы не сможем наслаждаться роскошными пирами или удобствами современной цивилизации, и у нас не будет в распоряжении столько ресурсов..."
 
-# Original: 'In that vastness... We'll be free to walk all day.'
+# Shrenne: 'In that vastness... We'll be free to walk all day.'
 Шренн: "В этих просторах... Мы будем свободны ходить весь день".
 
-# Original: 'Oh, I'm planning to bring Fixers from the outside for the plan. My juniors have gotten too used to the ampules.'
+# Shrenne: 'Oh, I'm planning to bring Fixers from the outside for the plan. My juniors have gotten too used to the ampules.'
 Шренн: "О, я планирую привлечь Корректировщиков со стороны для плана. Мои младшие коллеги слишком привыкли к ампулам".
 
-# Original: 'If rapid development can only be achieved by means that cause pain and suffering to people...'
+# Shrenne: 'If rapid development can only be achieved by means that cause pain and suffering to people...'
 Шренн: "Если быстрое развитие может быть достигнуто только средствами, которые причиняют боль и страдания людям..."
 
-# Original: 'Then I'm willing to give up on all the prosperity it brings'.
+# Meursault: 'Then I'm willing to give up on all the prosperity it brings'.
 Мерсо: "Тогда я готова отказаться от всего процветания, которое оно приносит".
 
-# Original: 'That's all I have to say for now. Yours in haste...'
+# Meursault: 'That's all I have to say for now. Yours in haste...'
 Мерсо: "Это всё, что я хотела сказать на данный момент. С уважением..."
 
-# Original: Star, star, heart heart heart.
+# Meursault: Star, star, heart heart heart.
 Мерсо: Звездочка, звездочка, сердечко, сердечко, сердечко.
 
-# Original: You don't have to read all that!
+# Heathcliff: You don't have to read all that!
 Хитклиф: Тебе не нужно читать всё это!
 
-# Original: There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.
+# Meursault: There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.
 Мерсо: Существует вероятность того, что это могла быть последовательность или шифр, поэтому я счёл разумным зачитать это и позволить менеджеру определить его значимость, вместо того чтобы размышлять, стоит ли мне опустить это и исключить возможность того, что это может быть необходимой информацией.
 
-# Original: <Good work...>
+# Dante: <Good work...>
 Данте: <Хорошая работа...>
 
-# Original: How ironic.
+# Ishmael: How ironic.
 Измаил: Как иронично.
 
-# Original: I guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...
+# Ishmael: I guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...
 Измаил: Полагаю, ей повезло, что она не увидела, как члены альянса за освобождение безжалостно убивают исследователей...
 
-# Original: She probably believed she was working for a noble cause to end violence until the end of her life...
+# Rodion: She probably believed she was working for a noble cause to end violence until the end of her life...
 Родион: Она, вероятно, верила, что работает ради благородной цели по прекращению насилия до конца своей жизни...
 
-# Original: But I agree, it was probably best for her that she died holding onto that belief.
+# Rodion: But I agree, it was probably best for her that she died holding onto that belief.
 Родион: Но я согласна, наверное, для неё было лучше умереть, сохранив эту веру.

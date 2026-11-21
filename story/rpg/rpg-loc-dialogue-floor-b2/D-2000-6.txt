@@ -1,14 +1,14 @@
-﻿# Original: We've hit a D.E. My scabbard isn't enough to cut through it, and the sword refuses to be drawn.
+﻿# Ryōshū: We've hit a D.E. My scabbard isn't enough to cut through it, and the sword refuses to be drawn.
 Рёшу: Мы зашли в Т. Ножнам это не рассечь, а меч отказывается покидать ножны.
 
-# Original: ... We should scout the area and locate this "Skein Nest," Executive Manager.
+# Outis: ... We should scout the area and locate this "Skein Nest," Executive Manager.
 Отис: ... Нам следует разведать местность и отыскать это «Гнездо Мотков», Исполнительный Менеджер.
 
-# Original: <Do you know where it is, Meursault?>
+# Dante: <Do you know where it is, Meursault?>
 Данте: <Ты знаешь, где оно, Мерсо?>
 
-# Original: The map is quite worn, but we will be able to reach our destination if we follow the route to the right.
+# Meursault: The map is quite worn, but we will be able to reach our destination if we follow the route to the right.
 Мерсо: Карта изрядно потёрта, но мы сможем добраться до места назначения, если пойдём по пути справа.
 
-# Original: <Good. Let's be on our way.>
+# Dante: <Good. Let's be on our way.>
 Данте: <Хорошо. Тогда в путь.>

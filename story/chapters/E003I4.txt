@@ -1,161 +1,161 @@
-﻿# Original: <Gaah!>
+﻿# Dante: <Gaah!>
 Dante: <Гааах!>
 
-# Original: A-am I in...
+# Narrator: A-am I in...
 Narrator: Я-я в...
 
-# Original: Huh. You keep getting these nightmare cycles on the Bus, Manager Bud.
+# Gregor: Huh. You keep getting these nightmare cycles on the Bus, Manager Bud.
 Gregor: Ха. У вас все никак не прекратятся эти циклы кошмаров в Автобусе, Менеджер-дружище.
 
-# Original: N-nightmare...? So it was all a dream?
+# Narrator: N-nightmare...? So it was all a dream?
 Narrator: К-кошмар?.. Так это все был сон?
 
-# Original: <Hah. Figures...>
+# Dante: <Hah. Figures...>
 Dante: <Хах. Ожидаемо...>
 
-# Original: As the buzzing in my head gradually settled, the sound of the bus engine came back into focus—I guess what just happened must've been a dream, nothing more.
+# Narrator: As the buzzing in my head gradually settled, the sound of the bus engine came back into focus—I guess what just happened must've been a dream, nothing more.
 Narrator: По мере того как гул в моей голове постепенно стихал, звук двигателя автобуса вновь стал отчетливым — полагаю, то, что только что произошло, было не более чем сном.
 
-# Original: <Ngh... Thanks, Gregor... You saying it was a nightmare snapped me out of it.>
+# Dante: <Ngh... Thanks, Gregor... You saying it was a nightmare snapped me out of it.>
 Dante: <Мгх... Спасибо, Грегор... Твои слова о том, что это был кошмар, привели меня в чувство.>
 
-# Original: Hey, no problem. Or if you really wanna thank me... We could use a hand with <i>that</i>.
+# Gregor: Hey, no problem. Or if you really wanna thank me... We could use a hand with <i>that</i>.
 Gregor: Эй, без проблем. А если вы действительно хотите меня отблагодарить... Нам бы не помешала помощь с <i>этим</i>.
 
-# Original: Where Gregor pointed, the Sinners were arguing loudly over something.
+# Narrator: Where Gregor pointed, the Sinners were arguing loudly over something.
 Narrator: Там, куда указал Грегор, Грешники о чем-то громко спорили.
 
-# Original: *sigh* Again with where to go for the team dinner. They each want what they think is the best since it's been a while.
+# Gregor: *sigh* Again with where to go for the team dinner. They each want what they think is the best since it's been a while.
 Gregor: *вздох* Опять спорят, куда пойти на совместный ужин. Каждый хочет то, что ему кажется лучшим, ведь прошло немало времени с прошлого раза.
 
-# Original: Dream or reality... Some things never change. It's almost amazing how they keep getting into the same arguments.
+# Narrator: Dream or reality... Some things never change. It's almost amazing how they keep getting into the same arguments.
 Narrator: Сон или реальность... Некоторые вещи никогда не меняются. Почти поразительно, как они продолжают ввязываться в одни и те же споры.
 
-# Original: ... And I don't even get to eat anything.
+# Narrator: ... And I don't even get to eat anything.
 Narrator: ...А мне даже не удается ничего поесть.
 
-# Original: Well, Manager Bud... I'm sure <i>you</i> oughta have a wise way to shush them quick. Right?
+# Gregor: Well, Manager Bud... I'm sure <i>you</i> oughta have a wise way to shush them quick. Right?
 Gregor: Что ж, Менеджер-дружище... Я уверен, что у <i>вас</i> наверняка найдется мудрый способ быстро их утихомирить. Верно?
 
-# Original: "Wise" way? Did I ever have a "wise" way to quiet them down?
+# Narrator: "Wise" way? Did I ever have a "wise" way to quiet them down?
 Narrator: «Мудрый» способ? А у меня вообще был когда-нибудь «мудрый» способ их успокоить?
 
-# Original: <Uh, well... To the time-out chair, everyone!>
+# Dante: <Uh, well... To the time-out chair, everyone!>
 Dante: <Эм, ну... Все на стул для наказаний!>
 
-# Original: Oh, I'm probably still half-asleep...
+# Narrator: Oh, I'm probably still half-asleep...
 Narrator: Ох, я, наверное, всё ещё в полусне...
 
-# Original: <... Sorry, that came out weird. What I mean to say is...>
+# Dante: <... Sorry, that came out weird. What I mean to say is...>
 Dante: <...Простите, прозвучало странно. Я хотел сказать, что...>
 
-# Original: I was awkwardly scratching the back of my head when I noticed that somehow, the Sinners had all gone quiet.
+# Narrator: I was awkwardly scratching the back of my head when I noticed that somehow, the Sinners had all gone quiet.
 Narrator: Я неловко чесал затылок, когда заметил, что Грешники почему-то затихли.
 
-# Original: <Huh?>
+# Dante: <Huh?>
 Dante: <А?>
 
-# Original: Slowly, one by one... they clenched their mouths shut and took their seats...
+# Narrator: Slowly, one by one... they clenched their mouths shut and took their seats...
 Narrator: Медленно, один за другим... они плотно сжали губы и заняли свои места...
 
-# Original: As if they were children who were anticipating one heck of a scolding.
+# Narrator: As if they were children who were anticipating one heck of a scolding.
 Narrator: Словно дети, ожидающие хорошей такой взбучки.
 
-# Original: <W-what's going on, guys...?>
+# Dante: <W-what's going on, guys...?>
 Dante: <Ч-что происходит, ребята?..>
 
-# Original: Everyone... Please keep quiet... The Terror T-rexes will come if you're noisy in the time-out chair...
+# Ishmael: Everyone... Please keep quiet... The Terror T-rexes will come if you're noisy in the time-out chair...
 Ishmael: Все... Пожалуйста, тише... Жуткие ти-рексы придут, если вы будете шуметь на стуле для наказаний...
 
-# Original: Terror T-rexes...?
+# Narrator: Terror T-rexes...?
 Narrator: Жуткие ти-рексы?..
 
-# Original: Hang on... Why do they recognize that name?
+# Narrator: Hang on... Why do they recognize that name?
 Narrator: Погодите-ка... Почему им знакомо это название?
 
-# Original: I'm so, so scared... Heard the Terror T-rexes gobble up bad kids in a single bite...
+# Rodion: I'm so, so scared... Heard the Terror T-rexes gobble up bad kids in a single bite...
 Rodion: Мне так-так страшно... Слышала, что Жуткие ти-рексы проглатывают плохих детей за один укус...
 
-# Original: There's even a rumor saying... that they always go on external learning... so they can catch any children who misbehave...
+# Ishmael: There's even a rumor saying... that they always go on external learning... so they can catch any children who misbehave...
 Ishmael: Ходят даже слухи... что они всегда ездят на выездное обучение... чтобы ловить непослушных детей...
 
-# Original: What are they on about? We're on Mephistopheles...
+# Narrator: What are they on about? We're on Mephistopheles...
 Narrator: О чем они? Мы же в «Мефистофеле»...
 
-# Original: Aha.
+# Narrator: Aha.
 Narrator: Ага.
 
-# Original: There are two seats empty.
+# Narrator: There are two seats empty.
 Narrator: Два места пустуют.
 
-# Original: Big Teesh Danteeehh....
+# Vergilius: Big Teesh Danteeehh....
 Vergilius: Гвавный Уч Даантеее....
 
-# Original: The otha fwiends are being noisy again...
+# Vergilius: The otha fwiends are being noisy again...
 Vergilius: Двугие длузья опять шумят...
 
-# Original: Eeek...! It's the Red Theropod, Terror T-rex's Class Captain!
+# Sinclair: Eeek...! It's the Red Theropod, Terror T-rex's Class Captain!
 Sinclair: Ииик!.. Это Красный Теропод, капитан класса Жутких ти-рексов!
 
-# Original: When do I get... uppies fwom you...?
+# Vergilius: When do I get... uppies fwom you...?
 Vergilius: Когда я... пойду к теве на лучки...?
 
-# Original: <W-w-what on earth are you saying...?! S-stay back...!>
+# Dante: <W-w-what on earth are you saying...?! S-stay back...!>
 Dante: <Ч-ч-что, черт возьми, ты несешь...?! О-отойди!..>
 
-# Original: Uppies...? <size=80%>Uppies...?</size> <size=60%>Uppies...?</size>
+# Vergilius: Uppies...? <size=80%>Uppies...?</size> <size=60%>Uppies...?</size>
 Vergilius: На лучки...? <size=80%>На лучки...?</size> <size=60%>На лучки...?</size>
 
-# Original: <Nooo!!!!>
+# Dante: <Nooo!!!!>
 Dante: <Нееет!!!!>
 
-# Original: <*huff* *huff* *choke*>
+# Dante: <*huff* *huff* *choke*>
 Dante: <*хрип* *хрип* *давится*>
 
-# Original: Is this... my room?
+# Narrator: Is this... my room?
 Narrator: Это... моя комната?
 
-# Original: Then... was that just now also a dream?
+# Narrator: Then... was that just now also a dream?
 Narrator: Значит... то, что только что было, тоже сон?
 
-# Original: So I had two dreams in a row, huh...
+# Narrator: So I had two dreams in a row, huh...
 Narrator: Так мне приснилось два сна подряд, да...
 
-# Original: <That was such a weird-ass dream... *sigh*>
+# Dante: <That was such a weird-ass dream... *sigh*>
 Dante: <Это был чертовски странный сон... *вздох*>
 
-# Original: ... No, it's still too early to let my guard down.
+# Narrator: ... No, it's still too early to let my guard down.
 Narrator: ...Нет, еще рано расслабляться.
 
-# Original: I could still be trapped in a dream world. R-right, I should try pinching my cheek to make sure!
+# Narrator: I could still be trapped in a dream world. R-right, I should try pinching my cheek to make sure!
 Narrator: Я все еще могу быть в ловушке мира снов. П-правда, мне стоит ущипнуть себя за щеку, чтобы проверить!
 
-# Original: <Dang it! Forgot I got a clock for a head. Fine, then the thigh... and one on the arm too!>
+# Dante: <Dang it! Forgot I got a clock for a head. Fine, then the thigh... and one on the arm too!>
 Dante: <Черт! Забыл, что у меня часы вместо головы. Ладно, тогда за бедро... и за руку тоже!>
 
-# Original: Apologies for coming in without knocking, Dante, but there is an urgent matter to discuss—
+# Faust: Apologies for coming in without knocking, Dante, but there is an urgent matter to discuss—
 Faust: Прошу прощения, что вошла без стука, Данте, но есть срочное дело для обсуждения—
 
-# Original: <…….>
+# Dante: <…….>
 Dante: <.......>
 
-# Original: Have you developed a sudden urge for self-harm? No such phenomenon has ever been reported before...
+# Faust: Have you developed a sudden urge for self-harm? No such phenomenon has ever been reported before...
 Faust: У тебя внезапно появилась тяга к самоповреждению? Ранее о подобных явлениях не сообщалось...
 
-# Original: <No, no, Faust. Wait. Hear me out first.>
+# Dante: <No, no, Faust. Wait. Hear me out first.>
 Dante: <Нет, нет, Фауст. Подожди. Сначала выслушай меня.>
 
-# Original: You may require immediate medical examination. First...
+# Faust: You may require immediate medical examination. First...
 Faust: Тебе может потребоваться немедленный медицинский осмотр. Сперва...
 
-# Original: It took a good long while to try and explain to Faust the ridiculous situation I found myself in, but in the end, I managed to clear things up.
+# Narrator: It took a good long while to try and explain to Faust the ridiculous situation I found myself in, but in the end, I managed to clear things up.
 Narrator: Потребовалось немало времени, чтобы попытаться объяснить Фауст нелепую ситуацию, в которой я оказался, но в конце концов мне удалось все прояснить.
 
-# Original: And thankfully, this part wasn't a dream.
+# Narrator: And thankfully, this part wasn't a dream.
 Narrator: И, к счастью, эта часть не была сном.
 
-# Original: Just...
+# Narrator: Just...
 Narrator: Просто...
 
-# Original: Just another anecdote to be told about a certain day on the Bus.
+# Narrator: Just another anecdote to be told about a certain day on the Bus.
 Narrator: Просто еще один случай, который можно рассказать об очередном дне в Автобусе.

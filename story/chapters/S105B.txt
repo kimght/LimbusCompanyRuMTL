@@ -1,158 +1,158 @@
-﻿# Original: Hey! That’s enough of that. We’re expecting a guest any time now.
+﻿# Vergilius: Hey! That’s enough of that. Our guest will be here any moment.
 Вергилий: Эй! Поторапливайтесь. Мы ожидаем гостью.
 
-# Original: Vergilius said, poking his head out the window.
+# Narrator: Vergilius said, poking his head out the window.
 Рассказчик: Крикнул Вергилий, высунув голову из окна автобуса.
 
-# Original: <A guest? Who?>
+# Dante: <Guest? Who?>
 Данте: <Кого это, гостью?>
 
-# Original: I’ve determined that we’ll need a guide as this is our first trip to a dungeon.
+# Faust: I have determined that we will need a guide as this is our first trip to a dungeon.
 Фауст: Это наша первая поездка в подземный филиал, так что нам понадобится гид.
 
-# Original: Excuse me… Are you the people from Limbus Company?
+# Yuri: Excuse me... Are you the people from Limbus Company?
 Юри: Ам, вы, случаем… не ребята из компании «Лимбус»?
 
-# Original: Someone approaches us slowly.
+# Narrator: Someone approaches us with apparent hesitation.
 Рассказчик: Я увидел девушку, что, замедлившись, подходила к нашему автобусу.
 
-# Original: Looks like it…
+# Yuri: You sure look like it...
 Юри: Похоже на то…
 
-# Original: The bus had just about finished its meal, crunching on the last remaining bone chips.
+# Narrator: The bus had just about finished its meal and was crunching down on the last bits of bone.
 Рассказчик: Автобус только закончил свою "трапезу" и напоследок похрустывал оставшимися обломками костей.
 
-# Original: Yuri watched it indifferently before introducing herself.
+# Narrator: Yuri watched it indifferently before introducing herself.
 Рассказчик: Юри некоторое время спокойно наблюдала за этой картиной, прежде чем поприветствовать нас.
 
-# Original: I’m Yuri, a former employee of the previous L Corp. I look forward to working with you.
+# Yuri: I’m Yuri, a former employee of the previous L Corp. I look forward to working with you.
 Юри: Меня зовут Юри, и я — бывшая сотрудница старой корпорации L. Рассчитываю на сотрудничество с вами.
 
-# Original: <By L Corp, do you mean…>
+# Dante: <"Previous" L Corp.? You mean...>
 Данте: <Старая корпорация L…>
 
-# Original: Has to be Lobotomy Corporation.
+# Gregor: Has to be Lobotomy Corporation.
 Грегор: Походу, она о корпорации «Лоботомия».
 
-# Original: That’s right, we will explore the former branch facilities of Lobotomy Corporation—also called the old L Corp.
+# Faust: Correct. We will move on to explore the former branch facilities of Lobotomy Corporation—that is, the fallen L Corp.
 Фауст: Да, мы будем исследовать филиалы корпорации «Лоботомия»… Также известной, как “старая корпорация L”.
 
-# Original: If I were you, I wouldn’t have taken part in this.
+# Ishmael: I wouldn't have taken this job if I were you, even if somebody specifically requested me.
 Измаил: На твоём месте я бы держалась за тридевять земель от подобных затей.
 
-# Original: Being a fallen Wing and everything, I doubt your employment ended on pleasant terms.
+# Ishmael: I doubt the end of your employment here left any pleasant memories, it being a fallen Wing and all.
 Измаил: Связь с павшим Крылом обычно не кончается хорошо.
 
-# Original: What’re you on about? Any point in your life can be pleasant as long as you’ve money to spend.
+# Rodion: What’re you on about? Fallen Wing or not, a huge payday'll turn any brutal work into a charming memory.
 Родион: О чём ты? Будь то Крыло или что-то ещё, жизнь и воспоминания о ней прекрасны, пока ты при деньгах.
 
-# Original: Hrm, I heard those places are still teeming with monsters to this day…
+# Gregor: Hrm, I heard those facilities are still crawling with monsters even now...
 Грегор: Хэ-э, ходят слухи, что там до сих пор шастает уйма монстров.
 
-# Original: Not “monsters”, Abnormalities. The rumors are true, either way. But there are more important matters.
+# Faust: Not "monsters"—Abnormalities. Regardless, what you said is true. But it is also a home to more important things than those entities.
 Фауст: Не "монстры", но аномалии. Это правда. Однако, кроме них есть и более важные вещи.
 
-# Original: In the deepest reaches of these branches are neoplastic plantlike growths holding the essence of L Corp’s technology.
+# Faust: In the deepest zones of these branch facilities are plantlike growths that have only recently begun to form: the essence of L Corp.'s technology.
 Фауст: В самой глубине филиалов хранятся ключевые эссенции технологии старой корпорации L, что вот-вот готовы "распуститься".
 
-# Original: Dante, if you remember, I believe I offered to let you finish engraving your Aspect a few days ago.
+# Vergilius: Dante, if you remember what I said a few days back, I offered you the chance to eventually engrave your Aspect.
 Вергилий: Данте, помните, что я говорил вам парочку дней назад? Вы сможете начертить Аспект.
 
-# Original: With the essence… those Golden Boughs in our hands, it’ll be as easy as pie.
+# Vergilius: Once this "essence"—the Golden Boughs—is retrieved, it'll be easy as pie.
 Вергилий: С этой эссенцией… С Золотыми ветвями, которые вы соберёте, это не составит никакого труда.
 
-# Original: The word ‘Aspect’ still makes my head ache.
+# Narrator: Hearing the word "Aspect" still makes my head ache.
 Рассказчик: Моя голова болезненно отозвалась на "Аспект" в его словах.
 
-# Original: What was ‘I’ trying to do?
+# Narrator: What exactly was "I" trying to do?
 Рассказчик: Что, чёрт возьми, "я" пытался сделать?
 
-# Original: There’s no need to rouse your brain trying to remember what you can’t. It’ll all come back in due time.
+# Faust: There’s no need to rouse your brain trying to remember what you can’t. It’ll all come back in due time.
 Фауст: Не заставляйте себя вспоминать то, что не можете. Со временем, всё придёт.
 
-# Original: I returned a slow nod to Faust’s placid advice.
+# Narrator: I returned a slow nod to Faust’s placid advice.
 Рассказчик: Услышав спокойные слова Фауст, я медленно кивнул.
 
-# Original: Alright, for now, I should focus on what I currently know and see.
+# Narrator: Alright, for now, I should focus on what my present self is able to process.
 Рассказчик: И в самом деле, лучше судить по тому, что есть.
 
-# Original: <And if it’s Lobotomy Corp we’re scouring… we might find some Enkephalin, too.>
+# Dante: <And if it’s Lobotomy Corp we’re scouring... we might come across some Enkephalin, too.>
 Данте: <Эта компания «Лоботомия»… Скорее всего, там должно остаться немного Энкефалина.>
 
-# Original: Oh, does that mean we won’t have to… feed people into our vehicle?
+# Sinclair: Oh, does that mean we won’t have to... feed more people to our vehicle?
 Синклер: А, значит… нам больше не придётся скармливать людей этой махине, да?
 
-# Original: We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone.
+# Ishmael: We could also grab some E.G.O if we’re lucky, so that’s three rats with one stone.
 Измаил: К тому же, если нам повезёт, мы отыщем ЭГО — убьём трёх Крыс одним выстрелом.
 
-# Original: E.G.O? That’s another unknown term that makes my head tilt…
+# Narrator: E.G.O? That’s another unknown term that makes me tilt my head...
 Рассказчик: ЭГО? Вновь услышав неизвестное слово, я невольно наклонил голову, но…
 
-# Original: But in any case, it seemed rather rude to keep talking to each other when we had a guest on board.
+# Narrator: But in any case, it seemed rather rude to keep talking to each other when we had a guest on board.
 Рассказчик: К нам присоединился новый человек, и неправильно говорить между собой, оставляя того без внимания.
 
-# Original: …And someone else seemed to agree.
+# Narrator: ... And apparently, I wasn't the only one who thought so.
 Рассказчик: …И, похоже, не только я так думаю.
 
-# Original: So, Miss Yuri, what’ve you been up to since the layoff?
+# Gregor: So, Miss Yuri, what’ve you been up to after L Corp.?
 Грегор: Но зачем это вам, мисс Юри?
 
-# Original: Gregor gave his best shot at making some conversation with a well-meaning smile to put the newest passenger at ease.
+# Narrator: Gregor flashed what looked like his best attempt at a kind smile at our new passenger, hoping to strike up a conversation.
 Рассказчик: Грегор постарался изобразить как можно более приятное выражение лица при попытке начать разговор с новым пассажиром нашего автобуса.
 
-# Original: His brows seemed to twitch due to a lack of practice, but it’s no big deal.
+# Narrator: The corners of his eyes twitched from forcing a facial expression he obviously wasn't used to, but I pretended not to notice.
 Рассказчик: Казалось, его брови начали подрагивать от непривычной эмоции, но мы сделали вид, что этого не замечаем.
 
-# Original: It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!
+# Don Quixote: It appears to me that thou art an honorable Fixer! It is said that all Fixers exude the noble scent of heroes!
 Дон Кихот: Сдаётся мне, предо мной стоит корректировщица! От каждого корректировщика веет благородством героев!
 
-# Original: As Yuri was nodding lightly, I heard Ishmael let out a deep sigh.
+# Narrator: As Yuri gave a slight nod, I heard Ishmael release a deep sigh.
 Рассказчик: Юри легонько кивнула, и Измаил тяжко вздохнула.
 
-# Original: I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves.
+# Ishmael: I don’t know who gave you that idea, but Fixers are anything but noble or heroic. The only scent you’ll smell is the miserable stink of wage slaves.
 Измаил: Не знаю, откуда ты это взяла, но в корректировщиках нет ничего благородного или святого. А несёт от них только жалостью потрёпанных наёмных рабов.
 
-# Original: …It couldn’t have been easy to find another job so soon. Good that you’re holding up.
+# Gregor: ... It couldn’t have been easy to find another job so soon. Good that you’re holding up.
 Грегор: …Нелегко так скоро найти новое место работы. Хорошо, что вы держитесь на плаву.
 
-# Original: For now… I’m just a contract worker.
+# Yuri: For now... I’m just a contract worker.
 Юри: Сейчас, правда… я лишь контрактница.
 
-# Original: Aha. That explains why you decided to crawl on back there.
+# Ishmael: Aha. That explains why you decided to come crawling back here.
 Измаил: А-ха. Теперь понятно, зачем ты приползла сюда.
 
-# Original: Did they promise to promote you to team leader or something if you struck gold in your former workplace?
+# Ishmael: Did they promise you a team leader position or something in exchange for a major find in what's left of your previous workplace?
 Измаил: Тебе сказали, что поднимут тебя до лидера команды, если ты обворуешь своё прошлое место работы?
 
-# Original: …My contracts might get extended if I return with results.
+# Yuri: ... My contracts might get extended if I return with results.
 Юри: …Если я не подведу, мне могут продлить контракт.
 
-# Original: R—Right. A good result is something to risk your life for if you want to earn a permanent spot.
+# Gregor: R-right. Strong performance becomes a life-or-death matter if you're aiming for a permanent spot.
 Грегор: К-конечно… Если ты контрактник, то ради хороших результатов для места на работе можно и жизнью рискнуть.
 
-# Original: Ha, and what a futile life that is.
+# Ishmael: *sigh* And what a pointless life that is.
 Измаил: Ха, какое ж бесполезное прожигание жизни.
 
-# Original: (Hey, what’s with the sarcasm? Is something a problem?)
+# Gregor: (Hey, what's with all the sarcasm? Something grinding your gears?)
 Грегор: (Эй, почему ты настолько саркастична? Что не так?)
 
-# Original: …I dunno, I have a problem with every single thing I’m hearing right now. 
+# Ishmael: ... I dunno, every single thing I'm hearing right now is getting on my nerves.
 Измаил: …Ну не знаю, на мой взгляд тут вообще всё не так.
 
-# Original: Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat.
+# Narrator: Seemingly unaffected by the abrasive attitude, Yuri quietly took an empty seat.
 Рассказчик: Словно её это не задело, Юри осмотрелась и заняла свободное сидение.
 
-# Original: Looking back and forth between the two, Gregor returned to his seat as well, scratching his head.
+# Narrator: Glancing between the two of them, Gregor returned to his seat as well, scratching his head.
 Рассказчик: Грегор взглянул то на Юри, то на Измаил, почесал затылок и вскоре занял своё место.
 
-# Original: <I… can’t seem to get used to being around these people.>
+# Dante: <I... I don't think I'll ever get used to being around these people.>
 Данте: <Я не могу свыкнуться с этими людьми.>
 
-# Original: It will be beneficial for you to adapt to them sooner than later, Dante.
+# Vergilius: You'll want to fit in fast if you want to make your job easier, Dante.
 Вергилий: Вам стоит поскорей привыкнуть к этому, Данте.
 
-# Original: …Charon, time to go. Our guest has taken her seat.
+# Vergilius: ... Charon, time to go. Our guest has taken her seat.
 Вергилий: …Харон, трогай. Гостья заняла своё место.
 
-# Original: Mephi’s tum revived. Charon’s raring to drive.
+# Charon: Mephi’s tum revived. Charon’s raring to drive.
 Харон: Животик Мефи, бип-бип. Харон тоже — бип-бип.

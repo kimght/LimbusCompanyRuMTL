@@ -1,41 +1,41 @@
-﻿# Original: Hey. I need to ask you something.
+﻿# Outis: Hey. I need to ask you something.
 Отис: Эй. Мне нужно кое-что у тебя спросить.
 
-# Original: Though she didn't specify who, I had a pretty good guess that the "hey" in question was directed at Meursault.
+# Narrator: Though she didn't specify who, I had a pretty good guess that the "hey" in question was directed at Meursault.
 Рассказчик: Хотя она и не уточнила, к кому обращается, я почти не сомневался, что это «эй» предназначалось Мерсо.
 
-# Original: Ask.
+# Meursault: Ask.
 Мерсо: Спрашивайте.
 
-# Original: Have you been here before?
+# Outis: Have you been here before?
 Отис: Ты бывал здесь раньше?
 
-# Original: It was the same question Ishmael had asked earlier. A reasonable one, too, as it was hard not to wonder how Meursault has so much detailed knowledge about this strange place, as though he were entirely familiar with it.
+# Narrator: It was the same question Ishmael had asked earlier. A reasonable one, too, as it was hard not to wonder how Meursault has so much detailed knowledge about this strange place, as though he were entirely familiar with it.
 Рассказчик: Измаил уже задавала ему этот вопрос. И вполне обоснованно: трудно было не задуматься, откуда Мерсо столько знает об этом странном месте — так подробно, словно здесь ему всё знакомо.
 
-# Original: No. I have not been in here before.
+# Meursault: No. I have not been in here before.
 Мерсо: Нет. Раньше я здесь не бывал.
 
-# Original: Then explain just how you happen to know so much about this place.
+# Outis: Then explain just how you happen to know so much about this place.
 Отис: Тогда объясни, откуда у тебя столь обширные сведения об этом месте.
 
-# Original: Outis narrowed her eyes. That usually indicates that she's either suspicious of someone, or has already engaged her "interrogation mode."
+# Narrator: Outis narrowed her eyes. That usually indicates that she's either suspicious of someone, or has already engaged her "interrogation mode."
 Рассказчик: Отис прищурилась. Обычно это означает, что она либо кого-то подозревает, либо уже включила «режим допроса».
 
-# Original: ... I was told about it.
+# Meursault: ... I was told about it.
 Мерсо: ... Мне о нём рассказывали.
 
-# Original: Then your source was at least in a managerial position within the Grand Magasin, I'd wager. If they were just another lifer like the rest of the prisoners here, I doubt they would've had the means to reach you.
+# Outis: Then your source was at least in a managerial position within the Grand Magasin, I'd wager. If they were just another lifer like the rest of the prisoners here, I doubt they would've had the means to reach you.
 Отис: Тогда, полагаю, твой источник занимал в Гран-Магазэне как минимум руководящую должность. Сомневаюсь, что у обычного пожизненно заключённого, вроде остальных здешних узников, была бы возможность с тобой связаться.
 
-# Original: Correct.
+# Meursault: Correct.
 Мерсо: Верно.
 
-# Original: What was the nature of your relationship with that individual?
+# Outis: What was the nature of your relationship with that individual?
 Отис: Какой характер носили твои отношения с этим лицом?
 
-# Original: The collaborative kind.
+# Meursault: The collaborative kind.
 Мерсо: Мы сотрудничали.
 
-# Original: <color=#ebcaa2>The kind that gets... pretty steamy.</color>
+# Narrator: <color=#ebcaa2>The kind that gets... pretty steamy.</color>
 Рассказчик: <color=#ebcaa2>И это сотрудничество... Было довольно горячим.</color>

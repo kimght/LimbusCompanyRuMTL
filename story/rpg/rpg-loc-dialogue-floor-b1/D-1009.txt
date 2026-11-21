@@ -1,162 +1,161 @@
-﻿# Original: Huh. A talking doll... Are you another one of those Mannequin things?
+﻿# Gregor: Huh. A talking doll... Are you another one of those Mannequin things?
 Грегор: Хм. Говорящая кукла... Ты тоже из этих Манекенов?
 
-# Original: I am not a doll, you hear?! I am the Sous Chef, you hear?
+# Sous Chef: I am not a doll, you hear?! I am the Sous Chef, you hear?
 Су-шеф: Я не кукла, слышь?! Я Су-шеф, слышь?
 
-# Original: To think I'd be compared to a Mannequin... I'll not be having that sort of cheek, you hear?!
+# Sous Chef: To think I'd be compared to a Mannequin... I'll not be having that sort of cheek, you hear?!
 Су-шеф: Подумать только, меня сравнили с Манекеном... Я такой дерзости не потерплю, слышь?!
 
-# Original: <Sous Chef...?>
+# Dante: <Sous Chef...?>
 Данте: <Су-шеф...?>
 
-# Original: The second-highest rank in a kitchen, commonly referred to as the deputy or assistant head chef.
+# Meursault: The second-highest rank in a kitchen, commonly referred to as the deputy or assistant head chef.
 Мерсо: Второй по старшинству чин на кухне, обычно именуемый заместителем или помощником шеф-повара.
 
-# Original: Exactly, you hear? Nobody outranks me except Boucher, you hear?
+# Sous Chef: Exactly, you hear? Nobody outranks me except Boucher, you hear?
 Су-шеф: Именно, слышь? Только Буше надо мной главный, слышь?
 
-# Original: <Far more a bigshot than I expected... despite appearances.>
+# Dante: <Far more a bigshot than I expected... despite appearances.>
 Данте: <Куда более важная персона, чем я ожидал... внешность обманчива.>
 
-# Original: <Then maybe she knows where the Golden Cocoon is?>
+# Dante: <Then maybe she knows where the Golden Cocoon is?>
 Данте: <Тогда, может, она знает, где Золотой кокон?>
 
-# Original: Faust nodded and stepped forward.
+# Narrator: Faust nodded and stepped forward.
 Рассказчик: Фауст кивнула и шагнула вперёд.
 
-# Original: ... We are searching for the Golden Cocoon.
+# Faust: ... We are searching for the Golden Cocoon.
 Фауст: ... Мы ищем Золотой кокон.
 
-# Original: We were informed that it could be obtained on Floor B1. Do you possess any relevant information?
+# Faust: We were informed that it could be obtained on Floor B1. Do you possess any relevant information?
 Фауст: Нам сообщили, что его можно получить на этаже B1. Вы располагаете какими-либо сведениями об этом?
 
-# Original: The Golden Cocoon...? I don't know what it is, you hear?
+# Sous Chef: The Golden Cocoon...? I don't know what it is, you hear?
 Су-шеф: Золотой кокон...? Не знаю, что это такое, слышь?
 
-# Original: It refers to a golden object or an entity that surrounds the pupa.
+# Meursault: It refers to a golden object or an entity that surrounds the pupa.
 Мерсо: Так называется золотой предмет или образование, окружающее куколку.
 
-# Original: I don't know what a "pupa" is, you hear?
+# Sous Chef: I don't know what a "pupa" is, you hear?
 Су-шеф: Я не знаю, что такое «куколка», слышь?
 
-# Original: Ah... I suppose we gotta start explaning from there.
+# Gregor: Ah... I suppose we gotta start explaining from there.
 Грегор: А... Похоже, объяснять придётся с самого начала.
 
-# Original: <Yeah... The language of this place isn't exactly based on the common sense we're familiar with.>
+# Dante: <Yeah... The language of this place isn't exactly based on the common sense we're familiar with.>
 Данте: <Да... Язык этого места не совсем опирается на привычный нам здравый смысл.>
 
-# Original: But I've seen that golden twinkle, you hear? I wonder if you're talking about that specialty ingredient in Boucher's storeroom, you hear?
+# Sous Chef: But I've seen that golden twinkle, you hear? I wonder if you're talking about that specialty ingredient in Boucher's storeroom, you hear?
 Су-шеф: Но золотой блеск я видела, слышь? Может, вы про тот особый ингредиент в кладовой Буше, слышь?
 
-# Original: Mm, that's probably the one.
+# Meursault: Mm, that's probably the one.
 Мерсо: Мм, вероятно, это он.
 
-# Original: Good. Nice when things move along this quickly.
+# Gregor: Good. Nice when things move along this quickly.
 Грегор: Хорошо. Приятно, когда всё так быстро продвигается.
 
-# Original: But ingredients in Boucher's meat storage are not for sale, you hear?
+# Sous Chef: But ingredients in Boucher's meat storage are not for sale, you hear?
 Су-шеф: Но ингредиенты из мясной кладовой Буше не продаются, слышь?
 
-# Original: Every last bit of them have to go into the soda, you hear?
+# Sous Chef: Every last bit of them have to go into the soda, you hear?
 Су-шеф: Все до последнего кусочка должны пойти в газировку, слышь?
 
-# Original: Tch. We need it pretty badly ourselves... Any way we can work something out?
+# Gregor: Tch. We need it pretty badly ourselves... Any way we can work something out?
 Грегор: Тц. Нам он тоже позарез нужен... Может, как-нибудь договоримся?
 
-# Original: Hmm... Maybe if you bring the right substitute, you can barter for it, you hear?
+# Sous Chef: Hmm... Maybe if you bring the right substitute, you can barter for it, you hear?
 Су-шеф: Хмм... Может, если принесёте подходящую замену, сможете его выменять, слышь?
 
-# Original: Let's see if you can be the right substitute, you hear?
+# Sous Chef: Let's see if you can be the right substitute, you hear?
 Су-шеф: Давайте посмотрим, сгодитесь ли вы на замену, слышь?
 
-# Original: <Us?!>
+# Dante: <Us?!>
 Данте: <Мы?!>
 
-# Original: Hmm... Certainly not you, you hear? Squid-ink heads come in all the time; they're dime-a-dozen, you hear?
+# Sous Chef: Hmm... Certainly not you, you hear? Squid-ink heads come in all the time; they're dime-a-dozen, you hear?
 Су-шеф: Хмм... Ты точно не сгодишься, слышь? Головы с чернилами кальмара к нам всё время попадают; их тут пруд пруди, слышь?
 
-# Original: .......
+# Faust: .......
 Фауст: .......
 
-# Original: This one looks much too tough to cook, you hear?
+# Sous Chef: This one looks much too tough to cook, you hear?
 Су-шеф: Этот на вид слишком жёсткий, не разваришь, слышь?
 
-# Original: Mm.
+# Meursault: Mm.
 Мерсо: Мм.
 
-# Original: And this one's... rare, but our brew doesn't need more stretched time, you hear?
+# Sous Chef: And this one's... rare, but our brew doesn't need more stretched time, you hear?
 Су-шеф: А этот... редкий, но растянутого времени в нашем вареве и так хватает, слышь?
 
-# Original: <Should I be relieved...?>
+# Dante: <Should I be relieved...?>
 Данте: <Мне стоит вздохнуть с облегчением...?>
 
-# Original: The Sous Chef circled us, sniffed the air, then stopped in front of Gregor.
+# Narrator: The Sous Chef circled us, sniffed the air, then stopped in front of Gregor.
 Рассказчик: Су-шеф обошла нас кругом, принюхалась, а затем остановилась перед Грегором.
 
-# Original: She began hopping up and down, unable to contain her excitement.
+# Narrator: She began hopping up and down, unable to contain her excitement.
 Рассказчик: Она запрыгала на месте, не в силах сдержать восторг.
 
-# Original: So deep, so full-bodied...! Crazy flavor, you hear? I want it, you hear? It's so buggy-buggy, you hear?!
+# Sous Chef: So deep, so full-bodied...! Crazy flavor, you hear? I want it, you hear? It's so buggy-buggy, you hear?!
 Су-шеф: Такой глубокий, такой насыщенный...! Обалденный вкус, слышь? Хочу, слышь? Такой жучий-прежучий, слышь?!
 
-# Original: W-what do you want? And what's that about "buggy-buggy?!"
+# Gregor: W-what do you want? And what's that about "buggy-buggy?!"
 Грегор: Ч-чего ты хочешь? И что ещё за «жучий-прежучий»?!
 
-# Original: Boucher'll sign off without a peep for that creepy-crawly arm, you hear? Tit-for-tat, you hear?
+# Sous Chef: Boucher'll sign off without a peep for that creepy-crawly arm, you hear? Tit-for-tat, you hear?
 Су-шеф: За такую жуткую-ползучую руку Буше и слова не скажет, сразу согласится, слышь? Баш на баш, слышь?
 
-# Original: Huh...! Is she actually salivating for my arm? I'll be damned, that's a first.
+# Gregor: Huh...! Is she actually salivating for my arm? I'll be damned, that's a first.
 Грегор: Ха...! У неё что, и правда слюнки на мою руку текут? Чёрт побери, вот уж впервые.
 
-# Original: <I think they want to use Gregor's arm... as an ingredient.>
+# Dante: <I think they want to use Gregor's arm... as an ingredient.>
 Данте: <Кажется, они хотят использовать руку Грегора... как ингредиент.>
 
-# Original: <But... Uh, is that even an option?>
+# Dante: <But... Uh, is that even an option?>
 Данте: <Но... Э-э, это вообще возможно?>
 
-# Original: Cutting off Gregor's arm? Is that even possible in here...?
-#
+# Narrator: Cutting off Gregor's arm? Is that even possible in here...?
 Рассказчик: Отрубить Грегору руку? Разве здесь это возможно...?
 
-# Original: Thanks to Meursault, the rest of us can now physically interact with objects within Grand Magasin Sisyphe. We can now pick things up and move them around, but...
+# Narrator: Thanks to Meursault, the rest of us can now physically interact with objects within Grand Magasin Sisyphe. We can now pick things up and move them around, but...
 Рассказчик: Благодаря Мерсо мы теперь тоже можем физически взаимодействовать с предметами в Гран-Магазэне Сизиф. Можем брать их и перемещать, но...
 
-# Original: So far, it still seems that Meursault's the only one susceptible to injury and death here... at least from those inflicted by the customers of this place. I wasn't sure if that law extended to the rest of the Sinners.
+# Narrator: So far, it still seems that Meursault's the only one susceptible to injury and death here... at least from those inflicted by the customers of this place. I wasn't sure if that law extended to the rest of the Sinners.
 Рассказчик: Пока что, похоже, лишь Мерсо здесь можно ранить или убить... по крайней мере, покупатели этого места могут навредить только ему. Я не был уверен, распространяется ли это правило на остальных Грешников.
 
-# Original: More importantly...
+# Narrator: More importantly...
 Рассказчик: И, что важнее...
 
-# Original: This damned arm always grows back anyway, but...
+# Gregor: This damned arm always grows back anyway, but...
 Грегор: Эта проклятая рука всё равно всегда отрастает, но...
 
-# Original: <I... don't think we should do anything to your arm. Got a bad feeling about this—we don't know if it'll grow back without any other risks involved.>
+# Dante: <I... don't think we should do anything to your arm. Got a bad feeling about this—we don't know if it'll grow back without any other risks involved.>
 Данте: <Я... думаю, с твоей рукой лучше ничего не делать. У меня плохое предчувствие — мы не знаем, отрастёт ли она без каких-нибудь ещё последствий.>
 
-# Original: I couldn't exactly say why,
+# Narrator: I couldn't exactly say why,
 Рассказчик: Я не мог толком объяснить почему,
 
-# Original: But I had this feeling that the result of cutting off Gregor's arm within the Symbolic wouldn't be as simple as a new bug arm growing back from the stump.
+# Narrator: But I had this feeling that the result of cutting off Gregor's arm within the Symbolic wouldn't be as simple as a new bug arm growing back from the stump.
 Рассказчик: Но было у меня такое чувство: если отрубить Грегору руку в Символическом, всё не ограничится новой конечностью насекомого, выросшей из обрубка.
 
-# Original: Yeah, this place is supposed to be some kind of mental... uh, a weird space we shouldn't mess around in, right? Guess that kills the deal, then.
+# Gregor: Yeah, this place is supposed to be some kind of mental... uh, a weird space we shouldn't mess around in, right? Guess that kills the deal, then.
 Грегор: Ага, это место вроде как какое-то ментальное... э-э, странное пространство, в котором лучше не экспериментировать, да? Значит, сделка отменяется.
 
-# Original: If there's another item you would be willing to accept in exchange—
+# Meursault: If there's another item you would be willing to accept in exchange—
 Мерсо: Если есть другой предмет, который вы согласились бы принять в обмен...
 
-# Original: Nothing else'll do now, you hear? Not after that delicious whiff of your buggy-buggy aroma, you hear?!
+# Sous Chef: Nothing else'll do now, you hear? Not after that delicious whiff of your buggy-buggy aroma, you hear?!
 Су-шеф: Теперь мне ничто другое не нужно, слышь? Не после того, как я учуяла твой вкуснющий жучий-прежучий аромат, слышь?!
 
-# Original: <She's not listening to reason at all...>
+# Dante: <She's not listening to reason at all...>
 Данте: <Она вообще не слушает доводов...>
 
-# Original: Fine! I'll just have to make sure you contribute whether you want to or not, you hear?!
+# Sous Chef: Fine! I'll just have to make sure you contribute whether you want to or not, you hear?!
 Су-шеф: Ладно! Придётся заставить тебя внести свой вклад, хочешь ты того или нет, слышь?!
 
-# Original: Hand over the bug arm, you hear?!
+# Sous Chef: Hand over the bug arm, you hear?!
 Су-шеф: Отдавай жучью руку, слышь?!
 
-# Original: Oh, great... Straight to robbery she goes.
+# Gregor: Oh, great... Straight to robbery she goes.
 Грегор: Ну, прекрасно... Сразу к грабежу перешла.

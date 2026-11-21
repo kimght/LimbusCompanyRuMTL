@@ -1,47 +1,47 @@
-﻿# Original: I did not speak matter-of-factly. I spoke the matter of fact.
+﻿# Meursault: I did not speak matter-of-factly. I spoke the matter of fact.
 Мерсо: Я не говорил с невозмутимым видом. Я констатировал факт.
 
-# Original: <Does that mean... there's no way out whatsoever for us?>
+# Dante: <Does that mean... there's no way out whatsoever for us?>
 Данте: <То есть... нам отсюда вообще никак не выбраться?>
 
-# Original: Dante, can you not jinx us like that...?
+# Rodion: Dante, can you not jinx us like that...?
 Родион: Данте, ну не каркай... а?
 
-# Original: You and the others entered this place by means that cannot be described as conventional, Manager. An exit may exist in your case.
+# Meursault: You and the others entered this place by means that cannot be described as conventional, Manager. An exit may exist in your case.
 Мерсо: Менеджер, вы и остальные попали сюда способом, который нельзя назвать обычным. В вашем случае выход может существовать.
 
-# Original: However, that possibility does not guarantee that I can be removed from this place.
+# Meursault: However, that possibility does not guarantee that I can be removed from this place.
 Мерсо: Однако эта возможность не гарантирует, что меня удастся вывести отсюда.
 
-# Original: Ya sound like... you've been here before, Meur. Have you?
+# Rodion: Ya sound like... you've been here before, Meur. Have you?
 Родион: Ты так говоришь... будто уже бывал здесь, Мер. Бывал?
 
-# Original: This place is reserved for criminals sentenced to the Sisyphe Penalty. Residents who have not violated N Corp.'s laws cannot arrive here through ordinary means.
+# Meursault: This place is reserved for criminals sentenced to the Sisyphe Penalty. Residents who have not violated N Corp.'s laws cannot arrive here through ordinary means.
 Мерсо: Это место предназначено для преступников, приговорённых к Наказанию Сизифа. Жители, не нарушившие законы Корпорации N, не могут попасть сюда обычным путём.
 
-# Original: Then how do you know so much about it?
+# Rodion: Then how do you know so much about it?
 Родион: Тогда откуда ты столько о нём знаешь?
 
-# Original: ... I acquired the information while working for N Corp.
+# Meursault: ... I acquired the information while working for N Corp.
 Мерсо: ...Я получил эти сведения, когда работал в Корпорации N.
 
-# Original: It was difficult to imagine Meursault in an idle conversation with other people, with a cup in his hands.
+# Narrator: It was difficult to imagine Meursault in an idle conversation with other people, with a cup in his hands.
 Повествователь: Трудно было представить, как Мерсо с чашкой в руках ведёт с кем-то праздную беседу.
 
-# Original: But if nobody who enters can ever leave, how could anyone have told you—*sigh* never mind. Rodya's right. We're talking in circles now.
+# Ishmael: But if nobody who enters can ever leave, how could anyone have told you—*sigh* never mind. Rodya's right. We're talking in circles now.
 Измаил: Но если никто из попавших сюда не может выйти, как тебе вообще могли рассказать... *вздох* Ладно, неважно. Родя права. Мы опять переливаем из пустого в порожнее.
 
-# Original: Anyway, it all comes down to us having to retrieve the Golden Bough, right? Even though there's no "proper" exit we can find.
+# Ishmael: Anyway, it all comes down to us having to retrieve the Golden Bough, right? Even though there's no "proper" exit we can find.
 Измаил: В общем, нам в любом случае нужно забрать Золотую Ветвь, верно? Даже если «нормального» выхода мы тут не найдём.
 
-# Original: Then... I suppose our only option is to climb toward the top. We found a way to sail through the Great Lake—we will find a way to navigate this place as well.
+# Ishmael: Then... I suppose our only option is to climb toward the top. We found a way to sail through the Great Lake—we will find a way to navigate this place as well.
 Измаил: Тогда... видимо, нам остаётся только подниматься наверх. Нашли же мы способ пройти через Великое озеро — и здесь разберёмся.
 
-# Original: I considered for a moment whether it would be wise to point out that the ship had come equipped with a coordinates tracker to tell us where we were, but decided to bite my proverbial tongue. Deadpan truths are not always helpful.
+# Narrator: I considered for a moment whether it would be wise to point out that the ship had come equipped with a coordinates tracker to tell us where we were, but decided to bite my proverbial tongue. Deadpan truths are not always helpful.
 Повествователь: Я на миг задумался, стоит ли напомнить, что на судне был координатный трекер, который показывал наше местоположение, но решил придержать язык. Фигурально выражаясь. Сухая констатация фактов не всегда полезна.
 
-# Original: Virtual or not, as the Manager of the team, there was only one thing I could ever say.
+# Narrator: Virtual or not, as the Manager of the team, there was only one thing I could ever say.
 Повествователь: Виртуальное это место или нет, как Менеджер команды я мог сказать лишь одно.
 
-# Original: <Then let's keep moving. There should be stairs or something else that can take us to the next floor.>
+# Dante: <Then let's keep moving. There should be stairs or something else that can take us to the next floor.>
 Данте: <Тогда идём дальше. Здесь должна быть лестница или что-нибудь ещё, по чему можно подняться на следующий этаж.>

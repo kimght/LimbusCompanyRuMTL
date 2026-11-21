@@ -1,101 +1,101 @@
-# Original: Will this... blow up once it stops working like the last one?
+# Sinclair: Will this... blow up once it stops working like the last one?
 Синклер: Этот... взорвется, когда перестанет работать, как предыдущий?
 
-# Original: As we suspected, the halted machine began to play an ominous noise.
+# Narrator: As we suspected, the halted machine began to play an ominous noise.
 Рассказчик: Как мы и подозревали, остановившаяся машина начала издавать зловещий шум.
 
-# Original: Alright, so, this is the second time you killed my machines, right?
+# Melted Machine: Alright, so, this is the second time you killed my machines, right?
 Устрашающая машина: Так, значит, это уже второй раз, как вы уничтожили мои машины, верно?
 
-# Original: Let's see...
+# Melted Machine: Let's see...
 Устрашающая машина: Давайте посмотрим...
 
-# Original: You're a bunch of roaches that do nothing other than just crawl on the floor.
+# Melted Machine: You're a bunch of roaches that do nothing other than just crawl on the floor.
 Устрашающая машина: Вы просто кучка тараканов, которые только и умеют, что ползать по полу.
 
-# Original: It's okay, it's okay. Don't let it let you down, Greg...
+# Rodion: It's okay, it's okay. Don't let it let you down, Greg...
 Родион: Все нормально, все нормально. Не расстраивайся из-за этого, Грег...
 
-# Original: ...I wasn't feeling anything.
+# Gregor: ...I wasn't feeling anything.
 Грегор: ...Я ничего и не чувствовал.
 
-# Original: So... go on and keep crawling like the bugs you are.
+# Melted Machine: So... go on and keep crawling like the bugs you are.
 Устрашающая машина: Так что... продолжайте ползать, как букашки, которыми вы и являетесь.
 
-# Original: Why bother looking up when you'll be spending all your lives on that flat dimension of the surface, am I right?
+# Melted Machine: Why bother looking up when you'll be spending all your lives on that flat dimension of the surface, am I right?
 Устрашающая машина: Зачем вообще смотреть вверх, если вы всю свою жизнь проведете в этом плоском измерении на поверхности, я права?
 
-# Original: I understand now. Once the machines stop functioning, they play a prerecorded voice clip, then explode seconds after.
+# Meursault: I understand now. Once the machines stop functioning, they play a prerecorded voice clip, then explode seconds after.
 Мерсо: Теперь я понимаю. Когда машины прекращают функционировать, они воспроизводят предварительно записанную голосовую запись, а затем взрываются через несколько секунд.
 
-# Original: It is unclear what purpose they are meant to serve, but all the machines are equipped with the same mechanisms.
+# Meursault: It is unclear what purpose they are meant to serve, but all the machines are equipped with the same mechanisms.
 Мерсо: Неясно, какую цель они должны выполнять, но все машины оснащены одинаковыми механизмами.
 
-# Original: Pre...recorded? I didn't see that one coming...
+# Gregor: Pre...recorded? I didn't see that one coming...
 Грегор: Пред...записанный? Я такого не ожидал...
 
-# Original: Hah, everyone's making fun of you, eh, buggy bloke.
+# Heathcliff: Hah, everyone's making fun of you, eh, buggy bloke.
 Хитклиф: Ха, все над тобой издеваются, а, жучок?
 
-# Original: ...It sure is baffling how the whole world is bending over backward to mock me...
+# Gregor: ...It sure is baffling how the whole world is bending over backward to mock me...
 Грегор: ...Удивительно, как весь мир изо всех сил старается надо мной посмеяться...
 
-# Original: Pah, that's a tame reaction... Hm? O-Oi, what's wrong with you now?
+# Heathcliff: Pah, that's a tame reaction... Hm? O-Oi, what's wrong with you now?
 Хитклиф: Пф, какая скучная реакция... Хм? Э-эй, что с тобой теперь?
 
-# Original: Hrk...
+# Ishmael: Hrk...
 Измаил: Хрк...
 
-# Original: <What's the matter, Ishmael? Are you alright?>
+# Dante: <What's the matter, Ishmael? Are you alright?>
 Данте: <Что случилось, Измаил? Ты в порядке?>
 
-# Original: Yes... I'm just feeling a little queasy...
+# Ishmael: Yes... I'm just feeling a little queasy...
 Измаил: Да... Просто немного тошнит...
 
-# Original: You don't have to mind me. I'm fine now.
+# Ishmael: You don't have to mind me. I'm fine now.
 Измаил: Не обращайте на меня внимания. Мне уже лучше.
 
-# Original: There's something I've been meaning to ask, what kind of organization is this... technology liberation alliance?
+# Hong Lu: There's something I've been meaning to ask, what kind of organization is this... technology liberation alliance?
 Хон Лу: Я давно хотел спросить, что это за организация... альянс освобождения технологий?
 
-# Original: Why do you bother asking such questions? All we need to know about them is that it's a terrorist organization with a hollow name; their values are irrelevant to us.
+# Outis: Why do you bother asking such questions? All we need to know about them is that it's a terrorist organization with a hollow name; their values are irrelevant to us.
 Отис: Зачем ты задаешь такие вопросы? Все, что нам нужно знать о них, это то, что это террористическая организация с пустым названием; их ценности для нас не имеют значения.
 
-# Original: Haha, you never know what use the information might have, Outis.
+# Hong Lu: Haha, you never know what use the information might have, Outis.
 Хон Лу: Хаха, никогда не знаешь, какую пользу может принести информация, Отис.
 
-# Original: I know little about them myself. I did hear that someone who used to work in a K Corp. laboratory is now one of the organization's core members. Though, I don't have the details as this took place before I joined the firm.
+# Samjo: I know little about them myself. I did hear that someone who used to work in a K Corp. laboratory is now one of the organization's core members. Though, I don't have the details as this took place before I joined the firm.
 Самджо: Я сам мало знаю о них. Я слышал, что кто-то, кто раньше работал в лаборатории Корпорации К, теперь является одним из ключевых членов организации. Хотя у меня нет подробностей, так как это произошло до того, как я присоединился к фирме.
 
-# Original: She was an outstanding researcher who was once awarded the best employee award, much like Mr. Dongrang is now.
+# Samjo: She was an outstanding researcher who was once awarded the best employee award, much like Mr. Dongrang is now.
 Самджо: Она была выдающимся исследователем, которая однажды получила награду лучшего сотрудника, совсем как сейчас господин Донран.
 
-# Original: What? How do you know that?
+# Shrenne: What? How do you know that?
 Шренн: Что? Откуда ты это знаешь?
 
-# Original: I saw her name on one of the plaques in the trophy room. Wouldn't you say it's mandatory for someone of my occupation to remember all the names there?
+# Samjo: I saw her name on one of the plaques in the trophy room. Wouldn't you say it's mandatory for someone of my occupation to remember all the names there?
 Самджо: Я видел ее имя на одной из табличек в комнате трофеев. Разве не обязательно для кого-то моей профессии помнить все имена там?
 
-# Original: Why do you keep peeking in there, anyway...?
+# Shrenne: Why do you keep peeking in there, anyway...?
 Шренн: Зачем ты вообще туда постоянно заглядываешь...?
 
-# Original: ...What could be the reason a highly praised employee decided to join terrorists...
+# Ishmael: ...What could be the reason a highly praised employee decided to join terrorists...
 Измаил: ...Что могло стать причиной того, что высоко оцененный сотрудник решил присоединиться к террористам...
 
-# Original: ……
+# Shrenne: ……
 Шренн: ……
 
-# Original: I believe you saw her once earlier. She was enthusiastically destroying my lab.
+# Dongrang: I believe you saw her once earlier. She was enthusiastically destroying my lab.
 Донран: Я думаю, вы видели ее ранее. Она с энтузиазмом разрушала мою лабораторию.
 
-# Original: Right around when Shrenne and I joined the company, she was... well, rather famous within the firm.
+# Dongrang: Right around when Shrenne and I joined the company, she was... well, rather famous within the firm.
 Донран: Примерно в то время, когда мы с Шренн присоединились к компании, она была... ну, довольно известна в фирме.
 
-# Original: I heard rumors that she had wanted to test the limits of K Corp's technologies.
+# Dongrang: I heard rumors that she had wanted to test the limits of K Corp's technologies.
 Донран: Я слышал слухи, что она хотела проверить пределы технологий Корпорации К.
 
-# Original: Then one day... rumors about her leaving the laboratory spread.
+# Dongrang: Then one day... rumors about her leaving the laboratory spread.
 Донран: Затем однажды... распространились слухи о том, что она покинула лабораторию.
 
-# Original: Saying that this is where she ended up.
+# Dongrang: Saying that this is where she ended up.
 Донран: Говорят, что именно здесь она в итоге оказалась.

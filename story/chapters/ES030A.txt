@@ -1,179 +1,179 @@
-﻿# Original: From the rumors you've gathered, it seems that the kezhankeep might have heard of the whereabouts of that sword. What will you do?
+﻿# Ishmael: From the rumors you've gathered, it seems that the kezhankeep might have heard of the whereabouts of that sword. What will you do?
 Измаил: Судя по слухам, что вы собрали, хозяин кэчжаня мог слышать о местонахождении того меча. Что будете делать?
 
-# Original: I... I walk up to the kezhankeep, chat him up and try to gain his trust.
+# Sinclair: I... I walk up to the kezhankeep, chat him up and try to gain his trust.
 Синклер: Я... я подойду к хозяину кэчжаня, разговорю его и попытаюсь войти к нему в доверие.
 
-# Original: Uhm... Are you sure? Remember, your WIS is extremely low right now, which means that you'll find it hard to form even the simplest sentences.
+# Ishmael: Uhm... Are you sure? Remember, your WIS is extremely low right now, which means that you'll find it hard to form even the simplest sentences.
 Измаил: Гм... Ты уверен? Помни, у тебя сейчас крайне низкая МДР, а это значит, что тебе будет трудно связать даже пару простых предложений.
 
-# Original: …….
+# Sinclair: …….
 Синклер: …….
 
-# Original: Whaaaat if... I found a different way to gain the kezhankeep's trust that doesn't involve sweet-talking him? I do have a pretty high STR stat, which should give me access to certain... alternative methods of persuasion that doesn't require Skill in Speechcraft.
+# Sinclair: Whaaaat if... I found a different way to gain the kezhankeep's trust that doesn't involve sweet-talking him? I do have a pretty high STR stat, which should give me access to certain... alternative methods of persuasion that doesn't require Skill in Speechcraft.
 Синклер: А чтоооо если... я найду другой способ завоевать доверие хозяина, без попыток его уболтать? У меня ведь довольно высокая СИЛ, что должно дать мне доступ к некоторым... альтернативным методам убеждения, не требующим навыка красноречия.
 
-# Original: Hold on...
+# Jia Xichun: Hold on...
 Цзя Сичунь: Погодите...
 
-# Original: I'll try to convince the kezhankeep.
+# Jia Xichun: I'll try to convince the kezhankeep.
 Цзя Сичунь: Я попробую убедить хозяина кэчжаня.
 
-# Original: I think I've got a decent chance at this. My WIS is pretty high.
+# Jia Xichun: I think I've got a decent chance at this. My WIS is pretty high.
 Цзя Сичунь: Думаю, у меня неплохие шансы. Моя МДР довольно высока.
 
-# Original: And you... pass the check. The kezhankeep looks at you, having lowered his guard.
+# Ishmael: And you... pass the check. The kezhankeep looks at you, having lowered his guard.
 Измаил: И ты... проходишь проверку. Хозяин кэчжаня смотрит на тебя, ослабив бдительность.
 
-# Original: Oh, not you, Sinclair. He's still pretty wary of you.
+# Ishmael: Oh, not you, Sinclair. He's still pretty wary of you.
 Измаил: О, не на тебя, Синклер. Тебя он всё ещё опасается.
 
-# Original: ... Ookay, then. I guess I'll just stand in the corner over there, unsheathe my weapon, and play around with it for a bit. That's what he expects me to do anyway, isn't it?
+# Sinclair: ... Ookay, then. I guess I'll just stand in the corner over there, unsheathe my weapon, and play around with it for a bit. That's what he expects me to do anyway, isn't it?
 Синклер: ...Лааадно, тогда. Наверное, я просто встану вон там в углу, достану оружие и немного с ним поиграю. Он ведь этого от меня и ждёт, да?
 
-# Original: <You're just roleplaying Heathcliff now, aren't you...?>
+# Dante: <You're just roleplaying Heathcliff now, aren't you...?>
 Данте: <Ты сейчас просто отыгрываешь Хитклифа, не так ли?..>
 
-# Original: Ahem... the kezhankeep shares some information about the sword he heard. He explains that the party should seek northeast, toward <ruby=Cloudrise>Yinzhi</ruby> Mountain.
+# Ishmael: Ahem... the kezhankeep shares some information about the sword he heard. He explains that the party should seek northeast, toward <ruby=Cloudrise>Yinzhi</ruby> Mountain.
 Измаил: Кхм... хозяин кэчжаня делится кое-какой информацией о мече, о котором слышал. Он объясняет, что отряду следует двигаться на северо-восток, к горе Иньчжи.
 
-# Original: But... ah, what's this? Tears begin to well in the kezhankeep's eyes as he continues to explain.
+# Ishmael: But... ah, what's this? Tears begin to well in the kezhankeep's eyes as he continues to explain.
 Измаил: Но... а, что это? Пока он продолжает рассказывать, на его глазах наворачиваются слёзы.
 
-# Original: Apparently a patrolling guard beat his son pretty badly, just for loitering around the guard. The wound is pretty severe so he needs medicine, but he can't seem to find any.
+# Ishmael: Apparently a patrolling guard beat his son pretty badly, just for loitering around the guard. The wound is pretty severe so he needs medicine, but he can't seem to find any.
 Измаил: Оказывается, патрульный стражник жестоко избил его сына просто за то, что тот слонялся рядом. Рана довольно серьёзная, ему нужно лекарство, но он никак не может его найти.
 
-# Original: Oh no...
+# Sinclair: Oh no...
 Синклер: О нет...
 
-# Original: That's too bad, but we've got a job to do.
+# Jia Xichun: That's too bad, but we've got a job to do.
 Цзя Сичунь: Это очень плохо, но у нас есть дело.
 
-# Original: Since we have what we came here for, we leave the kezhan.
+# Jia Xichun: Since we have what we came here for, we leave the kezhan.
 Цзя Сичунь: Раз мы получили то, за чем пришли, мы уходим из кэчжаня.
 
-# Original: Well, they say that JMs aren't supposed to interfere with the players' choices, but... let's be honest. I would've made the same choice. You can't stop and help out for every little side quest when there's a whole lot of adventure to go through.
+# Ishmael: Well, they say that JMs aren't supposed to interfere with the players' choices, but... let's be honest. I would've made the same choice. You can't stop and help out for every little side quest when there's a whole lot of adventure to go through.
 Измаил: Ну, говорят, что Мастера не должны вмешиваться в выбор игроков, но... будем честны. Я бы поступила так же. Нельзя останавливаться и помогать с каждым мелким побочным квестом, когда впереди ещё столько приключений.
 
-# Original: No, we're not leaving. I'm going to get him that medicine.
+# Sinclair: No, we're not leaving. I'm going to get him that medicine.
 Синклер: Нет, мы не уходим. Я достану ему это лекарство.
 
-# Original: What...?
+# Jia Xichun: What...?
 Цзя Сичунь: Что?..
 
-# Original: After a few turns of various trials and tribulations for Sinclair...
+# Narrator: After a few turns of various trials and tribulations for Sinclair...
 Рассказчик: Спустя несколько ходов, полных различных испытаний и невзгод для Синклера...
 
-# Original: ... The kezhankeep's son, who fortunately was able to recover, hears your story and hesitantly shares what he knows.
+# Ishmael: ... The kezhankeep's son, who fortunately was able to recover, hears your story and hesitantly shares what he knows.
 Измаил: ...Сын хозяина кэчжаня, который, к счастью, смог поправиться, выслушивает вашу историю и нерешительно делится тем, что знает.
 
-# Original: You realize that he's talking about the fairy yaoguai, guardian of the Tianya Sword.
+# Ishmael: You realize that he's talking about the fairy yaoguai, guardian of the Tianya Sword.
 Измаил: Вы понимаете, что он говорит о Фее Яогуай, хранительнице Меча Тянья.
 
-# Original: He explains that the fairy yaoguai's power grows under bright moonlight...
+# Ishmael: He explains that the fairy yaoguai's power grows under bright moonlight...
 Измаил: Он объясняет, что сила Феи Яогуай растёт под ярким лунным светом...
 
-# Original: Hold on, isn't it full moon right now? Then... then we should wait until the sky's overcast!
+# Jia Xichun: Hold on, isn't it full moon right now? Then... then we should wait until the sky's overcast!
 Цзя Сичунь: Постойте, сейчас ведь полнолуние? Тогда... тогда нам стоит подождать, пока небо не затянет тучами!
 
-# Original: Hearing that, the innkeep's son takes a quick look at the clouds, then tells you that it might be raining in about a week.
+# Ishmael: Hearing that, the innkeep's son takes a quick look at the clouds, then tells you that it might be raining in about a week.
 Измаил: Услышав это, сын хозяина бросает быстрый взгляд на облака, а затем говорит вам, что примерно через неделю может пойти дождь.
 
-# Original: Glad we helped him out...
+# Jia Xichun: Glad we helped him out...
 Цзя Сичунь: Рада, что мы ему помогли...
 
-# Original: Phew, okay. Let's make sure we're prepared before we go.
+# Sinclair: Phew, okay. Let's make sure we're prepared before we go.
 Синклер: Фух, ладно. Давайте убедимся, что мы готовы, прежде чем идти.
 
-# Original: You're gonna have to roll 15 or higher to hit...
+# Sinclair: You're gonna have to roll 15 or higher to hit...
 Синклер: Тебе нужно будет выкинуть 15 или больше, чтобы попасть...
 
-# Original: … I know. I’m focused.
+# Jia Xichun: … I know. I’m focused.
 Цзя Сичунь: …Я знаю. Я сосредоточена.
 
-# Original: Hey, I rolled a 16!
+# Jia Xichun: Hey, I rolled a 16!
 Цзя Сичунь: Ура, я выкинула 16!
 
-# Original: ... With a final, singular strike from Jia Xichun, the fairy yaoguai finally falls to the ground, <i>defeated</i>.
+# Ishmael: ... With a final, singular strike from Jia Xichun, the fairy yaoguai finally falls to the ground, <i>defeated</i>.
 Измаил: ...Одним последним, единственным ударом Цзя Сичунь Фея Яогуай наконец падает на землю, <i>поверженная</i>.
 
-# Original: Yes! The Tianya Sword is ours!
+# Sinclair: Yes! The Tianya Sword is ours!
 Синклер: Да! Меч Тянья наш!
 
-# Original: Excited, the party runs up to the sword embedded deep into the earth, and grabs enthusiastically upon the hilt.
+# Ishmael: Excited, the party runs up to the sword embedded deep into the earth, and grabs enthusiastically upon the hilt.
 Измаил: Взволнованный отряд подбегает к мечу, глубоко вонзённому в землю, и с энтузиазмом хватается за рукоять.
 
-# Original: Ah... with this, we can...!
+# Jia Xichun: Ah... with this, we can...!
 Цзя Сичунь: Ах... с этим мы сможем!..
 
-# Original: However...
+# Ishmael: However...
 Измаил: Однако...
 
-# Original: The <i>defeated</i> fairy yaoguai, whom the party assumed was dead, suddenly jumps to its feet and lunges at Jia Xichun, who just pulled the sword from the ground!
+# Ishmael: The <i>defeated</i> fairy yaoguai, whom the party assumed was dead, suddenly jumps to its feet and lunges at Jia Xichun, who just pulled the sword from the ground!
 Измаил: <i>Поверженная</i> Фея Яогуай, которую отряд счёл мёртвой, внезапно вскакивает на ноги и бросается на Цзя Сичунь, только что вытащившую меч из земли!
 
-# Original: N-no!
+# Sinclair: N-no!
 Синклер: Н-нет!
 
-# Original: I... I quickly get between Xichun and the monster!
+# Sinclair: I... I quickly get between Xichun and the monster!
 Синклер: Я... я быстро встаю между Сичунь и монстром!
 
-# Original: But... if that crits, it's going to be pretty deadly, even for you...
+# Jia Xichun: But... if that crits, it's going to be pretty deadly, even for you...
 Цзя Сичунь: Но... если атака кританёт, это будет очень опасно, даже для тебя...
 
-# Original: Let's see if you can make the evasion save... 1... and another 1. Nope, that's a critical fail...
+# Ishmael: Let's see if you can make the evasion save... 1... and another 1. Nope, that's a critical fail...
 Измаил: Посмотрим, пройдёшь ли ты спасбросок на уклонение... 1... и ещё 1. Нет, это критический провал...
 
-# Original: ... It's okay.
+# Sinclair: ... It's okay.
 Синклер: ...Всё в порядке.
 
-# Original: …….
+# Ishmael: …….
 Измаил: …….
 
-# Original: Sinclair falls to the ground, bleeding profusely from the gaping wound. The yaoguai lies still as well, the final vestiges of its strength completely spent.
+# Ishmael: Sinclair falls to the ground, bleeding profusely from the gaping wound. The yaoguai lies still as well, the final vestiges of its strength completely spent.
 Измаил: Синклер падает на землю, обильно истекая кровью из зияющей раны. Яогуай тоже лежит без движения, истратив последние остатки своих сил.
 
-# Original: Sinclair!
+# Jia Xichun: Sinclair!
 Цзя Сичунь: Синклер!
 
-# Original: Go... Go on without me... Take that sword... and go down to the village... Become the leader they need... that sword as your proof...
+# Sinclair: Go... Go on without me... Take that sword... and go down to the village... Become the leader they need... that sword as your proof...
 Синклер: Иди... Иди без меня... Возьми этот меч... и спускайся в деревню... Стань лидером, который им нужен... а меч будет твоим доказательством...
 
-# Original: …….
+# Jia Xichun: …….
 Цзя Сичунь: …….
 
-# Original: ... No, no. This sword wouldn't mean anything without my adventuring buddy.
+# Jia Xichun: ... No, no. This sword wouldn't mean anything without my adventuring buddy.
 Цзя Сичунь: ...Нет, нет. Этот меч ничего не будет значить без моего товарища по приключениям.
 
-# Original: I'm... I'm going to bandage Sinclair up and carry him back. I won't leave him behind and descend the mountain all on my own...
+# Jia Xichun: I'm... I'm going to bandage Sinclair up and carry him back. I won't leave him behind and descend the mountain all on my own...
 Цзя Сичунь: Я... я перевяжу Синклера и понесу его назад. Я не брошу его и не стану спускаться с горы в одиночку...
 
-# Original: Wait, if that's your choice, then, uh...
+# Ishmael: Wait, if that's your choice, then, uh...
 Измаил: Погоди, если это твой выбор, тогда, э-э...
 
-# Original: Uhh, yeah, the bleeding stops as soon as you wrap him up! He's uh... he's just that sturdy, you know? That strike would've killed pretty much anyone, but... you know how healthy he is...
+# Ishmael: Uhh, yeah, the bleeding stops as soon as you wrap him up! He's uh... he's just that sturdy, you know? That strike would've killed pretty much anyone, but... you know how healthy he is...
 Измаил: Э-э, да, кровотечение останавливается, как только ты его перевязываешь! Он, э-э... он довольно крепкий, да? Этот удар убил бы почти кого угодно, но... ты же знаешь, какой он здоровый...
 
-# Original: …!
+# Jia Xichun: …!
 Цзя Сичунь: …!
 
-# Original: On your feet, Sinclair...! We're getting out of here together. Grab onto my shoulder, that's it, step by step...
+# Jia Xichun: On your feet, Sinclair...! We're getting out of here together. Grab onto my shoulder, that's it, step by step...
 Цзя Сичунь: На ноги, Синклер!.. Мы выберемся отсюда вместе. Держись за моё плечо, вот так, шаг за шагом...
 
-# Original: ... Hey, Xichun... Look over there...! Everyone we'd helped and saved on our journey's come out to welcome us home...!
+# Sinclair: ... Hey, Xichun... Look over there...! Everyone we'd helped and saved on our journey's come out to welcome us home...!
 Синклер: ...Эй, Сичунь... Посмотри туда!.. Все, кому мы помогли и кого спасли в нашем путешествии, вышли, чтобы поприветствовать наше возвращение!..
 
-# Original: You're right... If it weren't for you, Sinclair, I never would've stopped and talked to every single villager there to hear their troubles.
+# Jia Xichun: You're right... If it weren't for you, Sinclair, I never would've stopped and talked to every single villager there to hear their troubles.
 Цзя Сичунь: Ты прав... Если бы не ты, Синклер, я бы никогда не остановилась, чтобы поговорить с каждым жителем деревни и выслушать их беды.
 
-# Original: The sword... was only a symbol all along.
+# Jia Xichun: The sword... was only a symbol all along.
 Цзя Сичунь: Меч... всё это время был лишь символом.
 
-# Original: All of our efforts, and the experiences we gained in our journey for the sword... were what taught me how to be a good Hierar—I mean, leader, not the sword itself.
+# Jia Xichun: All of our efforts, and the experiences we gained in our journey for the sword... were what taught me how to be a good Hierar—I mean, leader, not the sword itself.
 Цзя Сичунь: Все наши усилия и опыт, который мы получили в походе за мечом... вот что научило меня быть хорошей Глав— в смысле, лидером, а не сам меч.
 
-# Original: You're right. The real success of this adventure was everyone's efforts along the way.
+# Ishmael: You're right. The real success of this adventure was everyone's efforts along the way.
 Измаил: Ты права. Настоящим успехом в этом приключении были общие усилия на протяжении пути.
 
-# Original: <... I feel like the game overtook the class at some point along the way.>
+# Dante: <... I feel like the game overtook the class at some point along the way.>
 Данте: <...Мне кажется, в какой-то момент игра подменила собой занятие.>

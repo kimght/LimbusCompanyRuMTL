@@ -1,140 +1,140 @@
-# Original: M-Manager Esquire, halt! Behold this poor fellow, he lives still!
+# Don Quixote: M-Manager Esquire, halt! Behold this poor fellow, he lives still!
 Дон Кихот: С-сэр Менеджер, стойте! Узрите сего бедолагу, он ещё жив!
 
-# Original: Don Quixote, her round eyes wide open, began sprinting somewhere.
+# Narrator: Don Quixote, her round eyes wide open, began sprinting somewhere.
 Рассказчик: Широко распахнув круглые глаза, Дон Кихот куда-то рванула.
 
-# Original: N-no, stay away from me, you monsters...!
+# Cleanup Agent: N-no, stay away from me, you monsters...!
 Агент-чистильщик: Н-нет, не подходите, чудовища!..
 
-# Original: H-hey, man. We're not those... monsters. You alright?
+# Gregor: H-hey, man. We're not those... monsters. You alright?
 Грегор: Э-эй, мужик. Мы не те... чудовища. Ты в порядке?
 
-# Original: ... Huh?!
+# Cleanup Agent: ... Huh?!
 Агент-чистильщик: ... А?!
 
-# Original: That arm... Y-you're starting to mutate too, aren't you...? You must be turning into some bug-like monste— Agh.
+# Cleanup Agent: That arm... Y-you're starting to mutate too, aren't you...? You must be turning into some bug-like monste— Agh.
 Агент-чистильщик: Эта рука... Т-ты тоже начал мутировать, да?.. Ты, должно быть, превращаешься в какого-то жукоподобного монст... Агх.
 
-# Original: What? No, this is...
+# Gregor: What? No, this is...
 Грегор: Что? Нет, это...
 
-# Original: Gregor stumbled for words, scoffed, then cast his gaze toward the floor in disbelief.
+# Narrator: Gregor stumbled for words, scoffed, then cast his gaze toward the floor in disbelief.
 Рассказчик: Грегор запнулся, усмехнулся, а затем недоверчиво уставился в пол.
 
-# Original: Yeah, well... no surprise there, I guess. I suppose there's no way to tell right away whether this arm's a monster, a prosthetic, or whatnot.
+# Gregor: Yeah, well... no surprise there, I guess. I suppose there's no way to tell right away whether this arm's a monster, a prosthetic, or whatnot.
 Грегор: Да уж... не удивлён, полагаю. Наверное, с ходу и не скажешь, часть ли это монстра, протез или ещё что.
 
-# Original: It is possible that you are mistaken due to his bio-prosthetic being of an older, outdated make that is now rarely seen in the City.
+# Meursault: It is possible that you are mistaken due to his bio-prosthetic being of an older, outdated make that is now rarely seen in the City.
 Мерсо: Возможно, вы ошибаетесь, поскольку его биопротез является старой, устаревшей моделью, которая сейчас редко встречается в Городе.
 
-# Original: Ah, a prosthetic...
+# Cleanup Agent: Ah, a prosthetic...
 Агент-чистильщик: А, протез...
 
-# Original: That's a relief. I thought those crazy bastards were trying to break in again. As you can see, my legs are messed up... I had no choice but to hide in here...
+# Cleanup Agent: That's a relief. I thought those crazy bastards were trying to break in again. As you can see, my legs are messed up... I had no choice but to hide in here...
 Агент-чистильщик: Какое облегчение. Я уж было подумал, что эти безумные ублюдки снова пытаются вломиться. Как видите, мои ноги в хлам... У меня не было выбора, кроме как спрятаться здесь...
 
-# Original: So what are the W Corp. employees doing aboard this train?
+# Outis: So what are the W Corp. employees doing aboard this train?
 Отис: Так что сотрудники корпорации W делают в этом поезде?
 
-# Original: <Huh, you're right... From what we found out about the WARP trains through the Identities, I can't imagine why any of them would ever willingly board this train...>
+# Dante: <Huh, you're right... From what we found out about the WARP trains through the Identities, I can't imagine why any of them would ever willingly board this train...>
 Данте: <Хм, и правда... Судя по тому, что мы узнали о WARP-поездах через Идентичности, не могу представить, чтобы кто-то из них по своей воле сел в этот поезд...>
 
-# Original: You're the contract Fixers, right...? We were ordered to assist you with your contract.
+# Cleanup Agent: You're the contract Fixers, right...? We were ordered to assist you with your contract.
 Агент-чистильщик: Вы ведь Корректировщики по контракту, да?.. Нам было приказано содействовать вам в выполнении вашего контракта.
 
-# Original: ... I said "we," but... I'm the only one left. Every single one of my colleagues suddenly began losing their minds in that car over there, and...
+# Cleanup Agent: ... I said "we," but... I'm the only one left. Every single one of my colleagues suddenly began losing their minds in that car over there, and...
 Агент-чистильщик: ...Я сказал «мы», но... остался только я. Все до единого мои коллеги внезапно начали сходить с ума в том вагоне, и...
 
-# Original: This cannot be... Faust! Is there truly no way to cure the Bloodbags?
+# Don Quixote: This cannot be... Faust! Is there truly no way to cure the Bloodbags?
 Дон Кихот: Не может быть... Фауст! Неужто нет никакого способа излечить Кровососов?
 
-# Original: My apologies. The access to that information is prohibited at this moment as well.
+# Faust: My apologies. The access to that information is prohibited at this moment as well.
 Фауст: Прошу прощения. Доступ к этой информации на данный момент также запрещён.
 
-# Original: Though her voice and expression were both as serene as always, there was something gloomy about the way she said it.
+# Narrator: Though her voice and expression were both as serene as always, there was something gloomy about the way she said it.
 Рассказчик: Хоть её голос и выражение лица были как всегда безмятежны, в её словах прозвучало нечто мрачное.
 
-# Original: ... I may have been too reliant on Faust. In too many places.
+# Faust: ... I may have been too reliant on Faust. In too many places.
 Фауст: ...Возможно, я слишком полагалась на Фауст. Слишком во многом.
 
-# Original: Faust muttered in a barely audible volume.
+# Narrator: Faust muttered in a barely audible volume.
 Рассказчик: Пробормотала Фауст почти не слышно.
 
-# Original: ... I don't know what I can do to help the Sinners in a situation like this, either.
+# Narrator: ... I don't know what I can do to help the Sinners in a situation like this, either.
 Рассказчик: ...Я тоже не знаю, как могу помочь Грешникам в подобной ситуации.
 
-# Original: I'd also grown too used to Faust's omniscience because I could always trust it to be there for me. I was starting to realize that I don't have the means to dig myself out of a hole like this...
+# Narrator: I'd also grown too used to Faust's omniscience because I could always trust it to be there for me. I was starting to realize that I don't have the means to dig myself out of a hole like this...
 Рассказчик: Я тоже слишком привык к всеведению Фауст, потому что всегда мог на него положиться. Я начинал осознавать, что у меня нет средств, чтобы самостоятельно выбраться из такой передряги...
 
-# Original: ... No, maybe I was too reliant on the Sinners as a whole.
+# Narrator: ... No, maybe I was too reliant on the Sinners as a whole.
 Рассказчик: ...Нет, возможно, я слишком полагался на Грешников в целом.
 
-# Original: If... when the time comes for them to depend on me, when they can no longer stand on their own, can I really manage them? Lead them to the right choices?
+# Narrator: If... when the time comes for them to depend on me, when they can no longer stand on their own, can I really manage them? Lead them to the right choices?
 Рассказчик: Если... когда придёт время им положиться на меня, когда они больше не смогут стоять на своих ногах, смогу ли я на самом деле управлять ими? Привести их к правильным решениям?
 
-# Original: Doubt, colored with fear, begins to rise like an ominous plume of smoke.
+# Narrator: Doubt, colored with fear, begins to rise like an ominous plume of smoke.
 Рассказчик: Сомнение, окрашенное страхом, начинает подниматься, словно зловещий столб дыма.
 
-# Original: Well... What can I do, right? Agh...
+# Cleanup Agent: Well... What can I do, right? Agh...
 Агент-чистильщик: Что ж... А что я могу поделать, да? Агх...
 
-# Original: The agent struggled to some corner of the room with his wounded leg, and pulled on a lever...
+# Narrator: The agent struggled to some corner of the room with his wounded leg, and pulled on a lever...
 Рассказчик: Хромая на раненую ногу, агент проковылял в угол вагона и потянул за рычаг...
 
-# Original: They made good use of this space.
+# Ryōshū: They made good use of this space.
 Рёшу: Неплохо использовали пространство.
 
-# Original: ... and the wall behind what had initially appeared to be a folding chair for employees spun open.
+# Narrator: ... and the wall behind what had initially appeared to be a folding chair for employees spun open.
 Рассказчик: ...и стена за тем, что поначалу казалось откидным стулом для персонала, провернулась и открылась.
 
-# Original: Ooh, what in the name of Wings is this?! Perchance, hast thou hidden here a weapon most powerful, a weapon most afeared by the Bloodfiends...?!
+# Don Quixote: Ooh, what in the name of Wings is this?! Perchance, hast thou hidden here a weapon most powerful, a weapon most afeared by the Bloodfiends...?!
 Дон Кихот: О-о-о, что во имя Крыльев это такое?! Быть может, ты сокрыл здесь могущественнейшее оружие, которого так страшатся Кровожады?!
 
-# Original: That holds some resemblance to a capsule we saw on the first class car, but why would that thing be here...?
+# Outis: That holds some resemblance to a capsule we saw on the first class car, but why would that thing be here...?
 Отис: Это чем-то напоминает капсулу, которую мы видели в вагоне первого класса, но зачем ей быть здесь?..
 
-# Original: The Cleanup Agent slumped into the pod that appeared in the wall.
+# Narrator: The Cleanup Agent slumped into the pod that appeared in the wall.
 Рассказчик: Агент-чистильщик плюхнулся в появившуюся в стене капсулу.
 
-# Original: Phew... finally.
+# Cleanup Agent: Phew... finally.
 Агент-чистильщик: Фух... наконец-то.
 
-# Original: Hm? What is it that thou seekest to do?
+# Don Quixote: Hm? What is it that thou seekest to do?
 Дон Кихот: Хм? Что же ты намереваешься сделать?
 
-# Original: W Corp. prepared a small hibernation pod for employees in case of these emergencies.
+# Cleanup Agent: W Corp. prepared a small hibernation pod for employees in case of these emergencies.
 Агент-чистильщик: Корпорация W подготовила для сотрудников небольшие капсулы гибернации на случай подобных чрезвычайных ситуаций.
 
-# Original: Verily! Then... huh?
+# Don Quixote: Verily! Then... huh?
 Дон Кихот: Воистину! Тогда... а?
 
-# Original: Good luck... with the rest of the mission...
+# Cleanup Agent: Good luck... with the rest of the mission...
 Агент-чистильщик: Удачи... с оставшейся частью миссии...
 
-# Original: With that, he settled into the capsule, and shut the hatch behind him.
+# Narrator: With that, he settled into the capsule, and shut the hatch behind him.
 Рассказчик: С этими словами он устроился в капсуле и закрыл за собой люк.
 
-# Original: When the door covering the pod closed, only the folding chair and a wall covered with viscera remained.
+# Narrator: When the door covering the pod closed, only the folding chair and a wall covered with viscera remained.
 Рассказчик: Когда дверь, закрывавшая капсулу, сомкнулась, остались лишь откидной стул и стена, покрытая ошмётками плоти.
 
-# Original: <He's gone...>
+# Dante: <He's gone...>
 Данте: <Он ушёл...>
 
-# Original: There he goes...
+# Rodion: There he goes...
 Родион: Ну вот и всё...
 
-# Original: He has departed the scene.
+# Faust: He has departed the scene.
 Фауст: Он покинул место действия.
 
-# Original: We blankly stared at the wall the Agent disappeared into.
+# Narrator: We blankly stared at the wall the Agent disappeared into.
 Рассказчик: Мы безучастно уставились на стену, в которой исчез агент.
 
-# Original: Well, then. I guess we gotta...
+# Narrator: Well, then. I guess we gotta...
 Рассказчик: Что ж, тогда. Полагаю, нам нужно...
 
-# Original: <... Let's move on to the next car.>
+# Dante: <... Let's move on to the next car.>
 Данте: <...Пойдёмте в следующий вагон.>
 
-# Original: ... keep on keeping on.
+# Narrator: ... keep on keeping on.
 Рассказчик: ...просто продолжать идти вперёд.

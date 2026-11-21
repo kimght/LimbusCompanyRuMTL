@@ -1,11 +1,11 @@
-﻿# Original: <color=#7d7d7d>Bring vengeance of ruination upon the unclothed, upon those who dared not fear the gaze. Only then shalt peace be with those who act.</color>
+﻿# Narrator: <color=#7d7d7d>Bring vengeance of ruination upon the unclothed, upon those who dared not fear the gaze. Only then shalt peace be with those who act.</color>
 Повествователь: <color=#7d7d7d>Обрушьте губительную месть на нагих, на тех, кто дерзнул не убояться взора. Лишь тогда да пребудет мир с теми, кто действует.</color>
 
-# Original: <Who's saying this...?>
+# Dante: <Who's saying this...?>
 Данте: <Кто это говорит...?>
 
-# Original: This is the Voice of the Chaplain.
+# Meursault: This is the Voice of the Chaplain.
 Мерсо: Это Голос Капеллана.
 
-# Original: The Giant of Le Noir has made the judgment call.
+# Meursault: The Giant of Le Noir has made the judgment call.
 Мерсо: Гигант Ле Нуар вынес решение.

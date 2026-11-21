@@ -1,69 +1,68 @@
-﻿# Original: Ahh...
+﻿# Praying Bloodfiend: Ahh...
 Молящийся Кровожад: Ах...
 
-# Original: I have sinned. I have sinned once again today, I confess...
+# Praying Bloodfiend: I have sinned. I have sinned once again today, I confess...
 Молящийся Кровожад: Я согрешил. Я снова согрешил сегодня, я признаюсь...
 
-# Original: Take... take me to the Priest... They said it's all going to be okay if I visit the Priest when I feel the thirst... They said...
+# Praying Bloodfiend: Take... take me to the Priest... They said it's all going to be okay if I visit the Priest when I feel the thirst... They said...
 Молящийся Кровожад: Отведите... отведите меня к Священнику... Они сказали, что всё будет хорошо, если я посещу Священника, когда почувствую жажду... Они сказали...
 
-# Original: So that Priest is... in there, right?
+# Ishmael: So that Priest is... in there, right?
 Измаил: Значит, этот Священник... там, верно?
 
-# Original: You're going to have to wait your turn... the other... ones sought the Priest too... Must've been sinners as well...
+# Praying Bloodfiend: You're going to have to wait your turn... the other... ones sought the Priest too... Must've been sinners as well...
 Молящийся Кровожад: Вам придётся подождать своей очереди... другие... тоже искали Священника... Должно быть, они тоже грешники...
 
-# Original: So... there might be a... queue...
+# Praying Bloodfiend: So... there might be a... queue...
 Молящийся Кровожад: Так что... может быть... очередь...
 
-# Original: Oh, the Priest... gladly... ...ing the sins in our stead...
+# Praying Bloodfiend: Oh, the Priest... gladly... ...ing the sins in our stead...
 Молящийся Кровожад: О, Священник... с радостью... ...сёт грехи вместо нас...
 
-# Original: <We should probably... check what's behind this door, right?>
+# Dante: <We should probably... check what's behind this door, right?>
 Данте: <Наверное, нам стоит... проверить, что за этой дверью, верно?>
 
-# Original: I shall take the vanguard, Manager Esquire!
+# Don Quixote: I shall take the vanguard, Manager Esquire!
 Дон Кихот: Я возьму на себя роль авангарда, Сэр Менеджер!
 
-# Original: <Woah...>
+# Dante: <Woah...>
 Данте: <Ого...>
 
-# Original: Villains! I—
+# Don Quixote: Villains! I—
 Дон Кихот: Злодеи! Я—
 
-# Original: <…!>
-# 
+# Dante: <…!>
 Данте: <...!>
 
-# Original: <color=#ffef23>What I am certain of, is that this intruder will never leave us alone until we open our gates.</color>
+# Narrator: <color=#ffef23>What I am certain of, is that this intruder will never leave us alone until we open our gates.</color>
 Рассказчик: <color=#ffef23>В чём я уверена, так это в том, что этот незваный гость не оставит нас в покое, пока мы не откроем ворота.</color>
 
-# Original: <color=#ffef23>We must put an end to this insolency soon, wouldn't you agree?</color>
+# Narrator: <color=#ffef23>We must put an end to this insolency soon, wouldn't you agree?</color>
 Рассказчик: <color=#ffef23>Мы должны положить конец этой дерзости в ближайшее время, вы согласны?</color>
 
-# Original: <color=#cc2424>I suppose you will understand me when you create your own ■■■■■■■...</color>
+# Narrator: <color=#cc2424>I suppose you will understand me when you create your own ■■■■■■■...</color>
 Рассказчик: <color=#cc2424>Полагаю, ты поймёшь меня, когда создашь своих собственных ■■■■■■■■■...</color>
 
-# Original: <color=#cc2424>Worry not. I intend to put an end to this today. I have been planning to do so for a while.</color>
+# Narrator: <color=#cc2424>Worry not. I intend to put an end to this today. I have been planning to do so for a while.</color>
 Рассказчик: <color=#cc2424>Не беспокойся. Сегодня я намерен положить этому конец. Я планировал сделать это уже некоторое время.</color>
 
-# Original: When we entered, we saw... a dying Bloodfiend, nearing his death.
+# Narrator: When we entered, we saw... a dying Bloodfiend, nearing his death.
 Рассказчик: Когда мы вошли, мы увидели... умирающего Кровожада, находящегося на пороге смерти.
 
-# Original: His mask was already cloven in half, revealing the pitiful tragedy behind.
+# Narrator: His mask was already cloven in half, revealing the pitiful tragedy behind.
 Рассказчик: Его маска была уже расколота пополам, раскрывая жалкую трагедию, скрывавшуюся за ней.
 
-# Original: It no longer served as a mask to hide his face.
+# Narrator: It no longer served as a mask to hide his face.
 Рассказчик: Она больше не служила маской, скрывавшей его лицо.
 
-# Original: Have you... come here... to confess your sins?
+# The Priest: Have you... come here... to confess your sins?
 Священник: Вы... пришли сюда... чтобы исповедаться в своих грехах?
 
-# Original: Ah... what joy... Rarely do I receive those who... are so willing to confess...
+# The Priest: Ah... what joy... Rarely do I receive those who... are so willing to confess...
 Священник: Ах... какая радость... Редко ко мне приходят те, кто... так охотно желает исповедаться...
 
-# Original: This one... He's only a smoldering stub.
+# Ryōshū: This one... He's only a smoldering stub.
 Рёшу: Этот... Он лишь тлеющий огарок.
 
-# Original: I could snuff out his embers with a gentle stomp.
+# Ryōshū: I could snuff out his embers with a gentle stomp.
 Рёшу: Я могла бы погасить его угли лёгким касанием.

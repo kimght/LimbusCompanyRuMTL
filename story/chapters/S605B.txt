@@ -1,179 +1,179 @@
-# Original: The bus emerged from the Backstreets into a rather quiet looking village.
+# Narrator: The bus emerged from the Backstreets into a rather quiet looking village.
 Рассказчик: Автобус выехал из Подворотен в довольно тихую на вид деревню.
 
-# Original: The fog was still thick, and everything was still in that faded hue...
+# Narrator: The fog was still thick, and everything was still in that faded hue...
 Рассказчик: Туман все еще был густым, и все вокруг оставалось в том же выцветшем оттенке...
 
-# Original: Even the occasional sightings of pedestrians had ceased. The very idea of color variation seemed like an alien concept here.
+# Narrator: Even the occasional sightings of pedestrians had ceased. The very idea of color variation seemed like an alien concept here.
 Рассказчик: Даже случайные встречи с пешеходами прекратились. Сама идея цветового разнообразия казалась здесь чуждой концепцией.
 
-# Original: All I see are orange-hued lights coming through the windows of misty, grey buildings. It was as though everyone decided to stay indoors for the day.
+# Narrator: All I see are orange-hued lights coming through the windows of misty, grey buildings. It was as though everyone decided to stay indoors for the day.
 Рассказчик: Все, что я вижу - это оранжевые огни, пробивающиеся сквозь окна туманных, серых зданий. Как будто все решили остаться дома на весь день.
 
-# Original: I can’t even tell where we are, or how close we are from our destination anymore.
+# Narrator: I can’t even tell where we are, or how close we are from our destination anymore.
 Рассказчик: Я даже не могу сказать, где мы находимся, и насколько близко мы к нашей цели.
 
-# Original: <Have you been here by any chance, Yi Sang?>
+# Dante: <Have you been here by any chance, Yi Sang?>
 Данте: <Ты случайно не бывал здесь, И Сан?>
 
-# Original: He was the only other Sinner who had spent a while in T Corp., so I decided to ask if he recognized anything. But it was evident that this scenery was unfamiliar to him.
+# Narrator: He was the only other Sinner who had spent a while in T Corp., so I decided to ask if he recognized anything. But it was evident that this scenery was unfamiliar to him.
 Рассказчик: Он был одним из единственных Грешников, которые провели некоторое время в Корпорации Т, поэтому я решил спросить, узнает ли он что-нибудь. Но было очевидно, что этот пейзаж был ему незнаком.
 
-# Original: Though I have resided here for some time, most of my hours were spent earning a living and conducting my research when I could afford to do so. Thus I have not ventured freely the streets of T Corp.
+# Yi Sang: Though I have resided here for some time, most of my hours were spent earning a living and conducting my research when I could afford to do so. Thus I have not ventured freely the streets of T Corp.
 И Сан: Хоть я и пребывал здесь некоторое время, большую часть часов я проводил, зарабатывая на жизнь и занимаясь исследованиями, когда мог себе это позволить. Посему я не имел возможности свободно бродить по улицам Корпорации Т.
 
-# Original: <I can’t imagine doing any research at a place like this… Can’t have been easy.>
+# Dante: <I can’t imagine doing any research at a place like this… Can’t have been easy.>
 Данте: <Не могу представить, как можно проводить какие-либо исследования в таком месте... Должно быть, было нелегко.>
 
-# Original: It is quite manageable once one grows accustomed to this monochromatic sight. The presence of variance in color itself is a concept alien to those who are born and raised in these lands.
+# Yi Sang: It is quite manageable once one grows accustomed to this monochromatic sight. The presence of variance in color itself is a concept alien to those who are born and raised in these lands.
 И Сан: К этому монохромному виду довольно легко привыкнуть. Само наличие разнообразия цветов - концепция чуждая для тех, кто рожден и вырос в этих землях.
 
-# Original: And I had shoulders of those that I could… lean on, even for a fleeting moment. It helps to have such support when acclimating to a place as foreign as this.
+# Yi Sang: And I had shoulders of those that I could… lean on, even for a fleeting moment. It helps to have such support when acclimating to a place as foreign as this.
 И Сан: И у меня были плечи, на которые я мог... опереться, пусть даже на мимолетный миг. Такая поддержка помогает, когда привыкаешь к столь чуждому месту.
 
-# Original: Yi Sang looks away to a place far beyond from here. Memories of his past, most likely.
+# Narrator: Yi Sang looks away to a place far beyond from here. Memories of his past, most likely.
 Рассказчик: И Сан смотрит куда-то вдаль, далеко отсюда. Скорее всего, в воспоминания о своем прошлом.
 
-# Original: … Did you ever hear anything about what T Corp.’s Singularity is?
+# Ishmael: … Did you ever hear anything about what T Corp.’s Singularity is?
 Измаил: ... Ты когда-нибудь слышал что-нибудь о том, что представляет собой Сингулярность Корпорации Т?
 
-# Original: … As all Singularities are, its true nature, its mechanisms, and function are all something of an enigma. Yet...
+# Yi Sang: … As all Singularities are, its true nature, its mechanisms, and function are all something of an enigma. Yet...
 И Сан: ... Как и все Сингулярности, ее истинная природа, механизмы и функции - все это загадка. Однако...
 
-# Original: Yi Sang paused, and carefully began to speak.
+# Narrator: Yi Sang paused, and carefully began to speak.
 Рассказчик: И Сан сделал паузу и осторожно начал говорить.
 
-# Original: I am aware is that it has aught to do with time. Though I am unsure of its use...
+# Yi Sang: I am aware is that it has aught to do with time. Though I am unsure of its use...
 И Сан: Мне известно, что она имеет нечто общее со временем. Хотя я не уверен в ее применении...
 
-# Original: Well, I suppose all this is but meaningless conjecture, and only Miss Faust among us must be aware of the answers.
+# Yi Sang: Well, I suppose all this is but meaningless conjecture, and only Miss Faust among us must be aware of the answers.
 И Сан: Что ж, полагаю, все это лишь бессмысленные догадки, и только мисс Фауст среди нас должна быть осведомлена об ответах.
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: Its singularity is one of the reasons T Corp. constantly drains colors from its inhabitants.
+# Faust: Its singularity is one of the reasons T Corp. constantly drains colors from its inhabitants.
 Фауст: Ее Сингулярность - одна из причин, по которой Корпорации Т постоянно вытягивает цвета из своих обитателей.
 
-# Original: What’s time got to do with… color?
+# Rodion: What’s time got to do with… color?
 Родион: Какое отношение время имеет к... цвету?
 
-# Original: If the control of time is so imperative to T Corp.'s operations... then they must also control the realm of ‘light’.
+# Faust: If the control of time is so imperative to T Corp.'s operations... then they must also control the realm of ‘light’.
 Фауст: Если контроль над временем настолько важен для операций Корпорации Т... то они должны также контролировать область 'света'.
 
-# Original: As light inherently has much to do with the spectrum of colors, these two subjects eventually overlap.
+# Faust: As light inherently has much to do with the spectrum of colors, these two subjects eventually overlap.
 Фауст: Поскольку свет по своей природе тесно связан со спектром цветов, эти две темы в конечном итоге пересекаются.
 
-# Original: That is as far as I could deduce regarding the concept of time that I am aware of. Yet, it must also be said that it takes time for me to reach Faust’s specific knowledge regarding T Corp.’s Singularity.
+# Faust: That is as far as I could deduce regarding the concept of time that I am aware of. Yet, it must also be said that it takes time for me to reach Faust’s specific knowledge regarding T Corp.’s Singularity.
 Фауст: Это все, что я могла вывести относительно концепции времени, о которой мне известно. Однако следует также отметить, что Фауст требуется время, чтобы получить доступ к конкретным знаниям о Сингулярности Корпорации Т.
 
-# Original: Faust, known among us for her ‘Hm.’, ‘Maybe.’, and ‘Perhaps.’… rarely ever gave us answers this detailed.
+# Narrator: Faust, known among us for her ‘Hm.’, ‘Maybe.’, and ‘Perhaps.’… rarely ever gave us answers this detailed.
 Рассказчик: Фауст, известная среди нас своими "Хм.", "Возможно." и "Пожалуй."... редко давала нам столь подробные ответы.
 
-# Original: Then now’s the time to ask her all my questions…!
+# Narrator: Then now’s the time to ask her all my questions…!
 Рассказчик: Тогда сейчас самое время задать ей все мои вопросы...!
 
-# Original: Miss Faust, as we discuss the subject of time—
+# Yi Sang: Miss Faust, as we discuss the subject of time—
 И Сан: Мисс Фауст, пока мы обсуждаем тему времени—
 
-# Original: Indeed. It would be safe for us to move on from the subject of T Corp. at this time.
+# Faust: Indeed. It would be safe for us to move on from the subject of T Corp. at this time.
 Фауст: Действительно. Будет безопаснее для нас отойти от темы Корпорации Т в данный момент.
 
-# Original: <Aw...>
+# Dante: <Aw...>
 Данте: <Ох...>
 
-# Original: There she goes again, teasing us with stuff she’s not going to tell us anyway...
+# Rodion: There she goes again, teasing us with stuff she’s not going to tell us anyway...
 Родион: Вот опять она за свое, дразнит нас информацией, которой все равно не собирается делиться...
 
-# Original: Well, I guess I should be glad that she decided to tell us this much. I doubt she'll tell us more no matter how much we pry.
+# Narrator: Well, I guess I should be glad that she decided to tell us this much. I doubt she'll tell us more no matter how much we pry.
 Рассказчик: Ну, наверное, я должен быть рад, что она решила рассказать нам хотя бы столько. Сомневаюсь, что она расскажет нам больше, как бы мы ни пытались выведать.
 
-# Original: That’s… kinda sad.
+# Sinclair: That’s… kinda sad.
 Синклер: Это... как-то грустно.
 
-# Original: That there are people who’s never seen color their whole lives, all because of this Singularity.
+# Sinclair: That there are people who’s never seen color their whole lives, all because of this Singularity.
 Синклер: Что есть люди, которые никогда в жизни не видели цвета, и все из-за этой Сингулярности.
 
-# Original: Well, that’s just how it goes, isn't it. In the eyes of a stranger, we’d be just another one of those poor, miserable people who’s never seen color.
+# Rodion: Well, that’s just how it goes, isn't it. In the eyes of a stranger, we’d be just another one of those poor, miserable people who’s never seen color.
 Родион: Ну, так уж оно бывает, не так ли? В глазах постороннего мы были бы просто еще одними из тех бедных, несчастных людей, которые никогда не видели цвета.
 
-# Original: That's the danger in trying your very first bite of the 'meat'. You taste it once, and you’ll never un-know the flavor. And in the end, you’ll start to wish you never tried it.
+# Rodion: That's the danger in trying your very first bite of the 'meat'. You taste it once, and you’ll never un-know the flavor. And in the end, you’ll start to wish you never tried it.
 Родион: В этом и опасность попробовать свой первый кусочек "мяса". Попробуешь один раз, и уже никогда не забудешь вкус. И в конце концов начнешь жалеть, что вообще его пробовал.
 
-# Original: Hm… It is pretty disappointing that even the sun loses its vibrancy here.
+# Ishmael: Hm… It is pretty disappointing that even the sun loses its vibrancy here.
 Измаил: Хм... Действительно разочаровывает, что даже солнце теряет здесь свою яркость.
 
-# Original: Oft did I long to see the colors of the sky. Especially the sky that looms over a light shower of rain.
+# Yi Sang: Oft did I long to see the colors of the sky. Especially the sky that looms over a light shower of rain.
 И Сан: Часто я тосковал по возможности узреть цвета небосвода. Особенно неба, нависающего над легким дождем.
 
-# Original: Yeah. Things like the color of the sky, too. You long to see it only because you've seen its beauty. If you were born here, never to escape its borders to the last of your days without ever seeing the blue sky... then I'd hardly call that death miserable.
+# Rodion: Yeah. Things like the color of the sky, too. You long to see it only because you've seen its beauty. If you were born here, never to escape its borders to the last of your days without ever seeing the blue sky... then I'd hardly call that death miserable.
 Родион: Да. Такие вещи, как цвет неба. Ты жаждешь увидеть его только потому, что знаешь его красоту. Если бы ты родился здесь и никогда не покидал эти границы до последних дней своей жизни, так и не увидев голубого неба... я бы вряд ли назвала такую смерть несчастной.
 
-# Original: Calling even that miserable... is nothing but sheltered arrogance.
+# Rodion: Calling even that miserable... is nothing but sheltered arrogance.
 Родион: Называть даже это несчастьем... не что иное, как избалованное высокомерие.
 
-# Original: I guess that could also be true...
+# Sinclair: I guess that could also be true...
 Синклер: Думаю, это тоже может быть правдой...
 
-# Original: The atmosphere in the bus suddenly became incredibly frosty.
+# Narrator: The atmosphere in the bus suddenly became incredibly frosty.
 Рассказчик: Атмосфера в автобусе внезапно стала невероятно холодной.
 
-# Original: Oh! Hey, speaking of color, I got something to ask ya. Have you guys ever heard of the ‘colors game’? Apparently, each type of personality has a corresponding color!
+# Rodion: Oh! Hey, speaking of color, I got something to ask ya. Have you guys ever heard of the ‘colors game’? Apparently, each type of personality has a corresponding color!
 Родион: О! Эй, раз уж мы заговорили о цвете, у меня есть вопрос. Вы когда-нибудь слышали об "игре в цвета"? Оказывается, каждому типу личности соответствует свой цвет!
 
-# Original: Rodya, who was the one to chill the bus in the first place, was also the first to break the ice.
+# Narrator: Rodya, who was the one to chill the bus in the first place, was also the first to break the ice.
 Рассказчик: Родя, которая первой охладила атмосферу в автобусе, также первой решила разрядить обстановку.
 
-# Original: If Yi Sang enjoys the light blue color of the sky, then… Let’s see. You must be a thinker and a philosopher who prefers the calm and quiet.
+# Rodion: If Yi Sang enjoys the light blue color of the sky, then… Let’s see. You must be a thinker and a philosopher who prefers the calm and quiet.
 Родион: Если И Сану нравится светло-голубой цвет неба, то... Давайте посмотрим. Ты, должно быть, мыслитель и философ, который предпочитает спокойствие и тишину.
 
-# Original: Ooh… How did you come to know that? That is quite the remarkable talent you have.
+# Yi Sang: Ooh… How did you come to know that? That is quite the remarkable talent you have.
 И Сан: Ооо... Как вы узнали это? У вас поистине удивительный талант.
 
-# Original: Hark, hark! I wish my favorite color to be rated as well! Forsooth, I quite fancy the color red! Nay, yellow! Nay, red! Nay—
+# Don Quixote: Hark, hark! I wish my favorite color to be rated as well! Forsooth, I quite fancy the color red! Nay, yellow! Nay, red! Nay—
 Дон Кихот: Внемлите, внемлите! Я тоже желаю, чтобы мой любимый цвет был оценен! Воистину, мне весьма по душе красный цвет! Нет, желтый! Нет, красный! Нет—
 
-# Original: Now, wait your turn. Next in the order is… Faust.
+# Rodion: Now, wait your turn. Next in the order is… Faust.
 Родион: Ну-ну, подожди своей очереди. Следующая по порядку... Фауст.
 
-# Original: I—
+# Faust: I—
 Фауст: Я—
 
-# Original: Wait up, wait up. I know exactly what you’re about to say. You were about to say, ‘Faust does not hold much belief in such ideations~’ or something like that, right?
+# Rodion: Wait up, wait up. I know exactly what you’re about to say. You were about to say, ‘Faust does not hold much belief in such ideations~’ or something like that, right?
 Родион: Погоди, погоди. Я точно знаю, что ты собираешься сказать. Ты собиралась сказать что-то вроде "Фауст не придает большого значения таким идеям~", верно?
 
-# Original: Which is exactly what people who like the color white would say. I'm right, aren't I? Like, your hair’s white, too!
+# Rodion: Which is exactly what people who like the color white would say. I'm right, aren't I? Like, your hair’s white, too!
 Родион: А это именно то, что сказали бы люди, которым нравится белый цвет. Я права, да? К тому же, у тебя и волосы белые!
 
-# Original: I will not comment further on this subject.
+# Faust: I will not comment further on this subject.
 Фауст: Я не буду дальше комментировать эту тему.
 
-# Original: … Me? My favourite colour…?
+# Heathcliff: … Me? My favourite colour…?
 Хитклиф: ... Я? Мой любимый цвет...?
 
-# Original: Tsk, what a stupid question. That's naff, lass.
+# Heathcliff: Tsk, what a stupid question. That's naff, lass.
 Хитклиф: Тц, какой глупый вопрос. Это чушь, девчонка.
 
-# Original: But I like…
+# Heathcliff: But I like…
 Хитклиф: Но мне нравится...
 
-# Original: He pauses.
+# Narrator: He pauses.
 Рассказчик: Он делает паузу.
 
-# Original: A great manor begins to emerge into our view from a distance. I could immediately tell that this was the ‘Wuthering Heights’ manor Heathcliff had mentioned.
+# Narrator: A great manor begins to emerge into our view from a distance. I could immediately tell that this was the ‘Wuthering Heights’ manor Heathcliff had mentioned.
 Рассказчик: Вдалеке начинает появляться огромное поместье. Я сразу понял, что это и есть поместье "Грозовой перевал", о котором упоминал Хитклиф.
 
-# Original: ... black.
+# Heathcliff: ... black.
 Хитклиф: ... чёрный.
 
-# Original: It’s the colour you get when you dump an entire set of paint into a bucket, innit?
+# Heathcliff: It’s the colour you get when you dump an entire set of paint into a bucket, innit?
 Хитклиф: Это цвет, который получается, когда вываливаешь в ведро весь набор красок, верно?
 
-# Original: And that’s exactly why I tolerate it. Keep throwing paint over paint over paint… and you get black. Simple.
+# Heathcliff: And that’s exactly why I tolerate it. Keep throwing paint over paint over paint… and you get black. Simple.
 Хитклиф: И именно поэтому я его выношу. Продолжаешь лить краску, на краску, на краску... и получаешь чёрный. Просто.
 
-# Original: I can clearly hear that Heathcliff is muttering through gritted teeth.
+# Narrator: I can clearly hear that Heathcliff is muttering through gritted teeth.
 Рассказчик: Я отчетливо слышу, что Хитклиф бормочет сквозь стиснутые зубы.
 
-# Original: I have a feeling that black wasn’t always his favorite color.
+# Narrator: I have a feeling that black wasn’t always his favorite color.
 Рассказчик: У меня такое чувство, что чёрный не всегда был его любимым цветом.

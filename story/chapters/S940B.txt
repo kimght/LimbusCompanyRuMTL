@@ -1,497 +1,497 @@
-# Original: <Does anyone actually live here...?>
+# Dante: <Does anyone actually live here...?>
 Dante: <Здесь вообще кто-нибудь живет...?>
 
-# Original: While the signs of habitation are minimal, there is evidence of regular cleaning.
+# Meursault: While the signs of habitation are minimal, there is evidence of regular cleaning.
 Mersault: Хотя признаки проживания минимальны, есть свидетельства регулярной уборки.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: Hasn't changed a bit, this place.
+# Ryōshū: Hasn't changed a bit, this place.
 Ryōshū: Ничуть не изменилось это место.
 
-# Original: An odd silence filled the space we entered.
+# Narrator: An odd silence filled the space we entered.
 Narrator: Странная тишина наполнила пространство, в которое мы вошли.
 
-# Original: The room was completely quiet and devoid of any warmth.
+# Narrator: The room was completely quiet and devoid of any warmth.
 Narrator: В комнате было совершенно тихо и не чувствовалось никакого тепла.
 
-# Original: Ryōshū gingerly made her way past the threshold.
+# Narrator: Ryōshū gingerly made her way past the threshold.
 Narrator: Рёшу осторожно переступила порог.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: When I opened this drawer...
+# Ryōshū: When I opened this drawer...
 Ryōshū: Когда я открывала этот ящик...
 
-# Original: ... there used to be... a schoolbag.
+# Ryōshū: ... there used to be... a schoolbag.
 Ryōshū: ... там раньше лежал... рюкзак.
 
-# Original: Mommy... Mommy!
+# ???: Mommy... Mommy!
 ???: Мамочка... Мамочка!
 
-# Original: Did you ever see stuff like this outside?
+# ???: Did you ever see stuff like this outside?
 ???: Ты когда-нибудь видела такие вещи снаружи?
 
-# Original: ... No.
+# Yoshihide: ... No.
 Yoshihide: ... Нет.
 
-# Original: It's soooo pretty, though.
+# ???: It's soooo pretty, though.
 ???: Он та-а-акой красивый.
 
-# Original: Hey, why don't you take off that schoolbag? You've been carrying it on your back all day.
+# Yoshihide: Hey, why don't you take off that schoolbag? You've been carrying it on your back all day.
 Yoshihide: Эй, почему бы тебе не снять этот рюкзак? Ты таскаешь его на спине весь день.
 
-# Original: It's "ran-do-seru"!
+# ???: It's "ran-do-seru"!
 ???: Это «рюкзачок»!
 
-# Original: 'Cause I'm still in elementary school! <i>Ele-men-tary</i>!
+# ???: 'Cause I'm still in elementary school! <i>Ele-men-tary</i>!
 ???: Потому что я еще в начальной школе! <i>На-чаль-ной</i>!
 
-# Original: Have some watermelon. It's sweet.
+# Yoshihide: Have some watermelon. It's sweet.
 Yoshihide: Съешь арбуза. Он сладкий.
 
-# Original: .......
+# ???: .......
 ???: .......
 
-# Original: No way. It's super sweet... This watermelon's the GOAT!
+# ???: No way. It's super sweet... This watermelon's the GOAT!
 ???: Не может быть. Он супер сладкий... Этот арбузик просто ИМБА!
 
-# Original: ... Uh-huh.
+# Yoshihide: ... Uh-huh.
 Yoshihide: ... Угу.
 
-# Original: ... You didn't get it, did you?
+# ???: ... You didn't get it, did you?
 ???: ... Ты не поняла, да?
 
-# Original: Nuh-uh...
+# Yoshihide: Nuh-uh...
 Yoshihide: Не-а...
 
-# Original: GOAT means "Greatest Of All Time!"
+# ???: GOAT means "Greatest Of All Time!"
 ???: ИМБА значит «Идеально-Мамин Безупречный Арбузик»!
 
-# Original: ... Unnecessary shortening, in my opinion.
+# Yoshihide: ... Unnecessary shortening, in my opinion.
 Yoshihide: ... Ненужное сокращение, как мне кажется.
 
-# Original: You mean "IMO?"
+# ???: You mean "IMO?"
 ???: Ты имеешь в виду «КМК»?
 
-# Original: .......
+# Yoshihide: .......
 Yoshihide: .......
 
-# Original: Okay, that's it. I'm gonna teach ya everything I learned at school! Starting today!
+# ???: Okay, that's it. I'm gonna teach ya everything I learned at school! Starting today!
 ???: Ладно, всё. Я научу тебя всему, что узнала в школе! Начиная с сегодняшнего дня!
 
-# Original: ... I don't need to know.
+# Yoshihide: ... I don't need to know.
 Yoshihide: ... Мне не нужно знать.
 
-# Original: It doesn't matter how popular they are now. With time, they'll all become old, outdated, and embarrassingly anachronistic anyway.
+# Yoshihide: It doesn't matter how popular they are now. With time, they'll all become old, outdated, and embarrassingly anachronistic anyway.
 Yoshihide: Неважно, насколько они популярны сейчас. Со временем они все равно станут старыми, устаревшими и постыдно анахроничными.
 
-# Original: But Mommy, it'll be fun.
+# ???: But Mommy, it'll be fun.
 ???: Но Мамочка, это будет весело.
 
-# Original: And you're like, all about aesthetics of shortening, right?
+# ???: And you're like, all about aesthetics of shortening, right?
 ???: И тебе же, типа, нравится эстетика сокращений, да?
 
-# Original: You gotta learn these if you dun wanna fall behind! Seriously, SMH!
+# ???: You gotta learn these if you dun wanna fall behind! Seriously, SMH!
 ???: Тебе нужно выучить их, если не хочешь отстать! Серьезно, МДА!
 
-# Original: ... SMH?
+# Yoshihide: ... SMH?
 Yoshihide: ... МДА?
 
-# Original: It means... "<b>S</b>haking... <b>M</b>y... <b>H</b>ead." Ta-da! And that's SMH!
+# ???: It means... "<b>S</b>haking... <b>M</b>y... <b>H</b>ead." Ta-da! And that's SMH!
 ???: Это значит... «<b>М</b>ожно...<b>Д</b>умать...<b>А</b>ктивнее». Та-дам! Вот тебе и МДА!
 
-# Original: ... Aaaand this is how ya shorten the other ones.
+# ???: ... Aaaand this is how ya shorten the other ones.
 ???: ... Ииии вот так сокращаются остальные.
 
-# Original: Look, look! Okie?
+# ???: Look, look! Okie?
 ???: Смотри, смотри! Оки?
 
-# Original: Yep.
+# Yoshihide: Yep.
 Yoshihide: Ага.
 
-# Original: Ugh, SMH! Try this one!
+# ???: Ugh, SMH! Try this one!
 ???: Эм, МДА! Попробуй так!
 
-# Original: Nodding M.H.
+# Yoshihide: Nodding M.H.
 Yoshihide: Пробую ДА...
 
-# Original: You're getting it, Mommy!
+# ???: You're getting it, Mommy!
 ???: У тебя получается, Мамуль!
 
-# Original: I'm not...
+# Ryōshū: I'm not...
 Ryōshū: Нет же...
 
-# Original: I didn't get it, can you repeat that... one more time...?
+# Ryōshū: I didn't get it, can you repeat that... one more time...?
 Ryōshū: Я не поняла, ты можешь повторить это... еще раз...?
 
-# Original: The visions slowly lift from us like dissipating mist...
+# Narrator: The visions slowly lift from us like dissipating mist...
 Narrator: Видения медленно отступают от нас, словно рассеивающийся туман...
 
-# Original: ... leaving a cobwebbed, empty room behind.
+# Narrator: ... leaving a cobwebbed, empty room behind.
 Narrator: ... оставляя после себя пустую комнату, затянутую паутиной.
 
-# Original: Spiderwebs are...
+# Ren: Spiderwebs are...
 Ren: Паутина...
 
-# Original: ... such difficult things to remove once they stick.
+# Ren: ... such difficult things to remove once they stick.
 Ren: ... её так сложно убрать, если она прилипнет.
 
-# Original: .......
+# Outis: .......
 Outis: .......
 
-# Original: I shall impart unto you the reply before the question is asked. As it is with the cause for which you have arrived here, herein lies something you have all... lost.
+# Ren: I shall impart unto you the reply before the question is asked. As it is with the cause for which you have arrived here, herein lies something you have all... lost.
 Ren: Я передам вам ответ еще до того, как будет задан вопрос. Как и в случае с причиной, по которой вы прибыли сюда, здесь находится то, что вы все... потеряли.
 
-# Original: Nothing was lost. We are here to retrieve what's stolen from us.
+# Meursault: Nothing was lost. We are here to retrieve what's stolen from us.
 Mersault: Ничего не было потеряно. Мы здесь, чтобы вернуть то, что у нас украли.
 
-# Original: ... Are you?
+# Ren: ... Are you?
 Ren: ... Разве?
 
-# Original: Mischievous adults like to pose facetious questions to children that are, in truth, quite cruel.
+# Ren: Mischievous adults like to pose facetious questions to children that are, in truth, quite cruel.
 Ren: Озорные взрослые любят задавать детям шутливые вопросы, которые, по правде говоря, довольно жестоки.
 
-# Original: Do you like your mother more or your father more? Do you like strawberry ice cream more or chocolate ice cream more?
+# Ren: Do you like your mother more or your father more? Do you like strawberry ice cream more or chocolate ice cream more?
 Ren: Кого ты любишь больше: маму или папу? Тебе больше нравится клубничное мороженое или шоколадное?
 
-# Original: Perhaps my master, Yoshihide... considers you naught but a child still.
+# Ren: Perhaps my master, Yoshihide... considers you naught but a child still.
 Ren: Возможно, моя госпожа, Ёшихидэ... все еще считает тебя лишь ребёнком.
 
-# Original: Get to the point, or you'll find out firsthand how exactly your master lost her tongue.
+# Ryōshū: Get to the point, or you'll find out firsthand how exactly your master lost her tongue.
 Ryōshū: Переходи к делу, или ты на собственном опыте узнаешь, как именно твоя госпожа лишилась языка.
 
-# Original: I present before you, Yoshihide... and your companions... a choice.
+# Ren: I present before you, Yoshihide... and your companions... a choice.
 Ren: Я предлагаю тебе, Ёшихидэ... и твоим спутникам... выбор.
 
-# Original: The Golden Boughs... and the child. If you could return with only one of the two...
+# Ren: The Golden Boughs... and the child. If you could return with only one of the two...
 Ren: Золотые Ветви... и ребёнок. Если бы вы могли вернуться только с одним из двух...
 
-# Original: ... which would you choose?
+# Ren: ... which would you choose?
 Ren: ... что бы вы выбрали?
 
-# Original: You're becoming more and more like me.
+# Dihui Star: You're becoming more and more like me.
 Dihui Star: Ты становишься все больше и больше похожей на меня.
 
-# Original: ... Do I have a choice? I am your blood, after all.
+# Yoshihide: ... Do I have a choice? I am your blood, after all.
 Yoshihide: ... У меня есть выбор? В конце концов, я твоя кровь.
 
-# Original: .......
+# ???: .......
 ???: .......
 
-# Original: ... Bya!
+# ???: ... Bya!
 ???: ... Бя!
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: So, she's the child.
+# Dihui Star: So, she's the child.
 Dihui Star: Итак, она и есть тот ребёнок.
 
-# Original: Yes, indeed. A child of your blood... a very precious child.
+# Rien: Yes, indeed. A child of your blood... a very precious child.
 Rien: Да, действительно. Ребёнок твоей крови... очень драгоценный ребёнок.
 
-# Original: Her aptitude, her ability to "sense" the flow of time is... impossibly precise. She makes you look downright dull in comparison, Dihui Star.
+# Rien: Her aptitude, her ability to "sense" the flow of time is... impossibly precise. She makes you look downright dull in comparison, Dihui Star.
 Rien: Её предрасположенность, её умение «чувствовать» поток времени... невероятно точно. По сравнению с ней ты выглядишь довольно посредственной, Звезда Дихуэй.
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: For now, we're going to give her enough room to perceive and experience "time" as she interacts with the world in her own way.
+# Rien: For now, we're going to give her enough room to perceive and experience "time" as she interacts with the world in her own way.
 Rien: Пока что мы дадим ей достаточно возможностей, чтобы она могла воспринимать и переживать «время», взаимодействуя с миром по-своему.
 
-# Original: Ugh... It's gonna take forever before she's even remotely useful, then.
+# Valencina: Ugh... It's gonna take forever before she's even remotely useful, then.
 Valencina: Тьфу... Тогда пройдет целая вечность, прежде чем она станет хоть сколько-нибудь полезной.
 
-# Original: Fuhu... the more care we put into hammering and chiseling this material, the worthier shall it become.
+# Callisto: Fuhu... the more care we put into hammering and chiseling this material, the worthier shall it become.
 Callisto: Фу-ху... чем больше стараний мы вложим в ковку и огранку этого материала, тем достойнее он станет.
 
-# Original: Aww, look at this kid! She just smiled at me! Did you guys see that?
+# Matthias: Aww, look at this kid! She just smiled at me! Did you guys see that?
 Matthias: Оу, гляньте на малую! Она только что улыбнулась мне! Ребят, вы видели это?
 
-# Original: So... what's her name gonna be?
+# Matthias: So... what's her name gonna be?
 Matthias: Так... как её будут звать?
 
-# Original: It appears that should be the next subject on our table. Personally, I would prefer if she could be named Elisa—
+# Callisto: It appears that should be the next subject on our table. Personally, I would prefer if she could be named Elisa—
 Callisto: Полагаю, это должно стать следующей темой нашего обсуждения. Лично я бы предпочел, чтобы её назвали Элиза—
 
-# Original: ... Mm.
+# Rien: ... Mm.
 Rien: ... Мм.
 
-# Original: "Yoshihide" should be a good name for her.
+# Rien: "Yoshihide" should be a good name for her.
 Rien: «Ёшихидэ» должно быть хорошим именем для неё.
 
-# Original: ... Says the Prescript?
+# Valencina: ... Says the Prescript?
 Valencina: ... Так говорит Предписание?
 
-# Original: Yes.
+# Rien: Yes.
 Rien: Да.
 
-# Original: *puff* Well, whatever your precious Prescript says goes, right? It's better than crap like Elisa or whatever, anyway.
+# Valencina: *puff* Well, whatever your precious Prescript says goes, right? It's better than crap like Elisa or whatever, anyway.
 Valencina: *пфф* Ну, что бы там ни говорили твои драгоценные Предписания, так и будет, да? В любом случае, это лучше, чем какое-нибудь дерьмо вроде Элизы или чего-то там.
 
-# Original: I would appreciate it if you would keep your comments on my naming sense to yourself, Valencina.
+# Callisto: I would appreciate it if you would keep your comments on my naming sense to yourself, Valencina.
 Callisto: Я был бы признателен, если бы ты оставила свои комментарии по поводу моего вкуса на имена при себе, Валенсина.
 
-# Original: ... Mya!
+# ???: ... Mya!
 ???: ... Мя!
 
-# Original: Look at 'er... Looks to me she's a fan of the name Yoshihide. Then it is decided! You're gonna be Yoshihide from now on, Yoshihide!
+# Matthias: Look at 'er... Looks to me she's a fan of the name Yoshihide. Then it is decided! You're gonna be Yoshihide from now on, Yoshihide!
 Matthias: Посмотрите на неё... По-моему, ей нравится имя Ёшихидэ. Тогда решено! С этого момента ты будешь Ёшихидэ, Ёшихидэ!
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: You take care of her for a while, Dihui Star.
+# Rien: You take care of her for a while, Dihui Star.
 Rien: Ты позаботишься о ней какое-то время, Звезда Дихуэй.
 
-# Original: Why does it have to be... me?
+# Dihui Star: Why does it have to be... me?
 Dihui Star: Почему это должна быть... я?
 
-# Original: Well, because she is of your blood. She's a near-carbon copy of you... save for her eyes.
+# Rien: Well, because she is of your blood. She's a near-carbon copy of you... save for her eyes.
 Rien: Ну, потому что она твоей крови. Она почти твоя полная копия... за исключением глаз.
 
-# Original: You know that's not what I'm asking. I'm asking why it had to be—!
+# Dihui Star: You know that's not what I'm asking. I'm asking why it had to be—!
 Dihui Star: Ты знаешь, что я спрашиваю не об этом. Я спрашиваю, почему это должна быть—!
 
-# Original: ... To us, who are discarded here, nothing has less meaning than the question of "why."
+# Rien: ... To us, who are discarded here, nothing has less meaning than the question of "why."
 Rien: ... Для нас, кто выброшен сюда, нет ничего более бессмысленного, чем вопрос «почему».
 
-# Original: Yoooo, are you guys seeing this? See how she picked up that little rattle?
+# Matthias: Yoooo, are you guys seeing this? See how she picked up that little rattle?
 Matthias: Йо-о-о, вы это видите? Видите, как она подняла ту маленькую погремушку?
 
-# Original: Hah... Is she still on about that? Never tired of bitching, are you?
+# Valencina: Hah... Is she still on about that? Never tired of bitching, are you?
 Valencina: Ха... Она опять заводит свою шарманку? Тебе никогда не надоедает ныть, а?
 
-# Original: ... Says the reprobate mongrel who's fallen out of favor with her own Famiglia. Another word out of your mouth, and I'll...
+# Dihui Star: ... Says the reprobate mongrel who's fallen out of favor with her own Famiglia. Another word out of your mouth, and I'll...
 Dihui Star: ... Говорит отверженная шавка, которая впала в немилость у собственной Семьи. Еще одно слово из твоего рта, и я...
 
-# Original: Guys, guys! Don't fight! Not before we place our bets! And you—aren't you gonna stop 'em?
+# Matthias: Guys, guys! Don't fight! Not before we place our bets! And you—aren't you gonna stop 'em?
 Matthias: Ребята, ребята! Ну не ссорьтесь! По крайней мере, не раньше, чем мы сделаем ставки! А ты — разве ты не остановишь их?
 
-# Original: Hm...
+# Rien: Hm...
 Rien: Хм...
 
-# Original: This is how we will be entangled. Every blow, every bickering a pull that brings us closer and closer... The intertwining of our bond and karma completes the web that is the House of Spiders.
+# Rien: This is how we will be entangled. Every blow, every bickering a pull that brings us closer and closer... The intertwining of our bond and karma completes the web that is the House of Spiders.
 Rien: Так мы будем связаны. Каждый удар, каждая перепалка — это сила, которая сближает нас всё больше и больше... Переплетение наших уз и кармы завершает паутину, лежащую в основе Дома Пауков.
 
-# Original: It is now time for us each to do our best for this precious child that has finally been given to us.
+# Rien: It is now time for us each to do our best for this precious child that has finally been given to us.
 Rien: Теперь пришло время каждому из нас сделать всё возможное для этого драгоценного ребёнка, что наконец-то был дарован нам.
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: ... Ma!
+# ???: ... Ma!
 ???: ... Ма!
 
-# Original: You...
+# Dihui Star: You... 
 Dihui Star: Ты...
 
-# Original: ... Bya!
+# ???: ... Bya!
 ???: ... Бя!
 
-# Original: ... This is my first and final request to you: don't become like me.
+# Dihui Star: ... This is my first and final request to you: don't become like me.
 Dihui Star: ... Это моя первая и последняя просьба к тебе: не становись такой, как я.
 
-# Original: Before you came to me, I... knew nothing but freedom and comfort in a world that belonged only to me.
+# Dihui Star: Before you came to me, I... knew nothing but freedom and comfort in a world that belonged only to me.
 Dihui Star: До того, как у меня появилась ты, я... не знала ничего, кроме свободы и комфорта в мире, который принадлежал только мне.
 
-# Original: Until they broke into my world, dragged me out of there, and cast me into this gutter.
+# Dihui Star: Until they broke into my world, dragged me out of there, and cast me into this gutter.
 Dihui Star: Пока они не ворвались в мой мир, не вытащили меня оттуда и не бросили в эту сточную канаву.
 
-# Original: And then you happened.
+# Dihui Star: And then you happened.
 Dihui Star: А потом случилась ты.
 
-# Original: Wrinkles covered my skin like a crumpled blanket, and I realized I had become irreversibly damaged.
+# Dihui Star: Wrinkles covered my skin like a crumpled blanket, and I realized I had become irreversibly damaged.
 Dihui Star: Морщины покрыли мою кожу, словно смятое одеяло, и я поняла, что мне был нанесён необратимый ущерб.
 
-# Original: As you grow up, so will my misery...
+# Dihui Star: As you grow up, so will my misery...
 Dihui Star: По мере того как ты будешь расти, будут расти и мои страдания...
 
-# Original: ... until I am nothing but a wrinkled, shriveled-up husk.
+# Dihui Star: ... until I am nothing but a wrinkled, shriveled-up husk.
 Dihui Star: ... пока я не стану ничем иным, как морщинистой, высохшей оболочкой.
 
-# Original: A husk that existed only to birth you into this world...
+# Dihui Star: A husk that existed only to birth you into this world...
 Dihui Star: Оболочкой, которая существовала лишь для того, чтобы принести тебя в этот мир...
 
-# Original: That is why you must never become like me.
+# Dihui Star: That is why you must never become like me.
 Dihui Star: Вот почему ты никогда не должна становиться такой, как я.
 
-# Original: The more our likeness grows, the clearer it will become that I am but a source of nourishment for you to feed upon. I will be sucked dry to wither and shrink into insignificance...
+# Dihui Star: The more our likeness grows, the clearer it will become that I am but a source of nourishment for you to feed upon. I will be sucked dry to wither and shrink into insignificance...
 Dihui Star: Чем больше будет расти наше сходство, тем яснее будет становиться, что я всего лишь источник пищи, которой ты питаешься. Я буду высосана досуха, увяну, превратившись в ничтожество...
 
-# Original: So don't you dare become like me.
+# Dihui Star: So don't you dare become like me.
 Dihui Star: Так что не смей становиться такой, как я.
 
-# Original: Okay?
+# Dihui Star: Okay?
 Dihui Star: Хорошо?
 
-# Original: ... *puff*
+# Yoshihide: ... *puff*
 Yoshihide: ... *пф*
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: Have you started smoking?
+# Dihui Star: Have you started smoking?
 Dihui Star: Ты начала курить?
 
-# Original: Yeah.
+# Yoshihide: Yeah.
 Yoshihide: Ага.
 
-# Original: ... Give me a light.
+# Dihui Star: ... Give me a light.
 Dihui Star: ... Дай прикурить.
 
-# Original: The day you returned home after receiving those combat ocular augmentations...
+# Dihui Star: The day you returned home after receiving those combat ocular augmentations...
 Dihui Star: В тот день, когда ты вернулась домой после получения этих боевых глазных аугментаций...
 
-# Original: ... and stared at me with red eyes that are just like my own, I came to realize, with horror...
+# Dihui Star: ... and stared at me with red eyes that are just like my own, I came to realize, with horror...
 Dihui Star: ... и уставилась на меня красными глазами, точь-в-точь как у меня, я с ужасом осознала...
 
-# Original: You're becoming like me.
+# Dihui Star: You're becoming like me.
 Dihui Star: Ты становишься похожей на меня.
 
-# Original: You revolting thing.
+# Dihui Star: You revolting thing.
 Dihui Star: Ты отвратительное создание.
 
-# Original: ... Can't really help it.
+# Yoshihide: ... Can't really help it.
 Yoshihide: ... Ничего не поделаешь.
 
-# Original: I'm your kid, after all.
+# Yoshihide: I'm your kid, after all.
 Yoshihide: В конце концов, я твой ребёнок.
 
-# Original: I'm not in the mood to play along with your riddles.
+# Ryōshū: I'm not in the mood to play along with your riddles.
 Ryōshū: Я не в настроении играть в твои загадки.
 
-# Original: In that case, would you allow my humble self to understand your intent as a refusal to give up either of them?
+# Ren: In that case, would you allow my humble self to understand your intent as a refusal to give up either of them?
 Ren: В таком случае, позволите ли вы моей скромной персоне понять ваше намерение как нежелание отказаться от обоих вариантов?
 
-# Original: I am afraid my master does not appreciate the greedy...
+# Ren: I am afraid my master does not appreciate the greedy...
 Ren: Боюсь, моя госпожа не ценит жадных...
 
-# Original: Bring her to me.
+# Ryōshū: Bring her to me.
 Ryōshū: Приведи её ко мне.
 
-# Original: I'll talk to her, and if she wouldn't listen, I'll split her vertically from her throat.
+# Ryōshū: I'll talk to her, and if she wouldn't listen, I'll split her vertically from her throat.
 Ryōshū: Я поговорю с ней, а если она не станет слушать, я разрублю её вертикально, начиная с горла.
 
-# Original: And if that still doesn't do the trick, I will crush the Nursefathers' heads one by one until someone breaks and talks. Believe me, I will.
+# Ryōshū: And if that still doesn't do the trick, I will crush the Nursefathers' heads one by one until someone breaks and talks. Believe me, I will.
 Ryōshū: А если и это не сработает, я буду разбивать головы Отцов-воспитателей одну за другой, пока кто-нибудь не сломается и не заговорит. Поверьте мне, я это сделаю.
 
-# Original: Heads can be decapitated, tongues can be sliced off, faces can be ground to mulch, and limbs can be amputated, but...
+# Dihui Star: Heads can be decapitated, tongues can be sliced off, faces can be ground to mulch, and limbs can be amputated, but...
 Dihui Star: Головы можно отрубить, языки можно отрезать, лица можно стереть в кашу, а конечности можно ампутировать, но...
 
-# Original: ... this, you cannot sever.
+# Dihui Star: ... this, you cannot sever.
 Dihui Star: ... это ты не сможешь разорвать.
 
-# Original: It really is stubborn, isn't it? This thread.
+# Dihui Star: It really is stubborn, isn't it? This thread.
 Dihui Star: Она действительно упрямая, не так ли? Эта нить.
 
-# Original: I agree.
+# Dihui Star: I agree.
 Dihui Star: Я согласна.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: Invisible, intangible, yet doggedly existent...
+# Dihui Star: Invisible, intangible, yet doggedly existent...
 Dihui Star: Невидимая, неосязаемая, но упорно продолжающая существовать...
 
-# Original: ... and utterly inseverable.
+# Dihui Star: ... and utterly inseverable.
 Dihui Star: ... и совершенно неразрывная.
 
-# Original: The Nursefather raises her hand, lifting the red thread tethering her and Ryōshū together.
+# Narrator: The Nursefather raises her hand, lifting the red thread tethering her and Ryōshū together.
 Narrator: Отец-воспитатель поднимает руку, приподнимая красную нить, связывающую её и Рёшу вместе.
 
-# Original: When her hand touches it, the thread becomes clearly visible, as though it has always been there.
+# Narrator: When her hand touches it, the thread becomes clearly visible, as though it has always been there.
 Narrator: Когда её рука касается нити, та становится отчетливо видимой, как будто она всегда была там.
 
-# Original: But if that's the only thing you're hanging onto...
+# Dihui Star: But if that's the only thing you're hanging onto...
 Dihui Star: Но если это единственное, за что ты цепляешься...
 
-# Original: If the only thing tying you to this place...
+# Dihui Star: If the only thing tying you to this place...
 Dihui Star: Если единственное, что привязывает тебя к этому месту...
 
-# Original: ... is that single thread...
+# Dihui Star: ... is that single thread...
 Dihui Star: ... это та единственная нить...
 
-# Original: Wouldn't it be better for you to sever it away?
+# Dihui Star: Wouldn't it be better for you to sever it away?
 Dihui Star: Не лучше ли тебе разорвать её?
 
-# Original: I'm telling you this, because unlike the other Nursefathers, we are related by blood.
+# Dihui Star: I'm telling you this, because unlike the other Nursefathers, we are related by blood.
 Dihui Star: Я говорю тебе это, потому что, в отличие от других Отцов-воспитателей, мы связаны кровью.
 
-# Original: In other words, I'm giving you a chance to be free.
+# Dihui Star: In other words, I'm giving you a chance to be free.
 Dihui Star: Другими словами, я даю тебе шанс стать свободной.
 
-# Original: Because I know the inescapable end you will meet now that you've returned here.
+# Dihui Star: Because I know the inescapable end you will meet now that you've returned here.
 Dihui Star: Потому что я знаю тот неизбежный конец, который ждет тебя теперь, когда ты вернулась сюда.
 
-# Original: ... Unless you were to sever that thread before delving deeper into the House, that is.
+# Dihui Star: ... Unless you were to sever that thread before delving deeper into the House, that is.
 Dihui Star: ... Если только ты не разорвешь эту нить, прежде чем углубиться в Дом, конечно.
 
-# Original: This is your way out, a way to save yourself from a terrible fate.
+# Dihui Star: This is your way out, a way to save yourself from a terrible fate.
 Dihui Star: Это твой выход, способ спасти себя от ужасной участи.
 
-# Original: Or...
+# Dihui Star: Or...
 Dihui Star: Или...
 
-# Original: ... are the Golden Boughs really that important to you?
+# Dihui Star: ... are the Golden Boughs really that important to you?
 Dihui Star: ... неужели Золотые Ветви так важны для тебя?
 
-# Original: ... What was their answer to my question, Ren?
+# Dihui Star: ... What was their answer to my question, Ren?
 Dihui Star: ... Каков был их ответ на мой вопрос, Рен?
 
-# Original: ... They gave none, Master. It may be that they wish to claim both—
+# Ren: ... They gave none, Master. It may be that they wish to claim both—
 Ren: ... Они не дали ответа, Госпожа. Возможно, они желают получить и то, и другое—
 
-# Original: No.
+# Dihui Star: No.
 Dihui Star: Нет.
 
-# Original: Vengeance has narrowed her vision to all other matters... it's as simple as that.
+# Dihui Star: Vengeance has narrowed her vision to all other matters... it's as simple as that.
 Dihui Star: Месть сузила её зрение ко всем остальным вопросам... всё так просто.
 
-# Original: She knew returning to this den of Spiders would bind her in its webs, yet she was foolish enough to do so...
+# Dihui Star: She knew returning to this den of Spiders would bind her in its webs, yet she was foolish enough to do so...
 Dihui Star: Она знала, что возвращение в это логово Пауков свяжет её своей паутиной, но она была достаточно глупа, чтобы сделать это...
 
-# Original: What other explanation could there be?
+# Dihui Star: What other explanation could there be?
 Dihui Star: Какое еще может быть объяснение?
 
-# Original: You... won't understand.
+# Ryōshū: You... won't understand.
 Ryōshū: Ты... не поймешь.
 
-# Original: Someone like you who has done nothing but blame me for your miseries...
+# Ryōshū: Someone like you who has done nothing but blame me for your miseries...
 Ryōshū: Такая, как ты, которая только и делала, что винила меня в своих страданиях...
 
-# Original: ... and trembled with resentment whenever I called upon you.
+# Ryōshū: ... and trembled with resentment whenever I called upon you.
 Ryōshū: ... и дрожала от негодования всякий раз, когда я звала тебя.
 
-# Original: So, I've kept that word buried all my life. The word that I would've used to call upon you.
+# Ryōshū: So, I've kept that word buried all my life. The word that I would've used to call upon you.
 Ryōshū: Поэтому я хранила это слово похороненным всю свою жизнь. Слово, которым я бы звала тебя.
 
-# Original: .......
+# Dihui Star: .......
 Dihui Star: .......
 
-# Original: You couldn't even handle me—or anyone, really—calling you that. So much so that you'd—
+# Ryōshū: You couldn't even handle me—or anyone, really—calling you that. So much so that you'd—
 Ryōshū: Ты даже не могла вынести, когда я — или кто-либо вообще — называла тебя так. Настолько, что ты бы—
 
-# Original: ... No.
+# Dihui Star: ... No.
 Dihui Star: ... Нет.
 
-# Original: Because the echoes of that word carry...
+# Dihui Star: Because the echoes of that word carry...
 Dihui Star: Потому что эхо этого слова несет...
 
-# Original: ... nothing but misery for me.
+# Dihui Star: ... nothing but misery for me.
 Dihui Star: ... лишь страдания для меня.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: Is that why you brought that child here?
+# Dihui Star: Is that why you brought that child here?
 Dihui Star: Поэтому ты привела сюда этого ребёнка?
 
-# Original: ... mmy!
+# ???: ... mmy!
 ???: ... ма!
 
-# Original: It's Mommy!
+# ???: It's Mommy!
 ???: Это Мамочка!

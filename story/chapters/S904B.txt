@@ -1,287 +1,287 @@
-# Original: Arriving at the LCE Department.
+# Announcer: Arriving at the LCE Department.
 Диктор: Прибываем в Отдел LCE.
 
-# Original: Oi... What in the...
+# Heathcliff: Oi... What in the...
 Хитклиф: Эй... Что за чертовщина...
 
-# Original: The sight that greeted us was nothing like what we remembered from our last visit for the regular check-up.
+# Narrator: The sight that greeted us was nothing like what we remembered from our last visit for the regular check-up.
 Рассказчик: Зрелище, представшее перед нами, ни капли не походило на то, что мы помнили со своего последнего визита во время планового осмотра.
 
-# Original: ... We're too late.
+# Outis: ... We're too late.
 Отис: ... Мы опоздали.
 
-# Original: I thought HQ's reinforcements would be holding the line... or at the very least, that I'd walk into a battle...
+# Gregor: I thought HQ's reinforcements would be holding the line... or at the very least, that I'd walk into a battle...
 Грегор: Я думал, подкрепление из штаб-квартиры удержит позиции... или, по крайней мере, что я попаду в самый разгар битвы...
 
-# Original: ... Yet there was nobody left standing, much less making a run for it.
+# Narrator: ... Yet there was nobody left standing, much less making a run for it.
 Рассказчик: ... Но на позициях никого не осталось, не говоря уже о тех, кто пытался бы сбежать.
 
-# Original: All we could see were bodies slumped along the floor, filling the corridor in motionless silence.
+# Narrator: All we could see were bodies slumped along the floor, filling the corridor in motionless silence.
 Рассказчик: Всё, что мы видели — это тела, повалившиеся на пол и заполнявшие коридор в неподвижной тишине.
 
-# Original: This... This is just awful... I never thought the ship would go down this badly...
+# Ishmael: This... This is just awful... I never thought the ship would go down this badly...
 Измаил: Это... Это просто ужасно... Никогда не думала, что корабль пойдёт ко дну настолько быстро...
 
-# Original: Faust, have you got any idea how many of the LCE are actually combat-ready?
+# Ishmael: Faust, have you got any idea how many of the LCE are actually combat-ready?
 Измаил: Фауст, у тебя есть идеи, сколько сотрудников LCE на самом деле боеспособны?
 
-# Original: The LCE... tends to encounter more combat tryouts and experiments compared to the other research-focused departments. The vast majority of its employees are required to have completed basic training pertaining to the aforementioned.
+# Faust: The LCE... tends to encounter more combat tryouts and experiments compared to the other research-focused departments. The vast majority of its employees are required to have completed basic training pertaining to the aforementioned.
 Фауст: В LCE... боевые испытания и эксперименты проводятся чаще, чем в других исследовательских отделах. От подавляющего большинства его сотрудников требуется прохождение базовой подготовки, связанной с вышеупомянутым.
 
-# Original: As for the E.G.O equipments... Although the current research and extraction process may be sophisticated enough to see some considerable results in combat,
+# Faust: As for the E.G.O equipments... Although the current research and extraction process may be sophisticated enough to see some considerable results in combat,
 Фауст: Что касается снаряжения ЭГО... Хотя текущий процесс исследования и извлечения может быть достаточно совершенным, чтобы показывать значительные результаты в бою,
 
-# Original: it would seem that they were ill-equipped to handle a pre-planned ambush such as this.
+# Faust: it would seem that they were ill-equipped to handle a pre-planned ambush such as this.
 Фауст: похоже, они были плохо подготовлены к тому, чтобы справиться с таким спланированным неожиданным нападением.
 
-# Original: Fat chance those lab nerds could do anything in a real fight, let alone against the Spiders out on the prowl.
+# Ryōshū: Fat chance those lab nerds could do anything in a real fight, let alone against the Spiders out on the prowl.
 Рёшу: Слабо верится, что эти лабораторные задроты способны на что-то в настоящем бою, не говоря уже о сражении с рыщущими Пауками.
 
-# Original: The memories came flooding back—researchers jotting down our check-up results on piles of paper, and Hohenheim, with his droopy, tired eyes, leafing through the files.
+# Narrator: The memories came flooding back—researchers jotting down our check-up results on piles of paper, and Hohenheim, with his droopy, tired eyes, leafing through the files.
 Рассказчик: Воспоминания хлынули потоком — исследователи, записывающие результаты нашего осмотра на стопках бумаги, и Хохенхайм, листавший документы своими поникшими, усталыми глазами.
 
-# Original: We'd barely exchanged goodbyes when he rounded up the burnt-out lab staff, who were already pulling their hair out from the sheer level of stress, to oversee another experiment in progress.
+# Narrator: We'd barely exchanged goodbyes when he rounded up the burnt-out lab staff, who were already pulling their hair out from the sheer level of stress, to oversee another experiment in progress.
 Рассказчик: Мы едва успели попрощаться, как он собрал еле живых сотрудников лаборатории, которые и так уже рвали на себе волосы от зашкаливающего уровня стресса, чтобы курировать очередной эксперимент.
 
-# Original: <Meursault. If you happen to notice anyone who... looks like Hohenheim... let me know ASAP.>
+# Dante: <Meursault. If you happen to notice anyone who... looks like Hohenheim... let me know ASAP.>
 Данте: <Мерсо. Если заметишь кого-то, кто... похож на Хохенхайма... дай мне знать как можно скорее.>
 
-# Original: ... Mm.
+# Meursault: ... Mm.
 Мерсо: ... Мм.
 
-# Original: I have identified three bodies in various states that make immediate recognition challenging. However, their stature and attire make it extremely unlikely that any of them are Hohenheim.
+# Meursault: I have identified three bodies in various states that make immediate recognition challenging. However, their stature and attire make it extremely unlikely that any of them are Hohenheim.
 Мерсо: Я идентифицировал три тела в различном состоянии, что затрудняет немедленное опознание. Однако их телосложение и одежда делают крайне маловероятным то, что кто-то из них — Хохенхайм.
 
-# Original: From the looks of it... they probably didn't even get the chance to put up any meaningful resistance before they were killed.
+# Gregor: From the looks of it... they probably didn't even get the chance to put up any meaningful resistance before they were killed.
 Грегор: Судя по всему... у них, вероятно, даже не было возможности оказать хоть какое-то значимое сопротивление перед смертью.
 
-# Original: With a glum look in his eyes, Gregor examined the bodies strewn across the floor.
+# Narrator: With a glum look in his eyes, Gregor examined the bodies strewn across the floor.
 Рассказчик: С мрачным взглядом Грегор осматривал тела, разбросанные по полу.
 
-# Original: Out of 32 bodies, 26 show identical physical trauma.
+# Meursault: Out of 32 bodies, 26 show identical physical trauma.
 Мерсо: Из 32 тел 26 имеют идентичные физические травмы.
 
-# Original: <Identical...?>
+# Dante: <Identical...?>
 Данте: <Идентичные...?>
 
-# Original: Every one of them has a spiral-shaped perforation at the center of the chest, over where the heart is. Their cause of death seems to be the same type of "spiral" weapon they are holding in their hands, Manager.
+# Meursault: Every one of them has a spiral-shaped perforation at the center of the chest, over where the heart is. Their cause of death seems to be the same type of "spiral" weapon they are holding in their hands, Manager.
 Мерсо: У каждого из них имеется спиралевидное отверстие в центре груди, прямо там, где находится сердце. Причиной их смерти, по всей видимости, является тот же тип «спирального» оружия, который они держат в руках, Менеджер.
 
-# Original: These spirals... I think they pulled them out themselves... but why would...
+# Sinclair: These spirals... I think they pulled them out themselves... but why would...
 Синклер: Эти спирали... Думаю, они сами их вытащили... но зачем им...
 
-# Original: .......
+# Ryōshū: .......
 Рёшу: .......
 
-# Original: ... Soft.
+# Ryōshū: ... Soft.
 Рёшу: ... Мягко.
 
-# Original: Ryōshū cast her gaze down, quietly eyeing her palm.
+# Narrator: Ryōshū cast her gaze down, quietly eyeing her palm.
 Рассказчик: Рёшу опустила взгляд, тихо рассматривая свою ладонь.
 
-# Original: From the cryptic words and the contemplative look on her face,
+# Narrator: From the cryptic words and the contemplative look on her face,
 Рассказчик: По загадочным словам и задумчивому выражению её лица...
 
-# Original: I could easily guess that she was taking a trip through the shadows of her past...
+# Narrator: I could easily guess that she was taking a trip through the shadows of her past...
 Рассказчик: ...я легко мог догадаться, что она совершает путешествие сквозь тени своего прошлого...
 
-# Original: ... touching an invisible object with her palm and feeling its texture, in search of something that should have been there in her hands.
+# Narrator: ... touching an invisible object with her palm and feeling its texture, in search of something that should have been there in her hands.
 Рассказчик: ...касаясь ладонью невидимого объекта и ощущая его текстуру в поисках чего-то, что должно было быть в её руках.
 
-# Original: And I've been through enough to know that we would be revisiting her past together.
+# Narrator: And I've been through enough to know that we would be revisiting her past together.
 Рассказчик: И я прошёл достаточно, чтобы знать — мы вместе снова посетим её прошлое.
 
-# Original: However...
+# Narrator: However...
 Рассказчик: Однако...
 
-# Original: <... Huh?>
+# Dante: <... Huh?>
 Данте: <... А?>
 
-# Original: What I witnessed was completely different from the memories of the other Sinners I'd seen so far.
+# Narrator: What I witnessed was completely different from the memories of the other Sinners I'd seen so far.
 Рассказчик: То, чему я стал свидетелем, полностью отличалось от воспоминаний других Грешников, которые я видел до сих пор.
 
-# Original: The vision I saw was completely fragmented....
+# Narrator: The vision I saw was completely fragmented....
 Рассказчик: Видение, представшее предо мной, было полностью фрагментарным...
 
-# Original: ... as if a blade had cut up her memories into pieces.
+# Narrator: ... as if a blade had cut up her memories into pieces.
 Рассказчик: ...словно лезвие изрезало её воспоминания на куски.
 
-# Original: .......
+# ???: .......
 Рёшу: .......
 
-# Original: Within Ryōshū's memories, something did indeed rest in her palm. However...
+# Narrator: Within Ryōshū's memories, something did indeed rest in her palm. However...
 Рассказчик: В воспоминаниях Рёшу что-то действительно покоилось в её ладони. Однако...
 
-# Original: I couldn't even make out whether its hue was closer to black or white.
+# Narrator: I couldn't even make out whether its hue was closer to black or white.
 Рассказчик: Я не мог даже разобрать, был ли его оттенок ближе к чёрному или белому.
 
-# Original: Was it some kind of food? A weapon, or something else entirely?
+# Narrator: Was it some kind of food? A weapon, or something else entirely?
 Рассказчик: Была ли это какая-то еда? Оружие, или что-то совсем иное?
 
-# Original: Even the expression that crossed her face when she saw it and the words that slipped from her lips in that moment escaped me.
+# Narrator: Even the expression that crossed her face when she saw it and the words that slipped from her lips in that moment escaped me.
 Рассказчик: Даже выражение, промелькнувшее на её лице, когда она увидела это, и слова, сорвавшиеся с её губ в тот момент, ускользнули от меня.
 
-# Original: .......
+# ???: .......
 Звезда Дихуэй: .......
 
-# Original: One thing I saw for sure, though...
+# Narrator: One thing I saw for sure, though...
 Рассказчик: Однако одну вещь я увидел наверняка...
 
-# Original: ... was that the person who, in all likelihood, had given it to her...
+# Narrator: ... was that the person who, in all likelihood, had given it to her...
 Рассказчик: ...человек, который, по всей вероятности, дал ей это...
 
-# Original: ... was letting out a lazy puff of smoke swirling into the air,
+# Narrator: ... was letting out a lazy puff of smoke swirling into the air,
 Рассказчик: ...лениво выпускал клуб дыма, закручивающийся в воздухе,
 
-# Original: watching Ryōshū's reaction in complete ease.
+# Narrator: watching Ryōshū's reaction in complete ease.
 Рассказчик: и с полным спокойствием наблюдал за реакцией Рёшу.
 
-# Original: <…….>
+# Dante: <.......>
 Данте: <…….>
 
-# Original: I gazed back upon the cryptic scenes of Ryōshū's memory that flashed before my eyes.
+# Narrator: I gazed back upon the cryptic scenes of Ryōshū's memory that flashed before my eyes.
 Рассказчик: Я вновь взглянул на загадочные сцены из памяти Рёшу, промелькнувшие перед моими глазами.
 
-# Original: .......
+# Ryōshū: .......
 Рёшу: .......
 
-# Original: <Ryōshū? Is there anything you remember?>
+# Dante: <Ryōshū? Is there anything you remember?>
 Данте: <Рёшу? Ты что-нибудь помнишь?>
 
-# Original: ... "Saru."
+# Ryōshū: ... "Saru."
 Рёшу: ... «Сару».
 
-# Original: That name's all I can remember.
+# Ryōshū: That name's all I can remember.
 Рёшу: Это имя — всё, что я могу вспомнить.
 
-# Original: <You mean...>
+# Dante: <You mean...>
 Данте: <Ты имеешь в виду...>
 
-# Original: As you've seen, Clock, my mind has been hacked to tatters.
+# Ryōshū: As you've seen, Clock, my mind has been hacked to tatters.
 Рёшу: Как ты видел, Часы, мой разум искромсан в клочья.
 
-# Original: The sequence and the shapes... Everything is in tangles.
+# Ryōshū: The sequence and the shapes... Everything is in tangles.
 Рёшу: Последовательность и формы... Всё запутано.
 
-# Original: There is nothing I can explain about my memory.
+# Ryōshū: There is nothing I can explain about my memory.
 Рёшу: Я не могу объяснить ничего о состоянии своей памяти.
 
-# Original: It seems we've gotten the gist of the situation. The worst-case scenario here would be...
+# Outis: It seems we've gotten the gist of the situation. The worst-case scenario here would be...
 Отис: Похоже, мы уловили суть ситуации. Худшим сценарием здесь было бы...
 
-# Original: ... a breach from the outside happening while Abnormalities, Distortions, and Peccatula break containment all at once.
+# Outis: ... a breach from the outside happening while Abnormalities, Distortions, and Peccatula break containment all at once.
 Отис: ...вторжение извне, происходящее в то время, как Аномалии, Искажения и Пеккатулы одновременно нарушают условия содержания.
 
-# Original: Whoa. Now that's a situation I really don't even want to think about... We'd be fighting trespassers <i>and</i> all kinds of monsters broken loose!
+# Rodion: Whoa. Now that's a situation I really don't even want to think about... We'd be fighting trespassers <i>and</i> all kinds of monsters broken loose!
 Родион: Ого. О такой ситуации я даже думать не хочу... Мы будем сражаться и с нарушителями, <i>и</i> со всеми видами вырвавшихся монстров!
 
-# Original: Precisely. That sums up our present circumstance.
+# Outis: Precisely. That sums up our present circumstance.
 Отис: Именно. Это описывает наше нынешнее положение.
 
-# Original: Right...
+# Rodion: Right...
 Родион: Точно...
 
-# Original: Outis wasted no time to deliver the conclusion that'd kill everyone's morale.
+# Narrator: Outis wasted no time to deliver the conclusion that'd kill everyone's morale.
 Рассказчик: Отис не теряла времени, вынося вердикт, который убил бы любой боевой дух.
 
-# Original: Let's start from the beginning.
+# Outis: Let's start from the beginning.
 Отис: Давайте начнём с начала.
 
-# Original: First, the LCE Department found itself under attack by a group of unidentified hostiles 2 hours prior.
+# Outis: First, the LCE Department found itself under attack by a group of unidentified hostiles 2 hours prior.
 Отис: Во-первых, Отдел LCE подвергся атаке группы неопознанных противников 2 часа назад.
 
-# Original: The weapons used to massacre the researchers... are not uniform. The victims appear to have been killed with a various assortment of arms.
+# Outis: The weapons used to massacre the researchers... are not uniform. The victims appear to have been killed with a various assortment of arms.
 Отис: Оружие, использованное для резни исследователей... неоднородно. Жертвы, судя по всему, были убиты самым разным набором вооружения.
 
-# Original: .......
+# Ryōshū: .......
 Рёшу: .......
 
-# Original: My darling daughter.
+# ???: My darling daughter.
 Риен: Моя дорогая дочь.
 
-# Original: Eyes on me. When using straight weapons that leave the farthest-reaching arcs...
+# ???: Eyes on me. When using straight weapons that leave the farthest-reaching arcs...
 Риен: Смотри на меня. При использовании прямого оружия, оставляющего самые длинные дуги...
 
-# Original: Eyes on me. When using weapons that kill with the tiniest incisions...
+# ???: Eyes on me. When using weapons that kill with the tiniest incisions...
 Риен: Смотри на меня. При использовании оружия, которое убивает крошечными надрезами...
 
-# Original: Eyes on me. When using flexible weapons that crush anything they make contact with...
+# ???: Eyes on me. When using flexible weapons that crush anything they make contact with...
 Риен: Смотри на меня. При использовании гибкого оружия, которое дробит всё, с чем соприкасается...
 
-# Original: .......
+# Ryōshū: .......
 Рёшу: .......
 
-# Original: What a tangled mess, just like that bastard.
+# Ryōshū: What a tangled mess, just like that bastard.
 Рёшу: Какая путаница, прямо как у того ублюдка.
 
-# Original: Hard to tell what kind of weapons were used here... Damn.
+# Gregor: Hard to tell what kind of weapons were used here... Damn.
 Грегор: Трудно сказать, какое оружие здесь использовалось... Проклятье.
 
-# Original: Ryōshū whipped her hair back, furrowing her eyebrows in annoyance.
+# Narrator: Ryōshū whipped her hair back, furrowing her eyebrows in annoyance.
 Рассказчик: Рёшу откинула волосы назад, раздражённо нахмурив брови.
 
-# Original: ... Safe to say that the killer is adept with at least three different types of weapons.
+# Outis: ... Safe to say that the killer is adept with at least three different types of weapons.
 Отис: ...С уверенностью можно сказать, что убийца мастерски владеет как минимум тремя различными типами оружия.
 
-# Original: Moving on...
+# Outis: Moving on...
 Отис: Идём дальше...
 
-# Original: This was a surprise attack carried out without any delay whatsoever, and the LCE had no time to even plan a counterattack. It was, for lack of a better word, a massacre.
+# Outis: This was a surprise attack carried out without any delay whatsoever, and the LCE had no time to even plan a counterattack. It was, for lack of a better word, a massacre.
 Отис: Это была внезапная атака, совершённая без малейшего промедления, и у LCE не было времени даже на планирование контратаки. Это была, за неимением лучшего слова, бойня.
 
-# Original: Now, here's something that demands our attention.
+# Outis: Now, here's something that demands our attention.
 Отис: А теперь то, что требует нашего внимания.
 
-# Original: It appears the invaders had the Abnormality containment units opened... only <i>after</i> they confirmed that the surprise attack had been carried out successfully.
+# Outis: It appears the invaders had the Abnormality containment units opened... only <i>after</i> they confirmed that the surprise attack had been carried out successfully.
 Отис: Похоже, захватчики открыли камеры содержания Аномалий... только <i>после того</i>, как убедились, что внезапная атака прошла успешно.
 
-# Original: ... That sure is fishy.
+# Ishmael: ... That sure is fishy.
 Измаил: ... Это определённо подозрительно.
 
-# Original: I mean... shouldn't it be the other way around?
+# Ishmael: I mean... shouldn't it be the other way around?
 Измаил: В смысле... разве не должно быть наоборот?
 
-# Original: Unlock the containment units first, let the monsters wreak havoc through the facility... then swoop in during the chaos and finish off the stragglers. That'd be the easier course of action.
+# Ishmael: Unlock the containment units first, let the monsters wreak havoc through the facility... then swoop in during the chaos and finish off the stragglers. That'd be the easier course of action.
 Измаил: Сначала открыть камеры содержания, позволить монстрам сеять хаос в комплексе... а затем нагрянуть во время неразберихи и прикончить отставших. Это было бы куда проще.
 
-# Original: Indeed. The enemy's strategy is highly unusual.
+# Outis: Indeed. The enemy's strategy is highly unusual.
 Отис: Действительно. Стратегия противника крайне необычна.
 
-# Original: As for why they resorted to such an unusual move, there are two plausible explanations.
+# Outis: As for why they resorted to such an unusual move, there are two plausible explanations.
 Отис: Что касается того, почему они прибегли к такому необычному шагу, есть два правдоподобных объяснения.
 
-# Original: Firstly, that the enemy may be comprised of fighters skilled enough to forgo a diversion tactic.
+# Outis: Firstly, that the enemy may be comprised of fighters skilled enough to forgo a diversion tactic. 
 Отис: Во-первых, враг может состоять из бойцов, достаточно опытных, чтобы отказаться от тактики отвлечения внимания.
 
-# Original: You mean there could be more... who are as strong as the woman in the truck who kidnapped Charon...?
+# Sinclair: You mean there could be more... who are as strong as the woman in the truck who kidnapped Charon...?
 Синклер: Ты имеешь в виду, что их может быть больше... таких же сильных, как та женщина в грузовике, что похитила Харон...?
 
-# Original: Mm. Secondly...
+# Outis: Mm. Secondly...
 Отис: Мм. Во-вторых...
 
-# Original: That the enemy may have purposefully unleashed the Abnormalities from the cages as a follow-up measure.
+# Outis: That the enemy may have purposefully unleashed the Abnormalities from the cages as a follow-up measure.
 Отис: Враг мог намеренно выпустить Аномалий из клеток в качестве последующей меры.
 
-# Original: Follow-up measure...? Art thou implying those villains sought to disguise their vile attack?!
+# Don Quixote: Follow-up measure...? Art thou implying those villains sought to disguise their vile attack?!
 Дон Кихот: Последующей меры?.. Неужто ты намекаешь, что сии злодеи жаждали скрыть свою подлую атаку?!
 
-# Original: No, the chance of a cover-up is almost nonexistent. Unless they had precise knowledge of scavenger Abnormalities that could devour the corpses clean, the enemy would never have left such identifiable wounds on their victims.
+# Outis: No, the chance of a cover-up is almost nonexistent. Unless they had precise knowledge of scavenger Abnormalities that could devour the corpses clean, the enemy would never have left such identifiable wounds on their victims.
 Отис: Нет, шанс сокрытия практически отсутствует. Если только они не обладали точными знаниями об Аномалиях-падальщиках, способных сожрать трупы дочиста, враг никогда бы не оставил на своих жертвах столь узнаваемые раны.
 
-# Original: It makes more sense that their goal was to delay HQ's main reinforcements and keep them from reaching the scene on time as we did.
+# Outis: It makes more sense that their goal was to delay HQ's main reinforcements and keep them from reaching the scene on time as we did.
 Отис: Более логично, что их целью было задержать основные подкрепления штаб-квартиры и не дать им вовремя добраться до места происшествия, как это сделали мы.
 
-# Original: A delay tactic... I see. Maybe they were looking for something?
+# Ishmael: A delay tactic... I see. Maybe they were looking for something?
 Измаил: Тактика задержки... Понимаю. Может, они что-то искали?
 
-# Original: Possibly. They must've had a specific objective in mind when they broke through.
+# Outis: Possibly. They must've had a specific objective in mind when they broke through.
 Отис: Возможно. У них наверняка была конкретная цель, когда они совершали нападение.
 
-# Original: Which means whatever they're looking for... should be here somewhere.
+# Hong Lu: Which means whatever they're looking for... should be here somewhere.
 Хон Лу: А это значит, что что бы они ни искали... оно должно быть где-то здесь.
 
-# Original: Something elusive and so well-hidden that they had to distract us just to buy themselves some time.
+# Hong Lu: Something elusive and so well-hidden that they had to distract us just to buy themselves some time.
 Хон Лу: Что-то неуловимое и настолько хорошо спрятанное, что им пришлось отвлекать нас только ради того, чтобы выиграть себе немного времени.
 
-# Original: ... We need to hurry, then.
+# Gregor: ... We need to hurry, then.
 Грегор: ... Тогда нам нужно поспешить.

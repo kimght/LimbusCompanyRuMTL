@@ -1,476 +1,476 @@
-# Original: Prep-prepare for battle, immediately...
+# Saude: Prep-prepare for battle, immediately...
 Сод: Го-готовьтесь к бою, немедленно...
 
-# Original: I am... no longer able to operate, as you can plainly see... I need... your help.
+# Saude: I am... no longer able to operate, as you can plainly see... I need... your help.
 Сод: Я... больше не в состоянии действовать, как вы сами видите... Мне нужна... ваша помощь.
 
-# Original: Saude collapsed to the floor before we even had the chance to ask her if she was okay or what had happened to her arm.
+# Narrator: Saude collapsed to the floor before we even had the chance to ask her if she was okay or what had happened to her arm.
 Рассказчик: Сод рухнула на пол прежде, чем мы успели спросить, в порядке ли она или что случилось с её рукой.
 
-# Original: Immediately after rendezvousing with Mister Vergilius... I was... ambushed...
+# Saude: Immediately after rendezvousing with Mister Vergilius... I was... ambushed...
 Сод: Сразу после встречи с господином Вергилием... я... попала в засаду...
 
-# Original: And the attackers... the attackers'll be here any minute.
+# Saude: And the attackers... the attackers'll be here any minute.
 Сод: И нападавшие... нападавшие будут здесь с минуты на минуту.
 
-# Original: Where once her resolve had not faltered even in the face of death...
+# Narrator: Where once her resolve had not faltered even in the face of death...
 Рассказчик: Там, где прежде её решимость не колебалась даже перед лицом смерти...
 
-# Original: ... a grave look of despair now filled her eyes.
+# Narrator: ... a grave look of despair now filled her eyes.
 Рассказчик: ...теперь в её глазах застыло тяжкое отчаяние.
 
-# Original: How many hostiles?
+# Outis: How many hostiles?
 Отис: Сколько противников?
 
-# Original: ... Two.
+# Saude: ... Two.
 Сод: ...Двое.
 
-# Original: While Mister Vergilius was dealing with one of them, I...
+# Saude: While Mister Vergilius was dealing with one of them, I...
 Сод: Пока господин Вергилий разбирался с одним из них, я...
 
-# Original: Verg was?
+# Rodion: Verg was?
 Родион: Верг?
 
-# Original: Color returned to Rodya's face upon hearing Vergilius's name.
+# Narrator: Color returned to Rodya's face upon hearing Vergilius's name.
 Рассказчик: Лицо Роди вновь обрело краски, стоило ей услышать имя Вергилия.
 
-# Original: Well... Then maybe Verg's already on his way back after wiping the floor with both of them?
+# Rodion: Well... Then maybe Verg's already on his way back after wiping the floor with both of them?
 Родион: Ну... Может тогда Верг уже на обратном пути, после того как вытер пол ими обоими?
 
-# Original: N... no. I don't think so...
+# Saude: N... no. I don't think so...
 Сод: Н... нет. Не думаю...
 
-# Original: It's Charon...
+# Saude: It's Charon...
 Сод: Это Харон...
 
-# Original: I... I lost her.
+# Saude: I... I lost her.
 Сод: Я... я потеряла её.
 
-# Original: They tore off the arm I was holding onto Charon with...
+# Saude: They tore off the arm I was holding onto Charon with...
 Сод: Они оторвали руку, которой я держала Харон...
 
-# Original: I never should've let go, I never should've let that happen...
+# Saude: I never should've let go, I never should've let that happen...
 Сод: Я не должна была отпускать, я не должна была позволить этому случиться...
 
-# Original: Thou couldst not hold onto young Charon? How, what...?
+# Don Quixote: Thou couldst not hold onto young Charon? How, what...?
 Дон Кихот: Неужто ты не смогла удержать юную Харон? Как, что?..
 
-# Original: Saude grimaced, her expression an amalgamation of guilt and confusion.
+# Narrator: Saude grimaced, her expression an amalgamation of guilt and confusion.
 Рассказчик: Сод поморщилась, её лицо выражало смесь вины и замешательства.
 
-# Original: It was a far cry from her usual, collected self.
+# Narrator: It was a far cry from her usual, collected self.
 Рассказчик: Это было далеко от её обычного, собранного образа.
 
-# Original: ... Did they take Charon hostage?
+# Hong Lu: ... Did they take Charon hostage?
 Хон Лу: ...Они взяли Харон в заложники?
 
-# Original: Yes. I... could not stop them from taking... Charon.
+# Saude: Yes. I... could not stop them from taking... Charon.
 Сод: Да. Я... не смогла помешать им забрать... Харон.
 
-# Original: What about Pilot...?
+# Sinclair: What about Pilot...?
 Синклер: А что насчёт Пилота?..
 
-# Original: .......
+# Saude: .......
 Сод: .......
 
-# Original: Pilot was heavily wounded, but... the last time I saw him, he was conscious.
+# Saude: Pilot was heavily wounded, but... the last time I saw him, he was conscious.
 Сод: Пилот был тяжело ранен, но... когда я видела его в последний раз, он был в сознании.
 
-# Original: ... We should prepare for battle. Now.
+# Ishmael: ... We should prepare for battle. Now.
 Измаил: ...Нам нужно готовиться к бою. Сейчас же.
 
-# Original: At least our current objective is clear, Executive Manager. First, take out the pursuers, then rescue Charon. While the exact motive of the perpetrators is yet to be revealed...
+# Outis: At least our current objective is clear, Executive Manager. First, take out the pursuers, then rescue Charon. While the exact motive of the perpetrators is yet to be revealed...
 Отис: По крайней мере, наша текущая цель ясна, Исполнительный Менеджер. Сначала устранить преследователей, затем спасти Харон. Хотя точные мотивы преступников ещё не раскрыты...
 
-# Original: We may be facing multiple fronts. I briefly picked up a transmission from HQ while running this way, and...
+# Saude: We may be facing multiple fronts. I briefly picked up a transmission from HQ while running this way, and...
 Сод: Возможно, нам придётся столкнуться с несколькими фронтами. По пути сюда я поймала короткую передачу из штаб-квартиры, и...
 
-# Original: *tzzzzzt*
+# Narrator: *tzzzzzt*
 Рассказчик: *тзззззт*
 
-# Original: A sudden buzz of white noise breaks through the truck's silence.
+# Narrator: A sudden buzz of white noise breaks through the truck's silence.
 Рассказчик: В тишине грузовика внезапно раздаётся треск белого шума.
 
-# Original: ...!
+# Saude: ...!
 Сод: ...!
 
-# Original: Ah...
+# Saude: Ah...
 Сод: Ах...
 
-# Original: Any station, respond... respond...
+# Radio: Any station, respond... respond...
 Напуганный исследователь: Любая станция, ответьте... ответьте...
 
-# Original: Saude froze up, staring at the radio's speaker.
+# Narrator: Saude froze up, staring at the radio's speaker.
 Рассказчик: Сод замерла, уставившись на динамик радио.
 
-# Original: Gregor was the first to act in her place.
+# Narrator: Gregor was the first to act in her place.
 Рассказчик: Грегор первым начал действовать вместо неё.
 
-# Original: This is LCB, I read you. What's your situation? Over.
+# Gregor: This is LCB, I read you. What's your situation? Over.
 Грегор: Это LCB, я вас слышу. Какова ваша обстановка? Приём.
 
-# Original: HQ Research Facility—
+# Radio: HQ Research Facility—
 Напуганный исследователь: Исследовательский центр штаб-квартиры—
 
-# Original: Research Facility?
+# Gregor: Research Facility?
 Грегор: Исследовательский центр?
 
-# Original: U-und-under-attack—
+# Radio: U-und-under-attack—
 Напуганный исследователь: По-по-под-атакой—
 
-# Original: My darling daughter. I hope you've been doing well for yourself out there.
+# Radio: My darling daughter. I hope you've been doing well for yourself out there.
 Риен: Моя дорогая дочь. Надеюсь, у тебя там всё было хорошо.
 
-# Original: But don't you think it's about time you stopped playing and came home?
+# Radio: But don't you think it's about time you stopped playing and came home?
 Риен: Но не думаешь ли ты, что тебе пора перестать играть и вернуться домой?
 
-# Original: Utter silence descends as a kindly calling cuts off the bloodcurdling scream from the other side.
+# Narrator: Utter silence descends as a kindly calling cuts off the bloodcurdling scream from the other side.
 Рассказчик: Воцаряется абсолютная тишина, когда ласковый зов обрывает леденящий душу крик на другом конце.
 
-# Original: The voice that came through the radio was nothing short of affectionate.
+# Narrator: The voice that came through the radio was nothing short of affectionate.
 Рассказчик: Голос, донёсшийся из радио, был не иначе как нежным.
 
-# Original: And... it was easy to guess who the "daughter"... was.
+# Narrator: And... it was easy to guess who the "daughter"... was.
 Рассказчик: И... было несложно догадаться, кто был этой «дочерью».
 
-# Original: ... Hah.
+# Ryōshū: ... Hah.
 Рёшу: ...Ха.
 
-# Original: The Spiders have spun their web, Clock.
+# Ryōshū: The Spiders have spun their web, Clock.
 Рёшу: Пауки сплели свою паутину, Часы.
 
-# Original: <Web?>
+# Dante: <Web?>
 Данте: <Паутину?>
 
-# Original: And it's woven so intricately that there's no way around it.
+# Ryōshū: And it's woven so intricately that there's no way around it.
 Рёшу: И она сплетена так искусно, что её не обойти.
 
-# Original: That's when I recalled something Lei Heng had mentioned—"The House of Spiders."
+# Narrator: That's when I recalled something Lei Heng had mentioned—"The House of Spiders."
 Рассказчик: В этот момент я вспомнил кое-что из слов Лэй Хэна — «Дом Пауков».
 
-# Original: Thinking back to how intensely Ryōshū reacted then...
+# Narrator: Thinking back to how intensely Ryōshū reacted then...
 Рассказчик: Вспоминая, как бурно тогда отреагировала Рёшу...
 
-# Original: <Do... do you think these attackers have something to do with that, uh... Lei Heng guy from earlier?>
+# Dante: <Do... do you think these attackers have something to do with that, uh... Lei Heng guy from earlier?>
 Данте: <Думаешь... думаешь, эти нападавшие как-то связаны с тем, ну... парнем Лэй Хэном, которого мы встретили раньше?>
 
-# Original: Unlikely.
+# Ryōshū: Unlikely.
 Рёшу: Вряд ли.
 
-# Original: He was just one of my many passing tutors.
+# Ryōshū: He was just one of my many passing tutors.
 Рёшу: Он был лишь одним из моих многочисленных мимолётных наставников.
 
-# Original: Th-then who could've— It's the headquarters, for crying out loud...!
+# Sinclair: Th-then who could've— It's the headquarters, for crying out loud...!
 Синклер: Т-тогда кто мог — это же штаб-квартира, чёрт возьми!..
 
-# Original: I don't know. The HQ, it's... it's not the kind of place someone can just force their way into...
+# Saude: I don't know. The HQ, it's... it's not the kind of place someone can just force their way into...
 Сод: Я не знаю. Штаб-квартира, это... это не то место, куда кто-то может просто ворваться силой...
 
-# Original: Breaking into a place like that...? It's completely unthinkable...
+# Saude: Breaking into a place like that...? It's completely unthinkable...
 Сод: Проникнуть в такое место?.. Это совершенно немыслимо...
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <.......>
 
-# Original: What now?
+# Narrator: What now?
 Рассказчик: Что теперь?
 
-# Original: Usually, I would use my intuition to choose the best course of action and lead the Sinners during a mission.
+# Narrator: Usually, I would use my intuition to choose the best course of action and lead the Sinners during a mission.
 Рассказчик: Обычно я использовал свою интуицию, чтобы выбрать лучший план действий и вести Грешников во время миссии.
 
-# Original: But who would've thought that the HQ, which was meant to brief us about that mission in the first place, would come under attack... especially while we were left without a guide?
+# Narrator: But who would've thought that the HQ, which was meant to brief us about that mission in the first place, would come under attack... especially while we were left without a guide?
 Рассказчик: Но кто бы мог подумать, что штаб-квартира, которая должна была проинструктировать нас об этой самой миссии, подвергнется нападению... особенно пока мы остались без проводника?
 
-# Original: *puff*
+# Ryōshū: *puff*
 Рёшу: *пффф*
 
-# Original: Fine. I didn't expect them to come find me themselves.
+# Ryōshū: Fine. I didn't expect them to come find me themselves.
 Рёшу: Ладно. Я не ожидала, что они сами придут искать меня.
 
-# Original: Once the spiders have spun their web, they tend to wait for the prey to stumble into it, after all.
+# Ryōshū: Once the spiders have spun their web, they tend to wait for the prey to stumble into it, after all.
 Рёшу: В конце концов, когда Пауки сплели свою паутину, они склонны ждать, пока добыча сама в неё угодит.
 
-# Original: The plume of cigarette smoke lingered for a moment before scattering into the air. When I looked at Ryōshū's face, what I saw...
+# Narrator: The plume of cigarette smoke lingered for a moment before scattering into the air. When I looked at Ryōshū's face, what I saw...
 Рассказчик: Струйка сигаретного дыма на мгновение задержалась, прежде чем раствориться в воздухе. Когда я посмотрел на лицо Рёшу, то увидел...
 
-# Original: ... was an expression of strange euphoria.
+# Narrator: ... was an expression of strange euphoria.
 Рассказчик: ...выражение странной эйфории.
 
-# Original: …….
+# Saude: …….
 Сод: .......
 
-# Original: Ryōshū, is this all just...
+# Saude: Ryōshū, is this all just...
 Сод: Рёшу, неужели всё это для тебя лишь...
 
-# Original: ... some amusing diversion for you?
+# Saude: ... some amusing diversion for you?
 Сод: ...какое-то забавное развлечение?
 
-# Original: Saude shot an incredulous look at Ryōshū, who was nonchalantly puffing the rest of her cigarette to ash.
+# Narrator: Saude shot an incredulous look at Ryōshū, who was nonchalantly puffing the rest of her cigarette to ash.
 Рассказчик: Сод бросила недоверчивый взгляд на Рёшу, которая невозмутимо докуривала остаток сигареты до пепла.
 
-# Original: Sure is.
+# Ryōshū: Sure is.
 Рёшу: Именно так.
 
-# Original: The long-awaited moment has finally found me.
+# Ryōshū: The long-awaited moment has finally found me.
 Рёшу: Долгожданный миг наконец нашёл меня.
 
-# Original: Why wouldn't I be excited?
+# Ryōshū: Why wouldn't I be excited?
 Рёшу: С чего бы мне не радоваться?
 
-# Original: That's just—
+# Saude: That's just—
 Сод: Это же просто —
 
-# Original: But... don't presume.
+# Ryōshū: But... don't presume.
 Рёшу: Но... не смей предполагать лишнего.
 
-# Original: My excitement for the coming pleasure... will not interfere with my effectiveness.
+# Ryōshū: My excitement for the coming pleasure... will not interfere with my effectiveness.
 Рёшу: Моё предвкушение грядущего удовольствия... не помешает моей эффективности.
 
-# Original: I've never once... let enjoyment get in the way of taking the job seriously.
+# Ryōshū: I've never once... let enjoyment get in the way of taking the job seriously.
 Рёшу: Я ни разу... не позволяла наслаждению мешать серьёзному отношению к работе.
 
-# Original: Not ever, not now.
+# Ryōshū: Not ever, not now.
 Рёшу: Никогда раньше, и не сейчас.
 
-# Original: <……>
+# Dante: <……>
 Данте: <……>
 
-# Original: You said the assailants'll be here soon. Is the one who took the driver coming, too?
+# Ryōshū: You said the assailants'll be here soon. Is the one who took the driver coming, too?
 Рёшу: Ты сказала, нападавшие скоро будут здесь. Тот, кто забрал водителя, тоже придёт?
 
-# Original: ... Charon—
+# Saude: ... Charon—
 Сод: ... Харон —
 
-# Original: If anything happens to Miss Charon, I...
+# Saude: If anything happens to Miss Charon, I...
 Сод: Если с мисс Харон что-нибудь случится, я...
 
-# Original: ... I wouldn't be able to bring myself to face the Red Gaze.
+# Saude: ... I wouldn't be able to bring myself to face the Red Gaze.
 Сод: ...я не смогу заставить себя предстать перед Красным Взором.
 
-# Original: Tsk. This isn't going anywhere.
+# Ryōshū: Tsk. This isn't going anywhere.
 Рёшу: Цск. Это ни к чему не ведёт.
 
-# Original: The Spiders won't hurt the driver.
+# Ryōshū: The Spiders won't hurt the driver.
 Рёшу: Пауки не тронут водителя.
 
-# Original: She's just their bait to lure out the bigger prey.
+# Ryōshū: She's just their bait to lure out the bigger prey.
 Рёшу: Она лишь наживка, чтобы выманить добычу покрупнее.
 
-# Original: So stop panicking and set us up. It's unsightly.
+# Ryōshū: So stop panicking and set us up. It's unsightly.
 Рёшу: Так что прекрати паниковать и приготовь всё для нас. Это выглядит неприглядно.
 
-# Original: ... What?
+# Saude: ... What?
 Сод: ...Что?
 
-# Original: The Backdoor of this truck. Can it connect us directly to the HQ Research Facility right this instant?
+# Ryōshū: The Backdoor of this truck. Can it connect us directly to the HQ Research Facility right this instant?
 Рёшу: Чёрный Ход в этом грузовике. Может ли он соединить нас напрямую с исследовательским центром штаб-квартиры прямо сейчас?
 
-# Original: W-wait. It can, but...
+# Saude: W-wait. It can, but...
 Сод: П-погоди. Может, но...
 
-# Original: To use the Backdoor portal that leads straight to the HQ, I need to verify the security code written specifically for each coordinate. It's... going to take some time.
+# Saude: To use the Backdoor portal that leads straight to the HQ, I need to verify the security code written specifically for each coordinate. It's... going to take some time.
 Сод: Чтобы использовать портал Черного Хода, ведущий прямиком в штаб-квартиру, мне нужно подтвердить код безопасности, написанный специально для каждой координаты. Это... займёт некоторое время.
 
-# Original: Heh. Gives us enough time to deal with your pursuer.
+# Ryōshū: Heh. Gives us enough time to deal with your pursuer.
 Рёшу: Хех. Как раз хватит, чтобы разобраться с твоим преследователем.
 
-# Original: As Saude navigated through the vehicle's machinery with her remaining arm...
+# Narrator: As Saude navigated through the vehicle's machinery with her remaining arm...
 Рассказчик: Пока Сод управлялась с механизмами машины своей оставшейся рукой...
 
-# Original: ... the Sinners all began to keep watch on their surroundings, weapons at the ready.
+# Narrator: ... the Sinners all began to keep watch on their surroundings, weapons at the ready.
 Рассказчик: ...Грешники начали следить за окружением, держа оружие наготове.
 
-# Original: So, are we sure it's a good idea for us to head to the HQ? I feel like we're walking ourselves into a trap here...
+# Ishmael: So, are we sure it's a good idea for us to head to the HQ? I feel like we're walking ourselves into a trap here...
 Измаил: Так мы уверены, что направляться в штаб-квартиру — хорошая идея? Мне кажется, мы сами идём в ловушку...
 
-# Original: ... What if we requested assistance from Daguanyuan instead?
+# Sinclair: ... What if we requested assistance from Daguanyuan instead?
 Синклер: ...А что, если нам попросить помощи у Дагуаньюаня?
 
-# Original: That <i>can</i> be a solution, yes. However, as this concerns our HQ, resolving this crisis with help from a Wing, even one whose leader we are on good terms with... will require an enormous favor to be repaid.
+# Outis: That <i>can</i> be a solution, yes. However, as this concerns our HQ, resolving this crisis with help from a Wing, even one whose leader we are on good terms with... will require an enormous favor to be repaid.
 Отис: Это <i>могло бы</i> стать решением, да. Однако, поскольку это касается нашей штаб-квартиры, разрешение этого кризиса с помощью Крыла, даже того, с чьим лидером мы в хороших отношениях... потребует возврата огромного долга.
 
-# Original: Your decision, Executive Manager?
+# Outis: Your decision, Executive Manager?
 Отис: Ваше решение, Исполнительный Менеджер?
 
-# Original: <……>
+# Dante: <……>
 Данте: <……>
 
-# Original: <... We'll head straight to the HQ Research Facility as soon as Saude opens the portal.>
+# Dante: <... We'll head straight to the HQ Research Facility as soon as Saude opens the portal.>
 Данте: <...Мы отправимся прямиком в исследовательский центр штаб-квартиры, как только Сод откроет портал.>
 
-# Original: It wasn't hard to intuit that Ryōshū's turn had arrived, given her evident excitement.
+# Narrator: It wasn't hard to intuit that Ryōshū's turn had arrived, given her evident excitement.
 Рассказчик: Было несложно интуитивно понять, что настал черёд Рёшу, учитывая её явное воодушевление.
 
-# Original: If so... the backdoor leading to the HQ, which Ryōshū intends to use, should be the path we're meant to take this time.
+# Narrator: If so... the backdoor leading to the HQ, which Ryōshū intends to use, should be the path we're meant to take this time.
 Рассказчик: Если так... то Чёрный Ход, ведущий в штаб-квартиру, которым намерена воспользоваться Рёшу, должен быть тем путём, по которому нам суждено пройти в этот раз.
 
-# Original: Better prepare yourselves.
+# Ryōshū: Better prepare yourselves.
 Рёшу: Получше приготовьтесь.
 
-# Original: What awaits us, without a single shred of doubt, is hell...
+# Ryōshū: What awaits us, without a single shred of doubt, is hell...
 Рёшу: То, что ждёт нас впереди, без тени сомнения — ад...
 
-# Original: ... and there in its depths... lies something that has always been waiting for me.
+# Ryōshū: ... and there in its depths... lies something that has always been waiting for me.
 Рёшу: ...и там, в его глубинах... лежит нечто, что всегда поджидало меня.
 
-# Original: …….
+# Yi Sang: …….
 И Сан: .......
 
-# Original: Aught strums above us, walking the vehicle's roof... we have been found.
+# Yi Sang: Aught strums above us, walking the vehicle's roof... we have been found.
 И Сан: Что-то скрипит над нами, ступая по крыше транспорта... нас обнаружили.
 
-# Original: Oi, then shouldn't we get out of the truck before it caves in over our heads?
+# Heathcliff: Oi, then shouldn't we get out of the truck before it caves in over our heads?
 Хитклиф: Эй, тогда не стоит ли нам убраться из грузовика, пока он не обвалился нам на головы?
 
-# Original: No. P Corp.'s Singularity protects this truck, remember? Something that's supposed to keep whatever's inside safe. We should just lie low in here until—
+# Ishmael: No. P Corp.'s Singularity protects this truck, remember? Something that's supposed to keep whatever's inside safe. We should just lie low in here until—
 Измаил: Нет. Сингулярность Корпорации P защищает этот грузовик, помнишь? Нечто, что должно держать в безопасности всё, что внутри. Нам стоит просто затаиться здесь, пока—
 
-# Original: Y-ya sure about that? I can see a teensy crack in the ceiling!
+# Rodion: Y-ya sure about that? I can see a teensy crack in the ceiling!
 Родион: Т-ты в этом уверена? Я вижу ма-а-асенькую трещину в потолке!
 
-# Original: A crack? That... makes no sense. The ceiling should be elastic enough to bend under most physical impacts instead of cracking.
+# Ishmael: A crack? That... makes no sense. The ceiling should be elastic enough to bend under most physical impacts instead of cracking.
 Измаил: Трещина? Это... не имеет смысла. Потолок должен быть достаточно эластичным, чтобы гнуться под большинством физических воздействий, а не трескаться.
 
-# Original: ... It is true that the exterior of this vehicular transportation device utilizes P Corp.'s Singularity.
+# Faust: ... It is true that the exterior of this vehicular transportation device utilizes P Corp.'s Singularity.
 Фауст: ...Это правда, что внешняя оболочка этого средства передвижения использует Сингулярность Корпорации P.
 
-# Original: That is why this truck is more spacious inside than it appears from the outside, and has good defenses against external forces.
+# Faust: That is why this truck is more spacious inside than it appears from the outside, and has good defenses against external forces.
 Фауст: Именно поэтому этот грузовик внутри просторнее, чем кажется снаружи, и обладает хорошей защитой от внешних сил.
 
-# Original: However, unlike the experimental model we boarded in P Corp., this vehicle appears to be a more... affordable model used flexibly as a shuttle for the Before Team's deployment.
+# Faust: However, unlike the experimental model we boarded in P Corp., this vehicle appears to be a more... affordable model used flexibly as a shuttle for the Before Team's deployment.
 Фауст: Однако, в отличие от экспериментальной модели, на которую мы садились в Корпорации P, это транспортное средство, похоже, является более... бюджетной моделью, используемой как шаттл для развёртывания Команды "До".
 
-# Original: <...?>
+# Dante: <...?>
 Данте: <...?>
 
-# Original: That is to say that for a Singularity technology to perform at a competent level, a higher level of investment is required. Budget models—even those of Singularities—can still end up being countered.
+# Faust: That is to say that for a Singularity technology to perform at a competent level, a higher level of investment is required. Budget models—even those of Singularities—can still end up being countered.
 Фауст: Это значит, что для работы технологий Сингулярности на должном уровне требуются более высокие инвестиции. Бюджетные модели — даже те, что используют Сингулярности — всё равно могут быть пробиты.
 
-# Original: So they cheapened out.
+# Heathcliff: So they cheapened out.
 Хитклиф: Значит, они сэкономили.
 
-# Original: Then the assailant is not one of the Nursefathers from the House of Spiders.
+# Ryōshū: Then the assailant is not one of the Nursefathers from the House of Spiders.
 Рёшу: Тогда нападавший — не один из Отцов-воспитателей из Дома Пауков.
 
-# Original: If it were one of them... the first shock would have shattered this wall into pieces.
+# Ryōshū: If it were one of them... the first shock would have shattered this wall into pieces.
 Рёшу: Будь это один из них... первый же удар разнёс бы эту стену в щепки.
 
-# Original: I suppose kicking off with the top dogs would've made for a rather bland story progression.
+# Ryōshū: I suppose kicking off with the top dogs would've made for a rather bland story progression.
 Рёшу: Полагаю, начинать сразу с верхушки было бы довольно пресным развитием сюжета.
 
-# Original: The Nurse<i>fathers</i>...? Wait, you mean the same people Lei Heng—
+# Sinclair: The Nurse<i>fathers</i>...? Wait, you mean the same people Lei Heng—
 Синклер: Отцы-<i>воспитатели</i>?.. Погоди, ты о тех же людях, которых Лэй Хэн—
 
-# Original: ... We'll have time for speculations later.
+# Outis: ... We'll have time for speculations later.
 Отис: ...У нас будет время для предположений позже.
 
-# Original: Executive Manager, the ceiling's about to cave in!
+# Outis: Executive Manager, the ceiling's about to cave in!
 Отис: Исполнительный Менеджер, потолок сейчас обвалится!
 
-# Original: <... Go for the kill the moment they get inside.>
+# Dante: <... Go for the kill the moment they get inside.>
 Данте: <...Бейте на поражение, как только они окажутся внутри.>
 
-# Original: …….
+# ???: …….
 Лучио: .......
 
-# Original: At the ready, men!
+# Outis: At the ready, men!
 Отис: К бою, люди!
 
-# Original: <...! Wait, don't engage!>
+# Dante: <...! Wait, don't engage!>
 Данте: <...! Стойте, не нападайте!>
 
-# Original: Though we were readying ourselves to skewer the intruder the moment he stepped inside...
+# Narrator: Though we were readying ourselves to skewer the intruder the moment he stepped inside...
 Рассказчик: Хотя мы уже приготовились проткнуть незваного гостя, как только он шагнёт внутрь...
 
-# Original: ... we had to immediately backtrack on that idea when we saw who he was carrying.
+# Narrator: ... we had to immediately backtrack on that idea when we saw who he was carrying.
 Рассказчик: ...нам пришлось немедленно отказаться от этой идеи, когда мы увидели, кого он несёт.
 
-# Original: ... Charon...!
+# Saude: ... Charon...!
 Сод: ...Харон!..
 
-# Original: She is only unconscious—and breathing still.
+# ???: She is only unconscious—and breathing still.
 Лучио: Она лишь без сознания — и всё ещё дышит.
 
-# Original: I see. You cut Saude's arm off so that you'd have something to track her down with.
+# Outis: I see. You cut Saude's arm off so that you'd have something to track her down with.
 Отис: Понимаю. Ты отрубил руку Сод, чтобы у тебя было что-то, по чему её можно выследить.
 
-# Original: And she has gone straight to seek help from her comrades...
+# ???: And she has gone straight to seek help from her comrades...
 Лучио: И она прямиком отправилась искать помощи у своих товарищей...
 
-# Original: It was indeed a correct decision for us to wait and see how she'd react.
+# ???: It was indeed a correct decision for us to wait and see how she'd react.
 Лучио: С нашей стороны это было действительно верным решением — подождать и посмотреть, как она отреагирует.
 
-# Original: The intruder continued, glancing toward Saude.
+# Narrator: The intruder continued, glancing toward Saude.
 Рассказчик: Незваный гость продолжил, взглянув в сторону Сод.
 
-# Original: As if in response to that, Ryōshū placed her hand...
+# Narrator: As if in response to that, Ryōshū placed her hand...
 Рассказчик: Словно в ответ на это, Рёшу положила руку...
 
-# Original: ... on her scabbard.
+# Narrator: ... on her scabbard.
 Рассказчик: ...на ножны.
 
-# Original: <... Ryōshū?>
+# Dante: <... Ryōshū?>
 Данте: <...Рёшу?>
 
-# Original: *puff* B.D.O.K. They won't dare hurt the bus driver.
+# Ryōshū: *puff* B.D.O.K. They won't dare hurt the bus driver.
 Рёшу: *пффф* С.В.Н.Н.С. Они не посмеют навредить водителю автобуса.
 
-# Original: So don't make a fuss, Clock.
+# Ryōshū: So don't make a fuss, Clock.
 Рёшу: Так что не поднимай шума, Часы.
 
-# Original: Huh?! What do you mean she's okay—Ryōshū?!
+# Sinclair: Huh?! What do you mean she's okay—Ryōshū?!
 Синклер: А?! Что значит «ничего не случится» — Рёшу?!
 
-# Original: Ryōshū ignored Sinclair and rushed toward the intruder, her scabbard cleaving through the air.
+# Narrator: Ryōshū ignored Sinclair and rushed toward the intruder, her scabbard cleaving through the air.
 Рассказчик: Рёшу проигнорировала Синклера и бросилась к незваному гостю, её ножны рассекли воздух.
 
-# Original: Oho... parried that, did you?
+# Ryōshū: Oho... parried that, did you?
 Рёшу: Охо... парировал, значит?
 
-# Original: ... Have you no regard for the hostage's life?
+# ???: ... Have you no regard for the hostage's life?
 Лучио: ...Неужели вы совсем не дорожите жизнью заложницы?
 
-# Original: You won't dare let her die unless you're planning to incur the red guide's wrath.
+# Ryōshū: You won't dare let her die unless you're planning to incur the red guide's wrath.
 Рёшу: Ты не посмеешь дать ей умереть, если только не планируешь навлечь на себя гнев красного проводника.
 
-# Original: Like Ryōshū said, the intruder was only defending himself against her strikes without harming Charon.
+# Narrator: Like Ryōshū said, the intruder was only defending himself against her strikes without harming Charon.
 Рассказчик: Как и сказала Рёшу, незваный гость лишь защищался от её ударов, не причиняя вреда Харон.
 
-# Original: Just as the other Sinners were stepping up to join the assault...
+# Narrator: Just as the other Sinners were stepping up to join the assault...
 Рассказчик: Как раз в тот момент, когда остальные Грешники уже собирались присоединиться к атаке...
 
-# Original: I had intended to face you one at a time, as the propriety of honorable combat dictates, but...
+# ???: I had intended to face you one at a time, as the propriety of honorable combat dictates, but...
 Лучио: Я намеревался сразиться с вами по одному, как того требуют приличия честного поединка, но...
 
-# Original: ... unfortunately, since I cannot let you take her back until my master arrives...
+# ???: ... unfortunately, since I cannot let you take her back until my master arrives...
 Лучио: ...к сожалению, раз уж я не могу позволить вам забрать её до прибытия моей госпожи...
 
-# Original: The intruder gestured with his hand, and strange, bizarre things dropped through the ceiling with a thump.
+# Narrator: The intruder gestured with his hand, and strange, bizarre things dropped through the ceiling with a thump.
 Рассказчик: Незваный гость сделал жест рукой, и странные, причудливые существа с глухим стуком спрыгнули через дыру в потолке.
 
-# Original: ... I must resort to using some... borrowed weapons.
+# ???: ... I must resort to using some... borrowed weapons.
 Лучио: ...мне придётся прибегнуть к использованию некоторого... заимствованного оружия.
 
-# Original: Are those Distortions or... monsters of some kind?
+# Sinclair: Are those Distortions or... monsters of some kind?
 Синклер: Это Искажения или... какие-то монстры?
 
-# Original: <No...>
+# Dante: <No...>
 Данте: <Нет...>
 
-# Original: <I think they're... people...>
+# Dante: <I think they're... people...>
 Данте: <Я думаю, это... люди...>
 
-# Original: His "master"... Vergilius is supposed to be handling whoever that is, yeah?
+# Heathcliff: His "master"... Vergilius is supposed to be handling whoever that is, yeah?
 Хитклиф: Его «госпожа»... Вергилий вроде как способен разобраться с кем бы то ни было, так?
 
-# Original: The Color most illustrious must be deterred from wielding his full might, on account of young Charon's capture...
+# Don Quixote: The Color most illustrious must be deterred from wielding his full might, on account of young Charon's capture...
 Дон Кихот: Достославнейший Цветной Корректировщик, должно быть, удерживается от использования своей полной мощи из-за захвата юной Харон...
 
-# Original: Then we rescue Charon and book it to HQ or wherever—that'll let the guide go all out.
+# Heathcliff: Then we rescue Charon and book it to HQ or wherever—that'll let the guide go all out.
 Хитклиф: Тогда спасаем Харон и валим в штаб или куда там ещё — это позволит проводнику разгуляться по полной.
 
-# Original: Yeah, that seems to be the best shot we have at this moment.
+# Ishmael: Yeah, that seems to be the best shot we have at this moment.
 Измаил: Да, похоже, это наш лучший шанс на данный момент.
 
-# Original: <... Still, let's be careful and prioritize Charon's safety above all else.>
+# Dante: <... Still, let's be careful and prioritize Charon's safety above all else.>
 Данте: <...И всё же, давайте будем осторожны и поставим безопасность Харон превыше всего остального.>

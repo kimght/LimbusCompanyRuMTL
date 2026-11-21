@@ -1,122 +1,122 @@
-﻿# Original: Tch… We’ve got security guards and Peccatula… This is starting to be a bother…
+﻿# Gregor: Tch… We’ve got security guards <i>and</i> Peccatula… This is starting to be a bother…
 Грегор: Тц… У нас тут охранники и Пеккатулы… Что-то я начинаю беспокоиться…
 
-# Original: Got any ideas, Greg? You fought on the frontlines before. Try something.
+# Rodion: Got any ideas, Greg? You said you fought on the front lines back in the war. Try something.
 Родион: Есть какие идеи, Грег? Ты ж воевал на передовой в прошлом. Попробуй что-нибудь.
 
-# Original: What does that have— Hey, don’t push!
+# Gregor: What does that have to— Hey, stop pushing!
 Грегор: И что это должно зна— Эй, эй, не пихайся!
 
-# Original: Being shoved out of cover by Rodya, Gregor stumbled forward, separated from us…
+# Narrator: Shoved out of cover by Rodya, Gregor stumbled forward and ended up separated from us...
 Рассказчик: Вытолкнутый Родей из укрытия Грегор, спотыкаясь, двинулся вперёд, отделившись от нас…
 
-# Original: …Then bumping into a slave who was busy digging away at rocks.
+# Narrator: ... and ran straight into a slave busy digging with a pickaxe.
 Рассказчик: …И врезался в раба, который был занят откапыванием камня.
 
-# Original: ……?
+# Captive Debtor: ……?
 Зависимый должник: ……?
 
-# Original: ……
+# Gregor: ……
 Грегор: ……
 
-# Original: They seemed to pause for a moment in awkwardness.
+# Narrator: An awkward silence hung between them for a moment.
 Рассказчик: Кажется, на мгновение они неловко застыли.
 
-# Original: H… Hey there, looks like the way things are going here isn’t all too pretty for the both of us, ‘ne? How about we let this slide?
+# Gregor: H-hey. Looks like things aren’t exactly pleasant for either of us, huh? How about we just… let this slide?
 Грегор: П… Привет, кажется, дела тут у нас с тобой у обоих не очень-то складываются, да? Может оставим всё как есть?
 
-# Original: ……
+# Captive Debtor: ……
 Зависимый должник: ……
 
-# Original: We’re not after the cash stored in that vault.
+# Gregor: We're not here for the money in that vault.
 Грегор: Мы тут не за наличкой из хранилища.
 
-# Original: I mean, wouldn’t say no if we were offered it—but the point is, we’re just looking for a way downstairs.
+# Gregor: I mean, sure, we wouldn’t <i>refuse</i> if offered—but that's not the point. We're just trying to get to the lower level.
 Грегор: Я имею в виду, я б конечно не отказался, предложи мне— Короче, мы просто ищем способ спуститься пониже.
 
-# Original: Not here to make any fuss. Why don’t we pretend this never happened and go our own ways?
+# Gregor: We're not here to cause trouble, I guarantee you. Why don’t we pretend we never saw each other and just go our separate ways?
 Грегор: Я тут не для перепалок. Так что почему бы нам не притвориться, что ничего не произошло, и разойтись с миром?
 
-# Original: F… Four…
+# Captive Debtor: F… Four…
 Зависимый должник: С… Сорок…
 
-# Original: Forty-seven million, nine hundred and twenty thousand…
+# Captive Debtor: 47,920,000 Ahn...
 Зависимый должник: Сорок семь миллионов девятьсот двадцать тысяч…
 
-# Original: Forty-seven million, nine hundred and ten thousand… Forty-seven million, nine hundred thousand…
+# Captive Debtor: 47,910,000 Ahn... 47,900,000...
 Зависимый должник: Сорок семь миллионов девятьсот десять тысяч… Сорок семь миллионов девятьсот тысяч…
 
-# Original: Speak some sense, or I’ll BARF on your hands.
+# Ryōshū: Speak some sense, or I’ll B.A.R.F. on your hands.
 Рёшу: Говори понятней или я ПВОП твоих рук.
 
-# Original: For someone who often speaks in riddles herself, Ryōshū’s patience sure wore out quickly. She gripped the sheath of her sword as she threatened the worker.
+# Narrator: For someone who often spoke in riddles herself, Ryōshū’s patience sure wore out quickly. She tightened her grip on her sword’s sheath as she threatened the worker.
 Рассказчик: Терпение Рёшу, которая и сама часто говорит загадками, разумеется, быстро иссякло. Она схватилась за ножны своего меча, угрожая рабочему.
 
-# Original: I can’t say for sure, but I think she meant she’ll “break all the remaining fingers” on that person’s hands…
+# Sinclair: I think... she means she’ll “break all remaining fingers” on his hands…
 Синклер: Не берусь ручаться, но, думаю, она имела в виду "<i>переломаю все оставшиеся пальцы</i>" на руках этого человека…
 
-# Original: <…At this point, I’m more scared of how quickly you got that.>
+# Dante: <... At this point, I’m more scared by how fast you figured that out.>
 Данте: <…Сейчас меня пугает скорее то, что ты так быстро это расшифровал.>
 
-# Original: Must repay…
+# Captive Debtor: Must repay…
 Зависимый должник: Должен оплатить…
 
-# Original: Repay all the debt… before I can go back to my family…
+# Captive Debtor: Repay all the debt… before I can go back to my family…
 Зависимый должник: Оплатить долг… перед тем, как вернусь к семье…
 
-# Original: They said they’ll take off 1 Ahn for every swing… Forty-seven… How much…was it… Aack! Don’t talk to me! I have to count…
+# Captive Debtor: They said they’ll take off 1 Ahn for every swing… 47 million and… How much…was it… Agh! Don’t talk to me! I need to count...!
 Зависимый должник: Они сказали, что возьмут по одному ану за каждый взмах… Сорок семь… Как много… это… А-агх! Не болтайте со мной! Я должен считать…
 
-# Original: Hold on? What’s that noise over there?
+# Rigid Security: Hold it. What's all that noise over there?
 Суровый охранник: Стойте? Что это за шум?
 
-# Original: Ah, shoot…
+# Gregor: Ah, shoot…
 Грегор: Ах, чёрт…
 
-# Original: Cornered, Gregor suddenly started shouting in a remarkably out-of-character voice.
+# Narrator: Cornered, Gregor suddenly started shouting in a remarkably robotic cadence.
 Рассказчик: Грегор, загнанный в угол, неожиданно начал кричать несвойственным ему голосом.
 
-# Original: We… We can’t live like this anymore!
+# Gregor: We… We can’t live like this anymore!
 Грегор: Мы… Мы больше не можем так жить!
 
-# Original: This is… outrageous… tyranny! To tie people up and force them to dig!
+# Gregor: This is… outrageous… abuse! To tie people up and force them to dig!
 Грегор: Это… вопиющая… тирания! Людей заковывают и заставляют копать!
 
-# Original: Let us all… rise up… and fight our oppressors…! Go, onwaaard!!
+# Gregor: Let us all… rise up… and fight our oppressors…! Forward—chaaarge!!
 Грегор: Давайте же… восстанем… и ответим угнетателям…! И, вперё-ё-ёд!!
 
-# Original: <……>
+# Dante: <……>
 Данте: <……>
 
-# Original: ……
+# Captive Debtor: ……
 Зависимый должник: ……
 
-# Original: ……
+# Rigid Security: ……
 Суровый охранник: ……
 
-# Original: The hell was that?
+# Heathcliff: The hell was that?
 Хитклиф: И чё это, бля, было?
 
-# Original: Propaganda. His effort has regrettably ended in failure.
+# Meursault: Propaganda. His effort has regrettably ended in failure.
 Мерсо: Пропаганда. К сожалению, его усилия провалились.
 
-# Original: Greg, sweetie… Here’s the thing about those people… They ended up here by living their whole lives as scum—exploiters and exploitees.
+# Rodion: Greg… Here's the thing about those "people." They're here because they spent their whole lives like lice—trembling little creatures that only know how to exploit or be exploited.
 Родион: Грег… Насчёт этих людей… Они тут оказались, прожив свои жизни теми ещё отбросами — эксплуататорами и эксплуатируемыми.
 
-# Original: You weren’t expecting some half-baked speech to be enough to wake up the revolutionary inside them, were you?
+# Rodion: You didn't seriously think a half-baked speech would suddenly awaken their revolutionary spirit, did you?
 Родион: Ты же не ожидал, что придуманной на ходу речи будет достаточно, чтобы пробудить в них революционеров, да?
 
-# Original: …Before you attempt an instigation operation next time, be sure to train your acting skills to at least an intermediate level.
+# Outis: ... Next time you attempt a subversion, ensure your acting skills are at least at an intermediate level.
 Отис: …В следующий раз, если решишь провести провокационную операцию, обязательно доведи свои актёрские навыки хотя бы до приемлемого уровня.
 
-# Original: Oh, Greg… Have you never tried acting in your whole life?
+# Rodion: Greg... have you seriously never tried acting even once in your life?
 Родион: Грег… Ты что, ни разу в жизни не играл?
 
-# Original: Scheibenkleister… Look, I’m embarrassed myself…
+# Gregor: C'mon, go easy on me... I'm embarrassed too, you know...
 Грегор: Да твою ж… Мне и самому неловко…
 
-# Original: Gregor’s terrible acting must have even agitated the security as well.
+# Narrator: Gregor's catastrophically bad acting must have irritated even the guards.
 Рассказчик: Ужасная игра Грегора, должно быть, переполошила даже охрану.
 
-# Original: That’d explain them opening up those locked cages in a potentially risky move.
+# Narrator: I couldn't possibly fathom why else they would throw open the locked cages—such a risky move otherwise.
 Рассказчик: Это бы объяснило, почему они открыли клетки, что было потенциально рискованным ходом.

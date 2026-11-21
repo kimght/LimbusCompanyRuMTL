@@ -1,293 +1,293 @@
-﻿# Original: Tsk, retreat!
+﻿# Meticulous Activist: Tsk, retreat!
 Дотошный активист: Чёрт, уходим!
 
-# Original: Hey, participation trophy.
+# Assistant: Hey, participation trophy.
 Май: Эй, Приз за участие.
 
-# Original: <Participation... trophy...? Is he talking to me?>
+# Dante: <Participation... trophy...? Is he talking to me?>
 Данте: <Приз за участие…? Это он так ко мне обращается?>
 
-# Original: How on earth did you do that earlier? Tick-tock tick-tock and voilà, it seemed to me that you rewound the time and un-wounded your friends. I've never seen a tech that could rewind time like that.
+# Assistant: How on earth did you do that earlier? Tick-tock tick-tock and voilà, it seemed to me that you rewound the time and un-wounded your friends. I've never seen a tech that could rewind time like that.
 Ассистент: Как вы это сделали? Тик-так, тик-так и бац, излечили друзей и будто перемотали их время вспять. Никогда не видел технологию, что может так воздействовать на время.
 
-# Original: <Well, that's...>
+# Dante: <Well, that's...>
 Данте: <Ну…>
 
-# Original: Trade secret. Ask and you shall receive... pain.
+# Ryōshū: Trade secret. Ask and you shall receive... pain.
 Рёшу: Коммерческая тайна. Пронюхаешь — познаешь боль.
 
-# Original: Fascinating... Aren't you terrified of 'time'?
+# Assistant: Fascinating... Aren't you terrified of 'time'?
 Май: Потрясающе… А вас не ужасает время?
 
-# Original: As far as I am aware, there is practically no way to 'rewind' time for a singular entity that exists in an open, unenclosed area. Either that, or my study didn't reach as far as I thought it did. Wait, no. That's actually a very serious problem, then. I was very desperate, you know. It's very unlikely that I missed anything.
+# Assistant: As far as I am aware, there is practically no way to 'rewind' time for a singular entity that exists in an open, unenclosed area. Either that, or my study didn't reach as far as I thought it did. Wait, no. That's actually a very serious problem, then. I was very desperate, you know. It's very unlikely that I missed anything.
 Май: Насколько я знаю, не существует способа повернуть время вспять для одной личности в неизолированном пространстве. В противном случае моя исследовательская работа прошла спустя рукава. Но нет, это будет весьма большим упущением, ведь я весьма скрупулёзен. Крайне маловероятно, что я что-то упустил.
 
-# Original: Ya know what else is a serious problem? The fact that we're wasting our time chatting about inane stuff while they're all getting away! C'mon, Dante!
+# Rodion: Ya know what else is a serious problem? The fact that we're wasting our time chatting about inane stuff while they're all getting away! C'mon, Dante!
 Родион: Ещё большее упущение — пустая болтовня в нашей ситуации. Погнали, Данте!
 
-# Original: Hold on, 'inane stuff'? This is extremely serious! Its importance is absolutely incomparable to what amounts to arresting a few small-fry revolutionaries. Mm... if it was a true resurrection, then the Head would've been after your heads already, so I doubt that's what this is. Then it must have something to do with time manipulation, I'm certain of it...
+# Assistant: Hold on, 'inane stuff'? This is extremely serious! Its importance is absolutely incomparable to what amounts to arresting a few small-fry revolutionaries. Mm... if it were a true resurrection, then the Head would've been after your heads already, so I doubt that's what this is. Then it must have something to do with time manipulation, I'm certain of it...
 Май: Погодите, секундочку-минуточку! Это же чрезвычайно важный вопрос… Важность его не идёт в сравнение с поимкой каких-то мелких революционеров. М-м... если бы это было взаправдашним воскрешением, не избежали бы ваши головы внимания Главы. Значит, это наверняка некая манипуляция со временем…
 
-# Original: Maybe it works with the same mechanisms as the TT2 Protocol under the hood—nope, that works only within an isolated enclosure; it can't rewind the time of a singular individual.
+# Assistant: Maybe it works with the same mechanisms as the TT2 Protocol under the hood—nope, that works only within an isolated enclosure; it can't rewind the time of a singular individual.
 Май: Может быть, это похоже на протокол TT2? Хм, нет, он возможен только в изолированном пространстве и индивидуально действовать не может.
 
-# Original: Perhaps they are drawing time from elsewhere to inject it into their timestreams? Mm... ah, that seems a tad more plausible. If you're actually 'rewinding' their time, then the visual elements of that process would manifest in a vastly different manner. I suppose this means that you can't really 'rewind' or 'skip' time either, am I right?
+# Assistant: Perhaps they are drawing time from elsewhere to inject it into their timestreams? Mm... ah, that seems a tad more plausible. If you're actually 'rewinding' their time, then the visual elements of that process would manifest in a vastly different manner. I suppose this means that you can't really 'rewind' or 'skip' time either, am I right?
 Май: Или, быть может, вы заимствуете время откуда-то, вкачивая его в их временные потоки? М-м… Да-да, вот это звучит правдоподобнее. Если вы на самом деле перематываете их время, то визуальные элементы этого процесса проявятся совершенно по-другому. Но это, в свою очередь, будет же значить, что вы не можете перематывать или проматывать время, я прав?
 
-# Original: <You can't just say all that gibberish and expect me to be able to—>
+# Dante: <You can't just say all that gibberish and expect me to be able to—>
 Данте: <Ты серьёзно думаешь, что я пойму эту тарабарщину—>
 
-# Original: The process also seemed to involve a great degree of pain... Oh well. It seems to be in bad taste to say that it's good news, but I suppose I can say that what I'm about to tell you is somewhat auspicious. I was going to get into the nitty-gritty only if we had to venture into one of the more dangerous places like the Backstreets, but here we go. Check the other side of your badges; there should be a small clockwork knob attached to your badges in there. Mind rotating it for me?
+# Assistant: The process also seemed to involve a great degree of pain... Oh well. It seems to be in bad taste to say that it's good news, but I suppose I can say that what I'm about to tell you is somewhat auspicious. I was going to get into the nitty-gritty only if we had to venture into one of the more dangerous places like the Backstreets, but here we go. Check the other side of your badges; there should be a small clockwork knob attached to your badges in there. Mind rotating it for me?
 Май: Как по вам видно, процесс также приносит немало боли… Ну что ж. Хотелось бы сказать, что у меня для вас есть хорошая новость, но это было бы дурным тоном. И всё же хочу рассказать вам кое-что благоприятное. Я хотел оставить этот разговор на случай, если бы нам пришлось отправиться в какое-нибудь по-настоящему опасное место, как Подворотни, например, но да ладно. Прошу посмотреть на заднюю сторону своих значков, там заводная ручка, поверните её, будьте любезны.
 
-# Original: The Class 5 Staff jabbered on endlessly, zapping between numerous subjects within matter of seconds, before reaching out and pointing at the badges we were wearing.
+# Narrator: The Class 5 Staff member jabbered on endlessly, zapping between numerous subjects within a matter of seconds, before reaching out and pointing at the badges we were wearing.
 Рассказчик: Сотрудник пятого уровня всё говорил и говорил, не реагируя на то, слушают ли его или нет, пока, наконец, не указал на наши значки.
 
-# Original: Not all Fixers specializing in investigations are strong enough to defend themselves in emergencies. That is why these Special Investigator Badges are all equipped with the same special function that goes into suits that higher-ranking staff members of T Corp wear.
+# Assistant: Not all Fixers specializing in investigations are strong enough to defend themselves in emergencies. That is why these Special Investigator Badges are all equipped with the same special function that goes into suits that higher-ranking staff members of T Corp wear.
 Май: Не все корректировщики, от которых требуется детективная работа, способны защитить себя в случае чрезвычайных ситуаций. Поэтому в значках особых следователей есть функция, имеющаяся в каждом костюме высокопоставленного сотрудника корпорации T.
 
-# Original: It's called 'Golden Time'. If you keep the clockwork wound, it will automatically speed up the body's natural regeneration process as soon as it detects that its wearer is at risk of death. It's nothing compared to what you're capable of... but it's quite something, isn't it?
+# Assistant: It's called 'Golden Time'. If you keep the clockwork wound, it will automatically speed up the body's natural regeneration process as soon as it detects that its wearer is at risk of death. It's nothing compared to what you're capable of... but it's quite something, isn't it?
 Май: Называется "Золотой час". Если заведёте механизм, он автоматически ускорит регенерационные процессы организма, когда почувствует, что носитель близок к смерти. С вашими способностями не сравнится... но всё же неплохо, да?
 
-# Original: <So... I don't actually have to turn the clock myself?>
+# Dante: <So... I don't actually have to turn the clock myself?>
 Данте: <Получается… мне-то им пользоваться не придётся?>
 
-# Original: Of course, it takes some time for it to refill once its charge is spent. If you ever run out of its uses, then... I suppose it all comes down to you, participation trophy! You'll have to take one for the team and bring them all back yourself.
+# Assistant: Of course, it takes some time for it to refill once its charge is spent. If you ever run out of its uses, then... I suppose it all comes down to you, participation trophy! You'll have to take one for the team and bring them all back yourself.
 Май: Разумеется, после использования потребуется некоторое время, чтобы восстановить заряд. Если же вы потратите все снаряды, то-о... Полагаю, всё ляжет на ваши плечи, Приз за участие! Придётся вам самому вернуть их в строй.
 
-# Original: You're willing to do that, but not willing to help us before we get torn to shreds, huh?
+# Rodion: You're willing to do that, but not willing to help us before we get torn to shreds, huh?
 Родион: То есть ты не собирался ничего делать, пока у нас не возникнут проблемы… Вот значит как, а?
 
-# Original: I... prefer that. Good. Hoo.
+# Ryōshū: I... prefer that. Good. Hoo.
 Рёшу: Это… предпочтительнее. Хо-о.
 
-# Original: Ready? Let's go after them, then!
+# Assistant: Ready? Let's go after them, then!
 Май: Итак, отправимся же за ними?
 
-# Original: Some time later...
+# Narrator: Some time later...
 Рассказчик: Некоторое время спустя…
 
-# Original: <Haah, haah... Where... did they run off to...?>
+# Dante: <Haah, haah... Where... did they run off to...?>
 Данте: <Фух, ха-а… куда... куда они убежали…?>
 
-# Original: I'm pretty sure they came this way...
+# Rodion: I'm pretty sure they came this way...
 Родион: Мне казалось, они побежали сюда…
 
-# Original: Tsk, no more tracks. We wasted too much time on his boring lectures.
+# Ryōshū: Tsk, no more tracks. We wasted too much time on his boring lectures.
 Рёшу: Тч, следов не видать. Мы слишком много времени потратили на бестолковые объяснения.
 
-# Original: Heya, Assistant. Are you sure it's okay for you to just... saunter behind us like you're out on a picnic?
+# Rodion: Heya, Assistant. Are you sure it's okay for you to just... saunter behind us like you're out on a picnic?
 Родион: Кстати, Ассистент, почему ты так... неторопливо идёшь за нами, будто на прогулке?
 
-# Original: Why would I run? I hate running.
+# Assistant: Why would I run? I hate running.
 Май: Почему, спрашиваете? Да я просто бегать не люблю.
 
-# Original: It's literally your job to arrest the Yurodiviye, isn't it?
-Родион: Разве арест Юродивых не входит в твои обязанности? 
+# Rodion: It's literally your job to arrest the Yurodiviye, isn't it?
+Родион: Разве арест Юродивых не входит в твои обязанности?
 
-# Original: Is it, though? But my job at this precise moment is to keep my eyes on you and your investigation regarding the Case of Timekilling Time, not making Yurodiviye arrests.
+# Assistant: Is it, though? But my job at this precise moment is to keep my eyes on you and your investigation regarding the Case of Timekilling Time, not making Yurodiviye arrests.
 Май: Да? Но ведь именно сейчас в мои обязанности входит приглядывать за вами, пока вы ведёте расследование, касательно дела о времени, убивающем время?
 
-# Original: But you're a T Corp. employee!
+# Rodion: But you're a T Corp. employee!
 Родион: Но ты же сотрудник корпорации T!
 
-# Original: Okay, fine. Let's say that I decided to run instead of walk and helped you capture those Yurodiviye rascals. What then? Will T Corp. suddenly stop having problems just because they're gone? Will this place suddenly transform into some kind of humanitarian paradise? Not to mention that, as long as their leader runs free, they'll be back before you know it.
+# Assistant: Okay, fine. Let's say that I decided to run instead of walk and helped you capture those Yurodiviye rascals. What then? Will T Corp. suddenly stop having problems just because they're gone? Will this place suddenly transform into some kind of humanitarian paradise? Not to mention that, as long as their leader runs free, they'll be back before you know it.
 Май: Ну хорошо, давайте представим, что я решил погнаться за Юродивыми с вами и помог их повязать. И что дальше? У корпорации T внезапно исчезнут все проблемы, а жить можно будет припеваючи? Пока их лидер на свободе — они непременно вернутся.
 
-# Original: Excuses. Then K.T.A.
+# Ryōshū: Excuses. Then K.T.A.
 Рёшу: Софизм. Просто В.И.В.
 
-# Original: If we do kill them all, that only opens up room for a worse Syndicate to take their place. If that happens... that Collector friend from earlier might end up suffering from something much, much worse than having to stop-and-search random passers-by. Not to mention that I'll be getting muscle cramps from all the running.
+# Assistant: If we do kill them all, that only opens up room for a worse Syndicate to take their place. If that happens... that Collector friend from earlier might end up suffering from something much, much worse than having to stop-and-search random passers-by. Not to mention that I'll be getting muscle cramps from all the running.
 Май: Если вырезать их всех, то велика вероятность, что их место займёт синдикат похуже. И тогда... нашей знакомой-коллектору, возможно, придётся встретиться с проблемами похуже, чем утомительные проверки и допросы. Ну а у меня мышцы в ногах сведёт от того, сколько придётся бегать.
 
-# Original: That's...
-Родион: Это… 
+# Rodion: That's...
+Родион: Это…
 
-# Original: Besides, isn't your friend one of them? Weird, I thought you wouldn't want me to arrest them.
+# Assistant: Besides, isn't your friend one of them? Weird, I thought you wouldn't want me to arrest them.
 Май: К тому же, разве ваш друг не в их рядах? Странно, что вы так готовы к их аресту.
 
-# Original: Right? I thought Rodya would be a bit happier to be reunited with the Yurodiviye.
+# Hong Lu: Right? I thought Rodya would be a bit happier to be reunited with the Yurodiviye.
 Хон Лу: Согласен. Я думал, Родя будет посчастливее от встречи с Юродивыми.
 
-# Original: <W-well, since it looks like the trail's gone cold, let's go back to the stop-and-search lady and ask if she noticed anything suspicious since we left.>
+# Dante: <W-well, since it looks like the trail's gone cold, let's go back to the stop-and-search lady and ask if she noticed anything suspicious since we left.>
 Данте: <Слушайте, раз от Юродивых след простыл, давайте вернёмся к дежурной и спросим, не видела ли она ничего подозрительного после того, как мы ушли.>
 
-# Original: ... Fine.
+# Rodion: ... Fine.
 Родион: …Ладно.
 
-# Original: The T Corp. employee we met earlier was still standing completely inert, not moving a muscle.
+# Narrator: The T Corp. employee we met earlier was still standing completely inert, not moving a muscle.
 Рассказчик: Перед нами стояла та самая сотрудница корпорации T, абсолютно не двигаясь.
 
-# Original: Poor woman! I can’t believe she's still on duty at such a late hour.
+# Hong Lu: Poor woman! I can’t believe she's still on duty at such a late hour.
 Хон Лу: Бедная, хоть уже поздно, но ей все равно приходится дежурить.
 
-# Original: Such is the life of a laborer.
+# Assistant: Such is the life of a laborer.
 Май: Такова жизнь работника офиса.
 
-# Original: ... No.
+# Ryōshū: ... No.
 Рёшу: …Нет.
 
-# Original: They got her. I can't even hear her breathing.
+# Ryōshū: They got her. I can't even hear her breathing.
 Рёшу: Её сцапали. Не слышу её дыхания.
 
-# Original: That's the Time Ripper's M.O.!
+# Hong Lu: That's the Time Ripper's M.O.!
 Хон Лу: Это же почерк Потрошителя времени!
 
-# Original: <The Time Ripper got to her that fast...?>
+# Dante: <The Time Ripper got to her that fast...?>
 Данте: <Потрошитель добрался до неё, пока нас не было...?>
 
-# Original: She's in a state of absolute stillness.
+# Ryōshū: She's in a state of absolute stillness.
 Рёшу: Она совершенно не двигается.
 
-# Original: A deathlike state achieved without a thimble of blood on their hands.
+# Ryōshū: A deathlike state achieved without a thimble of blood on their hands.
 Рёшу: Состояние сродни смерти, но не было пущено и капли крови.
 
-# Original: What a mysophobic art.
+# Ryōshū: What a mysophobic art.
 Рёшу: Внушительное произведение искусства…
 
-# Original: Though she may be in a state of stasis to those of us watching from the outside...
+# Hong Lu: Though she may be in a state of stasis to those of us watching from the outside...
 Хон Лу: Пусть нам со стороны кажется, что она застыла...
 
-# Original: ... for her, this must be as brief as a blink of an eye.
+# Hong Lu: ... for her, this must be as brief as a blink of an eye.
 Хон Лу: ...Для неё это будет одним мгновением.
 
-# Original: What do you think the culprit's trying to do with all that time?
+# Hong Lu: What do you think the culprit's trying to do with all that time?
 Хон Лу: И куда вообще убийца потратит всё это время?
 
-# Original: <Guys, this is a crime scene. Let's try to not touch the body... I mean, the victim...>
+# Dante: <Guys, this is a crime scene. Let's try to not touch the body... I mean, the victim...>
 Данте: <Ребят, это всё таки место преступления. Давайте не будем трогать тело… В смысле, жертву…>
 
-# Original: Woah, look! There must be some sort of spatio-temporal displacement superposition phenomenon going on here. She is entirely incorporeal.
+# Assistant: Woah, look! There must be some sort of spatio-temporal displacement superposition phenomenon going on here. She is entirely incorporeal.
 Май: Надо же, глядите. Какой-то феномен сдвига суперпозиционного пространственно-временного континуума. К ней нельзя прикоснуться.
 
-# Original: Is this seriously the time to—
+# Rodion: Is this seriously the time to—
 Родион: Именно это тебе так легко приходит на ум в этой ситуации—
 
-# Original: <Rodya, there! Up ahead!>
+# Dante: <Rodya, there! Up ahead!>
 Данте: <Родя, вон там!>
 
-# Original: I whipped around, noticing the now-familiar sensation of a Distortion, and caught a brief glimpse of a suspicious figure slowly slipping into the fog.
+# Narrator: I whipped around, noticing the now-familiar sensation of a Distortion, and caught a brief glimpse of a suspicious figure slowly slipping into the fog.
 Рассказчик: Почувствовав знакомое ощущение искажения, я огляделся и увидел подозрительную тень, плавно слившуюся с туманом.
 
-# Original: You, stop!
+# Rodion: You, stop!
 Родион: Эй, стой!!
 
-# Original: <Ryōshū, think you can catch up?>
+# Dante: <Ryōshū, think you can catch up?>
 Данте: <Рёшу, сможешь догнать?>
 
-# Original: I'm not your hunting dog... but sure. I'll entertain you, just this once.
+# Ryōshū: I'm not your hunting dog... but sure. I'll entertain you, just this once.
 Рёшу: Я тебе не гончая. Но ладно, только в этот раз.
 
-# Original: Ooh, she's pretty fast.
+# Assistant: Ooh, she's pretty fast.
 Май: О-о, а она быстрая.
 
-# Original: Ryōshū sure moves fast when she finds something interesting.
+# Hong Lu: Ryōshū sure moves fast when she finds something interesting.
 Хон Лу: Рёшу может быть весьма быстрой, когда заинтересована в чём-то.
 
-# Original: It's been a while since I've seen people like you—the kind who sprint forward with their eyes fixed on the horizon.
+# Assistant: It's been a while since I've seen people like you—the kind who sprint forward with their eyes fixed on the horizon.
 Май: Давненько я не видел таких, как вы. Вы бежите вперёд, ни на секунду не отводя взгляда от того, на что нацелились.
 
-# Original: Here, everyone only ever looks down, their necks bent and gaze locked to the ground. Watching their own feet take their halting steps.
+# Assistant: Here, everyone only ever looks down, their necks bent and gaze locked to the ground. Watching their own feet take their halting steps.
 Май: Все местные только и ходят скрючившись, смотря лишь себе под ноги.
 
-# Original: I suppose they only ever look up to check the time on the Clock Towers.
+# Assistant: I suppose they only ever look up to check the time on the Clock Towers.
 Май: Наверное, единственный раз, когда они поднимают головы — это чтобы проверить время на Часовой башне.
 
-# Original: But there must have been a time when everyone walked tall...
+# Assistant: But there must have been a time when everyone walked tall...
 Май: Но наверняка когда-то все ходили, выпрямив спину...
 
-# Original: I think I know why that is.
+# Rodion: I think I know why that is.
 Родион: Думаю, я знаю причину.
 
-# Original: It's because they all learned helplessness.
+# Rodion: It's because they all learned helplessness.
 Родион: Всё это из-за того, что они чувствуют себя беспомощными.
 
-# Original: Because they realized that, even if they ran 'till their lungs burst... nothing will change. That it doesn't matter.
+# Rodion: Because they realized that, even if they ran 'till their lungs burst... nothing will change. That it doesn't matter.
 Родион: Они поняли, что сколько бы не бежали… ничего не изменится.
 
-# Original: Yeah, not everyone can run like Meursault. Learning to maintain a stable breathing rhythm is not easy!
+# Hong Lu: Yeah, not everyone can run like Meursault. Learning to maintain a stable breathing rhythm is not easy!
 Хон Лу: Ну да, бегать как Мерсо сложно научиться, особенно его технике дыхания.
 
-# Original: Aha ha ha... That's not what I'm talking about.
+# Rodion: Aha ha ha... That's not what I'm talking about.
 Родион: Ха, ха, ха… Я не об этом.
 
-# Original: <Wait, take a closer look at her face.>
+# Dante: <Wait, take a closer look at her face.>
 Данте: <Подождите, её лицо… посмотрите на её лицо.>
 
-# Original: <Remember? It's the same face she was making earlier when she shouted "It's a stop-and-search!"
+# Dante: <Remember? It's the same face she was making earlier when she shouted "It's a stop-and-search!">
 Данте: <Помните? Похоже на выражение лица, которое у неё было, когда она крикнула: „сейчас досмотр проведём“.>
 
-# Original: Yeah... maybe she saw someone suspicious, approached them for a stop-and-search, and got ambushed... We should ask her when she recovers.
+# Rodion: Yeah... maybe she saw someone suspicious, approached them for a stop-and-search, and got ambushed... We should ask her when she recovers.
 Родион: Ага, наверное, она хотела осмотреть подозрительного человека… Спросим её, когда она очухается.
 
-# Original: But we don't know when she'll... recover.
+# Hong Lu: But we don't know when she'll... recover.
 Хон Лу: Но мы даже не знаем, когда она… очухается.
 
-# Original: Some time later...
+# Narrator: Some time later...
 Рассказчик: Некоторое время спустя…
 
-# Original: Catch.
+# Ryōshū: Catch.
 Рёшу: Принимайте.
 
-# Original: …….
+# Fainted Activist: …….
 Активист без сознания: …….
 
-# Original: <... Are you sure you captured him alive?>
+# Dante: <... Are you sure you captured him alive?>
 Данте: <…А он точно живой?>
 
-# Original: Hey, Ryōshū, doesn't he kinda look...
+# Rodion: Hey, Ryōshū, doesn't he kinda look...
 Родион: Слушай, Рёшу, с какой бы я стороны на него не смотрела…
 
-# Original: ... a bit different from the mysterious person that got away? He's clearly wearing something different.
+# Rodion: ... a bit different from the mysterious person that got away? He's clearly wearing something different.
 Родион: ...он не похож на того, который убежал. Одежда явно отличается.
 
-# Original: Besides, he's one of the Yurodiviye we already ran into.
+# Rodion: Besides, he's one of the Yurodiviye we already ran into.
 Родион: И вообще это же один из Юродивых, с которым мы встречались ранее…
 
-# Original: Clothes are just husks that can be cast off at any moment.
+# Ryōshū: Clothes are just husks that can be cast off at any moment.
 Рёшу: Одежда — лишь оболочка, скрывающая суть.
 
-# Original: He started running as soon as our eyes met.
+# Ryōshū: He started running as soon as our eyes met.
 Рёшу: Он начал рвать когти, стоило ему только завидеть меня.
 
-# Original: Hey. Rise and shine.
+# Ryōshū: Hey. Rise and shine.
 Рёшу: Э-э, просыпайся давай.
 
-# Original: U...ugh… How am I the suspicious one…? Anyone would run if someone like you started sprinting after them… with that big sword in your hands…
+# Fleeing Activist: U...ugh… How am I the suspicious one…? Anyone would run if someone like you started sprinting after them… with that big sword in your hands…
 Убежавший активист: У-у… Агх… ну конечно убегал… и всё из-за тебя… Кто бы не начал убегать, когда на него несётся девушка с таким грозным мечом?
 
-# Original: Haah... I have many, many ways to crush the truth out of you.
+# Ryōshū: Haah... I have many, many ways to crush the truth out of you.
 Рёшу: Хо-о, есть множество способов, которыми можно выбить из тебя правды.
 
-# Original: First.
+# Ryōshū: First.
 Рёшу: Первый…
 
-# Original: <No dismembering.>
+# Dante: <No dismembering.>
 Данте: <Без отрубания конечностей.>
 
-# Original: ... Hm.
+# Ryōshū: ... Hm.
 Рёшу: …Хм.
 
-# Original: This is the Yurodiviye's turf. You'll soon regret dragging me down here.
+# Fleeing Activist: This is the Yurodiviye's turf. You'll soon regret dragging me down here.
 Убежавший активист: Это территория Юродивых. Вы пожалеете, что притащили меня сюда.
 
-# Original: Heh... I prepared this secret weapon just for this occasion...
-Убежавший активист: Хе-хе… у меня было секретное оружие как раз на такой случай… 
+# Fleeing Activist: Heh... I prepared this secret weapon just for this occasion...
+Убежавший активист: Хе-хе… у меня было секретное оружие как раз на такой случай…
 
-# Original: <W-watch out!>
+# Dante: <W-watch out!>
 Данте: <О-осторожно!>
 
-# Original: ... But nothing happened.
+# Narrator: ... But nothing happened.
 Рассказчик: …Но ничего не произошло.
 
-# Original: <... What was that?>
+# Dante: <... What was that?>
 Данте: <…Что он сделал?>
 
-# Original: One of the five greatest inventions of the Yurodiviye T Corp. Branch, the PortableAdjustableFrequencyPeriodicalLightingApparatusAttachmentSoundwave Generator! This will call every single Yurodivy in its range to this exact location!
+# Fleeing Activist: One of the five greatest inventions of the Yurodiviye T Corp. Branch, the PortableAdjustableFrequencyPeriodicalLightingApparatusAttachmentSoundwave Generator! This will call every single Yurodivy in its range to this exact location!
 Убежавший активист: Одно из пяти величайших изобретений подразделения Юродивых в корпорации T. Это портативный-генератор-переодического-освещения-с-настройкой-громкости-звуковых-волн-и-регулируемой-частотой! Он вызовет сюда всех Юродивых в радиусе прибора!
 
-# Original: There, see what I mean? You see the problem prevalent among inventors: they never know when to stop when it comes to naming their inventions.
+# Assistant: There, see what I mean? You see the problem prevalent amongst inventors: they never know when to stop when it comes to naming their inventions.
 Май: Вот о чём я и говорил, когда рассказывал про названия изобретений. Изобретатели не могут остановиться на коротком названии.
 
-# Original: You'll pay dearly for smacking me in the back of my noggin!
+# Fleeing Activist: You'll pay dearly for smacking me in the back of my noggin!
 Убежавший активист: Вы заплатите за то, что огрели меня по башке!

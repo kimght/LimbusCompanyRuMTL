@@ -1,83 +1,83 @@
-# Original: This is troubling. I don't mind other locations, but if that place were to be attacked, it'll cause a major setback...
+# Dongrang: This is troubling. I don't mind other locations, but if that place were to be attacked, it'll cause a major setback...
 Донран: Это проблематично. Мне все равно насчет других мест, но если нападут на это место, это вызовет серьезные неприятности...
 
-# Original: Mr. Dongrang, you have an urgent call from Director Alfonso.
+# Samjo: Mr. Dongrang, you have an urgent call from Director Alfonso.
 Самджо: Господин Донран, у вас срочный звонок от директора Альфонсо.
 
-# Original: Oh boy... She's about to give me a talking-to. Can't you take the call for me, Samjo?
+# Dongrang: Oh boy... She's about to give me a talking-to. Can't you take the call for me, Samjo?
 Донран: Ох... Сейчас она мне задаст. Не мог бы ты ответить вместо меня, Самджо?
 
-# Original: I already have been, but her patience is nearing its limit.
+# Samjo: I already have been, but her patience is nearing its limit.
 Самджо: Я уже это делал, но ее терпение на исходе.
 
-# Original: Oh well... I'm not getting away from this. Pardon me for a second.
+# Dongrang: Oh well... I'm not getting away from this. Pardon me for a second.
 Донран: Ну что ж... От этого мне не уйти. Прошу прощения, дайте минутку.
 
-# Original: While Dongrang was away, we spotted an employee who hadn't evacuated across the hallway, nervously wandering.
+# Narrator: While Dongrang was away, we spotted an employee who hadn't evacuated across the hallway, nervously wandering.
 Рассказчик: Пока Донран отсутствовал, мы заметили сотрудника, который не эвакуировался и нервно бродил по коридору.
 
-# Original: Watch closely, Executive Manager. If you see a lackey snooping around like that in the middle of danger...
+# Outis: Watch closely, Executive Manager. If you see a lackey snooping around like that in the middle of danger...
 Отис: Смотрите внимательно, Исполнительный Менеджер. Если вы видите лакея, который так крадется посреди опасности...
 
-# Original: It most likely means you've found someone with useful information. It would be wise to make good use of them.
+# Outis: It most likely means you've found someone with useful information. It would be wise to make good use of them.
 Отис: Скорее всего, это значит, что вы нашли кого-то с полезной информацией. Было бы разумно воспользоваться этим.
 
-# Original: Hey, we're agents from a subcontracting firm here to deal with this commotion. What's going on?
+# Outis: Hey, we're agents from a subcontracting firm here to deal with this commotion. What's going on?
 Отис: Эй, мы агенты из субподрядной фирмы, прибывшие разобраться с этим переполохом. Что происходит?
 
-# Original: I-I've been looking for Ms. Shrenne, but I can't find her anywhere. I need to tell her to evacuate...
+# Nervous Employee: I-I've been looking for Ms. Shrenne, but I can't find her anywhere. I need to tell her to evacuate...
 Нервный сотрудник: Я-я ищу госпожу Шренн, но нигде не могу ее найти. Мне нужно сказать ей эвакуироваться...
 
-# Original: She's left her computer on... Where could she be...
+# Nervous Employee: She's left her computer on... Where could she be...
 Нервный сотрудник: Она оставила свой компьютер включенным... Где же она может быть...
 
-# Original: Ah... Actually, she-
+# Sinclair: Ah... Actually, she-
 Синклер: Ах... Вообще-то, она-
 
-# Original: Alright, we'll find her. You evacuate first.
+# Outis: Alright, we'll find her. You evacuate first.
 Отис: Хорошо, мы найдем ее. А вы эвакуируйтесь первым.
 
-# Original: Thank you.
+# Nervous Employee: Thank you.
 Нервный сотрудник: Спасибо.
 
-# Original: Now, while the terrorists' informant has been removed, the staff is still in a muddle, and her computer is left on.
+# Outis: Now, while the terrorists' informant has been removed, the staff is still in a muddle, and her computer is left on.
 Отис: Итак, когда информатор террористов устранен, персонал все еще в замешательстве, а ее компьютер остался включенным.
 
-# Original: We're in a complete tactical advantage. It didn't even cost us any strength.
+# Outis: We're in a complete tactical advantage. It didn't even cost us any strength.
 Отис: У нас полное тактическое преимущество. И это даже не стоило нам никаких усилий.
 
-# Original: Probably thanks to the pride in this achievement, Outis sounded much more excited than usual... But no one else seemed to care.
+# Narrator: Probably thanks to the pride in this achievement, Outis sounded much more excited than usual... But no one else seemed to care.
 Рассказчик: Вероятно, благодаря гордости за это достижение, Отис звучала гораздо более возбужденно, чем обычно... Но, похоже, никого это не волновало.
 
-# Original: The computer Shrenne used... Its password was "missyouran", right...
+# Ishmael: The computer Shrenne used... Its password was "missyouran", right...
 Измаил: Компьютер, которым пользовалась Шренн... Её паролем был "скучаюпоран", верно...
 
-# Original: <We were told she was in close relations with Ran, exchanging lots of messages...>
+# Dante: <We were told she was in close relations with Ran, exchanging lots of messages...>
 Данте: <Нам сказали, что она была в близких отношениях с Ран, обменивалась множеством сообщений...>
 
-# Original: <If we're lucky, we might find a pending email or some other clue on her computer.>
+# Dante: <If we're lucky, we might find a pending email or some other clue on her computer.>
 Данте: <Если нам повезет, мы можем найти неотправленное письмо или какую-нибудь другую подсказку на ее компьютере.>
 
-# Original: <It should hopefully give us some insight into the technology liberation alliance, too.>
+# Dante: <It should hopefully give us some insight into the technology liberation alliance, too.>
 Данте: <Это должно дать нам некоторое представление об альянсе освобождения технологий.>
 
-# Original: You're quick to understand. That was unexpe- I mean... very much expected of my executive manager.
+# Outis: You're quick to understand. That was unexpe- I mean... very much expected of my executive manager.
 Отис: Вы быстро схватываете. Это было неожида- я имею в виду... вполне ожидаемо от моего исполнительного менеджера.
 
-# Original: Alright, good. The problem is how we're gonna sneak into the office... Who on our team is gonna walk in there bold-faced and get it done without rousing suspicion...
+# Gregor: Alright, good. The problem is how we're gonna sneak into the office... Who on our team is gonna walk in there bold-faced and get it done without rousing suspicion...
 Грегор: Ладно, хорошо. Проблема в том, как мы проберемся в офис... Кто из нашей команды сможет войти туда с невозмутимым лицом и сделать это, не вызывая подозрений...
 
-# Original: <If I had to choose a Sinner who can keep a still face and avoid suspicion...>
+# Dante: <If I had to choose a Sinner who can keep a still face and avoid suspicion...>
 Данте: <Если бы мне пришлось выбрать Грешника, который может сохранять невозмутимое лицо и избегать подозрений...>
 
-# Original: Give this humble knight one more chance, and I shall succeed...!
+# Don Quixote: Give this humble knight one more chance, and I shall succeed...!
 Дон Кихот: Дайте этому смиренному рыцарю еще один шанс, и я преуспею...!
 
-# Original: <Meursault! Think you can handle it?>
+# Dante: <Meursault! Think you can handle it?>
 Данте: <Мерсо! Думаешь, справишься?>
 
-# Original: ...As long as you command.
+# Meursault: ...As long as you command.
 Мерсо: ...Если вы прикажете.
 
-# Original: <Yeah, I'm counting on you.>
+# Dante: <Yeah, I'm counting on you.>
 Данте: <Да, я рассчитываю на тебя.>

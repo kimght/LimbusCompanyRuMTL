@@ -1,221 +1,221 @@
-﻿# Original: An explosion has been detected. Please protect yourselves from danger by swiftly moving under your desks.
+﻿# Announcement: An explosion has been detected. Please protect yourselves from danger by swiftly moving under your desks.
 Объявление: Обнаружен взрыв. Пожалуйста, укройтесь от опасности, быстро переместившись под свои столы.
 
-# Original: ……
+# Intimidating Machine: ……
 Угрожающая машина: ……
 
-# Original: Whoops... That was a misfire.
+# ???: Whoops... That was a misfire.
 Марли: Упс... Это был осечка.
 
-# Original: A second explosion has been detected. Please activate the regeneration ampule in your possession, and...
+# Announcement: A second explosion has been detected. Please activate the regeneration ampule in your possession, and...
 Объявление: Обнаружен второй взрыв. Пожалуйста, активируйте регенерационную ампулу, находящуюся в вашем распоряжении, и...
 
-# Original: Please wait for K Corp's security staff that will arrive within 18 seconds of, of, of...
+# Announcement: Please wait for K Corp's security staff that will arrive within 18 seconds of, of, of...
 Объявление: Пожалуйста, ожидайте прибытия службы безопасности Корпорации К в течение 18 секунд после, после, после...
 
-# Original: Same old announcement. I wonder, why are broadcasts like that told in such calm voices?
+# ???: Same old announcement. I wonder, why are broadcasts like that told in such calm voices?
 Ран: Всё то же объявление. Интересно, почему такие трансляции всегда передают таким спокойным голосом?
 
-# Original: Won't a little gasping and panicking be more effective in getting people to evacuate?
+# ???: Won't a little gasping and panicking be more effective in getting people to evacuate?
 Ран: Разве не было бы эффективнее немного задыхаться и паниковать, чтобы люди быстрее эвакуировались?
 
-# Original: See, getting so preoccupied with all that technology and science nonsense dulls your empathy with feelings.
+# ???: See, getting so preoccupied with all that technology and science nonsense dulls your empathy with feelings.
 Ран: Видите, когда слишком увлекаетесь всей этой ерундой с технологиями и наукой, теряете способность сопереживать.
 
-# Original: ...You talk too much. Be quiet.
+# ???: ...You talk too much. Be quiet.
 Марли: ...Слишком много болтаешь. Замолчи.
 
-# Original: Is everyone alright? If you aren't, take a regeneration sample. A cross-compatibility test is normally needed, but we're in an emergency...
+# Samjo: Is everyone alright? If you aren't, take a regeneration sample. A cross-compatibility test is normally needed, but we're in an emergency...
 Самджо: Все в порядке? Если нет, возьмите регенерационную ампулу. Обычно требуется тест на перекрёстную совместимость, но сейчас чрезвычайная ситуация...
 
-# Original: ...You look unfazed. Doesn't a terrorist attack usually throw everyone into chaos?
+# Gregor: ...You look unfazed. Doesn't a terrorist attack usually throw everyone into chaos?
 Грегор: ...Вы выглядите невозмутимым. Разве теракт обычно не вызывает всеобщий хаос?
 
-# Original: The first attack did have everyone panicking. The explosive detection broadcasts didn't exist, either. Mister Samjo hid under his desk for quite some time...
+# Dongrang: The first attack did have everyone panicking. The explosive detection broadcasts didn't exist, either. Mister Samjo hid under his desk for quite some time...
 Донран: При первой атаке все действительно паниковали. Трансляций об обнаружении взрывчатки тогда тоже не было. Мистер Самджо довольно долго прятался под столом...
 
-# Original: As I keep saying, the attack occurred in the lobby, and I was merely attempting to pick up a notebook that fell under the desk.
+# Samjo: As I keep saying, the attack occurred in the lobby, and I was merely attempting to pick up a notebook that fell under the desk.
 Самджо: Как я уже говорил, атака произошла в вестибюле, а я просто пытался поднять записную книжку, упавшую под стол.
 
-# Original: You must take this situation seriously, Mr. Dongrang. An attack on a K Corp. laboratory in the middle of the Nest is not a matter of course.
+# Samjo: You must take this situation seriously, Mr. Dongrang. An attack on a K Corp. laboratory in the middle of the Nest is not a matter of course.
 Самджо: Вы должны отнестись к этой ситуации серьёзно, господин Донран. Атака на лабораторию Корпорации К в центре Гнезда — это не рядовое событие.
 
-# Original: For sure, they managed to arrive at the floor where the researchers are. Oh, I think I sprained my left ankle, Samjo.
+# Dongrang: For sure, they managed to arrive at the floor where the researchers are. Oh, I think I sprained my left ankle, Samjo.
 Донран: Это точно, им удалось добраться до этажа с исследователями. Ох, кажется, я подвернул левую лодыжку, Самджо.
 
-# Original: I watched as Samjo injected a regeneration ampule into Dongrang's body.
+# Narrator: I watched as Samjo injected a regeneration ampule into Dongrang's body.
 Рассказчик: Я наблюдал, как Самджо вводит регенерационную ампулу в тело Донрана.
 
-# Original: Are they the terrorists that are occupying the Lobotomy Corp. branch?
+# Outis: Are they the terrorists that are occupying the Lobotomy Corp. branch?
 Отис: Это те самые террористы, которые захватили филиал Корпорации "Лоботомия"?
 
-# Original: Indeed. Speak of the devil.
+# Dongrang: Indeed. Speak of the devil.
 Донран: Именно. Легки на помине.
 
-# Original: They're part of the terrorist organization? They don't really look like well-trained combatants...
+# Sinclair: They're part of the terrorist organization? They don't really look like well-trained combatants...
 Синклер: Они часть террористической организации? Как-то не похожи на хорошо обученных бойцов...
 
-# Original: Would you look at that, you got an eye for that now, kid?
+# Heathcliff: Would you look at that, you got an eye for that now, kid?
 Хитклиф: Надо же, малец, теперь у тебя глаз намётан на такое?
 
-# Original: It's natural. They aren't the ones directly engaging in combat.
+# Samjo: It's natural. They aren't the ones directly engaging in combat.
 Самджо: Это естественно. Они не из тех, кто непосредственно участвует в боевых действиях.
 
-# Original: It should take a single glance to notice that they appear lean and frail just like Mr. Dongrang.
+# Samjo: It should take a single glance to notice that they appear lean and frail just like Mr. Dongrang.
 Самджо: Достаточно одного взгляда, чтобы заметить, что они выглядят такими же худыми и хрупкими, как господин Донран.
 
-# Original: I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?
+# Heathcliff: I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?
 Хитклиф: Я видел богатеньких придурков, которые не участвуют в драках, но всё равно ставят себе боевые имплантаты на всякий случай. Уверен, что они не притворяются слабыми?
 
-# Original: It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally.
+# Faust: It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally.
 Фауст: Не обязательно. Как бы ни были разнообразны способы усиления тела, некоторые могут отвергать их физически или психически.
 
-# Original: Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified.
+# Faust: Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified.
 Фауст: В некоторых Гнёздах даже запрещают жителям получать процедуры выше определённого уровня мощности, если они не имеют соответствующей квалификации.
 
-# Original: They don't want the lowly to rise up and topple the ruling class over, huh?
+# Rodion: They don't want the lowly to rise up and topple the ruling class over, huh?
 Родион: Не хотят, чтобы простолюдины восстали и свергли правящий класс, да?
 
-# Original: I couldn't deny those possibilities. Each Nest must have its own reasons.
+# Faust: I couldn't deny those possibilities. Each Nest must have its own reasons.
 Фауст: Я не могу отрицать такую возможность. У каждого Гнезда должны быть свои причины.
 
-# Original: But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle...
+# Faust: But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle...
 Фауст: Но, если говорить принципиально, процедуры усиления подобны высокопроизводительным транспортным средствам. Если неквалифицированный водитель попытается управлять машиной с мощностью выше той, с которой он может справиться...
 
-# Original: Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening.
+# Faust: Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening.
 Фауст: Уровни порядка в Гнезде рухнут в мгновение ока, поэтому они хотят этого избежать.
 
-# Original: Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know.
+# Dongrang: Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know.
 Донран: Извините, что прерываю ваше страстное объяснение, но хочу заметить, что моя боль была вполне настоящей.
 
-# Original: Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps.
+# Narrator: Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps.
 Рассказчик: Вскоре появились люди в знакомой форме, сопровождаемые незабываемым ритмом шагов.
 
-# Original: Eek!
+# Don Quixote: Eek!
 Дон Кихот: Ой!
 
-# Original: T-The ones from the checkpoint...
+# Sinclair: T-The ones from the checkpoint...
 Синклер: Э-это те, с контрольно-пропускного пункта...
 
-# Original: And now they're our reliable allies.
+# Ishmael: And now they're our reliable allies.
 Измаил: А теперь они наши надёжные союзники.
 
-# Original: <Those robots... They look seriously hostile...>
+# Dante: <Those robots... They look seriously hostile...>
 Данте: <Эти роботы... Выглядят очень враждебно...>
 
-# Original: Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium.
+# ???: Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium.
 Марли: Кровоизлияние в течение пяти секунд. Повреждение позвоночника длиной не менее 12 сантиметров. Прямое воздействие на коронарную артерию. Разрушение черепа.
 
-# Original: These steps will ensure that the enemy meets immediate death without unnecessary suffering.
+# ???: These steps will ensure that the enemy meets immediate death without unnecessary suffering.
 Марли: Эти шаги обеспечат немедленную смерть противника без лишних страданий.
 
-# Original: It can do that, but wasn't it mainly to fully destroy the brain so that they can't regenerate themselves?
+# ???: It can do that, but wasn't it mainly to fully destroy the brain so that they can't regenerate themselves?
 Ран: Оно может это сделать, но разве главная цель не в том, чтобы полностью уничтожить мозг, чтобы они не смогли регенерироваться?
 
-# Original: Hey, if you don't mind, could you pretend to be dead if this doesn't kill you right away? My buddy stayed up all night upgrading the instakill function.
+# ???: Hey, if you don't mind, could you pretend to be dead if this doesn't kill you right away? My buddy stayed up all night upgrading the instakill function.
 Ран: Эй, если не возражаешь, может, притворишься мёртвым, если это не убьёт тебя сразу? Мой приятель не спал всю ночь, улучшая функцию мгновенного убийства.
 
-# Original: Quiet.
+# ???: Quiet.
 Марли: Тихо.
 
-# Original: See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?
+# ???: See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?
 Ран: Видишь~ Я же говорила. С такой дистанцией отдачи он достигает только затылочной доли. Обязательно было учиться на практике?
 
-# Original: Damn it... It should have gone all the way through the temporal lobe.
+# ???: Damn it... It should have gone all the way through the temporal lobe.
 Марли: Чёрт... Должно было пройти насквозь до височной доли.
 
-# Original: We can't lose to them, we have robots of our own. They should be here any minute now...
+# Dongrang: We can't lose to them, we have robots of our own. They should be here any minute now...
 Донран: Мы не можем им проиграть, у нас есть свои роботы. Они должны появиться с минуты на минуту...
 
-# Original: Aha, there it is! The regeneration ampule administration drone.
+# Dongrang: Aha, there it is! The regeneration ampule administration drone.
 Донран: Ага, вот оно! Дрон для введения регенерационных ампул.
 
-# Original: It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?
+# Ishmael: It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?
 Измаил: Должно быть, очень удобно иметь их. Они вводят ампулы сразу, как только персонал получает ранения?
 
-# Original: Yes, as long as their heads aren't lost... and the ampule is injected before the golden time passes and their brain stops functioning... They're practically undying.
+# Samjo: Yes, as long as their heads aren't lost... and the ampule is injected before the golden time passes and their brain stops functioning... They're practically undying.
 Самджо: Да, если голова не потеряна... и ампула введена до истечения золотого времени и прекращения функционирования мозга... Они практически бессмертны.
 
-# Original: ...Kgh.
+# K Corp. Security: ...Kgh.
 Рассказчик: ...Кхг.
 
-# Original: Injuries like holes in internal organs...
+# Samjo: Injuries like holes in internal organs...
 Самджо: Такие травмы, как отверстия во внутренних органах...
 
-# Original: ...Kurgh!
+# K Corp. Security: ...Kurgh!
 Рассказчик: ...Кургх!
 
-# Original: Or broken bones can be healed in seconds.
+# Samjo: Or broken bones can be healed in seconds.
 Самджо: Или сломанные кости могут быть исцелены за секунды.
 
-# Original: Even still... They wouldn't be immune to pain. How can they be so calm about it...
+# Ishmael: Even still... They wouldn't be immune to pain. How can they be so calm about it...
 Измаил: И всё же... Они не могут быть невосприимчивы к боли. Как они могут оставаться такими спокойными...
 
-# Original: They won't even bat an eye at a colleague right next to them being cut down.
+# Ishmael: They won't even bat an eye at a colleague right next to them being cut down.
 Измаил: Они даже глазом не моргнут, когда их коллегу рядом с ними убивают.
 
-# Original: Natural behavior.
+# Meursault: Natural behavior.
 Мерсо: Естественное поведение.
 
-# Original: If all wounds can be healed up in seconds, all judgement regarding it will be secondary.
+# Meursault: If all wounds can be healed up in seconds, all judgement regarding it will be secondary.
 Мерсо: Если все раны можно исцелить за секунды, все суждения об этом будут второстепенны.
 
-# Original: If that's the case... Will we become like that eventually?
+# Hong Lu: If that's the case... Will we become like that eventually?
 Хон Лу: Если так... Может, мы тоже такими станем в итоге?
 
-# Original: I don't see a reason to think about such things.
+# Meursault: I don't see a reason to think about such things.
 Мерсо: Не вижу причин думать о таких вещах.
 
-# Original: I was just curious.
+# Hong Lu: I was just curious.
 Хон Лу: Мне просто было любопытно.
 
-# Original: By the way... Who are these new faces with unfamiliar outfits? Anyone wanna introduce yourself?
+# ???: By the way... Who are these new faces with unfamiliar outfits? Anyone wanna introduce yourself?
 Ран: Кстати... Кто эти новые лица в незнакомой одежде? Кто-нибудь хочет представиться?
 
-# Original: None of our business.
+# ???: None of our business.
 Марли: Не наше дело.
 
-# Original: True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?
+# ???: True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?
 Ран: Верно. Но как-то неловко просто стоять и смотреть друг на друга. Кто-то должен заговорить, нет?
 
-# Original: ...Why should we introduce ourselves to a terrorist organization?
+# Ishmael: ...Why should we introduce ourselves to a terrorist organization?
 Измаил: ...Зачем нам представляться террористической организации?
 
-# Original: We're no mere terrorist organization. Watch your words.
+# ???: We're no mere terrorist organization. Watch your words.
 Марли: Мы не просто террористическая организация. Следите за словами.
 
-# Original: I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven...
+# ???: I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven...
 Ран: Мне нравится, как это звучит. Соответствует моим убеждениям, когда мне было четыре года. Мне пришлось откликнуться на приглашение в аспирантуру, потому что моя работа по атомам получила приз, когда мне было одиннадцать...
 
-# Original: Shut it. We are the technology liberation alliance.
+# ???: Shut it. We are the technology liberation alliance.
 Марли: Заткнись. Мы — альянс освобождения технологий.
 
-# Original: Liberate what technologies exactly? Does technology yearn for freedom?
+# Hong Lu: Liberate what technologies exactly? Does technology yearn for freedom?
 Хон Лу: Какие именно технологии освобождать? Разве технологии жаждут свободы?
 
-# Original: Maybe... they're talking about the animals in the lab... I think?
+# Sinclair: Maybe... they're talking about the animals in the lab... I think?
 Синклер: Может... они говорят о животных в лаборатории... Я думаю?
 
-# Original: You hear that? He thinks we're animal protectors or something?
+# ???: You hear that? He thinks we're animal protectors or something?
 Ран: Слышишь? Он думает, что мы защитники животных или что-то в этом роде?
 
-# Original: Sorry, but that went out of fashion long ago. You think we're working day and night assembling machines just to fight for happily raised chickens fried in healthy oil?
+# ???: Sorry, but that went out of fashion long ago. You think we're working day and night assembling machines just to fight for happily raised chickens fried in healthy oil?
 Ран: Извини, но это уже давно вышло из моды. Думаешь, мы работаем день и ночь, собирая машины, только чтобы бороться за счастливо выращенных цыплят, жаренных в полезном масле?
 
-# Original: Type X-32 bolts are so hard to get these days, we have to order them from other Nests. Do you have any idea how much tax is added?
+# ???: Type X-32 bolts are so hard to get these days, we have to order them from other Nests. Do you have any idea how much tax is added?
 Ран: Болты типа X-32 сейчас так трудно достать, приходится заказывать их из других Гнёзд. Ты хоть представляешь, сколько налогов добавляется?
 
-# Original: You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours.
+# Faust: You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours.
 Фауст: Вы можете заменить болты типа X-32, отлив болт c-9 и закалив его с интервалом в два часа.
 
-# Original: You aren't gonna win over us by acting all smart...
+# ???: You aren't gonna win over us by acting all smart...
 Марли: Ты не выиграешь у нас, строя из себя умную...
 
-# Original: Oh... Huh... No, she might be right... It could work.
+# ???: Oh... Huh... No, she might be right... It could work.
 Ран: О... Хм... Нет, она может быть права... Это может сработать.
 
-# Original: Could you tell us why you're offering advice to enemies, Ms. Faust?
+# Gregor: Could you tell us why you're offering advice to enemies, Ms. Faust?
 Грегор: Не могли бы вы объяснить, почему даёте советы врагам, госпожа Фауст?
 
-# Original: You wouldn't understand. Researchers have a creed more valuable than life.
+# Faust: You wouldn't understand. Researchers have a creed more valuable than life.
 Фауст: Вам не понять. У исследователей есть кредо, которое ценнее жизни.

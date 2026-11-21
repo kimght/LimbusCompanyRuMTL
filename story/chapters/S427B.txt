@@ -1,179 +1,179 @@
-# Original: <Looks like we're almost there.>
+# Dante: <Looks like we're almost there.>
 Данте: <Похоже, мы почти на месте.>
 
-# Original: <I can sense the Golden Bough resonating nearby.>
+# Dante: <I can sense the Golden Bough resonating nearby.>
 Данте: <Я чувствую, что Золотая Ветвь резонирует поблизости.>
 
-# Original: ...It appears we're nearing the target location.
+# Faust: ...It appears we're nearing the target location.
 Фауст: ...Похоже, мы приближаемся к местоположению цели.
 
-# Original: That's good. The photos and awards I left should be still there.
+# Dongrang: That's good. The photos and awards I left should be still there.
 Донран: Это хорошо. Фотографии и награды, которые я оставил, должны быть все еще там.
 
-# Original: Classified research documents as well, Mr. Dongrang.
+# Samjo: Classified research documents as well, Mr. Dongrang.
 Самджо: А также Засекреченные исследовательские документы, господин Донран.
 
-# Original: ……
+# Yi Sang: ……
 И Сан: ……
 
-# Original: Yi Sang picks up an ampule Shrenne dropped from the floor and carefully examines it.
+# Narrator: Yi Sang picks up an ampule Shrenne dropped from the floor and carefully examines it.
 Рассказчик: И Сан поднимает с пола ампулу, которую уронила Шренн, и внимательно её изучает.
 
-# Original: How kind of you. You didn't have to pick it up.
+# Dongrang: How kind of you. You didn't have to pick it up.
 Донран: Как любезно с твоей стороны. Тебе не стоило её поднимать.
 
-# Original: ...It's the same.
+# Yi Sang: ...It's the same.
 И Сан: ...Она такая же.
 
-# Original: This regeneration ampule...
+# Yi Sang: This regeneration ampule...
 И Сан: Эта регенерационная ампула...
 
-# Original: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
+# Yi Sang: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
 И Сан: Её номер подчиняется тому же правилу, что и "ампулы распада", которые насильно вводили мисс Измаил во время недавней стычки между бойцами Корпорации К и вторгшимися машинами.
 
-# Original: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
+# Samjo: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
 Самджо: Это называется серийным кодом. Это уникальная строка чисел для категоризации ампул. Те, что начинаются с "О", являются оригинальными... Стоп, почему я вообще это объясняю?
 
-# Original: Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.
+# Yi Sang: Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.
 И Сан: Оригинальная... Идентичная "ампуле распада", введенной мисс Измаил... Это предполагает, что её сущность не отличалась от регенерационной ампулы.
 
-# Original: This series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones.
+# Dongrang: This series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones.
 Донран: Эта серия регенерационных ампул, ну, как бы сказать... Это неразбавленный раствор. Он не совсем такой, как те, что доступны в продаже.
 
-# Original: ……
+# Yi Sang: ……
 И Сан: ……
 
-# Original: What are you thinking right now?
+# Dongrang: What are you thinking right now?
 Донран: О чем ты сейчас думаешь?
 
-# Original: Nothing.
+# Yi Sang: Nothing.
 И Сан: Ни о чем.
 
-# Original: When did you first recognize me?
+# Dongrang: When did you first recognize me?
 Донран: Когда ты впервые узнал меня?
 
-# Original: Since you showed us the chickens in captivity.
+# Yi Sang: Since you showed us the chickens in captivity.
 И Сан: С того момента, как ты показал нам кур в неволе.
 
-# Original: It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...
+# Yi Sang: It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...
 И Сан: Было бы достаточно провести для посетителей беглый осмотр, но ты настоял на том, чтобы показать свою личную лабораторию...
 
-# Original: You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.
+# Dongrang: You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.
 Донран: Ты прав. Не знаю насчет остальных, но я хотел, чтобы именно ты увидел наглядное доказательство моего успеха.
 
-# Original: I'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours.
+# Dongrang: I'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours.
 Донран: Хотя мне все равно грустно. У тебя, наверное, было достаточно времени, чтобы выразить радость от воссоединения со своим старым другом.
 
-# Original: It is my thought that I no longer have companions by my side.
+# Yi Sang: It is my thought that I no longer have companions by my side.
 И Сан: Я думаю, что рядом со мной больше нет товарищей.
 
-# Original: You haven't changed.
+# Dongrang: You haven't changed.
 Донран: Ты не изменился.
 
-# Original: You've always enjoyed keeping precious things in bottles and watching them.
+# Dongrang: You've always enjoyed keeping precious things in bottles and watching them.
 Донран: Тебе всегда нравилось держать драгоценные вещи в бутылочках и наблюдать за ними.
 
-# Original: And you were intent on releasing and showing them.
+# Yi Sang: And you were intent on releasing and showing them.
 И Сан: А ты стремился их выпустить и показать.
 
-# Original: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
+# Don Quixote: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
 Дон Кихот: Ты промолвил "товарищи"? Должна сказать, И Сан, множество встреч с твоими товарищами ждут тебя в сем путешествии!
 
-# Original: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
+# Don Quixote: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
 Дон Кихот: В одной из прошлых экспедиций, эмм... тот, что носит тонированные очки, столкнулся с тобой!
 
-# Original: ……
+# Dongrang: ……
 Донран: ……
 
-# Original: Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me.
+# Dongrang: Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me.
 Донран: Ага. Значит, у тебя уже было воссоединение, которое стоило отпраздновать. Неудивительно, что ты так отстранённо ведешь себя со мной.
 
-# Original: How troubling for you, though.
+# Dongrang: How troubling for you, though.
 Донран: Хотя это должно быть проблематично для тебя.
 
-# Original: Looks like there'll be another you have to face.
+# Dongrang: Looks like there'll be another you have to face.
 Донран: Похоже, тебе предстоит встретиться еще с одним человеком.
 
-# Original: <What do you mean?>
+# Dante: <What do you mean?>
 Данте: <Что ты имеешь в виду?>
 
-# Original: I thought everyone had made their escape thanks to Shrenne's snitching...
+# Dongrang: I thought everyone had made their escape thanks to Shrenne's snitching...
 Донран: Я думал, что все успели сбежать благодаря доносу Шренн...
 
-# Original: But I suppose that wasn't the case.
+# Dongrang: But I suppose that wasn't the case.
 Донран: Но, похоже, это было не так.
 
-# Original: Someone walks in, exuding a suffocatingly thick scent of flowers.
+# Narrator: Someone walks in, exuding a suffocatingly thick scent of flowers.
 Рассказчик: Кто-то входит, источая удушающе густой аромат цветов.
 
-# Original: Holding a bright golden branch in her hand, an object now familiar to me.
+# Narrator: Holding a bright golden branch in her hand, an object now familiar to me.
 Рассказчик: Держа в руке яркую золотую ветвь, предмет, теперь уже знакомый мне.
 
-# Original: She had a worn monochrome photograph in her other hand.
+# Narrator: She had a worn monochrome photograph in her other hand.
 Рассказчик: В другой руке у неё была потертая черно-белая фотография.
 
-# Original: It's a fine photograph. Only one of this shot remains in this world now.
+# ???: It's a fine photograph. Only one of this shot remains in this world now.
 Донбек: Это прекрасная фотография. Лишь один экземпляр этого снимка остался в этом мире.
 
-# Original: So many old friends, and not one to greet me with delight.
+# Dongrang: So many old friends, and not one to greet me with delight.
 Донран: Столько старых друзей, и ни один не приветствует меня с радостью.
 
-# Original: Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.
+# Dongrang: Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.
 Донран: Не вернешь ли мне эту фотографию? Может, оно так и не выглядит, но это мое любимое сокровище.
 
-# Original: Mr. Dongrang, you shouldn't get close to her! It's dangerous!
+# Samjo: Mr. Dongrang, you shouldn't get close to her! It's dangerous!
 Самджо: Господин Донран, вам не следует к ней приближаться! Это опасно!
 
-# Original: All troops, do not carelessly approach her! The Golden Bough may be destroyed...
+# Outis: All troops, do not carelessly approach her! The Golden Bough may be destroyed...
 Отис: Всему отряду, не приближайтесь к ней так беспечно! Золотая Ветвь может быть уничтожена...
 
-# Original: I agree with it.
+# Meursault: I agree with it.
 Мерсо: Я согласен с этим.
 
-# Original: Faust will come up with a way to retrieve it in no time.
+# Faust: Faust will come up with a way to retrieve it in no time.
 Фауст: Фауст в мгновение ока придумает способ вернуть его.
 
-# Original: Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...
+# Heathcliff: Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...
 Хитклиф: Тьфу, почему мы постоянно сталкиваемся с проблемами, которые нельзя решить хорошей взбучкой! Это просто бесит...
 
-# Original: Everyone yells and shouts with their own goal in mind.
+# Narrator: Everyone yells and shouts with their own goal in mind.
 Рассказчик: Все кричат и шумят, преследуя свои цели.
 
-# Original: Regardless of the noise, the person with the Golden Bough steadily walks this way.
+# Narrator: Regardless of the noise, the person with the Golden Bough steadily walks this way.
 Рассказчик: Несмотря на шум, человек с Золотой Ветвью уверенно идет в нашу сторону.
 
-# Original: However, instead of going for Dongrang...
+# Narrator: However, instead of going for Dongrang...
 Рассказчик: Однако, вместо того, чтобы направиться к Донрану...
 
-# Original: That piquant and fragrant smell made me feel as though the ground was sinking.
+# ???: That piquant and fragrant smell made me feel as though the ground was sinking.
 Донбек: Этот острый и ароматный запах заставил меня почувствовать, будто земля уходит из-под ног.
 
-# Original: …!
+# Yi Sang: …!
 И Сан: …!
 
-# Original: She plunged the Golden Bough in her hand into Yi Sang's chest...
+# Narrator: She plunged the Golden Bough in her hand into Yi Sang's chest...
 Рассказчик: Она вонзила Золотую Ветвь, которую держала в руке, в грудь И Сана...
 
-# Original: And Yi Sang collapses on the ground.
+# Narrator: And Yi Sang collapses on the ground.
 Рассказчик: После И Сан падает на землю.
 
-# Original: I...didn't think you would end up choosing him before my eyes.
+# ???: I...didn't think you would end up choosing him before my eyes.
 Донбек: Я... не думала, что в конечном итоге ты выберешь его на моих глазах.
 
-# Original: <Yi Sang!>
+# Dante: <Yi Sang!>
 Данте: <И Сан!>
 
-# Original: You can have this back.
+# ???: You can have this back.
 Донбек: Можешь забрать это обратно.
 
-# Original: A photograph is nothing more than a taxidermied moment.
+# Dongbaek: A photograph is nothing more than a taxidermied moment.
 Донбек: Фотография — не более чем запечатлённый момент.
 
-# Original: Even while drenched in blood, the Golden Bough still glows.
+# Narrator: Even while drenched in blood, the Golden Bough still glows.
 Рассказчик: Даже залитая кровью, Золотая Ветвь продолжает сиять.
 
-# Original: Contrasting the golden dazzle...
+# Narrator: Contrasting the golden dazzle...
 Рассказчик: Контрастируя с золотым блеском...
 
-# Original: The faded monochrome photograph slowly falls to the floor.
+# Narrator: The faded monochrome photograph slowly falls to the floor.
 Рассказчик: Выцветшая черно-белая фотография медленно падает на пол.

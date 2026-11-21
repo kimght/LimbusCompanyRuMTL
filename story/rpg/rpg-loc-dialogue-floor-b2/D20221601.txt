@@ -1,17 +1,17 @@
-﻿# Original: It's a sky-blue dye with a particularly pure hue.
+﻿# Narrator: It's a sky-blue dye with a particularly pure hue.
 Повествователь: Это небесно-голубой краситель особенно чистого оттенка.
 
-# Original: A note beside it reads, "Dye under testing. If you intend to use it, take only a little..."
+# Narrator: A note beside it reads, "Dye under testing. If you intend to use it, take only a little..."
 Повествователь: На записке рядом написано: «Краситель на стадии испытаний. Если собираетесь им воспользоваться, возьмите лишь немного...»
 
-# Original: ... Not bad. It has some aesthetic value.
+# Ryōshū: ... Not bad. It has some aesthetic value.
 Рёшу: ... Недурно. Есть в нём некоторая эстетическая ценность.
 
-# Original: No eyeball payment appears to be required. It should be okay to requisition a small sample.
+# Outis: No eyeball payment appears to be required. It should be okay to requisition a small sample.
 Отис: По всей видимости, плата глазными яблоками не требуется. Полагаю, допустимо реквизировать небольшой образец.
 
-# Original: <Let's fill just one container, Meursault.>
+# Dante: <Let's fill just one container, Meursault.>
 Данте: <Давай наполним только одну ёмкость, Мерсо.>
 
-# Original: Obtained a sample of sky-blue dye.
+# Narrator: Obtained a sample of sky-blue dye.
 Повествователь: Получен образец небесно-голубого красителя.

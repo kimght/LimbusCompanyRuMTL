@@ -1,257 +1,257 @@
-﻿# Original: There appear to be no more signs of the ex-soldiers from this point onward.
+﻿# Ishmael: I don't see any signs of those ex-soldiers around here or up ahead.
 Измаил: С этого момента, я больше не вижу следов бывших солдат.
 
-# Original: The commander did warn us not to go further…
+# Sinclair: The commander did warn us not to go further...
 Синклер: Он предупреждал нас не идти глубже…
 
-# Original: As we proceeded, we discovered bodies that seemed to have been there for quite some time.
+# Narrator: As we proceeded, we discovered bodies that seemed to have been here for quite some time.
 Рассказчик: Теперь мы видели лишь старые трупы.
 
-# Original: These are our… no, L Corp’s employees…
+# Yuri: They're our— I mean, L Corp.’s employees...
 Юри: Это тела наш… Т-точнее, сотрудников корпорации «Лоботомия»…
 
-# Original: I see traces of blunt instruments. All the bodies share them, in fact.
+# Yi Sang: I see traces of blunt instruments. All the bodies share them, in fact.
 И Сан: Следы удара тупым предметом. К тому же, у каждого.
 
-# Original: A management report… This document contains instructions for keeping Abnormalities in check.
+# Yuri: A management report... This document contains instructions for keeping Abnormalities in check.
 Юри: Записи наблюдения… Документ, в котором пишут, как работать с аномалией.
 
-# Original: Normally, employees tasked with catering to Abnormalities memorize the instructions to the point of reciting them flawlessly… They don’t usually carry notes like these.
+# Yuri: But employees tasked with managing an Abnormality usually memorize the instructions perfectly, down to each minute detail... They wouldn't have needed these. So why...?
 Юри: Обычно, если сотрудник работает с аномалиями, он запоминает инструкции так, что может рассказать их наизусть без запинки… Носить их с собой нет никакого смысла.
 
-# Original: I dare suspect that no remaining employees had the necessary information when an Abnormality breached…
+# Yi Sang: I daresay none of them had the necessary information when the Abnormality escaped...
 И Сан: Полагаю, никто из выживших не знал, что делать с аномалией, когда та совершила побег…
 
-# Original: …Hmh.
+# Heathcliff: ... Hmh.
 Хитклиф: …Хм-м.
 
-# Original: If the eggs weren’t moved into containment yet… that could be the case.
+# Yuri: If the eggs weren’t moved into containment yet... that could be the case.
 Юри: Если никто не успел отнести яйцо в камеру содержания… Возможно, вы правы.
 
-# Original: <There are way too many corpses here.>
+# Dante: <There are way too many corpses here.>
 Данте: <Тут как-то слишком много тел.>
 
-# Original: What kind of Abnormality could have massacred all these employees―
+# Ishmael: What kind of Abnormality could have massacred all these people...?
 Измаил: Что за аномалия могла устроить резню со столькими сотрудниками?…
 
-# Original: Wait… What’s this smell?
+# Ishmael: Hang on... What’s that smell?
 Измаил: Постойте… Что это за запах?
 
-# Original: …You see, our Office purchased an expensive device the other day.
+# Hopkins: ... You see, our Office purchased a rather expensive gear the other day.
 Хопкинс: …Видите ли, как-то раз, наш офис купил весьма недешёвое оборудование.
 
-# Original: What’re you on about?
+# Heathcliff: What's this bloke on about?
 Хитклиф: Что ты там булькаешь?
 
-# Original: Sources suggested that toxin levels started to rise after a certain floor.
+# Hopkins: Sources suggested that toxin levels will begin to rise after a certain floor.
 Хопкинс: Слышал, чем ниже спускаешься — тем токсичней становится среда.
 
-# Original: Uh, I’ve been bleeding from my ears a bit~ Is this okay?
+# Rodion: Uh, I’ve been bleeding from my ears for a while now~ should I be worried?
 Родион: Эй, у меня уши немного кровоточат~ Это норма?
 
-# Original: No battle is without adversi― Pfehgh, gahf! Khoff!
+# Don Quixote: No battle is fought without adversi― Pfehgh, blegh! *hack*
 Дон Кихот: Быть не может битвы без тру… Кха, кх-ха! КХАК!
 
-# Original: I was told that continued exposure to it may cause bleeding, like that.
+# Hopkins: I was also told that continued exposure may cause bleeding.
 Хопкинс: И ещё, продолжительное вдыхание этих токсинов вызывает обильное кровотечение.
 
-# Original: Nhg… How are you so fine, though?
+# Rodion: Ngh... How come you're okay, though?
 Родион: Гх… И почему ты тогда в порядке?
 
-# Original: This is… It’s the anti-Abnormality gas grenade supplied to employees.
+# Yuri: This is... It’s the anti-Abnormality gas grenade supplied to employees.
 Юри: Это… токсичные газовые шашки, которые выдавались для усмирения аномалий.
 
-# Original: One must’ve… Cough… Gone off… Somewhere between the bodies here…
+# Yuri: One must’ve... *cough* gone off... somewhere among the bodies here...
 Юри: Возможно… Одна лежала среди тел и… Кха… Сработала…
 
-# Original: True, the toxicity levels do appear to be intense around this area.
+# Hopkins: Yes. It seems the toxicity level is pretty high around this area.
 Хопкинс: И правда, уровень токсинов на этом этаже высок.
 
-# Original: Hopkins had put on a gas mask before we noticed.
+# Narrator: Hopkins had put on a gas mask before we noticed.
 Рассказчик: Прежде чем мы поняли, что произошло, на лице Хопкинса уже был надет противогаз.
 
-# Original: Hey now, what about us?
+# Rodion: Hey now, what about us?
 Родион: Что? Почему у нас нет этого?
 
-# Original: We weren’t granted any additional supplies.
+# Faust: We weren’t granted any additional supplies.
 Фауст: Нам не выдали никаких запасов.
 
-# Original: You slippery rat, you knew all this time? You’re not getting away with… Ngh…
+# Heathcliff: You slippery rat, you knew about this? Bloody scum, that's what you ar— Ngh...
 Хитклиф: То есть, ты с самого начала знал? Ах ты сраный содо… Кха…
 
-# Original: Heathcliff stopped mid-sentence and fell to one knee.
+# Narrator: Heathcliff broke off mid-sentence and dropped to one knee.
 Рассказчик: Хитклиф упал на колено, так и не договорив.
 
-# Original: Your blood flow will quicken if you’re agitated. In other words, the toxin will spread faster.
+# Faust: Elevated emotional states accelerate blood flow. In other words, the toxin will spread faster.
 Фауст: При сильных эмоциях кровь течёт быстрее, разнося по организму токсины.
 
-# Original: Try to remain calm, minimize movement, and breathe at regular intervals.
+# Faust: Try to remain calm, minimize movement, and breathe at regular intervals.
 Фауст: Дышите как можно медленнее, и не делайте резких движений.
 
-# Original: Hopkins… Why… Cough. Why didn’t you tell me about this?
+# Yuri: Hopkins... Why... *cough* Why didn’t you warn me?
 Юри: Мистер Хопкинс… Почему… Кхак, вы не сказали мне заранее?
 
-# Original: Oh, I’ve got a question for you too, Yuri.
+# Hopkins: Oh, I’ve got a question for you too, Yuri.
 Хопкинс: О, у меня тоже есть к тебе вопрос, Юри.
 
-# Original: Why would I make our Office waste our precious funds on expensive gadgets for dead weight like you to use?
+# Hopkins: Why would I make our Office squander its precious funds on expensive gadgets for a dead weight like you to waste?
 Хопкинс: Зачем Офису отдавать дорогостоящее оборудование шавке павшего Крыла, что и малейшего внимания не стоит?
 
-# Original: ……
+# Yuri: ......
 Юри: ……
 
-# Original: If we’re being real, it’s a miracle that you managed to join us in the first place.
+# Hopkins: Let's be real. It's a miracle that you managed to join us in the first place.
 Хопкинс: По правде говоря, чудо, что тебя вообще взяли в наш офис.
 
-# Original: Maybe Aya took pity and gave you special treatment… but she’s gone now, so who cares?
+# Hopkins: Aya may have taken a liking to you, enough to give you special treatment... But now that she's dead, who gives a damn?
 Хопкинс: Может, Ая и считала тебя милашкой, и относилась к тебе иначе, но… Пх, да какая сейчас разница, если она уже подохла?
 
-# Original: Sneaky blighter… Is that how you want to live…
+# Heathcliff: Sneaky blighter... How do you live with yourself...?
 Хитклиф: Трусливый сукин сын… И вот так ты собираешься жить…
 
-# Original: Don’t be silly, everything’s fair game for a Fixer.
+# Hopkins: Don’t be silly, everything’s fair game for a Fixer.
 Хопкинс: Не смеши меня, для корректировщика всё честно.
 
-# Original: Hearing that the Red Gaze had company tickled my curiosity, but as it turns out…
+# Hopkins: Hearing that the Red Gaze had company tickled my curiosity, but as it turns out...
 Хопкинс: Я так ждал момента, когда увижу, с кем путешествует Красный взор, но, как оказалось…
 
-# Original: You were just a bunch of ragtag lunatics who thought it’d be a good idea to walk straight into these facilities with zero prep.
+# Hopkins: You were just a ragtag band of lunatics who thought it’d be a good idea to waltz right into these death traps without even a bit of research.
 Хопкинс: Вы — лишь свора сумасшедших, на полном серьёзе решивших приползти к нам без подготовки.
 
-# Original: What a sick joke… Can’t do anything but watch…
+# Heathcliff: Can't believe... we've gotta let that tosser carry on...
 Хитклиф: Стоять и смотреть на это… Поверить не могу…
 
-# Original: Feeling the ire towards him, Hopkins backed away and scurried to the exit.
+# Narrator: Picking up on the hostility, Hopkins backed off and made a quick dash for the exit.
 Рассказчик: Видимо, почуяв убийственную ауру, Хопкинс быстро отшагнул к выходу.
 
-# Original: Well, at least I managed to grab an armful of Enkephalin thanks to you.
+# Hopkins: Well, at least I managed to grab an armful of Enkephalin thanks to you.
 Хопкинс: Благодаря вашим стараниям, я успел нахапать достаточно Энкефалина.
 
-# Original: I’ll write in my report that you all went missing, ‘cause “suffocated to death” is just too embarrassing.
+# Hopkins: I’ll write in my report that you all went missing, ‘cause “death by asphyxiation” is just too embarrassing.
 Хопкинс: Отрапортую, что вы пропали без вести, а не задохнулись. Иначе будет так неловко.
 
-# Original: Ta-ta.
+# Hopkins: Ta-ta.
 Хопкинс: Та-да.
 
-# Original: ……
+# Yuri: ......
 Юри: ……
 
-# Original: Yuri slumped to the floor, watching blood pour from her nose to her hands.
+# Narrator: Yuri slumped to the floor, watching blood pour from her nose to her hands.
 Рассказчик: Юри опустилась на пол, глядя на то, как из её носа прямо на руки обильно течёт кровь.
 
-# Original: And she’s not the only one. Rodya, Heathcliff, and the other Sinners are suffering from blood loss too.
+# Narrator: And she wasn't the only one. Rodya, Heathcliff, and the other Sinners were writhing in pain as blood gushed out of them.
 Рассказчик: И не только она. Родя, Хитклиф и остальные грешники тоже истекали кровью.
 
-# Original: <Gregor?>
+# Dante: <Gregor?>
 Данте: <Грегор?>
 
-# Original: Tsk, I took this with me so you could have something to remember her by…
+# Gregor: Tsk, I took this with me so you could have something to remember her by...
 Грегор: Тц, хотел отдать это позже, чисто как дань памяти…
 
-# Original: He was holding the same type of gas mask as the one Hopkins wore.
+# Narrator: He was holding the same type of gas mask as the one Hopkins wore.
 Рассказчик: В его руке лежал противогаз, такой же, как и у Хопкинса.
 
-# Original: But why…
+# Yuri: But why...
 Юри: Но почему…
 
-# Original: Heard Aya—cough—gave you special treatment, didn’t she…? This is as good as yours then.
+# Gregor: So Miss Aya, she— *cough* —looked after you, huh...? This is as good as yours, then.
 Грегор: Слышал, Ая особенно к тебе отно… Кха… силась… Так что теперь это твоё.
 
-# Original: As for our unprepared band of lunatics… we do have a way out. Don’t worry about us.
+# Gregor: As for our unprepared band of lunatics... we do have a way out. Don’t worry about us.
 Грегор: Что до сумасшедших без подготовки… У нас есть свой козырь, так что не бойся за нас.
 
-# Original: Coughing up blood, Yuri put on the mask.
+# Narrator: Coughing up blood, Yuri put on the mask.
 Рассказчик: Откашляв кровь, Юри надела противогаз.
 
-# Original: …I know he’s right.
+# Yuri: ... I know he’s right.
 Юри: …Я знаю.
 
-# Original: I know earning recognition from an Office of strangers is a hard thing to do, even if I take on all kinds of errands day and night.
+# Yuri: I know it's hard for someone without connections like myself to be appreciated by an Office, no matter how many errands I run for them all day, all night.
 Юри: Без связей в офисе нелегко получить расположение к себе, даже если будешь горбатиться день и ночь.
 
-# Original: There were only 3 minutes left until the branch was locked down…
+# Yuri: There were only 3 minutes left until the branch was locked down...
 Юри: Оставалось три минуты до полной изоляции филиала…
 
-# Original: [INITIATING SITE BURIAL.]
+# Announcement: [INITIATING SITE BURIAL.]
 Рассказчик: [ЗАПУЩЕН ПРОТОКОЛ ЗАХОРОНЕНИЯ ОБЪЕКТА.]
 
-# Original: The doors were about to close on me.
+# Yuri: The doors were about to close on me.
 Юри: Дверь закрывалась прямо передо мной.
 
-# Original: [ENERGY TRANSFER IS 85% COMPLETE.]
+# Announcement: [ENERGY TRANSFER IS 85% COMPLETE.]
 Рассказчик: [ПЕРЕДАЧА ЭНЕРГИИ ЗАВЕРШЕНА НА 85%.]
 
-# Original: Yuri, don’t leave me behind! Yuri!
+# Alex: Yuri, don’t leave me behind! Yuri!
 Рассказчик: Юри, не оставляй меня! ЮРИ!
 
-# Original: So what else am I supposed to do?
+# Yuri: So what was I supposed to do?
 Юри: Но что мне тогда делать?
 
-# Original: Is it so wrong that I survived?
+# Yuri: Is it so wrong that I survived?
 Юри: Разве я согрешила, выжив?
 
-# Original: Should I have been buried alive alongside my coworkers?
+# Yuri: Should I have been buried alive alongside my coworkers?
 Юри: Неужели мне надо было остаться похороненной со своими коллегами…
 
-# Original: When the whole building was going under, all so the Abnormalities won’t escape?
+# Yuri: The whole building was being locked down just to keep the Abnormalities from getting out!
 Юри: Пока весь объект закрывается, чтобы не выпустить аномалий в Город?
 
-# Original: Khoff… It is a sin. At least down here.
+# Gregor: *wheeze* It is a sin. Down here, it is.
 Грегор: Кха… Да, это грех. По крайней мере, здесь.
 
-# Original: Kahoff, kahf. That stings a little, Gregor…
+# Ishmael: *cough* *hack* That does sting a bit, Gregor...
 Измаил: Кха, кха. Это болезненные слова, Грегор…
 
-# Original: Standing astounded, I snapped back to reality and checked on the Sinners.
+# Narrator: I stood there blankly for a moment, then snapped back and looked over at the Sinners.
 Рассказчик: Стоя в изумлении, я наконец пришёл в себя и осмотрел грешников.
 
-# Original: Half of them had already passed away on the floor, and Ishmael’s head drooped just after she said her last words.
+# Narrator: Half of them were already dead on the ground, and Ishmael’s head drooped just after she said her last words.
 Рассказчик: Половина грешников уже бездыханно лежала на полу, и силы покинули Измаил, только она договорила.
 
-# Original: A sin…
+# Yuri: A sin...
 Юри: Грех…
 
-# Original: But, pah… So what, buddy…
+# Gregor: But... *wheeze* so what, buddy...
 Грегор: Но… Кха… И что с того…
 
-# Original: You’ve got to live on like it’s nobody’s business.
+# Gregor: You’ve got to live on like it’s nobody’s business.
 Грегор: Ты должна продолжать выживать, не чувствуя за это стыда.
 
-# Original: Cough. Laying guilt on yourself over spilt milk… will wear your heart out…
+# Gregor: *cough* Laying guilt on yourself over spilled milk... will wear your heart out...
 Грегор: Кхак… Винить себя за то, что уже прошло… Быстрее износишь своё сердце…
 
-# Original: ……
+# Yuri: ......
 Юри: ……
 
-# Original: With Gregor drawing his last breath, Yuri and I became the only surviving members standing in the area.
+# Narrator: Once Gregor drew his last breath, Yuri and I remained the only survivors.
 Рассказчик: В этот момент дыхание Грегора остановилось, и лишь мы с Юри остались единственными выжившими в коридоре.
 
-# Original: <Uhm… D-Don’t worry too much about us. I can take them back there and revive them.>
+# Dante: <Uhm... D-don’t worry too much about us. I can take them back there and revive them.>
 Данте: <Э… Слушай, ты сильно не беспокойся. Я могу воскресить их.>
 
-# Original: I knew mechanical ticking was all Yuri could hear, but I did my best to communicate my message to her nonetheless.
+# Narrator: I knew all Yuri could hear was the mechanical ticking, but I did my best to communicate my words to her nonetheless.
 Рассказчик: Я понимал, что Юри услышит лишь механическое тиканье, но сделал всё, что мог, чтобы передать ей свои мысли.
 
-# Original: …I know.
+# Yuri: ... I know.
 Юри: …Я знаю.
 
-# Original: Yuri ended the conversation with not a word after.
+# Narrator: And she did not speak again for a while.
 Рассказчик: И после этого, Юри не произнесла ни единого слова.
 
-# Original: After a long period of awkward gloom, the toxic gas finally dispersed.
+# Narrator: After a long stretch of heavy, awkward gloom, the toxic gas finally cleared.
 Рассказчик: Молчание долго царствовало посреди коридора, и во мрачной неловкости газ наконец развеялся.
 
-# Original: …Looks like it’s okay now.
+# Yuri: ... Looks like it’s okay now.
 Юри: …Думаю, теперь всё хорошо.
 
-# Original: <Hmm? Oh, yeah.>
+# Dante: <Hmm? Oh, yeah.>
 Данте: <Э-эм? Ам, хорошо.>
 
-# Original: I’ll give you a hand. Let’s go bring your people back to life.
+# Yuri: I’ll give you a hand. Let’s go bring your people back to life.
 Юри: Я помогу. Давайте поскорее вернём их к жизни.
 
-# Original: Saying that, Yuri took the gas mask off and calmly carried the Sinners on her shoulders, one by one.
+# Narrator: With that, Yuri took off her gas mask and calmly carried the Sinners on her shoulders, one by one.
 Рассказчик: Сняв противогаз, Юри спокойно начала переносить грешников на своей спине, одного за другим.
 
-# Original: Unsure what to say for her, I remained quiet.
+# Narrator: Unsure how to respond to the look on her face, I decided to keep quiet.
 Рассказчик: Не зная, что и сказать, я решил сохранить молчание.

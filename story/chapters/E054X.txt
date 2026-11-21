@@ -1,485 +1,485 @@
-﻿# Original: I guess the traffic sucks no matter which Nest we go to...
+﻿# Rodion: I guess the traffic sucks no matter which Nest we go to...
 Родион: Похоже, пробки достают нас в любом Гнезде, куда бы мы ни отправились...
 
-# Original: We've been traveling at a snail's pace through the extreme congestion of the Nest for several days now. Rodya, clearly affected by this boredom, sighed and muttered.
+# Narrator: We've been traveling at a snail's pace through the extreme congestion of the Nest for several days now. Rodya, clearly affected by this boredom, sighed and muttered.
 Рассказчик: Мы уже несколько дней ползем как улитки через чудовищные заторы Гнезда. Родя, явно утомленная этой скукой, вздохнула и пробормотала.
 
-# Original: We've been through similar long periods of inactivity before, but boredom isn't something one could easily get used to. I suppose it became a part of my job to listen to the Sinners complain about the slow pace of our travel.
+# Narrator: We've been through similar long periods of inactivity before, but boredom isn't something one could easily get used to. I suppose it became a part of my job to listen to the Sinners complain about the slow pace of our travel.
 Рассказчик: Мы и раньше проходили через подобные длительные периоды бездействия, но к скуке не так-то просто привыкнуть. Полагаю, частью моей работы стало выслушивание жалоб Грешников на медленное продвижение.
 
-# Original: <How much longer until the T Corp. immigration checkpoint?>
+# Dante: <How much longer until the T Corp. immigration checkpoint?>
 Данте: <Сколько ещё до иммиграционного контрольно-пропускного пункта Корпорации Т.?>
 
-# Original: My only option is to give them a reminder of how far we are from our destination.
+# Narrator: My only option is to give them a reminder of how far we are from our destination.
 Рассказчик: Мой единственный вариант — напомнить им, как далеко мы находимся от пункта назначения.
 
-# Original: Considering that we will be on standby for approximately a day at our next stop, and taking into account various other stops we will be making en route... our estimated time of arrival is in three days.
+# Faust: Considering that we will be on standby for approximately a day at our next stop, and taking into account various other stops we will be making en route... our estimated time of arrival is in three days.
 Фауст: Учитывая, что мы будем находиться в режиме ожидания приблизительно день на следующей остановке, а также принимая во внимание различные другие остановки, которые мы сделаем по пути... наше расчетное время прибытия — через три дня.
 
-# Original: Aww...
+# Rodion: Aww...
 Родион: Ууу...
 
-# Original: It's not like we're traveling very far, but with this awful traffic... it feels way further than it really is.
+# Gregor: It's not like we're traveling very far, but with this awful traffic... it feels way further than it really is.
 Грегор: Мы же вроде не так далеко едем, но из-за этих ужасных пробок... кажется, будто путь гораздо длиннее, чем на самом деле.
 
-# Original: Gregor's right... it didn't seem like the City was *that* big.
+# Narrator: Gregor's right... it didn't seem like the City was *that* big.
 Рассказчик: Грегор прав... не похоже, что Город *настолько* большой.
 
-# Original: Maybe there's something to these inevitable, overly long travel times. Something I'm yet to understand.
+# Narrator: Maybe there's something to these inevitable, overly long travel times. Something I'm yet to understand.
 Рассказчик: Может быть, в этих неизбежных, чрезмерно долгих путешествиях есть что-то, чего я ещё не понимаю.
 
-# Original: I guess driving around in a large bus through the narrow Backstreets is what's taking us such a long time.
+# Ishmael: I guess driving around in a large bus through the narrow Backstreets is what's taking us such a long time.
 Измаил: Думаю, именно из-за того, что мы ездим на большом автобусе по узким Подворотням, у нас и уходит столько времени.
 
-# Original: I believe that it would have been faster to march on foot.
+# Outis: I believe that it would have been faster to march on foot.
 Отис: Полагаю, было бы быстрее идти пешим маршем.
 
-# Original: Yet what of our room and board?
+# Yi Sang: Yet what of our room and board?
 И Сан: Но что же станется с нашим кровом и пищей?
 
-# Original: Are you unaware that camping out in the open is a natural part of any long march?
+# Outis: Are you unaware that camping out in the open is a natural part of any long march?
 Отис: Разве вы не знаете, что ночевка под открытым небом — естественная часть любого длительного марша?
 
-# Original: ... Hey, officer Outis. Not everyone's been a soldier here.
+# Gregor: ... Hey, officer Outis. Not everyone's been a soldier here.
 Грегор: ... Эй, офицер Отис. Не все здесь были солдатами.
 
-# Original: A-and! If we're unlucky, we might even run into those terrifying Sw-Sweepers... before the break of dawn...
+# Sinclair: A-and! If we're unlucky, we might even run into those terrifying Sw-Sweepers... before the break of dawn...
 Синклер: И-и! Если нам не повезет, мы можем даже столкнуться с этими ужасными Чи-Чистильщиками... до начала рассвета...
 
-# Original: Even a partial mention their name drains all color from Sinclair's face... I remember what the Sinners once told me about them.
+# Narrator: Even a partial mention of their name drains all color from Sinclair's face... I remember what the Sinners once told me about them.
 Рассказчик: Даже частичное упоминание их имени лишает Синклера всех красок... Я вспомнил, что Грешники однажды рассказывали мне о них.
 
-# Original: That, before the break of dawn, there are these things called 'Sweepers' that sweeps up every 'trash' in the Backstreets.
+# Narrator: That, before the break of dawn, there are these things called 'Sweepers' that sweeps up every 'trash' in the Backstreets.
 Рассказчик: Что до рассвета есть существа, называемые "Чистильщиками", которые убирают весь "мусор" в Подворотнях.
 
-# Original: It's kinda terrifying how broad their definition of 'trash' can be. They call that hour 'the Night in the Backstreets'... or something like that.
+# Narrator: It's kinda terrifying how broad their definition of 'trash' can be. They call that hour 'the Night in the Backstreets'... or something like that.
 Рассказчик: Довольно пугающе, насколько широким может быть их определение "мусора". Они называют этот час "Ночью в Подворотнях"... или что-то в этом роде.
 
-# Original: This bus is one of the few vehicles recognized by the city as a residential vehicle, which means that we remain safe from the hands of Sweepers.
+# Faust: This bus is one of the few vehicles recognized by the city as a residential vehicle, which means that we remain safe from the hands of Sweepers.
 Фауст: Этот автобус является одним из немногих транспортных средств, признанных городом как жилое помещение, что означает, что мы остаемся в безопасности от рук Чистильщиков.
 
-# Original: Attempting to sleep outside the bus in the Backstreets would not permit a restful sleep. Instead, one would be forced to survive the onslaught of Sweepers for an hour in the early hours of dawn.
+# Faust: Attempting to sleep outside the bus in the Backstreets would not permit a restful sleep. Instead, one would be forced to survive the onslaught of Sweepers for an hour in the early hours of dawn.
 Фауст: Попытка спать вне автобуса в Подворотнях не позволила бы обрести спокойный сон. Вместо этого пришлось бы выживать под натиском Чистильщиков в течение часа, в ранние часы рассвета.
 
-# Original: Makes sense. Those Sweepers do steer clear of the residential areas, after all~
+# Rodion: Makes sense. Those Sweepers do steer clear of the residential areas, after all~
 Родион: Логично. Эти Чистильщики ведь действительно обходят стороной жилые районы~
 
-# Original: A slow yet safe travel by vehicle... or a fast yet high-risk march on foot... this is quite the strategic dilemma.
+# Outis: A slow yet safe travel by vehicle... or a fast yet high-risk march on foot... this is quite the strategic dilemma.
 Отис: Медленное, но безопасное путешествие на транспорте... или быстрый, но рискованный марш пешком... это весьма стратегическая дилемма.
 
-# Original: I do not believe that the latter option is up for consideration of any fellow...
+# Yi Sang: I do not believe that the latter option is up for consideration of any fellow...
 И Сан: Не думаю, что последний вариант подлежит рассмотрению кем-либо из товарищей...
 
-# Original: The bus is once again consumed by commotion...
+# Narrator: The bus is once again consumed by commotion...
 Рассказчик: Автобус снова охватывает суматоха...
 
-# Original: Haah.
+# Vergilius: Haah.
 Вергилий: Хаах.
 
-# Original: And into that commotion barged in the creak of an opening door and a familiar sigh.
+# Narrator: And into that commotion barged in the creak of an opening door and a familiar sigh.
 Рассказчик: И в эту суматоху вторглись скрип открывающейся двери и знакомый вздох.
 
-# Original: I understand that you all must be quite impatient. But we are precisely on schedule, so save your breaths and stop complaining.
+# Vergilius: I understand that you all must be quite impatient. But we are precisely on schedule, so save your breaths and stop complaining.
 Вергилий: Я понимаю, что вы все, должно быть, очень нетерпеливы. Но мы движемся строго по графику, так что берегите дыхание и прекратите жаловаться.
 
-# Original: By the looks on your faces, I would've been worrying about a mutiny if I didn't know better.
+# Vergilius: By the looks on your faces, I would've been worrying about a mutiny if I didn't know better.
 Вергилий: Судя по выражению ваших лиц, я бы беспокоился о мятеже, если бы не знал вас лучше.
 
-# Original: Those papers in your hand... new orders from the higher-ups?
+# Ishmael: Those papers in your hand... new orders from the higher-ups?
 Измаил: Эти бумаги в твоей руке... новые приказы от начальства?
 
-# Original: Vergilius was holding what appeared to be a bundle of freshly-printed paper.
+# Narrator: Vergilius was holding what appeared to be a bundle of freshly-printed paper.
 Рассказчик: Вергилий держал то, что выглядело как пачка свежеотпечатанной бумаги.
 
-# Original: This wasn't the first time something like this happened. Sometimes, after communicating in his room with the higher-ups of the company, he'd bring out few sheets of paper to bring us up to speed.
+# Narrator: This wasn't the first time something like this happened. Sometimes, after communicating in his room with the higher-ups of the company, he'd bring out few sheets of paper to bring us up to speed.
 Рассказчик: Это было не в первый раз. Иногда, после общения в своей комнате с руководством компании, он выносил несколько листов бумаги, чтобы ввести нас в курс дела.
 
-# Original: Yes. A new update.
+# Vergilius: Yes. A new update.
 Вергилий: Да. Новое обновление.
 
-# Original: Don't tell me we're going on another detour.
+# Heathcliff: Don't tell me we're going on another detour.
 Хитклиф: Только не говори, что мы снова отклоняемся от маршрута.
 
-# Original: I'll say that I'm quite done cleaning up these Distorted messes. Look, we have to get to—
+# Heathcliff: I'll say that I'm quite done cleaning up these Distorted messes. Look, we have to get to—
 Хитклиф: Скажу, что я уже сыт по горло уборкой этих искаженных беспорядков. Слушай, нам нужно добраться до—
 
-# Original: Stop whining like a petulant child.
+# Vergilius: Stop whining like a petulant child.
 Вергилий: Прекрати ныть как капризный ребенок.
 
-# Original: ... There won't be more detours until we reach our current destination.
+# Vergilius: ... There won't be more detours until we reach our current destination.
 Вергилий: ... Больше никаких отклонений не будет, пока мы не достигнем нашего текущего пункта назначения.
 
-# Original: Vergilius furrowed his brows, walked up to the front of the bus, and leaned against one of the first-row chairs. He began leisurely shuffling through the documents.
+# Narrator: Vergilius furrowed his brows, walked up to the front of the bus, and leaned against one of the first-row chairs. He began leisurely shuffling through the documents.
 Рассказчик: Вергилий нахмурился, подошел к передней части автобуса и облокотился на одно из кресел первого ряда. Он начал неторопливо перебирать документы.
 
-# Original: This is just an announcement. It says here that there will be changes to how your records of Abnormalities, Distortions, and Peccatula are categorized.
+# Vergilius: This is just an announcement. It says here that there will be changes to how your records of Abnormalities, Distortions, and Peccatula are categorized.
 Вергилий: Это просто объявление. Здесь говорится, что будут внесены изменения в то, как классифицируются ваши записи об Аномалиях, Искажениях и Пеккатулах.
 
-# Original: Huh...? Wait, so we gotta do a bunch of paperwork?
+# Rodion: Huh...? Wait, so we gotta do a bunch of paperwork?
 Родион: А...? Погоди, так нам придется заполнять кучу бумажек?
 
-# Original: No. Once completed, your Observation Logs are all digitized and shared with the upper echelons of the company.
+# Faust: No. Once completed, your Observation Logs are all digitized and shared with the upper echelons of the company.
 Фауст: Нет. После завершения все ваши Журналы наблюдений оцифровываются и передаются высшему руководству компании.
 
-# Original: Of course, if the Observation Logs themselves need to be edited, there may be orders to make direct adjustments by hand. ... However, the categorization for each entity will be updated automatically. They are merely informing the Sinners of the upcoming changes.
+# Faust: Of course, if the Observation Logs themselves need to be edited, there may be orders to make direct adjustments by hand. ... However, the categorization for each entity will be updated automatically. They are merely informing the Sinners of the upcoming changes.
 Фауст: Конечно, если сами Журналы наблюдений нуждаются в редактировании, могут поступить распоряжения о внесении изменений вручную. ... Однако, категоризация для каждой сущности будет обновляться автоматически. Они просто информируют Грешников о предстоящих изменениях.
 
-# Original: ... It is nice to have someone else do the explaining for once. She is right.
+# Vergilius: ... It is nice to have someone else do the explaining for once. She is right.
 Вергилий: ... Приятно, когда кто-то другой занимается объяснениями. Она права.
 
-# Original: I presume that this has aught to do with the new types of Peccatula that we have encountered afore.
+# Yi Sang: I presume that this has aught to do with the new types of Peccatula that we have encountered afore.
 И Сан: Полагаю, сие имеет отношение к новым типам Пеккатул, с коими мы встречались прежде.
 
-# Original: Yes, but that isn't all.
+# Vergilius: Yes, but that isn't all.
 Вергилий: Да, но это не все.
 
-# Original: Vergilius closed his eyes wearily and lightly folded the papers in his hands. He called out to the two Sinners.
+# Narrator: Vergilius closed his eyes wearily and lightly folded the papers in his hands. He called out to the two Sinners.
 Рассказчик: Вергилий устало закрыл глаза и слегка сложил бумаги в руках. Он обратился к двум Грешникам.
 
-# Original: Yi Sang. Ishmael.
+# Vergilius: Yi Sang. Ishmael.
 Вергилий: И Сан. Измаил.
 
-# Original: He was pointing at Ishmael and Yi Sang.
+# Narrator: He was pointing at Ishmael and Yi Sang.
 Рассказчик: Он указал на Измаил и И Сана.
 
-# Original: ... Yeah?
+# Ishmael: ... Yeah?
 Измаил: ... Да?
 
-# Original: You have called upon my name?
+# Yi Sang: You have called upon my name?
 И Сан: Вы воззвали к моему имени?
 
-# Original: I'll leave it to you two model students to explain the contents of these documents.
+# Vergilius: I'll leave it to you two model students to explain the contents of these documents.
 Вергилий: Я оставлю вам двоим, образцовым ученикам, объяснение содержания этих документов.
 
-# Original: I don't feel like... I'm up to the task of explaining what's on this paper to all of you. Haah.
+# Vergilius: I don't feel like... I'm up to the task of explaining what's on this paper to all of you. Haah.
 Вергилий: Я не чувствую... что способен объяснить всем вам, что написано на этой бумаге. Хаах.
 
-# Original: With that, Vergilius pretty much shoved the paper in Ishmael's hands before taking a seat in the front row of the bus.
+# Narrator: With that, Vergilius pretty much shoved the paper in Ishmael's hands before taking a seat in the front row of the bus.
 Рассказчик: С этими словами Вергилий практически впихнул бумаги в руки Измаил, прежде чем сесть в первом ряду автобуса.
 
-# Original: Did he just dump his responsibility onto us?
+# Ishmael: Did he just dump his responsibility onto us?
 Измаил: Он что, только что свалил на нас свою ответственность?
 
-# Original: Ishmael didn't seem too happy about this sudden turn of events. Still, she opened the documents and began reading.
+# Narrator: Ishmael didn't seem too happy about this sudden turn of events. Still, she opened the documents and began reading.
 Рассказчик: Измаил, похоже, не слишком обрадовалась этому внезапному повороту событий. Тем не менее, она открыла документы и начала читать.
 
-# Original: I can never tell if he actually doesn't care about us or if he just naturally comes off as a cold person... sigh. So what does the thing say, Ishy?
+# Rodion: I can never tell if he actually doesn't care about us or if he just naturally comes off as a cold person... sigh. So what does the thing say, Ishy?
 Родион: Я никогда не могу понять, действительно ли ему на нас наплевать, или он просто от природы производит впечатление холодного человека... вздох. Так что там говорится, Изя?
 
-# Original: Gimme a sec. So—
+# Ishmael: Gimme a sec. So—
 Измаил: Дай мне секунду. Итак—
 
-# Original: Does it say anything new about the Abnormalities?
+# Sinclair: Does it say anything new about the Abnormalities?
 Синклер: Там есть что-нибудь новое об Аномалиях?
 
-# Original: ... Looks like these documents are from the LCD. The Sender address says—
+# Ishmael: ... Looks like these documents are from the LCD. The Sender address says—
 Измаил: ... Похоже, эти документы из LCD. В адресе отправителя указано—
 
-# Original: Ooh!! LCD is the department that contacted Manager Esquire, is it not?
+# Don Quixote: Ooh!! LCD is the department that contacted Manager Esquire, is it not?
 Дон Кихот: Ооо!! LCD — это отдел, который связывался с Сэром Менеджером, не так ли?
 
-# Original: Ezra... was it? I still vividly remember her chaotic, bubbly voice coming through the radio.
+# Narrator: Ezra... was it? I still vividly remember her chaotic, bubbly voice coming through the radio.
 Рассказчик: Эзра... кажется? Я все ещё отчетливо помню ее хаотичный, бурлящий голос, доносившийся из радио.
 
-# Original: The former L Corp—
+# Ishmael: The former L Corp—
 Измаил: Бывшая Корпорация Лоботомия—
 
-# Original: B.A.H.
+# Ryōshū: B.A.H.
 Рёшу: П.К.С.
 
-# Original: The bus begins to fill with the familiar hectic buzz once again.
+# Narrator: The bus begins to fill with the familiar hectic buzz once again.
 Рассказчик: Автобус снова начинает наполняться знакомым суматошным гулом.
 
-# Original: Well, if you would allow me to—
+# Yi Sang: Well, if you would allow me to—
 И Сан: Что ж, если позволите мне—
 
-# Original: ... Miss Ishmael?
+# Yi Sang: ... Miss Ishmael?
 И Сан: ... Госпожа Измаил?
 
-# Original: …….
+# Ishmael: …….
 Измаил: …….
 
-# Original: Yi Sang chimed in to help with Ishmael's explanations of the documents, but...
+# Narrator: Yi Sang chimed in to help with Ishmael's explanations of the documents, but...
 Рассказчик: И Сан вмешался, чтобы помочь Измаил с объяснением документов, но...
 
-# Original: This is... exactly why... I'm the only one who ever reads the guides...
+# Ishmael: This is... exactly why... I'm the only one who ever reads the guides...
 Измаил: Вот... именно поэтому... я единственная, кто всегда читает инструкции...
 
-# Original: ... I can see veins starting to pop in Ishmael's fingers. At this rate, she's going to drop the documents in favor of her mace...
+# Narrator: ... I can see veins starting to pop in Ishmael's fingers. At this rate, she's going to drop the documents in favor of her mace...
 Рассказчик: ... Я вижу, как на пальцах Измаил начинают вздуваться вены. При таком раскладе она вот-вот бросит документы в пользу своей булавы...
 
-# Original: <W-wait, Ishmael! I got this, calm down!>
+# Dante: <W-wait, Ishmael! I got this, calm down!>
 Данте: <П-подожди, Измаил! Я разберусь, успокойся!>
 
-# Original: I hurried over to Ishmael and practically hung onto the documents in her hands.
+# Narrator: I hurried over to Ishmael and practically hung onto the documents in her hands.
 Рассказчик: Я поспешил к Измаил и практически повис на документах в ее руках.
 
-# Original: ... We nearly tore the bundle of documents in half, but she quickly gave up and loosened her grip.
+# Narrator: ... We nearly tore the bundle of documents in half, but she quickly gave up and loosened her grip.
 Рассказчик: ... Мы чуть не разорвали пачку документов пополам, но она быстро сдалась и ослабила хватку.
 
-# Original: <Ryōshū, Outis? Please keep Don Quixote and Heathcliff quiet while I take care of this.>
+# Dante: <Ryōshū, Outis? Please keep Don Quixote and Heathcliff quiet while I take care of this.>
 Данте: <Рёшу, Отис? Пожалуйста, держите Дон Кихот и Хитклифа в тишине, пока я разбираюсь с этим.>
 
-# Original: Oh yes. This'll be fun.
+# Ryōshū: Oh yes. This'll be fun.
 Рёшу: О да. Это будет весело.
 
-# Original: <... Without killing them or beating them up, please.>
+# Dante: <... Without killing them or beating them up, please.>
 Данте: <... Только без убийств и избиений, пожалуйста.>
 
-# Original: ... B.A.H.
+# Ryōshū: ... B.A.H.
 Рёшу: ... П.К.С.
 
-# Original: Ryōshū slowly lowered Don Quixote's lance she'd picked up.
+# Narrator: Ryōshū slowly lowered Don Quixote's lance she'd picked up.
 Рассказчик: Рёшу медленно опустила копье Дон Кихот, которое она подняла.
 
-# Original: <Alright, then. If you have any questions while Ishmael reads from the document, raise your hands to be recognized. Yi Sang, Faust, you guys don't need to raise your hands to speak, so please chime in if there are any details you can elaborate on.>
+# Dante: <Alright, then. If you have any questions while Ishmael reads from the document, raise your hands to be recognized. Yi Sang, Faust, you guys don't need to raise your hands to speak, so please chime in if there are any details you can elaborate on.>
 Данте: <Хорошо, тогда. Если у кого-то возникнут вопросы, пока Измаил читает документ, поднимайте руки, чтобы вас заметили. И Сан, Фауст, вам не нужно поднимать руки, чтобы говорить, так что, пожалуйста, вмешивайтесь, если есть какие-то детали, которые вы можете пояснить.>
 
-# Original: Understood.
+# Faust: Understood.
 Фауст: Принято.
 
-# Original: Very well.
+# Yi Sang: Very well.
 И Сан: Тогда хорошо.
 
-# Original: <Rodya, if anyone tries to speak out of turn, please smack them lightly in the head. If you do good, I'll make sure to order you extra desserts during our team dinner.>
+# Dante: <Rodya, if anyone tries to speak out of turn, please smack them lightly in the head. If you do good, I'll make sure to order you extra desserts during our team dinner.>
 Данте: <Родя, если кто-то попытается говорить без очереди, пожалуйста, слегка стукни их по голове. Если справишься хорошо, я обязательно закажу тебе дополнительный десерт во время нашего командного ужина.>
 
-# Original: *Whistle* You sure know how to motivate people, Dante!
+# Rodion: *Whistle* You sure know how to motivate people, Dante!
 Родион: *Свист* Ты точно знаешь, как мотивировать людей, Данте!
 
-# Original: What... what an impressive growth of leadership capabilities, Executive Manager...!
+# Outis: What... what an impressive growth of leadership capabilities, Executive Manager...!
 Отис: Какой... какой впечатляющий рост лидерских способностей, Исполнительный Менеджер...!
 
-# Original: Alrighty then! First bonk goes to~
+# Rodion: Alrighty then! First bonk goes to~
 Родион: Ладненько! Первый *бонк* достается~
 
-# Original: Wait, wait! This wasn't—
+# Outis: Wait, wait! This wasn't—
 Отис: Стой, стой! Это не—
 
-# Original: A few minutes later...
+# Narrator: A few minutes later...
 Рассказчик: Несколько минут спустя...
 
-# Original: After a quick commotion, I found the situation settled enough to return the documents to Ishmael's hands.
+# Narrator: After a quick commotion, I found the situation settled enough to return the documents to Ishmael's hands.
 Рассказчик: После небольшой суматохи я обнаружил, что ситуация достаточно успокоилась, чтобы вернуть документы в руки Измаил.
 
-# Original: <Then... I'll leave it to you.>
+# Dante: <Then... I'll leave it to you.>
 Данте: <Тогда... я оставляю это тебе.>
 
-# Original: Ahm, hm. So the former L Corp., also known as the Lobotomy Corporation, used to contain and manage the Abnormalities that we've faced in their branches.
+# Ishmael: Ahm, hm. So the former L Corp., also known as the Lobotomy Corporation, used to contain and manage the Abnormalities that we've faced in their branches.
 Измаил: Ахм, хм. Итак, бывшая Корп. L, также известная как Корпорация Лоботомия, раньше содержала и управляла Аномалиями, с которыми мы сталкивались в их филиалах.
 
-# Original: Even taking into account that their strengths were suppressed by the Golden Boughs, there was a pretty significant difference between their Risk Level categorizations and the actual risk involved in facing them.
+# Ishmael: Even taking into account that their strengths were suppressed by the Golden Boughs, there was a pretty significant difference between their Risk Level categorizations and the actual risk involved in facing them.
 Измаил: Даже принимая во внимание, что их силы были подавлены Золотыми Ветвями, была замечена довольно значительная разница между их категоризацией Уровня Риска и фактическим риском, связанным со столкновением с ними.
 
-# Original: Other employees and the higher-ups of Limbus Company also apparently felt that something was familiar yet off. And that's why they investigated this issue through the LCD department.
+# Ishmael: Other employees and the higher-ups of Limbus Company also apparently felt that something was familiar yet off. And that's why they investigated this issue through the LCD department.
 Измаил: Другие сотрудники и руководство Компании Лимбус также, по-видимому, чувствовали, что какая-то информация сходится, но что-то не так. И поэтому они исследовали этот вопрос через отдел LCD.
 
-# Original: So far, there have been five categories of Risk Levels—
+# Ishmael: So far, there have been five categories of Risk Levels—
 Измаил: До сих пор существовало пять категорий Уровней Риска—
 
-# Original: Five? Aren't there only four of 'em?
+# Heathcliff: Five? Aren't there only four of 'em?
 Хитклиф: Пять? Разве их не четыре?
 
-# Original: Bonk!
+# Narrator: Bonk!
 Рассказчик: Бонк!
 
-# Original: Rodya punched Heathcliff in the crown of his head, and... he promptly slumped to the ground, out cold. Maybe it was the suddenness of the attack that did it...?
+# Narrator: Rodya punched Heathcliff in the crown of his head, and... he promptly slumped to the ground, out cold. Maybe it was the suddenness of the attack that did it...?
 Рассказчик: Родя ударила Хитклифа по макушке, и... он тут же рухнул на пол без сознания. Может быть, это из-за внезапности, атака так подействовала...?
 
-# Original: <... Y-you didn't kill him, did you?>
+# Dante: <... Y-you didn't kill him, did you?>
 Данте: <... Т-ты же его не убила, правда?>
 
-# Original: Nah, he'll be fiiine. It's Heath! It's not like I smacked him that hard.
+# Rodion: Nah, he'll be fiiine. It's Heath! It's not like I smacked him that hard.
 Родион: Не, с ним все будет в порядке. Это же Хит! Я же не так сильно его стукнула.
 
-# Original: Sinclair quietly raised his hand.
+# Narrator: Sinclair quietly raised his hand.
 Рассказчик: Синклер тихо поднял руку.
 
-# Original: All right, you can go ahead.
+# Ishmael: All right, you can go ahead.
 Измаил: Хорошо, можешь говорить.
 
-# Original: Ishmael nodded at Sinclair.
+# Narrator: Ishmael nodded at Sinclair.
 Рассказчик: Измаил кивнула Синклеру.
 
-# Original: W-well, I thought there were only four Risk Levels... ZAYIN, TETH, HE, and WAW... just like Heathcliff said.
+# Sinclair: W-well, I thought there were only four Risk Levels... ZAYIN, TETH, HE, and WAW... just like Heathcliff said.
 Синклер: Н-ну, я думал, что существует только четыре Уровня Риска... ZAYIN, TETH, HE и WAW... как и сказал Хитклиф.
 
-# Original: They're the only ones we've seen so far, yeah.
+# Ishmael: They're the only ones we've seen so far, yeah.
 Измаил: Это единственные, которые мы видели до сих пор, да.
 
-# Original: But according to these documents... the highest Risk Level category is labeled ALEPH.
+# Ishmael: But according to these documents... the highest Risk Level category is labeled ALEPH.
 Измаил: Но согласно этим документам... высшая категория Уровня Риска обозначается как ALEPH.
 
-# Original: Like I said earlier, there's a pretty significant disparity between their categorization standards and our experience with them in the field.
+# Ishmael: Like I said earlier, there's a pretty significant disparity between their categorization standards and our experience with them in the field.
 Измаил: Как я уже сказала ранее, существует довольно значительное несоответствие между их стандартами категоризации и нашим опытом столкновения с ними в поле.
 
-# Original: Which is why they're apparently planning to make overhauls to those standards. By Limbus Company's standards.
+# Ishmael: Which is why they're apparently planning to make overhauls to those standards. By Limbus Company's standards.
 Измаил: Именно поэтому они, по-видимому, планируют внести изменения в эти стандарты. По стандартам Компании Лимбус.
 
-# Original: …….
+# Meursault: …….
 Мерсо: …….
 
-# Original: Go ahead, Meursault.
+# Ishmael: Go ahead, Meursault.
 Измаил: Продолжай, Мерсо.
 
-# Original: I must inquire what exactly this 'overhaul' entails. Does this mean that the Abnormalities will be re-categorized within the preexisting framework of categorization? Or will additional Risk Level categories be created?
+# Meursault: I must inquire what exactly this 'overhaul' entails. Does this mean that the Abnormalities will be re-categorized within the preexisting framework of categorization? Or will additional Risk Level categories be created?
 Мерсо: Я должен спросить, что именно подразумевают под этим "изменением". Означает ли это, что Аномалии будут перекатегоризированы в рамках существующей системы категоризации? Или будут созданы дополнительные категории Уровней Риска?
 
-# Original: It... doesn't elaborate that far. But it says here that Lobotomy Corporation used each Abnormality's enkephalin production capability to categorize them into different Risk Levels.
+# Ishmael: It... doesn't elaborate that far. But it says here that Lobotomy Corporation used each Abnormality's enkephalin production capability to categorize them into different Risk Levels.
 Измаил: Это... не уточняется настолько глубоко. Но здесь говорится, что Корпорация Лоботомия использовала способность каждой Аномалии к производству энкефалина для категоризации их по разным Уровням Риска.
 
-# Original: Abnormalities with more complicated, difficult management conditions apparently produced more enkephalin. I guess the more complicated an Abnormality is, the harder they are to fight... that does line up with our own experiences. Sort of.
+# Ishmael: Abnormalities with more complicated, difficult management conditions apparently produced more enkephalin. I guess the more complicated an Abnormality is, the harder they are to fight... that does line up with our own experiences. Sort of.
 Измаил: Аномалии с более сложными, трудными условиями содержания, по-видимому, производили больше энкефалина. Полагаю, чем сложнее Аномалия, тем труднее с ней бороться... это в какой-то мере соответствует нашему собственному опыту.
 
-# Original: But it can hardly be said that it was flawless. Looks to me that they're trying to make these Risk Levels better reflect our own field experiences, which doesn't rule out the possibility of them adding more tiers to the preexisting ones.
+# Ishmael: But it can hardly be said that it was flawless. Looks to me that they're trying to make these Risk Levels better reflect our own field experiences, which doesn't rule out the possibility of them adding more tiers to the preexisting ones.
 Измаил: Но вряд ли можно сказать, что это было сделано идеально. Мне кажется, они пытаются сделать так, чтобы эти Уровни Риска лучше отражали наш собственный полевой опыт, что не исключает возможности добавления новых уровней к уже существующим.
 
-# Original: Mm, for we conduct not management but combat against these foes, it is sensible that the standards for Risk Levels be adjusted in accordance to—hup?!
+# Yi Sang: Mm, for we conduct not management but combat against these foes, it is sensible that the standards for Risk Levels be adjusted in accordance to—hup?!
 И Сан: Мм, поскольку мы занимаемся не содержанием, а боем против сих врагов, разумно, что стандарты Уровней Риска будут скорректированы в соответствии с—хуп?!
 
-# Original: <R-Rodya, wait! Yi Sang can speak without raising his hand!>
+# Dante: <R-Rodya, wait! Yi Sang can speak without raising his hand!>
 Данте: <Р-Родя, стой! И Сан может говорить, не поднимая руку!>
 
-# Original: Ohh~ Right! My bad~
+# Rodion: Ohh~ Right! My bad~
 Родион: Ооо~ Точно! Моя вина~
 
-# Original: I managed to stop Rodya just before her fist connected with Yi Sang's crown. It was almost as if she was moving based on pure instinct...
+# Narrator: I managed to stop Rodya just before her fist connected with Yi Sang's crown. It was almost as if she was moving based on pure instinct...
 Рассказчик: Мне удалось остановить Родю как раз перед тем, как ее кулак соприкоснулся с макушкой И Сана. Казалось, будто она двигалась на чистых инстинктах...
 
-# Original: Ahem. So... that's why they're overhauling the Risk Levels based on the actual risk each Abnormality poses in battle. So we'd do well to be wary of the possible changes to the Risk Levels written in the Observation Logs. ... Oh, and they'll let us know again once the precise details are decided. The next section is about Distortions, which...
+# Ishmael: Ahem. So... that's why they're overhauling the Risk Levels based on the actual risk each Abnormality poses in battle. So we'd do well to be wary of the possible changes to the Risk Levels written in the Observation Logs. ... Oh, and they'll let us know again once the precise details are decided. The next section is about Distortions, which...
 Измаил: Кхм. Итак... вот почему они пересматривают Уровни Риска на основе фактического риска, который каждая Аномалия представляет в бою. Так что нам стоит быть готовыми к возможным изменениям Уровней Риска, записанным в Журналах наблюдений. ... Ах, и они сообщат нам снова, когда будут определены точные детали. Следующий раздел посвящен Искажениям, которые...
 
-# Original: …!
+# Don Quixote: …!
 Дон Кихот: …!
 
-# Original: Don Quixote raised her hand.
+# Narrator: Don Quixote raised her hand.
 Рассказчик: Дон Кихот подняла руку.
 
-# Original: ... But Ishmael continued to explain without coming to a stop. She probably just ignored her.
+# Narrator: ... But Ishmael continued to explain without coming to a stop. She probably just ignored her.
 Рассказчик: ... Но Измаил продолжила объяснять, не останавливаясь. Она, вероятно, просто проигнорировала ее.
 
-# Original: So far, we've been using the same subject classification codes as Abnormalities for Distortions. But it's gotten pretty clear that there is a big difference between them, enough to give these two groups distinct classification codes. That difference being...
+# Ishmael: So far, we've been using the same subject classification codes as Abnormalities for Distortions. But it's gotten pretty clear that there is a big difference between them, enough to give these two groups distinct classification codes. That difference being...
 Измаил: До сих пор мы использовали те же коды классификации субъектов для Искажений, что и для Аномалий. Но стало довольно ясно, что между ними есть большая разница, достаточная для того, чтобы дать этим двум группам отдельные коды классификации. Эта разница заключается в том, что...
 
-# Original: Hong Lu raised his hand, and Ishmael nodded.
+# Narrator: Hong Lu raised his hand, and Ishmael nodded.
 Рассказчик: Хон Лу поднял руку, и Измаил кивнула.
 
-# Original: Don Quixote appeared a bit... crestfallen.
+# Narrator: Don Quixote appeared a bit... crestfallen.
 Рассказчик: Дон Кихот выглядела немного... удрученной.
 
-# Original: The difference is that, when defeated, Abnormalities transform into their egg-like forms, but Distortions don't. Am I right?
+# Hong Lu: The difference is that, when defeated, Abnormalities transform into their egg-like forms, but Distortions don't. Am I right?
 Хон Лу: Разница в том, что при поражении Аномалии превращаются в свои яйцеподобные формы, а Искажения — нет. Я прав?
 
-# Original: Correct. Distortions can be completely subdued simply by defeating them in battle, but any method of fully slaying an Abnormality is yet to be discovered, even in theory.
+# Faust: Correct. Distortions can be completely subdued simply by defeating them in battle, but any method of fully slaying an Abnormality is yet to be discovered, even in theory.
 Фауст: Верно. Искажения могут быть полностью подавлены просто путем победы над ними в бою, но любой метод полного уничтожения Аномалии ещё не обнаружен, даже в теории.
 
-# Original: ... So she says. Well, we've all had first-hand experience against them, so it shouldn't be too hard to understand.
+# Ishmael: ... So she says. Well, we've all had first-hand experience against them, so it shouldn't be too hard to understand.
 Измаил: ... Так она говорит. Ну, у нас у всех был непосредственный опыт борьбы с ними, так что это не должно быть слишком сложно для понимания.
 
-# Original: Whew, here comes the last subject.
+# Ishmael: Whew, here comes the last subject.
 Измаил: Фух, вот и последняя тема.
 
-# Original: This one's about the Peccatula... They're going to give them a classification code scheme different from the Abnormalities as well, including the new type of Peccatula we recently encountered.
+# Ishmael: This one's about the Peccatula... They're going to give them a classification code scheme different from the Abnormalities as well, including the new type of Peccatula we recently encountered.
 Измаил: Это о Пеккатулах... Им тоже дадут схему классификации, отличную от Аномалий, включая новый тип Пеккатул, с которыми мы недавно столкнулись.
 
-# Original: Let's see... Classification basis... Abnormalities and Distortions both have elements of uniqueness that is missing in each individual Peccatula; considering this, it has been deemed... Okay, I don't really get what this is talking about.
+# Ishmael: Let's see... Classification basis... Abnormalities and Distortions both have elements of uniqueness that is missing in each individual Peccatula; considering this, it has been deemed... Okay, I don't really get what this is talking about.
 Измаил: Так, посмотрим... Основа классификации... Аномалии и Искажения обладают элементами уникальности, которых нет у отдельных Пеккатул; учитывая это, было решено... Ладно, я не очень понимаю, о чем здесь говорится.
 
-# Original: Faust walked up next to Ishmael and began to explain.
+# Narrator: Faust walked up next to Ishmael and began to explain.
 Рассказчик: Фауст подошла к Измаил и начала объяснять.
 
-# Original: Uniqueness, in this context, refers to the fact that no same entity exhibits the same location.
+# Faust: Uniqueness, in this context, refers to the fact that no same entity exhibits the same location.
 Фауст: Уникальность в данном контексте относится к тому факту, что ни одна и та же сущность не проявляет себя в одном и том же месте.
 
-# Original: It would be helpful to recall that our encounters with the Peccatula have always been against multiple duplicates of the same category of Peccatulum.
+# Faust: It would be helpful to recall that our encounters with the Peccatula have always been against multiple duplicates of the same category of Peccatulum.
 Фауст: Было бы полезно вспомнить, что наши встречи с Пеккатулами всегда происходили против множественных дубликатов одной и той же категории Пеккатулы.
 
-# Original: However, no such encounters have been made against Distortions and Abnormalities. Hopefully, this has been a sufficient explanation for all.
+# Faust: However, no such encounters have been made against Distortions and Abnormalities. Hopefully, this has been a sufficient explanation for all.
 Фауст: Однако таких встреч не было с Искажениями и Аномалиями. Надеюсь, это было достаточным объяснением для всех.
 
-# Original: Right, so simply put... we can just toss them Peccatula all into the same bin, but each and every one of them Abnormalities and Distortions is special and unique, eh? They could've explained it much easier if they just—
+# Heathcliff: Right, so simply put... we can just toss them Peccatula all into the same bin, but each and every one of them Abnormalities and Distortions is special and unique, eh? They could've explained it much easier if they just—
 Хитклиф: Верно, так что, проще говоря... мы можем просто свалить всех этих Пеккатул в одну кучу, но каждая из этих Аномалий и Искажений особенная и уникальная, а? Они могли бы объяснить это гораздо проще, если бы просто—
 
-# Original: Bonk!
+# Narrator: Bonk!
 Рассказчик: Бонк!
 
-# Original: Heathcliff seemed to have woken up from his coma, but...
+# Narrator: Heathcliff seemed to have woken up from his coma, but...
 Рассказчик: Казалось, Хитклиф очнулся от своей комы, но...
 
-# Original: I'll be looking forward to that extra dessert... fuhu.
+# Rodion: I'll be looking forward to that extra dessert... fuhu.
 Родион: Я буду с нетерпением ждать этого дополнительного десерта... фуху.
 
-# Original: ... his moment of lucidity barely lasted a moment.
+# Narrator: ... his moment of lucidity barely lasted a moment.
 Рассказчик: ... его момент ясности продлился едва ли мгновение.
 
-# Original: And that's all there is to it. Phew... this is pretty great, huh? It's refreshing, doing something like this once in a while.
+# Ishmael: And that's all there is to it. Phew... this is pretty great, huh? It's refreshing, doing something like this once in a while.
 Измаил: И это все, что там есть. Фух... это довольно здорово, да? Освежает, делать что-то подобное время от времени.
 
-# Original: …!
+# Don Quixote: …!
 Дон Кихот: …!
 
-# Original: Don Quixote has not lowered her hand since Ishmael ignored her the first time, not even for a brief moment.
+# Narrator: Don Quixote has not lowered her hand since Ishmael ignored her the first time, not even for a brief moment.
 Рассказчик: Дон Кихот не опускала руку с тех пор, как Измаил проигнорировала ее в первый раз, даже на мгновение.
 
-# Original: ... Fine. Ask away.
+# Ishmael: ... Fine. Ask away.
 Измаил: ... Ладно. Спрашивай.
 
-# Original: Dost thou! Know the name! Of the LCD employee who hath composed that report?!!!
+# Don Quixote: Dost thou! Know the name! Of the LCD employee who hath composed that report?!!!
 Дон Кихот: Знаешь ли ты! Имя! Сотрудника LCD, составившего сей отчет?!!!
 
-# Original: Ishmael seemed a bit taken aback that Don Quixote actually managed to ask a rather sensible question. Even though it was asked with that very same enthusiasm she has when talking about Fixers, that is.
+# Narrator: Ishmael seemed a bit taken aback that Don Quixote actually managed to ask a rather sensible question. Even though it was asked with that very same enthusiasm she has when talking about Fixers, that is.
 Рассказчик: Измаил, казалось, была немного ошеломлена тем, что Дон Кихот действительно удалось задать довольно разумный вопрос. Хотя он и был задан с тем же энтузиазмом, с которым она говорит о Корректировщиках.
 
-# Original: Oh, sure... Give me a sec...
+# Ishmael: Oh, sure... Give me a sec...
 Измаил: О, конечно... Дай мне секунду...
 
-# Original: Sender... LCD On-site Investigative Reasoning Team Leader, Moses.
+# Ishmael: Sender... LCD On-site Investigative Reasoning Team Leader, Moses.
 Измаил: Отправитель... Участковый Руководитель Группы Следственных Рассуждений LCD, Мозес.
 
-# Original: Well, we might as well keep that name in mind since we'll probably run into them sooner or later. I'm sorry for ignoring you, Don Quixote.
+# Ishmael: Well, we might as well keep that name in mind since we'll probably run into them sooner or later. I'm sorry for ignoring you, Don Quixote.
 Измаил: Что ж, мы могли бы запомнить это имя, так как, вероятно, скоро с ним столкнемся. Прости, что проигнорировала тебя, Дон Кихот.
 
-# Original: Hmmmmm...
+# Don Quixote: Hmmmmm...
 Дон Кихот: Хммммм...
 
-# Original: Though Don Quixote was finally given the answer she so passionately craved, she did not appear happy or excited about it. Instead, she seemed to be absorbed in deep thought.
+# Narrator: Though Don Quixote was finally given the answer she so passionately craved, she did not appear happy or excited about it. Instead, she seemed to be absorbed in deep thought.
 Рассказчик: Хотя Дон Кихот наконец получила ответ, которого так страстно жаждала, она не выглядела счастливой или взволнованной. Вместо этого она, казалось, погрузилась в глубокие размышления.
 
-# Original: <Something wrong, Don Quixote?>
+# Dante: <Something wrong, Don Quixote?>
 Данте: <Что-то не так, Дон Кихот?>
 
-# Original: I... recall hearing that name in the past. Yet I cannot quite recall as to who that name may have belonged to...
+# Don Quixote: I... recall hearing that name in the past. Yet I cannot quite recall as to who that name may have belonged to...
 Дон Кихот: Я... припоминаю, что слышала сие имя в прошлом. Но не могу точно вспомнить, кому оно могло принадлежать...
 
-# Original: Okay, now we're actually done.
+# Ishmael: Okay, now we're actually done.
 Измаил: Ладно, теперь мы действительно закончили.
 
-# Original: Darn~ Thought I'd be able to collect a bit more dessert.
+# Rodion: Darn~ Thought I'd be able to collect a bit more dessert.
 Родион: Жаль~ Думала, смогу собрать ещё немного десерта.
 
-# Original: This was more time consuming than it was initially expected. Dante, now...
+# Faust: This was more time consuming than it was initially expected. Dante, now...
 Фауст: Это заняло больше времени, чем изначально предполагалось. Данте, сейчас...
 
-# Original: Oh, right. It's about time.
+# Narrator: Oh, right. It's about time.
 Рассказчик: О, точно. Самое время.
 
-# Original: <Alright, then. I hereby confirm today’s close of business for the Sinners.>
+# Dante: <Alright, then. I hereby confirm today’s close of business for the Sinners.>
 Данте: <Хорошо, тогда. Настоящим я подтверждаю сегодняшнее закрытие рабочего дня для Грешников.>
 
-# Original: This could've dragged on for much longer... But the Sinners were thankfully pretty cooperative, so we managed to finish our day early.
+# Narrator: This could've dragged on for much longer... But the Sinners were thankfully pretty cooperative, so we managed to finish our day early.
 Рассказчик: Это могло бы затянуться намного дольше... Но Грешники были на удивление послушны, так что нам удалось закончить наш день пораньше.
 
-# Original: I followed the Sinners to the Backdoor of the bus, my heart a little lighter than it was at the start of the day.
+# Narrator: I followed the Sinners to the Backdoor of the bus, my heart a little lighter than it was at the start of the day.
 Рассказчик: Я последовал за Грешниками к Задней Двери автобуса, с душой чуть легче, чем в начале дня.
 
-# Original: ... Huh.
+# Narrator: ... Huh.
 Рассказчик: ... Хм.
 
-# Original: I feel like I'm forgetting something.
+# Narrator: I feel like I'm forgetting something.
 Рассказчик: Такое чувство, будто я что-то забыл.
 
-# Original: …….
+# Heathcliff: …….
 Хитклиф: …….
 
-# Original: It took me about 30 minutes to realize that we left Heathcliff out cold on the bus floor.
+# Narrator: It took me about 30 minutes to realize that we left Heathcliff out cold on the bus floor.
 Рассказчик: Мне потребовалось около 30 минут, чтобы осознать, что мы оставили Хитклифа без сознания на полу автобуса.

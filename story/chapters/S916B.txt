@@ -1,404 +1,404 @@
-# Original: The elevator up ahead is operational.
+# Meursault: The elevator up ahead is operational.
 Мерсо: Лифт впереди в рабочем состоянии.
 
-# Original: I could see the light of the elevator beyond the lockdown door.
+# Narrator: I could see the light of the elevator beyond the lockdown door.
 Повествователь: Я видел свет лифта за гермозатвором.
 
-# Original: <…….>
+# Dante: <…….>
 Данте: <…….>
 
-# Original: <If power has returned to the elevators...>
+# Dante: <If power has returned to the elevators...>
 Данте: <Если питание вернулось к лифтам...>
 
-# Original: It can only mean that Hohenheim has arrived at the Facility Management Room.
+# Yi Sang: It can only mean that Hohenheim has arrived at the Facility Management Room.
 И Сан: Это может означать лишь то, что Хохенхайм добрался до Комнаты Управления Комплексом.
 
-# Original: <Ah! Then—>
+# Dante: <Ah! Then—>
 Данте: <А! Тогда—>
 
-# Original: Once the elevator doors opened, LCA agents began pouring into the facility in perfect order.
+# Narrator: Once the elevator doors opened, LCA agents began pouring into the facility in perfect order.
 Повествователь: Как только двери лифта открылись, агенты LCA начали вливаться в комплекс в идеальном порядке.
 
-# Original: They immediately began hacking and shooting down anything that got in their way. There wasn't the slightest hesitation in their movements, as though drilled into them over countless rehearsals.
+# Narrator: They immediately began hacking and shooting down anything that got in their way. There wasn't the slightest hesitation in their movements, as though drilled into them over countless rehearsals.
 Повествователь: Они немедленно начали разрубать и расстреливать всё, что попадалось им на пути. В их движениях не было ни малейшего колебания, словно они отрабатывали их на бесчисленных репетициях.
 
-# Original: From the way they never failed to deliver a killing blow to any target that so much as twitched, even when it was already mangled beyond recognition, I could tell they were seasoned veterans with years of combat experience.
+# Narrator: From the way they never failed to deliver a killing blow to any target that so much as twitched, even when it was already mangled beyond recognition, I could tell they were seasoned veterans with years of combat experience.
 Повествователь: По тому, как они неизменно наносили смертельный удар любой цели, которая хотя бы дергалась, даже если она уже была изуродована до неузнаваемости, я мог сказать, что это были закалённые ветераны с многолетним боевым опытом.
 
-# Original: I began to grow certain that these fighters could brush aside any obstacle we faced with ease.
+# Narrator: I began to grow certain that these fighters could brush aside any obstacle we faced with ease.
 Повествователь: Я начал обретать уверенность в том, что эти бойцы смогут с лёгкостью смести любое препятствие на нашем пути.
 
-# Original: LCA special operations unit, was it? They sure know how to clear a room.
+# Gregor: LCA special operations unit, was it? They sure know how to clear a room.
 Грегор: Спецподразделение LCA, да? Комнаты они зачищать умеют.
 
-# Original: Testing... come in.
+# Radio: Testing... come in.
 Хохенхайм: Проверка... приём.
 
-# Original: Oi, gimme that. Oi! OI! YOU ALRIGHT, MATE?
+# Radio: Oi, gimme that. Oi! OI! YOU ALRIGHT, MATE?
 Хитклиф: Эй, дай сюда. Эй! ЭЙ! ТЫ В ПОРЯДКЕ, ПРИЯТЕЛЬ?
 
-# Original: Agh, the heck— No need to shout into the mic, Heathcliff. We can hear you just fine.
+# Gregor: Agh, the heck— No need to shout into the mic, Heathcliff. We can hear you just fine.
 Грегор: Агх, какого... Не нужно орать в микрофон, Хитклиф. Мы тебя и так прекрасно слышим.
 
-# Original: Ah, apologies. My assistant's temperament leans on the more impatient side.
+# Radio: Ah, apologies. My assistant's temperament leans on the more impatient side.
 Хохенхайм: Ах, прошу прощения. Мой ассистент отличается излишней нетерпеливостью.
 
-# Original: Sinner Outis's conjecture was correct. After arriving at the Facility Management Room, we have been observing the hallways through the device here. The video feed's quality... well, it leaves much to be desired, but...
+# Radio: Sinner Outis's conjecture was correct. After arriving at the Facility Management Room, we have been observing the hallways through the device here. The video feed's quality... well, it leaves much to be desired, but...
 Хохенхайм: Предположение Грешницы Отис оказалось верным. Прибыв в Комнату Управления Комплексом, мы наблюдаем за коридорами через это устройство. Качество видео... что ж, оно оставляет желать лучшего, но...
 
-# Original: ... the LCA has arrived at this sector.
+# Radio: ... the LCA has arrived at this sector.
 Хохенхайм: ...LCA прибыли в этот сектор.
 
-# Original: Can confirm that on this end as well. We have visual on the LCA units past the lockdown shutters.
+# Gregor: Can confirm that on this end as well. We have visual on the LCA units past the lockdown shutters.
 Грегор: Могу подтвердить это и с нашей стороны. Мы видим отряды LCA за герметичными заслонками.
 
-# Original: But... all I've managed so far is to remove one security wall in your path. It has nothing to do with restoring the internal elevators leading to other departments.
+# Radio: But... all I've managed so far is to remove one security wall in your path. It has nothing to do with restoring the internal elevators leading to other departments.
 Хохенхайм: Однако... всё, чего мне пока удалось добиться — это убрать одну защитную стену на вашем пути. Это не имеет никакого отношения к восстановлению внутренних лифтов, ведущих в другие отделы.
 
-# Original: Whichever may be the case... does this mean that the wounded can now be transported to safety?
+# Yi Sang: Whichever may be the case... does this mean that the wounded can now be transported to safety?
 И Сан: Как бы то ни было... значит ли это, что раненых теперь можно переправить в безопасное место?
 
-# Original: ... Not quite. While they managed to send the LCA down here via unknown means, the entire facility has to be restored in order to return upstairs.
+# Radio: ... Not quite. While they managed to send the LCA down here via unknown means, the entire facility has to be restored in order to return upstairs.
 Хохенхайм: ...Не совсем. Хотя им удалось отправить LCA сюда неизвестным способом, для возвращения наверх необходимо привести в порядок весь комплекс.
 
-# Original: It is indeed a relief, however. It seems that the agents have been deployed to each sector... they should be able to secure the rest of the survivors.
+# Radio: It is indeed a relief, however. It seems that the agents have been deployed to each sector... they should be able to secure the rest of the survivors.
 Хохенхайм: Тем не менее, это действительно приносит облегчение. Похоже, агенты были развернуты в каждом секторе... они должны суметь спасти остальных выживших.
 
-# Original: Though I've never been one to be interested in the art of killing and battling, particularly those without even a tangential relation to research... I have heard that they are a rather formidable combat force even by the standards of the City as a whole.
+# Radio: Though I've never been one to be interested in the art of killing and battling, particularly those without even a tangential relation to research... I have heard that they are a rather formidable combat force even by the standards of the City as a whole.
 Хохенхайм: Хотя я никогда не интересовался искусством убийства и сражений, особенно теми, что не имеют даже косвенного отношения к исследованиям... Я слышал, что они являются довольно грозной боевой силой даже по меркам Города в целом.
 
-# Original: …….
+# Ryōshū: …….
 Рёшу: …….
 
-# Original: ... Eyes forward.
+# Ryōshū: ... Eyes forward.
 Рёшу: ...Смотрите в оба.
 
-# Original: The lights flickered, and...
+# Narrator: The lights flickered, and...
 Повествователь: В этот момент свет мигнул, и...
 
-# Original: ... 3 LCA agents who were advancing while covering the front of their squad simultaneously fell to the floor without so much as a scream.
+# Narrator: ... 3 LCA agents who were advancing while covering the front of their squad simultaneously fell to the floor without so much as a scream.
 Повествователь: ...Трое агентов LCA, которые наступали, прикрывая переднюю часть своего отряда, одновременно рухнули на пол без единого вскрика.
 
-# Original: …!
+# LCA Agent: …!
 LCA агент: …!
 
-# Original: Like a broken lamp, the light past the security wall continues to flicker.
+# Narrator: Like a broken lamp, the light past the security wall continues to flicker.
 Повествователь: Словно сломанная лампа, свет за защитной стеной продолжает мерцать.
 
-# Original: Between each flicker of the malfunctioning light, the outline of the intruder's weapon seemed to shift into a different shape.
+# Narrator: Between each flicker of the malfunctioning light, the outline of the intruder's weapon seemed to shift into a different shape.
 Повествователь: В промежутках между каждым мерцанием неисправной системы освещения очертания оружия незваного гостя, казалось, принимали иную форму.
 
-# Original: At first, the shadow stretched into the sharp tip of a pick...
+# Narrator: At first, the shadow stretched into the sharp tip of a pick...
 Повествователь: Сначала тень вытянулась в острый наконечник кирки...
 
-# Original: ... then after several more flickers, it took on the familiar outline of an axe, very much resembling Rodya's own.
+# Narrator: ... then after several more flickers, it took on the familiar outline of an axe, very much resembling Rodya's own.
 Повествователь: ...затем, после еще нескольких вспышек, она приняла знакомые очертания топора, который очень напоминает тот, что носит Родион.
 
-# Original: Judging by their appearance and gear, it is likely that they are the LCA's reconnaissance-specialized unit.
+# Radio: Judging by their appearance and gear, it is likely that they are the LCA's reconnaissance-specialized unit.
 Фауст: Судя по их внешнему виду и снаряжению, вполне вероятно, что это специализированное разведывательное подразделение LCA.
 
-# Original: Most likely in the same vein as the team that arrived at the Monolith retrieval mission.
+# Radio: Most likely in the same vein as the team that arrived at the Monolith retrieval mission.
 Фауст: Скорее всего, того же типа, что и группа, прибывшая для миссии по извлечению Монолита.
 
-# Original: Recon team or not, how did the intruder manage to wipe out such a well-trained team... all on his own...?
+# Gregor: Recon team or not, how did the intruder manage to wipe out such a well-trained team... all on his own...?
 Грегор: Разведывательная группа или нет, но как незваному гостю удалось уничтожить столь хорошо обученную команду... в одиночку...?
 
-# Original: Hohenheim, do you hear us?
+# Yi Sang: Hohenheim, do you hear us?
 И Сан: Хохенхайм, вы нас слышите?
 
-# Original: Mm, indeed. Has the LCA taken care of the situation already on your end?
+# Radio: Mm, indeed. Has the LCA taken care of the situation already on your end?
 Хохенхайм: Мм, да. LCA на вашей стороне уже разобрались с ситуацией?
 
-# Original: ... You mustn't step foot out into the hallway.
+# Yi Sang: ... You mustn't step foot out into the hallway.
 И Сан: ...Вам нельзя выходить в коридор.
 
-# Original: ... Why might that be? Ah, I've just watched the LCA agents take down an Abnormality with quite impressive precision. To suppress such a tricky entity in mere minutes... fascinating. This calls for an additional comment on its observation log.
+# Radio: ... Why might that be? Ah, I've just watched the LCA agents take down an Abnormality with quite impressive precision. To suppress such a tricky entity in mere minutes... fascinating. This calls for an additional comment on its observation log.
 Хохенхайм: ...Это еще почему? Ах, я только что видел, как агенты LCA расправились с Аномалией с впечатляющей точностью. Подавить столь хитрое существо за считанные минуты... поразительно. Это требует дополнительного примечания в журнале наблюдений.
 
-# Original: The LCA reinforcement sent to our sector... They're all dead.
+# Gregor: The LCA reinforcement sent to our sector... They're all dead.
 Грегор: Подкрепления из LCA, отправленные в наш сектор... Все мертвы.
 
-# Original: ... What?
+# Radio: ... What?
 Хохенхайм: ...Что?
 
-# Original: Were this battle fought in an open field... even the LCA's reconnaissance team alone would have sufficed to avoid defeat.
+# Radio: Were this battle fought in an open field... even the LCA's reconnaissance team alone would have sufficed to avoid defeat.
 Фауст: Происходи эта битва на открытой местности... даже одной разведывательной группы LCA хватило бы, чтобы избежать поражения.
 
-# Original: However...
+# Radio: However...
 Фауст: Однако...
 
-# Original: This is what happens to prey who forget that they've been snared in a spider's web.
+# Ryōshū: This is what happens to prey who forget that they've been snared in a spider's web.
 Рёшу: Вот что бывает с добычей, забывшей, что она попала в паучью сеть.
 
-# Original: ... They'll never fight on even ground, always drawing their prey to locations where they have the absolute advantage. They wouldn't have lost in an open field, you say...?
+# Ryōshū: ... They'll never fight on even ground, always drawing their prey to locations where they have the absolute advantage. They wouldn't have lost in an open field, you say...?
 Рёшу: ...Они никогда не будут сражаться на равных, всегда заманивая добычу туда, где у них есть абсолютное преимущество. Не проиграли бы на открытой местности, говоришь...?
 
-# Original: ... It's meaningless to speculate over what'll never happen.
+# Ryōshū: ... It's meaningless to speculate over what'll never happen.
 Рёшу: ...Бессмысленно рассуждать о том, чего никогда не случится.
 
-# Original: Look. His prey ensured their demise by walking into his hunting ground.
+# Ryōshū: Look. His prey ensured their demise by walking into his hunting ground.
 Рёшу: Смотрите. Его добыча сама обрекла себя на гибель, ступив в его охотничьи угодья.
 
-# Original: …….
+# Gregor: …….
 Грегор: …….
 
-# Original: What Alyssa had described earlier was becoming more and more apparent to us.
+# Narrator: What Alyssa had described earlier was becoming more and more apparent to us.
 Повествователь: То, что ранее описывала Алиса, становилось для нас всё более очевидным.
 
-# Original: <A relaxed but disciplined gait...>
+# Dante: <A relaxed but disciplined gait...>
 Данте: <Расслабленная, но строгая походка...>
 
-# Original: The man, after having slaughtered dozens of LCA agents... slowly turned around to face us, his sharp dress shoes lazily clopping against the floor.
+# Narrator: The man, after having slaughtered dozens of LCA agents... slowly turned around to face us, his sharp dress shoes lazily clopping against the floor.
 Повествователь: Мужчина, вырезав десятки агентов LCA... медленно обернулся к нам, его остроносые туфли лениво цокали по полу.
 
-# Original: He seemed to have been aware of our presence from the get-go.
+# Narrator: He seemed to have been aware of our presence from the get-go.
 Повествователь: Он, казалось, знал о нашем присутствии с самого начала.
 
-# Original: Light dances across the glossy surface of his white mask.
+# Narrator: Light dances across the glossy surface of his white mask.
 Повествователь: Свет пляшет на глянцевой поверхности его белой маски.
 
-# Original: …….
+# Ryōshū: …….
 Рёшу: …….
 
-# Original: He returns a smile in response to Ryōshū's furious wrath.
+# Narrator: He returns a smile in response to Ryōshū's furious wrath.
 Повествователь: Он отвечает улыбкой на яростный гнев Рёшу.
 
-# Original: Then, his lips part, soundlessly mouthing a sentence, word by word.
+# Narrator: Then, his lips part, soundlessly mouthing a sentence, word by word. 
 Повествователь: Затем его губы приоткрываются, беззвучно произнося фразу, слово за словом.
 
-# Original: "Hi. Sweetheart. How did. Your reviews. Go?"
+# Narrator: "Hi. Sweetheart. How did. Your reviews. Go?"
 Повествователь: "Привет. Дорогая. Как. Прошли. Твои. Экзамены?"
 
-# Original: Hey, sweetheart. How did your training go?
+# ???: Hey, sweetheart. How did your training go?
 Риен: Привет, дорогая. Как прошла твоя тренировка?
 
-# Original: ... Same old. Dull and boring.
+# Yoshihide: ... Same old. Dull and boring.
 Ёшихидэ: ...Всё так же. Серо и скучно.
 
-# Original: Dad, that wound on your arm... Did you do that to yourself?
+# Yoshihide: Dad, that wound on your arm... Did you do that to yourself?
 Ёшихидэ: Пап, эта рана у тебя на руке... Ты сам это сделал?
 
-# Original: Ah, yes. I had to stab my opponent with a knife 38 times through my own arm.
+# ???: Ah, yes. I had to stab my opponent with a knife 38 times through my own arm.
 Риен: Ах, да. Мне пришлось ударить противника ножом 38 раз сквозь мою собственную руку.
 
-# Original: The 20th stab was where it really began to hurt.
+# ???: The 20th stab was where it really began to hurt.
 Риен: На двадцатом ударе стало по-настоящему больно.
 
-# Original: …….
+# Yoshihide: …….
 Ёшихидэ: …….
 
-# Original: They say that the pain of burning hurts at least 100 times worse than the pain of getting stabbed. Did you know that?
+# ???: They say that the pain of burning hurts at least 100 times worse than the pain of getting stabbed. Did you know that?
 Риен: Говорят, что боль от ожогов как минимум в 100 раз сильнее боли от удара ножом. Ты знала об этом?
 
-# Original: So, when you have to <i>take care</i> of someone, I hope you won't use fire...
+# ???: So, when you have to <i>take care</i> of someone, I hope you won't use fire...
 Риен: Так что, когда тебе придётся о ком-то <i>позаботиться</i>, надеюсь, ты не станешь использовать огонь...
 
-# Original: ... lest their death be slow, and their dying breath curses your name on their long descent into hell...
+# ???: ... lest their death be slow, and their dying breath curses your name on their long descent into hell...
 Риен: ...иначе их смерть будет медленной, а во время долгого спуска в ад, их предсмертный вздох проклянет твоё имя...
 
-# Original: Don't they deserve to watch their lives flash before their eyes in relative peace?
+# ???: Don't they deserve to watch their lives flash before their eyes in relative peace?
 Риен: Разве они не заслуживают того, чтобы вспомнить жизнь, проносящуюся перед глазами, в относительном покое?
 
-# Original: ... Okay.
+# Yoshihide: ... Okay.
 Ёшихидэ: ...Хорошо.
 
-# Original: Come closer. You've got a scratch on your cheek.
+# ???: Come closer. You've got a scratch on your cheek.
 Риен: Подойди ближе. У тебя царапинка на щеке.
 
-# Original: It happened during Valencina's class, didn't it? Her methods are simply too violent—she's the kind of teacher who uses the number of scars as a measure of training intensity and effectiveness.
+# ???: It happened during Valencina's class, didn't it? Her methods are simply too violent—she's the kind of teacher who uses the number of scars as a measure of training intensity and effectiveness.
 Риен: Ты получила её на занятии Валенсины, верно? Её методы слишком жестоки — она из тех учителей, кто использует количество шрамов как меру интенсивности и эффективности обучения.
 
-# Original: Let's take good care of that wound so it doesn't scar, okay?
+# ???: Let's take good care of that wound so it doesn't scar, okay?
 Риен: Давай позаботимся об этой ране, чтобы не осталось шрама, хорошо?
 
-# Original: Whatever.
+# Yoshihide: Whatever.
 Ёшихидэ: Как хочешь.
 
-# Original: If what LCE has told us through the transmission is true, then the Executive Manager's in danger—!
+# Outis: If what LCE has told us through the transmission is true, then the Executive Manager's in danger—!
 Отис: Если то, что передали нам LCE через трансляцию — правда, то Исполнительный Менеджер в опасности—!
 
-# Original: I'm just as concerned as you are, Outis, but...
+# Ishmael: I'm just as concerned as you are, Outis, but...
 Измаил: Я обеспокоена не меньше твоего, Отис, но...
 
-# Original: ... we're not exactly out of the woods yet, either.
+# Ishmael: ... we're not exactly out of the woods yet, either.
 Измаил: ...мы сейчас тоже не совсем в безопасности.
 
-# Original: ... The security camera feed's working again?
+# Outis: ... The security camera feed's working again?
 Отис: ...Канал камеры наблюдения снова работает?
 
-# Original: Yeah. Look, it's pointed right in front of our door. But...
+# Ishmael: Yeah. Look, it's pointed right in front of our door. But...
 Измаил: Да. Смотри, она направлена прямо на нашу дверь. Но...
 
-# Original: Come see. If my memory fails me not, then this man's attire suggests he is...
+# Aeng-du: Come see. If my memory fails me not, then this man's attire suggests he is...
 Энду: Идите сюда. Если мне не изменяет память, то одежда этого человека говорит о том, что он из...
 
-# Original: The Middle...?
+# Outis: The Middle...?
 Отис: Среднего Пальца...?
 
-# Original: I guess we now know what happened to the LCA in the other sector. Yeesh, this guy's practically tearing people apart.
+# Ezra: I guess we now know what happened to the LCA in the other sector. Yeesh, this guy's practically tearing people apart.
 Эзра: Полагаю, теперь мы знаем, что случилось с LCA в другом секторе. Жуть, этот парень буквально разрывает людей на части.
 
-# Original: Is he shouting something...? I can't quite hear what he's saying through the feed...
+# Rodion: Is he shouting something...? I can't quite hear what he's saying through the feed...
 Родион: Он что-то кричит...? Я не совсем слышу, что он говорит через трансляцию...
 
-# Original: Yoshihide.
+# Moses: Yoshihide.
 Мозес: Ёшихидэ.
 
-# Original: He is shouting... "Yoshihide." Repeatedly so.
+# Moses: He is shouting... "Yoshihide." Repeatedly so.
 Мозес: Он выкрикивает... "Ёшихидэ". Раз за разом.
 
-# Original: ... As he fills the silence between them with... a boisterous guffaw.
+# Aeng-du: ... As he fills the silence between them with... a boisterous guffaw.
 Энду: ...Заполняя тишину между выкриками... раскатистым хохотом.
 
-# Original: Face split into a wide grin, body convulsing with laughter... What joy does this madman find in this carnage...?
+# Aeng-du: Face split into a wide grin, body convulsing with laughter... What joy does this madman find in this carnage...?
 Энду: Лицо расплылось в широкой ухмылке, тело содрогается от смеха... Какую радость находит этот безумец в этой резне...?
 
-# Original: Gah...! That's an insanely powerful kick! Flung that guy all the way to the other side of the hallway!
+# Ezra: Gah...! That's an insanely powerful kick! Flung that guy all the way to the other side of the hallway!
 Эзра: Гах...! Какой безумно мощный удар ногой! Отшвырнул того парня в другой конец коридора!
 
-# Original: The footage is pretty blurry, but... do you think he's got a prosthetic leg?
+# Rodion: The footage is pretty blurry, but... do you think he's got a prosthetic leg?
 Родион: Видео довольно размытое, но... думаете, его нога это какой-то особый протез?
 
-# Original: Hm, maybe not... I guess a leg covered completely in augmentation tattoos could look something like that...
+# Rodion: Hm, maybe not... I guess a leg covered completely in augmentation tattoos could look something like that...
 Родион: Хм, а может и нет... Думаю, нога, полностью покрытая усиливающими татуировками, могла бы выглядеть как-то так...
 
-# Original: Ooh~ Are ya looking at papa's mighty bear paw?
+# ???: Ooh~ Are ya looking at papa's mighty bear paw?
 Кира: О-о-о~ Смотрите на папину могучую медвежью лапу?
 
-# Original: …….
+# Rodion: …….
 Родион: …….
 
-# Original: …?
+# ???: …?
 Кира: …?
 
-# Original: W-who the heck are you?!
+# Rodion: W-who the heck are you?!
 Родион: К-кто ты, черт возьми, такая?!
 
-# Original: Who am I? Hi, I'm Kira!
+# Kira: Who am I? Hi, I'm Kira!
 Кира: Кто я? Приветик, я Кира!
 
-# Original: A covert approach...? Men, battle positions!
+# Outis: A covert approach...? Men, battle positions!
 Отис: Скрытное проникновение...? Всем занять боевые позиции!
 
-# Original: Ohh~ You guys got it all wrong! You're watching my papa work, aren'tcha?
+# Kira: Ohh~ You guys got it all wrong! You're watching my papa work, aren'tcha?
 Кира: О-о-о~ Вы всё не так поняли! Вы же смотрите, как работает мой папа, верно?
 
-# Original: Don't mind me, 'kay? I'm not gonna pick a fight with you guys.
+# Kira: Don't mind me, 'kay? I'm not gonna pick a fight with you guys.
 Кира: Не обращайте на меня внимания, ладно? Я не собираюсь с вами драться.
 
-# Original: …?
+# Aeng-du: …?
 Энду: …?
 
-# Original: I'll just hang around here while you guys get the important stuff done! Mmhm, carry on and watch him work!
+# Kira: I'll just hang around here while you guys get the important stuff done! Mmhm, carry on and watch him work!
 Кира: Я просто побуду поблизости, пока вы занимаетесь важными делами! Мгм, продолжайте смотреть, как он работает!
 
-# Original: Your papa...? That guy's your dad?
+# Rodion: Your papa...? That guy's your dad?
 Родион: Твой папа...? Этот парень — твой отец?
 
-# Original: Uh-huh! Isn't he, like, super badass?
+# Kira: Uh-huh! Isn't he, like, super badass?
 Кира: Угу! Разве он не, типа, супер-крутой?
 
-# Original: Yooo, did you guys see that? Gosh, that tech's straight-up fire! So dope.
+# Kira: Yooo, did you guys see that? Gosh, that tech's straight-up fire! So dope.
 Кира: О-о-о, вы это видели? Боже, эта техника — просто пушка! Прям зашибись.
 
-# Original: Hah~ I've been tryna recreate that myself, but it's not the same, ya know?
+# Kira: Hah~ I've been tryna recreate that myself, but it's not the same, ya know?
 Кира: Эх~ Я сама пыталась повторить такое, но всё не то, понимаете?
 
-# Original: How's he doing that? Totally folded that guy up and tossed him like a baseball all the way to the other end of the hallway!
+# Kira: How's he doing that? Totally folded that guy up and tossed him like a baseball all the way to the other end of the hallway!
 Кира: Как он это делает? Буквально сложил того парня пополам и швырнул его, как бейсбольный мяч, через весь коридор!
 
-# Original: ... To treat a massacre as no different from a game or sport...
+# Aeng-du: ... To treat a massacre as no different from a game or sport...
 Энду: ...Относиться к резне как к игре или спорту...
 
-# Original: What a contemptible scoundrel you make.
+# Aeng-du: What a contemptible scoundrel you make.
 Энду: Какая же ты презренная негодяйка.
 
-# Original: …….
+# Kira: …….
 Кира: …….
 
-# Original: Oh~ So you're into that kinda character, huh? Sick!
+# Kira: Oh~ So you're into that kinda character, huh? Sick!
 Кира: О~ Так тебе нравятся такие персонажи? Клёво!
 
-# Original: I'm a huge fan of 'em, too. Didya read the latest issue of "The Cloudburst Blade?" There's this new character who talks just like ya do, like, lifting his bamboo hat, he goes—
+# Kira: I'm a huge fan of 'em, too. Didya read the latest issue of "The Cloudburst Blade?" There's this new character who talks just like ya do, like, lifting his bamboo hat, he goes—
 Кира: Я тоже их большая фанатка. Ты читала последний выпуск "Клинка Ливня"? Там есть новый персонаж, который говорит точь-в-точь как ты, типа, приподнимая свою бамбуковую шляпу, он выдаёт—
 
-# Original: …….
+# Aeng-du: …….
 Энду: …….
 
-# Original: ... Wait, you don't know "The Cloudburst Blade?"
+# Kira: ... Wait, you don't know "The Cloudburst Blade?"
 Кира: ...Погоди, ты не знаешь "Клинок Ливня"?
 
-# Original: Aw man... I've been tryna sell it to everyone I know, but no one's interested. One of 'em's obsessed with training all day, one of 'em talks with her sword all day, one of 'em just wanders all over the place all day, and the other one... y'know what she said? "I think the story indulges in far too many logical fallacies." What the heck kinda book review is that? Like, bro, who wastes time nitpicking about what makes sense and what doesn't when reading a comic book? Gosh, I don't think I'd ever vibe with that girl!
+# Kira: Aw man... I've been tryna sell it to everyone I know, but no one's interested. One of 'em's obsessed with training all day, one of 'em talks with her sword all day, one of 'em just wanders all over the place all day, and the other one... y'know what she said? "I think the story indulges in far too many logical fallacies." What the heck kinda book review is that? Like, bro, who wastes time nitpicking about what makes sense and what doesn't when reading a comic book? Gosh, I don't think I'd ever vibe with that girl!
 Кира: Ох блин... Я пытаюсь впарить его всем моим знакомым, но никому не интересно. Один из них целыми днями помешан на тренировках, другая весь день разговаривает со своим мечом, третий просто бродит где попало круглые сутки, а та, другая... знаете, что она сказала? "Я думаю, что в этой истории слишком много логических противоречий". Что это блин вообще за отзыв на книгу? Типа, чел, кто вообще тратит время на придирки к тому, что логично, а что нет, когда читает комикс? Боже, не думаю, что я когда-нибудь нашла бы с ней общий язык!
 
-# Original: Anyhoo, has anyone here actually read "The Cloudburst Blade?" If ya did, well... if I may have but 3—no, 4 hours of your time, good sir...
+# Kira: Anyhoo, has anyone here actually read "The Cloudburst Blade?" If ya did, well... if I may have but 3—no, 4 hours of your time, good sir...
 Кира: Короч, кто-нибудь здесь реально читал "Клинок Ливня"? Если да, то... если бы я могла попросить лишь 3... нет, 4 часа вашего времени, уважаемые господа...
 
-# Original: Enough.
+# Outis: Enough.
 Отис: Довольно.
 
-# Original: If you thought you could distract us with your nonsensical prattling, think again.
+# Outis: If you thought you could distract us with your nonsensical prattling, think again.
 Отис: Если ты думала отвлечь нас своей бессмысленной болтовней, подумай еще раз.
 
-# Original: Outis, I don't see the Middle Nursefather on the feed anymore. If she's his, uh... apprentice, then...
+# Ishmael: Outis, I don't see the Middle Nursefather on the feed anymore. If she's his, uh... apprentice, then...
 Измаил: Отис, я больше не вижу Отца-воспитателя Среднего Пальца на трансляции. Если она его, э-э... ученица, тогда...
 
-# Original: Hey, Kiddo! What are you doing all the way out here? Haven't I asked you not to wander too far?
+# ???: Hey, Kiddo! What are you doing all the way out here? Haven't I asked you not to wander too far?
 ???: Эй, Малышка! Что ты делаешь так далеко отсюда? Разве я не просил тебя не уходить слишком далеко?
 
-# Original: ... Drat.
+# Outis: ... Drat.
 Отис: ...Проклятье.
 
-# Original: ... No more transmissions. They've all gone quiet.
+# Hohenheim: ... No more transmissions. They've all gone quiet.
 Хохенхайм: ...Передач больше нет. Все замолчали.
 
-# Original: Hark! Young Ishmael! Young Outis!!! Wherefore doth none respond...?
+# Don Quixote: Hark! Young Ishmael! Young Outis!!! Wherefore doth none respond...?
 Дон Кихот: Слушайте! Юная Измаил! Юная Отис!!! По какой причине никто не ответствует...?
 
-# Original: This is bad... We don't even have the manager with us. We're all in the dark...
+# Sinclair: This is bad... We don't even have the manager with us. We're all in the dark...
 Синклер: Дело плохо... С нами даже нет Менеджера. Мы в полном неведении...
 
-# Original: We must make haste and restore the facility to its operational capacity. The sooner we obtain access to the security wall controls, the sooner we can coordinate with each other.
+# Hohenheim: We must make haste and restore the facility to its operational capacity. The sooner we obtain access to the security wall controls, the sooner we can coordinate with each other.
 Хохенхайм: Мы должны поспешить и восстановить работоспособность комплекса. Чем раньше мы получим доступ к управлению защитными стенами, тем быстрее сможем скоординироваться друг с другом.
 
-# Original: As luck would have it, we should be able to locate one of the lost pieces of circuitry in this room—
+# Hohenheim: As luck would have it, we should be able to locate one of the lost pieces of circuitry in this room—
 Хохенхайм: К счастью, в этой комнате мы должны найти одну из потерянных деталей схемы—
 
-# Original: …….
+# Faust: …….
 Фауст: …….
 
-# Original: These remains... The Ring has made its mark here.
+# Faust: These remains... The Ring has made its mark here.
 Фауст: Эти останки... Безымянный Палец оставил здесь свой след.
 
-# Original: Oi. Don't force yourself... to look so hard at them.
+# Heathcliff: Oi. Don't force yourself... to look so hard at them.
 Хитклиф: Эй. Не заставляй себя... так пристально на них смотреть.
 
-# Original: No, disgust as an emotion holds very little sway over me.
+# Hohenheim: No, disgust as an emotion holds very little sway over me.
 Хохенхайм: Нет, отвращение как эмоция мало на меня влияет.
 
-# Original: It's just that—
+# Hohenheim: It's just that—
 Хохенхайм: Просто—
 
-# Original: Boss.
+# Marton: Boss.
 Мартон: Босс.
 
-# Original: Don't. Don't look at their faces and try to tell who's who.
+# Marton: Don't. Don't look at their faces and try to tell who's who.
 Мартон: Не надо. Не смотрите на их лица, пытаясь понять, кто есть кто.
 
-# Original: ... Right. I lost my focus for a moment there.
+# Hohenheim: ... Right. I lost my focus for a moment there.
 Хохенхайм: ...Верно. Я на мгновение потерял концентрацию.
 
-# Original: Let us carry on.
+# Hohenheim: Let us carry on.
 Хохенхайм: Продолжим.
 
-# Original: ... What, is there anything you wish to say to me?
+# Hohenheim: ... What, is there anything you wish to say to me?
 Хохенхайм: ...Что, ты хочешь мне что-то сказать?
 
-# Original: This is highly irregular, but it seems that Faust also expresses agreement with Hohenheim.
+# Faust: This is highly irregular, but it seems that Faust also expresses agreement with Hohenheim.
 Фауст: Это весьма необычно, но, кажется, Фауст тоже выражает согласие с Хохенхаймом.
 
-# Original: Agree with what?
+# Heathcliff: Agree with what?
 Хитклиф: Согласие с чем?
 
-# Original: ... That we must restore the facility with as much haste as we can employ.
+# Faust: ... That we must restore the facility with as much haste as we can employ.
 Фауст: ...С тем, что мы должны восстановить комплекс со всей поспешностью, на которую способны.

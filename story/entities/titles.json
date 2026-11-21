@@ -4323,5 +4323,45 @@
     "original": "N Corp. - New League of Nine Littérateurs",
     "translation": "Корп. N - Новая Лига Девяти Литераторов",
     "model": "헤르만"
+  },
+  {
+    "original": "The Crimson God",
+    "translation": "Багряный Бог",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Public Address Room",
+    "translation": "Комната Оповещения",
+    "model": "황금빛 테이프"
+  },
+  {
+    "original": "Le Noir Public Address Room",
+    "translation": "Комната Оповещения Ле Нуар",
+    "model": "홍루"
+  },
+  {
+    "original": "Le Rouge",
+    "translation": "Ле Руж",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Patron Librarian of the Floor of History",
+    "translation": "Главный библиотекарь Этажа Истории",
+    "model": "말쿠트"
+  },
+  {
+    "original": "Wedge Office Fixer",
+    "translation": "Корректировщик Офиса Клина",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Wedge Office Fixer",
+    "translation": "Корректировщик Офиса Клина",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Wedge Office Rep",
+    "translation": "Представитель Офиса Клина",
+    "model": "오티스"
   }
 ]

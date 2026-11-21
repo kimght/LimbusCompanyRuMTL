@@ -1,106 +1,106 @@
-# Original: So uh, Ishmael... This Lobotomy Corp. Branch is still a ways away. Why don't you rest up for a bit while you can? That's what we always do, anyway.
+# Gregor: So uh, Ishmael... This Lobotomy Corp. Branch is still a ways away. Why don't you rest up for a bit while you can? That's what we always do, anyway.
 Грегор: Так что, э-э, Измаил... До этого филиала Корпорации Лоботомия еще далеко. Почему бы тебе немного не отдохнуть, пока есть возможность? Мы обычно всегда так делаем.
 
-# Original: Or at least let me take the next shift. I've done my fair share of night... yawn... watches.
+# Gregor: Or at least let me take the next shift. I've done my fair share of night... yawn... watches.
 Грегор: Или хотя бы позволь мне взять следующую смену. У меня немалый опыт ночных... *зевает*... дежурств.
 
-# Original: Gregor's yawn betrayed his confidence. Ishmael didn't care—she wasn't going to move from her station anyway.
+# Narrator: Gregor's yawn betrayed his confidence. Ishmael didn't care—she wasn't going to move from her station anyway.
 Рассказчик: Зевок Грегора ставил под сомнение его уверенность в своих силах. Измаил было все равно — она не собиралась покидать свой пост.
 
-# Original: ......
+# Ishmael: ......
 Измаил: ......
 
-# Original: Ishmael looked like she was waiting for something to happen. Or maybe she was deathly afraid of something...
+# Narrator: Ishmael looked like she was waiting for something to happen. Or maybe she was deathly afraid of something...
 Рассказчик: Казалось, Измаил чего-то ждала. Или, может быть, она чего-то смертельно боялась...
 
-# Original: She did not, not even for a second, leave the telescope(courtesy of Rain, most likely) installed on the modified Mephistopheles.
+# Narrator: She did not, not even for a second, leave the telescope(courtesy of Rain, most likely) installed on the modified Mephistopheles.
 Рассказчик: Она ни на секунду не отрывалась от телескопа (скорее всего, любезно предоставленного Рейном), установленного на модифицированном Мефистофеле.
 
-# Original: That's a good attitude, swabbie. It has been my long-held belief that letting your guard down is to let your comrades down.
+# Outis: That's a good attitude, swabbie. It has been my long-held belief that letting your guard down is to let your comrades down.
 Отис: Вот это правильный настрой, юнга. Я давно придерживаюсь мнения, что расслабляться — значит подводить своих товарищей.
 
-# Original: I asked Outis her thoughts out of curiosity, but she simply replied that Vergilius had already acted upon the matter. If the Executive Manager would not take action, then that was that.
+# Narrator: I asked Outis her thoughts out of curiosity, but she simply replied that Vergilius had already acted upon the matter. If the Executive Manager would not take action, then that was that.
 Рассказчик: Из любопытства я спросил Отис, что она думает, но она просто ответила, что Вергилий уже принял меры по этому поводу. Если Исполнительный Менеджер не предпримет действий, то на этом все.
 
-# Original: She also explained that while she would not hesitate to clash with Ishmael again should the need arise, she would not continue this pointless tussle that only lowered the team's morale.
+# Narrator: She also explained that while she would not hesitate to clash with Ishmael again should the need arise, she would not continue this pointless tussle that only lowered the team's morale.
 Рассказчик: Она также объяснила, что хотя она не колеблясь вступила бы в конфликт с Измаил снова, если возникнет необходимость, она не будет продолжать эту бессмысленную борьбу, которая только снижает боевой дух команды.
 
-# Original: <I guess that's good enough...>
+# Dante: <I guess that's good enough...>
 Данте: <Думаю, этого достаточно...>
 
-# Original: Hmm... But we're in the middle of a Lake...
+# Gregor: Hmm... But we're in the middle of a Lake...
 Грегор: Хм... Но мы же посреди Озера...
 
-# Original: And as long as we stick to the, uh, the laws of the Great Lake, I don't see us getting—
+# Gregor: And as long as we stick to the, uh, the laws of the Great Lake, I don't see us getting—
 Грегор: И пока мы придерживаемся, эм, законов Великого Озера, я не вижу причин для...
 
-# Original: ...!
+# Ishmael: ...!
 Измаил: ...!
 
-# Original: There, ahead...
+# Ishmael: There, ahead...
 Измаил: Там, впереди...
 
-# Original: Ishmael suddenly got up and hurried into the cabins as though she noticed something through the telescope.
+# Narrator: Ishmael suddenly got up and hurried into the cabins as though she noticed something through the telescope.
 Рассказчик: Измаил внезапно встала и поспешила в каюты, словно заметила что-то через телескоп.
 
-# Original: —attacked by anything. My bad.
+# Gregor: —attacked by anything. My bad.
 Грегор: ...нападения кого-либо. Виноват.
 
-# Original: Time to drift again, redhead?
+# Charon: Time to drift again, redhead?
 Харон: Опять будем дрейфовать, рыженькая?
 
-# Original: It's too late to change course. That trick won't help us here.
+# Ishmael: It's too late to change course. That trick won't help us here.
 Измаил: Уже слишком поздно менять курс. Этот трюк нам здесь не поможет.
 
-# Original: They went through the trouble of hiding themselves in an artificial fog of war... We're obviously their target.
+# Ishmael: They went through the trouble of hiding themselves in an artificial fog of war... We're obviously their target.
 Измаил: Они не зря прятались в искусственном тумане войны... Мы явно их цель.
 
-# Original: It's a matter of time before they catch up with this ship, now that they know our location.
+# Vergilius: It's a matter of time before they catch up with this ship, now that they know our location.
 Вергилий: Теперь, когда они знают наше местоположение - лишь вопрос времени, когда они нагонят этот корабль.
 
-# Original: Deal with them as you will.
+# Vergilius: Deal with them as you will.
 Вергилий: Разбирайтесь с ними, как считаете нужным.
 
-# Original: Manager, permit us to board their ship.
+# Ishmael: Manager, permit us to board their ship.
 Измаил: Менеджер, разрешите нам взойти на их корабль.
 
-# Original: <Are you sure that boarding their ship is the best course of action if we want to save our ship?>
+# Dante: <Are you sure that boarding their ship is the best course of action if we want to save our ship?>
 Данте: <Ты уверена, что подняться на их корабль — лучший способ спасти наш корабль?>
 
-# Original: According to my experience, yes.
+# Ishmael: According to my experience, yes.
 Измаил: Согласно моему опыту, да.
 
-# Original: <... Okay. I'll leave it to you, then.>
+# Dante: <... Okay. I'll leave it to you, then.>
 Данте: <... Хорошо. Тогда я доверюсь тебе.>
 
-# Original: ... I hope you'll continue to make wise choices like that.
+# Ishmael: ... I hope you'll continue to make wise choices like that.
 Измаил: ... Надеюсь, ты и дальше будешь принимать такие мудрые решения.
 
-# Original: I sighed with relief, as she seemed to be going along with me for now...
+# Narrator: I sighed with relief, as she seemed to be going along with me for now...
 Рассказчик: Я вздохнул с облегчением, так как она, похоже, пока что следовала моим указаниям...
 
-# Original: With that, I took a few steps behind the other Sinners and watched her.
+# Narrator: With that, I took a few steps behind the other Sinners and watched her.
 Рассказчик: С этими словами я отступил на несколько шагов назад от других Грешников и наблюдал за ней.
 
-# Original: We'll hook their ship with harpoons, force them into a melee range! Somebody grab the helm and turn it on my signal!
+# Ishmael: We'll hook their ship with harpoons, force them into a melee range! Somebody grab the helm and turn it on my signal!
 Измаил: Мы зацепим их корабль гарпунами, заставим их сблизиться для рукопашного боя! Кто-нибудь, возьмитесь за штурвал и поверните его по моему сигналу!
 
-# Original: Hm. Then someone should be on standby, ready to shut the engine off at the right moment.
+# Outis: Hm. Then someone should be on standby, ready to shut the engine off at the right moment.
 Отис: Хм. Тогда кто-то должен быть наготове, чтобы выключить двигатель в нужный момент.
 
-# Original: Hey, you! Bring some extra rope. You! Wait for her signal inside the wheelhouse!
+# Outis: Hey, you! Bring some extra rope. You! Wait for her signal inside the wheelhouse!
 Отис: Эй, ты! Принеси дополнительную веревку. Ты! Жди ее сигнала в рубке!
 
-# Original: Ishmael's explanations were rapid and confident. Outis nodded along affirmatively. The other Sinners were quick to follow their instructions.
+# Narrator: Ishmael's explanations were rapid and confident. Outis nodded along affirmatively. The other Sinners were quick to follow their instructions.
 Рассказчик: Объяснения Измаил были быстрыми и уверенными. Отис одобрительно кивала. Другие Грешники быстро следовали их указаниям.
 
-# Original: Watching Ishmael throw her razor-sharp harpoon toward the pirate ship... I started to feel... that something was off.
+# Narrator: Watching Ishmael throw her razor-sharp harpoon toward the pirate ship... I started to feel... that something was off.
 Рассказчик: Наблюдая за тем, как Измаил бросает свой острый как бритва гарпун в сторону пиратского корабля... я начал чувствовать... что что-то не так.
 
-# Original: There they were, the Sinners... working so well together like clockwork. But underneath all that, maybe all that mattered to them was... their own goals.
+# Narrator: There they were, the Sinners... working so well together like clockwork. But underneath all that, maybe all that mattered to them was... their own goals.
 Рассказчик: Вот они, Грешники... работают так слаженно, как часовой механизм. Но под всем этим, возможно, для них имели значение только... их собственные цели.
 
-# Original: I was wondering if all the times I've spent thinking, hoping, and contemplating about our futures together were... pointless.
+# Narrator: I was wondering if all the times I've spent thinking, hoping, and contemplating about our futures together were... pointless.
 # ... This thought lingered for a while in my head.
 Рассказчик: Я задумался, были ли все те моменты, когда я размышлял, надеялся и мечтал о нашем общем будущем... бессмысленными.
 ... Эта мысль еще некоторое время не покидала мою голову.

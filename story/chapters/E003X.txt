@@ -1,209 +1,209 @@
-﻿# Original: I must remain calm.
+﻿# Narrator: I must remain calm.
 Narrator: Я должен сохранять спокойствие.
 
-# Original: Whatever happens, no matter what horror materializes before my eyes, I must hold steadfast.
+# Narrator: Whatever happens, no matter what horror materializes before my eyes, I must hold steadfast.
 Narrator: Что бы ни случилось, какой бы ужас ни материализовался перед моими глазами, я должен держаться стойко.
 
-# Original: Because I am...
+# Narrator: Because I am...
 Narrator: Потому что я...
 
-# Original: Oookay, sooo...
+# ???: Oookay, sooo...
 ???: Тааак, нууу...
 
-# Original: Sooo, that one punched thaaat one! Ok?
+# ???: Sooo, that one punched thaaat one! Ok?
 ???: Нууу, вооот тот ударил вооот того! Да?
 
-# Original: ... at a place where events that defy human understanding occur like everyday accidents.
+# Narrator: ... at a place where events that defy human understanding occur like everyday accidents.
 Narrator: ... нахожусь в месте, где события, не поддающиеся человеческому пониманию, происходят как повседневные случайности.
 
-# Original: <Uh-huh... So kids, why don't we try doing this one by one? Do you want to go first?>
+# Dante: <Uh-huh... So kids, why don't we try doing this one by one? Do you want to go first?>
 Dante: <Угу... Так, дети, почему бы нам не попробовать разобраться по очереди? Кто хочет первым?>
 
-# Original: W-we said we'll neva tattle! Are ya a tattler? Areyagonna tattle?
+# ???: W-we said we'll neva tattle! Are ya a tattler? Areyagonna tattle?
 ???: М-мы зе договаривались никагда не ябедничать! Ты сьто, ябеда? Будесь ябедничать?
 
-# Original: Am not!
+# ???: Am not!
 ???: Неть!
 
-# Original: I don't really remember how my life choices landed me this particular occupation, but...
+# Narrator: I don't really remember how my life choices landed me this particular occupation, but...
 Narrator: Я не особо помню, как мои жизненные решения привели меня к этой конкретной профессии, но...
 
-# Original: Heh. It's totes F.U.
+# ???: Heh. It's totes F.U.
 ???: Хех. П.П.
 
-# Original: Uhh-ohh...! But Big Teach said no bad worrs!
+# ???: Uhh-ohh...! But Big Teach said no bad worrs!
 ???: Ой-ой...! Но Главный Уч сказал не говолить плохих сёв!
 
-# Original: Ya, ya! Big Teach, kick her butt, too!
+# ???: Ya, ya! Big Teach, kick her butt, too!
 ???: Да, да! Главный Уч, надери ей задницу!
 
-# Original: <Riiight... I'm the principal of a kindergarten...>
+# Dante: <Riiight... I'm the principal of a kindergarten...>
 Dante: <Тааак... Я директор детского сада...>
 
-# Original: Regardless of everything that's happening and has happened, the only thing I know for real is that...
+# Narrator: Regardless of everything that's happening and has happened, the only thing I know for real is that...
 Narrator: Несмотря на всё, что происходит и уже произошло, единственное, что я знаю наверняка, так это то, что...
 
-# Original: ... I'm in hell. Possibly. Probably. By all accounts, at least.
+# Narrator: ... I'm in hell. Possibly. Probably. By all accounts, at least.
 Narrator: ... я в аду. Возможно. Вероятно. По крайней мере, судя по всему.
 
-# Original: After some time...
+# Narrator: After some time...
 Narrator: Спустя некоторое время...
 
-# Original: According to the Sinnerlings' "recap," it seems that the gist of why they've been fighting is as follows:
+# Narrator: According to the Sinnerlings' "recap," it seems that the gist of why they've been fighting is as follows:
 Narrator: Судя по «пересказу» Грешнят, суть того, почему они подрались, заключается в следующем:
 
-# Original: (... <i>Sinnerlings</i>? Is that even a real word...? Well, anyhoo...)
+# Narrator: (... <i>Sinnerlings</i>? Is that even a real word...? Well, anyhoo...)
 Narrator: (... <i>Грешнята</i>? Это вообще настоящее слово...? Ну, в любом случае...)
 
-# Original: When the teacher doubling as the kindergarten dietitian announced that she was going to hold a hands-on cooking class with the Sinnerlings, the three classrooms—Cheery Chickies, Early Elephants, and Perky Penguins—could not agree on the type of dish they wanted to cook, and started a "war" of sorts.
+# Narrator: When the teacher doubling as the kindergarten dietitian announced that she was going to hold a hands-on cooking class with the Sinnerlings, the three classrooms—Cheery Chickies, Early Elephants, and Perky Penguins—could not agree on the type of dish they wanted to cook, and started a "war" of sorts.
 Narrator: Когда воспитательница, по совместительству работающая диетологом в детском саду, объявила, что собирается провести практическое кулинарное занятие для Грешнят, три группы — Веселые цыплята, Ранние слонята и Задорные пингвинята — не смогли сойтись во мнении о том, какое блюдо они хотят приготовить, и начали своего рода "войну".
 
-# Original: While they managed to come to an agreement that recipes using "Bongy" as the main ingredient made for the bestest and the tastiest cuisine, the core of the conflict was that none of them could concur on just <i>what</i> kind of dish it was to be.
+# Narrator: While they managed to come to an agreement that recipes using "Bongy" as the main ingredient made for the bestest and the tastiest cuisine, the core of the conflict was that none of them could concur on just <i>what</i> kind of dish it was to be.
 Narrator: Хотя им удалось прийти к согласию, что рецепты с «Бони» в качестве главного ингредиента — это самая-пресамая лучшая и вкусная еда, суть конфликта заключалась в том, что никто из них не мог сойтись на том, <i>каким именно</i> должно быть это блюдо.
 
-# Original: One thing led to another, and it culminated in this ridiculous cooking contest between classrooms with the kindergarten dietitian presiding as the ultimate judge of flavor...
+# Narrator: One thing led to another, and it culminated in this ridiculous cooking contest between classrooms with the kindergarten dietitian presiding as the ultimate judge of flavor...
 Narrator: Одно потянуло за собой другое, и всё вылилось в этот нелепый кулинарный конкурс между группами, где диетолог детского сада выступает в роли главного вкусового судьи...
 
-# Original: ... Weird, this whole sequence of events feels oddly familiar.
+# Narrator: ... Weird, this whole sequence of events feels oddly familiar.
 Narrator: ... Странно, вся эта последовательность событий кажется до боли знакомой.
 
-# Original: *sigh* You've got your work cut out for you, Principal.
+# Yuri: *sigh* You've got your work cut out for you, Principal.
 Yuri: *вздох* Ну и работенка вам досталась, Директор.
 
-# Original: Kids, total messes. Charon, super disappointed.
+# Charon: Kids, total messes. Charon, super disappointed.
 Charon: Дети — сплошной беспорядок. Харон супер-разочарована.
 
-# Original: <Ah! Miss Yuri, Miss Charon.>
+# Dante: <Ah! Miss Yuri, Miss Charon.>
 Dante: <А! Мисс Юри, мисс Харон.>
 
-# Original: Can't be easy chaperoning 12 kids with wildly different temperaments, huh?
+# Yuri: Can't be easy chaperoning 12 kids with wildly different temperaments, huh?
 Yuri: Нелегко, должно быть, присматривать за 12 детьми с совершенно разными характерами, да?
 
-# Original: <Oh, I can't complain. It's not like I'm doing this all on my own, right? Especially with the two of you handling two classrooms each, too...>
+# Dante: <Oh, I can't complain. It's not like I'm doing this all on my own, right? Especially with the two of you handling two classrooms each, too...>
 Dante: <Ох, мне ли жаловаться. Я ведь не делаю всё это в одиночку, верно? Особенно когда вы двое тоже ведете по две группы...>
 
-# Original: One of the two's out all day. Charon's got it easy-peasy.
+# Charon: One of the two's out all day. Charon's got it easy-peasy.
 Charon: Одна из двух весь день гуляет. Харон проще простого.
 
-# Original: Ahahaha... I guess Miss Charon's teaching style's a bit laissez-faire.
+# Yuri: Ahahaha... I guess Miss Charon's teaching style's a bit laissez-faire.
 Yuri: Ахахаха... Полагаю, стиль преподавания мисс Харон можно назвать принципом невмешательства.
 
-# Original: And Early Elephants're quiet kids. Not hyper like other kids. Nope.
+# Charon: And Early Elephants're quiet kids. Not hyper like other kids. Nope.
 Charon: И Ранние слонята — тихие дети. Не гиперактивные, как остальные. Неа.
 
-# Original: Ha ha...
+# Yuri: Ha ha...
 Yuri: Ха-ха...
 
-# Original: <W-wait, I need to talk to you two about something! Listen, the kids've stirred up some more trouble today.>
+# Dante: <W-wait, I need to talk to you two about something! Listen, the kids've stirred up some more trouble today.>
 Dante: <П-подождите, мне нужно кое о чем с вами поговорить! Послушайте, дети сегодня устроили очередные неприятности.>
 
-# Original: Trouble? Hehe.
+# Yuri: Trouble? Hehe.
 Yuri: Неприятности? Хе-хе.
 
-# Original: I initially planned this hands-on class to be a collective experience where we'd all work on the same dish, but...
+# Yuri: I initially planned this hands-on class to be a collective experience where we'd all work on the same dish, but...
 Yuri: Изначально я планировала, что это практическое занятие будет коллективным заданием, где мы все будем работать над одним блюдом, но...
 
-# Original: ... I'm sure cooking various different recipes will be a very educational experience for the kids, too!
+# Yuri: ... I'm sure cooking various different recipes will be a very educational experience for the kids, too!
 Yuri: ... Я уверена, что приготовление разных рецептов тоже станет для детей очень познавательным опытом!
 
-# Original: Miss Yuri... She's a bit different from how I remember her from my, admittedly, hazy memories.
+# Narrator: Miss Yuri... She's a bit different from how I remember her from my, admittedly, hazy memories.
 Narrator: Мисс Юри... Она немного отличается от того, какой я помню её по своим, надо признать, смутным воспоминаниям.
 
-# Original: Ah, or was she always this passionate?
+# Narrator: Ah, or was she always this passionate?
 Narrator: А, или она всегда была такой полной энтузиазма?
 
-# Original: With just the right dose of competitive spirit, I'm sure this'll be a nice opportunity for the kids to learn what it feels like to experience a sense of accomplishment!
+# Yuri: With just the right dose of competitive spirit, I'm sure this'll be a nice opportunity for the kids to learn what it feels like to experience a sense of accomplishment!
 Yuri: С правильной дозой соревновательного духа, я уверена, это будет прекрасной возможностью для детей узнать, каково это — испытывать чувство выполненного долга!
 
-# Original: Lissen up, Early Elephants!! We Perky Penguins'll totally destwoy you and win the Executive Teach's favor!!!
+# Outis: Lissen up, Early Elephants!! We Perky Penguins'll totally destwoy you and win the Executive Teach's favor!!!
 Outis: Сусайте сюда, Ланние сьонята!! Мы, Задовные пингвинята, полностью лазгвомим вас и завоюем ласполозение Исповнитевьного Уча!!!
 
-# Original: ... Heh. G'luck.
+# Ryōshū: ... Heh. G'luck.
 Ryōshū: ... Хех. Попвобуйте.
 
-# Original: Oh, and in the process of working together to win, they'll have to put their heads together and learn the ways of co-operation.
+# Yuri: Oh, and in the process of working together to win, they'll have to put their heads together and learn the ways of co-operation.
 Yuri: О, и в процессе совместной работы ради победы им придется объединить умы и научиться сотрудничать.
 
-# Original: Heya, can ya help me move stuff for Learning by Doing today...?
+# Rodion: Heya, can ya help me move stuff for Learning by Doing today...?
 Rodion: Эй, не поможешь мне пелетащить вещички для севоднешнево Обучения на практике...?
 
-# Original: I must stwategize. Find some other Sinnerling fow help.
+# Outis: I must stwategize. Find some other Sinnerling fow help.
 Outis: Я должна лазлаботать стватегию. Найти длугого Глешнёнка для помоси.
 
-# Original: This doesn't seem like a safe dosage of competitive spirit at all... And I'm not seeing even a speck of cooperation between them.
+# Narrator: This doesn't seem like a safe dosage of competitive spirit at all... And I'm not seeing even a speck of cooperation between them.
 Narrator: Это совершенно не похоже на безопасную дозу соревновательного духа... И я не вижу между ними ни капли сотрудничества.
 
-# Original: Not to mention the physical workout they'll get from procuring the ingredients!
+# Yuri: Not to mention the physical workout they'll get from procuring the ingredients!
 Yuri: Не говоря уже о физической нагрузке, которую они получат, добывая ингредиенты!
 
-# Original: Eh? Procuring the what now?
+# Narrator: Eh? Procuring the what now?
 Narrator: А? Добывая что?
 
-# Original: <Are you saying that the kids'll be... out collecting their own ingredients?>
+# Dante: <Are you saying that the kids'll be... out collecting their own ingredients?>
 Dante: <Вы хотите сказать, что дети будут... сами собирать ингредиенты?>
 
-# Original: Oh, yes.
+# Yuri: Oh, yes.
 Yuri: О, да.
 
-# Original: Look over there—the Perky Penguins are already ready to head out!
+# Yuri: Look over there—the Perky Penguins are already ready to head out!
 Yuri: Посмотрите туда — Задорные пингвинята уже готовы выдвигаться!
 
-# Original: <Ready, huh...?>
+# Dante: <Ready, huh...?>
 Dante: <Готовы, да...?>
 
-# Original: My gaze followed Miss Yuri's and, naturally, caught a row of marching Sinnerlings each with some kind of item in their tiny hands.
+# Narrator: My gaze followed Miss Yuri's and, naturally, caught a row of marching Sinnerlings each with some kind of item in their tiny hands.
 Narrator: Мой взгляд последовал за взглядом мисс Юри и, естественно, выцепил ряд марширующих Грешнят, каждый из которых держал в своих крошечных ручках какой-то предмет.
 
-# Original: ... Toys? Am I looking at a toy axe?
+# Narrator: ... Toys? Am I looking at a toy axe?
 Narrator: ... Игрушки? Я что, смотрю на игрушечный топор?
 
-# Original: Technology these days, huh?
+# Yuri: Technology these days, huh?
 Yuri: Нынешние технологии, да?
 
-# Original: These safety models are made for hands-on classes, so even kids can handle them without accidentally hurting themselves.
+# Yuri: These safety models are made for hands-on classes, so even kids can handle them without accidentally hurting themselves.
 Yuri: Эти Безопасные модели сделаны для практических занятий, так что даже дети могут обращаться с ними, случайно не поранившись.
 
-# Original: Ohh... I get it now. That's what they'll be using to "hunt" the ingredients.
+# Narrator: Ohh... I get it now. That's what they'll be using to "hunt" the ingredients.
 Narrator: Ааа... Теперь я понимаю. Это то, что они будут использовать для "охоты" на ингредиенты.
 
-# Original: Yeah no, I don't see anything wrong with that.
+# Narrator: Yeah no, I don't see anything wrong with that.
 Narrator: Ну да, я не вижу в этом ничего плохого.
 
-# Original: As for those things approaching us from the distance... Are they supposed to be the ingredients?
+# Narrator: As for those things approaching us from the distance... Are they supposed to be the ingredients?
 Narrator: Что касается тех существ, которые приближаются к нам издалека... Они, надо полагать, и есть ингредиенты?
 
-# Original: They've got, uh, Bongy on their heads...
+# Narrator: They've got, uh, Bongy on their heads...
 Narrator: У них, эмм, Бони на их головах...
 
-# Original: Ah! They're Bongybugs from District 4! Those things have crunchy skin, which makes them perfect for grilling and deep-frying.
+# Yuri: Ah! They're Bongybugs from District 4! Those things have crunchy skin, which makes them perfect for grilling and deep-frying.
 Yuri: А! Это Бонижуки из Района 4! У них хрустящая корочка, что делает их идеальными для жарки на гриле и во фритюре.
 
-# Original: Bongy... bugs...? I'm not sure if I like the specific juxtaposition of those two words. Wait, scratch that. Aren't Bongy supposed to be—
+# Narrator: Bongy... bugs...? I'm not sure if I like the specific juxtaposition of those two words. Wait, scratch that. Aren't Bongy supposed to be—
 Narrator: Бони... жуки...? Я не уверен, что мне нравится конкретно это сочетание двух слов. Подождите, забудьте об этом. Разве Бони не должны быть—
 
-# Original: Executive Teach! Reporring pogress!
+# Outis: Executive Teach! Reporring pogress!
 Outis: Исповнитевный Уч! Докладавау о плогвессе!
 
-# Original: As I stood there searching through my hazy memories in a daze, one of the tiny Sinnerlings marched up to me and stirred me from my trance.
+# Narrator: As I stood there searching through my hazy memories in a daze, one of the tiny Sinnerlings marched up to me and stirred me from my trance.
 Narrator: Пока я стоял там, в оцепенении копаясь в своих смутных воспоминаниях, один из крошечных Грешнят подошел ко мне маршем и вывел меня из транса.
 
-# Original: <O-Outis, hello.>
+# Dante: <O-Outis, hello.>
 Dante: <О-Отис, привет.>
 
-# Original: I dunno, something about her feels like she's just an adult who's inexplicably assumed the speech patterns of a toddler.
+# Narrator: I dunno, something about her feels like she's just an adult who's inexplicably assumed the speech patterns of a toddler.
 Narrator: Я не знаю, есть в ней что-то такое, из-за чего кажется, будто она просто взрослый, который по непонятной причине перенял манеру речи малыша.
 
-# Original: Yes, Executive Teach! Da four cadets of Perky Penguins, reporring ready for hands-on class!
+# Outis: Yes, Executive Teach! Da four cadets of Perky Penguins, reporring ready for hands-on class!
 Outis: Так тосьно, Исповнитевный Уч! Цетыве кадета Задовных пингвинят докладаваут о готовности к плактицескому занятию!
 
-# Original: Outis looked up expectantly at me, in her hand a "weapon" glowing in the full spectrum of the rainbow as it buzzed with all kinds of annoying noises.
+# Narrator: Outis looked up expectantly at me, in her hand a "weapon" glowing in the full spectrum of the rainbow as it buzzed with all kinds of annoying noises.
 Narrator: Отис выжидающе посмотрела на меня; в её руке было "оружие", светящееся всем спектром радуги и жужжащее всевозможными раздражающими звуками.
 
-# Original: Oh, right. My job was to keep an eye on the Sinnerlings and ensure that today's hands-on class ends safely.
+# Narrator: Oh, right. My job was to keep an eye on the Sinnerlings and ensure that today's hands-on class ends safely.
 Narrator: Ах, да. Моей задачей было присматривать за Грешнятами и следить за тем, чтобы сегодняшнее практическое занятие закончилось безопасно.
 
-# Original: <Sounds good. Then shall we?>
+# Dante: <Sounds good. Then shall we?>
 Dante: <Звучит отлично. Тогда начнем?>
 
-# Original: March fort! We look forwad to your guidace!
+# Outis: March fort! We look forwad to your guidace!
 Outis: Сагом малс! Мы с нетелпением здём васего луководства!

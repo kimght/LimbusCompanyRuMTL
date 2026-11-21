@@ -1,425 +1,425 @@
-﻿# Original: A funeral was held for Marton and the LCE researchers today.
+﻿# Narrator: A funeral was held for Marton and the LCE researchers today.
 Narrator: Сегодня состоялись похороны Мартона и исследователей LCE.
 
-# Original: I thought I'd seen more than my fair share of deaths throughout my journey with the Sinners...
+# Narrator: I thought I'd seen more than my fair share of deaths throughout my journey with the Sinners...
 Narrator: Я думал, что за время своего путешествия с Грешниками повидал более чем достаточно смертей...
 
-# Original: ... but never before had I witnessed this many people gather in one place to mourn the deceased together. The unfamiliarity made me feel a bit out of place.
+# Narrator: ... but never before had I witnessed this many people gather in one place to mourn the deceased together. The unfamiliarity made me feel a bit out of place.
 Narrator: ...но ещё никогда прежде я не видел, чтобы столько людей собиралось в одном месте, дабы вместе оплакать покойных. Из-за этой непривычной обстановки я чувствовал себя немного не в своей тарелке.
 
-# Original: ... Am I doing this right?
+# Sinclair: ... Am I doing this right?
 Sinclair: ... Я всё правильно делаю?
 
-# Original: Most of the Sinners seemed to be feeling that similar sense of being out of their element as well.
+# Narrator: Most of the Sinners seemed to be feeling that similar sense of being out of their element as well.
 Narrator: Большинство Грешников, казалось, тоже чувствовали себя здесь не в своей тарелке.
 
-# Original: Some of them were asking Meursault—apparently the most knowledgeable of them all when it came to funeral process and etiquette—all manner of questions for pointers.
+# Narrator: Some of them were asking Meursault—apparently the most knowledgeable of them all when it came to funeral process and etiquette—all manner of questions for pointers.
 Narrator: Некоторые из них уточняли у Мерсо — очевидно, самого сведущего из всех в вопросах похоронного процесса и этикета — всевозможные вопросы.
 
-# Original: Expressing respect is the primary purpose. Hand placement and gesture are unimportant if that objective can be accomplished.
+# Meursault: Expressing respect is the primary purpose. Hand placement and gesture are unimportant if that objective can be accomplished.
 Mersault: Выражение уважения является первостепенной целью. Положение рук и жесты не имеют значения, если эта цель достигается.
 
-# Original: Hey, where do I put this?
+# Rodion: Hey, where do I put this?
 Rodion: Эй, куда мне это положить?
 
-# Original: Mm. Beneath the third pillar to the right...
+# Meursault: Mm. Beneath the third pillar to the right...
 Mersault: Мм. Под третью колонну справа...
 
-# Original: Can't any of you quit chattering for one second? Have you all forgotten the instruction to carry yourselves with solemn propriety that befits the occasion?
+# Outis: Can't any of you quit chattering for one second? Have you all forgotten the instruction to carry yourselves with solemn propriety that befits the occasion?
 Outis: Вы хоть на секунду можете перестать болтать? Вы все забыли приказ вести себя с торжественным достоинством, подобающим случаю?
 
-# Original: Cut me some slack. I haven't been to funerals all that much.
+# Rodion: Cut me some slack. I haven't been to funerals all that much.
 Rodion: Будьте снисходительнее. Я не так уж часто бывала на похоронах.
 
-# Original: I mean, I did tell you to read the manual. I even underlined all the important parts for you...
+# Ishmael: I mean, I did tell you to read the manual. I even underlined all the important parts for you...
 Ishmael: В смысле, я же говорила тебе прочитать руководство. Я даже подчеркнула для тебя все важные моменты...
 
-# Original: *groan* Sorry, Ishy. The wall of text was just too much for me. My focus started fizzling out from page 30 onwards...
+# Rodion: *groan* Sorry, Ishy. The wall of text was just too much for me. My focus started fizzling out from page 30 onwards...
 Rodion: Уххх... Прости, Изя. Такая стена текста была для меня чересчур. Моё внимание начало рассеиваться уже после тридцатой страницы...
 
-# Original: Hadn't every Sinner here attended a funeral before... back when we set foot in that grim manor in T Corp.?
+# Outis: Hadn't every Sinner here attended a funeral before... back when we set foot in that grim manor in T Corp.?
 Outis: Разве не все Грешники здесь уже присутствовали на похоронах раньше... тогда, когда мы ступили в то мрачное поместье в Корпорации T?
 
-# Original: Ah! Thou speakest of the funeral held in Young Heathcliff’s manor, dost thou not? The one bereft of the dead.
+# Don Quixote: Ah! Thou speakest of the funeral held in Young Heathcliff’s manor, dost thou not? The one bereft of the dead.
 Don Quixote: Ах! Ты глаголишь о похоронах, что прошли в поместье юного Хитклифа, не так ли? О тех самых, где не было усопшего.
 
-# Original: Bereft of the dead? I mean, <i>someone</i> had to have died, because there wouldn't have been a property dispute big enough to involve the Öufi Association's notarization otherwise... I've said this time and again, but it was just an intentional anonymity to prevent family strife.
+# Ishmael: Bereft of the dead? I mean, <i>someone</i> had to have died, because there wouldn't have been a property dispute big enough to involve the Öufi Association's notarization otherwise... I've said this time and again, but it was just an intentional anonymity to prevent family strife.
 Ishmael: Не было усопшего? То есть, <i>кто-то</i> ведь должен был умереть, иначе не возникло бы имущественного спора, достаточно крупного, чтобы потребовалось нотариальное заверение Ассоциации Эуфи... Я повторяла это снова и снова, но это была просто преднамеренная анонимность, дабы предотвратить семейные распри.
 
-# Original: Intentional anonymity, is it...
+# Don Quixote: Intentional anonymity, is it...
 Don Quixote: Преднамеренная анонимность, говоришь...
 
-# Original: If the situation was indeed as thou sayest, then there was no helping it, forsooth... Yet, 'tis a pity that the dead wasn't named at their own funeral...
+# Don Quixote: If the situation was indeed as thou sayest, then there was no helping it, forsooth... Yet, 'tis a pity that the dead wasn't named at their own funeral...
 Don Quixote: Коли всё действительно обстояло так, как ты речёшь, то с этим ничего не поделать, воистину... И всё же весьма прискорбно, что имя покойного не прозвучало на его собственных похоронах...
 
-# Original: ... The name of the deceased... was...
+# Heathcliff: ... The name of the deceased... was...
 Heathcliff: ... Имя покойной... было...
 
-# Original: <... It was Catherine's funeral. She was very dear to Heathcliff.>
+# Dante: <... It was Catherine's funeral. She was very dear to Heathcliff.>
 Dante: <... Это были похороны Кэтрин. Она была очень дорога Хитклифу.>
 
-# Original: I have thoroughly reviewed the past 5 years' worth of local newspapers pertaining to the matter, yet no such name relevant to the case was identified, Manager.
+# Meursault: I have thoroughly reviewed the past 5 years' worth of local newspapers pertaining to the matter, yet no such name relevant to the case was identified, Manager.
 Mersault: Я тщательно изучил местные газеты по этому вопросу за последние пять лет, однако ни одного подобного имени, имеющего отношение к делу, обнаружено не было, Менеджер.
 
-# Original: .......
+# Heathcliff: .......
 Heathcliff: .......
 
-# Original: It's fine, Clockhead. At least you remember—that's good enough, innit.
+# Heathcliff: It's fine, Clockhead. At least you remember—that's good enough, innit.
 Heathcliff: Всё норм, Часовая Башка. По крайней мере ты помнишь — уже неплохо, скажи же.
 
-# Original: It had to be the Golden Bough's influence. Somewhere along the way, everyone's memories of the event at Wuthering Heights had become warped.
+# Narrator: It had to be the Golden Bough's influence. Somewhere along the way, everyone's memories of the event at Wuthering Heights had become warped.
 Narrator: Должно быть, это влияние Золотой Ветви. В какой-то момент все воспоминания о событиях на Грозовом Перевале были искажены.
 
-# Original: The Sinners seemed to think that the Golden Bough had always been there in that manor, and that Nelly was coaxed into stealing it by Hermann. Linton, in their minds, was now a grieving brother who had been conducting research for his dead sister's sake...
+# Narrator: The Sinners seemed to think that the Golden Bough had always been there in that manor, and that Nelly was coaxed into stealing it by Hermann. Linton, in their minds, was now a grieving brother who had been conducting research for his dead sister's sake...
 Narrator: Грешники, похоже, считали, что Золотая Ветвь всегда находилась в том поместье, и что Герман уговорила Нелли украсть её. Линтон в их памяти теперь стал скорбящим братом, проводившим исследования ради своей мёртвой сестры...
 
-# Original: Nobody questioned it. Not Don Quixote, not Faust—every single Sinner believed the twisted version of the memory as if it was a proven fact.
+# Narrator: Nobody questioned it. Not Don Quixote, not Faust—every single Sinner believed the twisted version of the memory as if it was a proven fact.
 Narrator: Никто не ставил это под сомнение. Ни Дон Кихот, ни Фауст — каждый Грешник верил в эту искажённую версию воспоминаний так, словно это был доказанный факт.
 
-# Original: Heathcliff and I gave up trying to correct them. Instead, we'd just check in on each other's memories every now and then.
+# Narrator: Heathcliff and I gave up trying to correct them. Instead, we'd just check in on each other's memories every now and then.
 Narrator: Мы с Хитклифом оставили попытки поправить их. Вместо этого мы лишь время от времени сверяли наши воспоминания.
 
-# Original: Because if there's something that he and I realized, it was that anything tied to Catherine had already been painted over... every detail gilded and glossed over with the glow of the Bough.
+# Narrator: Because if there's something that he and I realized, it was that anything tied to Catherine had already been painted over... every detail gilded and glossed over with the glow of the Bough.
 Narrator: Потому что если мы с ним что-то и поняли, так это то, что всё, связанное с Кэтрин, уже было закрашено... каждая деталь позолочена и сглажена сиянием Ветви.
 
-# Original: The point is, how should I put this... The circumstances of that funeral didn't exactly leave us much room to properly express our condolences back then.
+# Ishmael: The point is, how should I put this... The circumstances of that funeral didn't exactly leave us much room to properly express our condolences back then.
 Ishmael: Суть в том, как бы это выразиться... Обстоятельства тех похорон не то чтобы оставили нам тогда много возможностей должным образом выразить свои соболезнования.
 
-# Original: Between Heathcliff running on a rampage and that Hindley guy bent on interfering with the execution of the will... *sigh*
+# Ishmael: Between Heathcliff running on a rampage and that Hindley guy bent on interfering with the execution of the will... *sigh*
 Ishmael: То Хитклиф рвал и метал, то тот парень Хиндли вознамерился вмешаться в исполнение завещания... *вздох*
 
-# Original: <I assumed that sort of impediment was pretty common stuff for funerals, but apparently not, huh?>
+# Dante: <I assumed that sort of impediment was pretty common stuff for funerals, but apparently not, huh?>
 Dante: <Я полагал, что подобные препятствия — довольно обычное дело для похорон, но, по-видимому, нет, да?>
 
-# Original: No, well... I think it's actually rare to see a place that follows proper funeral procedures. I've traveled around quite a bit myself, but I can't confidently say that I've ever been to a legitimate "funeral."
+# Ishmael: No, well... I think it's actually rare to see a place that follows proper funeral procedures. I've traveled around quite a bit myself, but I can't confidently say that I've ever been to a legitimate "funeral."
 Ishmael: Нет, ну... Мне кажется, на самом деле редкость встретить место, где соблюдаются надлежащие похоронные процедуры. Я сама немало путешествовала, но не могу с уверенностью сказать, что когда-либо бывала на полноценных «похоронах».
 
-# Original: The one at Wuthering Heights was one of the more proper funerals, if only for pretending to have a process. They at least prepared a coffin and even had a formal reading of the will.
+# Ishmael: The one at Wuthering Heights was one of the more proper funerals, if only for pretending to have a process. They at least prepared a coffin and even had a formal reading of the will.
 Ishmael: Те, что были на Грозовом Перевале, оказались одними из самых правильных похорон, хотя бы потому, что там была видимость процесса. Они по крайней мере подготовили гроб и даже устроили официальное оглашение завещания.
 
-# Original: ... It seems funerals are far from being an everyday custom in the City.
+# Narrator: ... It seems funerals are far from being an everyday custom in the City.
 Narrator: ...Похоже, похороны отнюдь не являются повседневным обычаем в Городе.
 
-# Original: Funerals are considered a rather extravagant practice here as well.
+# Hohenheim: Funerals are considered a rather extravagant practice here as well.
 Hohenheim: В этом месте похороны так же считаются весьма экстравагантной практикой.
 
-# Original: Corporations are not eager to grant time-offs just because an irrelevant someone has died, and the price of real estate seldom makes it viable to buy land and erect memorial houses on it.
+# Hohenheim: Corporations are not eager to grant time-offs just because an irrelevant someone has died, and the price of real estate seldom makes it viable to buy land and erect memorial houses on it.
 Hohenheim: Корпорации не горят желанием давать отгулы только потому, что умер какой-то не имеющий значения человек, а цены на недвижимость редко позволяют купить землю и возвести на ней мемориальные сооружения.
 
-# Original: <Then... what other options do people usually have?>
+# Dante: <Then... what other options do people usually have?>
 Dante: <Тогда... какие ещё варианты обычно есть у людей?>
 
-# Original: We used to just... leave them where they died. And after one night's sleep... the bodies were gone, just like that.
+# Rodion: We used to just... leave them where they died. And after one night's sleep... the bodies were gone, just like that.
 Rodion: Мы обычно просто... оставляли их там, где они умерли. А на следующее утро... тела исчезали, вот так просто.
 
-# Original: Better than paying loads of money to bury 'em somewhere just to have that stir up a load of daft rumours, eh?
+# Heathcliff: Better than paying loads of money to bury 'em somewhere just to have that stir up a load of daft rumours, eh?
 Heathcliff: Уж лучше так, чем отваливать кучу бабла за то, чтобы их где-то закопать, только ради того, чтобы это породило кучу дурацких слухов, а?
 
-# Original: <Rumors?>
+# Dante: <Rumors?>
 Dante: <Слухов?>
 
-# Original: You know—rumours about there bein' valuables buried with the bodies, or an arm being some fancy prosthesis... all that rot.
+# Heathcliff: You know—rumours about there bein' valuables buried with the bodies, or an arm being some fancy prosthesis... all that rot.
 Heathcliff: Ну знаешь — слухов о том, что вместе с телами зарыты ценности, или что чья-то рука — это какой-то дорогущий протез... и всякая такая чушь.
 
-# Original: Better to let the dead go in peace than to bury them in a grave just for some sods to later desecrate it.
+# Heathcliff: Better to let the dead go in peace than to bury them in a grave just for some sods to later desecrate it.
 Heathcliff: Лучше дать мертвякам упокоиться с миром, чем хоронить их в могиле лишь для того, чтобы потом какие-то ублюдки её осквернили.
 
-# Original: In Hongyuan... People tend to set up graves if they have enough room to spare. Of course, there wasn't a guarantee they wouldn't lose the burial room by the next Restructuring Day.
+# Hong Lu: In Hongyuan... People tend to set up graves if they have enough room to spare. Of course, there wasn't a guarantee they wouldn't lose the burial room by the next Restructuring Day.
 Hong Lu: В Хунъюане... Люди обычно обустраивают могилы, если у них есть лишнее место. Конечно, нет никакой гарантии, что они не потеряют помещение для погребения к следующему Дню Реструктуризации.
 
-# Original: Hohenheim scoffed and hung his head.
+# Narrator: Hohenheim scoffed and hung his head.
 Narrator: Хохенхайм фыркнул и опустил голову.
 
-# Original: Otiose foolishness, all of it.
+# Hohenheim: Otiose foolishness, all of it.
 Hohenheim: Бесполезная глупость, всё это.
 
-# Original: Comforting the soul of the departed? Another mendacity.
+# Hohenheim: Comforting the soul of the departed? Another mendacity.
 Hohenheim: Утешение души усопшего? Очередная ложь.
 
-# Original: All those funds so carelessly squandered, all for the purpose of furnishing the living with a fragile excuse to cling on.
+# Hohenheim: All those funds so carelessly squandered, all for the purpose of furnishing the living with a fragile excuse to cling on.
 Hohenheim: Все эти средства так небрежно разбазарены, и всё ради того, чтобы предоставить живым хрупкое оправдание, за которое можно было бы цепляться.
 
-# Original: Are those words from his heart, or just something said to convince himself?
+# Narrator: Are those words from his heart, or just something said to convince himself?
 Narrator: Были ли эти слова от чистого сердца, или он просто сказал это, чтобы убедить самого себя?
 
-# Original: Whichever was the truth, I couldn't see the look on his face with his head tucked so low.
+# Narrator: Whichever was the truth, I couldn't see the look on his face with his head tucked so low.
 Narrator: Что бы из этого ни было правдой, я не мог разглядеть выражения его лица — так низко он опустил голову.
 
-# Original: The funeral didn't last long.
+# Narrator: The funeral didn't last long.
 Narrator: Похороны длились недолго.
 
-# Original: It was just a brief moment of silence, followed by a few quick goodbyes that were shorter still.
+# Narrator: It was just a brief moment of silence, followed by a few quick goodbyes that were shorter still.
 Narrator: Лишь краткая минута молчания, за которой последовало несколько быстрых прощаний, продлившихся и того меньше.
 
-# Original: The ceremony came to a close once Alyssa, who was still in recovery, came to pay her final respects.
+# Narrator: The ceremony came to a close once Alyssa, who was still in recovery, came to pay her final respects.
 Narrator: Церемония подошла к концу, когда Алиса, всё ещё находившаяся на лечении, пришла отдать последние почести.
 
-# Original: The flames devoured the coffins of Marton and the other researchers, announcing the end of their existence with the crackle of firewood.
+# Narrator: The flames devoured the coffins of Marton and the other researchers, announcing the end of their existence with the crackle of firewood.
 Narrator: Пламя пожирало гробы Мартона и других исследователей, знаменуя конец их существования треском дров.
 
-# Original: So... I suppose you'll be leaving now?
+# Alyssa: So... I suppose you'll be leaving now?
 Alyssa: Итак... Полагаю, теперь вы уезжаете?
 
-# Original: <Oh.>
+# Dante: <Oh.>
 Dante: <Ох.>
 
-# Original: <... We're staying until Gregor's stable enough to travel.>
+# Dante: <... We're staying until Gregor's stable enough to travel.>
 Dante: <... Мы останемся, пока состояние Грегора не станет достаточно стабильным.>
 
-# Original: Dante says we'll remain here until Gregor's condition settles.
+# Hong Lu: Dante says we'll remain here until Gregor's condition settles.
 Hong Lu: Данте говорит, что мы останемся здесь, пока состояние Грегора не придёт в норму.
 
-# Original: Ah...
+# Alyssa: Ah...
 Alyssa: Ах...
 
-# Original: Gregor came to his senses again a few days after his unforeseen metamorphosis in the battle against the Thumb Nursefather.
+# Narrator: Gregor came to his senses again a few days after his unforeseen metamorphosis in the battle against the Thumb Nursefather.
 Narrator: Грегор снова пришёл в себя через несколько дней после своей непредвиденной метаморфозы в битве против Отца-воспитателя Большого.
 
-# Original: He was given a check-up, and Hohenheim said there is no cause for concern...
+# Narrator: He was given a check-up, and Hohenheim said there is no cause for concern...
 Narrator: Его обследовали, и Хохенхайм сказал, что поводов для беспокойства нет...
 
-# Original: ... Physically, that is. The psychological assessment turned up disastrous, to say the least. Gregor was declared unfit for combat deployment for the time being.
+# Narrator: ... Physically, that is. The psychological assessment turned up disastrous, to say the least. Gregor was declared unfit for combat deployment for the time being.
 Narrator: ... В физическом плане, разумеется. Психологическая оценка оказалась, мягко говоря, катастрофической. Грегор был признан временно непригодным для участия в боевых действиях.
 
-# Original: So you won't be leaving just yet. Good to know.
+# Alyssa: So you won't be leaving just yet. Good to know.
 Alyssa: Значит, вы пока не уезжаете. Приятно слышать.
 
-# Original: Then I assume you'll be okay with us borrowing Sinclair for a while?
+# Alyssa: Then I assume you'll be okay with us borrowing Sinclair for a while?
 Alyssa: Тогда, полагаю, вы не будете против, если мы одолжим Синклера на какое-то время?
 
-# Original: <Hmm?>
+# Dante: <Hmm?>
 Dante: <Хмм?>
 
-# Original: M-me...?
+# Sinclair: M-me...?
 Sinclair: М-меня...?
 
-# Original: Yes, you. The LCE wants to look into the Sign you manifested, Sinclair.
+# Alyssa: Yes, you. The LCE wants to look into the Sign you manifested, Sinclair.
 Alyssa: Да, тебя. LCE хочет изучить Метку, которую ты проявил, Синклер.
 
-# Original: The higher-ups didn't waste a second green-lighting the project. Which means what I'm telling you is more a notice of investigation than a request for permission...
+# Alyssa: The higher-ups didn't waste a second green-lighting the project. Which means what I'm telling you is more a notice of investigation than a request for permission...
 Alyssa: Начальство ни секунды не медлило с одобрением проекта. А это значит, что мои слова — скорее уведомление об исследовании, нежели просьба о разрешении...
 
-# Original: Huh...? W-what investigation? What are you—
+# Sinclair: Huh...? W-what investigation? What are you—
 Sinclair: А...? К-какое исследование? О чём вы—
 
-# Original: It's just a rather rudimentary instance of human experimentation. Calm yourself.
+# Hohenheim: It's just a rather rudimentary instance of human experimentation. Calm yourself.
 Hohenheim: Это всего лишь довольно элементарный случай экспериментов над людьми. Успокойся.
 
-# Original: <i>Human</i> experimentation?!
+# Sinclair: <i>Human</i> experimentation?!
 Sinclair: Экспериментов <i>над людьми</i>?!
 
-# Original: Did you really have to put it like that, Boss...? Not to worry, Sinclair. A swipe or two on your skin and maybe some talk therapy—that's all there is to it.
+# Alyssa: Did you really have to put it like that, Boss...? Not to worry, Sinclair. A swipe or two on your skin and maybe some talk therapy—that's all there is to it.
 Alyssa: Вам обязательно было формулировать это именно так, босс?.. Не беспокойся, Синклер. Пара мазков по коже и, может, немного разговорной терапии — вот и всё, что потребуется.
 
-# Original: Of course, if we had your consent, the avenues of research could be vastly—
+# Alyssa: Of course, if we had your consent, the avenues of research could be vastly—
 Alyssa: Конечно, будь у нас твоё согласие, пути исследования могли бы быть значительно—
 
-# Original: No, I'm not giving you my consent!
+# Sinclair: No, I'm not giving you my consent!
 Sinclair: Нет, я не даю вам своего согласия!
 
-# Original: For your reference, the other departments have also submitted some quite enthusiastic requests for research and observational purposes.
+# Hohenheim: For your reference, the other departments have also submitted some quite enthusiastic requests for research and observational purposes.
 Hohenheim: К твоему сведению, другие отделы тоже подали весьма полные энтузиазма запросы на проведение исследований и наблюдений.
 
-# Original: Oh, you have no idea. We had to get Boss to fend off the LCA's Mirror World Observatorium Department and their hissy fits. They wanted to be the first ones to get their hands on you and spearhead the research, you see. Haha...
+# Alyssa: Oh, you have no idea. We had to get Boss to fend off the LCA's Mirror World Observatorium Department and their hissy fits. They wanted to be the first ones to get their hands on you and spearhead the research, you see. Haha...
 Alyssa: О, ты даже не представляешь. Нам пришлось попросить босса отбиваться от Отдела наблюдения Зеркальных миров LCA с их истериками. Видишь ли, они хотели первыми наложить на тебя руки и возглавить исследование. Ха-ха...
 
-# Original: And had we allowed them, they'd have kept you for a good few months before letting you go. So the least you could do to thank us is be a good boy and cooperate—Ah! Just in time. Our researchers are here.
+# Alyssa: And had we allowed them, they'd have kept you for a good few months before letting you go. So the least you could do to thank us is be a good boy and cooperate—Ah! Just in time. Our researchers are here.
 Alyssa: И если бы мы им позволили, они бы продержали тебя добрых несколько месяцев, прежде чем отпустить. Так что меньшее, что ты мог бы сделать в знак благодарности — это быть хорошим мальчиком и сотрудничать... Ах! Как раз вовремя. Наши исследователи уже здесь.
 
-# Original: Alyssa waved at the researchers who were filing out of the funeral hall after paying their respects. It wasn't long before Sinclair found himself surrounded on all sides.
+# Narrator: Alyssa waved at the researchers who were filing out of the funeral hall after paying their respects. It wasn't long before Sinclair found himself surrounded on all sides.
 Narrator: Алиса помахала исследователям, которые гуськом выходили из похоронного зала после того, как отдали дань уважения. Вскоре Синклер оказался окружён со всех сторон.
 
-# Original: W-wait! I'm... I'm perfectly capable of walking there on my own, so just... just don't run any painful tests on me...!
+# Sinclair: W-wait! I'm... I'm perfectly capable of walking there on my own, so just... just don't run any painful tests on me...!
 Sinclair: П-подождите! Я... я вполне способен дойти туда сам, так что просто... просто не проводите на мне никаких болезненных тестов!..
 
-# Original: Of course, of course.
+# Alyssa: Of course, of course.
 Alyssa: Конечно, конечно.
 
-# Original: <Stay strong, Sinclair...>
+# Dante: <Stay strong, Sinclair...>
 Dante: <Держись, Синклер...>
 
-# Original: All I could do was to offer an unspoken encouragement to Sinclair, who sounded ready to collapse into full-blown panic any minute.
+# Narrator: All I could do was to offer an unspoken encouragement to Sinclair, who sounded ready to collapse into full-blown panic any minute.
 Narrator: Всё, что я мог сделать, — это мысленно подбодрить Синклера, по голосу которого было ясно, что он вот-вот сорвётся в полномасштабную панику.
 
-# Original: What about you? You not goin' with them?
+# Heathcliff: What about you? You not goin' with them?
 Heathcliff: А ты чё? С ними не пойдёшь?
 
-# Original: Oh, it's back to the long-term recovery ward for me.
+# Alyssa: Oh, it's back to the long-term recovery ward for me.
 Alyssa: О, а мне пора возвращаться в палату длительного восстановления.
 
-# Original: I always thought scientific research was the one thing that flamed my passion, but with the recent events having introduced me to the merits of paid sick leave... I realized that time off beats research projects in my book. Marginally.
+# Alyssa: I always thought scientific research was the one thing that flamed my passion, but with the recent events having introduced me to the merits of paid sick leave... I realized that time off beats research projects in my book. Marginally.
 Alyssa: Я всегда думала, что научные исследования — это единственное, что зажигает мою страсть, но недавние события познакомили меня с прелестями оплачиваемого больничного... И я поняла, что в моей книге ценностей отгулы бьют исследовательские проекты. С небольшим отрывом.
 
-# Original: Enjoy it while it lasts. I highly suspect that every request for PTO submitted by our department will be rejected for the rest of the year.
+# Hohenheim: Enjoy it while it lasts. I highly suspect that every request for PTO submitted by our department will be rejected for the rest of the year.
 Hohenheim: Наслаждайся, пока можешь. Сильно подозреваю, что до конца года все просьбы об отпусках от нашего отдела будут отклонены.
 
-# Original: Well, it's true your average corporation doesn't give more than a week off a year.
+# Ishmael: Well, it's true your average corporation doesn't give more than a week off a year.
 Ishmael: Ну, это правда, среднестатистическая корпорация не даёт больше недели выходных в год.
 
-# Original: As soon as Alyssa trudged off with her dragging steps, the researchers seized Sinclair and whisked—carried, really—him away.
+# Narrator: As soon as Alyssa trudged off with her dragging steps, the researchers seized Sinclair and whisked—carried, really—him away.
 Narrator: Как только Алиса поплелась прочь своей шаркающей походкой, исследователи схватили Синклера и мигом увели — или скорее унесли — его за собой.
 
-# Original: All right... we should get going too.
+# Ishmael: All right... we should get going too.
 Ishmael: Ладно... нам тоже пора идти.
 
-# Original: <Oh, do you all have somewhere else to be?>
+# Dante: <Oh, do you all have somewhere else to be?>
 Dante: <О, у вас у всех ещё есть дела?>
 
-# Original: Well~ I thought I'd go visit Gregor. I'm worried about him.
+# Hong Lu: Well~ I thought I'd go visit Gregor. I'm worried about him.
 Hong Lu: Ну~ Я думал навестить Грегора. Я за него волнуюсь.
 
-# Original: Got something I said I'd help with—gotta be there for it.
+# Heathcliff: Got something I said I'd help with—gotta be there for it.
 Heathcliff: Я обещал кое с чем подсобить — так что должен быть там.
 
-# Original: I'm going with Sinclair to get some rest. Also to keep an eye on the researchers and stop them if they try anything fishy with the experiments.
+# Ishmael: I'm going with Sinclair to get some rest. Also to keep an eye on the researchers and stop them if they try anything fishy with the experiments.
 Ishmael: Я пойду с Синклером, чтобы немного отдохнуть. А ещё присмотрю за исследователями и остановлю их, если они попытаются провернуть что-то мутное с этими экспериментами.
 
-# Original: Let me know later if you need anything, Dante.
+# Ishmael: Let me know later if you need anything, Dante.
 Ishmael: Дай знать позже, если тебе что-то понадобится, Данте.
 
-# Original: The Sinners fanned out in different directions. They seemed to have their own errands to run during our stay at the LCE.
+# Narrator: The Sinners fanned out in different directions. They seemed to have their own errands to run during our stay at the LCE.
 Narrator: Грешники разбрелись в разные стороны. Похоже, во время нашего пребывания в LCE у них были свои собственные дела.
 
-# Original: <Everyone's busy with their own thing...>
+# Dante: <Everyone's busy with their own thing...>
 Dante: <Каждый занят своим делом...>
 
-# Original: *puff*
+# Ryōshū: *puff*
 Ryōshū: *пых*
 
-# Original: The only ones keeping me company now were Ryōshū, who'd been filling the air around thick with cigarette smoke, and Don Quixote, who was sniffing and asking around at every corner for Vespa in a valiant quest for the new Color Fixer's whereabouts.
+# Narrator: The only ones keeping me company now were Ryōshū, who'd been filling the air around thick with cigarette smoke, and Don Quixote, who was sniffing and asking around at every corner for Vespa in a valiant quest for the new Color Fixer's whereabouts.
 Narrator: Единственными, кто теперь составлял мне компанию, были Рёшу, которая наполняла воздух вокруг густым сигаретным дымом, и Дон Кихот, вынюхивавшая и расспрашивавшая на каждом углу о Веспе в доблестной миссии по выяснению местонахождения нового Цветного корректировщика.
 
-# Original: Faust was still here, too—staring blankly into the air.
+# Narrator: Faust was still here, too—staring blankly into the air.
 Narrator: Фауст тоже всё ещё была здесь — она безучастно смотрела в пустоту.
 
-# Original: Is she accessing the Gesellschaft?
+# Narrator: Is she accessing the Gesellschaft?
 Narrator: Она взаимодействует с Гезельшафтом?
 
-# Original: You seem to have some time to spare, Manager.
+# Hohenheim: You seem to have some time to spare, Manager.
 Hohenheim: У вас, похоже, есть свободное время, Менеджер.
 
-# Original: As I stood there, wondering what I should do next to pass the time, Hohenheim, who had apparently finished tackling and signing the stack of papers, walked over to me.
+# Narrator: As I stood there, wondering what I should do next to pass the time, Hohenheim, who had apparently finished tackling and signing the stack of papers, walked over to me.
 Narrator: Пока я стоял там, гадая, чем бы мне заняться дальше, чтобы скоротать время, Хохенхайм, очевидно покончивший с сортировкой и подписанием стопки бумаг, подошёл ко мне.
 
-# Original: This makes things rather convenient. There is something I had intended to discuss with you and Sinner Ryōshū—a matter that requires your assistance.
+# Hohenheim: This makes things rather convenient. There is something I had intended to discuss with you and Sinner Ryōshū—a matter that requires your assistance.
 Hohenheim: Так даже удобнее. Я как раз намеревался обсудить кое-что с вами и Грешницей №4 — дело, требующее вашей помощи.
 
-# Original: <What kind of assistance?>
+# Dante: <What kind of assistance?>
 Dante: <Какого рода помощи?>
 
-# Original: W.K.O.A.? says C.H.
+# Ryōshū: W.K.O.A.? says C.H.
 Ryōshū: К.Р.П.? — говорит Ч.Б.
 
-# Original: Wait a minute... Did Ryōshū just... step in as my interpreter?
+# Narrator: Wait a minute... Did Ryōshū just... step in as my interpreter?
 Narrator: Минуточку... Рёшу только что... вызвалась быть моим переводчиком?
 
-# Original: It's not that I don't appreciate her gesture—especially since she'd usually snap at me and tell me to find someone else to interpret whenever the issue came up...
+# Narrator: It's not that I don't appreciate her gesture—especially since she'd usually snap at me and tell me to find someone else to interpret whenever the issue came up...
 Narrator: Не то чтобы я не ценил её жест — особенно учитывая, что обычно она огрызалась и говорила мне найти кого-нибудь другого для перевода, когда бы ни возникал этот вопрос...
 
-# Original: But... I can't help but doubt whether her choice method of interpretation actually accomplishes anything.
+# Narrator: But... I can't help but doubt whether her choice method of interpretation actually accomplishes anything.
 Narrator: Но... не могу не усомниться, что её излюбленный метод перевода действительно чего-то достигает.
 
-# Original: ... There is, I must admit, a certain novelty in witnessing the reconstitution of that which requires interpretation into yet another linguistic form equally demanding of it.
+# Hohenheim: ... There is, I must admit, a certain novelty in witnessing the reconstitution of that which requires interpretation into yet another linguistic form equally demanding of it.
 Hohenheim: ... Должен признать, есть некая новизна в том, чтобы наблюдать, как нечто, требующее перевода, воссоздаётся в иной лингвистической форме, нуждающейся в нём не меньше.
 
-# Original: It would seem we are in need of more manpower.
+# Hohenheim: It would seem we are in need of more manpower.
 Hohenheim: Похоже, нам требуется больше людей.
 
-# Original: Scratching his head, Hohenheim looked around for a moment before coming to a sudden pause as though an idea had crossed his mind. At the end of his gaze was a certain someone who was busy badgering LCCA employees with her relentless questioning.
+# Narrator: Scratching his head, Hohenheim looked around for a moment before coming to a sudden pause as though an idea had crossed his mind. At the end of his gaze was a certain someone who was busy badgering LCCA employees with her relentless questioning.
 Narrator: Почесав затылок, Хохенхайм мгновение оглядывался по сторонам, прежде чем внезапно замереть, словно ему в голову пришла идея. Его взгляд остановился на кое-ком, кто в это время донимал сотрудников LCCA своими неустанными расспросами.
 
-# Original: Who else, pray, might know where he is if thou knowest not?! Now listen closely! The one I seek is a bearer of hair fashioned in the likeness of a bowl...
+# Don Quixote: Who else, pray, might know where he is if thou knowest not?! Now listen closely! The one I seek is a bearer of hair fashioned in the likeness of a bowl...
 Don Quixote: Кому же ещё, скажите на милость, знать, где он, коли не вам?! А теперь слушайте внимательно! Тот, кого я ищу — обладатель волос, уложенных на манер перевёрнутой чаши...
 
-# Original: You there. Why don't you join us too?
+# Hohenheim: You there. Why don't you join us too?
 Hohenheim: Эй, вы. Почему бы вам тоже к нам не присоединиться?
 
-# Original: Hmm? Eh... Dost thou speak of me?
+# Don Quixote: Hmm? Eh... Dost thou speak of me?
 Don Quixote: Хмм? Э... Вы обо мне речёте?
 
-# Original: The LCCA personnel, who were cornered by Don Quixote and her rather forceful interrogation regarding Vespa's whereabouts, took the opportunity and fled the scene without so much as a backward glance the moment their captor turned her head to answer Hohenheim.
+# Narrator: The LCCA personnel, who were cornered by Don Quixote and her rather forceful interrogation regarding Vespa's whereabouts, took the opportunity and fled the scene without so much as a backward glance the moment their captor turned her head to answer Hohenheim.
 Narrator: Персонал LCCA, загнанный в угол Дон Кихот и её довольно настойчивым допросом относительно местонахождения Веспы, воспользовался возможностью и сбежал с места событий без единого взгляда назад в тот самый момент, когда их пленительница повернула голову, чтобы ответить Хохенхайму.
 
-# Original: Indeed. There is a task that requires your assistance.
+# Hohenheim: Indeed. There is a task that requires your assistance.
 Hohenheim: Именно. Есть задача, требующая вашей помощи.
 
-# Original: B-but I have yet more words to trade with the most noble Yellow Harpoon...
+# Don Quixote: B-but I have yet more words to trade with the most noble Yellow Harpoon...
 Don Quixote: Н-но я должна перекинуться ещё парой слов с благороднейшим Жёлтым Гарпуном...
 
-# Original: You seek to emulate the virtue of chivalry. Does that entail turning down the earnest plea of those in need?
+# Hohenheim: You seek to emulate the virtue of chivalry. Does that entail turning down the earnest plea of those in need?
 Hohenheim: Вы стремитесь подражать рыцарским добродетелям. Разве это подразумевает отказ на искреннюю мольбу тех, кто нуждается в помощи?
 
-# Original: Aah...! I... I...
+# Don Quixote: Aah...! I... I...
 Don Quixote: А-а-ах!.. Я... Я...
 
-# Original: Hmm... For the sake of clarity and distinction, it would be prudent to assign you a different identifier from that of my assistant. You are to be "Number 2"—that is, Assistant no. 2.
+# Hohenheim: Hmm... For the sake of clarity and distinction, it would be prudent to assign you a different identifier from that of my assistant. You are to be "Number 2"—that is, Assistant no. 2.
 Hohenheim: Хмм... Ради ясности и во избежание путаницы, было бы благоразумно назначить вам идентификатор, отличный от идентификатора моего ассистента. Вы будете «Номер 2» — то есть, Ассистент №2.
 
-# Original: ... I have not yet concluded mine exchange with the Yellow Harpoon, but no true knight would abandon those who call for aid! Pray, speak thy quest! How may I be of service to thee?
+# Don Quixote: ... I have not yet concluded mine exchange with the Yellow Harpoon, but no true knight would abandon those who call for aid! Pray, speak thy quest! How may I be of service to thee?
 Don Quixote: ...Я ещё не завершила свою беседу с Жёлтым Гарпуном, однако ни один истинный рыцарь не отвернётся от тех, кто взывает о помощи! Прошу, поведай о своём задании! Как я могу сослужить тебе службу?
 
-# Original: Delegating the interpretation of the Manager's speech to Sinner #4 has proven to be counterproductive. As such, your task will be to report to me what the Manager says.
+# Hohenheim: Delegating the interpretation of the Manager's speech to Sinner #4 has proven to be counterproductive. As such, your task will be to report to me what the Manager says.
 Hohenheim: Делегирование перевода речи Менеджера Грешнице №4 оказалось контрпродуктивным. Поэтому ваша задача будет заключаться в том, чтобы передавать мне то, что говорит Менеджер.
 
-# Original: Oho! That is indeed a simple task!
+# Don Quixote: Oho! That is indeed a simple task!
 Don Quixote: Ого! Воистину, сие есть простая задача!
 
-# Original: However, this "W.K.O.A." eludeth mine understanding as well! Prithee, allow me but a liiittle time to uncover its mystery!
+# Don Quixote: However, this "W.K.O.A." eludeth mine understanding as well! Prithee, allow me but a liiittle time to uncover its mystery!
 Don Quixote: Однако это «К.П.» ускользает и от моего разумения! Молю, даруй мне ма-а-аленькую толику времени, дабы я разгадала эту тайну!
 
-# Original: ... Relay the Manager's words, not Sinner Ryōshū's.
+# Hohenheim: ... Relay the Manager's words, not Sinner Ryōshū's.
 Hohenheim: ... Передавайте слова Менеджера, а не Грешницы Рёшу.
 
-# Original: .......
+# Faust: .......
 Faust: .......
 
-# Original: They are asking you what kind of assistance you need.
+# Faust: They are asking you what kind of assistance you need.
 Faust: Он спрашивает вас, какая именно помощь вам требуется.
 
-# Original: The request for interpretation was not directed to you, but I cannot deny that your meddling, in the present circumstance, is a welcome one.
+# Hohenheim: The request for interpretation was not directed to you, but I cannot deny that your meddling, in the present circumstance, is a welcome one.
 Hohenheim: Просьба о переводе не была направлена вам, но не могу отрицать, что ваше вмешательство в нынешних обстоятельствах весьма кстати.
 
-# Original: It was simply that the irrationality and inefficiency of your suboptimal staffing choice and workflow have become sufficiently unbearable.
+# Faust: It was simply that the irrationality and inefficiency of your suboptimal staffing choice and workflow have become sufficiently unbearable.
 Faust: Просто иррациональность и неэффективность вашего субоптимального кадрового выбора и рабочего процесса стали в достаточной степени невыносимыми.
 
-# Original: Faust hopes this was not some guileful scheme devised to elicit Faust's cooperation.
+# Faust: Faust hopes this was not some guileful scheme devised to elicit Faust's cooperation.
 Faust: Фауст надеется, что это не было коварным планом, задуманным с целью добиться сотрудничества Фауст.
 
-# Original: ... Hah. In any case, Manager, this request of mine concerns an investigation into the "Backdoors" located in the House of Spiders.
+# Hohenheim: ... Hah. In any case, Manager, this request of mine concerns an investigation into the "Backdoors" located in the House of Spiders.
 Hohenheim: ... Ха. В любом случае, Менеджер, эта моя просьба касается расследования насчёт «Задних дверей», расположенных в Доме Пауков.
 
-# Original: I deemed that the two of you should be the ones most familiar with the structure and layout of the House. After all, you were the one monitoring the entirety of the five-pronged assault operation, and Sinner #4's familiarity does not bear repeating.
+# Hohenheim: I deemed that the two of you should be the ones most familiar with the structure and layout of the House. After all, you were the one monitoring the entirety of the five-pronged assault operation, and Sinner #4's familiarity does not bear repeating.
 Hohenheim: Я счёл, что вы двое должны быть лучше всех знакомы со структурой и планировкой Дома. В конце концов, именно вы следили за всей операцией по штурму с пяти направлений, а уж об осведомлённости Грешницы №4 и говорить не приходится.
 
-# Original: <Do we go to the House of Spiders right away?>
+# Dante: <Do we go to the House of Spiders right away?>
 Dante: <Мы идём в Дом Пауков прямо сейчас?>
 
-# Original: H.O.S.R.A.?
+# Ryōshū: H.O.S.R.A.?
 Ryōshū: В Д.П.П.С.?
 
-# Original: ... You have assisted enough.
+# Hohenheim: ... You have assisted enough.
 Hohenheim: ... Вы помогли достаточно.
 
-# Original: Perhaps you could... help, Faust.
+# Hohenheim: Perhaps you could... help, Faust.
 Hohenheim: Возможно, вы могли бы... помочь, Фауст.
 
-# Original: ... Sure.
+# Faust: ... Sure.
 Faust: ... Конечно.
 
-# Original: Although not word-for-word, Faust relayed my intention to Hohenheim, who responded by shaking his head.
+# Narrator: Although not word-for-word, Faust relayed my intention to Hohenheim, who responded by shaking his head.
 Narrator: Хотя и не слово в слово, Фауст передала мои намерения Хохенхайму, который в ответ покачал головой.
 
-# Original: Not immediately, no. There is one more member you should bring along.
+# Hohenheim: Not immediately, no. There is one more member you should bring along.
 Hohenheim: Не немедленно, нет. Есть ещё один член группы, которого вам следует взять с собой.
 
-# Original: <One more member?>
+# Dante: <One more member?>
 Dante: <Ещё один?>
 
-# Original: Seeing me tilting my head, Hohenheim pushed up his glasses.
+# Narrator: Seeing me tilting my head, Hohenheim pushed up his glasses.
 Narrator: Увидев, как я склонил голову набок, Хохенхайм поправил очки.
 
-# Original: The Apprentice who was captured alive in the House of Spiders...
+# Hohenheim: The Apprentice who was captured alive in the House of Spiders...
 Hohenheim: Ученик, захваченный живым в Доме Пауков...
 
-# Original: Kira. She has regained consciousness.
+# Hohenheim: Kira. She has regained consciousness.
 Hohenheim: Кира. Она пришла в себя.

@@ -1,158 +1,158 @@
-﻿# Original: .......
+﻿# Outis: .......
 Отис: .......
 
-# Original: It's evident no one—
+# Outis: It's evident no one—
 Отис: Очевидно, никто—
 
-# Original: <color=#a5ab8e>—taught me that showing my face is the barest courtesy when initiating conversation? I <i>was</i> taught, actually, but I'm not in there with you to give you an in-person greeting.</color>
+# Jeanne: <color=#a5ab8e>—taught me that showing my face is the barest courtesy when initiating conversation? I <i>was</i> taught, actually, but I'm not in there with you to give you an in-person greeting.</color>
 Жанна: <color=#a5ab8e>—не научил меня, что показаться собеседнику, когда заводишь разговор, — это элементарная вежливость? Вообще-то меня научили, но я не там, с вами, чтобы поздороваться лично.</color>
 
-# Original: <color=#a5ab8e>I'm not a customer here at the Grand Magasin. I'm one of what is called the "Giants"—the pillars that keep Sisyphe standing.</color>
+# Jeanne: <color=#a5ab8e>I'm not a customer here at the Grand Magasin. I'm one of what is called the "Giants"—the pillars that keep Sisyphe standing.</color>
 Жанна: <color=#a5ab8e>Я не покупательница Гран-Магазэна. Я одна из тех, кого называют «Гигантами», одна из столпов, на которых держится Сизиф.</color>
 
-# Original: A "Giant," you say... Hm, what's that? A—
+# Outis: A "Giant," you say... Hm, what's that? A—
 Отис: «Гигант», говоришь... Хм, и что это такое? Некая—
 
-# Original: <color=#a5ab8e>—faction? Not really. The daily operations of the Grand Magasin rely entirely on us Giants' management. We don't even get to take PTO when we want to.</color>
+# Jeanne: <color=#a5ab8e>—faction? Not really. The daily operations of the Grand Magasin rely entirely on us Giants' management. We don't even get to take PTO when we want to.</color>
 Жанна: <color=#a5ab8e>—фракция? Не совсем. Вся повседневная работа Гран-Магазэна держится на нас, Гигантах. Мы даже отгул не можем взять, когда захочется.</color>
 
-# Original: <color=#a5ab8e>Oh yeah, you might hear some of its customers calling out to disembodied "Voices" as you make your way through the Grand Magasin. That'd usually be us speaking, the "Giants." Though there might be some exceptions.</color>
+# Narrator: <color=#a5ab8e>Oh yeah, you might hear some of its customers calling out to disembodied "Voices" as you make your way through the Grand Magasin. That'd usually be us speaking, the "Giants." Though there might be some exceptions.</color>
 Рассказчик: <color=#a5ab8e>Ах да, пока будете ходить по Гран-Магазэну, вы, возможно, услышите, как покупатели обращаются к бесплотным «Голосам». Обычно это говорим мы, «Гиганты». Хотя бывают и исключения.</color>
 
-# Original: ... You.
+# Outis: ... You.
 Отис: ...Ты.
 
-# Original: Are you reading my mind?
+# Outis: Are you reading my mind?
 Отис: Ты читаешь мои мысли?
 
-# Original: <color=#a5ab8e>*chuckle* Of course not. The questions were just so predictable that I couldn't help myself, that's all.</color>
+# Jeanne: <color=#a5ab8e>*chuckle* Of course not. The questions were just so predictable that I couldn't help myself, that's all.</color>
 Жанна: <color=#a5ab8e>*хе-хе* Конечно, нет. Просто вопросы были настолько предсказуемыми, что я не удержалась, только и всего.</color>
 
-# Original: E-excuse me...
+# Sinclair: E-excuse me...
 Синклер: П-простите...
 
-# Original: Sinclair gingerly sidled into the conversation.
+# Narrator: Sinclair gingerly sidled into the conversation.
 Рассказчик: Синклер робко вклинился в разговор.
 
-# Original: If you two were in a romantic relationship... <i>once</i>, does that mean...
+# Sinclair: If you two were in a romantic relationship... <i>once</i>, does that mean...
 Синклер: Если вы двое... <i>когда-то</i> были в романтических отношениях, значит ли это...
 
-# Original: <color=#a5ab8e>He meant it quite literally—our relationship burned with mutual yearning, the kind doused only by immediate gratification... And we never squandered so much as a single moment to get things <i>steamy</i> between the two of us. Until Meursault one day up and left N Corp. forever without so much as a proper goodbye.</color>
+# Jeanne: <color=#a5ab8e>He meant it quite literally—our relationship burned with mutual yearning, the kind doused only by immediate gratification... And we never squandered so much as a single moment to get things <i>steamy</i> between the two of us. Until Meursault one day up and left N Corp. forever without so much as a proper goodbye.</color>
 Жанна: <color=#a5ab8e>Он сказал это совершенно буквально: наши отношения пылали взаимным влечением, которое гасится лишь немедленным утолением... И мы не упускали ни единого мгновения, чтобы между нами стало <i>жарко</i>. Пока однажды Мерсо просто взял и навсегда ушёл из Корпорации N, даже толком не попрощавшись.</color>
 
-# Original: <color=#a5ab8e>You did, didn't you?</color>
+# Jeanne: <color=#a5ab8e>You did, didn't you?</color>
 Жанна: <color=#a5ab8e>Ведь так и было, правда?</color>
 
-# Original: I did.
+# Meursault: I did.
 Мерсо: Так и было.
 
-# Original: <color=#a5ab8e>Lemme ask again, now that we've gone through a round of Liquidation. Did you return because you missed me?</color>
+# Jeanne: <color=#a5ab8e>Lemme ask again, now that we've gone through a round of Liquidation. Did you return because you missed me?</color>
 Жанна: <color=#a5ab8e>Спрошу ещё раз, раз уж мы пережили одну Ликвидацию. Ты вернулся, потому что соскучился по мне?</color>
 
-# Original: As it is basic courtesy one extends to an old flame...
+# Meursault: As it is basic courtesy one extends to an old flame...
 Мерсо: Поскольку это элементарная вежливость по отношению к бывшей возлюбленной...
 
-# Original: "I missed you."
+# Meursault: "I missed you."
 Мерсо: «Я скучал по тебе».
 
-# Original: <color=#a5ab8e>Hehe, fine. That's good enough for me.</color>
+# Jeanne: <color=#a5ab8e>Hehe, fine. That's good enough for me.</color>
 Жанна: <color=#a5ab8e>Хе-хе, ладно. Мне этого достаточно.</color>
 
-# Original: I don't know what game you two are playing, but...
+# Outis: I don't know what game you two are playing, but...
 Отис: Не знаю, в какую игру вы двое играете, но...
 
-# Original: If you're a Giant, and if the Giants are akin to overseers of this "department store," is it within your authority to release us from here?
+# Outis: If you're a Giant, and if the Giants are akin to overseers of this "department store," is it within your authority to release us from here?
 Отис: Если ты Гигант, а Гиганты — нечто вроде надзирателей этого «торгового центра», то в твоей ли власти выпустить нас отсюда?
 
-# Original: ... She cannot. She will not, even if it were within her ability to do so.
+# Meursault: ... She cannot. She will not, even if it were within her ability to do so.
 Мерсо: ...Она не может. И не стала бы, даже будь это в её силах.
 
-# Original: Right... Of course you'd know.
+# Outis: Right... Of course you'd know.
 Отис: Ну конечно... Уж тебе-то виднее.
 
-# Original: Outis glared askance at Meursault.
+# Narrator: Outis glared askance at Meursault.
 Рассказчик: Отис искоса бросила на Мерсо сердитый взгляд.
 
-# Original: <color=#a5ab8e>So this new coworker of yours—she's always like this, huh? So untrusting.</color>
+# Jeanne: <color=#a5ab8e>So this new coworker of yours—she's always like this, huh? So untrusting.</color>
 Жанна: <color=#a5ab8e>Значит, эта твоя новая коллега всегда такая, да? Никому не доверяет.</color>
 
-# Original: .......
+# Outis: .......
 Отис: .......
 
-# Original: <color=#a5ab8e>I am a Giant of the Grand Magasin—protecting and maintaining the Grand Magasin is my job. I can keep you company with stories about this place, but...</color>
+# Jeanne: <color=#a5ab8e>I am a Giant of the Grand Magasin—protecting and maintaining the Grand Magasin is my job. I can keep you company with stories about this place, but...</color>
 Жанна: <color=#a5ab8e>Я Гигант Гран-Магазэна: защищать его и поддерживать в порядке — моя работа. Могу скрасить вам время рассказами об этом месте, но...</color>
 
-# Original: <color=#a5ab8e>... I can't pick out just the 13 of you like it's a crane game.</color>
+# Jeanne: <color=#a5ab8e>... I can't pick out just the 13 of you like it's a crane game.</color>
 Жанна: <color=#a5ab8e>...выудить отсюда только вашу компанию из 13 человек, как игрушки в автомате с краном, я не могу.</color>
 
-# Original: Still have to follow the rules and conditions, hm? Then you have nothing to offer us but the illusion of omnipotence. Unremarkable.
+# Outis: Still have to follow the rules and conditions, hm? Then you have nothing to offer us but the illusion of omnipotence. Unremarkable.
 Отис: Значит, тебе тоже приходится соблюдать правила и условия, хм? Тогда тебе нечего нам предложить, кроме иллюзии всемогущества. Ничего примечательного.
 
-# Original: <... She won't always have her eyes on us. She still has a department store to manage, after all.>
+# Dante: <... She won't always have her eyes on us. She still has a department store to manage, after all.>
 Данте: <...Она не сможет следить за нами постоянно. Ей ведь, в конце концов, ещё управлять торговым центром.>
 
-# Original: I'm starting to get a clearer picture, Executive Manager. Each "Giant" must also be responsible for overseeing an aspect of this place.
+# Outis: I'm starting to get a clearer picture, Executive Manager. Each "Giant" must also be responsible for overseeing an aspect of this place.
 Отис: Картина проясняется, Исполнительный Менеджер. Каждый «Гигант», должно быть, отвечает за какую-то часть этого места.
 
-# Original: <color=#a5ab8e>Oh? Looks like she's more than just a paranoiac... Pfft, your friends each have something special about them, huh?</color>
+# Jeanne: <color=#a5ab8e>Oh? Looks like she's more than just a paranoiac... Pfft, your friends each have something special about them, huh?</color>
 Жанна: <color=#a5ab8e>О? Похоже, она не просто параноик... Пф-ф, в каждом из твоих друзей есть что-то особенное, да?</color>
 
-# Original: .......
+# Sinclair: .......
 Синклер: .......
 
-# Original: Um... May I ask you a question, Miss Jeanne? Why did you let us hear your Voice? Was it just because you were happy to see Meursault...?
+# Sinclair: Um... May I ask you a question, Miss Jeanne? Why did you let us hear your Voice? Was it just because you were happy to see Meursault...?
 Синклер: Э-э... Можно задать вам вопрос, госпожа Жанна? Почему вы позволили нам услышать свой Голос? Только потому, что обрадовались встрече с Мерсо...?
 
-# Original: <color=#a5ab8e>At work, I'm usually... all by myself.</color>
+# Jeanne: <color=#a5ab8e>At work, I'm usually... all by myself.</color>
 Жанна: <color=#a5ab8e>На работе я обычно... совсем одна.</color>
 
-# Original: <color=#a5ab8e>I sit in one corner of this moderately-sized room that isn't too big or too small... staring into the unbearable vastness of the Grand Magasin like it's the most normal thing in the world to do.</color>
+# Jeanne: <color=#a5ab8e>I sit in one corner of this moderately-sized room that isn't too big or too small... staring into the unbearable vastness of the Grand Magasin like it's the most normal thing in the world to do.</color>
 Жанна: <color=#a5ab8e>Сижу в уголке комнаты, не слишком большой и не слишком маленькой... и смотрю на невыносимую необъятность Гран-Магазэна так, будто это самое обычное занятие на свете.</color>
 
-# Original: ... And?
+# Sinclair: ... And?
 Синклер: ...И?
 
-# Original: <color=#a5ab8e>You know, sometimes...</color>
+# Jeanne: <color=#a5ab8e>You know, sometimes...</color>
 Жанна: <color=#a5ab8e>Знаешь, иногда...</color>
 
-# Original: <color=#a5ab8e>... Sometimes I just want to talk about this feeling with someone.</color>
+# Jeanne: <color=#a5ab8e>... Sometimes I just want to talk about this feeling with someone.</color>
 Жанна: <color=#a5ab8e>...Иногда мне просто хочется поговорить об этом чувстве хоть с кем-нибудь.</color>
 
-# Original: Care to elaborate—
+# Outis: Care to elaborate—
 Отис: Не могла бы ты пояснить—
 
-# Original: <color=#a5ab8e>Time to bid each other adieu. I know you're dying to see me, but try to exercise some restraint for now.</color>
+# Jeanne: <color=#a5ab8e>Time to bid each other adieu. I know you're dying to see me, but try to exercise some restraint for now.</color>
 Жанна: <color=#a5ab8e>Пора сказать друг другу <i>адью</i>. Знаю, вам не терпится меня увидеть, но пока постарайтесь проявить сдержанность.</color>
 
-# Original: .......
+# Outis: .......
 Отис: .......
 
-# Original: ... I know you're still here.
+# Outis: ... I know you're still here.
 Отис: ...Я знаю, что ты всё ещё здесь.
 
-# Original: <color=#a5ab8e>... Boo, boring.</color>
+# Jeanne: <color=#a5ab8e>... Boo, boring.</color>
 Жанна: <color=#a5ab8e>...Фу, скукота.</color>
 
-# Original: I'm used to dealing with the likes of you.
+# Outis: I'm used to dealing with the likes of you.
 Отис: Мне не впервой иметь дело с такими, как ты.
 
-# Original: <color=#a5ab8e>Hey, don't take it too seriously. It's not often that I get to fool around like this at work.</color>
+# Jeanne: <color=#a5ab8e>Hey, don't take it too seriously. It's not often that I get to fool around like this at work.</color>
 Жанна: <color=#a5ab8e>Эй, не воспринимай это так серьёзно. Не так уж часто мне удаётся вот так подурачиться на работе.</color>
 
-# Original: <color=#a5ab8e>Leaving for real now—tchao.</color>
+# Jeanne: <color=#a5ab8e>Leaving for real now—tchao.</color>
 Жанна: <color=#a5ab8e>Теперь ухожу по-настоящему. Чао.</color>
 
-# Original: ... It doesn't feel all that real.
+# Sinclair: ... It doesn't feel all that real.
 Синклер: ...В это как-то не верится.
 
-# Original: <What doesn't?>
+# Dante: <What doesn't?>
 Данте: <Во что?>
 
-# Original: That Meursault of all people used to be romantically involved with someone.
+# Sinclair: That Meursault of all people used to be romantically involved with someone.
 Синклер: Что именно у Мерсо когда-то был с кем-то роман.
 
-# Original: Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
+# Meursault: Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
 Мерсо: Наши отношения включали в себя элементы, ничем не отличающиеся от того, чего обычно ждут от «романтических партнёров».
 
-# Original: We went on dates and spent time together.
+# Meursault: We went on dates and spent time together.
 Мерсо: Мы ходили на свидания и проводили время вместе.

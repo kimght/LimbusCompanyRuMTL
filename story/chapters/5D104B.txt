@@ -1,68 +1,68 @@
-# Original: Here we are! Welcome to Pequod Town.
+# ???: Here we are! Welcome to Pequod Town.
 ???: Вот мы и на месте! Добро пожаловать в Пекод-Таун.
 
-# Original: We're back, Cap'n! Look what we fished up!
+# ???: We're back, Cap'n! Look what we fished up!
 ???: Мы вернулись, Капитан! Посмотрите, что мы выловили!
 
-# Original: <Captain?>
+# Dante: <Captain?>
 Данте: <Капитан?>
 
-# Original: Quite the catch indeed! You certainly are an excellent scout, Starbuck!
+# Captain?: Quite the catch indeed! You certainly are an excellent scout, Starbuck!
 Ахав: Действительно отличный улов! Ты, несомненно, превосходный разведчик, Старбак!
 
-# Original: A wiry old woman approached us, her harsh voice tickling our ears.
+# Narrator: A wiry old woman approached us, her harsh voice tickling our ears.
 Рассказчик: К нам подошла жилистая старуха, её резкий голос царапал наши уши.
 
-# Original: Two gold coins for you, lad. And here's one for the twins.
+# Captain?: Two gold coins for you, lad. And here's one for the twins.
 Ахав: Две золотые монеты тебе, парень. А вот одна для близнецов.
 
-# Original: Thank you, Cap'n.
+# ???: Thank you, Cap'n.
 ???: Спасибо, Капитан.
 
-# Original: It has been a long, long while since our Pequod Town gained new villagers.
+# Captain?: It has been a long, long while since our Pequod Town gained new villagers.
 Ахав: Прошло очень, очень много времени с тех пор, как в нашем Пекод-Тауне появлялись новые жители.
 
-# Original: ... Villagers? Not guests?
+# Gregor: ... Villagers? Not guests?
 Грегор: ... Жители? Не гости?
 
-# Original: That woman seems to think us already bound to this village.
+# Outis: That woman seems to think us already bound to this village.
 Отис: Похоже, эта женщина уже считает нас привязанными к этой деревне.
 
-# Original: I knew it...
+# Ishmael: I knew it...
 Измаил: Я так и знала...
 
-# Original: Welcome. I have built this village and watched over these poor, wretched souls. Soon, I shall set sail on the final voyage with my crew.
+# Captain?: Welcome. I have built this village and watched over these poor, wretched souls. Soon, I shall set sail on the final voyage with my crew.
 Ахав: Добро пожаловать. Я построила эту деревню и присматривала за этими бедными, несчастными душами. Скоро я отправлюсь в последнее плавание со своей командой.
 
-# Original: I am Captain Ahab.
+# Ahab: I am Captain Ahab.
 Ахав: Я Капитан Ахав.
 
-# Original: <... Ah, Ishmael...!>
+# Dante: <... Ah, Ishmael...!>
 Данте: <... Ах, Измаил...!>
 
-# Original: You have... no idea how I've waited... how I've longed for this moment. You won't ever know.
+# Ishmael: You have... no idea how I've waited... how I've longed for this moment. You won't ever know.
 Измаил: Ты даже... не представляешь, как я ждала... как я жаждала этого момента. Тебе никогда не узнать.
 
-# Original: Because I'll gut you like a fish before you even have the chance to find out.
+# Ishmael: Because I'll gut you like a fish before you even have the chance to find out.
 Измаил: Потому что я выпотрошу тебя как рыбу прежде, чем у тебя появится шанс это понять.
 
-# Original: Muttering, Ishmael charged at Ahab.
+# Narrator: Muttering, Ishmael charged at Ahab.
 Рассказчик: Бормоча, Измаил бросилась на Ахав.
 
-# Original: What a way to greet your Captain, Ishmael.
+# Ahab: What a way to greet your Captain, Ishmael.
 Ахав: Что за манера приветствовать своего капитана, Измаил.
 
-# Original: The Captain remained serene, even as Ishmael suddenly charged at her.
+# Narrator: The Captain remained serene, even as Ishmael suddenly charged at her.
 Рассказчик: Капитан оставалась спокойной, даже когда Измаил внезапно набросилась на неё.
 
-# Original: I-Ishmael...?! Wa...it, now that you mention it—
+# ???: I-Ishmael...?! Wa...it, now that you mention it—
 Старбак: И-Измаил...?! По... стой, теперь, когда ты упомянула об этом—
 
-# Original: You thankless bastards. You dare attack our Cap'n?!
+# Blinded Pequod Town Villager: You thankless bastards. You dare attack our Cap'n?!
 Ослеплённый житель Пекод-тауна: Вы, неблагодарные ублюдки. Вы смеете нападать на нашего Кэпа?!
 
-# Original: We'll show you what we're made of!
+# Gagged Pequod Town Villager: We'll show you what we're made of!
 Закнеблённый житель Пекод-тауна: Мы покажем вам, на что мы способны!
 
-# Original: We'll toss you back into that river of acid!
+# Blinded Pequod Town Villager: We'll toss you back into that river of acid!
 Ослеплённый житель Пекод-тауна: Мы сбросим вас обратно в эту кислотную реку!

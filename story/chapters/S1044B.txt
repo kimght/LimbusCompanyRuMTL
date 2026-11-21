@@ -1,509 +1,509 @@
-﻿# Original: <Is everyone okay?>
+﻿# Dante: <Is everyone okay?>
 Данте: <Все в порядке?>
 
-# Original: I'm achin' all over... and I feel like the world's spinnin', but...
+# Heathcliff: I'm achin' all over... and I feel like the world's spinnin', but...
 Хитклиф: У меня всё болит... и будто мир кругом идёт, но...
 
-# Original: ... We're unhurt.
+# Hong Lu: ... We're unhurt.
 Хон Лу: ...Мы невредимы.
 
-# Original: When we left the Suicide Vending Machine, the sight of the New League of Nine Littérateurs, all in various E.G.O gear, greeted us.
+# Narrator: When we left the Suicide Vending Machine, the sight of the New League of Nine Littérateurs, all in various E.G.O gear, greeted us.
 Рассказчик: Когда мы вышли из Автомата Самоубийств, нас встретила Новая Лига девяти литераторов — все в разнообразном снаряжении ЭГО.
 
-# Original: Every now and then, we catch sight of passersby, or people who look like N Corp. employees poking around nearby... but they walk right past us as if we're not even there.
+# Narrator: Every now and then, we catch sight of passersby, or people who look like N Corp. employees poking around nearby... but they walk right past us as if we're not even there.
 Рассказчик: Время от времени мы замечаем прохожих или людей, похожих на сотрудников Корпорации N, которые рыщут поблизости... но они проходят мимо нас, словно нас здесь и нет.
 
-# Original: Is this some effect of a new E.G.O developed by N Corp.? Or...
+# Narrator: Is this some effect of a new E.G.O developed by N Corp.? Or...
 Рассказчик: Это какой-то эффект нового ЭГО, разработанного Корпорацией N? Или...
 
-# Original: *sigh* Finally.
+# Jia Huan: *sigh* Finally.
 Цзя Хуань: *вздох* Наконец-то.
 
-# Original: We can put this irritating bodyguard mission behind us.
+# Jia Huan: We can put this irritating bodyguard mission behind us.
 Цзя Хуань: Можно оставить позади это надоевшее задание телохранителей.
 
-# Original: ... The environment outside has... changed significantly.
+# Faust: ... The environment outside has... changed significantly.
 Фауст: ...Обстановка снаружи... значительно изменилась.
 
-# Original: Much has occurred in the last 3 months.
+# Nelly: Much has occurred in the last 3 months.
 Нелли: За последние три месяца произошло многое.
 
-# Original: Huh, I see... wait, 3 months?
+# Gregor: Huh, I see... wait, 3 months?
 Грегор: А, понятно... постойте, три месяца?
 
-# Original: We've been in there for <i>how long?!</i>
+# Rodion: We've been in there for <i>how long?!</i>
 Родион: Мы там проторчали <i>сколько?!</i>
 
-# Original: Yes, much credit goes to our employees, who worked valiantly to keep you from losing your miserable lives in that box.
+# Gubo: Yes, much credit goes to our employees, who worked valiantly to keep you from losing your miserable lives in that box.
 Губо: Да, и немалая заслуга в этом принадлежит нашим сотрудникам, которые доблестно трудились, чтобы вы не лишились своих жалких жизней в этой коробке.
 
-# Original: <.......>
+# Dante: <.......>
 Данте: <.......>
 
-# Original: ... There seems to be some sort of commotion afoot... I hear screaming. And what's that smoke in the distance?
+# Outis: ... There seems to be some sort of commotion afoot... I hear screaming. And what's that smoke in the distance?
 Отис: ...Похоже, назревает какая-то суматоха... Я слышу крики. И что это за дым вдалеке?
 
-# Original: We've just received a transmission from Director Hermann. That man, the Chaplain... has... pressed the button.
+# Aseah: We've just received a transmission from Director Hermann. That man, the Chaplain... has... pressed the button.
 Асея: Мы только что получили сообщение от директора Герман. Тот человек, Капеллан... нажал... на кнопку.
 
-# Original: The button—?
+# Don Quixote: The button—?
 Дон Кихот: На кнопку?..
 
-# Original: I won't stop you if you'd rather stick around looking confused, but I would hurry if I were you—your colleague doesn't have much time left.
+# Jia Huan: I won't stop you if you'd rather stick around looking confused, but I would hurry if I were you—your colleague doesn't have much time left.
 Цзя Хуань: Не стану вас удерживать, если предпочитаете стоять здесь с растерянным видом, но на вашем месте я бы поторопился — у вашего коллеги осталось не так много времени.
 
-# Original: Oh, I suppose death comes lightly to you since you can simply rewind the dead back to life.
+# Jia Huan: Oh, I suppose death comes lightly to you since you can simply rewind the dead back to life.
 Цзя Хуань: Ах да, вы, наверное, легко относитесь к смерти, раз можете просто отматывать мёртвых обратно к жизни.
 
-# Original: <First things first, we've got to go save Meursault. We can get our bearings about what's been happening outside after that.>
+# Dante: <First things first, we've got to go save Meursault. We can get our bearings about what's been happening outside after that.>
 Данте: <Первым делом надо спасти Мерсо. А потом уже разберёмся, что происходит снаружи.>
 
-# Original: Some time later...
+# Narrator: Some time later...
 Рассказчик: Некоторое время спустя...
 
-# Original: This is... what Grand Magasin Sisyphe looks like from the outside...
+# Sinclair: This is... what Grand Magasin Sisyphe looks like from the outside...
 Синклер: Так вот... как выглядит Гран-Магазэн Сизиф снаружи...
 
-# Original: All are aslumber within the vats... prisons.
+# Yi Sang: All are aslumber within the vats... prisons.
 И Сан: Все почивают в своих капсулах... темницах.
 
-# Original: A silhouette of a man, carrying someone in his arms, emerged from the factory through the rising wall of smoke. It was Meursault.
+# Narrator: A silhouette of a man, carrying someone in his arms, emerged from the factory through the rising wall of smoke. It was Meursault.
 Рассказчик: Из фабрики, сквозь поднимающуюся стену дыма, показался силуэт мужчины, несущего кого-то на руках. Это был Мерсо.
 
-# Original: <Meursault!>
+# Dante: <Meursault!>
 Данте: <Мерсо!>
 
-# Original: Manager. I have secured the Golden Bough.
+# Meursault: Manager. I have secured the Golden Bough.
 Мерсо: Менеджер. Я добыл Золотую Ветвь.
 
-# Original: A Golden Bough was emitting a faint glow in Meursault's grip.
+# Narrator: A Golden Bough was emitting a faint glow in Meursault's grip.
 Рассказчик: Золотая Ветвь в руке Мерсо испускала слабое сияние.
 
-# Original: Is that... Jeanne?
+# Gregor: Is that... Jeanne?
 Грегор: Это... Жанна?
 
-# Original: Yes. A Giant who has suffered significant psychological damage, caused by events such as the death of their avatar, becomes immobilized for an extended period of time. Therefore, I have decided to carry her outside.
+# Meursault: Yes. A Giant who has suffered significant psychological damage, caused by events such as the death of their avatar, becomes immobilized for an extended period of time. Therefore, I have decided to carry her outside.
 Мерсо: Да. Гигант, перенёсший значительный психологический ущерб, вызванный такими событиями, как гибель его аватара, на длительное время теряет способность двигаться. Поэтому я решил вынести её наружу.
 
-# Original: You can just... barge into a Giant's office and haul them out like a sack of potatoes?
+# Ishmael: You can just... barge into a Giant's office and haul them out like a sack of potatoes?
 Измаил: Можно вот так просто... ввалиться в кабинет Гиганта и вытащить его, как мешок картошки?
 
-# Original: Yes. It was not a difficult task, as the password for the office hasn't been changed.
+# Meursault: Yes. It was not a difficult task, as the password for the office hasn't been changed.
 Мерсо: Да. Это не составило труда, поскольку пароль от кабинета не менялся.
 
-# Original: <That's good, I guess... So, what's up with all the fire? And this smoke...?>
+# Dante: <That's good, I guess... So, what's up with all the fire? And this smoke...?>
 Данте: <Ну, это хорошо, наверное... Так что там с пожаром? И этот дым?..>
 
-# Original: <Wait, this sensation—>
+# Dante: <Wait, this sensation—>
 Данте: <Стойте, это ощущение...>
 
-# Original: Sunlight radiates through the thick plume of smoke,
+# Narrator: Sunlight radiates through the thick plume of smoke,
 Рассказчик: Солнечный свет пробивается сквозь густой столб дыма,
 
-# Original: and a sudden, splitting headache overwhelms me as an unbearable wall of pressure threatens to crush my chest.
+# Narrator: and a sudden, splitting headache overwhelms me as an unbearable wall of pressure threatens to crush my chest.
 Рассказчик: и внезапная раскалывающая головная боль накрывает меня, а невыносимая стена давления грозит раздавить грудь.
 
-# Original: If my senses—smell, touch, sight, taste, hearing—could scream out in pain, they would have.
+# Narrator: If my senses—smell, touch, sight, taste, hearing—could scream out in pain, they would have.
 Рассказчик: Если бы мои чувства — обоняние, осязание, зрение, вкус, слух — могли кричать от боли, они бы закричали.
 
-# Original: Familiar yet alien beings begin crawling out of the factory...
+# Narrator: Familiar yet alien beings begin crawling out of the factory...
 Рассказчик: Знакомые и вместе с тем чуждые существа начинают выползать из фабрики...
 
-# Original: The customers of the Grand Magasin... prisoners from years upon years of serving the Sisyphe Penalty...
+# Narrator: The customers of the Grand Magasin... prisoners from years upon years of serving the Sisyphe Penalty...
 Рассказчик: Покупатели Гран-Магазэна... узники, что годы и годы отбывали Наказание Сизифа...
 
-# Original: I feel it—no, it closes in from all around me, the inconceivably overpowering presence of...
+# Narrator: I feel it—no, it closes in from all around me, the inconceivably overpowering presence of...
 Рассказчик: Я чувствую это — нет, оно смыкается со всех сторон, невообразимо подавляющее присутствие...
 
-# Original: of...
+# Narrator: of...
 Рассказчик: присутствие...
 
-# Original: ... Distortions. Distortions that were contained within the Grand Magasin... all 300 million of them...
+# Narrator: ... Distortions. Distortions that were contained within the Grand Magasin... all 300 million of them...
 Рассказчик: ...Искажений. Искажений, которые были заперты в Гран-Магазэне... все 300 миллионов...
 
-# Original: The Mannequins are... pouring out of the factory.
+# Ishmael: The Mannequins are... pouring out of the factory.
 Измаил: Манекены... валят из фабрики.
 
-# Original: <Could it be... that the Distortions within the Grand Magasin are being unleashed upon the City...?>
+# Dante: <Could it be... that the Distortions within the Grand Magasin are being unleashed upon the City...?>
 Данте: <Неужели... Искажения из Гран-Магазэна вырываются в Город?..>
 
-# Original: My mind flashes back to the sights within the Grand Magasin. Dead customers, customers turned into clothing, Mannequins, and everything that comprised that department store...
+# Narrator: My mind flashes back to the sights within the Grand Magasin. Dead customers, customers turned into clothing, Mannequins, and everything that comprised that department store...
 Рассказчик: В памяти вспыхивают картины из Гран-Магазэна. Мёртвые покупатели, покупатели, превращённые в одежду, Манекены и всё, из чего состоял тот торговый центр...
 
-# Original: ... What is the meaning of this...? Have we been cast out of our Cradle, into this alien world beyond our veils of memory...?
+# ???: ... What is the meaning of this...? Have we been cast out of our Cradle, into this alien world beyond our veils of memory...?
 ???: ...Что это значит?.. Нас изгнали из нашей Колыбели в этот чуждый мир за завесами памяти?..
 
-# Original: We have seen some of them before. Then that means—
+# Faust: We have seen some of them before. Then that means—
 Фауст: Некоторых из них мы уже видели. Значит, это...
 
-# Original: That means the party's just getting started, boys and girls.
+# Kromer: That means the party's just getting started, boys and girls.
 Кромер: Значит, вечеринка только начинается, мальчики и девочки.
 
-# Original: We will seize our glory once again, as 300 million Distortions wreak havoc through N Corp.
+# Kromer: We will seize our glory once again, as 300 million Distortions wreak havoc through N Corp.
 Кромер: Мы вновь обретём нашу славу, пока 300 миллионов Искажений сеют хаос по Корпорации N.
 
-# Original: Jacob, ETA for our team?
+# Kromer: Jacob, ETA for our team?
 Кромер: Якоб, когда прибудет наша команда?
 
-# Original: They will be deployed soon. Though tests will be conducted once all Distortions have been subdued... I have authorized summary decisions for those foul prosthetic wearers.
+# Jacob: They will be deployed soon. Though tests will be conducted once all Distortions have been subdued... I have authorized summary decisions for those foul prosthetic wearers.
 Якоб: Их скоро развернут. Хотя проверки будут проводиться, когда все Искажения будут усмирены... Я санкционировала упрощённые решения в отношении этих мерзких носителей протезов.
 
-# Original: Pay special attention to the ones that aren't immediately obvious. They're what the trials are really for.
+# Kromer: Pay special attention to the ones that aren't immediately obvious. They're what the trials are really for.
 Кромер: Особое внимание — тем, кого не распознать с первого взгляда. Ради них-то суды и нужны.
 
-# Original: Wait a minute.
+# Kromer: Wait a minute.
 Кромер: Минуточку.
 
-# Original: That smoke, it's... it's not just smoke from malfunctioning machines... It's...
+# Kromer: That smoke, it's... it's not just smoke from malfunctioning machines... It's...
 Кромер: Этот дым... это не просто дым от неисправных машин... Это...
 
-# Original: .......
+# Meursault: .......
 Мерсо: .......
 
-# Original: We must evacuate, Manager.
+# Meursault: We must evacuate, Manager.
 Мерсо: Нам нужно эвакуироваться, Менеджер.
 
-# Original: Someone has pressed the button and activated the site termination protocol.
+# Meursault: Someone has pressed the button and activated the site termination protocol.
 Мерсо: Кто-то нажал на кнопку и активировал протокол уничтожения объекта.
 
-# Original: At that moment, someone stumbles into view...
+# Narrator: At that moment, someone stumbles into view...
 Рассказчик: В этот момент кто-то, спотыкаясь, появляется в поле зрения...
 
-# Original: Meursault! Convict Meursault!
+# Maurice: Meursault! Convict Meursault!
 Морис: Мерсо! Осуждённый Мерсо!
 
-# Original: <... The Chaplain!>
+# Dante: <... The Chaplain!>
 Данте: <...Капеллан!>
 
-# Original: It was me. I triggered the Sisyphe Tower's incinerator!
+# Maurice: It was me. I triggered the Sisyphe Tower's incinerator!
 Морис: Это был я. Я запустил печь Башни Сизифа!
 
-# Original: You all saw those monsters inside the Grand Magasin too, didn't you? Those things aren't <i>human</i>. If they are unleashed... they will surely destroy our Wing.
+# Maurice: You all saw those monsters inside the Grand Magasin too, didn't you? Those things aren't <i>human</i>. If they are unleashed... they will surely destroy our Wing.
 Морис: Вы же все тоже видели этих чудовищ в Гран-Магазэне, верно? Эти твари <i>не люди</i>. Если их выпустить... они непременно уничтожат наше Крыло.
 
-# Original: I did what I had to! I had to burn all of them to ashes!
+# Maurice: I did what I had to! I had to burn all of them to ashes!
 Морис: Я сделал то, что должен был! Я должен был сжечь их всех дотла!
 
-# Original: You there, help me stop the ones who've managed to escape!
+# Maurice: You there, help me stop the ones who've managed to escape!
 Морис: Эй, вы, помогите мне остановить тех, кому удалось сбежать!
 
-# Original: In fact, I'll—Yes, I'll hire you! You're Distortion specialists, aren't you? I'll hire you to—aagh!
+# Maurice: In fact, I'll—Yes, I'll hire you! You're Distortion specialists, aren't you? I'll hire you to—aagh!
 Морис: Более того, я... Да, я вас найму! Вы ведь специалисты по Искажениям, так? Я найму вас, чтобы... а-а-агх!
 
-# Original: How could you?! How could you, you bastard?!!!
+# Kromer: How could you?! How could you, you bastard?!!!
 Кромер: Как ты мог?! Как ты мог, ублюдок?!!!
 
-# Original: The capsule vats are being consumed by the dancing flames.
+# Narrator: The capsule vats are being consumed by the dancing flames.
 Рассказчик: Капсулы пожирает пляшущее пламя.
 
-# Original: The air is soon filled with a cacophony of voices. Some scream. Some sing. Some speak in an incoherent, alien language.
+# Narrator: The air is soon filled with a cacophony of voices. Some scream. Some sing. Some speak in an incoherent, alien language.
 Рассказчик: Вскоре воздух наполняется какофонией голосов. Одни кричат. Другие поют. Третьи говорят на бессвязном, чуждом языке.
 
-# Original: Ahhhh...!
+# Kromer: Ahhhh...!
 Кромер: А-а-а-а...!
 
-# Original: No... No... This can't be real...!
+# Kromer: No... No... This can't be real...!
 Кромер: Нет... Нет... Этого не может быть...!
 
-# Original: All those lives, precious lives... Humans, humans of flesh, humans who bleed... Oh, the tears... they won't stop. All we had to do was cull the ones that looked like prosthetic users...!
+# Kromer: All those lives, precious lives... Humans, humans of flesh, humans who bleed... Oh, the tears... they won't stop. All we had to do was cull the ones that looked like prosthetic users...!
 Кромер: Все эти жизни, драгоценные жизни... Люди, люди из плоти, люди, у которых течёт кровь... Ох, слёзы... они не останавливаются. Нам нужно было лишь отбраковать тех, кто походил на носителей протезов...!
 
-# Original: Damn you, you charlatan of a priest! Damn you!!
+# Kromer: Damn you, you charlatan of a priest! Damn you!!
 Кромер: Будь ты проклят, шарлатан в рясе! Будь ты проклят!!
 
-# Original: .......
+# Jacob: .......
 Якоб: .......
 
-# Original: Kromer screams in utter despair, tears of fury and hatred streaming down her cheeks.
+# Narrator: Kromer screams in utter despair, tears of fury and hatred streaming down her cheeks.
 Рассказчик: Кромер кричит в полном отчаянии, слёзы ярости и ненависти текут по её щекам.
 
-# Original: We have to go, Manager. <i>Now.</i>
+# Meursault: We have to go, Manager. <i>Now.</i>
 Мерсо: Нам нужно уходить, Менеджер. <i>Сейчас же.</i>
 
-# Original: From a distance, the Sisyphe Tower, this mega prison, appeared like a lighthouse. But now... it looked more like a chimney.
+# Narrator: From a distance, the Sisyphe Tower, this mega prison, appeared like a lighthouse. But now... it looked more like a chimney.
 Рассказчик: Издалека Башня Сизифа, эта гигантская тюрьма, походила на маяк. Но теперь... она больше напоминала дымовую трубу.
 
-# Original: Too many people, too many Distortions burned all at once, their number so inconceivably large that I could hardly imagine it. Black smoke rose—no, gushed out of the skyward chimney, smothering the sky above N Corp.
+# Narrator: Too many people, too many Distortions burned all at once, their number so inconceivably large that I could hardly imagine it. Black smoke rose—no, gushed out of the skyward chimney, smothering the sky above N Corp.
 Рассказчик: Слишком много людей, слишком много Искажений сгорели разом — их число было столь невообразимо велико, что я едва мог его представить. Чёрный дым поднимался — нет, хлестал из устремлённой в небо трубы, удушая небо над Корпорацией N.
 
-# Original: But the smoke showed no sign of slowing down. It endlessly spewed from the opening, as though it were trying to devour the City whole.
+# Narrator: But the smoke showed no sign of slowing down. It endlessly spewed from the opening, as though it were trying to devour the City whole.
 Рассказчик: Но дым и не думал стихать. Он без конца извергался из жерла, словно пытался проглотить Город целиком.
 
-# Original: And soon, it began to rain. Rain that carried ashes, tainted crimson and black by the smoke.
+# Narrator: And soon, it began to rain. Rain that carried ashes, tainted crimson and black by the smoke.
 Рассказчик: И вскоре пошёл дождь. Дождь, несущий пепел, окрашенный дымом в багряный и чёрный.
 
-# Original: ... The scent... of humans...
+# Gregor: ... The scent... of humans...
 Грегор: ...Запах... людей...
 
-# Original: Gregor began to tremble. The cigarette he'd been smoking slipped out of his fingers.
+# Narrator: Gregor began to tremble. The cigarette he'd been smoking slipped out of his fingers.
 Рассказчик: Грегора затрясло. Сигарета, которую он курил, выскользнула из его пальцев.
 
-# Original: Executive Manager.
+# Outis: Executive Manager.
 Отис: Исполнительный Менеджер.
 
-# Original: Please steel yourself. I suspect the events of today have set things in motion that cannot be stopped.
+# Outis: Please steel yourself. I suspect the events of today have set things in motion that cannot be stopped.
 Отис: Прошу, держитесь. Подозреваю, сегодняшние события привели в движение то, что уже не остановить.
 
-# Original: Some Sinners mutter helplessly as the foreboding smoke rises and spreads endlessly in the sky.
+# Narrator: Some Sinners mutter helplessly as the foreboding smoke rises and spreads endlessly in the sky.
 Рассказчик: Некоторые Грешники беспомощно бормочут, пока зловещий дым поднимается и бесконечно расползается по небу.
 
-# Original: Meursault, too, stands with the other Sinners and looks up toward the rising smoke with an inscrutable expression.
+# Narrator: Meursault, too, stands with the other Sinners and looks up toward the rising smoke with an inscrutable expression.
 Рассказчик: Мерсо тоже стоит вместе с остальными Грешниками и смотрит вверх, на поднимающийся дым, с непроницаемым выражением лица.
 
-# Original: <... How do you feel about this, Meursault?>
+# Dante: <... How do you feel about this, Meursault?>
 Данте: <...Что ты чувствуешь по этому поводу, Мерсо?>
 
-# Original: ... I believe I feel horror, devastation... and grief.
+# Meursault: ... I believe I feel horror, devastation... and grief.
 Мерсо: ...Полагаю, я чувствую ужас, опустошение... и скорбь.
 
-# Original: I had no way of knowing exactly what was captured in Meursault's gaze, or whether our understanding of the "horrified" sentiment was the same feeling he expressed, but...
+# Narrator: I had no way of knowing exactly what was captured in Meursault's gaze, or whether our understanding of the "horrified" sentiment was the same feeling he expressed, but...
 Рассказчик: Я не мог знать наверняка, что именно улавливал взгляд Мерсо и совпадает ли наше понимание чувства «ужаса» с тем, что выразил он, но...
 
-# Original: ... I could feel through his words that whatever bound him had loosened tangibly.
+# Narrator: ... I could feel through his words that whatever bound him had loosened tangibly.
 Рассказчик: ...По его словам я чувствовал: то, что сковывало его, ощутимо ослабло.
 
-# Original: The chains... cannot be broken, and they will always constrict around me.
+# Meursault: The chains... cannot be broken, and they will always constrict around me.
 Мерсо: Цепи... нельзя разорвать, и они всегда будут сжиматься вокруг меня.
 
-# Original: The sun sinks into the devouring maw of the smoke.
+# Narrator: The sun sinks into the devouring maw of the smoke.
 Рассказчик: Солнце тонет в пожирающей пасти дыма.
 
-# Original: Together, we despair.
+# Narrator: Together, we despair.
 Рассказчик: Вместе мы отчаиваемся.
 
-# Original: Together, we are afraid. Together, we watch as the boulder once again teeters at the edge, a portent of its falling.
+# Narrator: Together, we are afraid. Together, we watch as the boulder once again teeters at the edge, a portent of its falling.
 Рассказчик: Вместе мы боимся. Вместе мы смотрим, как валун снова покачивается на краю, предвещая падение.
 
-# Original: But Meursault does not look away; he wants his gaze to linger, even as the day comes to an end.
+# Narrator: But Meursault does not look away; he wants his gaze to linger, even as the day comes to an end.
 Рассказчик: Но Мерсо не отводит глаз; он хочет, чтобы его взгляд задержался, даже когда день подходит к концу.
 
-# Original: Sinner #5. The one who was never meant to return.
+# Vergilius: Sinner #5. The one who was never meant to return.
 Вергилий: Грешник №5. Тот, кому не суждено было вернуться.
 
-# Original: Welcome back.
+# Vergilius: Welcome back.
 Вергилий: С возвращением.
 
-# Original: Here we go again. Vroom once, vroom twice.
+# Charon: Here we go again. Vroom once, vroom twice.
 Харон: Ну вот, опять. Вжух раз, вжух два.
 
-# Original: For now...
+# Meursault: For now...
 Мерсо: Пока что...
 
-# Original: Even as we wait for the terrible night to claim us all...
+# Meursault: Even as we wait for the terrible night to claim us all...
 Мерсо: Даже пока мы ждём, когда ужасная ночь поглотит нас всех...
 
-# Original: I think we can watch the sunset together and endure it.
+# Meursault: I think we can watch the sunset together and endure it.
 Мерсо: Думаю, мы можем вместе смотреть на закат и вынести это.
 
-# Original: He walks forward, wading resolutely into the infinite dark.
+# Narrator: He walks forward, wading resolutely into the infinite dark.
 Рассказчик: Он идёт вперёд, решительно ступая в бесконечную тьму.
 
-# Original: The continuation of the Canned Experience business, the backbone of N Corp.'s economy, has become... unsustainable.
+# N Corp. Staff: The continuation of the Canned Experience business, the backbone of N Corp.'s economy, has become... unsustainable.
 Сотрудник Корпорации N: Продолжение бизнеса по продаже Консервированного опыта, основы экономики Корпорации N, стало... невозможным.
 
-# Original: Sure, but that's just a supply issue. There's plenty of demand for experiences only the Cans can provide.
+# Kromer: Sure, but that's just a supply issue. There's plenty of demand for experiences only the Cans can provide.
 Кромер: Конечно, но это всего лишь проблема с поставками. Спрос на впечатления, которые дают только Консервы, по-прежнему огромен.
 
-# Original: Not a single N Corp. citizen can go 2 days without gorging on some Canned Experience.
+# Kromer: Not a single N Corp. citizen can go 2 days without gorging on some Canned Experience.
 Кромер: Ни один гражданин Корпорации N не протянет и двух дней, не набив брюхо каким-нибудь Консервированным опытом.
 
-# Original: ... Then what are we to—
+# N Corp. Staff: ... Then what are we to—
 Сотрудник Корпорации N: ...Тогда что же нам...
 
-# Original: Oh, come on! What's wrong with everyone? The Sisyphe System is hardly the only way to procure Experience Soup. You know, the way things were done in the good ol' days!
+# Kromer: Oh, come on! What's wrong with everyone? The Sisyphe System is hardly the only way to procure Experience Soup. You know, the way things were done in the good ol' days!
 Кромер: Да ладно вам! Что с вами со всеми не так? Система Сизифа — далеко не единственный способ добыть Суп Опыта. Знаете, как это делалось в старые добрые времена!
 
-# Original: Yes, that's what I'm talking about—draining the Experience Soup <i>straight</i> from the brain matter.
+# Kromer: Yes, that's what I'm talking about—draining the Experience Soup <i>straight</i> from the brain matter.
 Кромер: Да, именно об этом я и говорю — выкачивать Суп Опыта <i>прямиком</i> из мозгового вещества.
 
-# Original: Experiences of unrivaled freshness! Sensational! <i>Human!</i>
+# Kromer: Experiences of unrivaled freshness! Sensational! <i>Human!</i>
 Кромер: Впечатления непревзойдённой свежести! Сенсационные! <i>Человеческие!</i>
 
-# Original: Well, yes, but... That method is...
+# N Corp. Staff: Well, yes, but... That method is...
 Сотрудник Корпорации N: Ну, да, но... Этот метод...
 
-# Original: Is what? What's your problem?
+# Kromer: Is what? What's your problem?
 Кромер: Что — метод? В чём проблема?
 
-# Original: Ohh, are you scared of that stuck-up Chaplain?
+# Kromer: Ohh, are you scared of that stuck-up Chaplain?
 Кромер: О-о, вы боитесь этого чванливого Капеллана?
 
-# Original: .......
+# Jacob: .......
 Якоб: .......
 
-# Original: Wow, when'd you go and get him?
+# Kromer: Wow, when'd you go and get him?
 Кромер: Ого, и когда ты успела за ним сходить?
 
-# Original: Anyway, that takes care of that, right? The Inquisition has gripped the nail and smote your "problem" away!
+# Kromer: Anyway, that takes care of that, right? The Inquisition has gripped the nail and smote your "problem" away!
 Кромер: В общем, с этим покончено, верно? Инквизиция сжала гвоздь и сразила вашу «проблему» напрочь!
 
-# Original: .......
+# N Corp. Staff: .......
 Сотрудник Корпорации N: .......
 
-# Original: Wait, wait. A moment of silence for our valued teammate. 1... 2... 3...
+# Kromer: Wait, wait. A moment of silence for our valued teammate. 1... 2... 3...
 Кромер: Стойте, стойте. Минута молчания по нашему ценному коллеге. Раз... два... три...
 
-# Original: Now that that's done and over with, let's get siphoning, shall we? The most human experience of them all, from the brain of a Giant...
+# Kromer: Now that that's done and over with, let's get siphoning, shall we? The most human experience of them all, from the brain of a Giant...
 Кромер: Ну, а теперь, когда с этим покончено, начнём выкачивать, а? Самый человеческий опыт из всех — из мозга Гиганта...
 
-# Original: Have you procured it?
+# Hermann: Have you procured it?
 Герман: Вы его добыли?
 
-# Original: Yes, and without much difficulty. All I had to do was gently pick up this slow, crawling thing from the ground.
+# Gubo: Yes, and without much difficulty. All I had to do was gently pick up this slow, crawling thing from the ground.
 Губо: Да, и без особых затруднений. Мне всего лишь нужно было осторожно поднять с земли это медленно ползущее создание.
 
-# Original: .......
+# ???: .......
 ???: .......
 
-# Original: A pair of eyes, connected to a brain, hugged by an external membrane. This is it.
+# Aseah: A pair of eyes, connected to a brain, hugged by an external membrane. This is it.
 Асея: Пара глаз, соединённых с мозгом, обнятым внешней оболочкой. Это оно.
 
-# Original: The dough from Wuthering Heights, Xianhuang Worm from Hongyuan, and now, this <i>human</i> from the Grand Magasin...
+# Hermann: The dough from Wuthering Heights, Xianhuang Worm from Hongyuan, and now, this <i>human</i> from the Grand Magasin...
 Герман: Тесто из Грозового Перевала, Червь Сяньхуан из Хунъюаня, а теперь этот <i>человек</i> из Гран-Магазэна...
 
-# Original: We've certainly gathered many clues, haven't we? For the appearance of the Protoplast... I'd say the fall of N Corp. is a fair trade.
+# Hermann: We've certainly gathered many clues, haven't we? For the appearance of the Protoplast... I'd say the fall of N Corp. is a fair trade.
 Герман: Мы собрали немало зацепок, не правда ли? За образ Протопласта... Я бы сказала, даже падение Корпорации N — вполне справедливая цена.
 
-# Original: Wait, this one isn't—
+# N Corp. Staff: Wait, this one isn't—
 Сотрудник Корпорации N: Постойте, этот не...
 
-# Original: Eliminate, purge...!
+# Inquisitor: Eliminate, purge...!
 Инквизитор: Устранить, очистить...!
 
-# Original: How could they... burn the Rouges...
+# ???: How could they... burn the Rouges...
 ???: Как они могли... сжечь Ружей...
 
-# Original: What are these monsters...?
+# Puzzled Fixer: What are these monsters...?
 Озадаченный Корректировщик: Что это за чудовища?..
 
-# Original: ... Distortions.
+# Serious Fixer: ... Distortions.
 Серьёзный Корректировщик: ...Искажения.
 
-# Original: It's raining.
+# Nelly: It's raining.
 Нелли: Идёт дождь.
 
-# Original: Hah... I can hardly tell them apart. Which are human, and which are Distortions?
+# Jia Huan: Hah... I can hardly tell them apart. Which are human, and which are Distortions?
 Цзя Хуань: Ха... Я их едва различаю. Кто из них люди, а кто Искажения?
 
-# Original: Brief me on the situation, Nelly.
+# Hermann: Brief me on the situation, Nelly.
 Герман: Доложи обстановку, Нелли.
 
-# Original: Distortions that weren't incinerated by the Sisyphe Tower's disposal system have been unleashed, wreaking havoc on the District, Backstreets and Nest alike.
+# Nelly: Distortions that weren't incinerated by the Sisyphe Tower's disposal system have been unleashed, wreaking havoc on the District, Backstreets and Nest alike.
 Нелли: Искажения, не сожжённые системой утилизации Башни Сизифа, вырвались на свободу и сеют хаос по всему Району — и в Подворотнях, и в Гнезде.
 
-# Original: Kromer has... summoned the board of directors again, but the current crisis is unlikely to be resolved in the foreseeable future.
+# Nelly: Kromer has... summoned the board of directors again, but the current crisis is unlikely to be resolved in the foreseeable future.
 Нелли: Кромер... снова созвала совет директоров, но нынешний кризис вряд ли разрешится в обозримом будущем.
 
-# Original: I see. So far, no deviations from the predicted development.
+# Hermann: I see. So far, no deviations from the predicted development.
 Герман: Понятно. Пока никаких отклонений от предсказанного развития событий.
 
-# Original: Hm.
+# Aseah: Hm.
 Асея: Хм.
 
-# Original: The outward appearances of Distortions vary—some assume a mechanical form, while others are biological, bearing much resemblance to those of beasts.
+# Aseah: The outward appearances of Distortions vary—some assume a mechanical form, while others are biological, bearing much resemblance to those of beasts.
 Асея: Внешний облик Искажений разнится — одни принимают механическую форму, другие биологическую, во многом напоминая зверей.
 
-# Original: It will become harder to... distinguish prosthesis users from Distortions.
+# Aseah: It will become harder to... distinguish prosthesis users from Distortions.
 Асея: Станет труднее... отличать носителей протезов от Искажений.
 
-# Original: They will be subjected to constant mistrust, living under the endless suspicion of being Distortions.
+# Gubo: They will be subjected to constant mistrust, living under the endless suspicion of being Distortions.
 Губо: Они будут жить под постоянным недоверием, под бесконечным подозрением в том, что они Искажения.
 
-# Original: Still, it is unlikely that people will indiscriminately persecute all prosthetic users. Too many vested interests are involved to turn on prosthetic users merely because they might be Distortions. It's a huge tangled knot of monetary and political interests...
+# Nelly: Still, it is unlikely that people will indiscriminately persecute all prosthetic users. Too many vested interests are involved to turn on prosthetic users merely because they might be Distortions. It's a huge tangled knot of monetary and political interests...
 Нелли: И всё же маловероятно, что люди станут без разбора преследовать всех носителей протезов. Слишком много корыстных интересов замешано, чтобы ополчиться на них лишь потому, что они могут оказаться Искажениями. Это огромный спутанный клубок денежных и политических интересов...
 
-# Original: Even if they were to risk going against the countless Fixers and Syndicates, several Wings tap their water into the root of the prosthesis industry. They'd be mad to make enemies of them all...
+# Jia Huan: Even if they were to risk going against the countless Fixers and Syndicates, several Wings tap their water into the root of the prosthesis industry. They'd be mad to make enemies of them all...
 Цзя Хуань: Даже если бы они рискнули пойти против бесчисленных Корректировщиков и Синдикатов, несколько Крыльев питают своей водой корни протезной индустрии. Нужно быть безумцами, чтобы нажить себе врагов среди них всех...
 
-# Original: The Malleus Maleficarum has also finished its preparations and is now ready for combat deployment. They need only give the word to have them march into battle.
+# Nelly: The Malleus Maleficarum has also finished its preparations and is now ready for combat deployment. They need only give the word to have them march into battle.
 Нелли: Маллеус Малефикарум тоже завершил подготовку и теперь готов к боевому развёртыванию. Им достаточно лишь отдать приказ, чтобы те выступили в бой.
 
-# Original: With three Ones Who Nail who have been holding the Ones Who Grip at the Sisyphe Tower gone... there isn't anyone left in N Corp. to stop them.
+# Hermann: With three Ones Who Nail who have been holding the Ones Who Grip at the Sisyphe Tower gone... there isn't anyone left in N Corp. to stop them.
 Герман: Когда трёх Тех, кто Пригвождают, сдерживавших Тех, кто Держат, у Башни Сизифа не стало... в Корпорации N больше некому их остановить.
 
-# Original: ... I presume this is developing precisely as the Ones Who Grip have envisioned.
+# Aseah: ... I presume this is developing precisely as the Ones Who Grip have envisioned.
 Асея: ...Полагаю, всё развивается ровно так, как и задумывали Те, кто Держат.
 
-# Original: The unleashed Distortions cause violence, instilling fear in people.
+# Aseah: The unleashed Distortions cause violence, instilling fear in people.
 Асея: Вырвавшиеся Искажения сеют насилие, вселяя в людей страх.
 
-# Original: And it just happens that fear is a very good justification for the enactment of policies that require one to "prove" one's humanity.
+# Aseah: And it just happens that fear is a very good justification for the enactment of policies that require one to "prove" one's humanity.
 Асея: А страх так удачно оказывается прекрасным оправданием для введения политики, требующей «доказывать» свою человечность.
 
-# Original: Kromer and Jacob's influence in N Corp. will burgeon.
+# Jia Huan: Kromer and Jacob's influence in N Corp. will burgeon.
 Цзя Хуань: Влияние Кромер и Якоб в Корпорации N разрастётся.
 
-# Original: Yes, it will. And the Malleus Maleficarum has been waiting with bated breath for those plumes of smoke in the sky to turn into a downpour.
+# Hermann: Yes, it will. And the Malleus Maleficarum has been waiting with bated breath for those plumes of smoke in the sky to turn into a downpour.
 Герман: Да, разрастётся. А Маллеус Малефикарум затаив дыхание ждал, когда эти столбы дыма в небе обернутся ливнем.
 
-# Original: I have little faith that the incinerator at the Grand Magasin Sisyphe was sufficient. They had quite a number of prisoners, didn't they?
+# Gubo: I have little faith that the incinerator at the Grand Magasin Sisyphe was sufficient. They had quite a number of prisoners, didn't they?
 Губо: Я не слишком верю, что печи Гран-Магазэна Сизиф оказалось достаточно. У них ведь было немало узников, не так ли?
 
-# Original: Well... we can all predict the kind of rain that will fall from that smoke-cloud of crimson black.
+# Aseah: Well... we can all predict the kind of rain that will fall from that smoke-cloud of crimson black.
 Асея: Что ж... мы все можем предугадать, какой дождь прольётся из этой багряно-чёрной дымовой тучи.
 
-# Original: Some have already coined the term "Sisyphean Rain." I wonder if the name will stick.
+# Hermann: Some have already coined the term "Sisyphean Rain." I wonder if the name will stick.
 Герман: Кое-кто уже окрестил его «Дождём Сизифа». Интересно, приживётся ли название.
 
-# Original: That cloud is a smoke of Distortions. When it rains, its essence will seep into the soil... and the Distortions of the Grand Magasin Sisyphe will be reborn from the earth.
+# Hermann: That cloud is a smoke of Distortions. When it rains, its essence will seep into the soil... and the Distortions of the Grand Magasin Sisyphe will be reborn from the earth.
 Герман: Эта туча — дым Искажений. Когда пойдёт дождь, их суть просочится в почву... и Искажения Гран-Магазэна Сизиф возродятся из земли.
 
-# Original: Kromer found the incineration genuinely tragic, but to Jacob... that was just another part of the plan.
+# Hermann: Kromer found the incineration genuinely tragic, but to Jacob... that was just another part of the plan.
 Герман: Для Кромер сожжение стало подлинной трагедией, но для Якоб... это была лишь очередная часть плана.
 
-# Original: It will be as you predicted, Director. The threat of Distortions will come to the forefront in the City, as a highly observable phenomenon—which will make for the perfect justification to wield power with abandon.
+# Jia Huan: It will be as you predicted, Director. The threat of Distortions will come to the forefront in the City, as a highly observable phenomenon—which will make for the perfect justification to wield power with abandon.
 Цзя Хуань: Всё будет, как вы и предсказывали, директор. Угроза Искажений выйдет в Городе на первый план как крайне наглядное явление — а это идеальное оправдание, чтобы без оглядки пользоваться властью.
 
-# Original: Yes, it will. This smoke... will start a war.
+# Hermann: Yes, it will. This smoke... will start a war.
 Герман: Да, будет. Этот дым... начнёт войну.
 
-# Original: Let's seize our opportunity while all hell breaks loose.
+# Hermann: Let's seize our opportunity while all hell breaks loose.
 Герман: Воспользуемся своим шансом, пока здесь разверзается ад.
 
-# Original: Ah. Must've been just a brief shower. It's stopped raining.
+# Nelly: Ah. Must've been just a brief shower. It's stopped raining.
 Нелли: А. Видимо, это был лишь короткий ливень. Дождь кончился.
 
-# Original: ... Huh?
+# Nelly: ... Huh?
 Нелли: ...Э?
 
-# Original: Hm? What is it?
+# Hermann: Hm? What is it?
 Герман: Хм? Что такое?
 
-# Original: I think I saw a... small child. We only made eye contact for a second, but their eyes just reminded me of another I used to look after. Had the same look to them, and... was about the same height, too.
+# Nelly: I think I saw a... small child. We only made eye contact for a second, but their eyes just reminded me of another I used to look after. Had the same look to them, and... was about the same height, too.
 Нелли: Кажется, я видела... маленького ребёнка. Мы встретились взглядами лишь на секунду, но эти глаза напомнили мне другого, за которым я когда-то присматривала. Тот же взгляд, и... рост примерно такой же.
 
-# Original: They were limping into the Backstreets, wearing some kind of ragged covering soaked through with rain. I couldn't make it out clearly because it was so worn, but... the color of that cloak reminded me of a Golden Bough's.
+# Nelly: They were limping into the Backstreets, wearing some kind of ragged covering soaked through with rain. I couldn't make it out clearly because it was so worn, but... the color of that cloak reminded me of a Golden Bough's.
 Нелли: Ребёнок ковылял в Подворотни, в каком-то рваном покрове, насквозь промокшем от дождя. Я не смогла разглядеть как следует, он был слишком истрёпан, но... цвет этого плаща напомнил мне цвет Золотой Ветви.
 
-# Original: Did you now? Well, I hope that child gets home safely.
+# Hermann: Did you now? Well, I hope that child gets home safely.
 Герман: Вот как? Что ж, надеюсь, этот ребёнок благополучно доберётся домой.
 
-# Original: Hmm... With the chaos unfolding within the District... I wonder if that child will even live to see tomorrow.
+# Nelly: Hmm... With the chaos unfolding within the District... I wonder if that child will even live to see tomorrow.
 Нелли: Хм-м... При том хаосе, что разворачивается в Районе... доживёт ли этот ребёнок хотя бы до завтра?
 
-# Original: There's probably no one to look after them with everything that's happening.
+# Nelly: There's probably no one to look after them with everything that's happening.
 Нелли: Среди всего происходящего за ним, наверное, и присмотреть некому.
 
-# Original: <color=#E1B643>Thank you for looking after those children.</color>
+# Carmen: <color=#E1B643>Thank you for looking after those children.</color>
 Кармен: <color=#E1B643>Спасибо, что присмотрели за этими детьми.</color>
 
-# Original: <color=#E1B643>I think the Fount was integral in keeping their minds from breaking.</color>
+# Carmen: <color=#E1B643>I think the Fount was integral in keeping their minds from breaking.</color>
 Кармен: <color=#E1B643>Думаю, Источник сыграл решающую роль в том, что их разум не сломался.</color>
 
-# Original: <color=#4457b1>For... the homeward journey... to the star...</color>
+# ???: <color=#4457b1>For... the homeward journey... to the star...</color>
 ???: <color=#4457b1>Ради... пути домой... к звезде...</color>
 
-# Original: <color=#E1B643>I'm sorry about what happened before. I know an apology is hardly enough to make amends...</color>
+# Carmen: <color=#E1B643>I'm sorry about what happened before. I know an apology is hardly enough to make amends...</color>
 Кармен: <color=#E1B643>Мне жаль из-за того, что случилось раньше. Знаю, извинений едва ли достаточно, чтобы загладить вину...</color>
 
-# Original: <color=#E1B643>... There's something I'd been meaning to ask. How are you able to stay within the limits of the City?</color>
+# Carmen: <color=#E1B643>... There's something I'd been meaning to ask. How are you able to stay within the limits of the City?</color>
 Кармен: <color=#E1B643>...Я давно хотела спросить. Как вам удаётся оставаться в пределах Города?</color>
 
-# Original: <color=#E1B643>You're not... humans.</color>
+# Carmen: <color=#E1B643>You're not... humans.</color>
 Кармен: <color=#E1B643>Вы ведь... не люди.</color>
 
-# Original: <color=#4457b1>.......</color>
-???: <color=#4457b1>.......</color>
+# ???: <color=#4457b1>.......</color>
+???: <color=#4457b1>…….</color>
 
-# Original: <color=#4457b1>... What about you?</color>
+# ???: <color=#4457b1>... What about you?</color>
 ???: <color=#4457b1>...А ты?</color>

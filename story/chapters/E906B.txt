@@ -1,491 +1,491 @@
-﻿# Original: Ah, you've arrived. I was waiting for you.
+﻿# Alan: Ah, you've arrived. I was waiting for you.
 Alan: А, вы прибыли. Я ждал вас.
 
-# Original: We sifted through and isolated the doors with the highest probability of leading into the Ring's gallery.
+# Alan: We sifted through and isolated the doors with the highest probability of leading into the Ring's gallery.
 Alan: Мы всё проверили и изолировали те двери, что с наибольшей вероятностью ведут в галерею Безымянного.
 
-# Original: The next step would be to enter the alternate door you mentioned, but...
+# Alan: The next step would be to enter the alternate door you mentioned, but...
 Alan: Следующим шагом было бы войти в ту альтернативную дверь, о которой вы упоминали, но...
 
-# Original: Hold up a sec.
+# Kira: Hold up a sec.
 Kira: Сек, притормозите.
 
-# Original: ... I was actually gatekeeping more stuff.
+# Kira: ... I was actually gatekeeping more stuff.
 Kira: ...Вообще-то я загейткипила ещё немного инфы.
 
-# Original: <Huh...?>
+# Dante: <Huh...?>
 Dante: <А...?>
 
-# Original: "Gatekeeping"...? Are you saying you have more to tell about gates—doors?
+# Alan: "Gatekeeping"...? Are you saying you have more to tell about gates—doors?
 Alan: "Загейткипила"...? От слова "гейт" — врата? Вы хотите сказать, что можете больше рассказать о вратах... то есть, о дверях?
 
-# Original: Yup.
+# Kira: Yup.
 Kira: Агась.
 
-# Original: That door over there? Pretty sure it connects to N Corp.'s Nest. I saw Albina going in, all hyped about some canned... whatever it was.
+# Kira: That door over there? Pretty sure it connects to N Corp.'s Nest. I saw Albina going in, all hyped about some canned... whatever it was.
 Kira: Вон та дверь? Почти уверена, что она ведёт в Гнездо Корпорации N. Я видела, как туда заходила Альбина, на диком хайпе от каких-то консервированных... чем бы они там ни были.
 
-# Original: And that wooden door with bandages wrapped around the handle... Papa'd go in there to cross out Vengeances. From what the Book said, it's probably a turf "protected" by a Thumb subsidiary or something.
+# Kira: And that wooden door with bandages wrapped around the handle... Papa'd go in there to cross out Vengeances. From what the Book said, it's probably a turf "protected" by a Thumb subsidiary or something.
 Kira: А та деревянная дверь с замотанной бинтами ручкой... Папа ходил туда вычёркивать Отмщения. Судя по тому, что было в Книге, это, наверное, территория под «крышей» какой-то дочерней компашки Большого или типа того.
 
-# Original: Unlike earlier, when she offered only vague snippets, even about just a single door...
+# Narrator: Unlike earlier, when she offered only vague snippets, even about just a single door...
 Narrator: В отличие от прошлого раза, когда она выдавала лишь обрывочные сведения даже об одной-единственной двери...
 
-# Original: ... Kira was now feeding Alan a stream of intel that seemed solid even to someone as clueless about the Backdoor as me.
+# Narrator: ... Kira was now feeding Alan a stream of intel that seemed solid even to someone as clueless about the Backdoor as me.
 Narrator: ...сейчас Кира сливала Алану поток инфы, который казался достоверным даже такому профану в Задних дверях, как я.
 
-# Original: Hm... She's far more cooperative than anticipated. Even after that Alan character roughed her up, from what I hear.
+# Outis: Hm... She's far more cooperative than anticipated. Even after that Alan character roughed her up, from what I hear.
 Outis: Хм... Она куда сговорчивее, чем ожидалось. Даже после того, как этот Алан задал ей трёпку, судя по тому, что я слышала.
 
-# Original: <Yeah... You'd think she'd clam up out of spite... I wonder if she changed her mind about cooperating with us.>
+# Dante: <Yeah... You'd think she'd clam up out of spite... I wonder if she changed her mind about cooperating with us.>
 Dante: <Да... Можно было подумать, что она замкнётся в себе из чистой вредности... Интересно, она передумала насчёт сотрудничества с нами?>
 
-# Original: Nevertheless, we mustn't let our guard down, Executive Manager. There's no telling when she'll turn on us...
+# Outis: Nevertheless, we mustn't let our guard down, Executive Manager. There's no telling when she'll turn on us...
 Outis: И тем не менее, мы не должны терять бдительность, Исполнительный менеджер. Неизвестно, когда она обернётся против нас...
 
-# Original: Frickin'... I can literally hear everything you're saying, y'know?
+# Kira: Frickin'... I can literally hear everything you're saying, y'know?
 Kira: Блин... Я вообще-то буквально всё слышу, в курсе?
 
-# Original: All right, then. Based on the intel... please proceed by investigating the safest doors first.
+# Alan: All right, then. Based on the intel... please proceed by investigating the safest doors first.
 Alan: Что ж, хорошо. Судя по разведданным... пожалуйста, начните расследование с самых безопасных дверей.
 
-# Original: As for the high-risk ones... I'll continue checking and let you know which ones you need to enter.
+# Alan: As for the high-risk ones... I'll continue checking and let you know which ones you need to enter.
 Alan: Что касается дверей с высоким уровнем риска... Я продолжу проверку и сообщу вам, в какие из них нужно будет войти.
 
-# Original: Alan tinkered with the devices around him and flashed a couple of doors with blue light.
+# Narrator: Alan tinkered with the devices around him and flashed a couple of doors with blue light.
 Narrator: Алан поколдовал с устройствами вокруг себя и подсветил пару дверей синим светом.
 
-# Original: Guess that means we start with those.
+# Narrator: Guess that means we start with those.
 Narrator: Полагаю, это означает, что мы начнём с них.
 
-# Original: <Where do you guys wanna go first?>
+# Dante: <Where do you guys wanna go first?>
 Dante: <Куда вы хотите пойти сначала, ребят?>
 
-# Original: They all look about the same. Just start with the closest one.
+# Heathcliff: They all look about the same. Just start with the closest one.
 Heathcliff: Да они все на одно лицо. Просто начни с той, что ближе.
 
-# Original: Well, Alan did say these are the safest ones... so it shouldn't matter which one.
+# Narrator: Well, Alan did say these are the safest ones... so it shouldn't matter which one.
 Narrator: Ну, Алан сказал, что они самые безопасные... так что не имеет значения, какую выбрать.
 
-# Original: Just as I reached for the nearest door as Heathcliff told me to, Ryōshū suddenly veered off, stopping in front of another one that stood a few steps apart.
+# Narrator: Just as I reached for the nearest door as Heathcliff told me to, Ryōshū suddenly veered off, stopping in front of another one that stood a few steps apart.
 Narrator: Но стоило мне потянуться к ближайшей двери, как и сказал Хитклиф, Рёшу внезапно свернула с пути и остановилась перед другой, что находилась в нескольких шагах от нас.
 
-# Original: This door... it feels familiar.
+# Ryōshū: This door... it feels familiar.
 Ryōshū: Эта дверь... кажется знакомой.
 
-# Original: <...! You recognize that door?>
+# Dante: <...! You recognize that door?>
 Dante: <...! Ты узнаёшь эту дверь?>
 
-# Original: I think I passed through it a few times when I was little...
+# Ryōshū: I think I passed through it a few times when I was little...
 Ryōshū: Кажется, я проходила через неё пару раз, когда была маленькой...
 
-# Original: Hardly had Ryōshū stopped speaking when a fragmented memory, painted over in parts, slipped into my mind.
+# Narrator: Hardly had Ryōshū stopped speaking when a fragmented memory, painted over in parts, slipped into my mind.
 Narrator: Едва Рёшу умолкла, как в мой разум проскользнуло фрагментированное воспоминание, местами закрашенное.
 
-# Original: Sorry... it hurt a lot, didn't it?
+# Yoshihide: Sorry... it hurt a lot, didn't it?
 Yoshihide: Прости... тебе было очень больно, да?
 
-# Original: I... I should've finished my homework faster.
+# Yoshihide: I... I should've finished my homework faster.
 Yoshihide: Я... я должна была закончить домашку быстрее.
 
-# Original: Oh, I know! Let's go for a walk!
+# Yoshihide: Oh, I know! Let's go for a walk!
 Yoshihide: О, я знаю! Давай пойдём погуляем!
 
-# Original: *puff* But I don't recall much about it.
+# Ryōshū: *puff* But I don't recall much about it.
 Ryōshū: *пффф* Но я мало что о ней помню.
 
-# Original: That memory just now... Could it be tied to Araya?
+# Narrator: That memory just now... Could it be tied to Araya?
 Narrator: То воспоминание только что... Может ли оно быть связано с Араей?
 
-# Original: <Let's start with that door.>
+# Dante: <Let's start with that door.>
 Dante: <Давайте начнём с этой двери.>
 
-# Original: Okay... This one, yeah?
+# Heathcliff: Okay... This one, yeah?
 Heathcliff: Лады... С этой, ага?
 
-# Original: Here we go.
+# Heathcliff: Here we go.
 Heathcliff: Погнали.
 
-# Original: Impatient as ever, Heathcliff shoved the door open and strode in first. The rest of us followed, including Kira and the other Sinners.
+# Narrator: Impatient as ever, Heathcliff shoved the door open and strode in first. The rest of us followed, including Kira and the other Sinners.
 Narrator: Нетерпеливый, как и всегда, Хитклиф распахнул дверь и вошёл первым. Остальные последовали за ним, включая Киру и других Грешников.
 
-# Original: <And this place is...?>
+# Dante: <And this place is...?>
 Dante: <И это место...?>
 
-# Original: Judging by its state, it seems to be a welfare facility located within a Nest. Most likely a park.
+# Faust: Judging by its state, it seems to be a welfare facility located within a Nest. Most likely a park.
 Faust: Судя по его состоянию, похоже, это объект социального обеспечения, расположенный в Гнезде. Скорее всего, парк.
 
-# Original: Every sod walkin' here's dragging some animal along—means they've got money to burn. Proper rich lot, this place.
+# Heathcliff: Every sod walkin' here's dragging some animal along—means they've got money to burn. Proper rich lot, this place.
 Heathcliff: Каждый хрен, что здесь ошивается, тащит за собой какую-то животину — значит, денег у них куры не клюют. Местечко чисто для богатеньких.
 
-# Original: The "walk" the past Ryōshū mentioned in her memory... and the sight of people fussing over their pets.
+# Narrator: The "walk" the past Ryōshū mentioned in her memory... and the sight of people fussing over their pets.
 Narrator: «Прогулка», о которой упоминала прошлая Рёшу в своём воспоминании... и вид людей, суетящихся вокруг своих питомцев.
 
-# Original: The pieces clicked together, and I voiced the other memory I saw back at the House of Spiders.
+# Narrator: The pieces clicked together, and I voiced the other memory I saw back at the House of Spiders.
 Narrator: Кусочки пазла сошлись воедино, и я озвучил другое воспоминание, которое видел ещё в Доме Пауков.
 
-# Original: <Did you ever come here... with a puppy named Saru?>
+# Dante: <Did you ever come here... with a puppy named Saru?>
 Dante: <Ты когда-нибудь приходила сюда... со щенком по имени Сару?>
 
-# Original: ... Yeah. I remember that.
+# Ryōshū: ... Yeah. I remember that.
 Ryōshū: ...Да. Я помню это.
 
-# Original: Not a puppy, though.
+# Ryōshū: Not a puppy, though.
 Ryōshū: Хотя она не была щенком.
 
-# Original: Saru was... a bit bigger by then.
+# Ryōshū: Saru was... a bit bigger by then.
 Ryōshū: Сару была... тогда чуть побольше.
 
-# Original: Sorry... it hurt a lot, didn't it?
+# Yoshihide: Sorry... it hurt a lot, didn't it?
 Yoshihide: Прости... тебе было очень больно, да?
 
-# Original: I... I should've finished my homework faster.
+# Yoshihide: I... I should've finished my homework faster.
 Yoshihide: Я... я должна была закончить домашку быстрее.
 
-# Original: *whine*
+# Saru: *whine*
 Saru: *скулит*
 
-# Original: Why isn't she getting any better...? I gave her lots to eat...
+# Yoshihide: Why isn't she getting any better...? I gave her lots to eat...
 Yoshihide: Почему ей не становится лучше...? Я давала ей много кушать...
 
-# Original: Oh, I know! Wanna go for walkies? You love walkies, don't you, Saru?
+# Yoshihide: Oh, I know! Wanna go for walkies? You love walkies, don't you, Saru?
 Yoshihide: О, я знаю! Хочешь пойти на прогулку? Ты же любишь гулять, да, Сару?
 
-# Original: *bark*
+# Saru: *bark*
 Saru: *гав*
 
-# Original: There's this Workshop dad always visits—the door there's connected to a park.
+# Yoshihide: There's this Workshop dad always visits—the door there's connected to a park.
 Yoshihide: В той Мастерской, куда всегда ходит папа — тамошняя дверь ведёт в парк.
 
-# Original: We can go right now!
+# Yoshihide: We can go right now!
 Yoshihide: Мы можем пойти прямо сейчас!
 
-# Original: *pant* *pant*
+# Saru: *pant* *pant*
 Saru: *тяжёлое дыхание*
 
-# Original: Ryōshū's childhood memory burned bright in my vision before passing.
+# Narrator: Ryōshū's childhood memory burned bright in my vision before passing.
 Narrator: Детское воспоминание Рёшу ярко вспыхнуло у меня перед глазами, а затем исчезло.
 
-# Original: ... That was her as a kid?!
+# Heathcliff: ... That was her as a kid?!
 Heathcliff: ...Это она-то в детстве?!
 
-# Original: Verily... such gentleness doth seem most unlike thee, Young Ryōshū.
+# Don Quixote: Verily... such gentleness doth seem most unlike thee, Young Ryōshū.
 Don Quixote: Воистину... столь дивная кротость кажется совсем не свойственной тебе, Юная Рёшу.
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: Hey, Clock. Who said you could show them my memories willy-nilly?
+# Ryōshū: Hey, Clock. Who said you could show them my memories willy-nilly?
 Ryōshū: Эй, Часы. Кто разрешил тебе раскидываться моими воспоминаниями направо и налево?
 
-# Original: <No, I... Come on. You know it's not something I can control...>
+# Dante: <No, I... Come on. You know it's not something I can control...>
 Dante: <Нет, я... Да ладно тебе. Ты же знаешь, что я это не контролирую...>
 
-# Original: Tsk... G.G.
+# Ryōshū: Tsk... G.G.
 Ryōshū: Тц... Б.М.
 
-# Original: Back in the House of Spiders, I was the only one who could see the vision of Ryōshū's past.
+# Narrator: Back in the House of Spiders, I was the only one who could see the vision of Ryōshū's past.
 Narrator: Ещё в Доме Пауков я был единственным, кто мог видеть видения о прошлом Рёшу.
 
-# Original: This time, though, her memories seemed to manifest for everyone around, just like what we experienced in H Corp. with Hong Lu.
+# Narrator: This time, though, her memories seemed to manifest for everyone around, just like what we experienced in H Corp. with Hong Lu.
 Narrator: Но в этот раз её воспоминания, кажется, проявились для всех вокруг, прямо как то, что мы испытали в Корпорации H вместе с Хон Лу.
 
-# Original: Which probably means...
+# Narrator: Which probably means...
 Narrator: А это, вероятно, означает...
 
-# Original: Why are y'all staring at me? That's so random, what the hell.
+# Kira: Why are y'all staring at me? That's so random, what the hell.
 Kira: Вы чё все на меня вылупились? Это вообще ни в тему, какого фига.
 
-# Original: ... Did you not see that just now?
+# Outis: ... Did you not see that just now?
 Outis: ...Ты разве этого сейчас не видела?
 
-# Original: See what? You guys zoning out together?
+# Kira: See what? You guys zoning out together?
 Kira: Чего не видела? Как вы тут все хором зависли?
 
-# Original: <Guess it doesn't apply to Kira.>
+# Dante: <Guess it doesn't apply to Kira.>
 Dante: <Похоже, на Киру это не распространяется.>
 
-# Original: Then again, unlike how it was between Lin Daiyu and Hong Lu, Kira doesn't have any direct connection to Ryōshū. I guess it makes sense.
+# Narrator: Then again, unlike how it was between Lin Daiyu and Hong Lu, Kira doesn't have any direct connection to Ryōshū. I guess it makes sense.
 Narrator: С другой стороны, в отличие от Линь Дайюй и Хон Лу, у Киры нет никакой прямой связи с Рёшу. Полагаю, в этом есть смысл.
 
-# Original: Was that adorable hound thy companion of old, Young Ryōshū?
+# Don Quixote: Was that adorable hound thy companion of old, Young Ryōshū?
 Don Quixote: Была ли сия очаровательная гончая твоим давним другом, Юная Рёшу?
 
-# Original: Indeed. My one and only best friend.
+# Ryōshū: Indeed. My one and only best friend.
 Ryōshū: Именно. Моим первым и единственным лучшим другом.
 
-# Original: And because of that, Saru...
+# Ryōshū: And because of that, Saru...
 Ryōshū: И из-за этого Сару...
 
-# Original: *puff* would be locked away in the Vault every time I had to depart on an assignment. With a Spiral driven through her.
+# Ryōshū: *puff* would be locked away in the Vault every time I had to depart on an assignment. With a Spiral driven through her.
 Ryōshū: *пффф* ...запирали в Сейфе каждый раз, когда мне приходилось уходить на задание. Пробив её насквозь Спиралью.
 
-# Original: ... The first-ever leash. Looking back, it might've been a kinder fate had she died sooner.
+# Ryōshū: ... The first-ever leash. Looking back, it might've been a kinder fate had she died sooner.
 Ryōshū: ...Первый в истории поводок. Оглядываясь назад, возможно, для неё было бы милосерднее умереть пораньше.
 
-# Original: To inflict such cruelty upon a voiceless animal... How can such wickedness be borne...?
+# Don Quixote: To inflict such cruelty upon a voiceless animal... How can such wickedness be borne...?
 Don Quixote: Сотворить подобную жестокость с безмолвным животным... Как можно сносить такое злодейство...?
 
-# Original: <What happened to Saru... in the end?>
+# Dante: <What happened to Saru... in the end?>
 Dante: <Что случилось с Сару... в конце концов?>
 
-# Original: *puff* ... She died before her time.
+# Ryōshū: *puff* ... She died before her time.
 Ryōshū: *затяжка* ...Она умерла раньше своего срока.
 
-# Original: I don't recall why, but there was this day when Saru wouldn't stop whimpering in pain. And I... shut myself in my room, crying.
+# Ryōshū: I don't recall why, but there was this day when Saru wouldn't stop whimpering in pain. And I... shut myself in my room, crying.
 Ryōshū: Не помню почему, но в один из дней Сару не переставая скулила от боли. И я... заперлась в своей комнате и плакала.
 
-# Original: <i>You</i> were? Not someone else...?
+# Heathcliff: <i>You</i> were? Not someone else...?
 Heathcliff: <i>Ты</i> плакала? А не кто-то другой...?
 
-# Original: Who else? O.C. it was me.
+# Ryōshū: Who else? O.C. it was me.
 Ryōshū: А кто ещё? К.Ж. это была я.
 
-# Original: Even after witnessing the fragment of memory, Heathcliff looked utterly unconvinced.
+# Narrator: Even after witnessing the fragment of memory, Heathcliff looked utterly unconvinced.
 Narrator: Даже после того, как он стал свидетелем фрагмента воспоминания, вид у Хитклифа был совершенно неубеждённый.
 
-# Original: And while I was grieving... Callisto offered a solution. Said he would give me a gift the next day.
+# Ryōshū: And while I was grieving... Callisto offered a solution. Said he would give me a gift the next day.
 Ryōshū: И пока я горевала... Каллисто предложил решение. Сказал, что на следующий день преподнесёт мне подарок.
 
-# Original: And what I received was...
+# Ryōshū: And what I received was...
 Ryōshū: И тем, что я получила, было...
 
-# Original: Something he called the Beastbone Blade. A tanto that would whine and yelp in Saru's voice with every swing.
+# Ryōshū: Something he called the Beastbone Blade. A tanto that would whine and yelp in Saru's voice with every swing.
 Ryōshū: Кое-что, что он назвал Клинком из кости зверя. Танто, который скулил и визжал голосом Сару при каждом взмахе.
 
-# Original: Ew—no way.
+# Kira: Ew—no way.
 Kira: Фу — да ну нафиг.
 
-# Original: ... I always knew there was something creepy with robo-unc... So that's how he killed your dog, huh?
+# Kira: ... I always knew there was something creepy with robo-unc... So that's how he killed your dog, huh?
 Kira: ...Я всегда знала, что робо-дядя какой-то криповый... Значит, так он убил твою собаку, а?
 
-# Original: No. He didn't kill Saru. That tanto was alive.
+# Ryōshū: No. He didn't kill Saru. That tanto was alive.
 Ryōshū: Нет. Он не убивал Сару. Тот танто был живым.
 
-# Original: <Did you just say <i>alive</i>?>
+# Dante: <Did you just say <i>alive</i>?>
 Dante: <Ты только что сказала <i>живым</i>?>
 
-# Original: Bloody hell...  A right nutter, that psycho...
+# Heathcliff: Bloody hell...  A right nutter, that psycho...
 Heathcliff: Твою ж мать... Совсем отбитый, этот псих...
 
-# Original: Her eyes were embedded in it like adornments, and they'd stare at me in accusation. The tiny heart beat as though it was quaking with fear.
+# Ryōshū: Her eyes were embedded in it like adornments, and they'd stare at me in accusation. The tiny heart beat as though it was quaking with fear.
 Ryōshū: Её глаза были встроены в него словно украшения, и они смотрели на меня с укором. Крошечное сердце билось, словно дрожа от страха.
 
-# Original: It was a horrible sight. And I felt "pity."
+# Ryōshū: It was a horrible sight. And I felt "pity."
 Ryōshū: Это было ужасное зрелище. И я почувствовала «жалость».
 
-# Original: *puff* So I shortened what remained of her time... with my own hands.
+# Ryōshū: *puff* So I shortened what remained of her time... with my own hands.
 Ryōshū: *пффф* Поэтому я сократила остаток отведённого ей времени... своими собственными руками.
 
-# Original: Got me thinkin' after hearing all that... Why do you still mess with that "art" thing, then? Let's be honest—after seeing somethin' like that, you'd wanna steer well clear, yeah?
+# Heathcliff: Got me thinkin' after hearing all that... Why do you still mess with that "art" thing, then? Let's be honest—after seeing somethin' like that, you'd wanna steer well clear, yeah?
 Heathcliff: Послушал я всё это и вот что подумал... На кой хрен ты тогда до сих пор возишься с этим «искусством»? Будем честны — после такого зрелища захочется держаться от него подальше, да?
 
-# Original: Right? Those things he called "artworks" were all so cursed. Straight-up nightmare fuel.
+# Kira: Right? Those things he called "artworks" were all so cursed. Straight-up nightmare fuel.
 Kira: Во-во? То, что он называл «произведениями искусства», было таким проклятым. Чисто топливо для ночных кошмаров.
 
-# Original: Like, I haven't really checked out other Ring artworks outside Albina and her Nursefather's... so maybe I'm just a noob when it comes to all that, but yeah, their stuff never gave me any art vibes, for real.
+# Kira: Like, I haven't really checked out other Ring artworks outside Albina and her Nursefather's... so maybe I'm just a noob when it comes to all that, but yeah, their stuff never gave me any art vibes, for real.
 Kira: Типа, я особо не чекала другие работы Безымянного кроме работ Альбины и её Отца-воспитателя... так что, может, я просто нубас во всём этом, но да, их вещи вообще не вызывали у меня вайбов искусства, рил.
 
-# Original: I thought the same.
+# Ryōshū: I thought the same.
 Ryōshū: Я думала так же.
 
-# Original: Well, I was terrified at first. Yet as I learned more, there were some facets that suited my taste.
+# Ryōshū: Well, I was terrified at first. Yet as I learned more, there were some facets that suited my taste.
 Ryōshū: Что ж, поначалу я была в ужасе. Однако, по мере того как я узнавала больше, нашлись некоторые аспекты, которые пришлись мне по вкусу.
 
-# Original: Thou findest appeal.. in those grotesque creations...?
+# Don Quixote: Thou findest appeal.. in those grotesque creations...?
 Don Quixote: Ты находишь привлекательность... в сих гротескных творениях...?
 
-# Original: From what you've told me about Callisto, it looks like he failed to stick to his own advice...
+# Ryōshū: From what you've told me about Callisto, it looks like he failed to stick to his own advice...
 Ryōshū: Судя по тому, что вы рассказали мне о Каллисто, похоже, он и сам не смог последовать своему же совету...
 
-# Original: But there's something he always used to say.
+# Ryōshū: But there's something he always used to say.
 Ryōshū: Но кое-что он повторял постоянно.
 
-# Original: "Art is wholly subjective, and thus one must never expect the understanding of others."
+# Ryōshū: "Art is wholly subjective, and thus one must never expect the understanding of others."
 Ryōshū: «Искусство абсолютно субъективно, и посему никогда не следует ожидать понимания от других».
 
-# Original: *puff* The uncanny, the horrible... There's a beauty that lies in the grotesqueness of it all.
+# Ryōshū: *puff* The uncanny, the horrible... There's a beauty that lies in the grotesqueness of it all.
 Ryōshū: *пффф* Жуткое, ужасное... Во всей этой гротескности кроется своя красота.
 
-# Original: ... Can't say I quite get it, but if you say so...
+# Heathcliff: ... Can't say I quite get it, but if you say so...
 Heathcliff: ...Не то чтоб я прям всё понял, но раз ты так говоришь...
 
-# Original: Nah, but bloody hell. How do you end up gettin' used to that kinda thing?
+# Heathcliff: Nah, but bloody hell. How do you end up gettin' used to that kinda thing?
 Heathcliff: Не, ну твою ж мать. Как вообще можно к такому привыкнуть?
 
-# Original: Why do you need to understand? You're not an artist.
+# Ryōshū: Why do you need to understand? You're not an artist.
 Ryōshū: А зачем тебе понимать? Ты не художник.
 
-# Original: I got used to it, but that bastard Callisto's installation artworks caused night terrors and nightmares for—
+# Ryōshū: I got used to it, but that bastard Callisto's installation artworks caused night terrors and nightmares for—
 Ryōshū: Я привыкла к этому, но инсталляции этого ублюдка Каллисто вызывали ночные страхи и кошмары у—
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: *rattle*
+# Narrator: *rattle*
 Narrator: *дребезжание*
 
-# Original: The scabbard moved, and Ryōshū came to a pause.
+# Narrator: The scabbard moved, and Ryōshū came to a pause.
 Narrator: Ножны пришли в движение, и Рёшу замолчала.
 
-# Original: It trembled, but there was at once a strange liveliness to it—as though it quivered between fear and anticipation.
+# Narrator: It trembled, but there was at once a strange liveliness to it—as though it quivered between fear and anticipation.
 Narrator: Они дрожали, но в то же время в них чувствовалась странная живость — словно они трепетали между страхом и предвкушением.
 
-# Original: Night terrors... crying from nightmares... in the House of Spiders...?
+# Ryōshū: Night terrors... crying from nightmares... in the House of Spiders...?
 Ryōshū: Ночные страхи... плач от кошмаров... в Доме Пауков...?
 
-# Original: There was actually someone who got scared of Ring stuff back in your day?
+# Kira: There was actually someone who got scared of Ring stuff back in your day?
 Kira: В твоё время и правда был кто-то, кто пугался работ Безымянного?
 
-# Original: .......
+# Ryōshū: .......
 Ryōshū: .......
 
-# Original: I need to check something. We've seen enough here—let's go back.
+# Ryōshū: I need to check something. We've seen enough here—let's go back.
 Ryōshū: Мне нужно кое-что проверить. Мы увидели здесь достаточно — возвращаемся.
 
-# Original: <Yeah, let's. Nothing else worth checking around here anyway.>
+# Dante: <Yeah, let's. Nothing else worth checking around here anyway.>
 Dante: <Да, пошли. Всё равно здесь больше нечего проверять.>
 
-# Original: With the inspection complete, we quickly followed Ryōshū back.
+# Narrator: With the inspection complete, we quickly followed Ryōshū back.
 Narrator: Закончив осмотр, мы быстро последовали обратно за Рёшу.
 
-# Original: She stood in front of the "artworks" covered in sheets of cloth, lost in thought.
+# Narrator: She stood in front of the "artworks" covered in sheets of cloth, lost in thought.
 Narrator: Она остановилась перед «произведениями искусства», накрытыми тканевыми простынями, погружённая в свои мысли.
 
-# Original: Right here. There used to be a huge artwork displayed here.
+# Ryōshū: Right here. There used to be a huge artwork displayed here.
 Ryōshū: Прямо здесь. Раньше здесь выставлялось огромное произведение искусства.
 
-# Original: ... I don't know what kind of impulse struck him, but the bastard went about fussing, saying he needed practice so he wouldn't lose his touch.
+# Ryōshū: ... I don't know what kind of impulse struck him, but the bastard went about fussing, saying he needed practice so he wouldn't lose his touch.
 Ryōshū: ...Не знаю, что за порыв на него нашёл, но этот ублюдок начал суетиться, говоря, что ему нужна практика, дабы не потерять хватку.
 
-# Original: *sniffle* Mommy...
+# ■■■■■: *sniffle* Mommy...
 ■■■■■: *хнычет* Мамочка...
 
-# Original: ... What's wrong?
+# Yoshihide: ... What's wrong?
 Yoshihide: ...Что случилось?
 
-# Original: O-over there...
+# ■■■■■: O-over there...
 ■■■■■: Т-там...
 
-# Original: ... Thought I told you to keep the exhibition in your room.
+# Yoshihide: ... Thought I told you to keep the exhibition in your room.
 Yoshihide: ...Кажется, я говорила тебе держать выставку в своей комнате.
 
-# Original: Ah, you've returned, Yoshihide.
+# Callisto: Ah, you've returned, Yoshihide.
 Callisto: А, ты вернулась, Ёшихидэ.
 
-# Original: I decided to attempt installation art of a somewhat larger scale this time, but I ran out of space in my gallery.
+# Callisto: I decided to attempt installation art of a somewhat larger scale this time, but I ran out of space in my gallery.
 Callisto: В этот раз я решил попробовать создать инсталляцию несколько большего масштаба, но в моей галерее не хватило места.
 
-# Original: M-Mommy... people were screaming...
+# Araya: M-Mommy... people were screaming...
 Araya: М-мамочка... там люди кричали...
 
-# Original: Dearest Yoshihide, Araya has reached an age where she may be introduced into the world of aesthetics. Surely this wouldn't be a problem?
+# Callisto: Dearest Yoshihide, Araya has reached an age where she may be introduced into the world of aesthetics. Surely this wouldn't be a problem?
 Callisto: Дорогая Ёшихидэ, Арая достигла возраста, когда её можно познакомить с миром эстетики. Уверен, это не станет проблемой?
 
-# Original: It would.
+# Yoshihide: It would.
 Yoshihide: Станет.
 
-# Original: ... You liking it and me acquiring the taste doesn't mean Araya will.
+# Yoshihide: ... You liking it and me acquiring the taste doesn't mean Araya will.
 Yoshihide: ...То, что это нравится тебе, и то, что я частично переняла твой вкус, ещё не значит, что Арае это тоже понравится.
 
-# Original: Waaaah! *sniffle*
+# Araya: Waaaah! *sniffle*
 Araya: Уаааа! *хнычет*
 
-# Original: ... Let's get you back to our room.
+# Yoshihide: ... Let's get you back to our room.
 Yoshihide: ...Пойдём обратно в нашу комнату.
 
-# Original: ... I was hugging something in my arms. It was crying.
+# Ryōshū: ... I was hugging something in my arms. It was crying.
 Ryōshū: ...Я прижимала что-то к груди. Оно плакало.
 
-# Original: Saru...? No. Too big to be Saru.
+# Ryōshū: Saru...? No. Too big to be Saru.
 Ryōshū: Сару...? Нет. Слишком большое для Сару.
 
-# Original: The lacerated memories can never be made whole no matter how many fragments are glued together.
+# Narrator: The lacerated memories can never be made whole no matter how many fragments are glued together.
 Narrator: Истерзанные воспоминания никогда не станут единым целым, сколько бы фрагментов ни склеивали вместе.
 
-# Original: We could tell Ryōshū everything we knew about Araya, but it'd never truly reach her.
+# Narrator: We could tell Ryōshū everything we knew about Araya, but it'd never truly reach her.
 Narrator: Мы могли бы рассказать Рёшу всё, что знаем об Арае, но это никогда не дойдёт до неё по-настоящему.
 
-# Original: ... I see. This hollow void... this must be "Araya."
+# Ryōshū: ... I see. This hollow void... this must be "Araya."
 Ryōshū: ...Понимаю. Эта зияющая пустота... должно быть, это и есть «Арая».
 
-# Original: The sensation and emotion for what's been emptied begin to entangle with Ryōshū's memories...
+# Narrator: The sensation and emotion for what's been emptied begin to entangle with Ryōshū's memories...
 Narrator: Ощущения и эмоции от того, что было опустошено, начинают сплетаться с воспоминаниями Рёшу...
 
-# Original: ... and that makes it possible for us to reminisce about Araya together.
+# Narrator: ... and that makes it possible for us to reminisce about Araya together.
 Narrator: ...и это позволяет нам вместе предаваться воспоминаниям об Арае.
 
-# Original: The soft rattle Araya gave seemed to show how pleased she was with this small step.
+# Narrator: The soft rattle Araya gave seemed to show how pleased she was with this small step.
 Narrator: Мягкое дребезжание, изданное Араей, казалось, показывало, как она была рада этому маленькому шагу.
 
-# Original: <All right. Time to check out the next door.>
+# Dante: <All right. Time to check out the next door.>
 Dante: <Ладно. Пора проверить следующую дверь.>
 
-# Original: We entered several more Backdoors that Alan pointed out,
+# Narrator: We entered several more Backdoors that Alan pointed out,
 Narrator: Мы вошли ещё в несколько Задних дверей, на которые указал Алан,
 
-# Original: but unfortunately, none of the places we ended up at stirred Ryōshū's memories any further.
+# Narrator: but unfortunately, none of the places we ended up at stirred Ryōshū's memories any further.
 Narrator: но, к сожалению, ни одно из мест, где мы оказались, больше не пробудило воспоминания Рёшу.
 
-# Original: Pretty much nothing here. I think we're don—hmm?
+# Kira: Pretty much nothing here. I think we're don—hmm?
 Kira: Тут вообще по нулям. Думаю, мы закон— хмм?
 
-# Original: Wh-what the... How'd they get in here?
+# Kira: Wh-what the... How'd they get in here?
 Kira: К-какого... Как они сюда пробрались?
 
-# Original: Startled, Kira pointed ahead, where figures wearing animal masks were hauling what looked like massive lumps of flesh hidden behind a tent of sorts.
+# Narrator: Startled, Kira pointed ahead, where figures wearing animal masks were hauling what looked like massive lumps of flesh hidden behind a tent of sorts.
 Narrator: Испуганная Кира указала вперёд, где фигуры в звериных масках тащили то, что выглядело как массивные куски плоти, спрятанные за чем-то вроде тента.
 
-# Original: <Those Ring assailants from before...?>
+# Dante: <Those Ring assailants from before...?>
 Dante: <Те нападавшие из Безымянного...?>
 
-# Original: Didst thou not say thou hast sealed that door earlier? How then do these villains come to stand before us once more?!
+# Don Quixote: Didst thou not say thou hast sealed that door earlier? How then do these villains come to stand before us once more?!
 Don Quixote: Разве не изволил ты сказать, что запечатал сию дверь ранее? Как же тогда эти злодеи вновь предстали пред нами?!
 
-# Original: They probably infiltrated via an entirely separate route. Another Backdoor.
+# Alan: They probably infiltrated via an entirely separate route. Another Backdoor.
 Alan: Вероятно, они проникли совершенно другим путём. Через другую Заднюю дверь.
 
-# Original: As you can see... their objective appears to be the retrieval of the Ring Nursefather's artworks.
+# Alan: As you can see... their objective appears to be the retrieval of the Ring Nursefather's artworks.
 Alan: Как видите... их целью, похоже, является возвращение произведений искусства Отца-воспитателя Безымянного.
 
-# Original: Get on with it!
+# Fauvist Student: Get on with it!
 Fauvist Student: Шевелитесь!
 
-# Original: We need to move as many pieces as we can before we pull out!
+# Fauvist Student: We need to move as many pieces as we can before we pull out!
 Fauvist Student: Мы должны перенести как можно больше работ, прежде чем отступим!
 
-# Original: Wait, but I thought robo-unc was washed? He's got so many fanboys and fangirls here!
+# Kira: Wait, but I thought robo-unc was washed? He's got so many fanboys and fangirls here!
 Kira: Стоп, а я-то думала, что робо-дядя был не популярен! А у него тут столько фанатов и фанаток!
 
-# Original: ... Hah. Does his artwork possess value in and of itself,
+# Ryōshū: ... Hah. Does his artwork possess value in and of itself,
 Ryōshū: ...Хах. Обладает ли его искусство ценностью само по себе,
 
-# Original: or is it just a case of posthumous premium of "death effect?" Think about it.
+# Ryōshū: or is it just a case of posthumous premium of "death effect?" Think about it.
 Ryōshū: или это всего лишь посмертная наценка из-за «эффекта смерти автора»? Подумайте об этом.
 
-# Original: Some of the pieces have already been taken.
+# Alan: Some of the pieces have already been taken.
 Alan: Некоторые из произведений уже успели забрать.
 
-# Original: Of course, they are of little value to both our companies...
+# Alan: Of course, they are of little value to both our companies...
 Alan: Конечно, они представляют мало ценности для обеих наших компаний...
 
-# Original: Watching them sweating and struggling to drag those mediocre pieces with them... Pretty funny.
+# Ryōshū: Watching them sweating and struggling to drag those mediocre pieces with them... Pretty funny.
 Ryōshū: Наблюдать, как они потеют и надрываются, чтобы утащить с собой эти посредственные поделки... Довольно забавно.
 
-# Original: But imagining how those pieces will be labeled with some pathetic notion of "heritage" connected to my name on their description plaques...? Pretty unsavory.
+# Ryōshū: But imagining how those pieces will be labeled with some pathetic notion of "heritage" connected to my name on their description plaques...? Pretty unsavory.
 Ryōshū: Но представлять, как на табличках с описанием этих работ появится какое-то жалкое понятие «наследия», связанное с моим именем...? Довольно паршиво.
 
-# Original: They may be occupied with transporting those objects for now, but they will likely soon find cause to harm the Wayfarer and LCE personnel stationed here, Executive Manager.
+# Outis: They may be occupied with transporting those objects for now, but they will likely soon find cause to harm the Wayfarer and LCE personnel stationed here, Executive Manager.
 Outis: Пока они могут быть заняты транспортировкой этих объектов, но, скорее всего, вскоре они найдут повод навредить персоналу Компании Вэйфарер и LCE, размещённому здесь, Исполнительный менеджер.
 
-# Original: It would be prudent to eliminate them without delay, considering the Ring's reputation.
+# Outis: It would be prudent to eliminate them without delay, considering the Ring's reputation.
 Outis: Было бы благоразумно устранить их без промедления, учитывая репутацию Безымянного.
 
-# Original: <Outis is right. Better to wipe them out before they try anything stupid.>
+# Dante: <Outis is right. Better to wipe them out before they try anything stupid.>
 Dante: <Отис права. Лучше перебить их, пока они не попытались выкинуть какую-нибудь глупость.>
 
-# Original: <... Guys, looks like we've got another job to do. Lend me a hand.>
+# Dante: <... Guys, looks like we've got another job to do. Lend me a hand.>
 Dante: <...Ребят, похоже, у нас есть ещё одна работёнка. Помогите мне.>
 
-# Original: The radio didn't buzz with the Sinner's replies this time... but it should be fine.
+# Narrator: The radio didn't buzz with the Sinner's replies this time... but it should be fine.
 Narrator: В этот раз радио не зажужжало от ответов Грешников... но всё должно быть в порядке.

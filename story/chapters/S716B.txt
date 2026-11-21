@@ -1,299 +1,299 @@
-﻿# Original: Tell us your name, O brave adventurer.
+﻿# Narrator: Tell us your name, O brave adventurer.
 Рассказчик: Назови нам свое имя, о храбрая искательница приключений.
 
-# Original: <color=#84a79d>That is the condition of your adventure.</color>
+# Narrator: <color=#84a79d>That is the condition of your adventure.</color>
 Рассказчик: <color=#84a79d>Это условие твоего приключения.</color>
 
-# Original: <color=#84a79d>If you are willing to accept these terms, then speak your name to me.</color>
+# Narrator: <color=#84a79d>If you are willing to accept these terms, then speak your name to me.</color>
 Рассказчик: <color=#84a79d>Если ты готова принять эти условия, то назови мне свое имя.</color>
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: Thou shalt know that my name... is Don Quixote.
+# Don Quixote: Thou shalt know that my name... is Don Quixote.
 Дон Кихот: Да будет тебе ведомо, что имя мое... Дон Кихот.
 
-# Original: Ahh...
+# Narrator: Ahh...
 Рассказчик: Ах...
 
-# Original: To use that name... You've gone just as insane as the rest of us...
+# Narrator: To use that name... You've gone just as insane as the rest of us...
 Рассказчик: Использовать это имя... Ты сошла с ума так же, как и все мы...
 
-# Original: The voice from the announcement system briefly fell hesitant, and an extended silence followed.
+# Narrator: The voice from the announcement system briefly fell hesitant, and an extended silence followed.
 Рассказчик: Голос из системы оповещения на мгновение замешкался, и последовала долгая тишина.
 
-# Original: ... Brave Don Quixote, the adventurer, and her friends placed first in the Fantasy Blood-shooting Range competition! Salutations and Congratulations!
+# Narrator: ... Brave Don Quixote, the adventurer, and her friends placed first in the Fantasy Blood-shooting Range competition! Salutations and Congratulations!
 Рассказчик: ... Храбрая искательница приключений Дон Кихот и её друзья заняли первое место в соревновании по стрельбе Фантастическом Кровавом тире! Приветствия и поздравления!
 
-# Original: What shall be your reward?! Drum roll please, everyone~
+# Narrator: What shall be your reward?! Drum roll please, everyone~
 Рассказчик: Какой же будет ваша награда?! Барабанную дробь, пожалуйста~
 
-# Original: Ta-da! Here's a button that opens the path to the finest attraction of all time in La Manchaland~!
+# Narrator: Ta-da! Here's a button that opens the path to the finest attraction of all time in La Manchaland~!
 Рассказчик: Та-да! Вот кнопка, которая открывает путь к лучшему аттракциону всех времен в Ла-Манчалэнде~!
 
-# Original:  'The Haunted: Bloody Mary', the highlight of La Manchaland, the frightening challenge that only the bravest of adventurers dare face!
+# Narrator:  'The Haunted: Bloody Mary', the highlight of La Manchaland, the frightening challenge that only the bravest of adventurers dare face!
 Рассказчик: "Призрак: Кровавая Мэри", гвоздь программы Ла-Манчалэнда, страшное испытание, на которое осмеливаются лишь самые храбрые искатели приключений!
 
-# Original: <So this is the 'device' that leads us to our next destination, huh...>
+# Dante: <So this is the 'device' that leads us to our next destination, huh...>
 Данте: <Так это и есть тот "механизм", который ведет нас к следующему пункту назначения, да...>
 
-# Original: This seems a tad too easy, don't it? Just like that? And they even bring the button to you?
+# Heathcliff: This seems a tad too easy, don't it? Just like that? And they even bring the button to you?
 Хитклиф: Что-то слишком легко, не находите? Вот так просто? И они даже принесли нам кнопку?
 
-# Original: According to the info I bought, though...
+# Hugo: According to the info I bought, though...
 Хьюго: Согласно информации, которую я купил...
 
-# Original: There's only twenty-five percent chance of surviving through the first Area. The odds aren't great, but they're not terrible either.
+# Hugo: There's only twenty-five percent chance of surviving through the first Area. The odds aren't great, but they're not terrible either.
 Хьюго: Шанс выжить в первой Зоне всего двадцать пять процентов. Шансы не очень, но и не ужасные.
 
-# Original: What really matters though, is that we made it through! The button's right here!
+# Hugo: What really matters though, is that we made it through! The button's right here!
 Хьюго: Но что действительно важно, так это то, что мы прошли! Кнопка прямо здесь!
 
-# Original: You... bought the info? What's that supposed to mean?
+# Ishmael: You... bought the info? What's that supposed to mean?
 Измаил: Ты... купил информацию? Что это значит?
 
-# Original: Are you saying that there were more testimonies from survivors than what we heard earlier at the briefing?
+# Ishmael: Are you saying that there were more testimonies from survivors than what we heard earlier at the briefing?
 Измаил: Ты хочешь сказать, что было больше свидетельств выживших, чем то, что мы слышали ранее на брифинге?
 
-# Original: Ha ha... wow. You guys really are new to this business, huh?
+# Hugo: Ha ha... wow. You guys really are new to this business, huh?
 Хьюго: Ха-ха... вау. Вы, ребята, действительно новички в этом деле, да?
 
-# Original: Do you really think that the Fixers who managed to survive La Manchaland would just... fork over their precious intel to the Hana Association?
+# Hugo: Do you really think that the Fixers who managed to survive La Manchaland would just... fork over their precious intel to the Hana Association?
 Хьюго: Вы действительно думаете, что Корректировщики, которым удалось выжить в Ла-Манчалэнде, просто... отдадут ценную информацию Ассоциации Хана?
 
-# Original: No, of course not. They sell important intel like that to just a few people who's got the cash and the interest.
+# Hugo: No, of course not. They sell important intel like that to just a few people who's got the cash and the interest.
 Хьюго: Нет, конечно нет. Они продают важную информацию только нескольким людям, у которых есть деньги и интерес.
 
-# Original: They also told me that, to activate the device in Area 1, we have to kill all the Bloodfiends in that attraction and place first in the leaderboard.
+# Hugo: They also told me that, to activate the device in Area 1, we have to kill all the Bloodfiends in that attraction and place first in the leaderboard.
 Хьюго: Они также сказали мне, что для активации устройства в Зоне 1 нам нужно убить всех Кровожадов в этом аттракционе и занять первое место в таблице лидеров.
 
-# Original: ... And you neglected to tell us this why?
+# Outis: ... And you neglected to tell us this why?
 Отис: ... И почему ты не сказал нам об этом раньше?
 
-# Original: W-well, I just thought we needed some time to build the trust between us before I started sharing things.
+# Hugo: W-well, I just thought we needed some time to build the trust between us before I started sharing things.
 Хьюго: Н-ну, я просто подумал, что нам нужно время, чтобы построить доверие между нами, прежде чем я начну делиться информацией.
 
-# Original: Eh, I get it. I bet that intel wasn't cheap to come by~
+# Rodion: Eh, I get it. I bet that intel wasn't cheap to come by~
 Родион: Э, я понимаю. Держу пари, эта информация была недешевой~
 
-# Original: Y-yeah, totally... whew.
+# Hugo: Y-yeah, totally... whew.
 Хьюго: Д-да, точно... уф.
 
-# Original: ... Has our mission ever gone this smoothly before?
+# Gregor: ... Has our mission ever gone this smoothly before?
 Грегор: ... Наши миссии когда-нибудь проходили так гладко?
 
-# Original: <So... we press this button, and our job's done here?>
+# Dante: <So... we press this button, and our job's done here?>
 Данте: <Значит... мы нажимаем эту кнопку, и наше дело здесь закончено?>
 
-# Original: It's definitely suspicious how easy this was, but... what can we do? Not press it?
+# Narrator: It's definitely suspicious how easy this was, but... what can we do? Not press it?
 Рассказчик: То, как легко все прошло, определенно было подозрительно, но... что ещё мы можем сделать? Не нажимать?
 
-# Original: If we're being optimistic... at least we should be able to get out of Area 1 now and join the others.
+# Sinclair: If we're being optimistic... at least we should be able to get out of Area 1 now and join the others.
 Синклер: Если мы будем оптимистами... по крайней мере, сейчас мы должны быть в состоянии выбраться из Зоны 1 и присоединиться к остальным.
 
-# Original: Consider that information regarding Bloodfiends and Bloodbags is rare to come by for the public.
+# Meursault: Consider that information regarding Bloodfiends and Bloodbags is rare to come by for the public.
 Мерсо: Учтите, что информация о Кровожадах и Кровососах редко доступна для общественности.
 
-# Original: Had someone unfamiliar with the particulars of battling Bloodbags participated in this competition, it may have been difficult to place first in the leaderboard.
+# Meursault: Had someone unfamiliar with the particulars of battling Bloodbags participated in this competition, it may have been difficult to place first in the leaderboard.
 Мерсо: Если бы кто-то, незнакомый с особенностями борьбы с Кровососами, участвовал в этом соревновании, ему было бы трудно занять первое место в таблице лидеров.
 
-# Original: Hm... that's also true, I suppose.
+# Gregor: Hm... that's also true, I suppose.
 Грегор: Хм... это тоже верно, я полагаю.
 
-# Original: Hey, what other information are you withholding from us? Spit it out. What more 'trust' do you need?
+# Outis: Hey, what other information are you withholding from us? Spit it out. What more 'trust' do you need?
 Отис: Эй, какую еще информацию ты от нас скрываешь? Выкладывай. Сколько ещё "доверия" тебе нужно?
 
-# Original: Outis shoved Hugo, practically threatening him with her odd emphasis on the word 'trust'.
+# Narrator: Outis shoved Hugo, practically threatening him with her odd emphasis on the word 'trust'.
 Рассказчик: Отис толкнула Хьюго, практически угрожая ему своим странным акцентом на слове "доверие".
 
-# Original: That's, uh. Um...
+# Hugo: That's, uh. Um...
 Хьюго: Это, эм. Ум...
 
-# Original: They say that there are three Bloodfiends here that we gotta avoid at all costs.
+# Hugo: They say that there are three Bloodfiends here that we gotta avoid at all costs.
 Хьюго: Говорят, что здесь есть три Кровожада, которых нам нужно избегать любой ценой.
 
-# Original: Fixers call them the overseer Bloodfiends. If you want a better chance of survival, avoid them. Or so they say.
+# Hugo: Fixers call them the overseer Bloodfiends. If you want a better chance of survival, avoid them. Or so they say.
 Хьюго: Корректировщики называют их Кровожадами-надзирателями. Если хотите иметь больше шансов на выживание, избегайте их. Или так говорят.
 
-# Original: There's one in each Area, but hey. At least it didn't say anywhere in the terms and conditions of the contract that we had to kill them, too. They don't have anything to do with eradicating La Manchaland, after all. ... Probably...
+# Hugo: There's one in each Area, but hey. At least it didn't say anywhere in the terms and conditions of the contract that we had to kill them, too. They don't have anything to do with eradicating La Manchaland, after all. ... Probably...
 Хьюго: В каждой Зоне есть по одному, но эй. По крайней мере, нигде в условиях контракта не говорилось, что мы должны убить и их тоже. Они ведь не имеют никакого отношения к уничтожению Ла-Манчалэнда. ... Наверное...
 
-# Original: The point is, we should try to steer clear of those monsters. Let's just hit that button and book it—
+# Hugo: The point is, we should try to steer clear of those monsters. Let's just hit that button and book it—
 Хьюго: Суть в том, что мы должны постараться держаться подальше от этих монстров. Давайте просто нажмем эту кнопку и уберемся отсюда—
 
-# Original: I cannot well bring myself to do such a thing, O Fixer.
+# Don Quixote: I cannot well bring myself to do such a thing, O Fixer.
 Дон Кихот: Не могу я согласиться на такое, о Корректировщик.
 
-# Original: Uh... you can't...?
+# Hugo: Uh... you can't...?
 Хьюго: Э... не можешь...?
 
-# Original: The innocent visitors to this terrible place suffer still, do they not?
+# Don Quixote: The innocent visitors to this terrible place suffer still, do they not?
 Дон Кихот: Невинные посетители сего ужасного места все еще страдают, не так ли?
 
-# Original: Thus, the only path of righteousness that remain before us is to defeat all three Bloodfiends, those beasts who watch over this slaughterhouse, and have them pay for their crimes!
+# Don Quixote: Thus, the only path of righteousness that remain before us is to defeat all three Bloodfiends, those beasts who watch over this slaughterhouse, and have them pay for their crimes!
 Дон Кихот: Посему единственный праведный путь, что остается пред нами, - это победить всех трех Кровожадов, сих чудовищ, что надзирают за сей бойней, и заставить их ответить за свои преступления!
 
-# Original: ... Holy smokes, aren't you guys going to try to talk her out of this insanity? She's your friend, isn't she...?
+# Hugo: ... Holy smokes, aren't you guys going to try to talk her out of this insanity? She's your friend, isn't she...?
 Хьюго: ... Черт возьми, вы не собираетесь попытаться отговорить её от этого безумия? Она же ваш друг, не так ли...?
 
-# Original: Bud, we already would've tried if we thought there was a snowball's chance in hell of convincing her.
+# Gregor: Bud, we already would've tried if we thought there was a snowball's chance in hell of convincing her.
 Грегор: Дружище, мы бы уже попытались, если бы думали, что есть хоть малейший шанс убедить её.
 
-# Original: Hark! Show thyself, thou wicked Bloodfiend! I, Don Quixote, shall vanquish thee!
+# Don Quixote: Hark! Show thyself, thou wicked Bloodfiend! I, Don Quixote, shall vanquish thee!
 Дон Кихот: Внемлите! Яви себя, о злобный Кровожад! Я, Дон Кихот, одолею тебя!
 
-# Original: Um~ So is there anything you can tell us about what these three Bloodfiends look like?
+# Rodion: Um~ So is there anything you can tell us about what these three Bloodfiends look like?
 Родион: Эм~ Так можешь ли ты рассказать нам что-нибудь о том, как выглядят эти три Кровожада?
 
-# Original: Nngh... That intel cost me two mil...
+# Hugo: Nngh... That intel cost me two mil...
 Хьюго: Ннг... Эта информация стоила мне два миллиона...
 
-# Original: …….
+# Ryōshū: …….
 Рёшу: …….
 
-# Original: ... They wear the gaudiest masks...
+# Hugo: ... They wear the gaudiest masks...
 Хьюго: ... Они носят самые вычурные маски...
 
-# Original: Pffffhahahahahahha!!
+# ???: Pffffhahahahahahha!!
 Цирюльник: Пфффхахахахахха!!
 
-# Original: How fun, how fun! This is the most fun I've had all week!
+# ???: How fun, how fun! This is the most fun I've had all week!
 Цирюльник: Как весело, как весело! Это самое веселое, что было у меня за всю неделю!
 
-# Original: Apparently their masks stand out for being extremely gaudy...
+# Hugo: Apparently their masks stand out for being extremely gaudy...
 Хьюго: Судя по всему, их маски выделяются тем, что они чрезвычайно вычурные...
 
-# Original: They must have a pretty 'gaudy' smell of blood, as well.
+# Ryōshū: They must have a pretty 'gaudy' smell of blood, as well.
 Рёшу: У них, должно быть, тоже довольно "вычурный" запах крови.
 
-# Original: Which one of you's Don Quixote, friends? My eyesight ain't like it used to be!
+# ???: Which one of you's Don Quixote, friends? My eyesight ain't like it used to be!
 Цирюльник: Кто из вас Дон Кихот, друзья? Мое зрение уже не то, что раньше!
 
-# Original: And there she is.
+# Hong Lu: And there she is.
 Хон Лу: А вот и она.
 
-# Original: ... Uh.
+# Hugo: ... Uh.
 Хьюго: ... Э.
 
-# Original: I asked which one of you is this 'Don Quixote' who came first place in this attraction of mine? Hello?
+# ???: I asked which one of you is this 'Don Quixote' who came first place in this attraction of mine? Hello?
 Цирюльник: Я спросила, кто из вас этот "Дон Кихот", занявший первое место в моем аттракционе? Алло?
 
-# Original: H-her... her mask...
+# Hugo: H-her... her mask...
 Хьюго: Е-ее... её маска...
 
-# Original: Just answer my question, and I'll let the rest of you press the button and head on over to the next Area.
+# ???: Just answer my question, and I'll let the rest of you press the button and head on over to the next Area.
 Цирюльник: Просто ответьте на мой вопрос, и я позволю остальным из вас нажать кнопку и отправиться в следующую Зону.
 
-# Original: As long as you tell me which one of you is... Don Quixote!
+# ???: As long as you tell me which one of you is... Don Quixote!
 Цирюльник: Если только вы скажете мне, кто из вас... Дон Кихот!
 
-# Original: 'Tis—
+# Don Quixote: 'Tis—
 Дон Кихот: Это—
 
-# Original: S-she's right here!
+# Hugo: S-she's right here!
 Хьюго: О-она здесь!
 
-# Original: Hugo shouted from the top of his lungs just as Don Quixote began to speak.
+# Narrator: Hugo shouted from the top of his lungs just as Don Quixote began to speak.
 Рассказчик: Хьюго закричал во все горло, как только Дон Кихот начала говорить.
 
-# Original: The speed with which he called out her name was in striking contrast with his previous slow, reluctant attitude.
+# Narrator: The speed with which he called out her name was in striking contrast with his previous slow, reluctant attitude.
 Рассказчик: Скорость, с которой он выкрикнул её имя, резко контрастировала с его предыдущим медленным, неохотным поведением.
 
-# Original: W-well? Can I press the button now?
+# Hugo: W-well? Can I press the button now?
 Хьюго: Н-ну? Теперь я могу нажать кнопку?
 
-# Original: Ha... ha ha...! Fixers who activate a device gets 1.5 times the rate when calculating the eradication reward!
+# Hugo: Ha... ha ha...! Fixers who activate a device gets 1.5 times the rate when calculating the eradication reward!
 Хьюго: Ха... ха-ха...! Корректировщики, активирующие устройство, получают в 1,5 раза больше при расчете награды!
 
-# Original: ... Hah.
+# Ryōshū: ... Hah.
 Рёшу: ... Хах.
 
-# Original: Try pressing the button now.
+# Ryōshū: Try pressing the button now.
 Рёшу: Только попробуй нажать.
 
-# Original: Ryōshū swung her absurdly sharp scabbard, chopping off his wrists with blinding speed.
+# Narrator: Ryōshū swung her absurdly sharp scabbard, chopping off his wrists with blinding speed.
 Рассказчик: Рёшу взмахнула своими невероятно острыми ножнами, отрубив ему запястья с ослепительной скоростью.
 
-# Original: Hnngh... Agh...
+# Hugo: Hnngh... Agh...
 Хьюго: Хнннг... Агх...
 
-# Original: Y-young Ryōshū! Whatever hast thou done?! To put thy steel against the flesh of a compatriot...!
+# Don Quixote: Y-young Ryōshū! Whatever hast thou done?! To put thy steel against the flesh of a compatriot...!
 Дон Кихот: Ю-юная Рёшу! Что же ты сотворила?! Обратить свой клинок против плоти соратника...!
 
-# Original: Never accepted that idiot as my compatriot.
+# Ryōshū: Never accepted that idiot as my compatriot.
 Рёшу: Никогда не признавала этого идиота своим соратником.
 
-# Original: <Don Quixote, he was trying to sell you out.>
+# Dante: <Don Quixote, he was trying to sell you out.>
 Данте: <Дон Кихот, он пытался тебя продать.>
 
-# Original: V-verily, yet...
+# Don Quixote: V-verily, yet...
 Дон Кихот: В-воистину, однако...
 
-# Original: I smelled treachery the moment I saw him. ... I waited, curious if he would demonstrate even an ounce of creativity when pulling off that act.
+# Ryōshū: I smelled treachery the moment I saw him. ... I waited, curious if he would demonstrate even an ounce of creativity when pulling off that act.
 Рёшу: Я почуяла предательство, как только его увидела. ... Я ждала, любопытствуя, проявит ли он в этом хоть унцию креативности.
 
-# Original: ... But this is tired, meek, and clichéd. Can't stand the lack of originality.
+# Ryōshū: ... But this is tired, meek, and clichéd. Can't stand the lack of originality.
 Рёшу: ... Но это утомительно, слабо и банально. Не выношу отсутствия оригинальности.
 
-# Original: <... So you would've just let him do his thing if it was... interesting?>
+# Dante: <... So you would've just let him do his thing if it was... interesting?>
 Данте: <... Так ты бы позволила ему делать свое дело, если бы это было... интересно?>
 
-# Original: Pfft... Hehehahahaha!
+# ???: Pfft... Hehehahahaha!
 Цирюльник: Пффт... Хехехахахаха!
 
-# Original: Oh, how did you know? I was going to kill him myself! I mean, how could I let someone so scruffy and slovenly press the button in our Area, of all places?!
+# ???: Oh, how did you know? I was going to kill him myself! I mean, how could I let someone so scruffy and slovenly press the button in our Area, of all places?!
 Цирюльник: О, как ты узнала? Я сама собиралась его убить! В конце концов, как я могла позволить кому-то настолько неряшливому и неопрятному нажать кнопку в нашей Зоне?!
 
-# Original: …….
+# Don Quixote: …….
 Дон Кихот: …….
 
-# Original: So. You're that Don Quixote? The Don Quixote who won my game?
+# ???: So. You're that Don Quixote? The Don Quixote who won my game?
 Цирюльник: Итак. Ты и есть тот самый Дон Кихот? Дон Кихот, который выиграл в моей игре?
 
-# Original: Indeed, 'tis I.
+# Don Quixote: Indeed, 'tis I.
 Дон Кихот: Воистину, это я.
 
-# Original: ... Well, then...
+# ???: ... Well, then...
 Цирюльник: ... Ну, тогда...
 
-# Original: ... How did you win?
+# ???: ... How did you win?
 Цирюльник: ... Как ты победила?
 
-# Original: I have rescued numerous innocents and hewn my path through scores of villains to vanquish a cur such as thee!
+# Don Quixote: I have rescued numerous innocents and hewn my path through scores of villains to vanquish a cur such as thee!
 Дон Кихот: Я спасла множество невинных и проложила свой путь через полчища злодеев, дабы одолеть такую мерзавку, как ты!
 
-# Original: Ha... ha ha... ha...
+# ???: Ha... ha ha... ha...
 Цирюльник: Ха... ха-ха... ха...
 
-# Original: Wh... wherefore art thou so giddy?
+# Don Quixote: Wh... wherefore art thou so giddy?
 Дон Кихот: От... отчего ты так веселишься?
 
-# Original: Oh, it's... I'm just so happy, you know?
+# ???: Oh, it's... I'm just so happy, you know?
 Цирюльник: О, это... Я просто так счастлива, понимаешь?
 
-# Original: So, how did you like the game? Mine's your favorite, isn't it? I was going to add a few more decorations here and there, maybe some frilly lace... but I ran out of time.
+# ???: So, how did you like the game? Mine's your favorite, isn't it? I was going to add a few more decorations here and there, maybe some frilly lace... but I ran out of time.
 Цирюльник: Итак, как тебе понравилась игра? Моя - твоя любимая, не так ли? Я собиралась добавить еще несколько украшений тут и там, может быть, немного кружева... но у меня закончилось время.
 
-# Original: You see, since Bloodbags can't change themselves, I have to dress each and every one of them myself. Anything too complicated just isn't sturdy enough to stay on.
+# ???: You see, since Bloodbags can't change themselves, I have to dress each and every one of them myself. Anything too complicated just isn't sturdy enough to stay on.
 Цирюльник: Видишь ли, поскольку Кровососы не могут переодеваться сами, мне приходится наряжать каждого из них самой. И все слишком сложное просто недостаточно прочно, чтобы на них удержаться.
 
-# Original: What horrible crime thou confessest... I am not here to play thy games.
+# Don Quixote: What horrible crime thou confessest... I am not here to play thy games.
 Дон Кихот: Какое ужасное преступление ты исповедуешь... Я здесь не для того, чтобы играть в твои игры.
 
-# Original: I have arrived here to eradicate this terrible place that taketh people, La Manchaland! To slay its villains slithering within!
+# Don Quixote: I have arrived here to eradicate this terrible place that taketh people, La Manchaland! To slay its villains slithering within!
 Дон Кихот: Я прибыла сюда, дабы уничтожить сие ужасное место, что похищает людей, Ла-Манчалэнд! Чтобы сразить злодеев, что ползают внутри!
 
-# Original: Okay! But why aren't you wearing the outfit I made for you?
+# ???: Okay! But why aren't you wearing the outfit I made for you?
 Цирюльник: Хорошо! Но почему ты не носишь наряд, который я для тебя сделала?
 
-# Original: How discourteous of you! If you wanted to hang out in my Area, you should've made yourself a little more presentable than... this.
+# ???: How discourteous of you! If you wanted to hang out in my Area, you should've made yourself a little more presentable than... this.
 Цирюльник: Как невежливо с твоей стороны! Если ты хотела погулять в моей Зоне, тебе следовало бы выглядеть немного более презентабельно, чем... это.
 
-# Original: What the... Is it just me, or does it sound like their conversation isn't connecting at all with each other's?
+# Gregor: What the... Is it just me, or does it sound like their conversation isn't connecting at all with each other's?
 Грегор: Что за... Мне кажется, или их разговор совершенно не связан друг с другом?
 
-# Original: Yeah, she's nuts. Let's put her out of her misery...
+# Ishmael: Yeah, she's nuts. Let's put her out of her misery...
 Измаил: Да, она сумасшедшая. Давайте избавим её от страданий...
 
-# Original: Hahaha! I just know that you'll look great in a can-can dress and boots with ribbons! Oh, I'll make you look so pretty!
+# ???: Hahaha! I just know that you'll look great in a can-can dress and boots with ribbons! Oh, I'll make you look so pretty!
 Цирюльник: Хахаха! Я просто знаю, что ты будешь великолепно выглядеть в платье кан-кан и сапогах с лентами! О, я сделаю тебя такой красивой!

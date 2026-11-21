@@ -1,17 +1,17 @@
-﻿# Original: The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more.
+﻿# Narrator: The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more.
 Рассказчик: Дверь заблокирована. Если прижаться к ней ухом, можно расслышать доносящуюся с той стороны мешанину звуков — голоса, шаги и многое другое.
 
-# Original: Well, we're not getting through here, that's for certain. Thing won't even take a scratch.
+# Gregor: Well, we're not getting through here, that's for certain. Thing won't even take a scratch.
 Грегор: Ну, тут нам точно не пройти. На этой штуке даже царапины не оставить.
 
-# Original: It likely leads to another area of B1. Access may become possible once a particular condition is satisfied... but information on the prerequisite is not yet accessible.
+# Faust: It likely leads to another area of B1. Access may become possible once a particular condition is satisfied... but information on the prerequisite is not yet accessible.
 Фауст: Вероятно, дверь ведёт в другую часть B1. Возможно, доступ откроется при выполнении определённого условия... однако информация об этом условии пока недоступна.
 
-# Original: <Just how enormous is this department store...?>
+# Gregor: Huh! Just how huge is this department store...?
 Данте: <Да насколько же огромен этот торговый центр...?>
 
-# Original: <color=#ebcaa2>As vast as a Giant's imagination. That's the kind of place it is.</color>
+# Narrator: <color=#ebcaa2>As vast as a Giant's imagination. That's the kind of place it is.</color>
 Рассказчик: <color=#ebcaa2>Он столь же необъятен, как воображение Гиганта. Таково это место.</color>
 
-# Original: <A Giant's imagination...>
+# Dante: <A Giant's imagination...>
 Данте: <Воображение Гиганта...>
