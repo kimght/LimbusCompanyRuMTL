@@ -743,7 +743,7 @@
         {
           "level": 1,
           "name": "Перевести дух",
-          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Breath:`Дыхания`] (До 2)\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] and 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)",
+          "desc": "[WhenUse] Сила монет +1 за каждые 3 [Breath:`Дыхания`] (До 2)\n[EndBattle] Получает 1 [PenetrateResultUp:`Повышение силы Пронзающих атак`] и 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход (Единожды за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -984,7 +984,7 @@
         {
           "level": 1,
           "name": "Столкновение",
-          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Вновь подкидывает последнюю монету 1 раз\n[WinDuel] Получает 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 2)",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 4 [Breath:`Дыхания`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Вновь подкидывает последнюю монету 1 раз\n[WinDuel] Получает 1 [PenetrateDamageUp:`Повышение Пронзающего урона`] на следующий ход\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] (До 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1006,7 +1006,7 @@
         {
           "level": 1,
           "name": "Удар в брешь",
-          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Наносит цели 1 [Vibration:`Тремор`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 3)",
+          "desc": "[WhenUse] Итоговая сила +1 за каждые 4 единицы в сумме силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели (До 3)\n[WhenUse] Получает 3 [Breath:`Дыхания`]\n[WinDuel] Наносит цели 1 [Vibration:`Тремор`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] (До 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1032,7 +1032,7 @@
         {
           "level": 1,
           "name": "Широкий взмах",
-          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 40% больше урона\n[WinDuel] Наносит цели 2 [Vibration:`Тремора`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевго анализа`] (До 4)",
+          "desc": "[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 40% больше урона\n[WinDuel] Наносит цели 2 [Vibration:`Тремора`], а затем [VibrationExplosion:`Провоцирует его`] и понижает его счётчик на 1\n[BeforeAttack] Итоговая сила последней монеты повышается на текущее значение [WalpuTenBattleFieldKnow:`Полевого анализа`] (До 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1074,7 +1074,7 @@
         {
           "level": 1,
           "name": "Моё копьё пронзит тебя насквозь.",
-          "desc": "Итоговая сила повышается на текущее значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели (До 5)\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 30% больше урона\n[WinDuel] Наносит цели 4 [Vibration:`Тремора`] и [VibrationExplosion:`Провоцирует его`]\n[BeforeAttack] Итоговая сила последней монеты повышается на (Значение своего [WalpuTenBattleFieldKnow:`Полевго анализа`] + Значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели) (До 8)\n[EndSkill] Цель теряет [WalpuTenWedgeMarkGold:`Золотую метку 【Клин】`]",
+          "desc": "Итоговая сила повышается на текущее значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели (До 5)\n[WhenUse] Если сумма силы своего [Breath:`Дыхания`] и [Vibration:`Тремора`] на цели равна 6 и более, Сила монет +1\n[WhenUse] Получает 2 [Breath:`Дыхание`]\n[WhenUse] Все монеты этого навыка становятся [SuperCoin:`Вечными`]\n[WhenUse] Если <b>Памели</b> ещё находится на поле боя, то активирует <color=#ff6000><mark=#ff000040><b><u>[ComboSkill:`Совместное комбо`]</u></b></mark></color> с ней (Единожды за ход):\n- [WhenUse] Получает 1 [WalpuTenBattleFieldKnow:`Полевой анализ`]\n- [WhenUse] Наносит на 30% больше урона\n[WinDuel] Наносит цели 4 [Vibration:`Тремора`] и [VibrationExplosion:`Провоцирует его`]\n[BeforeAttack] Итоговая сила последней монеты повышается на (Значение своего [WalpuTenBattleFieldKnow:`Полевого анализа`] + Значение [WalpuTenWedgeMarkGold:`Золотой метки 【Клин】`] на цели) (До 8)\n[EndSkill] Цель теряет [WalpuTenWedgeMarkGold:`Золотую метку 【Клин】`]",
           "coinlist": [
             {
               "coindescs": [
